@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "FIRE DANCE",
+        "url": "https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "FIRE DANCE",
+      "url": "https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe"
       },
@@ -9606,7 +9624,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"

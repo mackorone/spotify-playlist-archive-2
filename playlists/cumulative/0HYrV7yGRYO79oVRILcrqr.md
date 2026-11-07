@@ -4,13 +4,14 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-860 songs - 2 day 5 hr 33 min
+861 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 | 2026-07-15 | 2026-08-01 |
 | [10:35](https://open.spotify.com/track/0GoJsS7cN416pkGvpnjdzI) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [10:35](https://open.spotify.com/album/0xuJo5o6ywuLQFSgKs1qDy) | 3:03 | 2026-10-12 |  |
 | [1968 \(Revolution!\)](https://open.spotify.com/track/21Ots6rJlHoUidEw23tsLy) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [1968 \(Revolution!\)](https://open.spotify.com/album/64eYAjoS73rJKask7i9SrC) | 4:16 | 2026-09-09 | 2026-09-20 |
+| [2003](https://open.spotify.com/track/5s3rIqx9O6igEokeNeHX8z) | [One Good Reason](https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK) | [2003](https://open.spotify.com/album/72MerDu3fbe4Oy9tUkDM8z) | 2:53 | 2026-11-06 |  |
 | [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 | 2026-06-06 | 2026-06-18 |
 | [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 | 2026-08-22 | 2026-09-20 |
 | [5am Concrete Floor](https://open.spotify.com/track/4SUtQ1LsaQfA61CUuBuPMo) | [Father's Love Never In Contempt](https://open.spotify.com/artist/5B3BM4VcsFv1U5qZUaJjDv) | [5am Concrete Floor](https://open.spotify.com/album/31XosuzrD8Osj85f2COxd9) | 4:40 | 2026-03-15 |  |

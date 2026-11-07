@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,825 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,854 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 41 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
 | 42 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
 | 43 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 |
-| 44 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
-| 45 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
-| 46 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
-| 47 | [Le Hace Falta un Beso](https://open.spotify.com/track/2l6muDVPIFFw4egn7DeDjz) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:53 |
+| 44 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
+| 45 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
+| 46 | [Le Hace Falta un Beso](https://open.spotify.com/track/2l6muDVPIFFw4egn7DeDjz) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:53 |
+| 47 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
 | 48 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 |
 | 49 | [Explicale](https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:06 |
 | 50 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 56 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
 | 57 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 58 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 |
-| 59 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 |
-| 60 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
+| 59 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
+| 60 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 |
 | 61 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
 | 62 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
 | 63 | [El Menú](https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Moral Distraída](https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx) | 3:18 |

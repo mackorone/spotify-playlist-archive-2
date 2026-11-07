@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2470,
+  "num_followers": 2469,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABwhk8wwBcYvPN9Qn4RK8wj",
+  "snapshot_id": "auvHAAAAAAD5vgzply1rJGTomUomb+Br",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
+      "duration_ms": 174973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
     },
     {
       "added_at": null,

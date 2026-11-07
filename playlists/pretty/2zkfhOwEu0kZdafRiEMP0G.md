@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 62 songs - 4 hr 37 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 63 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 60 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 |
 | 61 | [Will I](https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ) | [Aaron Lohr](https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR), [Wayne Wilcox](https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 2:46 |
 | 62 | [Distraction](https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:22 |
+| 63 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 |
 
-Snapshot ID: `AAAHPaEHe/cHWi+2cy6x0d9CqwmeAkwc`
+Snapshot ID: `AAAHPtxTqIMhk5GpygB6VJL985Vzi+Nk`

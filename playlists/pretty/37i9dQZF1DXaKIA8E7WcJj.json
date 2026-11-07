@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3193205,
+  "num_followers": 3193175,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 448720,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 448720,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Everything's Archie",
-        "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Sugar Sugar",
-      "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Everything's Archie",
+        "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Sugar Sugar",
+      "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
       },
@@ -1431,38 +1447,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Wimoweh!!! - The Best Of The Tokens",
         "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 162093,
       "name": "The Lion Sleeps Tonight (Wimoweh)",
       "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1587,22 +1603,6 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 177307,
       "name": "(I Left My Heart) In San Francisco",
       "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Astral Weeks",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Sweet Thing - 1999 Remaster",
+      "url": "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 217746,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "Astral Weeks",
-        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Sweet Thing - 1999 Remaster",
-      "url": "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Hang On Sloopy: The Best Of The McCoys",
-        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
-      },
-      "artists": [
-        {
-          "name": "The McCoys",
-          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Hang On Sloopy",
-      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Hang On Sloopy: The Best Of The McCoys",
+        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
+      },
+      "artists": [
+        {
+          "name": "The McCoys",
+          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Hang On Sloopy",
+      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
       "added_at": "2026-02-06 15:24:01",

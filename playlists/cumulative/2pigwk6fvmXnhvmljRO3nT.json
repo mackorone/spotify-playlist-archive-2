@@ -51130,7 +51130,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 116256,
       "name": "GNF (OKOKOK)",
       "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
@@ -85336,7 +85336,7 @@
       },
       "artists": [
         {
-          "name": "RINI",
+          "name": "Rini",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
@@ -88430,6 +88430,24 @@
       "duration_ms": 49339,
       "name": "Moonlight in Mondstadt",
       "url": "https://open.spotify.com/track/0ZHraW0fHE8br6Hw1ekRXy"
+    },
+    {
+      "album": {
+        "name": "Moonlight Romance",
+        "url": "https://open.spotify.com/album/73PtSNtuWEri2YOraGnktf"
+      },
+      "artists": [
+        {
+          "name": "DENKI SAMA",
+          "url": "https://open.spotify.com/artist/7cOgKUhsVErFDX8SkQVInK"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214673,
+      "name": "Moonlight Romance",
+      "url": "https://open.spotify.com/track/104PUNFxgHGWOJYhrX9g7l"
     },
     {
       "album": {

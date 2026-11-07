@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 60020,
+  "num_followers": 60046,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAC6zLF5CxQbAUT3LwT7nh70",
+  "snapshot_id": "aup1gAAAAAC8lJclf+avgURJhrkRm24x",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/52085LvRgtzPvV4wWps54A"
       },
       "artists": [
         {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         },
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 222828,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/3XOb28yG4xKwuUYlV8eKmS"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime - Re-Up",
+      "url": "https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj"
     },
     {
       "added_at": null,
@@ -211,22 +207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/52085LvRgtzPvV4wWps54A"
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         },
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime - Re-Up",
-      "url": "https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj"
+      "duration_ms": 222828,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/3XOb28yG4xKwuUYlV8eKmS"
     },
     {
       "added_at": null,
@@ -623,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": null,

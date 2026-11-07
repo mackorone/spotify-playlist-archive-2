@@ -1,12 +1,12 @@
 {
   "description": "www.upmusicpromotion.com &#x2F; IG: @upmusic_promotion &#x2F; promo@upmusicpromotion.com ",
-  "num_followers": 544,
+  "num_followers": 543,
   "original_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",
   "owner": {
     "name": "UP Music ProMotion",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAACldl8Z2QvW/yl2d5GjniX1ay+wXrM",
+  "snapshot_id": "AAAClyhcryeV4oL+v1XLl4P6ko7tg4qD",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -839,6 +839,38 @@
       "duration_ms": 227839,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB"
+    },
+    {
+      "added_at": "2026-11-06 11:15:06",
+      "album": {
+        "name": "No flowers for her",
+        "url": "https://open.spotify.com/album/62gbuFKHmxgk8jIWB6YVn3"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Roppa",
+          "url": "https://open.spotify.com/artist/71XHy0XkhUu9BZtDRjjTZ2"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Here, punx!",
+      "url": "https://open.spotify.com/track/1iQo9Ch0BKmoCmO4af2unQ"
+    },
+    {
+      "added_at": "2026-11-06 11:15:19",
+      "album": {
+        "name": "L\u00f2rico",
+        "url": "https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD"
+      },
+      "artists": [
+        {
+          "name": "Enrico Lotterini",
+          "url": "https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT"
+        }
+      ],
+      "duration_ms": 231479,
+      "name": "Oro e Argento",
+      "url": "https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

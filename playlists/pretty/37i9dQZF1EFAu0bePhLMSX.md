@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 114 | [We're Going All Night \(You Make Me High\)](https://open.spotify.com/track/69LjJ48xsMaTaByhXiOrIv) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 3:03 |
 | 115 | [High On Love](https://open.spotify.com/track/0xk7SvfFv1L8VbbznpurMh) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 3:50 |
 | 116 | [Lay Down for Love](https://open.spotify.com/track/6MfLM5PHg22PrtIridHfHQ) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 5:32 |
-| 117 | [Chess](https://open.spotify.com/track/5z7sBjVWCuW6HFiN8UdKjc) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [The Spell](https://open.spotify.com/album/29BaKszledT9qmq97Xa7wx) | 3:33 |
-| 118 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 117 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 118 | [Chess](https://open.spotify.com/track/5z7sBjVWCuW6HFiN8UdKjc) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [The Spell](https://open.spotify.com/album/29BaKszledT9qmq97Xa7wx) | 3:33 |
 | 119 | [BPM](https://open.spotify.com/track/3sHPa949wvS2SOVibGndoy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 4:05 |
 | 120 | [Boy](https://open.spotify.com/track/6lnnkL5dIqOBFwtGJae762) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Can't Get You out of My Head](https://open.spotify.com/album/4y4XxGQLG9O55HuhwkkvKM) | 3:48 |
 | 121 | [Sunshine](https://open.spotify.com/track/6yc2egGtCGITiF8eqUessP) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 172 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 173 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `Acg5SAAAAAButGPb+pMr7S11ETot5Yhd`
+Snapshot ID: `Acg+tgAAAAAhikWfc7NuV5enr5KPHjk8`

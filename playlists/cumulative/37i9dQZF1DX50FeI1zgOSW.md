@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-897 songs - 2 day 2 hr 40 min
+898 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Drunk in Love](https://open.spotify.com/track/0bJqSTla0hIlqPU1Rluq4H) | [FSPROD Mithu](https://open.spotify.com/artist/5eEhZnd5MmSjv35uhBZJ94) | [Drunk in Love](https://open.spotify.com/album/1igscamj2IHvOoFKKtLORC) | 3:06 | 2025-05-02 | 2025-07-24 |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 | 2024-02-01 |
 | [Dubbuku Dubakuru](https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [Denzel George](https://open.spotify.com/artist/5wl1x4rDNo22w2fCc2j1DB), [Christo G](https://open.spotify.com/artist/3on7sLyR0SJ7guvcU47liT) | [Dubbuku Dubakuru](https://open.spotify.com/album/31EtSaMTSKUc2SuRtPVqAg) | 3:27 | 2026-06-12 |  |
+| [Dumpapa](https://open.spotify.com/track/29hRTF2McBiRPU5Vp1EpPU) | [Partha](https://open.spotify.com/artist/7jbBk3iWfr9uFMAMMFaOQi), [Ashlay JC](https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt) | [Dumpapa](https://open.spotify.com/album/1X1Edptqqxvy2p5UIBkRRE) | 2:24 | 2026-11-06 |  |
 | [E.P.K.](https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [SJ Priya](https://open.spotify.com/artist/4wrd2PhUEH0MIwmWBjyMFJ) | [E.P.K.](https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE) | 2:26 | 2023-07-27 | 2024-02-10 |
 | [Edho Seidhaai](https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Edho Seidhaai](https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77) | 2:58 | 2024-10-07 | 2025-02-15 |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |

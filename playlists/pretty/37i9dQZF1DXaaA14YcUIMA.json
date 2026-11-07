@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 683926,
+  "num_followers": 684052,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
       "artists": [
         {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Me Qued\u00e9 Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Qued\u00e9 Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 240133,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "25 A\u00f1os De Fama",
+        "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Tu Tienes Que Vivir Conmigo",
+      "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Reg\u00e1lame",
         "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 158945,
       "name": "Reg\u00e1lame",
       "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "25 A\u00f1os De Fama",
-        "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Tu Tienes Que Vivir Conmigo",
-      "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Linea De Oro Contigo O Sin Ti",
         "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1843,18 +1859,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "Bendito Cielo",
+        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
         }
       ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 204669,
-      "name": "Hola Como Estas",
-      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1923,18 +1939,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+      "duration_ms": 204669,
+      "name": "Hola Como Estas",
+      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1971,18 +1987,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "El Pollo No Falla",
-        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 207173,
-      "name": "La Vi Llorar",
-      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
+      "duration_ms": 207666,
+      "name": "Me Duele Estar Solo",
+      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -2003,34 +2019,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "El Pollo No Falla",
+        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Me Duele Estar Solo",
-      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
+      "duration_ms": 207173,
+      "name": "La Vi Llorar",
+      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
     }
   ],
   "unique_name": "Romance Grupero",

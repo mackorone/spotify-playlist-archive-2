@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -458,6 +458,24 @@
       "duration_ms": 242000,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/25ip7ASFEwNGVWW0UVOF4P"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/4Lmd2hsv8w6daSmOdnti8q"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178164,
+      "name": "speak no evil",
+      "url": "https://open.spotify.com/track/1aqDEC2IbLAMdBMXUTNG8K"
     },
     {
       "album": {
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 229531,
       "name": "\u0e14\u0e49\u0e27\u0e22\u0e04\u0e27\u0e32\u0e21\u0e44\u0e21\u0e48\u0e08\u0e23\u0e34\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 323200,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32 (Lucid Dream)",
       "url": "https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4"
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e2b\u0e31\u0e27\u0e43\u0e08 (Blue)",
+        "url": "https://open.spotify.com/album/4puC3AE6IdsEnAobhKL1rC"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ben",
+          "url": "https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e2b\u0e31\u0e27\u0e43\u0e08 (Blue)",
+      "url": "https://open.spotify.com/track/4g5t8c9vJSDXJ9i4si5cfS"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e31\u0e14\u0e1e\u0e32 (When the Wind Blows)",
         "url": "https://open.spotify.com/album/2u0zzU9nb2iSS8qDBhRR9h"
       },
@@ -2034,6 +2070,24 @@
       "duration_ms": 261492,
       "name": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/7D8eiRaPyZjdn32F6y9Zo3"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e19\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e01 K-Pop",
+        "url": "https://open.spotify.com/album/0ChJ5CDXBY8ZPl4EJpbUFB"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u0e21\u0e19\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e01 K-Pop",
+      "url": "https://open.spotify.com/track/0wPICfymAfvctV7uJnlWSk"
     },
     {
       "album": {
@@ -2174,7 +2228,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 283299,
       "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
       "url": "https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69"
@@ -2794,7 +2848,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 240000,
       "name": "\u0e2d\u0e38\u0e1a\u0e31\u0e15\u0e34\u0e40\u0e2b\u0e15\u0e38",
       "url": "https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX"
@@ -2928,6 +2982,24 @@
       "duration_ms": 235000,
       "name": "\u0e40\u0e18\u0e2d\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e19\u0e30\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e48\u0e2d\u0e19\u0e41\u0e2d",
       "url": "https://open.spotify.com/track/5neprQuS9bDAGrVsuAy1uR"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
+        "url": "https://open.spotify.com/album/4xVAbW898UZa1sdpEGQK3e"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "\u0e40\u0e18\u0e2d\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
+      "url": "https://open.spotify.com/track/3DijwmPhyq5dx6QM4kYtTS"
     },
     {
       "album": {

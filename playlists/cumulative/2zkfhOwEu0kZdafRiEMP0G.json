@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Stages (Deluxe)",
+        "url": "https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239453,
+      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
+    },
+    {
+      "album": {
         "name": "Love Cheque",
         "url": "https://open.spotify.com/album/4Zk91IlxYLc11UNNkMDR3b"
       },

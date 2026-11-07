@@ -5927,24 +5927,6 @@
     },
     {
       "album": {
-        "name": "Io non sono lei",
-        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
-      },
-      "artists": [
-        {
-          "name": "Emili Kasa",
-          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165029,
-      "name": "Io non sono lei",
-      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
-    },
-    {
-      "album": {
         "name": "Io tu lei lui",
         "url": "https://open.spotify.com/album/75sgiq4mJQ9yetWJNv2HWd"
       },
@@ -8984,6 +8966,24 @@
       "duration_ms": 172377,
       "name": "Non sono io",
       "url": "https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n"
+    },
+    {
+      "album": {
+        "name": "Non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165029,
+      "name": "Non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "album": {

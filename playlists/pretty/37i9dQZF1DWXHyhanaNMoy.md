@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Issah & Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,767 likes - 70 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,775 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BADDIES IN HOLLANDA](https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [BADDIES IN HOLLANDA](https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5) | 2:05 |
-| 2 | [Track 1](https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Therapy](https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD) | 0:00 |
+| 2 | [Therapy](https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Therapy](https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD) | 2:04 |
 | 3 | [Salam](https://open.spotify.com/track/1vI3qtvWCne1G4xQQxj9Ki) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Salam](https://open.spotify.com/album/4Q7UvBzcIBynie0KAdDnOv) | 2:00 |
 | 4 | [DOE HET](https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [DOE HET](https://open.spotify.com/album/2ET6qVidGj5s8wiao4JkHj) | 2:37 |
 | 5 | [Costa](https://open.spotify.com/track/1nVIYjo1h8ujEKYr3W5QLv) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Costa](https://open.spotify.com/album/7Il0CZTpY5wuB6lbOewBC5) | 3:14 |

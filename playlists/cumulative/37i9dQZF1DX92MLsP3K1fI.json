@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! A.B Quintanilla III y Majo Aguilar en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Alleh en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173621,
       "name": "as\u00ed eres t\u00fa",
       "url": "https://open.spotify.com/track/0PTWNq1YbL9XTbDf2P7v6d"
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "carita linda ;)",
+        "url": "https://open.spotify.com/album/3al9PBD5XqE5XWYPfySKdx"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210281,
+      "name": "carita linda ;)",
+      "url": "https://open.spotify.com/track/64N5BvavEYBpPoUXglzTQL"
+    },
+    {
+      "album": {
         "name": "consuelo",
         "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157021,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
@@ -4096,6 +4114,24 @@
       "duration_ms": 228608,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1lAkPVAzytqPPhfzLUIGP7"
+    },
+    {
+      "album": {
+        "name": "WO[E]MAN",
+        "url": "https://open.spotify.com/album/7LR4oQW14ssyTyUa4QlXL1"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182949,
+      "name": "El Amor Es Aburrido",
+      "url": "https://open.spotify.com/track/5kXvOyOqtJme6oUyqDHbbZ"
     },
     {
       "album": {
@@ -6528,7 +6564,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 241500,
       "name": "La penitencia",
       "url": "https://open.spotify.com/track/5NZy3Fc6scVoSVGEiqILTd"
@@ -9151,6 +9187,24 @@
     },
     {
       "album": {
+        "name": "Nunca es tarde",
+        "url": "https://open.spotify.com/album/0odakYLhNhJVEeCCrlKepi"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Nunca es tarde",
+      "url": "https://open.spotify.com/track/0l2TJOzvFUpqGKMnQ2cdfJ"
+    },
+    {
+      "album": {
         "name": "Nunca Volvieron",
         "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
       },
@@ -10322,6 +10376,24 @@
       "duration_ms": 164374,
       "name": "prometo no llamar",
       "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
+    },
+    {
+      "album": {
+        "name": "Proyecto ambicioso",
+        "url": "https://open.spotify.com/album/3HE05CxbvAJCkBO8T4kK45"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Proyecto ambicioso",
+      "url": "https://open.spotify.com/track/2YYA4h7znUiXJJmlz0QHui"
     },
     {
       "album": {
@@ -12780,7 +12852,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 152538,
       "name": "todo va a estar bien",
       "url": "https://open.spotify.com/track/7hxPZRwf8xYbFBtHAFUVXf"
@@ -12868,7 +12940,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188358,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/5Zntx8zn5H7MGpaTsHT1VW"
@@ -13766,6 +13838,24 @@
       "duration_ms": 183021,
       "name": "WIFEY",
       "url": "https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF"
+    },
+    {
+      "album": {
+        "name": "x haberme enamorado",
+        "url": "https://open.spotify.com/album/0N5oWeFEiWEkbC0qQRY1iN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Bank",
+          "url": "https://open.spotify.com/artist/0OIuQgMshMZn2tMQEMULYD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205679,
+      "name": "x haberme enamorado",
+      "url": "https://open.spotify.com/track/73ZSOPo5qumkRI7OJpz2cc"
     },
     {
       "album": {

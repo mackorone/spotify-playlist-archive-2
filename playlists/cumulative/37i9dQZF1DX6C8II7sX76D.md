@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-384 songs - 19 hr 32 min
+385 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2021-12-03 | 2024-01-27 |
 | [Love Game](https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game](https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO) | 2:05 | 2023-10-11 | 2024-05-03 |
 | [Love Game](https://open.spotify.com/track/4n63v1rqBLTnTDVS5rkUT2) | [Bread Beatz](https://open.spotify.com/artist/15yElHCpRmrVvqdryDj2Bn) | [Love Game](https://open.spotify.com/album/52V7ZDdO7ZbenAyrWcZg4q) | 2:06 | 2023-10-11 | 2023-10-24 |
+| [Love is Gonna Save Us](https://open.spotify.com/track/0DbdwGmYsyax64LpniHfxV) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 5:04 | 2026-11-06 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-12-03 | 2024-01-27 |
 | [Love on me](https://open.spotify.com/track/2qHTaWYpcuWoOh8bZBhbrI) | [Jtbazz](https://open.spotify.com/artist/3nBrq5WZyZk1t88my2lqXc) | [Love on me](https://open.spotify.com/album/6PbMVt3SFeIQO2EaxMd32v) | 1:29 | 2024-01-08 | 2024-03-21 |
 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-12-03 | 2023-09-13 |
@@ -252,7 +253,7 @@
 | [Never Be Like You](https://open.spotify.com/track/5AWMbJ60z0NmztJ1Edl00K) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/6pFOh9PfVU4NUycoWYkEl2) | 3:54 | 2024-04-19 | 2024-05-01 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2024-01-12 | 2024-04-19 |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-12-01 | 2024-01-02 |
-| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-13 |  |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-13 | 2026-11-07 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-06-20 |  |
 | [NO WAY](https://open.spotify.com/track/2vjH6qrmEcwrvEQ5WGipUM) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [4EP1](https://open.spotify.com/album/14DuAdjZagxjhEeeEzWsaG) | 3:03 | 2021-12-03 | 2022-06-30 |
 | [Nothing Beats A Jet2 Holiday](https://open.spotify.com/track/47hfNsPZa84yKql1b54cxi) | [jet2](https://open.spotify.com/artist/04HuLS7dQ4Ay8DUsxgxtnq) | [Nothing Beats A Jet2 Holiday](https://open.spotify.com/album/1IwhF3TvrrcIexqaD5KE2d) | 0:32 | 2025-08-20 | 2025-09-21 |

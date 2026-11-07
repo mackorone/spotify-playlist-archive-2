@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,446 likes - 67 songs - 4 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,453 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 65 | [\(not\) Hard To Love](https://open.spotify.com/track/1H2N7wWdmrESclVCkq88a2) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [\(not\) Hard To Love](https://open.spotify.com/album/62wWEOz1JMT297bowmB8tf) | 4:00 |
 | 66 | [Overrated](https://open.spotify.com/track/5OUfkGbStbslpI2tHo9ljb) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [Overrated](https://open.spotify.com/album/1cOWmLcLfqKCdHEcUDNlhe) | 2:24 |
 | 67 | [FRESCO & SOLEADO](https://open.spotify.com/track/5o5zcdtReTum1l1qjWeS1S) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [FRESCO & SOLEADO](https://open.spotify.com/album/0Mx2NkaeSpuF9HCsocNagz) | 3:14 |
+| 68 | [PCH](https://open.spotify.com/track/7fwBbBWE9vwiGzEmIHw30L) | [Chaotic Hearts](https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq) | [PCH](https://open.spotify.com/album/4OozgpiLIOpwwJQQMQRivm) | 4:58 |
+| 69 | [Fantasma](https://open.spotify.com/track/4wvVNCXf1kguUIw3HhJmxb) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [Fantasma](https://open.spotify.com/album/5LJqq53VTPgWQmPA2X1osP) | 4:03 |
+| 70 | [Skoold](https://open.spotify.com/track/6aSYqXbgGESAMrx5farYZp) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [M30](https://open.spotify.com/album/76K1pVbMSisFEdPiIcoIvO) | 3:49 |
 
-Snapshot ID: `AAAHTY02Ixl9/SNRqkWmGP3NIkLqzP4x`
+Snapshot ID: `AAAHUO8wf3m1kA03ZBMYyEirxhfWr2tw`

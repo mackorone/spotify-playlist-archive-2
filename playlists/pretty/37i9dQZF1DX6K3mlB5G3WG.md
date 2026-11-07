@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Pinguini Tattici Nucleari in cover 👜  + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,308 likes - 115 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,327 likes - 115 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 8 | [My Big Secret](https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 4:31 |
 | 9 | [breaks open](https://open.spotify.com/track/2t69PxrYhMSccA0Gm8bOBa) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [breaks open](https://open.spotify.com/album/2euh0ruxHR7fI4JMAWCCCb) | 3:45 |
 | 10 | [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 |
-| 11 | [Why'd You Have To Leave](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
+| 11 | [Why'd You Have To Leave?](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave?](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
 | 12 | [Eternal](https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:36 |
 | 13 | [Vorrei essere un po’ più alto](https://open.spotify.com/track/6rjtyTMW02B0eIoaFGdw4l) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [MDMA](https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B) | 3:13 |
 | 14 | [la verità](https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [la verità](https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5) | 3:05 |
 | 15 | [ROSE NERE](https://open.spotify.com/track/3LQRj8zNgaOmzMzm4eokRF) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSE NERE](https://open.spotify.com/album/4ZZTocAQMwEHi08Hcd6HCp) | 2:24 |
 | 16 | [KINK X IL PINK](https://open.spotify.com/track/6TlY3Ck6CEWUehVfbr8Lfn) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [KINK X IL PINK](https://open.spotify.com/album/5ZrXtEhZosiraU256PD9vC) | 2:27 |
-| 17 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 17 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 18 | [controtemp0](https://open.spotify.com/track/7eBy4Oyo5skMRqra8VLLab) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [controtemp0](https://open.spotify.com/album/53EXHGufMqdit8rvXDVJP6) | 2:51 |
 | 19 | [Não tenho medo :\)](https://open.spotify.com/track/2MmIB4Z96yrGXJIY8laqbO) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Não tenho medo :\)](https://open.spotify.com/album/5zZET6cj2jCsZoyYWjMif5) | 2:09 |
 | 20 | [Ma Bébé](https://open.spotify.com/track/1vIhbnJcQcEg0GYgMucP4S) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Sensible](https://open.spotify.com/album/6tSX5lwcOgJAgjx8QkMWfw) | 2:54 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 39 | [COMO FUERA](https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COMO FUERA](https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b) | 2:48 |
 | 40 | [Rose](https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:25 |
 | 41 | [TOO SOON \(feat\. Babyface\)](https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Sweet Action II](https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4) | 2:21 |
-| 42 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 42 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 43 | [Make It Easy](https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Make It Easy](https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk) | 3:17 |
 | 44 | [Night Vision](https://open.spotify.com/track/5afeeD2PkqFC3qEez2aRto) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Old Flames](https://open.spotify.com/album/074HfcJlCLJiYzm92nVqHe) | 3:12 |
 | 45 | [Rendez\-vous in your arms](https://open.spotify.com/track/5tHdQAVrdRW6NkNDniaKY9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Rendez\-vous avec toi / Rendez\-vous in your arms](https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw) | 4:12 |

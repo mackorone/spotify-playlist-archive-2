@@ -1,6 +1,6 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2708306,
+  "num_followers": 2708163,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,22 @@
     {
       "added_at": "2026-10-23 04:00:39",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
       "added_at": "2026-10-23 04:00:39",
@@ -259,22 +263,18 @@
     {
       "added_at": "2026-10-23 04:00:39",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 213400,
-      "name": "LOVE. FEAT. ZACARI.",
-      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2026-10-23 04:00:39",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-23 04:00:39",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "added_at": "2026-10-23 04:00:39",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 143226,
       "name": "Playing Games (with Bryson Tiller) - Extended Version",
       "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
-    },
-    {
-      "added_at": "2026-10-23 04:00:39",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": "2026-10-23 04:00:39",

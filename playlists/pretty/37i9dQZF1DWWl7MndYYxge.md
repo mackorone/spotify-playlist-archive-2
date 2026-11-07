@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,136 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,124 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 10 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 11 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 12 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
-| 13 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
-| 14 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
+| 13 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
+| 14 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
 | 15 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 |
 | 16 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 17 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 51 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
 | 52 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 |
 | 53 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
-| 54 | [Such a Shame](https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Natural History \- The Very Best of Talk Talk](https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ) | 4:17 |
-| 55 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
+| 54 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
+| 55 | [Such a Shame](https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Natural History \- The Very Best of Talk Talk](https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ) | 4:17 |
 | 56 | [When the Rain Begins to Fall](https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P), [Pia Zadora](https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc) | [Greatest Hits](https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D) | 4:03 |
 | 57 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 58 | [Toute première fois](https://open.spotify.com/track/4SHIlbYaTolnXdAFAcHGY7) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Jeanne Mas](https://open.spotify.com/album/6TPcySRXzqREzKh3LaGzxn) | 4:18 |
 | 59 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
 | 60 | [You Got It](https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 3:31 |
 | 61 | [Ella, elle l'a](https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Évidemment](https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN) | 4:51 |
-| 62 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 |
-| 63 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
+| 62 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
+| 63 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 |
 | 64 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 65 | [Girls Just Want to Have Fun](https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 3:56 |
 | 66 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |

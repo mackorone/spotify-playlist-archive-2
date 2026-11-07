@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "My Country",
+        "url": "https://open.spotify.com/album/3QuiL0uxuctSXvfs2K5igd"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217256,
+      "name": "Long May You Wave",
+      "url": "https://open.spotify.com/track/5yvKeKQdhxTFQUI9aGR8Z5"
+    },
+    {
+      "album": {
         "name": "Looking for America",
         "url": "https://open.spotify.com/album/4QeN0f59QgvZ3AOl9WTaSK"
       },

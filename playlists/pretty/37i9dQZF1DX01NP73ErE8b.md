@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > le canzoni di cui siamo ossessionati 💚 Alfa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,691 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,704 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 37 | [Amateur \(feat\. Salmo\)](https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:25 |
 | 38 | [DUE SETTIMANE](https://open.spotify.com/track/5No1FtxyDFpuvroVqIOhjK) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [DUE SETTIMANE](https://open.spotify.com/album/1K9zQt6GJPwwY885MqBhHX) | 3:37 |
 | 39 | [Binari](https://open.spotify.com/track/5W2d6zo9JUzMcnpvI2Fh9D) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/6EZUFvYwPnU1brjq3fpNoF) | 2:41 |
-| 40 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 40 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 41 | [Inverno Nucleare](https://open.spotify.com/track/5nzlnFOCatMay9EiKMf0z2) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Inverno Nucleare](https://open.spotify.com/album/6PDWhey0c7JjbBw4Sj4Ayx) | 3:04 |
 | 42 | [la verità](https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [la verità](https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5) | 3:05 |
 | 43 | [Comuni Immortali](https://open.spotify.com/track/1VsUaDLGDWdaITdEB8BZmY) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Immortali](https://open.spotify.com/album/2fip0ycNIWi34aIEaderBP) | 3:27 |

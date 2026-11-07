@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,771 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,795 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 32 | [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 |
 | 33 | [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 |
 | 34 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
-| 35 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
+| 35 | [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 |
 | 36 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
-| 37 | [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 |
+| 37 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
 | 38 | [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 |
 | 39 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 | 40 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |

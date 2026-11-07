@@ -2,7 +2,7 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Ashwin Mandoth, Vivek Kiran
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Tanmay Gururaj
 
 750 songs - 1 day 18 hr 23 min
 

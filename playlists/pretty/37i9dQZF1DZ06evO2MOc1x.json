@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53601,
+  "num_followers": 53603,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACMxrYkOkcqGI7KJl9VJ492",
+  "snapshot_id": "auvHAAAAAAAHyyRTwsJWbe3J4Ig+idl/",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+      "duration_ms": 212106,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Not Cause I Wanted To",
-      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "That Song About the Midway - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 244560,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "That Song About the Midway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 240666,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
     },
     {
       "added_at": null,

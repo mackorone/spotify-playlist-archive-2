@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 32109,
+  "num_followers": 32159,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Soweto Baby (feat. DJ Buckz & Wizkid)",
         "url": "https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 258000,
       "name": "Soweto Baby (feat. Wizkid & DJ Buckz)",
       "url": "https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
     },
     {
       "added_at": "2026-06-30 14:51:43",

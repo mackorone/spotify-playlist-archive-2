@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,532 songs - 2 day 17 hr 55 min
+1,534 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Hollow](https://open.spotify.com/track/1uY36cFG5Sr7WKuWTjd6s9) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hollow](https://open.spotify.com/album/3J0mqMUXUMAeOA2yKi7Ky0) | 3:13 | 2024-07-30 | 2025-02-15 |
 | [Hollywood Hills](https://open.spotify.com/track/5Bp1F6fand86hEpzyJmVLI) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [JAGSON](https://open.spotify.com/artist/45eX8g4iK3ZT9iFhTtNBlh) | [Hollywood Hills](https://open.spotify.com/album/6mgk1rp2AJIwOrbePjo4yt) | 2:25 | 2025-10-19 | 2025-12-02 |
 | [Home](https://open.spotify.com/track/5nQZadueoD4qaWdpXazE2f) | [Klama](https://open.spotify.com/artist/7GWK6d9j0JrAUU8B55zRsY), [FIORE](https://open.spotify.com/artist/7hnQI2pJ0ha6lWAsNs35jY) | [Home](https://open.spotify.com/album/4z5c15xiddDHNd9hCSyl1w) | 3:14 | 2026-09-20 |  |
+| [Home](https://open.spotify.com/track/5HWCxkwA5qLLrBscW5HhFD) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Home](https://open.spotify.com/album/76mbt0RzaX7fKqXIBP0KvW) | 3:01 | 2026-11-06 |  |
 | [Home](https://open.spotify.com/track/23Gx8fbVQHxczAkIFEQ1Ai) | [Majesto](https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [Home](https://open.spotify.com/album/2f3hqoi96gdhdw51MBccDD) | 2:48 | 2024-10-06 | 2025-08-09 |
 | [Home](https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Bucko.](https://open.spotify.com/artist/7amYz3MYdqevjGc0hyVk4r), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Home](https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh) | 2:12 | 2024-02-02 | 2024-04-19 |
 | [Honestly](https://open.spotify.com/track/0xikytQeABwldw3dTO18kP) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Honestly](https://open.spotify.com/album/4E0K8bqbI6kXogJARmebtj) | 2:31 | 2025-04-13 | 2025-07-21 |
@@ -1400,6 +1401,7 @@
 | [Until We're Together](https://open.spotify.com/track/7gPd8N4YFAXjiQtnnQzRn9) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Until We're Together](https://open.spotify.com/album/0gerArONKXKkiCm6jdfIGB) | 2:11 | 2024-11-03 | 2025-11-03 |
 | [Up At Night](https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5) | [Up At Night](https://open.spotify.com/album/6DDnONcoqkv97XDFxc59nO) | 2:54 | 2024-07-30 | 2025-01-26 |
 | [Upside Down](https://open.spotify.com/track/5mx9adNpiWs7lPLwxGaFvU) | [Emblè](https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC), [lifevest](https://open.spotify.com/artist/76SqwU2jHw1PFG4zpG73OU) | [Upside Down](https://open.spotify.com/album/6rOohSHYA9wprHy3SumKH6) | 2:18 | 2026-01-03 | 2026-06-17 |
+| [Vertigo](https://open.spotify.com/track/7Beh2TUnja03EuKnHatkJ8) | [Nova Sol](https://open.spotify.com/artist/7BJp4lQ3gUtMLkUFgcmLLs) | [Vertigo](https://open.spotify.com/album/2bFQ86DKDZk7Qvp3w4v32P) | 2:07 | 2026-11-06 |  |
 | [Vision](https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Vision](https://open.spotify.com/album/3AYdlrrBvgLcdg60bxWaZl) | 2:16 | 2023-09-22 | 2023-12-18 |
 | [Vision](https://open.spotify.com/track/2zctpVRHCcEcSjh9RpASl4) | [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Vision](https://open.spotify.com/album/5XFXTv8s2KTfLMGUmIK1ef) | 2:45 | 2024-11-08 | 2025-01-13 |
 | [Wait For You](https://open.spotify.com/track/1zIIS0hBZbCNtxzf4DMVEX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Wait For You](https://open.spotify.com/album/14mj4pvvf0dfROmnUFy0zk) | 2:58 | 2023-12-17 | 2023-12-30 |

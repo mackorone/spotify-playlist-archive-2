@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 151470,
+  "num_followers": 151490,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -807,30 +807,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Organ Concertos, Op. 4",
-        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        }
-      ],
-      "duration_ms": 434333,
-      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
-      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel Coronation Anthems",
         "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
     },
     {
       "added_at": "2025-12-23 12:24:26",

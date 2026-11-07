@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,233 songs - 2 day 15 hr 25 min
+1,235 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Goodbye](https://open.spotify.com/track/032mY5wKypQnE3rImwNvh8) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Goodbye](https://open.spotify.com/album/12U8vTW7jtYAbmEAei5h3B) | 2:45 | 2023-08-04 | 2023-12-14 |
 | [Goosebumps](https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Goosebumps](https://open.spotify.com/album/3SqPahMunJaCgMcVYJlLTY) | 2:53 | 2023-02-17 | 2023-08-02 |
 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-07-21 | 2023-07-29 |
+| [Grounded](https://open.spotify.com/track/4W0C8JisOjZPgF6QWNdxbF) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm), [Fubu](https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96) | [Grounded](https://open.spotify.com/album/5iVqbADPkYtbGQpPXz3D1v) | 2:49 | 2026-11-06 |  |
 | [Gruvv](https://open.spotify.com/track/6aF8BgGp3jJ8K64Qb6HNgr) | [SPURI](https://open.spotify.com/artist/2NJLjJZ6xzX8mCg6aTuU1I) | [Gruvv](https://open.spotify.com/album/4WudSkGqtHmIiNmIIGBfON) | 3:34 | 2023-09-29 | 2023-12-23 |
 | [GTR](https://open.spotify.com/track/73vRJ0HtHI26ftfbgu8isu) | [Oscar N \(USA\)](https://open.spotify.com/artist/2Iftoi7IM3hKePgIb85EqG) | [GTR](https://open.spotify.com/album/0ZCU3seXSc9C5rmOn96VZj) | 2:27 | 2025-05-16 |  |
 | [Guess I Was Wrong](https://open.spotify.com/track/4KLW7WBQ0TOCFL7jf8IqHi) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Guess I Was Wrong](https://open.spotify.com/album/2i8OAc6m2EpEP2SC2oIIUN) | 3:30 | 2024-12-05 | 2025-03-14 |
@@ -1049,6 +1050,7 @@
 | [The Big Fake](https://open.spotify.com/track/10BpmIujqYT8HvsnNzrstN) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [The Big Fake](https://open.spotify.com/album/0Svzzm1IUI9RjzP5a08ikg) | 2:33 | 2024-10-24 | 2025-01-09 |
 | [The Blonde One](https://open.spotify.com/track/3NYKfmHFgGKQrHJ4SV0yLm) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [The Blonde One](https://open.spotify.com/album/2JAAf4ZPz3Arc66nASjkB6) | 2:32 | 2023-08-25 | 2023-12-23 |
 | [THE CARAVAN](https://open.spotify.com/track/6JdqSacEaOod0eWzOSmYaW) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [THE CARAVAN](https://open.spotify.com/album/5OCWUD2m9lgrHKfvrZMN3z) | 3:26 | 2023-05-05 | 2023-08-02 |
+| [The Clock \- Extended](https://open.spotify.com/track/1plmf2Izb7I43XGbxzXQ2m) | [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [The Clock](https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q) | 4:54 | 2026-11-06 |  |
 | [The Connection](https://open.spotify.com/track/5Wariiifxkc1QBGZ0xjRDB) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [The Connection](https://open.spotify.com/album/1WU8j8f9qIQwhc6IM1ZQI8) | 3:14 | 2025-10-17 |  |
 | [The Creeps \(Brent Anthony x ACT ON Remix\)](https://open.spotify.com/track/5Uaf1EEtICPX3DfRkr2eMZ) | [Camille Jones](https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC), [Brent Anthony](https://open.spotify.com/artist/7qEqQcJLyMwVbPdj9Canu9), [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz) | [The Creeps \(Brent Anthony x ACT ON Remix\)](https://open.spotify.com/album/6w4Uq9mjTFxVfFA1NXvcad) | 3:04 | 2023-08-17 | 2023-12-14 |
 | [The Cure & The Cause \- Idris Elba Remix](https://open.spotify.com/track/5vS0cIS1Z8RIXfEjcrJ4HC) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [The Cure & The Cause \(Idris Elba Remix\)](https://open.spotify.com/album/2j5r7bFJPHBDrlsySsGF3v) | 3:29 | 2024-02-09 | 2024-10-11 |

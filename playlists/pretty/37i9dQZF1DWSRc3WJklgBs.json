@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1250763,
+  "num_followers": 1250724,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "ORIGIN //",
-        "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
-        }
-      ],
-      "duration_ms": 274090,
-      "name": "Stay For Love",
-      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Everything, Briefly",
         "url": "https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 149050,
       "name": "Promise You",
       "url": "https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "ORIGIN //",
+        "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 274090,
+      "name": "Stay For Love",
+      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/4JP4Z5Koal38qFcSVcYE8H"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 250589,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/2nvKJylXIc5qUTOkCCILPp"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/4JP4Z5Koal38qFcSVcYE8H"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 250589,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/2nvKJylXIc5qUTOkCCILPp"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Sound of You (ft TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "WITH ME",
         "url": "https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 183271,
       "name": "WITH ME",
       "url": "https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/1Bgz0B8mKklpAzGS0zHXJj"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Lyves",
-          "url": "https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t"
-        }
-      ],
-      "duration_ms": 296100,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/6YIEMuhUumzkipjCtUdRjN"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 159387,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/1Bgz0B8mKklpAzGS0zHXJj"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Lyves",
+          "url": "https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t"
+        }
+      ],
+      "duration_ms": 296100,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/6YIEMuhUumzkipjCtUdRjN"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Waste my time",
-        "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 268359,
-      "name": "Waste my time",
-      "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Waste my time",
+        "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 268359,
+      "name": "Waste my time",
+      "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Sentimental Ultra",
-        "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "Spriitzz",
-          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Sentimental Ultra",
-      "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 259480,
       "name": "Return to Ojai",
       "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Sentimental Ultra",
+        "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Sentimental Ultra",
+      "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "All In For You (feat. KU\u010cKA)",
-        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 174566,
-      "name": "All In For You (feat. KU\u010cKA)",
-      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "thinkin bout u",
         "url": "https://open.spotify.com/album/0F0x6VOHnHEWOiPhqAcEAK"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 218854,
       "name": "thinkin bout u",
       "url": "https://open.spotify.com/track/7cKk67Ej2gfP1tnrcA6hje"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lGxKoO5OJLcV7ZgKvuv1G"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 287266,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 208039,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-10-16 04:01:12",
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2026-10-16 04:01:12",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-10-16 04:01:12",
-      "album": {
         "name": "still my ecstasy",
         "url": "https://open.spotify.com/album/1bVkaUfxcY95LEuw1DngnD"
       },
@@ -2651,6 +2631,26 @@
       "duration_ms": 272769,
       "name": "still my ecstasy",
       "url": "https://open.spotify.com/track/2X3wZs9oHBDnN4MIMSFepV"
+    },
+    {
+      "added_at": "2026-10-16 04:01:12",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-10-16 04:01:12",

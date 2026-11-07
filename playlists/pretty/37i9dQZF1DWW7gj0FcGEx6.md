@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,251 likes - 318 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,414 likes - 318 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 2 | [The Raid](https://open.spotify.com/track/3ckD45qgJYkE1ocxDdXUaD) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Marcus Trumpp](https://open.spotify.com/artist/1O20rSPKDFrFpebGumaJ4k), [Tristan Beltrami](https://open.spotify.com/artist/7N19ZhSBOsn9H5ZXBluuzS) | [Quasimodo, l'âme de Paris \(Bande originale du film Netflix\)](https://open.spotify.com/album/1LfLNudQwgSWEWy52WxFuA) | 5:24 |
 | 3 | [What Happened](https://open.spotify.com/track/00Kb9XBwXPLbab5j9fyWi5) | [Joni Fuller](https://open.spotify.com/artist/1yuRLBj3cMO3LKwL98LMrw) | [Death of the Pastor's Wife \(Soundtrack from the Netflix Documentary Series\)](https://open.spotify.com/album/7KcObpC4Q1TGbsSbIk5j6T) | 1:58 |
 | 4 | [Godzilla\-0.0 Eclipse](https://open.spotify.com/track/6p8Tl8qfinM16y9TGNwco1) | [Naoki Sato](https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80) | [Godzilla Minus Zero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tg9Qofe4L213rZ9oiIftC) | 5:29 |
-| 5 | [Track 2](https://open.spotify.com/track/2KJWybIHyAH4aPA9bUVJBp) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Musk Vol.1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VWYRFKaZHnfRZpQE62PGo) | 0:00 |
+| 5 | [Connections](https://open.spotify.com/track/2KJWybIHyAH4aPA9bUVJBp) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Musk Vol.1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VWYRFKaZHnfRZpQE62PGo) | 4:26 |
 | 6 | [The Brave \(feat\. Rebekah Higgs\)](https://open.spotify.com/track/34fXqqpgeS9HbVBCK2Zyt3) | [Trevor Yuile](https://open.spotify.com/artist/5M0jUxPRzeOuhtiirkZX5i), [Rebekah Higgs](https://open.spotify.com/artist/4AbMkPGO7rPqUT5Qko7haA) | [Yaga \(Original Series Soundtrack\)](https://open.spotify.com/album/1BdBIBpVtrfv3lUr6jWa8G) | 2:24 |
 | 7 | [Festival Of Light](https://open.spotify.com/track/6BTjAfNoRozk1calFWWWgv) | [Samukelo Mahlalela](https://open.spotify.com/artist/0HCxY2HjVENdX1wN0TGOwN) | [How to Ruin Diwali: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6yPTe6LAj9KOzsZo0Xwkui) | 1:09 |
 | 8 | [Colisión](https://open.spotify.com/track/2Y5UvVkkG1d2g017O5hmLB) | [Federico Jusid](https://open.spotify.com/artist/4Bjfwb6PiXwqru4DHOMwIq), [Lorenzo Perelmuter](https://open.spotify.com/artist/4OhXYpLonn8vkeJLcMCqcs) | [Colisión \(Banda sonora de la película de Netflix\)](https://open.spotify.com/album/3JGkN5bXQBC0mL16iHkvvF) | 2:11 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAC+nrAPHIOQX9fyllAbpAfp",
+  "snapshot_id": "aup1gAAAAABwtNRUO9WC98f4IvZWTN/K",
   "tracks": [
     {
       "added_at": null,
@@ -270,15 +270,11 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
         }
       ],
-      "duration_ms": 191321,
-      "name": "F\u00f4lego",
-      "url": "https://open.spotify.com/track/1FjcBugV11Y0UE3skTkVHw"
+      "duration_ms": 187797,
+      "name": "Segunda",
+      "url": "https://open.spotify.com/track/2GtpQls3cDvqp1B99veHAR"
     },
     {
       "added_at": null,
@@ -346,11 +342,15 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
         }
       ],
-      "duration_ms": 187797,
-      "name": "Segunda",
-      "url": "https://open.spotify.com/track/2GtpQls3cDvqp1B99veHAR"
+      "duration_ms": 191321,
+      "name": "F\u00f4lego",
+      "url": "https://open.spotify.com/track/1FjcBugV11Y0UE3skTkVHw"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Can See the Sun",
         "url": "https://open.spotify.com/album/1Zl4jJDpUsQ8s7fMsJSF77"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quintess\u00eancia",
         "url": "https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 187498,
       "name": "Blaxploitation",
       "url": "https://open.spotify.com/track/4P3edMcTq5gKFc0Mn4vRzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/7uO9qHPMCClOTgJv57Im6A"
     },
     {
       "added_at": null,
@@ -543,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carne Dura",
+        "url": "https://open.spotify.com/album/53ZKVSwUCw6pi05tQjyk6I"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Carne Dura",
+      "url": "https://open.spotify.com/track/06gzFCzshpNspfb0UUdt7O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
       },
@@ -559,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carne Dura",
-        "url": "https://open.spotify.com/album/53ZKVSwUCw6pi05tQjyk6I"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
       },
       "artists": [
         {
@@ -568,9 +600,29 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 209476,
-      "name": "Carne Dura",
-      "url": "https://open.spotify.com/track/06gzFCzshpNspfb0UUdt7O"
+      "duration_ms": 348097,
+      "name": "HORA DOURADA",
+      "url": "https://open.spotify.com/track/3tMYT2mytJrmAZMm2SMjlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Manoela Fortuna",
+          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Sem Distra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
     },
     {
       "added_at": null,
@@ -599,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
       },
@@ -624,25 +660,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348097,
-      "name": "HORA DOURADA",
-      "url": "https://open.spotify.com/track/3tMYT2mytJrmAZMm2SMjlT"
+      "duration_ms": 177920,
+      "name": "Fa\u00e7a a Coisa Certa",
+      "url": "https://open.spotify.com/track/0FNKTwW1fXWSS8LSJCJzC4"
     },
     {
       "added_at": null,
@@ -656,13 +676,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Shuna",
-          "url": "https://open.spotify.com/artist/13y9HXfV59Fz8veP17VvME"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 141818,
-      "name": "De Longe",
-      "url": "https://open.spotify.com/track/6efKG3I9R3Ygr0CPnOrUEO"
+      "duration_ms": 196981,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/3LmvNq6ttDNQff9Jr2NwjO"
     },
     {
       "added_at": null,
@@ -676,25 +696,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 313714,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Nuvens",
-      "url": "https://open.spotify.com/track/7uO9qHPMCClOTgJv57Im6A"
+      "duration_ms": 272010,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
     },
     {
       "added_at": null,
@@ -723,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti"
       },
@@ -732,13 +752,29 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Shuna",
+          "url": "https://open.spotify.com/artist/13y9HXfV59Fz8veP17VvME"
         }
       ],
-      "duration_ms": 196981,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/3LmvNq6ttDNQff9Jr2NwjO"
+      "duration_ms": 141818,
+      "name": "De Longe",
+      "url": "https://open.spotify.com/track/6efKG3I9R3Ygr0CPnOrUEO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pref\u00e1cio",
+        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 313020,
+      "name": "Pref\u00e1cio",
+      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
     },
     {
       "added_at": null,
@@ -759,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA"
+        "name": "Brilha Igual Sol",
+        "url": "https://open.spotify.com/album/130sbXP7PkXlkBXEwk3HvB"
       },
       "artists": [
         {
@@ -768,25 +804,29 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 177920,
-      "name": "Fa\u00e7a a Coisa Certa",
-      "url": "https://open.spotify.com/track/0FNKTwW1fXWSS8LSJCJzC4"
+      "duration_ms": 264800,
+      "name": "Brilha Igual Sol",
+      "url": "https://open.spotify.com/track/0ovVBebdTrWQaCFhyTiEBI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pref\u00e1cio",
-        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
+        "name": "Luzes",
+        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
       },
       "artists": [
+        {
+          "name": "RND",
+          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
+        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 313020,
-      "name": "Pref\u00e1cio",
-      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
+      "duration_ms": 191492,
+      "name": "Luzes",
+      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
     },
     {
       "added_at": null,
@@ -815,42 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brilha Igual Sol",
-        "url": "https://open.spotify.com/album/130sbXP7PkXlkBXEwk3HvB"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Brilha Igual Sol",
-      "url": "https://open.spotify.com/track/0ovVBebdTrWQaCFhyTiEBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Monique Brito",
-          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
-        }
-      ],
-      "duration_ms": 319485,
-      "name": "TELA EM BRANCO",
-      "url": "https://open.spotify.com/track/2V0z8hfRWWp2DIMCqRgNtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicodelic",
         "url": "https://open.spotify.com/album/3g1uWFRm32psHxaDZD0N1Q"
       },
@@ -875,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Monique Brito",
+          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
+        }
+      ],
+      "duration_ms": 319485,
+      "name": "TELA EM BRANCO",
+      "url": "https://open.spotify.com/track/2V0z8hfRWWp2DIMCqRgNtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti"
       },
@@ -887,26 +911,6 @@
       "duration_ms": 158117,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/7nG2vsMFNE9W4McyrQu7BF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luzes",
-        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
-      },
-      "artists": [
-        {
-          "name": "RND",
-          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 191492,
-      "name": "Luzes",
-      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
     },
     {
       "added_at": null,
@@ -971,30 +975,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Rimo Por Grammys",
-        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
       },
       "artists": [
         {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Yangprj",
-          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
         }
       ],
-      "duration_ms": 125648,
-      "name": "N\u00e3o Rimo Por Grammys",
-      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
     }
   ],
   "unique_name": "This Is Zudizilla",

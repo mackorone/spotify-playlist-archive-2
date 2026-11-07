@@ -2499,6 +2499,32 @@
     },
     {
       "album": {
+        "name": "Emani Varninchanu (From \"Srirastu\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1wOWtr8pmJ6Rn3IbLeLY4I"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205033,
+      "name": "Emani Varninchanu (From \"Srirastu\") [TELUGU]",
+      "url": "https://open.spotify.com/track/1sy2whjGX4KRR7C1JaELSD"
+    },
+    {
+      "album": {
         "name": "Emo Emo (From \"Krishna Leela\")",
         "url": "https://open.spotify.com/album/5mHb2OYjyENZwsKlHnZfb5"
       },
@@ -7328,7 +7354,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 230232,
       "name": "Nanne Nanne (From \"The Maze\")",
       "url": "https://open.spotify.com/track/6kPBFJVML1tuYOTtqwtzQo"
@@ -7680,7 +7706,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 239999,
       "name": "Nee Venake (From \"Red Bag\")",
       "url": "https://open.spotify.com/track/6qPChRVAvbYmgaCyHGga5O"
@@ -8450,6 +8476,32 @@
       "duration_ms": 192841,
       "name": "Nuvve Nuvve (From \"Sapta Sagaralu Dhaati - Side B\")",
       "url": "https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75"
+    },
+    {
+      "album": {
+        "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+        "url": "https://open.spotify.com/album/1gYdMWlOmCNIPgNOt4jZKs"
+      },
+      "artists": [
+        {
+          "name": "BV Harsha",
+          "url": "https://open.spotify.com/artist/5iQlmpnrNkPpXWvclKqXCc"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Vijay Evana",
+          "url": "https://open.spotify.com/artist/0Ox5rB4Z1phGeUIhCYqR0x"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+      "url": "https://open.spotify.com/track/1OWu4YDF4EIrQRbDX6IHqi"
     },
     {
       "album": {

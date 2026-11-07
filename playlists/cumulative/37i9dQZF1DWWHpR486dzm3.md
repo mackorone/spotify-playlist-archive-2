@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,231 songs - 3 day 1 hr 30 min
+1,231 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,6 +1021,7 @@
 | [Tahiti](https://open.spotify.com/track/0FnRnWgqsd3BoDm40GE0It) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Tahiti](https://open.spotify.com/album/45EVLQVbECsj1VSTMoFsxl) | 3:56 | 2025-06-05 | 2025-08-30 |
 | [Tahtoisin pysähtyy](https://open.spotify.com/track/4JHgWRwBMfExAZeJ2KLGyq) | [Valkea](https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw) | [Tahtoisin pysähtyy](https://open.spotify.com/album/68YEKnRIcfWbbyGuh7uLTR) | 6:25 | 2025-10-02 | 2025-11-07 |
 | [Taikapoika](https://open.spotify.com/track/3f5LXwrlbNb3CvihQ5TPGU) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Taikapoika](https://open.spotify.com/album/5z6FCDjdXU1i030uVVNQih) | 3:05 | 2025-09-25 | 2026-03-06 |
+| [Taistele, pakene](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 2:50 | 2026-11-05 |  |
 | [Taivas](https://open.spotify.com/track/2LUVh9OPFsU0RzuD9DwyN5) | [Ingrid Yö](https://open.spotify.com/artist/2l7Rq7855OXri8OKVJG16z) | [Taivas](https://open.spotify.com/album/1vTab6HyRUGMtMuGHw3GCo) | 3:49 | 2025-10-23 | 2026-05-29 |
 | [Takaisin kotiin](https://open.spotify.com/track/4tuph92sQPUpQ12G0glAj7) | [Lahtine](https://open.spotify.com/artist/4MkafptO9S9Fj4gvZEyWiS) | [Takaisin kotiin](https://open.spotify.com/album/4yrXXYyk6tKeIJLPxz2bfs) | 4:10 | 2024-07-11 | 2024-09-06 |
 | [Takas kotiin](https://open.spotify.com/track/11zeVaZbLC6B7z26mp0H1D) | [Samuli Heimo](https://open.spotify.com/artist/0y9v1aZtpENgyB9VlYoBeW) | [Takas kotiin](https://open.spotify.com/album/3DRyHlOSA8YDEEMoIjnZxs) | 3:42 | 2026-04-30 |  |
@@ -1080,7 +1081,6 @@
 | [Touch Me](https://open.spotify.com/track/6QjHL2PQGYydnDvp07PnWt) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Touch Me](https://open.spotify.com/album/3b09iTgziOlkDjKXir4jzN) | 2:49 | 2025-03-20 | 2025-04-04 |
 | [toukokuu](https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [toukokuu](https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x) | 1:31 | 2026-05-21 |  |
 | [toxic](https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i) | [hachiko](https://open.spotify.com/artist/4ol2mWmR50f4cjW5QkIbpk) | [toxic](https://open.spotify.com/album/6LIqO4wBWPgbTV3SbuPouX) | 2:01 | 2024-07-02 | 2024-08-16 |
-| [Track 8](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 0:00 | 2026-11-05 |  |
 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 | 2024-09-12 | 2024-10-25 |
 | [Tuhkaa](https://open.spotify.com/track/4814VWnOYwmaI9bsQOniK2) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Tuhkaa](https://open.spotify.com/album/6emBmpZS24ZFZ9JdCmROmh) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Tuhma kuva](https://open.spotify.com/track/2B55MJg3Zc9cO7gabvInUe) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Tuhma kuva](https://open.spotify.com/album/0pQMxapTVJ21Jy31gJiJGP) | 4:49 | 2024-08-29 | 2024-09-20 |

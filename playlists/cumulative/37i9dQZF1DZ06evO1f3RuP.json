@@ -630,6 +630,24 @@
     {
       "album": {
         "name": "not safe",
+        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
+    },
+    {
+      "album": {
+        "name": "not safe",
         "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },
       "artists": [
@@ -640,7 +658,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 136686,
       "name": "not safe",
       "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"

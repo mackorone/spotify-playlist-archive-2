@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: mindfreakk! (Thailand)",
+  "description": "Hottest indie sounds from Asia. Cover: Galdive (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154184,
       "name": "\"RBF\"",
       "url": "https://open.spotify.com/track/6c1TnJhCNqGo77QjcJLFG2"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219892,
       "name": "A Dream That Felt So Real",
       "url": "https://open.spotify.com/track/1C1QP6LxVmK42sVCLgKKjg"
@@ -6731,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "dinner4two",
+        "url": "https://open.spotify.com/album/0Yl3eViiYwMmgkiwDIWSPm"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "call back",
+      "url": "https://open.spotify.com/track/7LjB65lhMbIUWkf0hd6jtM"
+    },
+    {
+      "album": {
         "name": "Call It A Day",
         "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
       },
@@ -7066,7 +7084,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 298500,
       "name": "carefree",
       "url": "https://open.spotify.com/track/0bfQGykryWLoSnsNhzm0lu"
@@ -11097,6 +11115,32 @@
     },
     {
       "album": {
+        "name": "Dogs Are Always True",
+        "url": "https://open.spotify.com/album/4jgjGVmRo4IoGyUfMPRqPa"
+      },
+      "artists": [
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        },
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207701,
+      "name": "Dogs Are Always True",
+      "url": "https://open.spotify.com/track/41XeJOtOSCjEg0ftYg6aO2"
+    },
+    {
+      "album": {
         "name": "Doll",
         "url": "https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3"
       },
@@ -14804,7 +14848,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 258000,
       "name": "Forest",
       "url": "https://open.spotify.com/track/6Yk3Q1wWdPB5RJksJfPqpx"
@@ -16502,7 +16546,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 193987,
       "name": "GPT",
       "url": "https://open.spotify.com/track/6RCuBCzEII87rTfapZFfT0"
@@ -19170,7 +19214,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 208111,
       "name": "I CAN SEE EVERYTHING",
       "url": "https://open.spotify.com/track/7hg0DCXLW6A6jOZzxr8tvz"
@@ -21030,6 +21074,28 @@
       "duration_ms": 163874,
       "name": "In Love",
       "url": "https://open.spotify.com/track/6YbbP3KeuaWkp1rfeTc5sp"
+    },
+    {
+      "album": {
+        "name": "In Love (feat. \u5289\u6200)",
+        "url": "https://open.spotify.com/album/6H5aQlXEx1lohueLJ13FF8"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        },
+        {
+          "name": "\u5289\u6200",
+          "url": "https://open.spotify.com/artist/0dwO6ofuTjl6F0pm7X9zub"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "In Love (feat. \u5289\u6200)",
+      "url": "https://open.spotify.com/track/2jjtptPQq63JeLQnqpIKyx"
     },
     {
       "album": {
@@ -24915,7 +24981,7 @@
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 380549,
+      "duration_ms": 382360,
       "name": "losing day",
       "url": "https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG"
     },
@@ -26541,6 +26607,24 @@
     },
     {
       "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/4Lmd2hsv8w6daSmOdnti8q"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260709,
+      "name": "maybesome",
+      "url": "https://open.spotify.com/track/2mfCdqiiVaPrrpRzx8KHu9"
+    },
+    {
+      "album": {
         "name": "Mayflower",
         "url": "https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ"
       },
@@ -26704,7 +26788,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 230333,
       "name": "Melayang",
       "url": "https://open.spotify.com/track/61LkdLYN1uMt4hpe59r2kJ"
@@ -29813,6 +29897,24 @@
     },
     {
       "album": {
+        "name": "No Angry Man",
+        "url": "https://open.spotify.com/album/6q9Krp2XyjtOlPf9FtOQ64"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "No Angry Man",
+      "url": "https://open.spotify.com/track/1AxZo7iecL3hpXj5HgRUaB"
+    },
+    {
+      "album": {
         "name": "Lost Humanity",
         "url": "https://open.spotify.com/album/7BtGOVpYZMEyqiPpLqgPEP"
       },
@@ -30687,6 +30789,24 @@
     },
     {
       "album": {
+        "name": "O725",
+        "url": "https://open.spotify.com/album/5I1bkY8neyfcM5G5Kto6rE"
+      },
+      "artists": [
+        {
+          "name": "OHAN",
+          "url": "https://open.spotify.com/artist/4Z5HJS9e9zr2DWHaNGMJX4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299814,
+      "name": "O725",
+      "url": "https://open.spotify.com/track/3k1HjJNcPm77vblFNDtXmo"
+    },
+    {
+      "album": {
         "name": "Object Of My Affliction",
         "url": "https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5"
       },
@@ -30882,7 +31002,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210177,
       "name": "OK, OK",
       "url": "https://open.spotify.com/track/5roPC5jkJBa04hCzjXNgFx"
@@ -32602,7 +32722,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 243501,
       "name": "Peppa\u2019s summer",
       "url": "https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo"
@@ -39409,6 +39529,24 @@
     },
     {
       "album": {
+        "name": "What the Body Remembers",
+        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254081,
+      "name": "Still a body",
+      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
+    },
+    {
+      "album": {
         "name": "HOME EP2",
         "url": "https://open.spotify.com/album/4q6D86npG6QRhmSb9LxXI0"
       },
@@ -40558,7 +40696,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 261786,
       "name": "Super Shine",
       "url": "https://open.spotify.com/track/3RF64EPmi4SjigN9aa9Vk3"
@@ -41195,6 +41333,24 @@
     },
     {
       "album": {
+        "name": "Tak Peduli",
+        "url": "https://open.spotify.com/album/5Ol1TjHRJ2RzuYgoDfvgzn"
+      },
+      "artists": [
+        {
+          "name": "Indische Party",
+          "url": "https://open.spotify.com/artist/2oKg78fkes6YHMRk4I8aAa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Tak Peduli",
+      "url": "https://open.spotify.com/track/19gaUQ6IJlpKw7BH5mPo59"
+    },
+    {
+      "album": {
         "name": "Takbir Terdengar Kejam",
         "url": "https://open.spotify.com/album/5eWIvRYmwWeZ8mS5qC6Qt8"
       },
@@ -41636,6 +41792,24 @@
       "duration_ms": 210138,
       "name": "tears",
       "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
+    },
+    {
+      "album": {
+        "name": "In Between Things",
+        "url": "https://open.spotify.com/album/1MIDILomu9KJlUJ2iIUClX"
+      },
+      "artists": [
+        {
+          "name": "Good Luck Chuck",
+          "url": "https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Techno Love",
+      "url": "https://open.spotify.com/track/5DiST2Vg8zXS7YcCmdl7kC"
     },
     {
       "album": {
@@ -44046,6 +44220,24 @@
       "duration_ms": 157000,
       "name": "Toxicated",
       "url": "https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE"
+    },
+    {
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/0e27fGyK96o3H2zGv2WKNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193278,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/5b9sdOfsG30qP4ig5zYwDh"
     },
     {
       "album": {

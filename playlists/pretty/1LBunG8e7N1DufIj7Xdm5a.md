@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,509 songs - 12 day 19 hr 30 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,520 songs - 12 day 20 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5517,5 +5517,16 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5507 | [The Underneath](https://open.spotify.com/track/28rqafGMpbah0vMGwkOzRi) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [The Underneath](https://open.spotify.com/album/6lscr1T7sdX5bnaMd4ISs7) | 3:47 |
 | 5508 | [Mene Kiya](https://open.spotify.com/track/6xQqenRH7b2TmiFAKlsrku) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Mene Kiya](https://open.spotify.com/album/7rX71mVjeu6PNMV1pUumUi) | 3:25 |
 | 5509 | [Raaton Main](https://open.spotify.com/track/7FZNudaYzSslPVo7UQup8w) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Raaton Main](https://open.spotify.com/album/1GaOQrexSJ6KtWMXZGrNWv) | 2:42 |
+| 5510 | [Coração De Pedra \- Ao Vivo](https://open.spotify.com/track/2zDUd6KPubRLBI1gZgJFeD) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc) | [MARD10TA \- Marditos e Idiotas desde 2016 \(Ao Vivo\)](https://open.spotify.com/album/3PNwSv0xYySpPtamC5DH2e) | 5:14 |
+| 5511 | [ハイウェイ \- Mega Man X Highway Vocal Version](https://open.spotify.com/track/1Mqk9XNrbhmPF9TERthRRO) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [ハイウェイ \(Mega Man X Highway Vocal Version\)](https://open.spotify.com/album/5fATz88iOKhMOwQcysyPH1) | 3:48 |
+| 5512 | [Chill Penguin Mega Man X \- Vocal Version](https://open.spotify.com/track/2PzmF4USfHvennD23KZ5DV) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Chill Penguin Mega Man X \(Vocal Version\)](https://open.spotify.com/album/2N2h8LaoNxbAfq0BKgG9Mb) | 2:55 |
+| 5513 | [Un Instant](https://open.spotify.com/track/4U4or2vzNiblQa6RX5pdn2) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Un Instant](https://open.spotify.com/album/61lbQnoTQLAPYH60zCC3Wv) | 2:58 |
+| 5514 | [JIJ KAN DIT](https://open.spotify.com/track/4IcV9YhzhxTEL8nUDre07c) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [JIJ KAN DIT](https://open.spotify.com/album/24ZYIfcCP6RlAF8cV4WkCr) | 1:44 |
+| 5515 | [She Blurs the Lines](https://open.spotify.com/track/0mIL31CZpI42OVkUq7ev30) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [She Blurs the Lines](https://open.spotify.com/album/2nrWCDtVEsVNeoo2LvKMA1) | 3:57 |
+| 5516 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
+| 5517 | [Martes, amanecer](https://open.spotify.com/track/7J8sbMhqg08tlvpo3TitpB) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Martes](https://open.spotify.com/album/6sjcbi4wqeFuvWQ4NnxZi9) | 3:10 |
+| 5518 | [Martes, atardecer](https://open.spotify.com/track/7jXtZCBzdGY2wfHcgEDDXh) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Martes](https://open.spotify.com/album/6sjcbi4wqeFuvWQ4NnxZi9) | 3:03 |
+| 5519 | [Un Beso Y Una Flor \- Remastered 2016](https://open.spotify.com/track/09qvq80v8zA09IO6ZjlpT9) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Un Beso Y Una Flor \(Remastered 2016\)](https://open.spotify.com/album/6SYPs53xUd7uIZs348nOvc) | 4:30 |
+| 5520 | [Luz](https://open.spotify.com/track/7KLQ3aAuSsdImrjGI7yq4u) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Luz](https://open.spotify.com/album/7lF9TcZy5zAlcYTUbIqtl8) | 2:54 |
 
-Snapshot ID: `AAAK7ZH3tK/yeUPYUXNE10ubZkXSLRwX`
+Snapshot ID: `AAAK+Eq3Q/bnpmEDgHY3lFrryw1rs/iU`

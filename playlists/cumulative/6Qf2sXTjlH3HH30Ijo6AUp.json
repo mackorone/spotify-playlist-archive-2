@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 187024,
       "name": "20 Missed Calls",
       "url": "https://open.spotify.com/track/3PM0ucIojpYc5IwzCK2m7e"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232468,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6IlndvOS9bIQjfYBxYAkG3"
+    },
+    {
+      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155239,
       "name": "Everything Always Now",
       "url": "https://open.spotify.com/track/19CZMgx8f9uWM1dy77BImp"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 164262,
       "name": "I Close My Eyes",
       "url": "https://open.spotify.com/track/7KsrV96ri4d2q0sdEZdp9s"
@@ -4411,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Let It Flood",
+        "url": "https://open.spotify.com/album/12GX41Mln6R7JtT1EnTI03"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260554,
+      "name": "Let It Flood",
+      "url": "https://open.spotify.com/track/663zHvk5Dgp3aVE8UILFci"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1mMwqyaq9KU1IcS5RJo1uJ"
       },
@@ -5151,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "My Sweet Lord",
+        "url": "https://open.spotify.com/album/1drMHKgsYslSPYOlCAEXrp"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256629,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/7LGQdl1sb4GYqbMA1jgEXx"
+    },
+    {
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -5792,6 +5846,24 @@
       "duration_ms": 195099,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0JnXg5Aj8ee0gCcoY6LZw6"
+    },
+    {
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1Sa3wZyxZ8aNsbdYftLj8l"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/6CNCGWiVR5NUZFtZMQxQBe"
     },
     {
       "album": {
@@ -8260,6 +8332,24 @@
       "duration_ms": 148695,
       "name": "Weight On Me",
       "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
+    },
+    {
+      "album": {
+        "name": "What Makes You Beautiful",
+        "url": "https://open.spotify.com/album/71pzQlX24Lbp2nW4miKybR"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/4AlqLdjdUBYpDV37jR1Wm6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201806,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/3c4RoSCwI819I23g0JJX1S"
     },
     {
       "album": {

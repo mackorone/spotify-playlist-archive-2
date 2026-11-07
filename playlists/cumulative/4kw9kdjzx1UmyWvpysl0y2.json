@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "DANCE DISRUPTOR",
+        "url": "https://open.spotify.com/album/0oz0f2csE01RZJU4NfEB4J"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237510,
+      "name": "AVENUES",
+      "url": "https://open.spotify.com/track/6MjhoglMGvyrMp7ddeudwU"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I"
       },

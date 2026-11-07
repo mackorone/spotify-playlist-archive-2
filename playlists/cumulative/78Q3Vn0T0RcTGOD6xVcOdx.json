@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "No flowers for her",
+        "url": "https://open.spotify.com/album/62gbuFKHmxgk8jIWB6YVn3"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Roppa",
+          "url": "https://open.spotify.com/artist/71XHy0XkhUu9BZtDRjjTZ2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Here, punx!",
+      "url": "https://open.spotify.com/track/1iQo9Ch0BKmoCmO4af2unQ"
+    },
+    {
+      "album": {
         "name": "Hipnotizarme",
         "url": "https://open.spotify.com/album/0cjHarKYnFnnBto8WmknSQ"
       },
@@ -4662,6 +4680,24 @@
       "duration_ms": 187344,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/5khCPjZWiOFb8HoMWyG1vL"
+    },
+    {
+      "album": {
+        "name": "L\u00f2rico",
+        "url": "https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD"
+      },
+      "artists": [
+        {
+          "name": "Enrico Lotterini",
+          "url": "https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231479,
+      "name": "Oro e Argento",
+      "url": "https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 546322,
+  "num_followers": 546432,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
-        "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
-      },
-      "artists": [
-        {
-          "name": "Shallow Alcove",
-          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
-      "url": "https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+        "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+      "url": "https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Light That Match",
+        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
+      },
+      "artists": [
+        {
+          "name": "Down Like Silver",
+          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Light That Match",
+      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -971,22 +987,6 @@
       "duration_ms": 287999,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Light That Match",
-        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
-      },
-      "artists": [
-        {
-          "name": "Down Like Silver",
-          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Light That Match",
-      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "just us",
-        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "just us",
-      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Humble & Kind",
-      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Made Of Stars",
         "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 196296,
       "name": "Made of Stars",
       "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Humble & Kind",
+      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "I Can See The Future",
         "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
@@ -1551,22 +1535,34 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Sentimental (Reimagined)",
-        "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
       "artists": [
         {
-          "name": "Dillan Witherow",
-          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
-        },
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Sentimental (Reimagined)",
-      "url": "https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM"
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+        "name": "Sentimental (Reimagined)",
+        "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Dillan Witherow",
+          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
+        },
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+      "duration_ms": 183333,
+      "name": "Sentimental (Reimagined)",
+      "url": "https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Never Meant",
-        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Never Meant",
-      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "This Heart",
         "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Never Meant",
+        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Mending Song",
         "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 229560,
       "name": "Mending Song",
       "url": "https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
+        "name": "How Did It Seem To You?",
+        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
         }
       ],
-      "duration_ms": 235593,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
     }
   ],
   "unique_name": "Soft & Slow",

@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 456627,
+  "num_followers": 456638,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "Lights Burn Dimmer",
         "url": "https://open.spotify.com/album/0OrWX0oW2b94MfnA1dSeov"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "NEVER ENOUGH",
@@ -1043,6 +1027,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-06-18 20:32:33",

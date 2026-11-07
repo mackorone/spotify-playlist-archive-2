@@ -1,28 +1,28 @@
 {
-  "description": "50% techno, 50% house \ud83d\udd1d Tech house operators, featuring Broken Hill",
-  "num_followers": 719799,
+  "description": "50% techno, 50% house \ud83d\udd0a Tech house operators, featuring Bruno Furlan",
+  "num_followers": 719836,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIXNb+5eqy7ZkJnjs51IwgJG39c",
+  "snapshot_id": "AAAAADKKDGkCfUe97NeJddlnX0Oc4Hre",
   "tracks": [
     {
-      "added_at": "2026-10-30 04:00:45",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Nexus 003",
-        "url": "https://open.spotify.com/album/5tzTsoeqzZHGylVJOczpC0"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz"
       },
       "artists": [
         {
-          "name": "Broken Hill",
-          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
         }
       ],
-      "duration_ms": 210000,
-      "name": "On Top",
-      "url": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+      "duration_ms": 172615,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -49,48 +49,44 @@
       "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
     },
     {
-      "added_at": "2026-10-23 04:01:09",
+      "added_at": "2026-10-02 04:03:08",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
+        "name": "Hot Girl Walk",
+        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
         },
         {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
+      "duration_ms": 167441,
+      "name": "Hot Girl Walk",
+      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
     },
     {
-      "added_at": "2026-10-30 04:00:45",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "SILK SCARF (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/62A6IA2egW27EQFNsdqtIQ"
+        "name": "Don't Call Me (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/3NX89CyKXrb3lhJXnbMbbt"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
         },
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
         }
       ],
-      "duration_ms": 285962,
-      "name": "SILK SCARF - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7zaEgzOLvTbc33n5iyiK2K"
+      "duration_ms": 154615,
+      "name": "Don't Call Me (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/2T8WhPKsCxZeylhcxL5z3Y"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -119,18 +115,38 @@
     {
       "added_at": "2026-10-23 04:01:09",
       "album": {
-        "name": "In Europe EP",
-        "url": "https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
       },
       "artists": [
         {
-          "name": "Jay de Lys",
-          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
         }
       ],
-      "duration_ms": 202106,
-      "name": "In Europe",
-      "url": "https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3"
+      "duration_ms": 195692,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Keep Cool",
+        "url": "https://open.spotify.com/album/4uWySvnt9kdErGSqoDfRGu"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Keep Cool",
+      "url": "https://open.spotify.com/track/2uZ762bCjzqyki5tdW5LqG"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -155,34 +171,54 @@
     {
       "added_at": "2026-10-30 04:00:45",
       "album": {
-        "name": "Takes Me",
-        "url": "https://open.spotify.com/album/5scm2yACuFl5yzHvsWvtVY"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/7ujLAdE3iZJDVf5tZlpZ3c"
       },
       "artists": [
         {
-          "name": "Sapian",
-          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+          "name": "Jake Bleu",
+          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
         }
       ],
-      "duration_ms": 202846,
-      "name": "Takes Me",
-      "url": "https://open.spotify.com/track/67bFYf2med80JPPkf4rPoO"
+      "duration_ms": 222102,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1bfYuDstqfvDy0dN0Hbm8V"
     },
     {
-      "added_at": "2026-10-23 04:01:09",
+      "added_at": "2026-10-30 04:00:45",
       "album": {
-        "name": "Make You Sweat",
-        "url": "https://open.spotify.com/album/5zvjskp9Ft37tSzgiRkcQy"
+        "name": "Nexus 003",
+        "url": "https://open.spotify.com/album/5tzTsoeqzZHGylVJOczpC0"
       },
       "artists": [
         {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
         }
       ],
-      "duration_ms": 216923,
-      "name": "Make You Sweat",
-      "url": "https://open.spotify.com/track/6XTysPFKGdqg2G8DT0XCt5"
+      "duration_ms": 210000,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Watch Me Dunk",
+        "url": "https://open.spotify.com/album/3m1m3psQaukYpwznA7Qos1"
+      },
+      "artists": [
+        {
+          "name": "Ardalan",
+          "url": "https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw"
+        },
+        {
+          "name": "Shaded",
+          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
+        }
+      ],
+      "duration_ms": 180201,
+      "name": "Watch Me Dunk",
+      "url": "https://open.spotify.com/track/5fQ38wdCvgkrFTYlQmfJYr"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -205,6 +241,46 @@
       "url": "https://open.spotify.com/track/699Wr7tqt9R0J95A5Bc1Jp"
     },
     {
+      "added_at": "2026-10-30 04:00:45",
+      "album": {
+        "name": "SILK SCARF (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/62A6IA2egW27EQFNsdqtIQ"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "SILK SCARF - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7zaEgzOLvTbc33n5iyiK2K"
+    },
+    {
+      "added_at": "2026-10-30 04:00:45",
+      "album": {
+        "name": "Takes Me",
+        "url": "https://open.spotify.com/album/5scm2yACuFl5yzHvsWvtVY"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "duration_ms": 202846,
+      "name": "Takes Me",
+      "url": "https://open.spotify.com/track/67bFYf2med80JPPkf4rPoO"
+    },
+    {
       "added_at": "2026-10-23 04:01:09",
       "album": {
         "name": "Korrupt Gangsters EP",
@@ -221,20 +297,80 @@
       "url": "https://open.spotify.com/track/7IKTr1wrHdCN9yD5hliktQ"
     },
     {
-      "added_at": "2026-10-30 04:00:45",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/7ujLAdE3iZJDVf5tZlpZ3c"
+        "name": "Full Gas EP",
+        "url": "https://open.spotify.com/album/2RcJzKONWo8OjRoFo4wX0s"
       },
       "artists": [
         {
-          "name": "Jake Bleu",
-          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
+          "name": "Reelow",
+          "url": "https://open.spotify.com/artist/5FizNUi0Rn6ZR6cmXL5nts"
+        },
+        {
+          "name": "Giovanni Gobbo",
+          "url": "https://open.spotify.com/artist/3yqDG5RZ57Hy6kfb6ymu5p"
         }
       ],
-      "duration_ms": 222102,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1bfYuDstqfvDy0dN0Hbm8V"
+      "duration_ms": 216184,
+      "name": "Full Gas - feat Giovanni Gobbo",
+      "url": "https://open.spotify.com/track/3A5QPmkSCC2ljYssLwD2ZZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "In Europe EP",
+        "url": "https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "In Europe",
+      "url": "https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
+        "name": "Are You Still You?",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Tocadisco",
+          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Nobody Likes The Records That You Play",
+      "url": "https://open.spotify.com/track/5fX4eZ34E6Fg2iz917mQ81"
+    },
+    {
+      "added_at": "2026-09-18 04:02:10",
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/70MHD4LFrK6yOsniB1OSsz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 174390,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -257,24 +393,48 @@
       "url": "https://open.spotify.com/track/57WN0Yj0u49mf64qsgeQ3x"
     },
     {
-      "added_at": "2026-09-18 04:02:10",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
+        "name": "Play That Sh!t",
+        "url": "https://open.spotify.com/album/217fhXxkVRBZY3b3wq8FEU"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
         },
         {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          "name": "Ultra \u00dcva",
+          "url": "https://open.spotify.com/artist/3rqKMkvS8qeank2gnnW5eL"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
+      "duration_ms": 181000,
+      "name": "Play That Sh!t",
+      "url": "https://open.spotify.com/track/3OSumTFFZouZyVrDPbfegW"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
+        "name": "4Get The Girl (GUDFELLA & Jackie Hollander Remix)",
+        "url": "https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "4Get The Girl - GUDFELLA & Jackie Hollander Remix",
+      "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
     },
     {
       "added_at": "2026-08-28 04:01:43",
@@ -305,24 +465,40 @@
       "url": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG"
     },
     {
-      "added_at": "2026-10-02 04:03:08",
+      "added_at": "2026-10-23 04:01:09",
       "album": {
-        "name": "Hot Girl Walk",
-        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
+        "name": "Make You Sweat",
+        "url": "https://open.spotify.com/album/5zvjskp9Ft37tSzgiRkcQy"
       },
       "artists": [
         {
           "name": "WELKER",
           "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
-        },
-        {
-          "name": "NO STATIC",
-          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Hot Girl Walk",
-      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
+      "duration_ms": 216923,
+      "name": "Make You Sweat",
+      "url": "https://open.spotify.com/track/6XTysPFKGdqg2G8DT0XCt5"
+    },
+    {
+      "added_at": "2026-09-18 04:02:10",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
     },
     {
       "added_at": "2026-10-23 04:01:09",
@@ -343,70 +519,6 @@
       "duration_ms": 324977,
       "name": "Like That",
       "url": "https://open.spotify.com/track/014B9aKiAvY8vwRCJc4uz1"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Are You Still You?",
-        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Tocadisco",
-          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Nobody Likes The Records That You Play",
-      "url": "https://open.spotify.com/track/5fX4eZ34E6Fg2iz917mQ81"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "4Get The Girl (GUDFELLA & Jackie Hollander Remix)",
-        "url": "https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "4Get The Girl - GUDFELLA & Jackie Hollander Remix",
-      "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:10",
-      "album": {
-        "name": "Ask Me Tomorrow",
-        "url": "https://open.spotify.com/album/70MHD4LFrK6yOsniB1OSsz"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 174390,
-      "name": "Losing Focus",
-      "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -693,26 +805,6 @@
       "url": "https://open.spotify.com/track/68HXIwiK1hbQaxz7pzmjcV"
     },
     {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Rhyme Design",
-        "url": "https://open.spotify.com/album/3twTbpFY5267GUQwEeWBTb"
-      },
-      "artists": [
-        {
-          "name": "James Mac",
-          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
-        },
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 149883,
-      "name": "Rhyme Design",
-      "url": "https://open.spotify.com/track/3SvDuzaGxpzsaq892Ue6ag"
-    },
-    {
       "added_at": "2026-10-02 04:03:08",
       "album": {
         "name": "Can I Ride",
@@ -937,22 +1029,6 @@
       "url": "https://open.spotify.com/track/3Z171IH0jNBMZCZg4i99I0"
     },
     {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Mind Games",
-        "url": "https://open.spotify.com/album/076N8pqbzopOrgbkP7yTOQ"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Mind Games",
-      "url": "https://open.spotify.com/track/2TfiDekCXdz2MeXo4hsDOn"
-    },
-    {
       "added_at": "2026-10-02 04:03:08",
       "album": {
         "name": "Voltage EP",
@@ -987,26 +1063,6 @@
       "duration_ms": 139534,
       "name": "Peachy",
       "url": "https://open.spotify.com/track/2frGn6iToECFZex0Kmgp9Z"
-    },
-    {
-      "added_at": "2026-09-18 04:02:10",
-      "album": {
-        "name": "Booty Call",
-        "url": "https://open.spotify.com/album/6YCHaVHKG8rsFQgACWX8Rr"
-      },
-      "artists": [
-        {
-          "name": "AG Swifty",
-          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
-        },
-        {
-          "name": "Brad Brunner",
-          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/3dgAwhxlJSTUea6WVZGp0b"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -1301,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/2ZqouzKPJDrBNaeQo7cf72"
-      },
-      "artists": [
-        {
-          "name": "Matsu",
-          "url": "https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U"
-        }
-      ],
-      "duration_ms": 184804,
-      "name": "Gnarsty Tech Ting",
-      "url": "https://open.spotify.com/track/0GTVlZ9gl6gbC5jDIYM6ck"
-    },
-    {
       "added_at": "2026-08-21 04:01:23",
       "album": {
         "name": "Baby Do You Wanna Bump",
@@ -1487,22 +1527,6 @@
       "duration_ms": 211182,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4f55Lbpnr8Hjv3M8Wi3JTF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:43",
-      "album": {
-        "name": "For Some More..",
-        "url": "https://open.spotify.com/album/1TbVPXHGal5ivgZ9EuTk0K"
-      },
-      "artists": [
-        {
-          "name": "Kino Todo",
-          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
-        }
-      ],
-      "duration_ms": 311818,
-      "name": "For Some More..",
-      "url": "https://open.spotify.com/track/2j7sHx2z4wjeg31PEtrLxk"
     },
     {
       "added_at": "2026-09-11 04:01:23",
@@ -1721,22 +1745,6 @@
       "url": "https://open.spotify.com/track/2vXLAk4PXwX6MFdyaiZ3Xg"
     },
     {
-      "added_at": "2026-08-14 04:01:17",
-      "album": {
-        "name": "TEQUILA EP",
-        "url": "https://open.spotify.com/album/07z2QFK79PojWamkt0aSIm"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 229862,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/1tEAqzXNcrYD3fQUWtXcSS"
-    },
-    {
       "added_at": "2026-06-19 04:01:57",
       "album": {
         "name": "Bounce UR Body",
@@ -1837,22 +1845,6 @@
       "url": "https://open.spotify.com/track/7nN1Cc3hgEfv1StKH7FaKt"
     },
     {
-      "added_at": "2026-07-17 04:00:51",
-      "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/4BCb342oVUJIwStg3l26Cp"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 135486,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/18o8InV501O1NhjQAstfOw"
-    },
-    {
       "added_at": "2026-06-26 04:01:01",
       "album": {
         "name": "wtf",
@@ -1875,26 +1867,6 @@
       "duration_ms": 197683,
       "name": "wtf",
       "url": "https://open.spotify.com/track/0gsCoEAU0OOr4lXNEgXhgW"
-    },
-    {
-      "added_at": "2026-07-21 14:40:08",
-      "album": {
-        "name": "Gator Boots",
-        "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
-      },
-      "artists": [
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 141309,
-      "name": "Gator Boots",
-      "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
     },
     {
       "added_at": "2026-07-10 04:01:31",
@@ -1937,22 +1909,6 @@
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
-      "added_at": "2026-07-31 15:49:44",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/2ifLsTNcpLHakw8wYQPd3A"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/6D468N32hOm1CnQaYRCIyx"
-    },
-    {
       "added_at": "2026-07-03 04:01:51",
       "album": {
         "name": "TCFS",
@@ -1983,22 +1939,6 @@
       "duration_ms": 220465,
       "name": "neck",
       "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-03-20 04:00:45",
-      "album": {
-        "name": "Actin' Tough",
-        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Turnley",
-          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Actin' Tough",
-      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
     }
   ],
   "unique_name": "Tech House Operator",

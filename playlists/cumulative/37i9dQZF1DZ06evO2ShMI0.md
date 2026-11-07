@@ -4,7 +4,7 @@
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 3 min
+78 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [El Guerrero](https://open.spotify.com/track/0hN91uQEZegJM3bUAxhflV) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:07 | 2022-10-26 |  |
 | [El Instante Pasó](https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Acústico Retrovisor](https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj) | 4:07 | 2022-12-07 | 2025-05-29 |
 | [Era Un Angel](https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 3:35 | 2023-10-10 |  |
+| [Es Tan Facil](https://open.spotify.com/track/3Z4aXfmDOLxQ8DQ5aE9qcp) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Planetario](https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc) | 3:43 | 2026-11-07 |  |
 | [Eterna Soledad](https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 2:53 | 2022-10-26 |  |
 | [Frances Limon](https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 5:17 | 2022-10-26 |  |
 | [Guitarras Blancas](https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 4:26 | 2025-02-15 | 2025-10-25 |
@@ -39,7 +40,7 @@
 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 | 2022-10-26 |  |
 | [La Muralla Verde \(En Vivo\)](https://open.spotify.com/track/20M5B3RNyJlmI7zOhb5iv4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:56 | 2022-10-26 | 2025-03-11 |
 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 | 2022-10-26 |  |
-| [Lamento Boliviano](https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 3:05 | 2026-05-31 |  |
+| [Lamento Boliviano](https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 3:05 | 2026-05-31 | 2026-11-07 |
 | [Lamento Boliviano \(En Vivo\)](https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 6:28 | 2022-10-26 |  |
 | [Lamento Boliviano \- En Vivo](https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 5:55 | 2022-10-26 | 2026-05-31 |
 | [Loco](https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Iconos del Urbano](https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4) | 3:43 | 2023-02-14 |  |

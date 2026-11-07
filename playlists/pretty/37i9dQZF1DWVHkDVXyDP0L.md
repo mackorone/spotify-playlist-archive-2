@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Chats
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,881 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,882 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 2 | [With A Gnome](https://open.spotify.com/track/5gX5IAbKryVhN2Bngp5ApQ) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [With A Gnome](https://open.spotify.com/album/7w3E0IrT1ww3frMc2O1jZk) | 4:04 |
 | 3 | [Threads](https://open.spotify.com/track/2ef3FqqLb4MVMrj79r1CUY) | [Bite My Tongue](https://open.spotify.com/artist/7CbAVTK8CqlzZVUpFtNo0k) | [This Is Never Gonna Last](https://open.spotify.com/album/1qE8Aj22yErpHlvS4f1GZS) | 3:59 |
 | 4 | [Virtual Lover](https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o) | [xiao xiao](https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK) | [Virtual Lover](https://open.spotify.com/album/14WobYbgG7aNhM09C7np58) | 3:29 |
-| 5 | [Track 12](https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [El Cuarto Rosa](https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB) | 0:00 |
-| 6 | [Track 2](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 0:00 |
+| 5 | [Cherry Baby Loca](https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [El Cuarto Rosa](https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB) | 4:21 |
+| 6 | [Best Life](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 3:03 |
 | 7 | [Party Hard](https://open.spotify.com/track/2PnW9V3htrJ2G0vqHXBBFE) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4) | [Party Hard](https://open.spotify.com/album/0cRGIogxUzhaCxiiz5FUIk) | 2:28 |
 | 8 | [The Intersection](https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [What's In Between](https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj) | 3:42 |
 | 9 | [Expensive Music](https://open.spotify.com/track/6RJk2DuCdUnM2XZhul9txe) | [Ricky Albeck](https://open.spotify.com/artist/7hHSpppI6jMgsOwPjX0v3E) | [Expensive Music](https://open.spotify.com/album/3BMYqDZXXM6mTnP7zewI6J) | 3:26 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 13 | [So good](https://open.spotify.com/track/1R9MtTB9ryvBMU7rNwRfR4) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [So good](https://open.spotify.com/album/0D2lOPGwgejCuoyXJVRzym) | 4:30 |
 | 14 | [Little Red Dress](https://open.spotify.com/track/1ZrtsI97PZX7x8iHQasfob) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [She's Wild](https://open.spotify.com/album/226XZAqxJ8GBHT0R3WOx2X) | 2:52 |
 | 15 | [Sprinted for the Sun](https://open.spotify.com/track/2CqfurzzNmCRWPozbP6dr1) | [RubyHoo](https://open.spotify.com/artist/0K0wew1SV1rbMZjs014Xsw) | [Sprinted for the Sun](https://open.spotify.com/album/0Sv42D7iICN9Of2p1KrR5V) | 3:15 |
-| 16 | [Track 1](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 0:00 |
+| 16 | [Sit With](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 4:38 |
 | 17 | [654](https://open.spotify.com/track/5IH4slI09x98Ueyw6oAeNW) | [Half/Angel](https://open.spotify.com/artist/37vKRv7TfLattsUjatE4Sx) | [654](https://open.spotify.com/album/0ui88dGYkl7MN9RAaZa6zV) | 3:42 |
 | 18 | [VOID](https://open.spotify.com/track/6QddY6kBcZW7Kg6a8Y5uAe) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [VOID](https://open.spotify.com/album/7ivD2qJ3hAoL75JKPxhUfS) | 3:34 |
 | 19 | [Hot Sun](https://open.spotify.com/track/6RbmZvJ44OicXR70PLFT8D) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Hot Sun](https://open.spotify.com/album/2PqOAbJJzfsLIEAOK6Ccim) | 3:51 |

@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "A Ti Sea La Gloria",
+        "url": "https://open.spotify.com/album/3CkOe7M6DIb5ubaEa0xj6n"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291118,
+      "name": "A Ti Sea La Gloria",
+      "url": "https://open.spotify.com/track/1RwGqsnKC992Hfm62t8E6D"
+    },
+    {
+      "album": {
         "name": "A Ti te alabo",
         "url": "https://open.spotify.com/album/3mSGV20IyaGArMPDbATllJ"
       },
@@ -1466,6 +1488,28 @@
       "duration_ms": 192085,
       "name": "Amor Especial",
       "url": "https://open.spotify.com/track/2vEqGa4ZbAilkux7z3X7YJ"
+    },
+    {
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/7gV9e0VvfBvus4srGrDcvu"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Chloe Edgecombe",
+          "url": "https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287479,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/5beVe9rvSIKiURTX7rYPco"
     },
     {
       "album": {
@@ -6854,7 +6898,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 261093,
       "name": "En Tu Lugar",
       "url": "https://open.spotify.com/track/6ZJfqvdlUn2sr9Gm6lBg7r"
@@ -9076,7 +9120,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 298609,
       "name": "Heme Aqu\u00ed",
       "url": "https://open.spotify.com/track/7yytLAitqIOKnOmkhBh1Xc"
@@ -9216,7 +9260,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 200813,
       "name": "HIPOTENUSA",
       "url": "https://open.spotify.com/track/6Wep9zwGrDcf6XggANEEwx"
@@ -11974,7 +12018,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 247288,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/33Wr1cv6HYuTLbqiIgxEUP"
@@ -12769,6 +12813,28 @@
     },
     {
       "album": {
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/6GtE8Z8v2AOOUe7UUOXk1E"
+      },
+      "artists": [
+        {
+          "name": "LOISI",
+          "url": "https://open.spotify.com/artist/4ryl0kAEXzxFOyjYwKEPKr"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192747,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/75WWFkPQOVeEdVwvBlLZ5s"
+    },
+    {
+      "album": {
         "name": "Buenas Noticias",
         "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
       },
@@ -13366,6 +13432,24 @@
       "duration_ms": 549180,
       "name": "No Other Place Is Higher (No Hay Lugar M\u00e1s Alto) - Live",
       "url": "https://open.spotify.com/track/3ULNSGnunCeYaINoPgej2D"
+    },
+    {
+      "album": {
+        "name": "ZONA ZERO",
+        "url": "https://open.spotify.com/album/5uTJhKMzCg0JTM63hnUmAB"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182520,
+      "name": "NO QUIERO M\u00c1S NA'",
+      "url": "https://open.spotify.com/track/2whIRS3t0wWh087udFoQqo"
     },
     {
       "album": {

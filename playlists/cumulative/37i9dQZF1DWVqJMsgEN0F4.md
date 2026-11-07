@@ -2,9 +2,9 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> The Flaming Lips along with the hottest alternative songs right now.
+> Haute & Freddy along with the hottest alternative songs right now.
 
-1,228 songs - 2 day 22 hr 23 min
+1,229 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,7 +668,8 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-13 | 2023-10-28 |
 | [My Serotonin](https://open.spotify.com/track/0KkCQEj9RMsgUfbVnOZzX8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine](https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w) | 2:34 | 2024-11-01 | 2025-03-15 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-29 | 2022-02-26 |
-| [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 | 2026-09-11 |  |
+| [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 | 2026-09-11 | 2026-11-07 |
+| [My Whole World](https://open.spotify.com/track/5q13qp2aZFnN2S4m5NZU5R) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 4:07 | 2026-11-06 |  |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-01-14 | 2022-07-09 |
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-06-14 | 2024-09-28 |
 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 | 2022-10-07 | 2023-01-14 |

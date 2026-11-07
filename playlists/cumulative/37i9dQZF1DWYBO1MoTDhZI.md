@@ -4,7 +4,7 @@
 
 > Olivia Dean keeps the good vibes going all day long
 
-1,134 songs - 2 day 13 hr 5 min
+1,135 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Head In The Clouds](https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Head In The Clouds](https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk) | 3:11 | 2022-03-11 | 2022-04-09 |
 | [Heart of Glass \(Coeur de Verre\)](https://open.spotify.com/track/7iF9Sl2EqwoNyuXTTBS39R) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:25 | 2024-09-20 | 2025-09-21 |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-09-30 | 2022-10-22 |
+| [Heat](https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [N.Y\. Baby](https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc) | 3:28 | 2026-11-06 |  |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 | 2024-04-19 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-11-13 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-02 | 2024-09-23 |
@@ -872,7 +873,7 @@
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-04-19 | 2024-05-18 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-09-05\* | 2020-04-10 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-28 |  |
-| [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 | 2026-10-09 |  |
+| [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 | 2026-10-09 | 2026-11-07 |
 | [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 | 2023-07-14 | 2023-08-19 |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-06-13 |  |
 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 | 2026-07-10 | 2026-08-15 |

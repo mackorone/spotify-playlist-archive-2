@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-632 songs - 1 day 13 hr 51 min
+634 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Love Bird](https://open.spotify.com/track/280aVp4Q3m5g9RZkVSp50p) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Love Bird](https://open.spotify.com/album/0iniUlY3Z8tAruoZhXdl1d) | 3:09 | 2022-11-11 | 2023-01-14 |
 | [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 | 2024-04-12 | 2024-05-11 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 | 2024-01-27 |
+| [Love Is The Answer](https://open.spotify.com/track/3ks9qSXJhT69jxXmavzCAn) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [Love Is The Answer](https://open.spotify.com/album/0dqiPaLrBHvJJpQuRD4ACP) | 3:31 | 2026-11-06 |  |
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-28 | 2023-07-01 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
 | [Love Letter From A Red Roof Inn](https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Love Letter From A Red Roof Inn](https://open.spotify.com/album/4ngbwV8bQCWnmhY5pQszU6) | 3:48 | 2021-12-03 | 2022-07-29 |
@@ -377,7 +378,7 @@
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 | 2025-07-19 |
 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 | 2023-11-18 |
 | [Nobody But You](https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Nobody But You](https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP) | 2:15 | 2023-11-10 | 2025-09-13 |
-| [Nobody Knows](https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Micayla Rivera](https://open.spotify.com/artist/3Sz03iUdsJZy5ucOO1ptYE) | [Nobody Knows](https://open.spotify.com/album/6pAdeErcUZeVFa4L7K3gV1) | 2:55 | 2024-10-04 |  |
+| [Nobody Knows](https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Micayla Rivera](https://open.spotify.com/artist/3Sz03iUdsJZy5ucOO1ptYE) | [Nobody Knows](https://open.spotify.com/album/6pAdeErcUZeVFa4L7K3gV1) | 2:55 | 2024-10-04 | 2026-11-07 |
 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 | 2021-12-17 | 2023-01-28 |
 | [NORMA](https://open.spotify.com/track/6bI2PZ9Fepx6RPwuD3AVB6) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [NORMA](https://open.spotify.com/album/6wVvcTZuP8eyj2u9A7BupJ) | 3:41 | 2022-08-09 | 2022-08-27 |
 | [Not In My Name](https://open.spotify.com/track/4z7lYZSO6VUnqIYJrB8WsT) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Give Me Hope](https://open.spotify.com/album/60tTpmxbyNd7YFYr8zdkGb) | 3:29 | 2022-02-15 | 2023-06-24 |
@@ -513,7 +514,7 @@
 | [Strawberry Hill](https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Human Decency](https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG) | 4:06 | 2024-06-14 | 2025-09-06 |
 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 | 2024-03-01 | 2024-04-27 |
 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 | 2025-05-03 |
-| [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 | 2024-09-20 |  |
+| [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 | 2024-09-20 | 2026-11-07 |
 | [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 | 2025-08-15 | 2026-10-03 |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2021-07-16 | 2022-07-26 |
@@ -557,6 +558,7 @@
 | [Through It All](https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 | 2023-02-18 |
 | [Tied To You](https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Tied To You](https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh) | 3:17 | 2024-10-04 | 2024-10-19 |
+| [Time for A Change](https://open.spotify.com/track/0UbG9aY25wTrbfdbZXFSBJ) | [The Freedom Affair](https://open.spotify.com/artist/09KnoJelHJ15aVpt3GAcuT) | [Time for A Change](https://open.spotify.com/album/0fpaqKAJDXHJePJyQ4WD4K) | 3:44 | 2026-11-06 |  |
 | [Tired of Missing You \- Radio Edit](https://open.spotify.com/track/0exhPe2ST90UidadzvLeiT) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Tired of Missing You](https://open.spotify.com/album/6Te4NGNMAiYFJNfeYEEeEq) | 3:35 | 2025-10-10 |  |
 | [Together](https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Together](https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq) | 3:19 | 2025-10-03 | 2026-05-02 |
 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 | 2024-02-09 | 2025-08-31 |

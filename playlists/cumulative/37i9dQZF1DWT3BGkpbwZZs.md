@@ -4,7 +4,7 @@
 
 > These Games are going to be different\. Noah Kahan's "Draw You Out" is here, the first song from The Hunger Games: Sunrise on the Reaping\. In theaters soon.
 
-67 songs - 4 hr 4 min
+68 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [The Leap](https://open.spotify.com/track/4flZkvdD7ivUmMq24nrDHQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:06 | 2023-11-17 |  |
 | [The Old Therebefore / Singing at Snakes \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/6Mbgtn1ZjgS1upiV2ghB9y) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:48 | 2023-11-17 |  |
 | [The Ruler And The Killer](https://open.spotify.com/track/3ZWkh8WkXzp4HoMqhQaU7H) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:33 | 2023-11-17 |  |
+| [The Wheel \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/2CogABm63uPyd2qAo259RW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Wheel](https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ) | 3:07 | 2026-11-06 |  |
 | [There Are Worse Games To Play/Deep In The Meadow/The Hunger Games Suite \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/2hgmZiJQLjpzkkD93Nne8d) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Jennifer Lawrence](https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 9:41 | 2023-11-17 |  |
 | [This Is Not A Game](https://open.spotify.com/track/5gwIZEKGJWH8Vndd2cFiQy) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:14 | 2023-11-17 |  |
 | [Tomorrow Will Be Kinder \- from The Hunger Games Soundtrack](https://open.spotify.com/track/1gKFfW2ya2abwe6eHh5VMC) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 3:25 | 2023-11-17 |  |

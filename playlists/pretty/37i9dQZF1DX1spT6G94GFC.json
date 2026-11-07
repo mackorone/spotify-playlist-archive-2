@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4103145,
+  "num_followers": 4103229,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2024-09-13 16:58:23",

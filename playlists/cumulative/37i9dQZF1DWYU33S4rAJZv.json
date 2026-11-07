@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169092,
       "name": "'Zat You, Santa Claus? - Single Version",
       "url": "https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 272160,
       "name": "Christmas Children",
       "url": "https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183733,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/5sRb0r1wP7nK6dKQBxO197"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 68760,
       "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184307,
       "name": "Do they know it\u00b4s christmas",
       "url": "https://open.spotify.com/track/1lGMG6AfhYk7eT0k8At52N"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 248689,
       "name": "Everything\u2019s Not Lost",
       "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 116893,
       "name": "Happy Holiday",
       "url": "https://open.spotify.com/track/2IMoSqECSfTDwoF4FiaBYs"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 271760,
       "name": "Home For The Holidays",
       "url": "https://open.spotify.com/track/0o0utCHi11d5uKCx792Gol"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 290466,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/2VTbtJjZIfcxHfjfW8UApI"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "It's The Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/49adamlPmuWjWr5553WIJo"
+      },
+      "artists": [
+        {
+          "name": "Kieran Brown",
+          "url": "https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252922,
+      "name": "It's The Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2fV8KRy6XcarcxAi9AyUgR"
+    },
+    {
+      "album": {
         "name": "It's The Most Wonderful Time Of The Year",
         "url": "https://open.spotify.com/album/2bZtLXJqgmSPuDKAezj1WC"
       },
@@ -1222,6 +1240,24 @@
       "duration_ms": 103680,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/7lRMk45ttaqy16O1vXkEAK"
+    },
+    {
+      "album": {
+        "name": "It's Always Christmas With You",
+        "url": "https://open.spotify.com/album/3HuYpJQ5F7eneK3CWGbXSB"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221568,
+      "name": "It\u2019s Always Christmas With You",
+      "url": "https://open.spotify.com/track/2SzCyHPryooDmTKM3l4MMq"
     },
     {
       "album": {
@@ -1575,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "O come all ye faithful",
+        "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "O come all ye faithful",
+      "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
+    },
+    {
+      "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
       },
@@ -1586,7 +1640,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138893,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
@@ -1755,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "My Christmas EP",
+        "url": "https://open.spotify.com/album/5oSA0yugGBamU1qrOlcjcZ"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184958,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4gXIYwCSmUK6xN1vxlLCR2"
+    },
+    {
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL"
       },
@@ -1766,7 +1838,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170010,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw"
@@ -1838,7 +1910,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138306,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/4QFV8KtVhzDsDvNcH4sUkr"
@@ -2122,7 +2194,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159000,
       "name": "That's How I Picture Christmas Eve",
       "url": "https://open.spotify.com/track/7z7a4p1MrrSlnOIIYyMINs"
@@ -2158,7 +2230,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 137546,
       "name": "That's What I Want For Christmas - Remastered 1992",
       "url": "https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ"
@@ -2183,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "The Christmas I Fell For You",
+        "url": "https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184303,
+      "name": "The Christmas I Fell For You",
+      "url": "https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -2194,7 +2284,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
@@ -2270,6 +2360,24 @@
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
+      },
+      "artists": [
+        {
+          "name": "Plethora Trio",
+          "url": "https://open.spotify.com/artist/2H3fT1t2R1w5U2wjfUIFh2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117756,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
     },
     {
       "album": {
@@ -2614,7 +2722,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 178000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
@@ -2639,6 +2747,28 @@
     },
     {
       "album": {
+        "name": "With or Without Snow",
+        "url": "https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178113,
+      "name": "With or Without Snow",
+      "url": "https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR"
+    },
+    {
+      "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
@@ -2650,7 +2780,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"

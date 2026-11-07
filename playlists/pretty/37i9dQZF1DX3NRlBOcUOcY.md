@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,619 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,551 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 55 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
 | 56 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 |
 | 57 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
-| 58 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
-| 59 | [4LIFE](https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [4LIFE](https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf) | 3:32 |
+| 58 | [4LIFE](https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [4LIFE](https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf) | 3:32 |
+| 59 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 | 60 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 61 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 62 | [Paciente](https://open.spotify.com/track/3tAM927dsz0sT2xYcaPD9W) | [Dany Ome](https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v), [Kevincito El 13](https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Paciente](https://open.spotify.com/album/77LZwQlejF2pmknqC6i33E) | 3:55 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 79 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
 | 80 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 |
 | 81 | [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 |
-| 82 | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh) | 2:17 |
+| 82 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:27 |
 | 83 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
-| 84 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:27 |
+| 84 | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh) | 2:17 |
 | 85 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
 | 86 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
 | 87 | [Delincuente](https://open.spotify.com/track/1Gkg90MCKQ90j3IezifUzJ) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Delincuente](https://open.spotify.com/album/0ruLUYmTcsrZ7vVnUEZrC7) | 2:36 |

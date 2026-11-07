@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu & Diamond Platnumz",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Nandy",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 129600,
       "name": "AYE",
       "url": "https://open.spotify.com/track/0qJRv1rTdZjncFB1U043tZ"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 141393,
       "name": "Dasalama",
       "url": "https://open.spotify.com/track/19QKLeQyOEUsb7ayUqjtFv"
@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 197288,
       "name": "Gambe",
       "url": "https://open.spotify.com/track/3St5O9Uh3xoSBj3jf7XZHy"
@@ -4880,7 +4880,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 265747,
       "name": "kama kawa",
       "url": "https://open.spotify.com/track/612wlLKIahLYeTq1BhGcNi"
@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 175629,
       "name": "Mama Mkwe",
       "url": "https://open.spotify.com/track/3655FA2Jiqx44UTM5RQqOL"
@@ -7324,6 +7324,28 @@
       "duration_ms": 163043,
       "name": "Mombasa",
       "url": "https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F"
+    },
+    {
+      "album": {
+        "name": "Mon Ami II",
+        "url": "https://open.spotify.com/album/58BzGT907xr7m8yjXZ8FwU"
+      },
+      "artists": [
+        {
+          "name": "Gloria Bugie",
+          "url": "https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Mon Ami II",
+      "url": "https://open.spotify.com/track/657Ol8JzwJUtBpXfNBtGy8"
     },
     {
       "album": {
@@ -8378,7 +8400,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 178500,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
@@ -8714,7 +8736,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 164494,
       "name": "Nasinzia",
       "url": "https://open.spotify.com/track/5bxgdeBoXeqZ9HgWtkkMUK"
@@ -9845,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Nitunzie",
+        "url": "https://open.spotify.com/album/3GEOy0Mq9AhToUconXseU3"
+      },
+      "artists": [
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201108,
+      "name": "Nitunzie",
+      "url": "https://open.spotify.com/track/4oilg7qbwH4SRiSQOzHTrx"
+    },
+    {
+      "album": {
         "name": "Niwe",
         "url": "https://open.spotify.com/album/3BMpo3rEYeXkgeEld0P9Kh"
       },
@@ -10354,6 +10394,24 @@
       "duration_ms": 231351,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/0cNyOijJPgdObogcoke87K"
+    },
+    {
+      "album": {
+        "name": "Oya",
+        "url": "https://open.spotify.com/album/4dm5y2uPRCxv1erWPzZa7Z"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233096,
+      "name": "Oya",
+      "url": "https://open.spotify.com/track/6nJisCnrLEo7XyIA6hv65u"
     },
     {
       "album": {
@@ -11585,7 +11643,7 @@
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217959,
+      "duration_ms": 218112,
       "name": "SEXY & BAD",
       "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
     },
@@ -14542,7 +14600,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199232,
       "name": "Watu Na Viatu",
       "url": "https://open.spotify.com/track/1Q7OdMbMm905TmBrKkcIoe"

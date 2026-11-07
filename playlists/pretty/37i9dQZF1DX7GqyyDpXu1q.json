@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 96197,
+  "num_followers": 96204,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
-      },
-      "artists": [
-        {
-          "name": "The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Tell Me Why U Do That",
-      "url": "https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Ain't Rocked in a While",
         "url": "https://open.spotify.com/album/0Kr5O6qIDaPt4K9m2eTUzU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 281160,
       "name": "Ain't Rocked in a While",
       "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Tell Me Why U Do That",
+      "url": "https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Stride",
         "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Heartless Year",
         "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Brother Joe",
         "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 148778,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2026-04-10 16:28:54",

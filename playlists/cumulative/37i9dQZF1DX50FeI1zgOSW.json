@@ -3163,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "Dumpapa",
+        "url": "https://open.spotify.com/album/1X1Edptqqxvy2p5UIBkRRE"
+      },
+      "artists": [
+        {
+          "name": "Partha",
+          "url": "https://open.spotify.com/artist/7jbBk3iWfr9uFMAMMFaOQi"
+        },
+        {
+          "name": "Ashlay JC",
+          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "Dumpapa",
+      "url": "https://open.spotify.com/track/29hRTF2McBiRPU5Vp1EpPU"
+    },
+    {
+      "album": {
         "name": "E.P.K.",
         "url": "https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE"
       },

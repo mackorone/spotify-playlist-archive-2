@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,350 songs - 2 day 22 hr 13 min
+1,351 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-17 | 2025-09-10 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-04-01 |
 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 | 2025-02-24 | 2025-04-18 |
-| [Circadian Rhythm](https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr) | [SKAI](https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd) | [Circadian Rhythm](https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE) | 2:24 | 2026-08-28 |  |
+| [Circadian Rhythm](https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr) | [SKAI](https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd) | [Circadian Rhythm](https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE) | 2:24 | 2026-08-28 | 2026-11-07 |
 | [CIRKLER \(feat\. wicky\)](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 2:46 | 2026-08-06 | 2026-10-16 |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-24 | 2025-01-25 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-05-22 |
@@ -505,6 +505,7 @@
 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 | 2026-08-06 |  |
 | [Have The Heart \(Feat\. Dolly Parton\)](https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:03 | 2024-08-16 | 2024-11-08 |
 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 | 2025-10-30 | 2026-03-13 |
+| [He Likes Boys](https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:34 | 2026-11-05 |  |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-07-18 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-31 | 2024-08-09 |
 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 | 2026-10-15 | 2026-10-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 91081,
+  "num_followers": 91084,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,34 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Paul Daniel",
+          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
+      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Pavarotti Sings Verdi",
         "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
       },
@@ -379,34 +407,6 @@
       "duration_ms": 822706,
       "name": "Hymn of the Nations (Inno delle nazione)",
       "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Paul Daniel",
-          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
-      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -679,6 +679,34 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Neil Shicoff",
+          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Rigoletto / Act 1: \"Questa o quella\"",
+      "url": "https://open.spotify.com/track/2rHyEmuWvR2frVn1DyUxPp"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Celeste Aida - The Verdi Album",
         "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
       },
@@ -719,34 +747,6 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Neil Shicoff",
-          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Rigoletto / Act 1: \"Questa o quella\"",
-      "url": "https://open.spotify.com/track/2rHyEmuWvR2frVn1DyUxPp"
     },
     {
       "added_at": "2025-12-22 11:16:50",

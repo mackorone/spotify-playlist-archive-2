@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. PEDRO SAMPAIO y Kenia Os en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Lasso en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 227223,
       "name": "Asignatura Pendiente",
       "url": "https://open.spotify.com/track/1VRJ1mOom6r8LGnwmxwyKf"
@@ -2632,6 +2632,28 @@
       "duration_ms": 137131,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
+    },
+    {
+      "album": {
+        "name": "Objetos Fr\u00e1giles en Ambientes Hostiles",
+        "url": "https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Borracho Otra Vez",
+      "url": "https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl"
     },
     {
       "album": {
@@ -3878,6 +3900,28 @@
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
     },
     {
       "album": {
@@ -5220,7 +5264,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 165786,
       "name": "Detective",
       "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
@@ -5909,6 +5953,28 @@
     },
     {
       "album": {
+        "name": "D\u00d3NDE EST\u00c1",
+        "url": "https://open.spotify.com/album/2drI4ffM233amK3KI1QexC"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "SZ Wise Guy",
+          "url": "https://open.spotify.com/artist/45m9ZT1lDd7dYjyPhCMhRB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "D\u00d3NDE EST\u00c1",
+      "url": "https://open.spotify.com/track/6dXCeg8TCQTtZxN2zbrgjJ"
+    },
+    {
+      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -6445,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+        "url": "https://open.spotify.com/album/27xSUw3x8kREK6TiBZi3WR"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167486,
+      "name": "Ella es el Hechizo - De \"Hechizo: Bienvenidos a Hexe\"",
+      "url": "https://open.spotify.com/track/1jiVKjIHGCgh2vcuP3onKI"
+    },
+    {
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -6552,6 +6636,32 @@
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
+    },
+    {
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "EN ITALIA",
+      "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
     },
     {
       "album": {
@@ -7886,7 +7996,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153240,
       "name": "Hasta Que el Mundo Se Acabe",
       "url": "https://open.spotify.com/track/3Xm8sQszKvaDijSpqeu0Mj"
@@ -8890,7 +9000,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 178836,
       "name": "LA CADENA",
       "url": "https://open.spotify.com/track/59zhHRIwdhPxagz1RMs7TA"
@@ -9482,6 +9592,40 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "album": {
+        "name": "LA PLAYA (feat. Flackoloyal)",
+        "url": "https://open.spotify.com/album/44KvYEUOc4aPeXjc0qNBxf"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        },
+        {
+          "name": "flackoloyal",
+          "url": "https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251313,
+      "name": "LA PLAYA (feat. Flackoloyal)",
+      "url": "https://open.spotify.com/track/6OJ83IY4WkIIBx7xd2FRuQ"
     },
     {
       "album": {
@@ -14844,7 +14988,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181304,
       "name": "piercing girl",
       "url": "https://open.spotify.com/track/2RqCgqA7LqrfxaE0jbAWqz"
@@ -18745,6 +18889,28 @@
     },
     {
       "album": {
+        "name": "T\u00da SIN YO",
+        "url": "https://open.spotify.com/album/0nXSt89ulEI3AjZOrDIdLk"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "T\u00da SIN YO",
+      "url": "https://open.spotify.com/track/5AfQY75NZq66n15hw9TNVC"
+    },
+    {
+      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
       },
@@ -19136,7 +19302,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189791,
       "name": "Un Vals",
       "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"

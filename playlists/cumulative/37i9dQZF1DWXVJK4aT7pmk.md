@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Arjan Dhillon
+> Catch the hottest Punjabi tracks\. Cover: Cheema Y
 
 236 songs - 12 hr 0 min
 

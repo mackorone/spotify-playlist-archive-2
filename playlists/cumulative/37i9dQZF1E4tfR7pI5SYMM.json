@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, The Inklings, The Dogs and more",
+  "description": "With Sanguine, Autoimmune, The Inklings and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 250312,
       "name": "18 Carat Dust",
       "url": "https://open.spotify.com/track/60oIlu4QJOtt3iWOOsOTq3"
+    },
+    {
+      "album": {
+        "name": "Talk To Me Like I'm Dead",
+        "url": "https://open.spotify.com/album/70bjiwoVv1qdkeli1m3oZx"
+      },
+      "artists": [
+        {
+          "name": "HVMM",
+          "url": "https://open.spotify.com/artist/1ku7ASbJwvh09WfSAbDGAZ"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389397,
+      "name": "1924",
+      "url": "https://open.spotify.com/track/5pH57FgscVNhsx1PxNdqSH"
     },
     {
       "album": {
@@ -374,7 +392,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 247073,
       "name": "Adj\u00f8",
       "url": "https://open.spotify.com/track/6KDEqsx3lb25sDcJ4C8Wzp"
@@ -468,6 +486,24 @@
       "duration_ms": 237219,
       "name": "Ain\u00b4t It Funny",
       "url": "https://open.spotify.com/track/79uKILLcGbaGLdGOmuHFBK"
+    },
+    {
+      "album": {
+        "name": "Airtist",
+        "url": "https://open.spotify.com/album/2J9TMN0d6fm13FVvhgbK1I"
+      },
+      "artists": [
+        {
+          "name": "Pol",
+          "url": "https://open.spotify.com/artist/2yS41RWZXROtSiDKIiVN4O"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Airtist",
+      "url": "https://open.spotify.com/track/76HgbSQumiQIbzbSWEmLtR"
     },
     {
       "album": {
@@ -940,7 +976,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -2090,7 +2126,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 268999,
       "name": "Bridges and Tunnels",
       "url": "https://open.spotify.com/track/77uotmAPelODYxougckORn"
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -3084,7 +3120,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3174,7 +3210,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 230912,
       "name": "Cool Ade",
       "url": "https://open.spotify.com/track/1r5Euk8Scmv9OhA6xMLr2m"
@@ -4310,7 +4346,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 231808,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 274924,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 202372,
       "name": "Entre Na Pista",
       "url": "https://open.spotify.com/track/0Q7LaoLZuiGQywTCyljHaK"
@@ -6552,7 +6588,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 277500,
       "name": "Free Country",
       "url": "https://open.spotify.com/track/5R0LTj36xTIQiC1bfsRKUc"
@@ -7072,7 +7108,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 194563,
       "name": "Got No Time",
       "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
@@ -8414,7 +8450,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 268000,
       "name": "I TRIED - Remastered",
       "url": "https://open.spotify.com/track/6I4IgbVQCcz29puOorIlbI"
@@ -8666,7 +8702,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 252133,
       "name": "Ikkje Som De Andre",
       "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
@@ -8958,7 +8994,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -9120,7 +9156,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138187,
       "name": "Jag f\u00e5r ingen luft",
       "url": "https://open.spotify.com/track/1qK1jKi4datgKIed8lIpNR"
@@ -9590,7 +9626,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -9626,7 +9662,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 162480,
       "name": "Kj\u00f8re P\u00e5",
       "url": "https://open.spotify.com/track/2ypRfeS5B0JDSgMtTO86ZA"
@@ -11030,7 +11066,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11492,7 +11528,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 259527,
       "name": "Military Monarchie",
       "url": "https://open.spotify.com/track/2bBv4ME3mssMYzJgbshkLW"
@@ -11666,6 +11702,24 @@
       "duration_ms": 217217,
       "name": "Modern Era Working Class",
       "url": "https://open.spotify.com/track/5MBb4fGO74ez8EuN1MSUyU"
+    },
+    {
+      "album": {
+        "name": "Modern Pussy",
+        "url": "https://open.spotify.com/album/1BwiMoWeff6b1Nqxt5d8c6"
+      },
+      "artists": [
+        {
+          "name": "HVMM",
+          "url": "https://open.spotify.com/artist/1ku7ASbJwvh09WfSAbDGAZ"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Modern Pussy",
+      "url": "https://open.spotify.com/track/4OiTjIBEeEp6qCqG1YbTIS"
     },
     {
       "album": {
@@ -11860,7 +11914,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 250500,
       "name": "Mother Earth",
       "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
@@ -14717,6 +14771,24 @@
     },
     {
       "album": {
+        "name": "Revolutionary Youth",
+        "url": "https://open.spotify.com/album/5r43nHcE6MBuHmftKmiN0U"
+      },
+      "artists": [
+        {
+          "name": "Lars Eriko",
+          "url": "https://open.spotify.com/artist/5uM7EMS55jLPL12nmxNeFs"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292586,
+      "name": "Revolutionary Youth",
+      "url": "https://open.spotify.com/track/2EKUMgSHUL7rH7BfzJaues"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/4Kmxu2QMQzzOcamMxC3tiX"
       },
@@ -15554,7 +15626,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -15662,7 +15734,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -16436,7 +16508,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188786,
       "name": "Start",
       "url": "https://open.spotify.com/track/4kXJcoZxlr212raqKtfEwT"
@@ -16642,7 +16714,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -17316,7 +17388,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 269466,
       "name": "That Kind of Love",
       "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
@@ -21020,7 +21092,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 217636,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"

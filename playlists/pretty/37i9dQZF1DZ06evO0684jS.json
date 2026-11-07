@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 885476,
+  "num_followers": 885465,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACLZfDAfG6PksoWYJtcl3px",
+  "snapshot_id": "auvHAAAAAAAZnKU8OsYid6BlGXPGXPBg",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2012 (It Ain't The End)",
-        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Sean",
-          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "2012 (It Ain't The End)",
-      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -507,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -519,30 +519,6 @@
       "duration_ms": 245253,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barbie World (with Aqua) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 109750,
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
       "added_at": null,
@@ -583,6 +559,30 @@
       "duration_ms": 234333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Woman Like Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Gang (Deluxe Version)",
         "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Woman Like Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trigga (Deluxe)",
         "url": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Friday ... Roman Reloaded (Deluxe)",
         "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 268493,
       "name": "Beez In The Trap",
       "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Barbies",
+        "url": "https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Black Barbies",
+      "url": "https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70"
     },
     {
       "added_at": null,
@@ -895,26 +915,6 @@
       "duration_ms": 206266,
       "name": "Ball For Me (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Barbies",
-        "url": "https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Black Barbies",
-      "url": "https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70"
     },
     {
       "added_at": null,
@@ -1043,22 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kissing Strangers",
-        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
+        "name": "You The Boss",
+        "url": "https://open.spotify.com/album/0zsPvg31izQ7kbbeF4arbL"
       },
       "artists": [
         {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 202480,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
+      "duration_ms": 280666,
+      "name": "You The Boss",
+      "url": "https://open.spotify.com/track/24XPxbzGwOlPKf1pdf1ZtW"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

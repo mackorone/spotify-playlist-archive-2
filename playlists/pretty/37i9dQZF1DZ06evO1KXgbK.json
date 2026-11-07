@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6640,
+  "num_followers": 6637,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADjuUjTHcqQOyCSlHR22Yqu",
+  "snapshot_id": "auvHAAAAAAAfdGs5OCcdDPlHzu8X5eJZ",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Good Old Days (When Times Were Bad)",
-        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 195556,
-      "name": "Harper Valley PTA",
-      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Good Old Days (When Times Were Bad)",
+        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 195556,
+      "name": "Harper Valley PTA",
+      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Atkins - The Master And His Music",
-        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Do I Ever Cross Your Mind",
-      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Atkins - The Master And His Music",
+        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -763,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
       "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 197826,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
+      "duration_ms": 184136,
+      "name": "Please Please Please (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 138093,
       "name": "Lovesick Blues (with Patsy Cline)",
       "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 184136,
-      "name": "Please Please Please (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
       "duration_ms": 253666,
       "name": "Little Sparrow",
       "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love & Fear",
+        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
     },
     {
       "added_at": null,
@@ -935,26 +955,6 @@
       "duration_ms": 194440,
       "name": "Everything Is Beautiful (In It's Own Way)",
       "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love & Fear",
-        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
     }
   ],
   "unique_name": "This Is Dolly Parton",

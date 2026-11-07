@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Tove Styrke, Newkid och Nuqi med flera\. Happy New Music Friday!
 
-26,573 songs - 57 day 11 hr 36 min
+26,574 songs - 57 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2934,7 +2934,7 @@
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-05-30 |
 | [Bloodshed](https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Bloodshed](https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3) | 3:35 | 2023-07-27 | 2023-08-04 |
 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 | 2023-03-09 | 2023-03-18 |
-| [bloodstream](https://open.spotify.com/track/3euSjq80NLhMubWCmg63fE) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 2:57 | 2026-11-05 |  |
+| [bloodstream](https://open.spotify.com/track/3euSjq80NLhMubWCmg63fE) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 2:57 | 2026-11-05 | 2026-11-07 |
 | [Bloodsucker](https://open.spotify.com/track/79HH6K8YPFZHXNRm3MlYQu) | [Robert Marcko](https://open.spotify.com/artist/5M0spwcpLFEbxPsv1t1KFu) | [Bloodsucker](https://open.spotify.com/album/2ZQ8mGUEF9ZzXyerMFIXdK) | 2:34 | 2026-07-02 | 2026-07-10 |
 | [BLOODSWEAT](https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:41 | 2026-01-01 | 2026-01-15 |
 | [Bloodtype](https://open.spotify.com/track/1M5lIbc4qRKWAuHnVBquJI) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Bloodtype](https://open.spotify.com/album/4oN6f5DEfF17PwR4ahs30V) | 2:24 | 2025-08-01 | 2025-08-08 |
@@ -20582,7 +20582,7 @@
 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 | 2024-08-22 | 2024-08-30 |
 | [Slim Thick](https://open.spotify.com/track/74DJLJwUxPvPwOOPQDSdvF) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [Slim Thick](https://open.spotify.com/album/48y9ck9AA5inMgK6wBfR9U) | 2:38 | 2022-10-06 | 2022-10-14 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-09-22 |
-| [Slip & Slide](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 | 2026-11-05 |  |
+| [Slip & Slide \(feat\. Amira Eldine\)](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 | 2026-11-05 |  |
 | [Slip N Slide](https://open.spotify.com/track/4EWnfhH9PQt6QfEjDOYKiS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Slip N Slide](https://open.spotify.com/album/53DeGTSqgNwTEhN9HgAydp) | 2:26 | 2022-02-03 | 2022-02-11 |
 | [Slippin Away](https://open.spotify.com/track/4jdBfJuwapVb5DpbHsabad) | [KRYAS](https://open.spotify.com/artist/7DVTuTo9StuftEPEqwsgki) | [Slippin Away](https://open.spotify.com/album/5KQPjKcSB15Xy9DDlYzXtI) | 2:24 | 2022-07-14 | 2022-07-22 |
 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 | 2024-07-11 | 2024-07-19 |
@@ -25104,6 +25104,7 @@
 | [Wash It Away](https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Wash It Away](https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt) | 4:03 | 2024-04-25 | 2024-05-03 |
 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 | 2026-07-09 | 2026-07-17 |
 | [washing off the blood](https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [washing off the blood](https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf) | 2:54 | 2022-08-18 | 2022-08-26 |
+| [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-06 |  |
 | [Wasn't it sweet?](https://open.spotify.com/track/0NG405X61oF21s35JSI3Lf) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Wasn't it sweet?](https://open.spotify.com/album/3cUZDc9CYZxxB76Tbvtnpx) | 3:02 | 2026-09-17 | 2026-09-25 |
 | [Wasn't Meant To Be](https://open.spotify.com/track/0GRw7DZGp7KC9Plsy4DDgn) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [Wasn't Meant To Be](https://open.spotify.com/album/2YvV30u3YMsFucH6dMXQib) | 3:13 | 2024-01-25 | 2024-02-02 |
 | [Wassup](https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Wassup](https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF) | 2:51 | 2024-09-26 | 2024-10-04 |

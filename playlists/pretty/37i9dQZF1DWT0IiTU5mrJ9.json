@@ -1,6 +1,6 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 367066,
+  "num_followers": 367180,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 340866,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 326320,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
         "name": "Working Class Dog",
         "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2024-07-12 01:47:50",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-07-12 01:47:50",
       "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2024-07-12 01:47:50",
+      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 215106,
       "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
-    },
-    {
-      "added_at": "2024-07-12 01:47:50",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2024-07-12 01:47:50",

@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 128677,
       "name": "Fade",
       "url": "https://open.spotify.com/track/1v9xm7kxnarN1wpsHCbjcX"
@@ -2618,6 +2618,24 @@
       "duration_ms": 229160,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6wFLsyOl73n5elnJ9iYsXg"
+    },
+    {
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "album": {
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140800,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2qDGpWyOnEjZYRK9neyHng"
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 220802,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV"
@@ -6689,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "Love Is The Dance",
+        "url": "https://open.spotify.com/album/3GMbNTMjPI2gJULzw5RaK5"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240949,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/6UJhLeYdYqiEQJGBqBAlSN"
+    },
+    {
+      "album": {
         "name": "Reach Out To Me (Acoustic Rework)",
         "url": "https://open.spotify.com/album/3U8NDP92i6IjQgecTL3TE1"
       },
@@ -7796,7 +7836,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 256748,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv"
@@ -8460,6 +8500,24 @@
       "duration_ms": 327863,
       "name": "there is beauty when you allow yourself to see",
       "url": "https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN"
+    },
+    {
+      "album": {
+        "name": "Footnotes",
+        "url": "https://open.spotify.com/album/4ngQDKo3wxGc1LUSKgnPhk"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195433,
+      "name": "There Is Love Up Here",
+      "url": "https://open.spotify.com/track/1Cj9gcdcSQYipvVFTQXX2H"
     },
     {
       "album": {
@@ -9224,6 +9282,24 @@
       "duration_ms": 364114,
       "name": "Wind Tempos",
       "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"
+    },
+    {
+      "album": {
+        "name": "Windborn (Electronic)",
+        "url": "https://open.spotify.com/album/4QY0W6Ws7ZN4nl5xlqN5Bw"
+      },
+      "artists": [
+        {
+          "name": "Alex Swank",
+          "url": "https://open.spotify.com/artist/5egx2BTjH8kDbHMZm17JZf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Windborn - Electronic",
+      "url": "https://open.spotify.com/track/5B8z33zRzdFnV95qD7pRhF"
     },
     {
       "album": {

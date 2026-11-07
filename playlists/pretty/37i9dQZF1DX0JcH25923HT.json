@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 610761,
+  "num_followers": 610859,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "HECHO A MANO",
-        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "FULL ICE (prod. ORODEMBOW)",
-      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Pininfarina (Remix)",
         "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260787,
       "name": "Pininfarina - Remix",
       "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "HECHO A MANO",
+        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "FULL ICE (prod. ORODEMBOW)",
+      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -927,30 +927,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Quavo #Mododiablo",
-        "url": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 237428,
-      "name": "Quavo #Mododiablo",
-      "url": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "B.U.H.O",
         "url": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Quavo #Mododiablo",
+        "url": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 237428,
+      "name": "Quavo #Mododiablo",
+      "url": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Maracucho Bueno Muere Chiquito",
+        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
+      },
+      "artists": [
+        {
+          "name": "Cruzzi",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 212863,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Maracucho Bueno Muere Chiquito",
-        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
-      },
-      "artists": [
-        {
-          "name": "Cruzzi",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 212863,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Si Te Lastim\u00e9",
         "url": "https://open.spotify.com/album/00JEveuRpUpFxB2Npr8fNa"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2026-08-11 14:10:49",

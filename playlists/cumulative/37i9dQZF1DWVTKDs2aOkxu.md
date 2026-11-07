@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Rex Orange County
 
-1,270 songs - 3 day 3 hr 10 min
+1,271 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 | 2026-07-23 | 2026-10-02 |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-04-04 |
 | [Dont shoot now](https://open.spotify.com/track/01XXj3UB4e96fb7FY3yOMw) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Dont shoot now](https://open.spotify.com/album/3EfmI2bVIGHJjgztxS6226) | 3:57 | 2026-03-13 | 2026-03-27 |
+| [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 | 2026-11-06 |  |
 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 | 2026-07-16 | 2026-10-02 |
 | [Doomsday](https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Doomsday](https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS) | 3:48 | 2025-02-21 | 2025-04-28 |
 | [DooYaa](https://open.spotify.com/track/5FGPEPnoiNYn03xnF11XeK) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [DooYaa](https://open.spotify.com/album/6GsqpP0ninahTw13sGwitC) | 2:01 | 2026-05-07 | 2026-07-14 |
@@ -464,7 +465,7 @@
 | [Hands](https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Siren](https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY) | 3:45 | 2025-06-19 | 2025-09-27 |
 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-03-27 | 2026-08-07 |
 | [Hangman](https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Hangman](https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9) | 3:09 | 2025-02-07 | 2025-03-07 |
-| [Hannah Montana](https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:33 | 2026-10-15 |  |
+| [Hannah Montana](https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:33 | 2026-10-15 | 2026-11-07 |
 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 | 2026-04-03 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-07 | 2025-05-16 |
 | [Happy Birthday](https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Hers](https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE) | 3:36 | 2025-05-15 | 2025-08-01 |

@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX"
+    },
+    {
+      "album": {
         "name": "Dystopian",
         "url": "https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6"
       },

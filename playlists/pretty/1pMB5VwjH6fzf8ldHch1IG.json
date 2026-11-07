@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.",
-  "num_followers": 41427,
+  "num_followers": 41421,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABPvS0WQLzts6cv6/s3ASggS2Cjg7ll",
+  "snapshot_id": "AABPwbcyeOXvxO4Y+b+WktJl6WHndqVb",
   "tracks": [
     {
       "added_at": "2026-10-30 17:56:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-27 18:29:47",
       "album": {
-        "name": "Silver Springs (Live at Brixton Academy)",
-        "url": "https://open.spotify.com/album/2etGf71a0OUWfnfRSkeO3o"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 258125,
-      "name": "Silver Springs - Live at Brixton Academy",
-      "url": "https://open.spotify.com/track/1fiWssJa2EUFvm2ObOQnxO"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
         "name": "better late than not at all",
         "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
       },
@@ -1395,22 +1379,6 @@
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
-    },
-    {
-      "added_at": "2026-10-27 18:29:47",
-      "album": {
-        "name": "Miss That",
-        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Miss That",
-      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
       "added_at": "2026-10-27 18:29:47",

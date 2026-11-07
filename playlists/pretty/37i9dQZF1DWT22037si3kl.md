@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,474 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,467 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 35 | [Clarividente](https://open.spotify.com/track/3WcUbTs2HA8pQaVL2KswiN) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Clarividente](https://open.spotify.com/album/4QreYs6OFrZ5SPgVnXAcw2) | 2:20 |
 | 36 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |
 | 37 | [Mr\. Lupa Freestyle](https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Mr\. Lupa Freestyle](https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM) | 2:27 |
-| 38 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
-| 39 | [Não toca na lace](https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [Não toca na lace](https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9) | 2:12 |
+| 38 | [Não toca na lace](https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [Não toca na lace](https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9) | 2:12 |
+| 39 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
 | 40 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
 | 41 | [Alta Massa \(ATM\)](https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Alta Massa \(ATM\)](https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE) | 2:17 |
 | 42 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |

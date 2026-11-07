@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française avec ESTL.
 
-408 songs - 22 hr 19 min
+408 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 | 2025-09-11 | 2026-01-30 |
 | [Comme Les Grands](https://open.spotify.com/track/7dUSBPzL053R3aI9iCXw68) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Comme Les Grands](https://open.spotify.com/album/0E1faWHqxDFfhGk5QQLSEL) | 2:53 | 2026-10-22 |  |
 | [Comment fais\-tu pour vivre ? \- version guitare](https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [De ton vivant](https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ) | 3:42 | 2025-01-30 | 2025-07-04 |
+| [Comment se dire au revoir ?](https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [déséquilibres](https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L) | 2:28 | 2026-11-05 |  |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 | 2025-05-30 |
 | [Corps tambour](https://open.spotify.com/track/2f5NdeISuxxzNyqfhm9A7E) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [Corps tambour](https://open.spotify.com/album/3UoT71BW06uZYUfDuwUDX7) | 3:29 | 2026-05-28 | 2026-07-03 |
 | [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 | 2025-02-21 |
@@ -377,7 +378,6 @@
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
 | [Tout Va Bien](https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Tout Va Bien](https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9) | 3:11 | 2026-03-19 | 2026-06-12 |
 | [Toute l'eau qui coule](https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Toute l'eau qui coule](https://open.spotify.com/album/5HqFQf5hFstEHgZAp4d0mT) | 4:06 | 2026-04-16 | 2026-08-28 |
-| [Track 5](https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [déséquilibres](https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L) | 0:00 | 2026-11-05 |  |
 | [Trésor \- Clyde Bessi Remix](https://open.spotify.com/track/3GGIcLr0WfeaoZPfpeWp4a) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Clyde Bessi](https://open.spotify.com/artist/7a6OS3Sg3wFFGUtAdvS3vB) | [Trésor \(Clyde Bessi Remix\)](https://open.spotify.com/album/1KLF0zoSmQBhStk6xGUqsF) | 3:34 | 2026-05-07 | 2026-06-12 |
 | [Tsunami](https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tsunami](https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr) | 2:48 | 2026-02-05 | 2026-05-22 |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |

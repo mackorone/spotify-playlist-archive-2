@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-568 songs - 1 day 9 hr 18 min
+569 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [アルカリレットウセイ](https://open.spotify.com/track/4omwS3Lmbfbc6gAHQfX4aW) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [アルカリレットウセイ](https://open.spotify.com/album/2g8NCUxGjOVCs2BkqwosQS) | 3:29 | 2026-07-14 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
 | [ウィルス・バスター](https://open.spotify.com/track/2GdNzu0rSlebLnhmuTK2kr) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [天国も地獄もない場所へ](https://open.spotify.com/album/2en6z39Ksz1igDKtJdGGpK) | 3:30 | 2026-04-07 |  |
+| [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 | 2026-11-07 |  |
 | [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 | 2025-09-09 |  |
 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2023-09-07 |  |

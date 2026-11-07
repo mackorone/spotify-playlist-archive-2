@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42709,
+  "num_followers": 42715,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABqxDviC/jGWnZKo1ZimSME",
+  "snapshot_id": "auvHAAAAAABHBIFJFK+NCJ7km8Mxv6MI",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "DARA",
+        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+      "duration_ms": 171920,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg"
     },
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DARA",
-        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 171920,
-      "name": "Besos y Pendientes",
-      "url": "https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg"
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 196733,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Observador",
-        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
       "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 155179,
-      "name": "El Observador",
-      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+        "name": "El Observador",
+        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
       },
       "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 191680,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
+      "duration_ms": 155179,
+      "name": "El Observador",
+      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUALIDAD",
         "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 201499,
       "name": "DUALIDAD - feat. Esteman",
       "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
     },
     {
       "added_at": null,

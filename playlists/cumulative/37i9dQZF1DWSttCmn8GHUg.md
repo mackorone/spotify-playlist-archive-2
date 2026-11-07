@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-159 songs - 9 hr 34 min
+160 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 | 2021-11-12 |  |
 | [Keep Her Breathing](https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Keep Her Breathing](https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI) | 4:02 | 2022-07-01 | 2025-04-21 |
 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:23 | 2023-06-30 |  |
+| [Long May You Wave](https://open.spotify.com/track/5yvKeKQdhxTFQUI9aGR8Z5) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Country](https://open.spotify.com/album/3QuiL0uxuctSXvfs2K5igd) | 3:37 | 2026-11-06 |  |
 | [Looking for America](https://open.spotify.com/track/32WGqV7YUfh2RmkeLWf2X7) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Looking for America](https://open.spotify.com/album/4QeN0f59QgvZ3AOl9WTaSK) | 3:40 | 2021-11-12 | 2023-08-21 |
 | [Love and Sunsets](https://open.spotify.com/track/6RCq9dlYpOTfhu6OaVrK6X) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:40 | 2023-06-30 | 2023-07-12 |
 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 | 2021-11-12 |  |

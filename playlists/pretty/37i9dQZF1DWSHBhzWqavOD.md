@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 
 > The Biggest Afrobeats festival in World
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,109 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,159 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 | 58 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
 | 59 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
 | 60 | [Shakabulizzy](https://open.spotify.com/track/0VrCqCukErAdpwmtaXpiqk) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:45 |
-| 61 | [Gentility](https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ) | 3:45 |
-| 62 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 |
+| 61 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 |
+| 62 | [Gentility](https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ) | 3:45 |
 | 63 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 64 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 65 | [Escaladizzy](https://open.spotify.com/track/258ZOMdFXcoTHA5D2LnCzZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:44 |

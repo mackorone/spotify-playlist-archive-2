@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,534 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,545 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 19 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 20 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 21 | [Jump](https://open.spotify.com/track/5Oe39YjfLgr9bPh7JG1j7V) | [Rupee](https://open.spotify.com/artist/2kZDAjQbMG7N07MW6eOtRt) | [Soca Gold 2001](https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7) | 3:36 |
-| 22 | [Wine Up On Me](https://open.spotify.com/track/4V1sxTLIM6lDwBwCXoTmoN) | [Zoelah](https://open.spotify.com/artist/0nk75ngoAM8dp0z5IRPTqD) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:13 |
-| 23 | [Bamcie](https://open.spotify.com/track/3vD7VUNEdpFhgZ1C0mSRzL) | [Added Rankin](https://open.spotify.com/artist/1v6UUdPKZmQFj3OxaXVlgp), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Bamcie](https://open.spotify.com/album/61PFuSvjRRQ7MR1HZZvq4W) | 3:01 |
+| 22 | [Bamcie](https://open.spotify.com/track/3vD7VUNEdpFhgZ1C0mSRzL) | [Added Rankin](https://open.spotify.com/artist/1v6UUdPKZmQFj3OxaXVlgp), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Bamcie](https://open.spotify.com/album/61PFuSvjRRQ7MR1HZZvq4W) | 3:01 |
+| 23 | [Wine Up On Me](https://open.spotify.com/track/4V1sxTLIM6lDwBwCXoTmoN) | [Zoelah](https://open.spotify.com/artist/0nk75ngoAM8dp0z5IRPTqD) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:13 |
 | 24 | [Wukking Up](https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:34 |
 | 25 | [Take That And Cool It](https://open.spotify.com/track/3E5QSlr9d88EUkpCpmRRAy) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca Gold 1999](https://open.spotify.com/album/7lXYYWgiMYKniPNTPMPGux) | 3:21 |
 | 26 | [Workey Workey](https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |

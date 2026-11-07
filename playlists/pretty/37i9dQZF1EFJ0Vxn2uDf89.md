@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 69 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 |
 | 70 | [Hatchet](https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:00 |
 | 71 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
-| 72 | [Late Texts](https://open.spotify.com/track/36RPbRMFf8h79OUpEyjveD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Late Texts](https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0) | 3:21 |
-| 73 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 72 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 73 | [Late Texts](https://open.spotify.com/track/36RPbRMFf8h79OUpEyjveD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Late Texts](https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0) | 3:21 |
 | 74 | [sad disco](https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:03 |
 | 75 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
 | 76 | [Don't Need A Hero](https://open.spotify.com/track/22S4rNFZzGcpDLo0Oqnnay) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Last Legends](https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq) | 2:33 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 99 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
 | 100 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 101 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
-| 102 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
-| 103 | [Magnet](https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:48 |
+| 102 | [Magnet](https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:48 |
+| 103 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
 | 104 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
 | 105 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
 | 106 | [Gotta Get To Know Ya](https://open.spotify.com/track/2v8jqoNTcjzgS2W5UG9QhB) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/2gHwDJVrMGadBm6mPUnWt5) | 2:17 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `Acg5NAAAAAAp6omUubhd2Xtn63VXm7RF`
+Snapshot ID: `Acg+mAAAAABOjbdqKsw+gEWPd8vBYZwt`

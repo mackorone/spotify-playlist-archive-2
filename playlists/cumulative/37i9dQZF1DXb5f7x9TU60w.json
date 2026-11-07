@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "Disney Guitar: A Day at the Parks",
+        "url": "https://open.spotify.com/album/58PVPZMGDlHjNrpbHIiLDF"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237952,
+      "name": "Special Spice",
+      "url": "https://open.spotify.com/track/1eOllJ1dAlPKmM9nUfWmhJ"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Self-Care Day",
         "url": "https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ"
       },

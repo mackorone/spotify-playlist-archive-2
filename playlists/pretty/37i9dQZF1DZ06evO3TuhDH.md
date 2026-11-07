@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,734 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,740 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 29 | [2055 \(feat\. Coi Leray\)](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
 | 30 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
 | 31 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Here 2 Stay](https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr) | 2:42 |
-| 32 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
+| 32 | [BOOMERANG \(with Coi Leray\)](https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [BE MORE GRATEFUL](https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg) | 2:23 |
 | 33 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
-| 34 | [BOOMERANG \(with Coi Leray\)](https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [BE MORE GRATEFUL](https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg) | 2:23 |
+| 34 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
 | 35 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
 | 36 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
 | 37 | [Bops](https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Run It Up](https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:48 |
 | 50 | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 |
 
-Snapshot ID: `aukkAAAAAADxEqGg7VmMdlptzYJPBWJi`
+Snapshot ID: `aup1gAAAAACdXcS8EE5H8uGhagdK5Bqu`

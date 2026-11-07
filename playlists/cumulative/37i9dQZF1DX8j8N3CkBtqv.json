@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring NAALAYAK, Mary Ann Alexander, Mali and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -3108,6 +3108,24 @@
       "duration_ms": 200000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/6sEVxXlAcot28Q8JZRqLv4"
+    },
+    {
+      "album": {
+        "name": "Where Was I?",
+        "url": "https://open.spotify.com/album/3fTqy8wYSowZeA71B9iBXK"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211799,
+      "name": "Back to the Beginning",
+      "url": "https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV"
     },
     {
       "album": {
@@ -18798,7 +18816,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 190374,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/4YREh59w3UnAwAwUWnIWo0"
@@ -20710,6 +20728,24 @@
       "duration_ms": 182117,
       "name": "Meri Kya Khata",
       "url": "https://open.spotify.com/track/6SGrGVVWXclsz51sBRdOcJ"
+    },
+    {
+      "album": {
+        "name": "Mero Maya",
+        "url": "https://open.spotify.com/album/4LspdBmdfBzk8bqy1e0JSB"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182745,
+      "name": "Mero Maya",
+      "url": "https://open.spotify.com/track/1GRJFarWkjmh8VTvdOR8bl"
     },
     {
       "album": {
@@ -34052,7 +34088,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217714,
       "name": "Yahan Pe Sirf Mai Hun",
       "url": "https://open.spotify.com/track/5Ozrr8yOw3BkS3EawFPFuK"

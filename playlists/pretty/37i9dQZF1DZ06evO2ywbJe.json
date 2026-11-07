@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9699,
+  "num_followers": 9715,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACg1kda0KfHSjCm0vcv00hY",
+  "snapshot_id": "auvHAAAAAAC4BFINsZkuPs88/96fbojz",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "it's over",
         "url": "https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 190972,
       "name": "it's over",
       "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
     },
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "IDK (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 187104,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/1MynOK123K3zlPeeGXK3v9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life {Freestyle}",
+        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 92589,
+      "name": "Good Life {Freestyle}",
+      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JET",
         "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
       },
@@ -395,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life {Freestyle}",
-        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
       },
       "artists": [
         {
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 92589,
-      "name": "Good Life {Freestyle}",
-      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Bottles",
+        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 178936,
+      "name": "10 Bottles",
+      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Bottles",
-        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 178936,
-      "name": "10 Bottles",
-      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -527,30 +527,6 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance for Jesus",
-        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 200948,
-      "name": "Dance for Jesus",
-      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": null,
@@ -579,42 +555,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+        "name": "Dance for Jesus",
+        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 139695,
-      "name": "Hip Hop Messiah",
-      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
+      "duration_ms": 200948,
+      "name": "Dance for Jesus",
+      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": null,
@@ -639,6 +599,46 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 139695,
+      "name": "Hip Hop Messiah",
+      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
     },
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
-      },
-      "artists": [
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Hallelu",
-      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 148375,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Hallelu",
+      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
     },
     {
       "added_at": null,
@@ -911,18 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+        "name": "Am I a Yahoo Boy",
+        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
       },
       "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+      "duration_ms": 148820,
+      "name": "Am I a Yahoo Boy",
+      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
     },
     {
       "added_at": null,
@@ -975,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I a Yahoo Boy",
-        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148820,
-      "name": "Am I a Yahoo Boy",
-      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     },
     {
       "added_at": null,

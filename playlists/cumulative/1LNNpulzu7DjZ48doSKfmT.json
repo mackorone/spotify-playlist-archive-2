@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "419 Grind",
+        "url": "https://open.spotify.com/album/6xKZAAiplC9GTKcfoDoE2w"
+      },
+      "artists": [
+        {
+          "name": "Loco Mic",
+          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
+        },
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184424,
+      "name": "419 Grind",
+      "url": "https://open.spotify.com/track/0P3Y56mCqaKfgtW26Ftgks"
+    },
+    {
+      "album": {
         "name": "41st Avenue",
         "url": "https://open.spotify.com/album/1J8V0ydHOrQps5PXxSpKow"
       },
@@ -1929,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Badali Badala",
+        "url": "https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian McQueen",
+          "url": "https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "Badali Badala",
+      "url": "https://open.spotify.com/track/0ZNdALVJvUZ7ciSdY7yHIP"
+    },
+    {
+      "album": {
         "name": "LET\u2019s EAT",
         "url": "https://open.spotify.com/album/2crZqLh32NUgVDHPlRL8be"
       },
@@ -2644,6 +2684,24 @@
       "duration_ms": 115971,
       "name": "blood red",
       "url": "https://open.spotify.com/track/7mwN8Wyg9JL5ALx4MY15pY"
+    },
+    {
+      "album": {
+        "name": "The World Is Ours 2",
+        "url": "https://open.spotify.com/album/6AWRtH5hRsSRvpmvWVej9T"
+      },
+      "artists": [
+        {
+          "name": "YKTV Mast3rMind",
+          "url": "https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145701,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/7wF3rjxqVdIT0JHUGidjXT"
     },
     {
       "album": {
@@ -21395,6 +21453,24 @@
     },
     {
       "album": {
+        "name": "Tx",
+        "url": "https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6"
+      },
+      "artists": [
+        {
+          "name": "Jey Z",
+          "url": "https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158014,
+      "name": "Tx",
+      "url": "https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6"
+    },
+    {
+      "album": {
         "name": "Tyme = Money",
         "url": "https://open.spotify.com/album/3lPWBgSJaobKWZxAb7gTyq"
       },
@@ -22000,6 +22076,24 @@
       "duration_ms": 194754,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/4KOe3v2gjjx1QTGZ8b79hw"
+    },
+    {
+      "album": {
+        "name": "Modern Masterpiece",
+        "url": "https://open.spotify.com/album/0g5vBBkc0hSeuYAhU5IKfT"
+      },
+      "artists": [
+        {
+          "name": "Versifyer",
+          "url": "https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156981,
+      "name": "Walk Different",
+      "url": "https://open.spotify.com/track/5dI2QQQGggILTH2M8dMiiy"
     },
     {
       "album": {

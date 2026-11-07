@@ -11256,7 +11256,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "CUM ESTI TU",
       "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
@@ -12714,7 +12714,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 136551,
       "name": "Deles",
       "url": "https://open.spotify.com/track/68A0gAXWWtQfzTdPox7qDf"
@@ -24284,7 +24284,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
@@ -29562,7 +29562,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
@@ -30860,7 +30860,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 137500,
       "name": "Mor dup\u0103 tine",
       "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
@@ -38232,7 +38232,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160450,
       "name": "P\u0103i naa",
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
@@ -45207,6 +45207,24 @@
     },
     {
       "album": {
+        "name": "Suparat",
+        "url": "https://open.spotify.com/album/28vu1uH9pEbf6qu9TlrOt3"
+      },
+      "artists": [
+        {
+          "name": "Bote",
+          "url": "https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122165,
+      "name": "Suparat",
+      "url": "https://open.spotify.com/track/2aQWTDFdujYurP6t2WnvIP"
+    },
+    {
+      "album": {
         "name": "COLDMODE",
         "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
       },
@@ -49800,7 +49818,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/4xqcdWSI76WcQBottrpm1Z"

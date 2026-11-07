@@ -4,7 +4,7 @@
 
 > Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-368 songs - 21 hr 7 min
+369 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [old pine](https://open.spotify.com/track/5TReMSBAzZjH6YintvTn6q) | [Tom Harmon](https://open.spotify.com/artist/5fuvGY1WKZe253R5k3C6f6) | [you know, when you know](https://open.spotify.com/album/7IzhnT90Gp2FprYHbARhQK) | 3:00 | 2026-01-27 | 2026-01-31 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-07-18 | 2026-01-27 |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2026-01-27 |  |
+| [Only Want You](https://open.spotify.com/track/4ICTiNMlVnqu60ZqZZcLio) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Want You](https://open.spotify.com/album/7jbRB0YJd5U2U03l86Wr6A) | 2:53 | 2026-11-06 |  |
 | [Ophelia](https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD) | 2:40 | 2026-01-27 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-07-18 |  |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2025-07-18 | 2026-02-05 |
@@ -337,7 +338,7 @@
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-07-18 |  |
 | [twin](https://open.spotify.com/track/5DIZg9QqSdzgHmkZ2k2F1a) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:28 | 2025-07-18 | 2025-12-02 |
 | [Two Roads](https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Two Roads](https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi) | 3:34 | 2025-08-15 | 2026-01-27 |
-| [Two Roads](https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU) | 4:00 | 2026-08-21 |  |
+| [Two Roads](https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU) | 4:00 | 2026-08-21 | 2026-11-07 |
 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 | 2026-02-05 |
 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-21 |  |
 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-09-12 | 2026-01-31 |

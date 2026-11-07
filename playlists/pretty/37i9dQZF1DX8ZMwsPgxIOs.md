@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Kaufmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,224 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,257 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 |
 | 2 | [Easy A](https://open.spotify.com/track/3yTW2LvYpeVFx9SMjkoAd6) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Easy A](https://open.spotify.com/album/2Mv7X134UrZL7mVI8zNEmt) | 4:08 |
-| 3 | [Conjure Dreams \- Adam Beyer & Bart Skils 2026 Rework](https://open.spotify.com/track/3kV5WoRkjlEBcNhYrwfI49) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Conjure Dreams \(Adam Beyer & Bart Skils 2026 Rework\)](https://open.spotify.com/album/0EdFULSofXpXSpka8XMZRa) | 3:51 |
+| 3 | [Conjure Dreams \- Adam Beyer & Bart Skils Rework](https://open.spotify.com/track/3kV5WoRkjlEBcNhYrwfI49) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Conjure Dreams \(Adam Beyer & Bart Skils Rework\)](https://open.spotify.com/album/0EdFULSofXpXSpka8XMZRa) | 3:51 |
 | 4 | [God Gave Us Techno](https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [God Gave Us Techno](https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH) | 3:08 |
 | 5 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 6 | [17](https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Mario Eighta](https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m) | [17](https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn) | 2:45 |

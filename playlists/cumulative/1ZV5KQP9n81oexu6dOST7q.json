@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Roze",
+        "url": "https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Roze",
+      "url": "https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ"
+    },
+    {
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
       },

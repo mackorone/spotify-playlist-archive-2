@@ -61061,6 +61061,24 @@
     },
     {
       "album": {
+        "name": "Empty Pages",
+        "url": "https://open.spotify.com/album/3Of72v7nggqBaqtk9FV8uk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nealon",
+          "url": "https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166924,
+      "name": "Empty Pages",
+      "url": "https://open.spotify.com/track/0juRuUWd216Juj2sa9Ujds"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
       },
@@ -108184,7 +108202,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 216428,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr"
@@ -130324,6 +130342,24 @@
       "duration_ms": 231693,
       "name": "Magazine",
       "url": "https://open.spotify.com/track/0Rop7nCpDSuqnuvzWvZIdq"
+    },
+    {
+      "album": {
+        "name": "American Heroine",
+        "url": "https://open.spotify.com/album/4x9bMp8KgfQURQ7eG5hnzr"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134430,
+      "name": "MAGDALENE",
+      "url": "https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK"
     },
     {
       "album": {
@@ -185470,7 +185506,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 171192,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT"

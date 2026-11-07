@@ -4,7 +4,7 @@
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-1,834 songs - 4 day 12 hr 59 min
+1,840 songs - 4 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Almost Quiet](https://open.spotify.com/track/68BWFUnxaCJIyzsCjKqlp1) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Almost Quiet](https://open.spotify.com/album/35oFd9bqo5OnLx7I7ok7g2) | 3:11 | 2026-03-13 |  |
 | [Alone with you](https://open.spotify.com/track/4ghLTnIe4wfTIzNnTVODTm) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [Alone with you](https://open.spotify.com/album/06wnAvoQd6FvpVPY3MKWbH) | 2:33 | 2026-08-21 | 2026-10-17 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 | 2024-03-08 |
+| [Always almost there](https://open.spotify.com/track/2SHj1Po1J90JMHSqVxaWB0) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Always almost there](https://open.spotify.com/album/47ri5ThOSPteNBPPR8VYjK) | 2:44 | 2026-11-06 |  |
 | [Always On my Mind](https://open.spotify.com/track/0LI0rsq1p8nw9EovQIiKRx) | [Golden Steps Trio](https://open.spotify.com/artist/6C2dhn7pnRikQAFFajcyY7) | [Always On my Mind](https://open.spotify.com/album/4iWqXsLXYskVYQEhrgqpkY) | 3:17 | 2026-03-20 |  |
 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 | 2022-11-10 | 2025-05-20 |
 | [Amenity](https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Amenity](https://open.spotify.com/album/25AGC7Jl9JmsBzDILQUbaP) | 3:56 | 2025-05-19 | 2025-11-04 |
@@ -322,6 +323,7 @@
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 | 2026-01-15 |
 | [Come Rain or Come Shine](https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Come Rain or Come Shine](https://open.spotify.com/album/1tFgyR4GBYlizU5mbU9hSN) | 3:45 | 2022-03-16 | 2025-02-25 |
 | [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-09 | 2023-05-12 |
+| [Comedy of Errors](https://open.spotify.com/track/5L9zNJ65rtubRLXeRVCKZV) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comedy of Errors](https://open.spotify.com/album/5QW9qin1WKz3Y7TFRNMVVN) | 3:07 | 2026-11-06 |  |
 | [Comin' Home](https://open.spotify.com/track/37TT49ibO443nURgjFI5wd) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Comin' Home](https://open.spotify.com/album/6ncZ5omXi25febQFNuXSAs) | 3:59 | 2024-01-19 | 2024-07-02 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-04-25 | 2024-07-16 |
 | [Con Alba](https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Moon Time](https://open.spotify.com/album/5us4c8ltJbJGlyhpHzXIG3) | 3:17 | 2022-01-17 | 2024-06-25 |
@@ -936,6 +938,7 @@
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-03-01 | 2024-06-12 |
 | [Lunas Dream](https://open.spotify.com/track/77YKSYQhHXC6YG02ZJVQc1) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Lunas Dream](https://open.spotify.com/album/0nLiIfzWepexzSUDloTXhk) | 3:04 | 2025-07-15 | 2026-04-11 |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 | 2025-01-08 |
+| [Magnolia Moon](https://open.spotify.com/track/2khyR5WSgHqU9q7Vw7vQnA) | [The Copperwick Trio](https://open.spotify.com/artist/71W50g6lG7VMwSUM6bjTZy) | [Magnolia Moon](https://open.spotify.com/album/5wJ6THF6MFYnxthF1h18HT) | 3:15 | 2026-11-06 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-17 | 2024-09-03 |
 | [Maid of the Mist](https://open.spotify.com/track/1VzGuLqOVD04gpXZxCDPiM) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Maid of the Mist](https://open.spotify.com/album/7ywB5P1IATCRF2oTqsWedW) | 2:24 | 2023-01-05 | 2025-08-28 |
 | [Make It Rain](https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Make It Rain](https://open.spotify.com/album/35eoTArdoBLU6DD4d9wplC) | 2:29 | 2024-03-22 | 2026-01-15 |
@@ -1254,7 +1257,7 @@
 | [Rope's End](https://open.spotify.com/track/56nub5bomAAqx6GFlz2DRh) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Rope's End](https://open.spotify.com/album/5tjfRYMJAUGQ8h7gpUlulm) | 3:31 | 2025-03-18 | 2025-09-18 |
 | [Roses](https://open.spotify.com/track/3rHZHXHKsjvJJPgBiQMmQR) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Roses](https://open.spotify.com/album/0UeANj4WzvJQmhb509bqmL) | 4:11 | 2022-01-17 | 2023-03-31 |
 | [Rotorua City](https://open.spotify.com/track/6zWvcIrTdwy8MjeiboMOqN) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rotorua City](https://open.spotify.com/album/7fg11HFr4yqGo57XzAO1F5) | 3:11 | 2023-01-26 | 2023-03-25 |
-| [Row After Row](https://open.spotify.com/track/08q0ZcOMEc0dKUkxv1LwyX) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Row After Row](https://open.spotify.com/album/1XF5Q9YQzR85UzKzgQAvaS) | 3:18 | 2025-09-23 |  |
+| [Row After Row](https://open.spotify.com/track/08q0ZcOMEc0dKUkxv1LwyX) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Row After Row](https://open.spotify.com/album/1XF5Q9YQzR85UzKzgQAvaS) | 3:18 | 2025-09-23 | 2026-11-07 |
 | [Rowboat](https://open.spotify.com/track/7k65vp0BYTr0prFMvU3lEJ) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Rowboat](https://open.spotify.com/album/1c9fAorQJk2w003sNiyyKR) | 5:05 | 2025-03-24 | 2025-06-06 |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-02-09 | 2025-03-19 |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-05-31 | 2023-01-27 |
@@ -1300,6 +1303,7 @@
 | [Shinbashi](https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Shinbashi](https://open.spotify.com/album/6NeDuoWZG13tBB2xxb7v4N) | 3:04 | 2022-08-09 | 2024-06-25 |
 | [Shores](https://open.spotify.com/track/7EQGOOZ4iUGuZ42PdUvn4F) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Shores](https://open.spotify.com/album/4B79fn1RGObW6gRckCjo5T) | 2:54 | 2024-10-01 | 2025-12-03 |
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 | 2025-12-03 |
+| [Side Street](https://open.spotify.com/track/2GLls21j44fPcGgGEFEVXg) | [The Bruce Brady Trio](https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW) | [Side Street](https://open.spotify.com/album/4XiG4PDLNPPya2vVQHOBM2) | 3:59 | 2026-11-06 |  |
 | [Sidewalk](https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Sidewalk](https://open.spotify.com/album/3QUPNKcifdHWwhsUPWVbFJ) | 4:32 | 2024-05-23 | 2024-11-19 |
 | [Sight Unseen](https://open.spotify.com/track/6OD0P0d2ERLOycczP76iNh) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Sight Unseen](https://open.spotify.com/album/3owpUGZwXXSO0Dtq3N7bcI) | 3:28 | 2025-03-24 | 2026-01-27 |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-28 | 2024-04-17 |
@@ -1367,6 +1371,7 @@
 | [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 | 2022-04-01 | 2023-10-13 |
 | [Someway, some day](https://open.spotify.com/track/08KBRHYLk24NExCXMXKDGT) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Someway, some day](https://open.spotify.com/album/66ab1Y7VoXPxdZpxsd8MSj) | 2:43 | 2026-08-21 |  |
 | [Somewhere](https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Somewhere](https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo) | 3:39 | 2024-01-19 | 2026-01-17 |
+| [Somewhere near here](https://open.spotify.com/track/7LFCB1bv6SqJf2XTQ8HUgI) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Somewhere near here](https://open.spotify.com/album/73TAVnjm2dEdCs5AJhI4K4) | 2:59 | 2026-11-06 |  |
 | [Somewhere There´s You](https://open.spotify.com/track/0WN8b7JAbkL0L2NuXFz8kc) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Somewhere There´s You](https://open.spotify.com/album/7ytVAIgVDRSkZlvu63qyPY) | 3:12 | 2025-02-17 | 2026-04-25 |
 | [Somewhere, Somehow](https://open.spotify.com/track/06caiB2PQK3uWYwzvmsQvi) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Somewhere, Somehow](https://open.spotify.com/album/4zbLKz2BPnK8Bq1pySwxcH) | 3:37 | 2025-05-19 | 2026-04-11 |
 | [Song for Us](https://open.spotify.com/track/2zmhqzFeagL6yry1kEvGT5) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Song for Us](https://open.spotify.com/album/4JQRaH0ERIPpqLVQm0bpqi) | 3:41 | 2024-09-27 | 2025-05-06 |
@@ -1457,6 +1462,7 @@
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 | 2025-12-03 |
 | [Swivel Around Me](https://open.spotify.com/track/6pNCr9TVxcgqqYHhhAjnPF) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Swivel Around Me](https://open.spotify.com/album/2R6oGbDB1jcRbpm2hPjKPc) | 2:50 | 2022-08-09 | 2025-02-25 |
 | [Table For Two Please](https://open.spotify.com/track/0q6eQ32MAZyFv831XUrR8E) | [Walker Green Band](https://open.spotify.com/artist/2kjYQGTeWG9pl8YLUsLOwg) | [Table For Two Please](https://open.spotify.com/album/5OvfX9BMCN1bKlDpI029Cn) | 3:02 | 2026-07-17 |  |
+| [Take me home](https://open.spotify.com/track/4SkhHVUXibix9W6NR3kZRF) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Take me home](https://open.spotify.com/album/5PMgOmb0jHyhJp24FFqIpC) | 3:35 | 2026-11-06 |  |
 | [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 | 2024-01-19 | 2024-08-13 |
 | [Take Your Time](https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Take Your Time](https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN) | 4:38 | 2023-12-08 | 2024-09-10 |
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-08 | 2025-02-18 |

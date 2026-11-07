@@ -1,6 +1,6 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1601289,
+  "num_followers": 1601360,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Crawlers - EP",
+        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 254418,
+      "name": "Come Over (Again)",
+      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Crawlers - EP",
-        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 254418,
-      "name": "Come Over (Again)",
-      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
       },
       "artists": [
         {
-          "name": "Michele Leigh",
-          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 165254,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     }
   ],
   "unique_name": "sad girl starter pack",

@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-367 songs - 21 hr 32 min
+369 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Hace Tiempo](https://open.spotify.com/track/4a9YNWAPVNVvlt9EwiQ609) | [La Meca](https://open.spotify.com/artist/0tM8G5TfWBjmw2iUm0Kl6o) | [Hace Tiempo](https://open.spotify.com/album/3rFGq2bNcZBs6Brv7PRIwt) | 3:05 | 2025-08-26 | 2026-04-06 |
 | [Harry Kane](https://open.spotify.com/track/18vspHGkRqKpTTKLtch9cJ) | [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Harry Kane](https://open.spotify.com/album/0lY96Stm5gOUJwPRpTNKKJ) | 2:22 | 2025-05-20 | 2026-04-06 |
 | [Here, Here We Go Again](https://open.spotify.com/track/1aoS4v22mAUOGH6QSP2kO6) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Here, Here We Go Again](https://open.spotify.com/album/7Ddr30cVQKX9Ifriov5f15) | 2:44 | 2026-08-29 |  |
+| [Here, punx!](https://open.spotify.com/track/1iQo9Ch0BKmoCmO4af2unQ) | [Giacomo Roppa](https://open.spotify.com/artist/71XHy0XkhUu9BZtDRjjTZ2) | [No flowers for her](https://open.spotify.com/album/62gbuFKHmxgk8jIWB6YVn3) | 2:31 | 2026-11-06 |  |
 | [Hipnotizarme](https://open.spotify.com/track/7lYpukPIr6rmEnr6akxNY7) | [Hades THC](https://open.spotify.com/artist/3mZWdB1lqbnwVVwMhn8X2r) | [Hipnotizarme](https://open.spotify.com/album/0cjHarKYnFnnBto8WmknSQ) | 2:02 | 2025-03-07 | 2026-04-06 |
 | [History](https://open.spotify.com/track/1KVYvFFHGIiakOYjVfGNt8) | [Afd](https://open.spotify.com/artist/790m3H8XONRYeX6S5iMDgu) | [History](https://open.spotify.com/album/4YxxtbYa4z21LcQBnStbSq) | 2:34 | 2025-03-21 | 2026-04-06 |
 | [Holy Skin](https://open.spotify.com/track/0cJ0zbnipjXU4WU89Y41FJ) | [Hades THC](https://open.spotify.com/artist/3mZWdB1lqbnwVVwMhn8X2r) | [Holy Skin](https://open.spotify.com/album/232lQANDSVg41ANv4Ei3hp) | 3:20 | 2025-03-07 | 2026-04-06 |
@@ -252,6 +253,7 @@
 | [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 | 2026-05-14 | 2026-10-08 |
 | [One of a Kind](https://open.spotify.com/track/2Loj4wKwkthHdA4akfT9Vq) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [One of a Kind](https://open.spotify.com/album/1DC0CoPSsxs3zCXefhIrYa) | 3:05 | 2026-09-04 |  |
 | [Open My Eyes](https://open.spotify.com/track/5khCPjZWiOFb8HoMWyG1vL) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Open My Eyes](https://open.spotify.com/album/48UTJXHn5wgmqS27hJQifH) | 3:07 | 2026-09-15 |  |
+| [Oro e Argento](https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw) | [Enrico Lotterini](https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT) | [Lòrico](https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD) | 3:51 | 2026-11-06 |  |
 | [Para volverte a ver](https://open.spotify.com/track/0RMJH4BY4TsfPZpDhzojoC) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Para volverte a ver](https://open.spotify.com/album/6xHhy8egyGlxZV8YlNNZcU) | 3:14 | 2025-05-11 | 2026-04-06 |
 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 | 2025-04-02 | 2026-04-06 |
 | [Perdón, joder](https://open.spotify.com/track/6JqQrFpb9y2b6s7dMfgQNI) | [Dani Leiva](https://open.spotify.com/artist/5sSNiAK830tcTjCsD8uIPW) | [Perdón, joder](https://open.spotify.com/album/0tL2cbP9wAWxZw2A2G8KjB) | 2:17 | 2025-06-30 | 2026-04-06 |

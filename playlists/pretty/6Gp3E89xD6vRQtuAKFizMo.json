@@ -1,13 +1,61 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43199,
+  "num_followers": 43198,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa5qsgMY8X2grY/5FBm+wrqgGvdFga",
+  "snapshot_id": "AAAa63KHxdzQHM1vFQnUw7rTZrcMmyK/",
   "tracks": [
+    {
+      "added_at": "2026-11-06 12:57:40",
+      "album": {
+        "name": "VENGEANCE",
+        "url": "https://open.spotify.com/album/5Um0i7eZlHURy9qmQSObUS"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "VENGEANCE",
+      "url": "https://open.spotify.com/track/6LCSAAitYcdgRvCu6BgGGg"
+    },
+    {
+      "added_at": "2026-11-06 12:58:02",
+      "album": {
+        "name": "The Afters (Hard Dance VIP)",
+        "url": "https://open.spotify.com/album/1ymGXX58nWTR72BsZwtaz4"
+      },
+      "artists": [
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "The Afters - Hard Dance VIP",
+      "url": "https://open.spotify.com/track/2tQoJx2Spz25nDMyRtOScP"
+    },
+    {
+      "added_at": "2026-11-06 12:59:09",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/57LsvJaxtoYTv6QzAkEPYF"
+      },
+      "artists": [
+        {
+          "name": "Ghost Jr",
+          "url": "https://open.spotify.com/artist/4eFVDYhMMfEXPMJEPMooeQ"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/23jPDE6HXsI298Owd2H9Bd"
+    },
     {
       "added_at": "2026-10-23 05:00:43",
       "album": {

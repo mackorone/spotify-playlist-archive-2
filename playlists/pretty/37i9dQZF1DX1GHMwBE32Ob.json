@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Santi",
-  "num_followers": 164798,
+  "num_followers": 164920,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -467,42 +467,6 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "Bullion Van",
-        "url": "https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb"
-      },
-      "artists": [
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Bullion Van",
-      "url": "https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 183708,
-      "name": "Skilful",
-      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -523,6 +487,22 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 183708,
+      "name": "Skilful",
+      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
         "name": "A Street Kid's Diary (Disk 2)",
         "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 143157,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
+        "name": "Bullion Van",
+        "url": "https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Bullion Van",
+      "url": "https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "WINDOW",
-        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "OctobersRich",
-          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
-        }
-      ],
-      "duration_ms": 99487,
-      "name": "WINDOW",
-      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
         "name": "All Hail Muyeez",
         "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "OctobersRich",
+          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
         }
       ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+      "duration_ms": 99487,
+      "name": "WINDOW",
+      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -667,6 +651,22 @@
       "duration_ms": 172427,
       "name": "Better",
       "url": "https://open.spotify.com/track/47lAumJmAKOAtG4nPX6TVi"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
         "name": "A Street Kid's Diary (Disk 2)",
         "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
       },
@@ -739,22 +719,6 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
         "name": "Round One (Elle Mummy)",
         "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
       },
@@ -767,6 +731,42 @@
       "duration_ms": 146000,
       "name": "Round One (Elle Mummy)",
       "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 159131,
+      "name": "Group Chat",
+      "url": "https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5"
+    },
+    {
+      "added_at": "2026-11-06 03:59:32",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2026-11-06 03:59:32",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 159131,
-      "name": "Group Chat",
-      "url": "https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5"
     },
     {
       "added_at": "2026-11-06 03:59:32",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2026-11-06 03:59:32",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 135549,
+      "name": "Fast and Furious",
+      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
     }
   ],
   "unique_name": "Street Energy ",

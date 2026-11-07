@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 89214,
+  "num_followers": 89233,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAK/uYc8VN6xJXglORgUr7H",
+  "snapshot_id": "auvHAAAAAADhV5HJBxL/YiQ+vRkpmg5v",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Show Me Love (with Tyla)",
-        "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176957,
-      "name": "Show Me Love (with Tyla)",
-      "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
     },
     {
       "added_at": null,
@@ -135,6 +111,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Me Love (with Tyla)",
+        "url": "https://open.spotify.com/album/1zN4gQ1sBDT1ICwtCAkFBL"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176957,
+      "name": "Show Me Love (with Tyla)",
+      "url": "https://open.spotify.com/track/08PxvkOIAJwMPy0GVzmBKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148377,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUNNY little FEARS (DREAMS)",
         "url": "https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148377,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNAMITE",
-        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 250982,
       "name": "PBT",
       "url": "https://open.spotify.com/track/5820PtzfB116EIALe50F6t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Nice Guy (feat. Tyla)",
-      "url": "https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Nice Guy (feat. Tyla)",
+      "url": "https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L"
     },
     {
       "added_at": null,

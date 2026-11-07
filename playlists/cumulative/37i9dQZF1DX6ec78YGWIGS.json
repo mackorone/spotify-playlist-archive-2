@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147396,
       "name": "-tu abrigo",
       "url": "https://open.spotify.com/track/7B1JHHlXa2z8diIljtsIvI"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184518,
       "name": "100 D\u00edas",
       "url": "https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146512,
       "name": "Adictamente Inestable",
       "url": "https://open.spotify.com/track/34VPzRAat67FSbhK6LBwIQ"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 172941,
       "name": "BOTOXxx",
       "url": "https://open.spotify.com/track/6Ucrr9zKlX5xFdv9pLKQzj"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140103,
       "name": "CANSADA DE SANAR",
       "url": "https://open.spotify.com/track/2CiSw3DA4Yk1E55vddWtma"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155586,
       "name": "La Falda",
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
@@ -5478,7 +5478,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 151493,
       "name": "la \u00fanica q quiero",
       "url": "https://open.spotify.com/track/7oHP2lKRTevXofV1vGEcTG"
@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Me Provoca",
+        "url": "https://open.spotify.com/album/2xPqooCYF7r0gh699HqYK5"
+      },
+      "artists": [
+        {
+          "name": "Chapeaux",
+          "url": "https://open.spotify.com/artist/1wofiPduBh5W7JcgVqoLQQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137260,
+      "name": "Me Provoca",
+      "url": "https://open.spotify.com/track/65etFc1sDeFqxrJlTtQj4D"
+    },
+    {
+      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -6524,7 +6542,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 152859,
       "name": "Me Vas A Arruinar La Vida",
       "url": "https://open.spotify.com/track/4bgC68HZdpSTcieiuO98yA"
@@ -7008,7 +7026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 124615,
       "name": "money in my bag",
       "url": "https://open.spotify.com/track/1lnn3kYK8NdLupdavcQLmQ"
@@ -7768,7 +7786,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169927,
       "name": "no te vayas :(",
       "url": "https://open.spotify.com/track/29UvL4gUrPpbH3lhr9Nv0k"
@@ -8602,7 +8620,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177886,
       "name": "Pendiente",
       "url": "https://open.spotify.com/track/37aGOmXQJM5gZqTmRYNNkX"
@@ -8902,7 +8920,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 122666,
       "name": "POR TU CULPA",
       "url": "https://open.spotify.com/track/0E6QsdsnxHb9fTL0nVbFs4"
@@ -9462,7 +9480,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140146,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2rH0luo2WOZ5QKBTPMRkL4"
@@ -9596,7 +9614,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174073,
       "name": "SANTO",
       "url": "https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL"
@@ -10134,7 +10152,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 93913,
       "name": "siseda",
       "url": "https://open.spotify.com/track/67srwZbVngmpi3KzXW7bJW"
@@ -10578,7 +10596,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204373,
       "name": "TARJETA AMARILLA",
       "url": "https://open.spotify.com/track/3ct00xi14QLWhZdRJtBQoV"
@@ -10836,7 +10854,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 129071,
       "name": "TKM",
       "url": "https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6"
@@ -11688,7 +11706,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 221102,
       "name": "Viejo de Trapo",
       "url": "https://open.spotify.com/track/0bEE6XGeYajj2jlcI9DNLc"
@@ -11706,7 +11724,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138000,
       "name": "VIS A VIS",
       "url": "https://open.spotify.com/track/29puqLhYRsG1hbrz91vg8d"

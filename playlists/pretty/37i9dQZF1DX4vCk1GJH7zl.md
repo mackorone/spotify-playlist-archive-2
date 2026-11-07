@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,302 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,321 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 31 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
 | 32 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 |
 | 33 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
-| 34 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
-| 35 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
+| 34 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
+| 35 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
 | 36 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
 | 37 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
 | 38 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
-| 39 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
-| 40 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
+| 39 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
+| 40 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
 | 41 | [No Fundo Todo Mundo Quer Amor](https://open.spotify.com/track/6BQhvkbSK4jVoZUB4Z60J2) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [No Fundo Todo Mundo Quer Amor](https://open.spotify.com/album/7dTScgnL3EIqHMvVahb6tH) | 3:26 |
 | 42 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
 | 43 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 |

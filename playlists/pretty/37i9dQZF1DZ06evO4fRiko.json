@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 996953,
+  "num_followers": 997038,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAG1mDBz/40EqPNp0BpesF0",
+  "snapshot_id": "auvHAAAAAAAxkzdNbQaDCaF00Lu8sgzX",
   "tracks": [
     {
       "added_at": null,
@@ -427,42 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -483,6 +447,42 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Wall To Wall",
+      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -911,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Fortune (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
       },
       "artists": [
         {
@@ -920,9 +936,9 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 223186,
-      "name": "Wall To Wall",
-      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
+      "duration_ms": 240173,
+      "name": "Don't Judge Me",
+      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
     },
     {
       "added_at": null,
@@ -951,42 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Don't Judge Me",
-      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 179410,
-      "name": "Whatchamacallit (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 245933,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wgft (Remix) [feat. Chris Brown]",
+        "url": "https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "wgft (Remix) [feat. Chris Brown]",
+      "url": "https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM"
     }
   ],
   "unique_name": "This Is Chris Brown",

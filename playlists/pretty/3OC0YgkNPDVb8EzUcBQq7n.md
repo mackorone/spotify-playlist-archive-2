@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the pop girl era!  Listen to all your favourite female artists here.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 41,603 likes - 109 songs - 5 hr 59 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 41,595 likes - 109 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 | 10 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 11 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
 | 12 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
-| 13 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
-| 14 | [Bang Bang](https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [People Pleaser](https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX) | 2:30 |
+| 13 | [Bang Bang](https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [People Pleaser](https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX) | 2:30 |
+| 14 | [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 |
 | 15 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 |
 | 16 | [Espresso](https://open.spotify.com/track/6ev5nHxXH1R6CSgxHSEqHN) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso EP](https://open.spotify.com/album/2yIhXdfQKrzp7ENGxxI92c) | 2:55 |
 | 17 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 | 108 | [Nobody’s Son](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:02 |
 | 109 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
 
-Snapshot ID: `AAASG6Ti8IQ3+QoqLZ2qQdXbsOT1JIJ0`
+Snapshot ID: `AAASHbJlny/+uVspCRIZbpP7ym/ICkB5`

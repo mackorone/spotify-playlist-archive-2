@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-317 songs - 19 hr 20 min
+318 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 | 2022-01-11 | 2026-11-04 |
 | [My Winding Wheel](https://open.spotify.com/track/4A2nfuH8bevsmCdG5lyAyl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/1LNNDu3aW8rCo64UqbQIRJ) | 3:12 | 2026-11-04 |  |
 | [My Wrecking Ball](https://open.spotify.com/track/03gi6UGds8A5vArAoOZ579) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey) | 3:08 | 2024-09-25 | 2024-10-23 |
-| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 |  |
+| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 | 2026-11-07 |
 | [Nebraska](https://open.spotify.com/track/5qfZWhHJRkXfFdAO3KRvvH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:31 | 2023-01-08 | 2023-06-13 |
 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 | 2024-01-03 | 2024-09-27 |
 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 | 2022-01-11 |  |
@@ -265,6 +265,7 @@
 | [Talk Tonight](https://open.spotify.com/track/5swP7iGRHPoCPXwtZCHk71) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 3:37 | 2023-04-17 | 2023-07-16 |
 | [Tangled up in Blue](https://open.spotify.com/track/2JOqCLqtyB8M9yY32isEBD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 5:09 | 2023-02-11 | 2023-05-21 |
 | [Tell It to My Heart](https://open.spotify.com/track/0RxGa6ou9V1ANxQvSxYvf0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:22 | 2026-07-28 | 2026-11-01 |
+| [Tell It to My Heart](https://open.spotify.com/track/0mTSH5lWFl69GdXiKmi9Df) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/0yp0bbJRApf6V8cg3TwOKM) | 3:22 | 2026-11-07 |  |
 | [Tell It to My Heart](https://open.spotify.com/track/3dh14wbU3UZzvxNfm1JUdk) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:22 | 2026-06-14 | 2026-07-28 |
 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 | 2024-08-03 |  |
 | [The Crystal Ship \- Live from Paris, France\. 2023](https://open.spotify.com/track/7lzXvgARS4vug24Zk4xMHC) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Crystal Ship \(Live from Paris, France\. 2023\)](https://open.spotify.com/album/09SHTEHk5HU1pxeSm2oIJM) | 3:09 | 2024-09-22 | 2024-11-11 |

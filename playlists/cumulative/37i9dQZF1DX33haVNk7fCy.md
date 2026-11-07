@@ -4,7 +4,7 @@
 
 > Dukh Dard Peeda!  🫂
 
-200 songs - 13 hr 16 min
+201 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-30 | 2024-07-11 |
 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 | 2024-10-08 |  |
 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 | 2024-08-02 | 2024-11-27 |
-| [Khayaal Na Aaya \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5) | [Inderjeet Singh](https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 4:06 | 2025-11-03 |  |
+| [Khayaal Na Aaya \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5) | [Inderjeet Singh](https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 4:06 | 2025-11-03 | 2026-11-07 |
 | [Khel](https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ) | 3:05 | 2023-08-09 | 2024-07-11 |
 | [Khel](https://open.spotify.com/track/36yzu4OVMizmwxR6aF1BKe) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6DpVdeBeVUn4L68JZWDcN3) | 3:05 | 2023-09-12 | 2024-04-19 |
 | [Khud Se](https://open.spotify.com/track/5hL9yKGJAMUxfwsjFnJ0aR) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Wahaan](https://open.spotify.com/album/0sIWkQuV1D7PDH2icX4KvL) | 3:08 | 2023-05-15 | 2024-07-11 |
@@ -144,6 +144,7 @@
 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 | 2023-05-15 | 2024-04-19 |
 | [Nafrat](https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:34 | 2025-10-22 |  |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2023-07-20 | 2024-07-11 |
+| [Nazar Lagi](https://open.spotify.com/track/3MC7xAf4DcyWYnYfU933rj) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nazar Lagi](https://open.spotify.com/album/2iWpte3fx59HAv0YqTNV4q) | 3:27 | 2026-11-06 |  |
 | [Noorie \(Two Sides\)](https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Noorie \(Two Sides\)](https://open.spotify.com/album/4aRgIuT1Ic1qP9z5Ol0JdF) | 3:32 | 2024-12-10 | 2025-02-10 |
 | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 | 2023-05-15 | 2024-07-11 |
 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-13 | 2024-07-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38365,
+  "num_followers": 38367,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABOX2Ku8EMgVp+ATjcn7Wnr",
+  "snapshot_id": "aup1gAAAAABdvODSOdtz6lbfPeEQEZEh",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/6AHzra7Bl19YSPbTrDA3ED"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 399386,
-      "name": "Quem \u00e9 Ele",
-      "url": "https://open.spotify.com/track/6ye7A7ovU9quhO8IREZm8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Som dos Louvores",
         "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
       },
@@ -231,6 +211,22 @@
       "duration_ms": 313093,
       "name": "Amigo Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
     },
     {
       "added_at": null,
@@ -263,22 +259,6 @@
       "duration_ms": 263500,
       "name": "Onde Jesus Mora",
       "url": "https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289459,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
     },
     {
       "added_at": null,
@@ -447,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/57nHUXCU4ChMFfu663Lj1s"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 399386,
+      "name": "Quem \u00e9 Ele",
+      "url": "https://open.spotify.com/track/66YFtbLwKxsu9A4LCkkGf1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 364692,
+      "name": "Sementes da F\u00e9",
+      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 271586,
       "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 364692,
-      "name": "Sementes da F\u00e9",
-      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289552,
+      "name": "Esconderijo do Alt\u00edssimo",
+      "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Ainda Fala (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZCykss6k4UbmVxAaMjlYI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 400285,
       "name": "Deus Ainda Fala - Ao Vivo",
       "url": "https://open.spotify.com/track/47k7urz4okhpml9ivBXaAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289552,
-      "name": "Esconderijo do Alt\u00edssimo",
-      "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 321549,
-      "name": "N\u00e3o Negue a Jesus",
-      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 276549,
       "name": "Mergulhe",
       "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 266518,
-      "name": "N\u00e3o Reclame",
-      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+      "duration_ms": 272973,
+      "name": "Deus Responde",
+      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 272973,
-      "name": "Deus Responde",
-      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
+      "duration_ms": 266518,
+      "name": "N\u00e3o Reclame",
+      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
     },
     {
       "added_at": null,

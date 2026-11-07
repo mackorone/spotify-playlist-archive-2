@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 119587,
+  "num_followers": 119570,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "BiiiG",
         "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "I DO ME",
         "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
         }
       ],
-      "duration_ms": 123739,
-      "name": "BODY",
-      "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1535,6 +1519,22 @@
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 123739,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "QUINTESSENCE",
-        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 180112,
-      "name": "LIVE FAST DIE SLOW",
-      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "QUINTESSENCE",
+        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 180112,
+      "name": "LIVE FAST DIE SLOW",
+      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "ddok ddok ddok",
         "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 155054,
       "name": "ddok ddok ddok",
       "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "<LOVE&POP> pt.1",
         "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 188000,
       "name": "Baby Flower",
       "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "II - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R"
+        "name": "Biggest Fan - The 1st Album",
+        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
         }
       ],
-      "duration_ms": 173000,
-      "name": "In a Loop",
-      "url": "https://open.spotify.com/track/7lBkZa2B6poAKTI1yGdREd"
+      "duration_ms": 168000,
+      "name": "Biggest Fan",
+      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2067,18 +2067,34 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Biggest Fan - The 1st Album",
-        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
+        "name": "II - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R"
       },
       "artists": [
         {
-          "name": "IRENE",
-          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Biggest Fan",
-      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
+      "duration_ms": 173000,
+      "name": "In a Loop",
+      "url": "https://open.spotify.com/track/7lBkZa2B6poAKTI1yGdREd"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAEYEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "No Tears On The Dancefloor",
+      "url": "https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2103,22 +2119,6 @@
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "Till I Die",
-        "url": "https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs"
-      },
-      "artists": [
-        {
-          "name": "LEE CHAEYEON",
-          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "No Tears On The Dancefloor",
-      "url": "https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx"
     },
     {
       "added_at": "2026-08-27 04:18:30",

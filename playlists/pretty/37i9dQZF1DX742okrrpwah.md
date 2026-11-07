@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vianney, L2B, Slayyyter, Kings of Leon & Christine and the Queens au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,480 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,943 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 10 | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 |
 | 11 | [Toi ou la Mer](https://open.spotify.com/track/0ZSNeztLgSovD9ZuI3pHaq) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Toi ou la Mer](https://open.spotify.com/album/1BlwQXllvI5SnelRPh4WZ4) | 4:07 |
 | 12 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
-| 13 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 13 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 14 | [MAMACITA \(feat\. Soolking & TK\)](https://open.spotify.com/track/3P5OHOfqUZ2xjeUbyDnl4X) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [DRAKKAR](https://open.spotify.com/album/39fAEz67Yp9izokfE8Jo5N) | 2:24 |
-| 15 | [Why'd You Have To Leave](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
+| 15 | [Why'd You Have To Leave?](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave?](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
 | 16 | [On ne rattrape pas le vent](https://open.spotify.com/track/4zHQZTWc1Ek4zvkNQDalHb) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [On ne rattrape pas le vent](https://open.spotify.com/album/6OlJbk3PLVUrj2vOZH1aiJ) | 3:57 |
 | 17 | [FIN KANOU](https://open.spotify.com/track/1YsgIvcAD491KMZWgLgUJp) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [FIN KANOU](https://open.spotify.com/album/2R2vUrdpBPwMRLxPJJlsFz) | 4:21 |
 | 18 | [Détails](https://open.spotify.com/track/2kCHldEmEgVJZKDvnmAKxO) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Zombie Life \(10 Years Anniversary\)](https://open.spotify.com/album/1jQReSMHlQuoQLKRKVE8i3) | 3:21 |

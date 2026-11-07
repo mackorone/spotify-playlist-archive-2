@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Ama Dee in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,039 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,043 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Luna Gitana](https://open.spotify.com/track/5wbItDZXfZsogkeyIAK1kL) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf) | [Luna Gitana](https://open.spotify.com/album/5m7OJ0gFRhdbQFSQtTttHC) | 2:39 |
 | 3 | [Tierra Viva](https://open.spotify.com/track/5QsmwdOgZEjjRlHi6bzsIK) | [JANAKI](https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip) | [Tierra Viva](https://open.spotify.com/album/4LLmwpBHDK6CR6tI8cZtv1) | 2:55 |
 | 4 | [Tossica](https://open.spotify.com/track/6O2QE8VHTrLCcueL0M9j5H) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Tossica](https://open.spotify.com/album/1oFtPEJZnSRq0BEqqAj9hA) | 3:00 |
-| 5 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 5 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 6 | [Obbligo o Verità](https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Obbligo o Verità](https://open.spotify.com/album/2HwsJ4g5ieIAYDCBJzhiMG) | 2:33 |
 | 7 | [California mediterranea](https://open.spotify.com/track/1mBSdkRFKFr0qlYTDVcmiQ) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/5reS2wsBgPRxsOo3QFYZi6) | 3:07 |
 | 8 | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim) | 2:55 |

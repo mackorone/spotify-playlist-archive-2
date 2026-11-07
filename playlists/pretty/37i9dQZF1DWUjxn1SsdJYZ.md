@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,946 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,951 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Effortless](https://open.spotify.com/track/5O3wwWyc6xJKJpCdyOge1R) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Effortless](https://open.spotify.com/album/5aetSrrhTetpi8jXtxpcaW) | 4:05 |
-| 2 | [Track 11](https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [TRISTAN.](https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG) | 0:00 |
+| 2 | [Flow Switcher](https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [TRISTAN.](https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG) | 2:56 |
 | 3 | [Lethal](https://open.spotify.com/track/58rslsk1TrHpA7RnxDy9tf) | [Yung Milla](https://open.spotify.com/artist/3tmKWcTtmvmyM4Erdv8lV5) | [Lethal](https://open.spotify.com/album/4LOOguFjSm8KGd2ZC9zCyv) | 2:28 |
 | 4 | [Balance](https://open.spotify.com/track/0ePDhKFen59WuvDXOD6mVf) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Balance](https://open.spotify.com/album/7vRrWAQVo694dxrzaXCJAT) | 2:02 |
 | 5 | [Goat](https://open.spotify.com/track/2jOqLrfpMZBOHMsdFQ39rm) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Goat](https://open.spotify.com/album/6WO9D5X0NcFoh2CtpIbC4U) | 4:09 |

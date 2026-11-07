@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 812160,
+  "num_followers": 812277,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 223306,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 223306,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "High Cotton",
-      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "High Cotton",
+      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Thinkin' of a Rendezvous - Single Version",
+      "url": "https://open.spotify.com/track/4bZkWUNAkyQuB5WS7XdGMj"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 178600,
       "name": "A Good Hearted Woman - Live at Western Place, Dallas, Texas - September 25, 1974",
       "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Thinkin' of a Rendezvous - Single Version",
-      "url": "https://open.spotify.com/track/4bZkWUNAkyQuB5WS7XdGMj"
     },
     {
       "added_at": "2026-08-25 18:31:47",

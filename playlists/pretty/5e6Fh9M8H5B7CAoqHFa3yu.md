@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,830 songs - 6 day 20 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,844 songs - 6 day 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2838,5 +2838,19 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2828 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
 | 2829 | [Sail Away](https://open.spotify.com/track/5DtwJEzgU2RPa5mJpEvtAF) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz) | [Sail Away](https://open.spotify.com/album/1VLnaXGhcgXDNjpwW1dQKI) | 2:48 |
 | 2830 | [Fiesta y Calor](https://open.spotify.com/track/4SxxR7sOfxqEiyDC2rLKli) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Fiesta y Calor](https://open.spotify.com/album/3xucEMWLJmvDcsIeMyebeR) | 3:01 |
+| 2831 | [Que Bonita es la Vida](https://open.spotify.com/track/1MsHeLpd6zeh5RjymUjMXZ) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Que Bonita es la Vida](https://open.spotify.com/album/3jbfcLIO7i0hgCvacZicPF) | 3:44 |
+| 2832 | [Intro](https://open.spotify.com/track/6mLKCWz3oQoQXAwyTHunsf) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 1:28 |
+| 2833 | [Fright Nights](https://open.spotify.com/track/0BRT0rpbPYs7WlLiFZtceb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 3:07 |
+| 2834 | [Murderous Manes](https://open.spotify.com/track/4mqXvfGOtScbM7mR1I8X7q) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 2:03 |
+| 2835 | [Paranormal Activity](https://open.spotify.com/track/7v7BfZI0aAvGcJRR7UUSkb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 1:52 |
+| 2836 | [Transformation](https://open.spotify.com/track/5cCr13jf2kgs3hhFdCJjAp) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 3:12 |
+| 2837 | [Whispers Interlude](https://open.spotify.com/track/2Ogo5VcVDDmZnqVvlcsDeH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 0:34 |
+| 2838 | [Whispers in the Woods](https://open.spotify.com/track/4xU6QPt72Fgd4By9GEfGxJ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 2:45 |
+| 2839 | [Witches' Coven](https://open.spotify.com/track/74MPdZyzQIiRJ3H8gUdftN) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 2:55 |
+| 2840 | [The Five Jack O’Lanterns](https://open.spotify.com/track/265owIRQ9iUsBkxkTB7ZyK) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 3:20 |
+| 2841 | [Outro](https://open.spotify.com/track/73MZ0fB6QlG9YsSW049QRO) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 1:05 |
+| 2842 | [Zombie Nights](https://open.spotify.com/track/0288JkqxUx9XvSCGi6VY6n) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 3:04 |
+| 2843 | [CUZI CUZA](https://open.spotify.com/track/6aXv5WqoioUtSEhNaMz1YR) | [Marzolacalle](https://open.spotify.com/artist/0fchOo1IypYVgPb2vBylOG) | [PERDIDO](https://open.spotify.com/album/3UqgzhRNoam8ZAWWsRA8ku) | 4:43 |
+| 2844 | [Boomer Kuwanger Mega Man X \- Vocal Version](https://open.spotify.com/track/1vv0RLtYrQozIMAZSkzAkd) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Boomer Kuwanger Mega Man X \(Vocal Version\)](https://open.spotify.com/album/6VCUGPV74XvE8V0EYVIg7y) | 3:51 |
 
-Snapshot ID: `AAAMDCXRn2lTzlHRUr1+P3nxspj6mdXy`
+Snapshot ID: `AAAMEKqxVTl4lPBv2itoPe2JAOsG52sh`

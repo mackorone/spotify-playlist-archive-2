@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=qRGgP9VyQ5K94cbE8yXDNw">Josiah Queen</a> Halloween fall music  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-248 songs - 16 hr 6 min
+249 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [wannabe](https://open.spotify.com/track/4D7RnTd7BfhdI81RodpDC6) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [wannabe](https://open.spotify.com/album/16oGWzZ8ggmwxUmlFrfc4e) | 3:19 | 2025-01-31 | 2026-03-17 |
 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 | 2025-08-22 |  |
 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 | 2026-05-15 |  |
+| [Waterfalling](https://open.spotify.com/track/6sapyO8tTU8RmkzPgeVBkL) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Waterfalling](https://open.spotify.com/album/6XWad4HEBh0PBkMiiRjH0b) | 4:39 | 2026-11-06 |  |
 | [We Turn Our Eyes](https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [The Resurrection Of A King](https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK) | 5:55 | 2026-03-27 |  |
 | [WELCOME TO THE CLUB](https://open.spotify.com/track/1Hhx6Ue9QblFzhEfsIt1YI) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [FINE BY ME](https://open.spotify.com/album/1mIZcEaoDUnHwQKrCMjMYX) | 1:31 | 2025-10-24 |  |
 | [What A Miracle Feels Like](https://open.spotify.com/track/1oEl1JTGnCzu9pFtXtQhCK) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 6:19 | 2026-05-27 |  |

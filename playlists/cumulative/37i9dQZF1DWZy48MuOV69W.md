@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-115 songs - 6 hr 12 min
+116 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 | 2022-12-08 | 2025-03-14 |
 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 | 2021-12-21 |  |
 | [An Old Fashioned Christmas](https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Christmas Collection](https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa) | 3:46 | 2021-12-21 | 2024-04-19 |
-| [An Old Fashioned Christmas](https://open.spotify.com/track/769WL9sLCRlKv8VbBMMxQi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & His Pennsylvanians](https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:47 | 2021-12-21 |  |
+| [An Old Fashioned Christmas](https://open.spotify.com/track/769WL9sLCRlKv8VbBMMxQi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & His Pennsylvanians](https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:47 | 2021-12-21 | 2026-11-07 |
 | [Auld Lang Syne](https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU) | 2:09 | 2021-12-21 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/4IjKpOxYRYzKHouGoQIAgA) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/0aKyWboAMzL2GECCS3hZd3) | 2:09 | 2023-12-19 | 2024-04-19 |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:55 | 2021-12-21 | 2024-04-19 |
@@ -60,6 +60,7 @@
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 | 2021-12-21 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 | 2021-12-21 | 2024-04-19 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/5r3pYVfO03VNS1rkfkttOX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Merry Christmas \- God Jul](https://open.spotify.com/album/4wyopDrPXbT7iKLb7gQMmA) | 4:49 | 2022-11-10 | 2022-11-13 |
+| [It’s Always Christmas With You](https://open.spotify.com/track/2SzCyHPryooDmTKM3l4MMq) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [It's Always Christmas With You](https://open.spotify.com/album/3HuYpJQ5F7eneK3CWGbXSB) | 3:41 | 2026-11-06 |  |
 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 | 2021-12-21 | 2025-03-14 |
 | [Jolis sapins](https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3) | 4:02 | 2021-12-21 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/4BXxNEpXcNHi71otmoLHGj) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Winter Wonderland](https://open.spotify.com/album/5NywAqA0HhKzjoGRuYpKtn) | 3:20 | 2021-12-21 |  |

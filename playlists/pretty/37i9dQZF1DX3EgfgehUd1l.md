@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,289 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,295 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 31 | [Whatever Will Be, Will Be \(Que Sera, Sera\)](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
 | 32 | [St Therese of the Roses](https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Magic Of Malcolm Vaughan](https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU) | 2:52 |
 | 33 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
-| 34 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
-| 35 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
+| 34 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
+| 35 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
 | 36 | [The Great Pretender \- Single Version](https://open.spotify.com/track/7DPxY0fRDRHeWRtLZZoOyt) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Rock N' Roll Legends](https://open.spotify.com/album/6AfKX3qduiaVOzcvNXNlib) | 2:39 |
 | 37 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
 | 38 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 56 | [I Get So Lonely \(When I Dream About You\)](https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC) | [The Four Knights](https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74) | [Oh Baby! Best Of Volume 1 1951\-1954](https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2) | 2:07 |
 | 57 | [Moonlight Gambler](https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:54 |
 | 58 | [Unchained Melody](https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH) | [Jimmy Young](https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV) | [Rock & Roll 50s & 60s Mix](https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h) | 2:46 |
-| 59 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 |
-| 60 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 59 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 60 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 |
 | 61 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
 | 62 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
 | 63 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 77 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [60's Triple set](https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7) | 2:53 |
 | 78 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
 | 79 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
-| 80 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
+| 80 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Hits](https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX) | 2:20 |
 
 Snapshot ID: `AAAAAOllBSOSOKEIMxws6wIj3iHlJ6Ob`

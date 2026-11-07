@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 268178,
       "name": "Anh \u0110\u00e3 Quen V\u1edbi C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA"
@@ -14094,7 +14094,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub"
@@ -19978,7 +19978,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -26375,6 +26375,28 @@
     },
     {
       "album": {
+        "name": "Thi\u00ean M\u1ec7nh",
+        "url": "https://open.spotify.com/album/6MeBzSL4mdCkZbDj4Twt7u"
+      },
+      "artists": [
+        {
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+        },
+        {
+          "name": "H\u1ea3i \u0110\u0103ng Doo",
+          "url": "https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253565,
+      "name": "Thi\u00ean M\u1ec7nh",
+      "url": "https://open.spotify.com/track/0OB5hTu7ELKeVoD6JVRo6m"
+    },
+    {
+      "album": {
         "name": "D\u00c2N CH\u01a0I D\u00c2N CA",
         "url": "https://open.spotify.com/album/0y63Fn0s0lWv1xAXDgScHH"
       },
@@ -28004,7 +28026,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -28040,7 +28062,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"

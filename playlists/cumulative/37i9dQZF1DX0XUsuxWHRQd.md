@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, GloRilla and Jack Harlow.
 
-2,921 songs - 6 day 7 hr 40 min
+2,922 songs - 6 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1583,7 +1583,7 @@
 | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/track/2P88a8aJtNJtlZBJhCCzOB) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/album/06weT7kZGocnCTooonm2UQ) | 2:38 | 2020-07-18 | 2020-07-24 |
 | [MONEY ON ME](https://open.spotify.com/track/681ZlxQVB8XBPRZD1Wk4oi) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [MONEY ON ME](https://open.spotify.com/album/2Vp1RasgkrsG8iDul3p7OE) | 2:23 | 2021-07-24 | 2021-08-07 |
 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-25 | 2025-09-11 |
-| [Money Over Everything](https://open.spotify.com/track/6svevQditWxJzW2WUfqe2p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:14 | 2026-07-10 |  |
+| [Money Over Everything](https://open.spotify.com/track/6svevQditWxJzW2WUfqe2p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:14 | 2026-07-10 | 2026-11-07 |
 | [Money Talk](https://open.spotify.com/track/2YwC2IM0ykBxtMBH9aMe5m) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Money Talk](https://open.spotify.com/album/7BdXFwf9b2bnQ8w9A7GYwE) | 2:54 | 2020-01-17 | 2020-02-07 |
 | [Money Talks](https://open.spotify.com/track/2yWR1WwolMkbcXM5ZyyPDn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Money Talks](https://open.spotify.com/album/2lqdj7U6Wz3VZTHuqXYMXp) | 1:47 | 2025-04-04 | 2025-04-26 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-10-20 | 2025-02-08 |
@@ -2892,6 +2892,7 @@
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-06-26 | 2021-09-24 |
 | [Ya Dig](https://open.spotify.com/track/22HAcQL7Uqs3ROwpZHxJry) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Ya Dig](https://open.spotify.com/album/1FnyL3NmzRRW92faxWqXEn) | 3:25 | 2021-10-09 | 2021-10-16 |
 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 | 2026-05-08 | 2026-08-29 |
+| [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 | 2026-11-06 |  |
 | [YAE ENERGY](https://open.spotify.com/track/6og219WwSl2pU7oXyXfRMe) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [YAE ENERGY](https://open.spotify.com/album/1dCGJXNs3NhNRgT5manGI7) | 1:42 | 2021-11-13 | 2022-02-19 |
 | [YAH Know](https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [YAH Know](https://open.spotify.com/album/2hco0gyL8UJN4olim98vEy) | 5:58 | 2022-11-18 | 2022-12-03 |
 | [Yall make me sick](https://open.spotify.com/track/5KM54DJrVhVYvC1zZgnxik) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Against All Odds](https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9) | 2:43 | 2026-10-16 |  |

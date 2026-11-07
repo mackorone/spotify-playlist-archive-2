@@ -4,7 +4,7 @@
 
 > pinegrove autumn 🍂 sadurn on the cover
 
-396 songs - 1 day 1 hr 20 min
+397 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Dog Bite](https://open.spotify.com/track/6kaGEq2lH18bimOf7l5MjP) | [Mikey Leão](https://open.spotify.com/artist/4Rd4oSAPEo4Iliwxpp4dZq) | [Dog Bite](https://open.spotify.com/album/61qB7KgixW8j12wfpnCKNK) | 2:31 | 2026-05-08 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2023-02-23 | 2026-03-28 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-27 | 2023-12-09 |
+| [Doom Country](https://open.spotify.com/track/2VIsnAaYoHcu1BwXuHVxSc) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 2:58 | 2026-11-06 |  |
 | [drive](https://open.spotify.com/track/5nlZAk5H7m71KRSnFSdfOx) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [holy friend](https://open.spotify.com/album/6uqa1ZpRFpBzyp2dFlGvio) | 2:13 | 2024-09-06 |  |
 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 | 2023-12-01 | 2024-06-22 |
 | [Drivin \(Runnner Remix\)](https://open.spotify.com/track/0ufgQYjEOPqqy0yn2JRehB) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Drivin \(Runnner Remix\)](https://open.spotify.com/album/0avZ2Sdc0HpKSc6JWtWPOw) | 3:26 | 2023-08-11 | 2023-12-09 |

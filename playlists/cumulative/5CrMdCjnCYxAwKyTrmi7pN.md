@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-476 songs - 1 day 2 hr 17 min
+478 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Karma](https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Karma](https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT) | 3:16 | 2026-10-30 |  |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2025-07-17 | 2025-09-23 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2026-02-13 | 2026-02-28 |
+| [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 | 2026-11-06 |  |
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-07-17 | 2025-08-09 |
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2026-01-23 | 2026-02-21 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-07-17 | 2025-09-23 |
@@ -329,6 +330,7 @@
 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 | 2025-07-17 | 2025-10-18 |
 | [Roll With It](https://open.spotify.com/track/5JzqsT8ND2tkLRs6xUWE7I) | [Jesse Hydro](https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ) | [Roll With It \- EP](https://open.spotify.com/album/1ehfMVr5c1CglgMW9ULx59) | 2:11 | 2026-09-25 | 2026-10-03 |
 | [Root of all Evil](https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 4:25 | 2025-10-24 | 2025-12-09 |
+| [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 | 2026-11-06 |  |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-24 | 2026-02-21 |
 | [Run Rabbit](https://open.spotify.com/track/1R3Gy6oW42C8atZHSy8om4) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/4AFXEVdwVYAX7IcDjGF0bO) | 3:09 | 2026-11-04 |  |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-07-17 | 2025-09-23 |

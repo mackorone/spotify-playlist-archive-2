@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ADÉLA
 
-276 songs - 20 hr 48 min
+277 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:59 | 2022-04-14 | 2022-07-24 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Stadium Rockers](https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y) | 4:59 | 2022-04-14 | 2023-09-09 |
 | [Mr\. Know It All \- Live](https://open.spotify.com/track/0cwHaIBAlI4J3DwSVZU3CO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Freak Freely](https://open.spotify.com/artist/7hRxXRvEY8a47x6j5j6bUy) | [Mr\. Know It All \(Live\)](https://open.spotify.com/album/0ZH2hONdITXSoReKeUIcth) | 3:22 | 2026-10-16 |  |
+| [My Body Isn't Ready \- Orchestral Version from Sound City](https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready \(Orchestral Version from Sound City\)](https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS) | 3:45 | 2026-11-06 |  |
 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 | 2023-08-18 | 2025-01-18 |
 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 | 2022-04-14 | 2025-01-18 |
 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 | 2022-04-29 | 2025-01-18 |
@@ -247,7 +248,7 @@
 | [Touching Toes \- Live At Eventim Apollo](https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes \(Live At Eventim Apollo\)](https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp) | 2:27 | 2024-12-06 | 2025-01-18 |
 | [Training Season \(Live from the Royal Albert Hall\)](https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa Live from the Royal Albert Hall](https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS) | 3:40 | 2024-12-06 | 2025-01-18 |
 | [Treat You Better \(Live From New York\)](https://open.spotify.com/track/6w2skWzmyVsIQnkjDuWN5Z) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Treat You Better \(Live From New York\)](https://open.spotify.com/album/09bNV1IxTmUHM7GMN1B0hM) | 3:51 | 2026-06-05 |  |
-| [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 |  |
+| [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 | 2026-11-07 |
 | [True \- Live from the N.E.C.](https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Live At The NEC](https://open.spotify.com/album/6wWteACsElSVowr1JzAMGf) | 5:58 | 2022-04-14 | 2022-07-29 |
 | [Up Where We Belong \- Live](https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up \- Live](https://open.spotify.com/album/5zAk411l61QmbdiyAbqCEK) | 6:03 | 2022-04-14 | 2022-07-28 |
 | [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 | 2023-08-18 | 2026-07-04 |

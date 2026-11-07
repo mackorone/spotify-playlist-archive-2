@@ -2,9 +2,9 @@
 
 ### [Mariachi 2026](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernandez 📸
 
-615 songs - 1 day 9 hr 34 min
+618 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [El Amor Más Grande](https://open.spotify.com/track/62K8tEf4hr6MpP31v2wWdf) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:26 | 2022-05-13 | 2022-06-01 |
 | [El Anillo](https://open.spotify.com/track/4ZsmJY1ugWmo6ROkR9Tcba) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [El Anillo](https://open.spotify.com/album/5sd8XpxNp5ADwZIXqNBX0A) | 3:29 | 2023-05-26 | 2023-09-03 |
 | [El Beso](https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi) | 2:35 | 2025-01-17 | 2025-04-12 |
+| [El Burrito De Belen](https://open.spotify.com/track/1icj5c99iU09KeEjyLjuHs) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd), [Tony Jimenez](https://open.spotify.com/artist/106phIVWQPuD9ChJnCBjhb), [All\-Star Mariachi Academy](https://open.spotify.com/artist/3a0ozlJRKtaDL9KMxjDnHa) | [El Burrito De Belen](https://open.spotify.com/album/58ruAwNFVCWkRzh8sUNTjj) | 2:36 | 2026-11-06 |  |
 | [El Camino](https://open.spotify.com/track/2FBuHZHjko1h1ynYd9IowW) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Camino](https://open.spotify.com/album/1uC7oeENjeNnbHavxISZLF) | 3:25 | 2023-01-06 | 2024-09-03 |
 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 | 2024-09-20 | 2026-02-21 |
 | [El Cofrecito](https://open.spotify.com/track/28EgoxjaUhr9mFZRhjIUTL) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Alma De Rancho](https://open.spotify.com/album/3m3YJeynoSZ6MM7OdN3jAt) | 2:34 | 2022-05-13 | 2022-05-30 |
@@ -247,6 +248,7 @@
 | [Justo Ahora](https://open.spotify.com/track/06xJfNXQooep7RB9VEPujl) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Justo Ahora](https://open.spotify.com/album/1WQdx37dWAE2YkJ7uA7Xgj) | 3:11 | 2022-05-13 | 2022-06-01 |
 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 | 2024-06-07 | 2026-02-21 |
 | [La Bikina](https://open.spotify.com/track/6QA7A2ZNzjInAn3wniLEeQ) | [Nuria Fergó](https://open.spotify.com/artist/0eU0mDoeIkicltGVoLtGy3) | [Con Permiso](https://open.spotify.com/album/4F1faolK6mjkIExXIH8maZ) | 2:59 | 2022-05-13 | 2023-01-07 |
+| [La Calaca](https://open.spotify.com/track/3sVruZT0twZzmcz2SrgN6V) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Recuérdame](https://open.spotify.com/album/3GoCeYeJL0fnHHoPlKWpsQ) | 4:02 | 2026-11-06 |  |
 | [La Cama De Piedra \- En Vivo](https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ) | [El Mono De Sinaloa](https://open.spotify.com/artist/1Bl1Br55F7SyrrFLWA4vSq), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Cama De Piedra \- En Vivo](https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs) | 3:05 | 2022-05-13 | 2023-01-07 |
 | [La Caminera](https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Caminera](https://open.spotify.com/album/7siwCssx8fWnknViHVzggI) | 2:23 | 2024-11-15 | 2026-03-07 |
 | [La Catedral](https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 2:51 | 2022-05-13 | 2022-06-01 |
@@ -497,6 +499,7 @@
 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 | 2026-10-03 |  |
 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 | 2023-01-20 | 2023-05-27 |
 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 | 2025-11-21 |  |
+| [Señora](https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Señora](https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP) | 2:59 | 2026-11-06 |  |
 | [Si Es Feliz](https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Hasta el Cielo](https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV) | 3:10 | 2022-06-01 | 2023-01-07 |
 | [Si Hay Otra Vida](https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Hay Otra Vida](https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa) | 3:24 | 2022-05-13 | 2023-01-07 |
 | [Si Lo Intentamos](https://open.spotify.com/track/3tCjr2h0VvNyZ1avCd1wJa) | [Chema Elizondo](https://open.spotify.com/artist/49Bb0CVbsJVubswtlxfvZ6) | [Si Lo Intentamos](https://open.spotify.com/album/5VmfWoNwGaNi3DFu4TpHlZ) | 2:54 | 2025-01-17 | 2025-03-12 |

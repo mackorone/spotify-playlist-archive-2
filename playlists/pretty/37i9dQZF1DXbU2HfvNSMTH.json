@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 568696,
+  "num_followers": 568710,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -531,6 +515,22 @@
       "duration_ms": 220626,
       "name": "Hungry Like the Wolf - 2009 Remaster",
       "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "We Are The '80s",
-        "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     }
   ],
   "unique_name": "Summer Hits of the 80s",

@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 970635,
+  "num_followers": 970676,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "In My Own Time",
         "url": "https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Acoustic Classics",
-        "url": "https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH"
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
       "artists": [
         {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 309760,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd"
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - Remastered 2014",
+      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

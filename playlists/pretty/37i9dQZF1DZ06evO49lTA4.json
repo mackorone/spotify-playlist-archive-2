@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 954386,
+  "num_followers": 954435,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADhpEH2zGC9WbtG/sEOKGSH",
+  "snapshot_id": "auvHAAAAAADhWJKJJMQWYBR8CHm7teCp",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165289,
+      "name": "Rethink Some Things",
+      "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banks Of The Trinity",
         "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 184786,
       "name": "Shoot The Bull",
       "url": "https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165289,
-      "name": "Rethink Some Things",
-      "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prequel",
-        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 221711,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Prequel",
+        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 221711,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
     {
       "added_at": null,

@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157000,
       "name": "Comme toi",
       "url": "https://open.spotify.com/track/6oqXIzTo6OTVe7iDmCWUNr"
@@ -2070,6 +2070,24 @@
       "duration_ms": 202720,
       "name": "Dans un autre monde",
       "url": "https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs"
+    },
+    {
+      "album": {
+        "name": "De Justesse",
+        "url": "https://open.spotify.com/album/7GhFyYaYECGGrxvTK9LIim"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "De justesse",
+      "url": "https://open.spotify.com/track/4LFswwlA7EKowHdMIX4tFz"
     },
     {
       "album": {
@@ -9063,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/3dpqZzjP2CgUUP7TbKDUve"
+      },
+      "artists": [
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sablier",
+      "url": "https://open.spotify.com/track/0IAuNj3z5hpXXnPl0ypBNa"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/4kuvu8IkLHyb3yodU8qNZ5"
       },
@@ -10432,24 +10468,6 @@
       "duration_ms": 168400,
       "name": "Toxic et Chic",
       "url": "https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP"
-    },
-    {
-      "album": {
-        "name": "De Justesse",
-        "url": "https://open.spotify.com/album/7GhFyYaYECGGrxvTK9LIim"
-      },
-      "artists": [
-        {
-          "name": "Joyce Jonathan",
-          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4LFswwlA7EKowHdMIX4tFz"
     },
     {
       "album": {

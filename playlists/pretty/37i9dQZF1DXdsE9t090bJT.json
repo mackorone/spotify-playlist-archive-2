@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 86378,
+  "num_followers": 86393,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-10-24 00:29:50",
       "album": {
-        "name": "Ponte Bonita",
-        "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "Ponte Bonita",
-      "url": "https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m"
-    },
-    {
-      "added_at": "2026-10-24 00:29:50",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2026-10-24 00:29:50",
+      "album": {
+        "name": "Ponte Bonita",
+        "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "Ponte Bonita",
+      "url": "https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m"
     },
     {
       "added_at": "2026-10-24 00:29:50",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-10-24 00:29:50",
       "album": {
-        "name": "La Intenci\u00f3n",
-        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 249464,
-      "name": "La Intenci\u00f3n",
-      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
-    },
-    {
-      "added_at": "2026-10-24 00:29:50",
-      "album": {
         "name": "MU\u00d1EQUITA",
         "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
+    },
+    {
+      "added_at": "2026-10-24 00:29:50",
+      "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "added_at": "2026-10-24 00:29:50",

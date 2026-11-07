@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 227666,
       "name": "An Old Fashioned Christmas",
       "url": "https://open.spotify.com/track/769WL9sLCRlKv8VbBMMxQi"
@@ -986,6 +986,24 @@
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/5r3pYVfO03VNS1rkfkttOX"
+    },
+    {
+      "album": {
+        "name": "It's Always Christmas With You",
+        "url": "https://open.spotify.com/album/3HuYpJQ5F7eneK3CWGbXSB"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221568,
+      "name": "It\u2019s Always Christmas With You",
+      "url": "https://open.spotify.com/track/2SzCyHPryooDmTKM3l4MMq"
     },
     {
       "album": {

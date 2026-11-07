@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-496 songs - 1 day 1 hr 28 min
+497 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Feel Good Funk](https://open.spotify.com/track/2jElfWdcul95hdywpEcCkM) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j) | [Feel Good Funk](https://open.spotify.com/album/3t4mt4bgAc6MpkIemI7gSf) | 1:36 | 2026-03-06 |  |
 | [Feel It](https://open.spotify.com/track/3WzEd0Ibz0cVwPysw1EE0p) | [Zack Griffin](https://open.spotify.com/artist/4wbYi9fts1O6KBhND6bDlM) | [Feel It](https://open.spotify.com/album/5NayYnyLGiQKJVwxKSIGQf) | 4:16 | 2026-10-12 |  |
 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-06-13 |  |
+| [FEEL THE RUSH](https://open.spotify.com/track/58WAz9iUUdLTmWsWRYDnnB) | [tonytonychopper999](https://open.spotify.com/artist/4s6Z4DHaTxDZ4HLG4GMCvM) | [FEEL THE RUSH](https://open.spotify.com/album/5JdNVyLvwKNlRhRYBHop1J) | 2:51 | 2026-11-06 |  |
 | [Feelings](https://open.spotify.com/track/7IV83i6cyhQwAhqe84Mt12) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Feelings](https://open.spotify.com/album/56Opln9OdI3F6NvSoEzncW) | 2:40 | 2022-02-03 | 2022-09-15 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-08-11 |
 | [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |

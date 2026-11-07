@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1155781,
+  "num_followers": 1156301,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 209000,
       "name": "Lady Lady",
       "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "The Longest Goodbye (feat. Laufey)",
         "url": "https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN"
       },
@@ -863,18 +843,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Tough Luck",
-        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Tough Luck",
-      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -891,6 +875,22 @@
       "duration_ms": 190124,
       "name": "Need You More",
       "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Fools Gold",
         "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 192700,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "Avicii Forever",
         "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Gucci Mane",
         "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
       "artists": [
         {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 171833,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1515,6 +1499,22 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
     },
     {
       "added_at": "2026-02-12 23:00:22",

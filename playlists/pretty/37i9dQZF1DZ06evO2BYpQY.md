@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,065 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,071 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 37 | [Haunted](https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu) | [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Haunted](https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c) | 4:12 |
 | 38 | [8 Good Reasons](https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:26 |
 | 39 | [I’ll Be Singing](https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Wild Mountain Thyme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm) | 3:36 |
-| 40 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
-| 41 | [Emma's Song](https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:21 |
-| 42 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
+| 40 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
+| 41 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
+| 42 | [Emma's Song](https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:21 |
 | 43 | [John I Love You](https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:32 |
 | 44 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
 | 45 | [Take Me to Church](https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 50 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
 
-Snapshot ID: `aukkAAAAAAAM1LAJJLhlnPadVKXFqSpM`
+Snapshot ID: `auvHAAAAAAAfPmpEbCaGvCzdn/dTWyaD`

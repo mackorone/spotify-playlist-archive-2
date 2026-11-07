@@ -3177,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "FEEL THE RUSH",
+        "url": "https://open.spotify.com/album/5JdNVyLvwKNlRhRYBHop1J"
+      },
+      "artists": [
+        {
+          "name": "tonytonychopper999",
+          "url": "https://open.spotify.com/artist/4s6Z4DHaTxDZ4HLG4GMCvM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "FEEL THE RUSH",
+      "url": "https://open.spotify.com/track/58WAz9iUUdLTmWsWRYDnnB"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/56Opln9OdI3F6NvSoEzncW"
       },

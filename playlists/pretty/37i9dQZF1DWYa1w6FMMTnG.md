@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,811 likes - 83 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,789 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 76 | [Agatha's Theme \- From "Agatha All Along"](https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha's Theme \(From "Agatha All Along"\)](https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1) | 2:11 |
 | 77 | [Garden of Magic/Thackery Follows Emily](https://open.spotify.com/track/1m6XbPwAU6sPUpMHcjSZJL) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 2:27 |
 | 78 | [Game of Death \- From "Frankenweenie"/Score](https://open.spotify.com/track/6SCuftUwyxKG7OwfzHX5WO) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Frankenweenie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg) | 2:20 |
-| 79 | [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 |
-| 80 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 |
-| 81 | [Hocus Pocus Main Theme](https://open.spotify.com/track/52QAHrxaIAsppzxqIOLJWR) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:16 |
-| 82 | [Tales of Terror](https://open.spotify.com/track/1XhSdlXygbgLpxgbKsvJW1) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp) | [LEGO Star Wars: Terrifying Tales \(Original Soundtrack\)](https://open.spotify.com/album/1hs3FJ3Zp0pk90Zqs1gCcY) | 0:52 |
-| 83 | [Glowin'](https://open.spotify.com/track/2LsK9xmOBgjnFIn5C6TsYB) | [Kenzi Richardson](https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX), [Shaun Dixon](https://open.spotify.com/artist/7bjSZryEMciJfMvOg2486e) | [Vampirina: Teenage Vampire: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6Nuo3cox11iIxkCHxgXprF) | 1:58 |
+| 79 | [Into the Nightmare Realm \- From "Kiff: Season 3"](https://open.spotify.com/track/571PLNEf5bwZnM9sO5hGmM) | [Kiff \- Cast](https://open.spotify.com/artist/0uIH4tpwsBsgQKWtQMYuI1) | [Into the Nightmare Realm \(From "Kiff: Season 3"\)](https://open.spotify.com/album/05hiVk5Ud0zAZnCSvIxDda) | 2:42 |
+| 80 | [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 |
+| 81 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 |
+| 82 | [Hocus Pocus Main Theme](https://open.spotify.com/track/52QAHrxaIAsppzxqIOLJWR) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:16 |
+| 83 | [We're Eating, We Are Suits](https://open.spotify.com/track/4BB7W87gc4xlD25zgyni5Z) | [The Cast of Phineas and Ferb](https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi) | [Phineas and Ferb: Halloween Hits](https://open.spotify.com/album/2K0dACUdPwrit5xbpnK1Z4) | 0:47 |
+| 84 | [Tales of Terror](https://open.spotify.com/track/1XhSdlXygbgLpxgbKsvJW1) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp) | [LEGO Star Wars: Terrifying Tales \(Original Soundtrack\)](https://open.spotify.com/album/1hs3FJ3Zp0pk90Zqs1gCcY) | 0:52 |
+| 85 | [Glowin'](https://open.spotify.com/track/2LsK9xmOBgjnFIn5C6TsYB) | [Kenzi Richardson](https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX), [Shaun Dixon](https://open.spotify.com/artist/7bjSZryEMciJfMvOg2486e) | [Vampirina: Teenage Vampire: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6Nuo3cox11iIxkCHxgXprF) | 1:58 |
 
-Snapshot ID: `AAAAAAN1WLzubiAbNSzSFam/LuzIaiOQ`
+Snapshot ID: `AAAAAMYt8o+i/z3d1KFu1Sn+dhnnar0a`

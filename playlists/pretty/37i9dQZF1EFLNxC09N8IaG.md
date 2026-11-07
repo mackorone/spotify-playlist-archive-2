@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,638 likes - 186 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 186 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 68 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
 | 69 | [Bandera](https://open.spotify.com/track/4mJSGwBPMlqQ8NbkT42laK) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Bandera Move](https://open.spotify.com/album/1PIn3KqFgK4UOexNEjHXqP) | 2:48 |
 | 70 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
-| 71 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
-| 72 | [AIN’T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/1HXdeaCEYL3zOdHA3E8Xio) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:41 |
+| 71 | [AIN’T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/1HXdeaCEYL3zOdHA3E8Xio) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:41 |
+| 72 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 73 | [All I See Is Gold](https://open.spotify.com/track/4LPLeiZJLYNGPdI3oo4PFz) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 2:53 |
 | 74 | [Neva Neva](https://open.spotify.com/track/3kkTirqEG0FgeCSZLYXgut) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 3:18 |
 | 75 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 186 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Acg5IAAAAAAdssszbrIR41z9aD9Mazgx`
+Snapshot ID: `Acg+mAAAAADNbjgpe6Omfck2M1HMFiR5`

@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 25748,
+  "num_followers": 25765,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACCMpyGtrOnqNpBa8NB7bRQ",
+  "snapshot_id": "auvHAAAAAAD49NB1VDk2Tz7ygW0HmvHz",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
       },
       "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+      "duration_ms": 147226,
+      "name": "NO LIMIT (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
     },
     {
       "added_at": null,
@@ -239,6 +243,22 @@
       "duration_ms": 201567,
       "name": "VIBES DON'T LIE",
       "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": null,
@@ -283,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "NO LIMIT (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
       },
@@ -319,6 +319,26 @@
       "duration_ms": 162514,
       "name": "Sweet Nuthins (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YEARNALISM",
+        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
     },
     {
       "added_at": null,
@@ -343,26 +363,6 @@
       "duration_ms": 204342,
       "name": "You Mean The World To Me (feat. Leon Thomas & Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YEARNALISM",
-        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 208561,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/0SvMiP6QQNimELXjohnp5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCIS",
-        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
-      },
-      "artists": [
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 230936,
-      "name": "dangerous game",
-      "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victorious 3.0 (Even More Music from the Hit TV Show)",
         "url": "https://open.spotify.com/album/4riVaRlsRhombe8IBqFfsV"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 213298,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/1z9nYjwFBwvrcIizmA5bDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRANCIS",
+        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
     }
   ],
   "unique_name": "This Is Leon Thomas",

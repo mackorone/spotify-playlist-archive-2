@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The BEST new music every Friday, by INDIE EDITORS Cover: Rockie Rode
+> The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County
 
 11,068 songs - 26 day 20 hr 50 min
 

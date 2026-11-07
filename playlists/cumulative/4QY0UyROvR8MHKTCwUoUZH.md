@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-334 songs - 18 hr 46 min
+336 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Heaven](https://open.spotify.com/track/0nOf80Plej41Dkmeoo8Rv7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:26 | 2026-05-27 |  |
 | [Hello Darlin](https://open.spotify.com/track/4RzLqL2zvMPj1BkRHWtH0G) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Hello Darlin](https://open.spotify.com/album/1RIyJXwicQDu3Nn2zJmENv) | 2:51 | 2025-07-18 | 2025-12-13 |
 | [Hers](https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Hers](https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5) | 3:32 | 2026-09-11 |  |
+| [Hey, People](https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Airplane Mode](https://open.spotify.com/album/379McNO5sSbweTq3tZi68P) | 3:40 | 2026-11-06 |  |
 | [Hoe je naar morgen kijkt](https://open.spotify.com/track/3zVTa00TojCTBF9SSNRq15) | [The Gunnies](https://open.spotify.com/artist/2KMJDmZmWFaVanDyUD9sZq) | [Hoe je naar morgen kijkt](https://open.spotify.com/album/7LfHscY8nyzHc4eco1DCU1) | 4:29 | 2026-03-20 | 2026-05-28 |
 | [holes](https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ) | [Colin Vincent](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [holes](https://open.spotify.com/album/0JO4jUHwMOmA2io1tUw4be) | 2:47 | 2025-07-18 | 2025-09-20 |
 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2026-04-10 |  |
@@ -318,6 +319,7 @@
 | [VALENTINE](https://open.spotify.com/track/1C2BlkJ7ywosSSSktVziXz) | [stardog](https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp) | [VALENTINE](https://open.spotify.com/album/3qQsThTUV9qFMmpCP3nPpY) | 4:00 | 2026-01-16 | 2026-09-19 |
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-07-18 | 2026-02-14 |
 | [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-10-03 | 2026-02-07 |
+| [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-06 |  |
 | [Watch You Dance](https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Watch You Dance](https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1) | 2:27 | 2026-09-25 |  |
 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2026-02-06 |  |
 | [wecouldsithereforever](https://open.spotify.com/track/1KGGGr7EkmdsNJVNyU0Kb3) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [In the Works](https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh) | 3:21 | 2025-12-06 | 2026-08-26 |

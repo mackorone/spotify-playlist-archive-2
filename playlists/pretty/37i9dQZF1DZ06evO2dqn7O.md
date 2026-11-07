@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,835 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,837 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 41 | [Somebody Who Knows You](https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:44 |
 | 42 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
 | 43 | [Unconsolable](https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:36 |
-| 44 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
-| 45 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
+| 44 | [torture \(with Earl St\. Clair\)](https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [torture \(with Earl St\. Clair\)](https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP) | 2:41 |
+| 45 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
 | 46 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
-| 47 | [torture \(with Earl St\. Clair\)](https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [torture \(with Earl St\. Clair\)](https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP) | 2:41 |
+| 47 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
 | 48 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 | 49 | [Everything Sounds Like a Love Song \(OurVinyl Sessions\)](https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl \| Pop](https://open.spotify.com/artist/4LxDYbQCXJ86VcCBzOQH8n) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 3:55 |
 | 50 | [Free & Lonely](https://open.spotify.com/track/0aPN28xnhv6RMuxAPpygjR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 4:08 |
 
-Snapshot ID: `aukkAAAAAAC0Lg6JTG3OnSnxOq4lb8Yc`
+Snapshot ID: `auvHAAAAAADQyV7uHu7vNZT/ZhIGhOgG`

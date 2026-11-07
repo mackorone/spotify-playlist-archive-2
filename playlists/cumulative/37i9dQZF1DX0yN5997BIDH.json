@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la m\u00fasica tropical no se crea ni se destruye solo se transforma. A bailar con Jorge Cuellar",
+  "description": "la m\u00fasica tropical no se crea ni se destruye solo se transforma. A bailar con Angela Torres",
   "name": "tropic_ALT",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 259799,
       "name": "Algo tiene que estar mal",
       "url": "https://open.spotify.com/track/7bxrYTkOJV1bfS2YN0iqX2"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 186086,
       "name": "Arena x mis Venas",
       "url": "https://open.spotify.com/track/71XarJNXdqnpCPdCkBWkqB"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160400,
       "name": "Besos y Caf\u00e9",
       "url": "https://open.spotify.com/track/3LYr7bhVM9qnamAGgKvTgZ"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183800,
       "name": "Cumbia Sad",
       "url": "https://open.spotify.com/track/3vl6Ct7olJ6oxQld2O5Oll"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168000,
       "name": "DIMELO",
       "url": "https://open.spotify.com/track/1kzeyawQZWQ7fenctu2pze"
@@ -1442,6 +1442,32 @@
       "duration_ms": 255602,
       "name": "donde?",
       "url": "https://open.spotify.com/track/6BauPq5gd9icib7tfc4lE0"
+    },
+    {
+      "album": {
+        "name": "donde? (nitro)",
+        "url": "https://open.spotify.com/album/7fpGJNFDTnd9Mxqa0LAO0Y"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222178,
+      "name": "donde? (nitro)",
+      "url": "https://open.spotify.com/track/5SmK8SAW8dAi3DBYTtI8KD"
     },
     {
       "album": {
@@ -3100,7 +3126,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 221033,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/6Rd4gsyAv0VmhzK89dU5Yj"
@@ -3176,7 +3202,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159041,
       "name": "LOS ANGELES",
       "url": "https://open.spotify.com/track/3T9pSyvhhWH8ViiBlwsuCk"
@@ -3434,7 +3460,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 175581,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/6dp1PGuj8rQN0ZUP63cdfJ"
@@ -3616,6 +3642,24 @@
       "duration_ms": 207775,
       "name": "Mi Cumbia",
       "url": "https://open.spotify.com/track/4V45o3gH6EWiOVnrFsDSGy"
+    },
+    {
+      "album": {
+        "name": "mi nombre",
+        "url": "https://open.spotify.com/album/6H4WQWjOe65h2KpUwsp9XY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194896,
+      "name": "mi nombre",
+      "url": "https://open.spotify.com/track/0SOxTwy4KpvythrIe3xToH"
     },
     {
       "album": {
@@ -4420,7 +4464,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 209423,
       "name": "rezo por vos",
       "url": "https://open.spotify.com/track/7y3yNMYj24FXjxDQpzDMfC"
@@ -4460,7 +4504,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204094,
       "name": "Rota Nunca Queda",
       "url": "https://open.spotify.com/track/7IIVtgw3MuHU3fGPSkYeqt"
@@ -4764,7 +4808,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199128,
       "name": "sin ti",
       "url": "https://open.spotify.com/track/6KKoVWWdziiKn4gkRJmn0I"
@@ -5281,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "superstar",
+        "url": "https://open.spotify.com/album/1dSGbbfsgNDPWSpYG2Qwp7"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "superstar",
+      "url": "https://open.spotify.com/track/1hd2zjNE4l8kHDZCOWQpeH"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -5778,7 +5840,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 347027,
       "name": "Tu Mirar - Alt Take",
       "url": "https://open.spotify.com/track/5Jcm9OMN3XFzjUtA3lZvdu"
@@ -5902,7 +5964,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 226976,
       "name": "V\u00e1monos De Viaje - Bachata Remix, 12-12-2022",
       "url": "https://open.spotify.com/track/7DYgO6H8g6B0A6lxXJDMfj"

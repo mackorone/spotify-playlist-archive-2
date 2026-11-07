@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 392708,
+  "num_followers": 392686,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/3GfLFBVOXEUHqxAAKcBOtu"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 213538,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/5f5YqZZe34nsabun39eqo8"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Birthplace",
         "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 208653,
       "name": "State Lines",
       "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/3GfLFBVOXEUHqxAAKcBOtu"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 213538,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/5f5YqZZe34nsabun39eqo8"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Tous les gar\u00e7ons et les filles",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Stereo Mix",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F"
     },
     {
       "added_at": "2026-08-20 15:24:38",

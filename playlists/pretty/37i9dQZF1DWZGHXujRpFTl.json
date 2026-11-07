@@ -1,686 +1,470 @@
 {
-  "description": "The official soundtrack and score of Tony, plus tracks curated by Dominic Sessa that inspired his performance in the film.",
-  "num_followers": 56298,
-  "original_name": "Tony Official Playlist",
+  "description": "Listen to music from and inspired by Club Kid, curated by Jordan Firstman.",
+  "num_followers": 56357,
+  "original_name": "Club Kid Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJ78kbe0VC3ylBFgCIDp8Jq31es",
+  "snapshot_id": "AAAAADXuloJ35MjtjdWjvD9e1p4mSp1x",
   "tracks": [
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Love Is All Around",
-        "url": "https://open.spotify.com/album/5ITQvh1iLqxLNi6xAL9XcC"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Eric Burdon",
-          "url": "https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Sex With Me",
+      "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
+    },
+    {
+      "added_at": "2026-11-06 05:00:19",
+      "album": {
+        "name": "At Excess",
+        "url": "https://open.spotify.com/album/4GJM42LYSI99KSFNhkz66C"
+      },
+      "artists": [
+        {
+          "name": "Force Mass Motion",
+          "url": "https://open.spotify.com/artist/3RKv86Dvl132jbxDVUmXNX"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Waterfront",
+      "url": "https://open.spotify.com/track/4hgLrMcCxrgcX8bQRBSfyn"
+    },
+    {
+      "added_at": "2026-11-06 05:00:19",
+      "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu"
+      },
+      "artists": [
+        {
+          "name": "BEARCAT",
+          "url": "https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "THE Bells",
+      "url": "https://open.spotify.com/track/6FTxRKytmE0pe3O6cD8f0i"
+    },
+    {
+      "added_at": "2026-11-06 05:00:19",
+      "album": {
+        "name": "Swimmers",
+        "url": "https://open.spotify.com/album/691WK2nkTQrNlq9egbsJQw"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
         },
         {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Magic Mountain",
-      "url": "https://open.spotify.com/track/6QtiAYvcOTFkxtpgnojTOw"
+      "duration_ms": 237597,
+      "name": "Swimmers",
+      "url": "https://open.spotify.com/track/3RMuJ4qdkgs71mBNbPpZu0"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "The Modern Lovers (Expanded Version)",
-        "url": "https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1"
+        "name": "Bottomless Pit",
+        "url": "https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2"
       },
       "artists": [
         {
-          "name": "The Modern Lovers",
-          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+          "name": "Death Grips",
+          "url": "https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH"
         }
       ],
-      "duration_ms": 235386,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/7hqAQcTDbpMStMtmSREHod"
+      "duration_ms": 159723,
+      "name": "Bubbles Buried In This Jungle",
+      "url": "https://open.spotify.com/track/1zw1YeQW9VO4KUgvjevHFa"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Funk & Soul",
-        "url": "https://open.spotify.com/album/0OPKQsfvYs2epcvGreh2aj"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
-          "name": "Funk Society",
-          "url": "https://open.spotify.com/artist/7DoGuaCR07OEyWAqZBx0qf"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 106506,
-      "name": "Mighty Sly",
-      "url": "https://open.spotify.com/track/4xIpIVXJgArNs3rQFaJQkT"
+      "duration_ms": 166320,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "I Want To See The Bright Lights Tonight",
-        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+        "name": "Hercules & Love Affair",
+        "url": "https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ"
       },
       "artists": [
         {
-          "name": "Richard & Linda Thompson",
-          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
         }
       ],
-      "duration_ms": 233440,
-      "name": "The Calvary Cross",
-      "url": "https://open.spotify.com/track/3Lmi7Ig7xjuft86AyoIpa9"
+      "duration_ms": 240043,
+      "name": "Athene",
+      "url": "https://open.spotify.com/track/5KEzdis6KvWYtotKye7dX5"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Another Green World (2004 Remaster)",
-        "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+        "name": "typeR",
+        "url": "https://open.spotify.com/album/2Bi04MO1gdwUu7CiXTCYRV"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Sevyn 0000",
+          "url": "https://open.spotify.com/artist/1LDsk8B8zZWCtiortKa3kU"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Everything Merges With The Night - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB"
+      "duration_ms": 286400,
+      "name": "Razor",
+      "url": "https://open.spotify.com/track/4aJEeLsl6PN5naCKn0p2pW"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "In My Own Time",
-        "url": "https://open.spotify.com/album/6Ai4Saejkb08NrsC7182Px"
+        "name": "Tracing",
+        "url": "https://open.spotify.com/album/64KQyDRrL4h1ROrVrRo6oC"
       },
       "artists": [
         {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Something On Your Mind",
-      "url": "https://open.spotify.com/track/23KI77aH4TKcb3rOMsYiSg"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4UWc8JVywRRqarcri2CDmb"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 184608,
-      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
-      "url": "https://open.spotify.com/track/2MxooIJcLLkjngt4olgdKw"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "We Can't Take Life for Granted (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ETcGeDoaHtu42zeSdswvu"
-      },
-      "artists": [
-        {
-          "name": "The New Breed",
-          "url": "https://open.spotify.com/artist/6sFSsKQjZr7zy2UbqRWpW0"
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD"
         },
         {
-          "name": "Eugene Blacknell",
-          "url": "https://open.spotify.com/artist/0UN5Sqt93ECvGXAvlbOAd0"
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/3IUQma81r3qgkUaFgEPAHi"
+      "duration_ms": 206867,
+      "name": "Tracing",
+      "url": "https://open.spotify.com/track/22aQ3Cbv2BmTyp61G2FNAC"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "No Rest For The Wicked",
-        "url": "https://open.spotify.com/album/5uPXijx8bnIwt5PZ7zYuYU"
+        "name": "Tracing",
+        "url": "https://open.spotify.com/album/64KQyDRrL4h1ROrVrRo6oC"
       },
       "artists": [
         {
-          "name": "Truth & Janey",
-          "url": "https://open.spotify.com/artist/1X1aYKdWWVdWnduDyBSpdu"
-        }
-      ],
-      "duration_ms": 239165,
-      "name": "Down The Road I Go",
-      "url": "https://open.spotify.com/track/0Kp0HfM3TIdiLWdfE3QFPs"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "The Art Pepper Quartet",
-        "url": "https://open.spotify.com/album/2pHaPhF1cn80JxooaQYoiL"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 243320,
-      "name": "Blues At Twilight",
-      "url": "https://open.spotify.com/track/3IZbPOoCTNatm52d4QGbQf"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Funhouse",
-        "url": "https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "Down on the Street",
-      "url": "https://open.spotify.com/track/77cNhikwSwGJdls6slQy7k"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Kpm 1000 Series: Discotheque",
-        "url": "https://open.spotify.com/album/5dHJlYpWUNJ8WXNSwbSKIU"
-      },
-      "artists": [
-        {
-          "name": "John Moran",
-          "url": "https://open.spotify.com/artist/2DYUqITyiQa3vdquZzAtZp"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Thousand Watt Work-Out",
-      "url": "https://open.spotify.com/track/7dR2NwYNiVLjjHE4HV2sCA"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Get Happy (Remastered 1995)",
-        "url": "https://open.spotify.com/album/05Ge4vygWoNT1haYqsVR1Y"
-      },
-      "artists": [
-        {
-          "name": "Randy Weston Trio",
-          "url": "https://open.spotify.com/artist/0yMyHIDOHNK8wHznFVDz44"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "A Ballad - Remastered 1995",
-      "url": "https://open.spotify.com/track/4F8Ov23mhYhDeRXp0kSrIb"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
-      },
-      "artists": [
-        {
-          "name": "Walter Murphy",
-          "url": "https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "A Fifth Of Beethoven",
-      "url": "https://open.spotify.com/track/1hR3TNe1neCWRQatSVOFfX"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "First Step",
-        "url": "https://open.spotify.com/album/0iCkdYQdowYqWyVmVaHReZ"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/4sDwb3scwhTsIRIkqMDItv"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "The Patti Page Collection: The Mercury Years, Vol. 2",
-        "url": "https://open.spotify.com/album/52YvuzkKXoPwWLxCHVA436"
-      },
-      "artists": [
-        {
-          "name": "Patti Page",
-          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/6Mhvr0ZMtWXoebhx9etyEt"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Rolled Gold",
-        "url": "https://open.spotify.com/album/25ZXrcoZgUxDW43RwVVaQ8"
-      },
-      "artists": [
-        {
-          "name": "The Action",
-          "url": "https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/0G5xBsTHPf8DbMalTVDvun"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Just Roll Tape - April 26th 1968",
-        "url": "https://open.spotify.com/album/5htHtNka6eXFyXSPSDiI45"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        }
-      ],
-      "duration_ms": 190386,
-      "name": "Know You've Got to Run - Demo",
-      "url": "https://open.spotify.com/track/6VlCcKXNssGfWEvCKpppdT"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "I Declare Nothing",
-        "url": "https://open.spotify.com/album/0KpiAkOntxywSO4MQEvEA3"
-      },
-      "artists": [
-        {
-          "name": "Tess Parks",
-          "url": "https://open.spotify.com/artist/0EPmJUz0lE18y95cYzB840"
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD"
         },
         {
-          "name": "Anton Newcombe",
-          "url": "https://open.spotify.com/artist/6FBGg3WVGPtpIbfmnkYBNS"
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
         }
       ],
-      "duration_ms": 256959,
-      "name": "German Tangerine",
-      "url": "https://open.spotify.com/track/1J6Ap9WaS1SvqJ20ip5EGk"
+      "duration_ms": 287735,
+      "name": "Tracing - Extended",
+      "url": "https://open.spotify.com/track/3gOimyBXYMKWYd6XsZeTY7"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+        "name": "Jenks",
+        "url": "https://open.spotify.com/album/4QQhx6g1x8nUwH07MeT4kZ"
       },
       "artists": [
         {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+          "name": "DBFC",
+          "url": "https://open.spotify.com/artist/1XH9ofAwADTvtgNtQJSnHb"
+        }
+      ],
+      "duration_ms": 440256,
+      "name": "Autonomic",
+      "url": "https://open.spotify.com/track/1tC2uSs5NwipJxYwAc217M"
+    },
+    {
+      "added_at": "2026-11-06 05:00:19",
+      "album": {
+        "name": "HARD 2.0",
+        "url": "https://open.spotify.com/album/1JLjGf7hGIXBLGiOWLoW5S"
+      },
+      "artists": [
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
         },
         {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Bonnie And Clyde",
-      "url": "https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j"
+      "duration_ms": 162206,
+      "name": "HARD 2.0",
+      "url": "https://open.spotify.com/track/4pVeNLmkjJ4CHLyU54IPEL"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+        "name": "Alma Aventurera",
+        "url": "https://open.spotify.com/album/1bZXIq46XsNGTOwwm3FR5H"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Aimer El Sensei",
+          "url": "https://open.spotify.com/artist/0CQIthargSdmSUsHyOIcWd"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Run Of The Mill - Remastered 2014",
-      "url": "https://open.spotify.com/track/3S574gsoQJl826YjsuRqSr"
+      "duration_ms": 202706,
+      "name": "A Mi Familia",
+      "url": "https://open.spotify.com/track/4aCPX8y7ThEMz20ecZnyRY"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Born Too Loose (the best of)",
-        "url": "https://open.spotify.com/album/1u7rQz5Kvv2bdMwirNlt3L"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Johnny Thunders",
-          "url": "https://open.spotify.com/artist/421A23lYymEUE6SozCfWbr"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 172826,
-      "name": "You Can't Put Your Arms Around A Memory",
-      "url": "https://open.spotify.com/track/0UybrKTznKpvCwFQcOXhnM"
+      "duration_ms": 567906,
+      "name": "Thoroughfare",
+      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 713191,
-      "name": "Pneuma",
-      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+      "duration_ms": 175743,
+      "name": "CRANK",
+      "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+        "name": "Do You Know Who You Are?: The Complete Collection",
+        "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Texas Is The Reason",
+          "url": "https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8"
         }
       ],
-      "duration_ms": 270960,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+      "duration_ms": 163053,
+      "name": "Do You Know Who You Are?",
+      "url": "https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
+      "duration_ms": 335306,
+      "name": "Pandora (for Cindy)",
+      "url": "https://open.spotify.com/track/2Vqi1Si1dQjMtAZ79UreqL"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Slipknot",
-        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 159773,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc"
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "...And Justice for All (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+        "name": "Picture of Bunny Rabbit",
+        "url": "https://open.spotify.com/album/4SrqiN17xd1TDMwNQRGzHB"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 446145,
-      "name": "One (Remastered)",
-      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
+      "duration_ms": 240373,
+      "name": "The Boy With a Smile",
+      "url": "https://open.spotify.com/track/6okZsgUvC54hSJElAapUJp"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 80251,
-      "name": "The Meaning of Providence",
-      "url": "https://open.spotify.com/track/1sVDOkVguHVANZx25dufjR"
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 31044,
-      "name": "The Flagship",
-      "url": "https://open.spotify.com/track/76uRNo3vecMZYSYlhEO9NY"
+      "duration_ms": 201146,
+      "name": "Road, River and Rail",
+      "url": "https://open.spotify.com/track/6MJ8YgmhMphGcCX5OVS28W"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "The Working Model (Reverse)",
+        "url": "https://open.spotify.com/album/11C6ifvTPXh9T9AWpqrbKk"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Boytronic",
+          "url": "https://open.spotify.com/artist/2xalJuKFgZKeN0J6KI2u3N"
         }
       ],
-      "duration_ms": 128131,
-      "name": "A Day in the Life of a Writer",
-      "url": "https://open.spotify.com/track/4JGL2Nnt5WZliBNoawRzu9"
+      "duration_ms": 307639,
+      "name": "Bryllyant",
+      "url": "https://open.spotify.com/track/7HlgGjxuIpZ3GEXkgAnkmI"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 81316,
-      "name": "Wave Action",
-      "url": "https://open.spotify.com/track/616Paszb9eaQ1cWtSOs240"
+      "duration_ms": 102053,
+      "name": "Constants Are Changing",
+      "url": "https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Eros Massacre",
+        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 120443,
-      "name": "Striper Run",
-      "url": "https://open.spotify.com/track/1jgCmWEkl7HBJ2vMciYz0m"
+      "duration_ms": 250145,
+      "name": "Romantika",
+      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 45771,
-      "name": "Friday Special",
-      "url": "https://open.spotify.com/track/1IIrf3L8Vea89kwO2HSc2m"
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Summer in Abaddon",
+        "url": "https://open.spotify.com/album/22ekvUciiQ3yUOcwCJ4JVR"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "Pinback",
+          "url": "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
         }
       ],
-      "duration_ms": 117011,
-      "name": "Greasefire",
-      "url": "https://open.spotify.com/track/7cFVkl3K2eBMxbqxBNH8qx"
+      "duration_ms": 250226,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/2LtcQvCo1gFwEcCXDHjdYv"
     },
     {
-      "added_at": "2026-08-21 04:00:35",
+      "added_at": "2026-11-06 05:00:19",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Music Is Moving 2011",
+        "url": "https://open.spotify.com/album/4N6u8S77olYjv1cSpFm4Sr"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
-        }
-      ],
-      "duration_ms": 165231,
-      "name": "Only Came Here to See You",
-      "url": "https://open.spotify.com/track/2SfwaAj2vqzMhjCuTKGiau"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
-      },
-      "artists": [
+          "name": "Cortina",
+          "url": "https://open.spotify.com/artist/0JLR5lHwr8Sjb82eAuQ3bS"
+        },
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
-        }
-      ],
-      "duration_ms": 76531,
-      "name": "Sal",
-      "url": "https://open.spotify.com/track/3fiiUahGgmOME2UOqxj0l2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
-      },
-      "artists": [
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        },
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "DBM",
+          "url": "https://open.spotify.com/artist/2YYKM89ingMwsljvXxz8bW"
         }
       ],
-      "duration_ms": 87874,
-      "name": "Black Doesn't Mean Burnt",
-      "url": "https://open.spotify.com/track/14x86xvRdKf9DDXbJzI4QJ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
-      },
-      "artists": [
-        {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
-        }
-      ],
-      "duration_ms": 46391,
-      "name": "Francois Vatel",
-      "url": "https://open.spotify.com/track/1LQOso5m81AhGmFRhFWVE2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:35",
-      "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
-      },
-      "artists": [
-        {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
-        }
-      ],
-      "duration_ms": 103310,
-      "name": "Provincetown",
-      "url": "https://open.spotify.com/track/1g284Ikf1I2BqGqrxbcSTL"
+      "duration_ms": 458696,
+      "name": "Music Is Moving - BK & dBm Amber Remix",
+      "url": "https://open.spotify.com/track/0MABdSnjGg5hSwvisGzCvc"
     }
   ],
-  "unique_name": "Tony Official Playlist",
+  "unique_name": "Club Kid Official Playlist",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZGHXujRpFTl"
 }

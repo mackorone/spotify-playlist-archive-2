@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57835,
+  "num_followers": 57837,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAC0Lg6JTG3OnSnxOq4lb8Yc",
+  "snapshot_id": "auvHAAAAAADQyV7uHu7vNZT/ZhIGhOgG",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "torture (with Earl St. Clair)",
+        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 161669,
+      "name": "torture (with Earl St. Clair)",
+      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
         "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 186620,
       "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
       "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,
@@ -855,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "torture (with Earl St. Clair)",
-        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         },
         {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 161669,
-      "name": "torture (with Earl St. Clair)",
-      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,

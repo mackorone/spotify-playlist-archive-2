@@ -21855,6 +21855,24 @@
     },
     {
       "album": {
+        "name": "IN2U",
+        "url": "https://open.spotify.com/album/4ZkGxPp27hwTlGHeW8Jv4j"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229111,
+      "name": "IN2U",
+      "url": "https://open.spotify.com/track/7ud3HNsw8PRO1YWuniYJLW"
+    },
+    {
+      "album": {
         "name": "Incanto",
         "url": "https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp"
       },
@@ -37519,6 +37537,24 @@
     },
     {
       "album": {
+        "name": "RUSHIN'",
+        "url": "https://open.spotify.com/album/0YhP8tJKANFQGmks7kiBRe"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "RUSHIN'",
+      "url": "https://open.spotify.com/track/2NmRGpEJ1hs6aospwPb67k"
+    },
+    {
+      "album": {
         "name": "Sabor",
         "url": "https://open.spotify.com/album/0xLemIMbafsI4Ovh3Hakmj"
       },
@@ -43040,6 +43076,28 @@
       "duration_ms": 213750,
       "name": "Telephone Ringin'",
       "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
+    },
+    {
+      "album": {
+        "name": "Tell Me EP",
+        "url": "https://open.spotify.com/album/4HtzthIMpeaEUn7JRlvrz0"
+      },
+      "artists": [
+        {
+          "name": "Ammo Avenue",
+          "url": "https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn"
+        },
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4OgX35ylh4OayekGxE1PkE"
     },
     {
       "album": {

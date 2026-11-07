@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-698 songs - 1 day 18 hr 57 min
+701 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 | 2026-07-13 | 2026-08-08 |
 | [Falling to the Ground](https://open.spotify.com/track/75jXRd8mzVECXIOtCvbyg8) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [Falling to the Ground](https://open.spotify.com/album/5VxYxFcTOmQklzSyd6suRf) | 5:41 | 2026-09-06 | 2026-10-11 |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-06-13 |
+| [Fantasma](https://open.spotify.com/track/4wvVNCXf1kguUIw3HhJmxb) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [Fantasma](https://open.spotify.com/album/5LJqq53VTPgWQmPA2X1osP) | 4:03 | 2026-11-06 |  |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 | 2026-05-08 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
 | [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 | 2026-05-23 | 2026-08-08 |
@@ -437,6 +438,7 @@
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-04 | 2025-11-22 |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2026-04-13 | 2026-05-08 |
 | [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 | 2026-05-05 | 2026-05-26 |
+| [PCH](https://open.spotify.com/track/7fwBbBWE9vwiGzEmIHw30L) | [Chaotic Hearts](https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq) | [PCH](https://open.spotify.com/album/4OozgpiLIOpwwJQQMQRivm) | 4:58 | 2026-11-06 |  |
 | [Pear Tree](https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn) | [Latvija](https://open.spotify.com/artist/4Zy2ssMFKgmYzpaGVJ4j2R) | [Pear Tree](https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr) | 3:10 | 2026-02-04 | 2026-02-23 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 | 2026-02-23 |
 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 | 2026-04-30 | 2026-05-26 |
@@ -524,6 +526,7 @@
 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 | 2026-06-20 | 2026-08-08 |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 | 2026-08-21 | 2026-10-11 |
+| [Skoold](https://open.spotify.com/track/6aSYqXbgGESAMrx5farYZp) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [M30](https://open.spotify.com/album/76K1pVbMSisFEdPiIcoIvO) | 3:49 | 2026-11-06 |  |
 | [Skuggorna på vägen hem](https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG) | [KRAKEL](https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH) | [Skuggorna på vägen hem](https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z) | 4:02 | 2026-02-20 | 2026-03-22 |
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |
 | [Slow Tide](https://open.spotify.com/track/0kKQmicsDuiV5GFp4zec4j) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Slow Tide](https://open.spotify.com/album/5K5o9OAQz2MbPkqVoMibmf) | 3:43 | 2026-07-20 | 2026-08-25 |

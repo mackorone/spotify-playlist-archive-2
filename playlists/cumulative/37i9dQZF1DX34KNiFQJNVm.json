@@ -20876,8 +20876,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-06",
@@ -137381,7 +137381,7 @@
     },
     {
       "album": {
-        "name": "Espirra O Lancinha",
+        "name": "Espirra O Lancinha (C\u00ea S\u00f3 Tem Cara De Santa)",
         "url": "https://open.spotify.com/album/6484s3rzFTI2FHIfbzmzTf"
       },
       "artists": [
@@ -137422,7 +137422,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 352615,
-      "name": "Espirra O Lancinha",
+      "name": "Espirra O Lancinha (C\u00ea S\u00f3 Tem Cara De Santa)",
       "url": "https://open.spotify.com/track/2ydwmgtw09A6vOJLgo0Gfb"
     },
     {
@@ -391037,7 +391037,7 @@
     },
     {
       "album": {
-        "name": "S\u00f3 Elas (Ao Vivo)",
+        "name": "S\u00f3 Elas (feat. Klessinha, Fernanda e Amanda, Gabi & Rapha & Filtr Music Brasil) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0yb9fMx7K43iNHL3wzXgNO"
       },
       "artists": [
@@ -391056,13 +391056,29 @@
         {
           "name": "Reddy",
           "url": "https://open.spotify.com/artist/7nOz5jOgDguue2Zbr7W603"
+        },
+        {
+          "name": "Klessinha",
+          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
+        },
+        {
+          "name": "Fernanda e Amanda",
+          "url": "https://open.spotify.com/artist/3l28N5cWmSQEXuhMvZNaW8"
+        },
+        {
+          "name": "Gabi & Rapha",
+          "url": "https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD"
+        },
+        {
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
         }
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154026,
-      "name": "S\u00f3 Elas - Ao Vivo",
+      "name": "S\u00f3 Elas (feat. Klessinha, Fernanda e Amanda, Gabi & Rapha & Filtr Music Brasil) - Ao Vivo",
       "url": "https://open.spotify.com/track/0OphSZmgHVpdXHVr9No13U"
     },
     {
@@ -394732,7 +394748,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177685,
       "name": "take me home (4 christmas)",
       "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
@@ -398809,7 +398825,7 @@
     },
     {
       "album": {
-        "name": "JO\u00c3OZINHO NA PISTA (AC\u00daSTICO AO VIVO) [Ac\u00fastico Ao Vivo]",
+        "name": "JO\u00c3OZINHO NA PISTA (AC\u00daSTICO AO VIVO)",
         "url": "https://open.spotify.com/album/0vHqlMRYVWExcCGEtIJQZP"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Wamen \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-2,187 songs - 4 day 16 hr 59 min
+2,188 songs - 4 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Doudou Chou](https://open.spotify.com/track/4HOxCDCw4oQWjc7sVub1vp) | [Darina Victry](https://open.spotify.com/artist/31QkaxtrcSZdPAxHFjETBt) | [Doudou Chou](https://open.spotify.com/album/71AyCcMiMLgtR7bpTrMvr8) | 3:02 | 2022-03-07 | 2022-04-06 |
 | [Doudou mets ta robe rouge](https://open.spotify.com/track/54bz9UmXdkI6zpZwJJWeSQ) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Soleil la](https://open.spotify.com/album/3fbuYQnRRZcu85w9BDR2pz) | 3:37 | 2022-08-02 | 2022-09-07 |
 | [Douillé](https://open.spotify.com/track/3blojRFR71HztUj5mHqBb9) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:45 | 2023-05-02 | 2023-06-07 |
+| [Douter](https://open.spotify.com/track/005qFe7U4oVqJteXYYEWLQ) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 2:47 | 2026-11-06 |  |
 | [Douter](https://open.spotify.com/track/5fpLrRSDJ42NhWy47dOG6K) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Douter](https://open.spotify.com/album/4pyppyNOXJ5iKmT9g9vnTI) | 2:47 | 2026-10-06 | 2026-11-04 |
 | [Doué](https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM) | 2:47 | 2022-11-08 | 2026-03-04 |
 | [Doué](https://open.spotify.com/track/0wuHIyOFzNTMHmDf5AnQLZ) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Doué](https://open.spotify.com/album/7hfsFt84bfD7krMhF4MwbP) | 2:54 | 2026-05-05 | 2026-07-01 |

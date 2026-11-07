@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec ESTL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,881 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,929 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 20 | [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 |
 | 21 | [Intranquilles](https://open.spotify.com/track/0oAOrQmbQ8rigpHxZcHIyF) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Les Intranquilles](https://open.spotify.com/artist/3H2tEdqg2N9xFgkbU5AC8x) | [Intranquilles](https://open.spotify.com/album/0Ry4UIq0RbMDMMx3E91F0x) | 3:19 |
 | 22 | [À l'abri dans mes rêves](https://open.spotify.com/track/2csKp1zfjB2olJzatWyKAe) | [Thed](https://open.spotify.com/artist/3gFZrEpUIUphZLOUPOBD85) | [À l'abri dans mes rêves](https://open.spotify.com/album/5jHZOQlP8hOy1tVIthIidO) | 2:53 |
-| 23 | [Track 5](https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [déséquilibres](https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L) | 0:00 |
+| 23 | [Comment se dire au revoir ?](https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [déséquilibres](https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L) | 2:28 |
 | 24 | [Le prochain rêve \(feat\. Styleto\)](https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Le prochain rêve \(feat\. Styleto\)](https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv) | 3:16 |
 | 25 | [J'ai perdu mon père](https://open.spotify.com/track/47iNzDNVcQ4XDI2IJiyHch) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [J'ai perdu mon père](https://open.spotify.com/album/2b5RBTQSpaTCt6aGMQteoy) | 3:02 |
 | 26 | [Surya](https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [the Sound of Art](https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko) | 5:45 |

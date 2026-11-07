@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,950 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,952 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 0:00 |
+| 1 | [Taistele, pakene](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 2:50 |
 | 2 | [Isosisko](https://open.spotify.com/track/1vRDoHBJzlpd9Vxviyb1Le) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Isosisko](https://open.spotify.com/album/3zl7QoxDNRm3BAnqrWwhyO) | 2:44 |
 | 3 | [oikees](https://open.spotify.com/track/5PafEFpYfVg7SUNc8T8Bdq) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy), [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [starseed](https://open.spotify.com/album/0VUd4XVqLzcLlp6rez60Eb) | 3:25 |
 | 4 | [Hetki ikuisuudessa](https://open.spotify.com/track/5rHYxh5NHU6JFVKvJviR0m) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Hetki ikuisuudessa](https://open.spotify.com/album/1nwluNMld1AgBs7OnkaEuw) | 3:00 |

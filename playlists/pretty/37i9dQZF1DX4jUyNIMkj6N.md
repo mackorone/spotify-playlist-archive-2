@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,766 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,793 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 19 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 |
 | 20 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 21 | [No One Calls](https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [No One Calls](https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h) | 2:35 |
-| 22 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
+| 22 | [Helvegen II](https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Helvegen II](https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu) | 6:43 |
 | 23 | [Empire State of Confusion](https://open.spotify.com/track/2w4fJwRAmKTFS4B1Rh1HqV) | [Juli von Lou](https://open.spotify.com/artist/0AZKzQV0XYHKO2tCJ88uRS) | [The Tales of a Honky Tonk Alien](https://open.spotify.com/album/6RBu0opkwA7T5GZgeG5eUV) | 3:29 |
-| 24 | [Helvegen II](https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Helvegen II](https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu) | 6:43 |
+| 24 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
 | 25 | [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 |
 | 26 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |
 | 27 | [Avignon](https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Avignon](https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT) | 2:59 |
@@ -48,25 +48,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 38 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
 | 39 | [How Love’s Supposed to Feel](https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa) | 4:07 |
 | 40 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
-| 41 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
+| 41 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 42 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
-| 43 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
+| 43 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
 | 44 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
-| 45 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
-| 46 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 45 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 46 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 47 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
-| 48 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
+| 48 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
 | 49 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 50 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 51 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 52 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
-| 53 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
-| 54 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
+| 53 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
+| 54 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
 | 55 | [Charity](https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Revelations of Divine Love](https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2) | 6:44 |
 | 56 | [It Won't Change Anything](https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It Won't Change Anything](https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr) | 4:33 |
 | 57 | [Rusletur](https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/2sCBn5AwUYBHDvr0I7euw9) | 3:23 |
 | 58 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 59 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 60 | [All Shall Be Well](https://open.spotify.com/track/0yt9HKXnTIPJgx5v3o6WxR) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [All Shall Be Well](https://open.spotify.com/album/20o0u1AOqGujEoInBj5JR9) | 4:07 |
+| 60 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 
 Snapshot ID: `AAAAAF2SID2Ti059cjwHx+GHgrmmMhna`

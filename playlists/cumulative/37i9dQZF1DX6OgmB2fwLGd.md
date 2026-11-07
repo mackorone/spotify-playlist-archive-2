@@ -4,7 +4,7 @@
 
 > hyper\_sleaze.electro\_glitch \_❅ ･:\*:｡ ❆\_\[FINAL\]\_\[REAL\]\_\_coverartist.bassvictim
 
-1,511 songs - 2 day 15 hr 18 min
+1,512 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,7 +982,7 @@
 | [nyc](https://open.spotify.com/track/5Z2TdpE5zqC7BN0bwtlWM1) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [nyc](https://open.spotify.com/album/710cqlMWoL0vFYNP2T7l9N) | 1:15 | 2022-02-25 | 2022-04-27 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-13 | 2022-03-25 |
 | [Obsession](https://open.spotify.com/track/1EfnAn9WqrXg0yasJTsTDb) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Machine Machine](https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ) | 2:09 | 2026-06-12 | 2026-07-04 |
-| [Odyssey](https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Odyssey](https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG) | 3:51 | 2026-08-28 |  |
+| [Odyssey](https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Odyssey](https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG) | 3:51 | 2026-08-28 | 2026-11-07 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2KkDQOnRGyK0oh0sSenizj) | 3:12 | 2022-01-07 | 2022-02-04 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2022-02-03 | 2022-08-27 |
 | [Off The Lot \(feat\. UnoTheActivist\)](https://open.spotify.com/track/4hFIAXvcdVRfJQHdxpFofT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [FOREVER FIGEROA](https://open.spotify.com/album/7at9aPn487DEhpE9D6kAut) | 2:56 | 2021-12-17 | 2022-04-29 |
@@ -1431,6 +1431,7 @@
 | [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 | 2023-02-24 | 2023-08-19 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-01 | 2022-12-03 |
 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 | 2026-07-31 |  |
+| [WANT](https://open.spotify.com/track/2tUG60GZjYMbZTYFBBSvw7) | [Another Country $$$$](https://open.spotify.com/artist/3At9kBvFhiXo8y64fyHdwo) | [WANT](https://open.spotify.com/album/6ImD6RfkmxfKRetuhfqjyI) | 4:32 | 2026-11-06 |  |
 | [Want Me](https://open.spotify.com/track/1kWjuuleSkjjdncR75pGcj) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Want Me](https://open.spotify.com/album/48QabKYCn7iLJuZy8oDS8k) | 1:10 | 2021-12-09 | 2022-04-14 |
 | [WANTED FREESTYLE](https://open.spotify.com/track/4FI8YN6D4WoQ4ThC9WONrJ) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [WANTED FREESTYLE](https://open.spotify.com/album/5n2DiM9kQP59cHWed1KYNm) | 1:28 | 2022-04-05 | 2022-04-20 |
 | [Warhorse](https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Warhorse](https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq) | 4:00 | 2026-09-25 |  |

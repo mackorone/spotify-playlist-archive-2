@@ -4,7 +4,7 @@
 
 > 
 
-611 songs - 1 day 15 hr 27 min
+614 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Doubletap](https://open.spotify.com/track/7jGCiFHR79XMX4itdaHiFv) | [Jordan Gardner](https://open.spotify.com/artist/5OeFlYDG6tiOT810MprDQv), [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [Doubletap](https://open.spotify.com/album/2uSidtx5ambTWR3lQW9FJ4) | 4:48 | 2024-06-19 | 2024-09-11 |
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2022-10-12 | 2023-04-27 |
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-04-13 | 2024-03-15 |
+| [Dreamers](https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [No More](https://open.spotify.com/album/3nwEwmA4jrGVKeMk9WWnB0) | 3:49 | 2026-11-06 |  |
 | [Drift](https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fire on the Water / Drift](https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t) | 4:30 | 2026-07-07 |  |
 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 | 2023-09-08 | 2023-09-28 |
 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-16 | 2024-10-26 |
@@ -344,6 +345,7 @@
 | [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 | 2023-12-11 | 2024-01-12 |
 | [LongTime](https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [LongTime](https://open.spotify.com/album/2KQRuR4jBZvb5h5dNunyMO) | 3:31 | 2026-09-23 |  |
 | [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 | 2026-03-16 | 2026-04-04 |
+| [Loom](https://open.spotify.com/track/0nilmQ9FpdpKSHRxSYtgg9) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Róisín](https://open.spotify.com/album/62vi9DCEeLUe128est6dDQ) | 3:46 | 2026-11-06 |  |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
 | [Lost in the View](https://open.spotify.com/track/3Ni8Ttg0e947jzRD217ZEY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 4:14 | 2026-10-13 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
@@ -456,6 +458,7 @@
 | [Right Thing](https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Right Thing](https://open.spotify.com/album/7H5iillfusVO8njfh7xBRH) | 3:35 | 2026-07-17 |  |
 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 | 2024-04-10 | 2024-06-21 |
 | [RISE](https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [RISE](https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse) | 2:40 | 2024-04-17 | 2024-07-11 |
+| [Rising Up](https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Telepathy](https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG) | 3:20 | 2026-11-06 |  |
 | [Round n Round](https://open.spotify.com/track/7EovTzlTgRD6MdprArq80m) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Round n Round](https://open.spotify.com/album/47XFxbR2CJp4fLPnhf3Tfr) | 5:10 | 2024-04-09 | 2024-06-21 |
 | [Round n Round \- KAVARI Remix](https://open.spotify.com/track/0MhjM43Fa0ytthA4JiXTUq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [Round n Round \(KAVARI Remix\)](https://open.spotify.com/album/6afCeXY86iJqZU0wnqyzds) | 4:07 | 2024-10-30 | 2025-01-22 |
 | [Rubble](https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted](https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4) | 3:56 | 2023-10-20 | 2024-01-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Akapellah en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Neto Pe\u00f1a y Tornillo en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 134782,
       "name": "Atari",
       "url": "https://open.spotify.com/track/3d5QtjYLLorGzrBBkVl3ct"
@@ -4953,6 +4953,28 @@
     },
     {
       "album": {
+        "name": "El T\u00e1ndem",
+        "url": "https://open.spotify.com/album/2xrkEVEUu7mGGedcHtYWQO"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167917,
+      "name": "El T\u00e1ndem",
+      "url": "https://open.spotify.com/track/1EMKDtfgPar0PNTfsi9gzv"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Tango",
         "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
       },
@@ -5246,7 +5268,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 260306,
       "name": "Encantamiento",
       "url": "https://open.spotify.com/track/5ryq2kLF7FQNJFMlc0dKxk"
@@ -6348,6 +6370,32 @@
       "duration_ms": 147000,
       "name": "Ginger Shots",
       "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
+    },
+    {
+      "album": {
+        "name": "Solo para entendidos",
+        "url": "https://open.spotify.com/album/7LxnCL5EHjTSXLjXnIk5GA"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Babu",
+          "url": "https://open.spotify.com/artist/7LSCBbEAuCqQqE0MGszyKl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ginger Shots",
+      "url": "https://open.spotify.com/track/3UcwyMKLGQDC4bpvs9v9nv"
     },
     {
       "album": {
@@ -8710,7 +8758,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 260470,
       "name": "Lirica Homicida",
       "url": "https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4"
@@ -9014,7 +9062,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217600,
       "name": "Los Juanos",
       "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
@@ -9442,6 +9490,28 @@
       "duration_ms": 162168,
       "name": "MANIFIESTO FREESTYLE",
       "url": "https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4"
+    },
+    {
+      "album": {
+        "name": "Manos",
+        "url": "https://open.spotify.com/album/4pwCWTjHGhujGj6jbjddgL"
+      },
+      "artists": [
+        {
+          "name": "chelo hop",
+          "url": "https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/0lSCcmz8j2lkySqWuOdcF3"
     },
     {
       "album": {
@@ -10238,6 +10308,28 @@
       "duration_ms": 195251,
       "name": "Mil Caras",
       "url": "https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK"
+    },
+    {
+      "album": {
+        "name": "Milko Freestyle",
+        "url": "https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127326,
+      "name": "Milko Freestyle",
+      "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
     },
     {
       "album": {
@@ -11517,6 +11609,28 @@
     },
     {
       "album": {
+        "name": "Pa Esto Nac\u00ed",
+        "url": "https://open.spotify.com/album/1h6iSL9Q8hGLyMtz1PTITu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205100,
+      "name": "Pa Esto Nac\u00ed",
+      "url": "https://open.spotify.com/track/5PPxraVWlBkq71KNtEHVI7"
+    },
+    {
+      "album": {
         "name": "PA TU EGO",
         "url": "https://open.spotify.com/album/7bniKmGrAIU4cshI195UtR"
       },
@@ -12166,7 +12280,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188389,
       "name": "Por Si No Ha Quedado Claro",
       "url": "https://open.spotify.com/track/1bhKMBXdZCjKuEVy4VbGE9"
@@ -13800,6 +13914,28 @@
       "duration_ms": 158500,
       "name": "Ser\u00e1 posible?",
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+    },
+    {
+      "album": {
+        "name": "SESSION 01 RESPLANDOR/\u00c9XTASIS",
+        "url": "https://open.spotify.com/album/6xpjK9qhrKVIeE1mQScifl"
+      },
+      "artists": [
+        {
+          "name": "Undergold",
+          "url": "https://open.spotify.com/artist/6w5oRCEaMR4OTlGUUU7ClD"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "SESSION 01 RESPLANDOR/\u00c9XTASIS",
+      "url": "https://open.spotify.com/track/0UupRiPS5YH7IOjSXhs7jo"
     },
     {
       "album": {
@@ -16662,7 +16798,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153043,
       "name": "ZAPATOS",
       "url": "https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb"

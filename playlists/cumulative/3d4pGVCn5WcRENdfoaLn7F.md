@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-458 songs - 1 day 3 hr 23 min
+462 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-11-26 | 2025-12-28 |
 | [Closer and Closer](https://open.spotify.com/track/1KXdZfYypUjsYI6EaDK9Rn) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:22 | 2026-04-28 | 2026-05-26 |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
+| [Colliding Into Space](https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Colliding Into Space](https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb) | 3:58 | 2026-11-06 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-04 | 2026-02-25 |
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 | 2025-12-28 |
 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-03-07 | 2026-04-15 |
@@ -99,6 +100,7 @@
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-24 | 2026-01-21 |
 | [Deep End](https://open.spotify.com/track/0gqElVc5uE7vMDD10MSA1d) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Deep End](https://open.spotify.com/album/036WIs8gZARURbPzsx82od) | 3:38 | 2026-02-09 | 2026-03-05 |
 | [Desert is blind](https://open.spotify.com/track/5H8nFIaeVEmLLGZriXwC8T) | [Khoora](https://open.spotify.com/artist/2SEpC1uryEwjK4RxLtxZlY) | [Desert is blind](https://open.spotify.com/album/2mzEWMMSS4pH88svJWzbwD) | 4:01 | 2025-09-17 | 2025-12-12 |
+| [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 | 2026-11-06 |  |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 | 2026-01-05 |
 | [Different Doors](https://open.spotify.com/track/6xUa1e4JfZtC7OfEu4Pb8X) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk) | [Different Doors](https://open.spotify.com/album/47kTyebjcjYRNLHdE6YwDT) | 3:46 | 2026-05-15 | 2026-06-11 |
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-04-06 | 2026-05-26 |
@@ -186,6 +188,7 @@
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-19 | 2026-03-27 |
 | [if there's nothing \(Hectic remix\)](https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [if there's nothing \(Hectic remix\)](https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo) | 3:44 | 2026-08-17 | 2026-10-16 |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2026-05-12 | 2026-06-11 |
+| [Impossible Highs](https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV), [Sonic Panda](https://open.spotify.com/artist/0b9czBoJTsWwxyjOdVK1RL) | [Impossible Highs](https://open.spotify.com/album/2iTVRC8XPaUn4bcsV7JP1q) | 3:30 | 2026-11-06 |  |
 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 | 2026-07-21 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
@@ -431,6 +434,7 @@
 | [Virus](https://open.spotify.com/track/7zKZS5LgJvKl018Y83mO8Z) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Virus](https://open.spotify.com/album/2JXu1atcdsne9odXJdbYnI) | 2:21 | 2026-01-24 | 2026-02-19 |
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-02-09 | 2026-03-05 |
+| [Warning Signs](https://open.spotify.com/track/5zFMIxhLh0iqGB2fSuskvU) | [Chaotic Hearts](https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq) | [Warning Signs](https://open.spotify.com/album/62Wv503SOc96RcJkdt0DNn) | 3:06 | 2026-11-06 |  |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2026-02-20 | 2026-03-27 |
 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 | 2026-05-06 | 2026-05-26 |
 | [Watch The World Burn](https://open.spotify.com/track/5eh4inn2ixohkqccJPWgf2) | [Aiden Levit](https://open.spotify.com/artist/1aDMP3KJMjzvEU6oxq4ktJ) | [Watch The World Burn](https://open.spotify.com/album/17Ot21U5DpVxMZVQqPbcPl) | 3:48 | 2026-04-06 | 2026-05-26 |

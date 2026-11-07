@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Nickelback",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Royal Blood",
   "name": "VOLUME",
   "tracks": [
     {
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 142221,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
@@ -6108,7 +6108,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177650,
       "name": "Chelsea Boots - (Bonus Track)",
       "url": "https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS"
@@ -8192,7 +8192,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199555,
       "name": "Dead Company",
       "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
@@ -13309,6 +13309,24 @@
     },
     {
       "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/4qzGA7IumMUT0t33JtebFB"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174726,
+      "name": "Glowing Buzz",
+      "url": "https://open.spotify.com/track/0xuXdd6ZbkK678e3DohQAP"
+    },
+    {
+      "album": {
         "name": "Go To Hell",
         "url": "https://open.spotify.com/album/4a4NVlJGkVNaYG6F2eOgMu"
       },
@@ -16018,7 +16036,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 311686,
       "name": "I Feel Hope Coming",
       "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
@@ -16174,6 +16192,24 @@
       "duration_ms": 188859,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq"
+    },
+    {
+      "album": {
+        "name": "The Holy Cross Tigers",
+        "url": "https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177179,
+      "name": "I Spend My Time Crying",
+      "url": "https://open.spotify.com/track/6bvcSEgoD9I42gqqi0UjyM"
     },
     {
       "album": {
@@ -16900,7 +16936,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 178794,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7"
@@ -20339,6 +20375,24 @@
     },
     {
       "album": {
+        "name": "Make It Easy",
+        "url": "https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197018,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M"
+    },
+    {
+      "album": {
         "name": "Make It Make Sense",
         "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
       },
@@ -21537,6 +21591,24 @@
     },
     {
       "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP"
+    },
+    {
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8"
       },
@@ -21779,6 +21851,24 @@
     },
     {
       "album": {
+        "name": "My Future Prediction",
+        "url": "https://open.spotify.com/album/1RJFPzicoI5gsiY7y0HuVw"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216496,
+      "name": "My Future Prediction",
+      "url": "https://open.spotify.com/track/2GdBC03mreiuaSxJlpcMtN"
+    },
+    {
+      "album": {
         "name": "M.O.T.H.E.R.",
         "url": "https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU"
       },
@@ -21888,7 +21978,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
@@ -26731,6 +26821,24 @@
     },
     {
       "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
+    },
+    {
+      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
       },
@@ -28190,6 +28298,28 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
+    },
+    {
+      "album": {
+        "name": "Chosen Hell",
+        "url": "https://open.spotify.com/album/3fyjKkQ2wddiOa8DR8Ef1L"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Shedding Season (feat. Courtney LaPlante)",
+      "url": "https://open.spotify.com/track/2RO6D7molMZBEdGrnhCK0J"
     },
     {
       "album": {
@@ -36518,7 +36648,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 112984,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"

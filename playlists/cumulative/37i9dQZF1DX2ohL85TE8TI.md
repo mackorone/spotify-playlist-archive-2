@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 부활남: 더 레드\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,251 songs - 3 day 3 hr 29 min
+1,252 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [Poison](https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Poison \(Crime Puzzle\)](https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg) | 2:41 | 2021-12-19 | 2022-03-04 |
 | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/track/1JfGO5Y59Ly5KK5cjncV1r) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/album/2LhHwUyIqFp8dlJc6OGxGT) | 2:45 | 2022-03-03 | 2022-05-12 |
 | [Possible Love](https://open.spotify.com/track/0nDZvVRzvd703Zq5JtqGQq) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [No Gain No Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6n0a1FuTyOMVgm7SaeiWC6) | 3:51 | 2024-09-02 | 2025-02-01 |
+| [Possible Love \(가능한 사랑\)](https://open.spotify.com/track/0mD9tG1ghrmn6HZD88Tm5Z) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Possible Love \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/479oTc03pVJDyvtTTwAtje) | 4:13 | 2026-10-20 |  |
 | [Pray](https://open.spotify.com/track/68ycyYtXtbTH6ujIMHdida) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Pray \(20th Anniversary of the Korean Wave Part 3\)](https://open.spotify.com/album/7ly2oxsoLytVy3QiO8Y3FX) | 4:35 | 2024-11-12 | 2025-05-08 |
 | [Pray For Me](https://open.spotify.com/track/29ycXqOUkbHJTs1YKUqe7S) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [One Ordinary Day \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2dcbalhmZ32VWBPkgvWTPK) | 3:31 | 2021-12-24 | 2022-04-13 |
 | [Pray For You](https://open.spotify.com/track/3aCyOW5t7mjTZSn4lxFn9o) | [Dabin Yu](https://open.spotify.com/artist/0bDXcnhvDXxvYWU7GAZddx) | [The Queen Who Crowns OST Part.2](https://open.spotify.com/album/4JaIECqzk9aBinqT0XDx3k) | 3:47 | 2025-01-31 | 2025-07-26 |

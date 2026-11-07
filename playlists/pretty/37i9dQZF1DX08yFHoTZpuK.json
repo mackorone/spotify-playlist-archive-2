@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 35057,
+  "num_followers": 35100,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "KICK IT OUT -PAS TASTA remix",
-        "url": "https://open.spotify.com/album/51Fezl7Bk0BrbEPdPdvt91"
-      },
-      "artists": [
-        {
-          "name": "BOOM BOOM SATELLITES",
-          "url": "https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o"
-        },
-        {
-          "name": "PAS TASTA",
-          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
-        }
-      ],
-      "duration_ms": 230450,
-      "name": "KICK IT OUT -PAS TASTA remix",
-      "url": "https://open.spotify.com/track/0iGtbhZcf7jbXJXNEAJ8G1"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "TRUE MAGIC",
         "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 131054,
       "name": "go!",
       "url": "https://open.spotify.com/track/5t2y268snYiNava21XWxMZ"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "KICK IT OUT -PAS TASTA remix",
+        "url": "https://open.spotify.com/album/51Fezl7Bk0BrbEPdPdvt91"
+      },
+      "artists": [
+        {
+          "name": "BOOM BOOM SATELLITES",
+          "url": "https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o"
+        },
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        }
+      ],
+      "duration_ms": 230450,
+      "name": "KICK IT OUT -PAS TASTA remix",
+      "url": "https://open.spotify.com/track/0iGtbhZcf7jbXJXNEAJ8G1"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
+        "name": "TRASHURE",
+        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        }
+      ],
+      "duration_ms": 161300,
+      "name": "TRASHURE",
+      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 200655,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
-        "name": "TRASHURE",
-        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 161300,
-      "name": "TRASHURE",
-      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Achi Kochi",
-        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
       },
       "artists": [
         {
-          "name": "Aili & Orson",
-          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+          "name": "TESTSET",
+          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Achi Kochi",
-      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
+      "duration_ms": 259400,
+      "name": "Dry Action Pump",
+      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "ALL HAZE",
-        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+        "name": "Achi Kochi",
+        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
       },
       "artists": [
         {
-          "name": "TESTSET",
-          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+          "name": "Aili & Orson",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
         }
       ],
-      "duration_ms": 259400,
-      "name": "Dry Action Pump",
-      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
+      "duration_ms": 236800,
+      "name": "Achi Kochi",
+      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9"
       },
       "artists": [
         {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
+          "name": "Triangle",
+          "url": "https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5"
         }
       ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
+      "duration_ms": 192760,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0"
     }
   ],
   "unique_name": "Tokyo Club Beat",

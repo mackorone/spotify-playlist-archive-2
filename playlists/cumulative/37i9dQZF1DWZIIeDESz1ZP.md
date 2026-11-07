@@ -4,7 +4,7 @@
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-30 songs - 1 hr 28 min
+36 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,14 +13,19 @@
 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 | 2026-10-14 |  |
 | [BBY ROMEO](https://open.spotify.com/track/0sVAsg0GP4JZHKn1Ohsiw0) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:18 | 2026-10-14 |  |
 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 | 2026-10-14 |  |
-| [crush](https://open.spotify.com/track/3T0H2QTPtioQryfUaiRfez) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [crush](https://open.spotify.com/album/0jKsxe18Mv6fi3fjQjwioU) | 3:38 | 2026-10-14 |  |
+| [BRUJA](https://open.spotify.com/track/1zkDITnmXQ5VRMcRQE9cR8) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/4eArbt7UHM2HaBuFvcSYZn) | 2:56 | 2026-11-06 |  |
+| [CATIRA](https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [CATIRA](https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2) | 3:05 | 2026-11-06 |  |
+| [cosas malas de mí](https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [cosas malas de mí](https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW) | 2:59 | 2026-11-06 |  |
+| [crush](https://open.spotify.com/track/3T0H2QTPtioQryfUaiRfez) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [crush](https://open.spotify.com/album/0jKsxe18Mv6fi3fjQjwioU) | 3:38 | 2026-10-14 | 2026-11-07 |
 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 | 2026-10-14 |  |
+| [De Cero](https://open.spotify.com/track/4VPaf34uvnDpfsYsNJU5FP) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/33X8MSFhcmZfQyvL9YhMkK) | 2:50 | 2026-11-06 |  |
 | [deditos cruzados](https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [deditos cruzados](https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j) | 3:25 | 2026-10-14 |  |
 | [For Eva](https://open.spotify.com/track/69jTHsPXAij557lc73zcp2) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:39 | 2026-10-14 |  |
 | [INTERÉS HACIA TI](https://open.spotify.com/track/2NVrPOo4REC8eO77OJuIhb) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3zBzy1qhmnXOz8astqS3ri) | 2:29 | 2026-10-14 |  |
-| [LA MENTIRA](https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/2tkALcfwiliE3kyOlVMWYQ) | 3:01 | 2026-10-14 |  |
+| [LA MENTIRA](https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/2tkALcfwiliE3kyOlVMWYQ) | 3:01 | 2026-10-14 | 2026-11-07 |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2026-10-14 |  |
 | [La Semana](https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Semana](https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO) | 3:30 | 2026-10-14 |  |
+| [Las Cosas Cambian](https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Las Cosas Cambian](https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue) | 2:36 | 2026-11-06 |  |
 | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/track/525T9rlpX3m3LHEtyVuIFN) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/album/1ZDGbhCdCMCXAv3lYONIui) | 2:19 | 2026-10-14 |  |
 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 | 2026-10-14 |  |
 | [LINEAS PARALELAS](https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LINEAS PARALELAS](https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7) | 3:02 | 2026-10-14 |  |
@@ -37,6 +42,7 @@
 | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/track/0WaevUgW1inPeqVw0N3ACz) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/album/6NppnAgSsLeb7NwlcWn4et) | 3:10 | 2026-10-14 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2026-10-14 |  |
 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 | 2026-10-14 |  |
+| [uno+1](https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ) | 2:56 | 2026-11-06 |  |
 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 | 2026-10-14 |  |
 
 \*This playlist was first scraped on 2026-10-21. Prior content cannot be recovered.

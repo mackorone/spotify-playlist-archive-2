@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\.  Photo: Aswell
+> De la musique québécoise pour tous les goûts\.  Photo: mokina, Gabrielle Olivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,817 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,826 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 31 | [Je reste qui je suis](https://open.spotify.com/track/5PPtbY04ljvgvo9Y6Crvf8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Je reste qui je suis](https://open.spotify.com/album/3uPWGAfKGgJXsIIovcCw7g) | 3:22 |
 | 32 | [J'y crois encore](https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ) | [Sarcass](https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [J'y crois encore](https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO) | 2:41 |
 | 33 | [Voz de mi vida](https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk) | [Luan Larobina](https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h) | [Voz de mi vida](https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt) | 3:36 |
-| 34 | [Your Name](https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Your Name](https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH) | 3:12 |
+| 34 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
 | 35 | [La course au plus beau jour de l'humanité](https://open.spotify.com/track/7fNdgHkCtxO0kWaZz0vklV) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [La course au plus beau jour de l'humanité](https://open.spotify.com/album/1r6nAZEUsXAMZLXKwINocL) | 2:57 |
 | 36 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
 | 37 | [Dans une autre vie](https://open.spotify.com/track/1VJdtTZWeTouSi3y6ik8zR) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Dans une autre vie](https://open.spotify.com/album/7eBxs9932wKP0HmVMtpuE0) | 3:59 |
 | 38 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
-| 39 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
+| 39 | [Your Name](https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Your Name](https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH) | 3:12 |
 | 40 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
 | 41 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
 | 42 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 60 | [No One's Around](https://open.spotify.com/track/4dSRwB0X45UDREfoJyOJao) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2Ohuhw6AZsxLD0PFiR2zfP) | 2:53 |
 | 61 | [À chaque année \(feat\. Gabriel Fredette\)](https://open.spotify.com/track/1yjfABm3BYD94VXZSZxTRp) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [À chaque année](https://open.spotify.com/album/5hPfxNHm2cpNovQFigeKuB) | 2:01 |
 | 62 | [Me doy cuenta](https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Reflexiones](https://open.spotify.com/album/2oxeurp6jOwxCXGlNhTmeA) | 3:29 |
-| 63 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
-| 64 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
-| 65 | [Au bout de la peur](https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K), [VALOIS](https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk) | [Au bout de la peur](https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp) | 3:49 |
+| 63 | [Au bout de la peur](https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K), [VALOIS](https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk) | [Au bout de la peur](https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp) | 3:49 |
+| 64 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
+| 65 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 66 | [Quand](https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dolbeau\-Mistassini](https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0) | 3:09 |
-| 67 | [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 |
-| 68 | [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 |
+| 67 | [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 |
+| 68 | [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 |
 | 69 | [Astronaute \- Deluxe](https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim), [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Cycle délicat \(Deluxe\)](https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy) | 2:50 |
 | 70 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
 | 71 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
 | 75 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 |
 
-Snapshot ID: `AAAAAMzCweB0exuLfjm5tZNj5ZZKk+MA`
+Snapshot ID: `AAAAAAp9RV9vNbZB0xxewaZRBl2/qPU8`

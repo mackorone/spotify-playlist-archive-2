@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Zed Yun Pavarotti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,843 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,853 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 3 | [je fais pleurer les hommes](https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [je fais pleurer les hommes](https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU) | 2:07 |
 | 4 | [Indisponible émotionnellement](https://open.spotify.com/track/29hU4tozxjD6K7hekQzwCI) | [Paolo.](https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4) | [Indisponible émotionnellement](https://open.spotify.com/album/51BukkdWfMAsEnulviVZQp) | 2:41 |
 | 5 | [Asocial](https://open.spotify.com/track/7DOQH8owgIbTjdznLsekGD) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Asocial](https://open.spotify.com/album/5dNcJOYahdmbC39lPwkGif) | 2:34 |
-| 6 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
+| 6 | [Tout s'en va](https://open.spotify.com/track/6mpBA9CQfJs7g16DjTya0A) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:55 |
 | 7 | [Tapis de course](https://open.spotify.com/track/4QIpe91NInAuUEEAddIk9M) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Tapis de course](https://open.spotify.com/album/4pP8miFNFdl6vAtU5IEoTB) | 2:49 |
 | 8 | [Planète bleue](https://open.spotify.com/track/0JRQTgpQPN3lViHJzGdrLy) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Planète Bleue](https://open.spotify.com/album/1Rq525d2OGrLnfvgMTTjr6) | 2:57 |
 | 9 | [Le + beau des hasards](https://open.spotify.com/track/3F5j88H0YRf1oBbtp9R6Et) | [Samson](https://open.spotify.com/artist/77iNi69gKE9UE8S8XobyOO) | [Le + beau des hasards](https://open.spotify.com/album/3Gr56HY8VFrnJ1g3hJh4X7) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Pop Song](https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Pop Song](https://open.spotify.com/album/64sj6X7CIIqpN9w89vlkRX) | 3:27 |
 | 50 | [Ensemble](https://open.spotify.com/track/3LysS5jMJjCEpGuxQeP5X7) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Naïf](https://open.spotify.com/album/5q5Z6W7IIEp4EHp34nL4Qf) | 3:14 |
 
-Snapshot ID: `AAAAACWQsSjFdRFYeo5lwmFhbm7pEyTe`
+Snapshot ID: `AAAAACUt5Kw4D835ezhn6htev2xTauMW`

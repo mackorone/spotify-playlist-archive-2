@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Mc Luanna
 
-1,694 songs - 3 day 15 hr 41 min
+1,695 songs - 3 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [Luxúria](https://open.spotify.com/track/59irouGVdpESLNn7KzhDew) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Luxúria](https://open.spotify.com/album/3oVyH0dVKn3ligFizOOiAu) | 4:55 | 2026-03-06 | 2026-03-14 |
 | [Luz da Lua](https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Luz da Lua](https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U) | 3:23 | 2022-03-22 | 2023-02-04 |
 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 | 2022-08-26 | 2022-09-03 |
+| [Lá Vem Ela](https://open.spotify.com/track/4JnglkJ2KPXWsMTBt4H1ko) | [AquinoBeat](https://open.spotify.com/artist/1aMLql8VZszTfgbLJXqGwG), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP) | [Aquinobeat Sessions "Na Praia"](https://open.spotify.com/album/65U7UZO4sLTqNBx5plXhNT) | 2:57 | 2026-11-06 |  |
 | [Lágrimas](https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:57 | 2022-03-22 | 2023-01-14 |
 | [Lágrimas de Gelo](https://open.spotify.com/track/7cCdY37u4qn7Kjz71GjHj7) | [LetoDie](https://open.spotify.com/artist/2JFpfD9p2vTjRCH8XLeO0l) | [Lágrimas de Gelo](https://open.spotify.com/album/5OBgzHTI5MlJvcKZtijJpD) | 2:58 | 2022-04-29 | 2022-05-07 |
 | [M3](https://open.spotify.com/track/7A22OyPdIWmflBQZSSItVW) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [M3](https://open.spotify.com/album/60YkAdjdKKNe4ph61c82w2) | 2:48 | 2025-09-26 | 2025-11-29 |

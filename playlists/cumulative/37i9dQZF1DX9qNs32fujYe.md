@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. Classics to brand new tracks across heavy, power, doom, thrash, and sludge\. Cover: Machine Head
 
-1,265 songs - 3 day 20 hr 3 min
+1,267 songs - 3 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-12-17 | 2023-10-30 |
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2022-07-08 | 2023-01-02 |
 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 | 2022-08-19 | 2023-10-30 |
-| [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 | 2024-04-05 |  |
+| [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 | 2024-04-05 | 2026-11-07 |
 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Army of the Damned](https://open.spotify.com/track/2UC6wkgnzyrR7kazwccqXe) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Army of the Damned](https://open.spotify.com/album/27UD3ZHaSDXa2qH1Xuxrhm) | 4:02 | 2023-04-21 | 2023-05-17 |
 | [Arsenal](https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Arsenal](https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP) | 3:41 | 2026-09-18 |  |
@@ -405,7 +405,7 @@
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 | 2026-05-30 |
 | [Fucked for Life](https://open.spotify.com/track/2Ly86wAzT0zDAF7GvDj9Op) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 3:53 | 2023-03-24 | 2026-11-05 |
 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 | 2021-12-17 | 2025-10-05 |
-| [Full Disclosure](https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:16 | 2023-10-27 |  |
+| [Full Disclosure](https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:16 | 2023-10-27 | 2026-11-07 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2022-10-08 |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 | 2024-04-19 |
 | [Genghis Khan \(feat\. Orden Ogan\)](https://open.spotify.com/track/6bU8aqYu560gwdcg2oPJ4f) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Genghis Khan](https://open.spotify.com/album/60BpGQ5Ddo6wIgFfzS80De) | 3:27 | 2025-05-09 | 2025-08-25 |
@@ -881,6 +881,7 @@
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-09 |  |
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-08 | 2024-01-27 |
+| [Sadness Will Reign](https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Sadness Will Reign](https://open.spotify.com/album/1SKwChtsQdSNkv88AW6F8c) | 4:47 | 2026-11-07 |  |
 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 | 2022-03-25 | 2024-06-22 |
 | [Saints and Sinners](https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Winds of Time](https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG) | 2:46 | 2025-10-17 | 2026-11-05 |
 | [Salt The Wound](https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Salt The Wound](https://open.spotify.com/album/3d2PMCB7rFiUNYKFHmz9OF) | 4:08 | 2025-05-23 | 2025-11-09 |
@@ -1253,6 +1254,7 @@
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-08 | 2024-07-13 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-07-25 |
 | [Would You Walk With Me Through Hell](https://open.spotify.com/track/7i1Z0H568DE25JZTGkCQeB) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Would You Walk With Me Through Hell](https://open.spotify.com/album/4ZPrSeieiq4GpCgUifuuY4) | 4:35 | 2025-11-07 | 2026-02-28 |
+| [Wounds I've Made](https://open.spotify.com/track/3QArCpwGziiqcEbZjDJFmU) | [Burn Eternal](https://open.spotify.com/artist/0H3ztvIwkQsfcwg6CqNsWF) | [Wounds I've Made](https://open.spotify.com/album/7mOLETfqFnra270N0Vzte0) | 3:41 | 2026-11-07 |  |
 | [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 | 2025-07-03 |
 | [WRONG END OF THE KNIFE](https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [...'Til The World's Blind](https://open.spotify.com/album/7c2mlvKNDXM8Y2AnPg6azN) | 3:32 | 2024-11-22 | 2025-02-01 |
 | [Year Of The Dragon](https://open.spotify.com/track/2dybzipzkpcPA4DZZkLnPJ) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [Gods Of Metal \(Year Of The Dragon\)](https://open.spotify.com/album/0PTbTBttAKA3cOx9Bnumdv) | 3:18 | 2024-08-23 | 2024-12-16 |

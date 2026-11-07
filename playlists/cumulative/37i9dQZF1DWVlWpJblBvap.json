@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "All of your recent Worship hits in one place!  Cover: Elevation Worship",
+  "description": "All of your recent Worship hits in one place!  Cover: SEU Worship",
   "name": "Worship Hits",
   "tracks": [
     {
@@ -322,10 +322,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 398280,
       "name": "Bless The Blood",
       "url": "https://open.spotify.com/track/3ajJYQ4Z85ORyZ71OxcVqw"
+    },
+    {
+      "album": {
+        "name": "Bless Your Name",
+        "url": "https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251473,
+      "name": "Bless Your Name",
+      "url": "https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64"
     },
     {
       "album": {
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 432839,
       "name": "Here Comes The Church (with Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0iYugCuyeWGor2kqJ13GtE"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218693,
       "name": "No Weapon",
       "url": "https://open.spotify.com/track/2O3821LecBWYxh8J6uR7Xz"
@@ -3178,6 +3196,24 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/0iql1Q9RHLdfX6e32SUxKJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264107,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG"
     },
     {
       "album": {
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 225996,
       "name": "The Same Jesus - Single Version",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
@@ -4305,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Worth Everything",
+        "url": "https://open.spotify.com/album/2PEJzFepo0yBNtLma4flW6"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/5aOwxm0zEWCgjGeOnwKEFc"
+    },
+    {
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -4346,6 +4400,28 @@
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+    },
+    {
+      "album": {
+        "name": "Found in the Field",
+        "url": "https://open.spotify.com/album/7dAfLNu8butwx106czT93w"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Caylie Bryant",
+          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387637,
+      "name": "Wild Rushing Wind",
+      "url": "https://open.spotify.com/track/3gpcW903EceJAU95UtedcW"
     },
     {
       "album": {

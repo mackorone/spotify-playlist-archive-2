@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 368256,
+  "num_followers": 368273,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Delicate",
-        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 251151,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "The Sweetest Dream",
         "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
       },
@@ -747,18 +731,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Goodbye Future Funk",
-        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Le Knight Club Is Playing at My House",
-      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
+      "duration_ms": 251151,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "DaFuture Is Now",
+        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
+      },
+      "artists": [
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sunset On The Shore",
+      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DaFuture Is Now",
-        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
+        "name": "Goodbye Future Funk",
+        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
       },
       "artists": [
         {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Sunset On The Shore",
-      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
+      "duration_ms": 216774,
+      "name": "Le Knight Club Is Playing at My House",
+      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -811,22 +811,6 @@
       "duration_ms": 183536,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
-      },
-      "artists": [
-        {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
-        }
-      ],
-      "duration_ms": 248447,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -851,6 +835,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
+      },
+      "artists": [
+        {
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+        }
+      ],
+      "duration_ms": 248447,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Your Secrets",
-        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 240526,
-      "name": "Your Secrets",
-      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+        "name": "Your Secrets",
+        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
       },
       "artists": [
         {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+      "duration_ms": 240526,
+      "name": "Your Secrets",
+      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1015,6 +999,22 @@
       "duration_ms": 208000,
       "name": "Static Startup",
       "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "SAILORWAVE II",
+        "url": "https://open.spotify.com/album/6BFdIbkDxDijg3utkOyEZB"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        },
+        {
+          "name": "Aritus",
+          "url": "https://open.spotify.com/artist/2D2Gu6CUdrRIvVCwvS9HgP"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 164000,
+      "name": "Tokyo City Nightlife (feat. Aritus)",
+      "url": "https://open.spotify.com/track/2UcHmNTQCb0GjmINRoUd6q"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE II",
-        "url": "https://open.spotify.com/album/6BFdIbkDxDijg3utkOyEZB"
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
       "artists": [
         {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        },
-        {
-          "name": "Aritus",
-          "url": "https://open.spotify.com/artist/2D2Gu6CUdrRIvVCwvS9HgP"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Tokyo City Nightlife (feat. Aritus)",
-      "url": "https://open.spotify.com/track/2UcHmNTQCb0GjmINRoUd6q"
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1543,22 +1543,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Onam Wave",
-        "url": "https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75"
+        "name": "Galetus",
+        "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
       },
       "artists": [
         {
-          "name": "Joan Jose",
-          "url": "https://open.spotify.com/artist/6uql75Amu5Sb5DuowvloMP"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         },
         {
-          "name": "Time Lapse 1987",
-          "url": "https://open.spotify.com/artist/4yuM28EUHBFRVwixccj21p"
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
         }
       ],
-      "duration_ms": 207243,
-      "name": "Onam Wave",
-      "url": "https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn"
+      "duration_ms": 207138,
+      "name": "Galetus",
+      "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Galetus",
-        "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
+        "name": "Onam Wave",
+        "url": "https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+          "name": "Joan Jose",
+          "url": "https://open.spotify.com/artist/6uql75Amu5Sb5DuowvloMP"
         },
         {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+          "name": "Time Lapse 1987",
+          "url": "https://open.spotify.com/artist/4yuM28EUHBFRVwixccj21p"
         }
       ],
-      "duration_ms": 207138,
-      "name": "Galetus",
-      "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
+      "duration_ms": 207243,
+      "name": "Onam Wave",
+      "url": "https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "PopSlinger (Original Videogame Soundtrack)",
-        "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
+        "name": "Get Up, Get Out",
+        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
         },
         {
-          "name": "FunKing",
-          "url": "https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX"
+          "name": "Dylan C. Greene",
+          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
         }
       ],
-      "duration_ms": 444297,
-      "name": "Chill City",
-      "url": "https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9"
+      "duration_ms": 202577,
+      "name": "Get Up, Get Out",
+      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
     }
   ],
   "unique_name": "Future Funk",

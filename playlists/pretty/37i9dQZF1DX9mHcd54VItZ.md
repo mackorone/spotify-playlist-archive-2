@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,861 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,864 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 23 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 24 | [Run](https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Run](https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13) | 4:00 |
 | 25 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
-| 26 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
-| 27 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
+| 26 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
+| 27 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
 | 28 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
 | 29 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 30 | [Hulle Eet Nie Wat Ons Eet Nie](https://open.spotify.com/track/20HfeypQPG777wfit4p7r4) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Hulle Eet Nie Wat Ons Eet Nie](https://open.spotify.com/album/0niNeyISvmEt79f8xrLXkJ) | 2:27 |

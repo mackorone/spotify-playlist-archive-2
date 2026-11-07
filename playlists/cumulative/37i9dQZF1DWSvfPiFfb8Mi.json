@@ -90,7 +90,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 194482,
       "name": "360 (feat. Barny Fletcher)",
       "url": "https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL"
@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Come Tocchitu",
+        "url": "https://open.spotify.com/album/0EX0avZy7SpnOkl8E8tWlA"
+      },
+      "artists": [
+        {
+          "name": "Cleeeo",
+          "url": "https://open.spotify.com/artist/2IkITZn0ksGxQYpWlSGHdr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171594,
+      "name": "Come Tocchitu",
+      "url": "https://open.spotify.com/track/4NwcWqw8QA1oG8I3Yec1BS"
+    },
+    {
+      "album": {
         "name": "Confetti (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 240587,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
@@ -3294,6 +3312,24 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "album": {
+        "name": "N.Y. Baby",
+        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
     },
     {
       "album": {
@@ -6470,6 +6506,28 @@
     {
       "album": {
         "name": "Only You",
+        "url": "https://open.spotify.com/album/24QdAvqCr9X2ZbpsR1MQ7B"
+      },
+      "artists": [
+        {
+          "name": "Arpy Brown",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        },
+        {
+          "name": "Theon Bower",
+          "url": "https://open.spotify.com/artist/45FiG9FmVUViZtiGnYgN8M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225488,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4oYmnoYUQ0Q970F6pCkPbP"
+    },
+    {
+      "album": {
+        "name": "Only You",
         "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
       },
       "artists": [
@@ -6612,6 +6670,24 @@
       "duration_ms": 219095,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL"
+    },
+    {
+      "album": {
+        "name": "After Elsewhere",
+        "url": "https://open.spotify.com/album/4HcFvyFxNe3ABOepevIVPz"
+      },
+      "artists": [
+        {
+          "name": "Kousto",
+          "url": "https://open.spotify.com/artist/3gGlHMXpaoeZ1FWV5kbUi2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282926,
+      "name": "Out of Range",
+      "url": "https://open.spotify.com/track/3wwO0tOTsGQxvJtaESNxzr"
     },
     {
       "album": {
@@ -8760,7 +8836,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 229585,
       "name": "The Wicked Man",
       "url": "https://open.spotify.com/track/0nDVF2LlRI93Owxp0hQZuA"

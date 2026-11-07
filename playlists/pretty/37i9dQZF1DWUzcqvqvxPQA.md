@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,513 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,518 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 51 | [Autumn Fires](https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8) | [RIVER RIVER](https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1) | [Autumn Fires](https://open.spotify.com/album/2sYPnUUk5RFoT53FM2NW3r) | 3:00 |
 | 52 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 53 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
-| 54 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
-| 55 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |
+| 54 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |
+| 55 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
 | 56 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |
 | 57 | [Image of Love](https://open.spotify.com/track/7yx1qvTUIMmAzj7Zcmk4wI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Image of Love](https://open.spotify.com/album/15x4tgcWqDeShCla5Ev6jK) | 3:42 |
 | 58 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 63 | [Nothing but the Blood](https://open.spotify.com/track/6kKpPSjFUQHO4RdYKBuPVV) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Nothing but the Blood](https://open.spotify.com/album/17JQNF1nyHPSSDNjx1CbYE) | 2:55 |
 | 64 | [In Your Arms](https://open.spotify.com/track/6OiInKzz6lhRIm0zsgZPbm) | [Taylor Holland](https://open.spotify.com/artist/7KzdruARFX9teR1Gvxs4Q7) | [In Your Arms](https://open.spotify.com/album/1tALKveCu0CB7U8kIWqkGR) | 3:27 |
 | 65 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
-| 66 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
-| 67 | [What A Friend We Have In Jesus \- Acoustic](https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [The Trinity Acoustic Sessions, Vol\. 3 \(Reawaken Hymns\)](https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ) | 3:13 |
+| 66 | [What A Friend We Have In Jesus \- Acoustic](https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [The Trinity Acoustic Sessions, Vol\. 3 \(Reawaken Hymns\)](https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ) | 3:13 |
+| 67 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
 | 68 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 |
 | 69 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
 | 70 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |

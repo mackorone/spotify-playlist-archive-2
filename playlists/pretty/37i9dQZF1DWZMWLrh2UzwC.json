@@ -1,12 +1,12 @@
 {
   "description": "New music from The Weeknd, Rex Orange County, XG, Ajai, Mawi, and more!",
-  "num_followers": 76341,
+  "num_followers": 76450,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB0WdV9jL8dhvYS0Vno4vQypfs3L",
+  "snapshot_id": "AAAAAExk23VuTGB13wA9HWxqXFiB4Kqd",
   "tracks": [
     {
       "added_at": "2026-11-05 16:00:29",
@@ -159,6 +159,22 @@
       "duration_ms": 234000,
       "name": "Prettier With Your Mask Off",
       "url": "https://open.spotify.com/track/08qqfNWBxd8t5C136mMJNX"
+    },
+    {
+      "added_at": "2026-11-06 05:01:23",
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
       "added_at": "2026-11-05 16:00:29",
@@ -380,8 +396,8 @@
           "url": "https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 170290,
+      "name": "loosin",
       "url": "https://open.spotify.com/track/43zRC19Tu0f0WMMru7vOdr"
     },
     {
@@ -620,8 +636,8 @@
           "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 14",
+      "duration_ms": 221786,
+      "name": "Wild Love",
       "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
     },
     {
@@ -687,6 +703,22 @@
       "duration_ms": 199000,
       "name": "AUTOMATIC",
       "url": "https://open.spotify.com/track/1juuiRXGTR6SFQFv7vVCRL"
+    },
+    {
+      "added_at": "2026-11-06 05:01:23",
+      "album": {
+        "name": "Happiest",
+        "url": "https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 171069,
+      "name": "Happiest",
+      "url": "https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE"
     },
     {
       "added_at": "2026-11-05 16:00:29",
@@ -1141,6 +1173,26 @@
       "url": "https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w"
     },
     {
+      "added_at": "2026-11-06 05:01:23",
+      "album": {
+        "name": "Nigel Sylvester",
+        "url": "https://open.spotify.com/album/45tqmH1f9uElOO0pcJYCu7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 179979,
+      "name": "Nigel Sylvester",
+      "url": "https://open.spotify.com/track/09a3A3v2dGT0WNR1amQJXT"
+    },
+    {
       "added_at": "2026-11-05 16:00:29",
       "album": {
         "name": "ROUTE ZERO : The CALLING",
@@ -1171,6 +1223,22 @@
       "duration_ms": 201000,
       "name": "Letter to me",
       "url": "https://open.spotify.com/track/0M3FPjAzIlSz5HVyHMC5gg"
+    },
+    {
+      "added_at": "2026-11-06 05:01:23",
+      "album": {
+        "name": "BLOW UP",
+        "url": "https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BLOW UP",
+      "url": "https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP"
     },
     {
       "added_at": "2026-11-05 16:00:29",
@@ -1330,10 +1398,18 @@
         {
           "name": "EL CAPITXN",
           "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        },
+        {
+          "name": "The Social Reject Choir",
+          "url": "https://open.spotify.com/artist/2Frm8WwIz4pk6tPyjUxBIT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 246417,
+      "name": "Sing This Song For Me (feat. Jagwar Twin & The Social Reject Choir)",
       "url": "https://open.spotify.com/track/3sa489oo3ZM0tUzA0CtEFQ"
     },
     {

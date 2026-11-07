@@ -3703,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/5LJqq53VTPgWQmPA2X1osP"
+      },
+      "artists": [
+        {
+          "name": "McNum",
+          "url": "https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/4wvVNCXf1kguUIw3HhJmxb"
+    },
+    {
+      "album": {
         "name": "Injustice For All",
         "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
       },
@@ -7799,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "PCH",
+        "url": "https://open.spotify.com/album/4OozgpiLIOpwwJQQMQRivm"
+      },
+      "artists": [
+        {
+          "name": "Chaotic Hearts",
+          "url": "https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298500,
+      "name": "PCH",
+      "url": "https://open.spotify.com/track/7fwBbBWE9vwiGzEmIHw30L"
+    },
+    {
+      "album": {
         "name": "Pear Tree",
         "url": "https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr"
       },
@@ -9370,6 +9406,24 @@
       "duration_ms": 209706,
       "name": "Skinny Boyfriend",
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
+      "album": {
+        "name": "M30",
+        "url": "https://open.spotify.com/album/76K1pVbMSisFEdPiIcoIvO"
+      },
+      "artists": [
+        {
+          "name": "M30",
+          "url": "https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229470,
+      "name": "Skoold",
+      "url": "https://open.spotify.com/track/6aSYqXbgGESAMrx5farYZp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,025,121 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024,774 likes - 40 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 14 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
 | 15 | [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 |
 | 16 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 |
-| 17 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:38 |
+| 17 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 |
 | 18 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 |
-| 19 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 |
+| 19 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:38 |
 | 20 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
 | 21 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 22 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 |

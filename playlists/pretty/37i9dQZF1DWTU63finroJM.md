@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,596 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,600 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 7 | [P0RN0](https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Chesyprod](https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD) | [P0RN0](https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL) | 2:18 |
 | 8 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 9 | [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 |
-| 10 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 |
-| 11 | [MIA](https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [MIA](https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC) | 2:42 |
+| 10 | [MIA](https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [MIA](https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC) | 2:42 |
+| 11 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 |
 | 12 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
 | 13 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
 | 14 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |

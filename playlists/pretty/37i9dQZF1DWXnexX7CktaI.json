@@ -1,6 +1,6 @@
 {
   "description": "forever hits. Cover: Olivia Dean",
-  "num_followers": 2138732,
+  "num_followers": 2138592,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
-      "added_at": "2022-08-03 15:25:39",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
       "added_at": "2023-01-26 12:39:45",
       "album": {
         "name": "Love Deluxe",
@@ -491,6 +475,22 @@
       "duration_ms": 218000,
       "name": "Like a Tattoo",
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
+      "added_at": "2022-08-03 15:25:39",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2025-06-27 03:52:26",
@@ -909,26 +909,6 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "While We Wait",
@@ -949,36 +929,24 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
-      "added_at": "2024-11-15 16:38:15",
+      "added_at": "2022-07-30 03:34:52",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "N o C h i l l",
-      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 223629,
-      "name": "Been Away",
-      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -997,20 +965,36 @@
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
+      "added_at": "2022-09-24 17:12:30",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+      "duration_ms": 223629,
+      "name": "Been Away",
+      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
+    },
+    {
+      "added_at": "2024-11-15 16:38:15",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "N o C h i l l",
+      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -1031,6 +1015,38 @@
       "duration_ms": 252750,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2022-09-24 17:12:30",
@@ -1067,22 +1083,6 @@
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2023-10-06 17:44:18",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -1459,22 +1475,6 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2024-11-15 05:41:56",
@@ -1527,22 +1527,6 @@
       "duration_ms": 189202,
       "name": "Treasure In The Hills",
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
-    },
-    {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -1601,22 +1585,6 @@
       "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
-      "added_at": "2025-09-12 18:52:17",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 273684,
-      "name": "back of the club",
-      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
-    },
-    {
       "added_at": "2025-03-28 04:00:41",
       "album": {
         "name": "PARTYPACK",
@@ -1647,6 +1615,22 @@
       "duration_ms": 205663,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
+    },
+    {
+      "added_at": "2025-09-12 18:52:17",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 273684,
+      "name": "back of the club",
+      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -1685,6 +1669,38 @@
       "url": "https://open.spotify.com/track/4w9dTbEcJx8uBTxGvUYC0h"
     },
     {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "added_at": "2023-01-12 08:17:13",
+      "album": {
+        "name": "Garden Kisses",
+        "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195405,
+      "name": "Garden Kisses",
+      "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
+    },
+    {
       "added_at": "2022-09-24 17:12:30",
       "album": {
         "name": "Candydrip",
@@ -1717,20 +1733,20 @@
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
-      "added_at": "2023-01-12 08:17:13",
+      "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "Garden Kisses",
-        "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 195405,
-      "name": "Garden Kisses",
-      "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
+      "duration_ms": 200140,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2022-09-24 17:12:30",
@@ -1747,22 +1763,6 @@
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2024-02-12 20:12:33",
@@ -2501,22 +2501,6 @@
       "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "A N N I V E R S A R Y",
-        "url": "https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/1LV5cAo02H8h5YlZNcjULM"
-    },
-    {
       "added_at": "2025-06-20 04:00:53",
       "album": {
         "name": "Revenge",
@@ -2531,6 +2515,22 @@
       "duration_ms": 218397,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "A N N I V E R S A R Y",
+        "url": "https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/1LV5cAo02H8h5YlZNcjULM"
     },
     {
       "added_at": "2023-03-09 23:51:11",

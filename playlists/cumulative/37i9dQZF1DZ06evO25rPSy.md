@@ -4,12 +4,13 @@
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 52 min
+72 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alquien Que Bese Como Tu](https://open.spotify.com/track/3yX13QX2pqJP55Q0Tg8Pm5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 6:06 | 2023-08-25 |  |
-| [Amazonas](https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:56 | 2023-08-25 |  |
+| [Amazonas](https://open.spotify.com/track/1gIHCLaJODxONb8WYaygKG) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 3:56 | 2026-11-07 |  |
+| [Amazonas](https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:56 | 2023-08-25 | 2026-11-07 |
 | [Amor Yo Te Perdí La Fe](https://open.spotify.com/track/0w73EI2Te3GGbPSZgG93Uc) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amor Yo Te Perdí La Fe](https://open.spotify.com/album/2IWmVsTMYnI3EhFEuEmhzw) | 2:53 | 2023-11-10 | 2025-11-25 |
 | [Amor Yo Te Perdí La Fe](https://open.spotify.com/track/1kiJIuvxjENeBKNIkoOS3m) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 2:53 | 2025-11-25 |  |
 | [Bailar](https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 4:19 | 2025-11-29 |  |

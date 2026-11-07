@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Force + Form",
+        "url": "https://open.spotify.com/album/423Qsmw4461vK3QApOY7hL"
+      },
+      "artists": [
+        {
+          "name": "Surgeon",
+          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643333,
+      "name": "At the Heart of It All",
+      "url": "https://open.spotify.com/track/2l0u2PkLEmZPYuyeMTvFEp"
+    },
+    {
+      "album": {
         "name": "Blinking/Aubades",
         "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
@@ -452,6 +470,24 @@
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E"
+    },
+    {
+      "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/3C9jPR2xmYEu3PTIYrHCKC"
+      },
+      "artists": [
+        {
+          "name": "DJ T-1000",
+          "url": "https://open.spotify.com/artist/2AMF8y2hNyoUtjLuyHZjDu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/4gyW51ELgwXnM6aG3UVLgw"
     },
     {
       "album": {
@@ -782,6 +818,24 @@
       "duration_ms": 211726,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
+    },
+    {
+      "album": {
+        "name": "Neptune's Lair",
+        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "C to the Power of X+C to the Power of X=unknown",
+      "url": "https://open.spotify.com/track/5UyhEIbwazIQXghuGpq3dX"
     },
     {
       "album": {
@@ -1508,7 +1562,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
@@ -1574,6 +1628,36 @@
       "duration_ms": 179067,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV"
+    },
+    {
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357466,
+      "name": "Endlessly (feat. BEA1991)",
+      "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
     },
     {
       "album": {
@@ -2678,7 +2762,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 277140,
       "name": "La barna leve",
       "url": "https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n"
@@ -3494,7 +3578,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 291666,
       "name": "Probably Wizards",
       "url": "https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF"
@@ -3682,7 +3766,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 193655,
       "name": "realcopy",
       "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
@@ -5225,6 +5309,32 @@
     },
     {
       "album": {
+        "name": "When It's Cold I'd Like to Die (John Tejada Remix)",
+        "url": "https://open.spotify.com/album/0SxVw0a7KkMc9cK4BDZZzB"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "When It's Cold I'd Like to Die - John Tejada Remix",
+      "url": "https://open.spotify.com/track/2TL7uFChwyPMkQJwi03dOE"
+    },
+    {
+      "album": {
         "name": "World Turns",
         "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
       },
@@ -5398,7 +5508,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 285000,
       "name": "Zan",
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"

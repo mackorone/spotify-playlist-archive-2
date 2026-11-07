@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,219 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,217 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

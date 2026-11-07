@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-341 songs - 21 hr 9 min
+343 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 | 2024-02-02 |  |
 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2023-05-17 |  |
 | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY) | 3:38 | 2026-01-16 |  |
+| [Berserker](https://open.spotify.com/track/36uTmaG8pmYQIPhWVPtPNE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Berserker](https://open.spotify.com/album/7o6KAiSsQvYALUgwSIRjVe) | 3:12 | 2026-11-06 |  |
 | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1jZosfYphLClzldEiQdRde) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD) | 3:43 | 2023-04-03 |  |
 | [Betray And Degrade](https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish \(Deluxe Edition\)](https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt) | 4:04 | 2021-08-20 | 2023-01-05 |
 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-06-27 |  |
@@ -209,6 +210,7 @@
 | [Monster In Me](https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:34 | 2023-07-28 |  |
 | [Monsters In My Head](https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [ANGELS CALLING](https://open.spotify.com/album/04jzwcuicEAURi04bVSArG) | 2:59 | 2025-10-31 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-01-24 |  |
+| [My Future Prediction](https://open.spotify.com/track/2GdBC03mreiuaSxJlpcMtN) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [My Future Prediction](https://open.spotify.com/album/1RJFPzicoI5gsiY7y0HuVw) | 3:36 | 2026-11-06 |  |
 | [Needles](https://open.spotify.com/track/6V8oQXzymTzpEZOsiBiyJT) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:13 | 2023-05-17 |  |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2021-10-01 | 2023-01-04 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-24 |  |

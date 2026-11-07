@@ -4,13 +4,13 @@
 
 > Aquí está el sonido urbano de Venezuela\. Foto: La Cruz
 
-187 songs - 9 hr 55 min
+188 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0](https://open.spotify.com/track/6AjiGIH30jG3ho4BwOvHIg) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [2.0](https://open.spotify.com/album/2lvZqXPTXHYGdCEcL2OVTF) | 3:04 | 2022-04-08 | 2026-10-24 |
 | [360 Grados](https://open.spotify.com/track/2y3TPKvfzg3vBR9VGqtt8S) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [360 Grados](https://open.spotify.com/album/2pSzm0McnbNqzUrxbmaQli) | 4:12 | 2022-04-22 | 2022-12-24 |
-| [365](https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx) | [365](https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3) | 2:27 | 2023-02-02 |  |
+| [365](https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx) | [365](https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3) | 2:27 | 2023-02-02 | 2026-11-07 |
 | [4 Favores](https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [4 Favores](https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB) | 1:50 | 2022-12-23 | 2023-10-28 |
 | [63](https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [63](https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI) | 2:44 | 2022-09-09 | 2023-08-12 |
 | [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 | 2022-10-21 | 2023-02-03 |
@@ -185,6 +185,7 @@
 | [Vacile](https://open.spotify.com/track/0UyFBKCoQOU9GiPCLICTXG) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Vacile](https://open.spotify.com/album/2Gf7Rcxy8gYKFlvpD303NR) | 3:27 | 2022-03-11 | 2023-08-12 |
 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 | 2022-03-11 |  |
 | [Veinte Años](https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Veinte Años](https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B) | 3:24 | 2024-04-05 | 2026-10-24 |
+| [Velocidad](https://open.spotify.com/track/2Orydpe0TfgYBCnq1IdbeU) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Squiz Nine](https://open.spotify.com/artist/0nWlQreLesy9BAgslFWNyQ) | [El Release \- lado A](https://open.spotify.com/album/11T1VuiHkmCojIguAG7jSl) | 2:13 | 2026-11-06 |  |
 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 | 2022-03-11 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-08 |  |
 | [Vuela](https://open.spotify.com/track/08WtcbUnNVB4J2DCre8LHZ) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Rain City](https://open.spotify.com/album/3R6sgv6rk66P3zIJ4SNKOg) | 3:18 | 2023-03-17 | 2024-02-17 |

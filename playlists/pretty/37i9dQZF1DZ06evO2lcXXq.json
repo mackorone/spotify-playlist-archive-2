@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369325,
+  "num_followers": 369312,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADSBrFPFjhgYwEQ94WxufAT",
+  "snapshot_id": "auvHAAAAAADMdsKIyoF1sdOhpI9MQQcm",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EAT",
         "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 167254,
       "name": "Watchmen",
       "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
-        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 251569,
-      "name": "Then I Will - From The Motion Picture Bonhoeffer",
-      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Lead Me",
         "url": "https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 254184,
       "name": "You Lead Me",
       "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-125 songs - 10 hr 19 min
+126 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Someday \- Live](https://open.spotify.com/track/1bu2x61uy2IGZV6GLIcugt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [I Am What I Am](https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc) | 6:35 | 2026-11-03 |  |
 | [Something About the Name Jesus](https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 6:08 | 2022-09-14 |  |
 | [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 | 2026-03-31 | 2026-08-28 |
-| [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 | 2022-09-14 |  |
+| [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 | 2022-09-14 | 2026-11-07 |
+| [Stay](https://open.spotify.com/track/22qMvl1vaniwIDA8TDpA7W) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [I Am What I Am](https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc) | 4:46 | 2026-11-07 |  |
 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 | 2022-09-14 |  |
 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 | 2022-09-14 | 2026-09-18 |
 | [Sunday Morning](https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 4:01 | 2022-10-12 |  |

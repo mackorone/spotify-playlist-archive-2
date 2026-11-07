@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Handshake Thugs",
+        "url": "https://open.spotify.com/album/70RNMKbbN9LHtCiz3jyKzA"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240239,
+      "name": "Handshake Thugs",
+      "url": "https://open.spotify.com/track/1uQjiH5ny1RHsIMSvhLm7T"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },

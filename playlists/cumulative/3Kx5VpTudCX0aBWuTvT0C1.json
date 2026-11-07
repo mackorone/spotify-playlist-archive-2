@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Sexy Freak'aLicious",
+        "url": "https://open.spotify.com/album/4OFIAf8r7kkF2MvFkexxDq"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ryano",
+          "url": "https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187964,
+      "name": "Sexy Freak'aLicious",
+      "url": "https://open.spotify.com/track/5AdkvB7z14eMGTTj2b49My"
+    },
+    {
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt"
       },

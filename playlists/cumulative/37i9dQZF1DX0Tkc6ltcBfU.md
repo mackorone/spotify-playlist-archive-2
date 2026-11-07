@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Lil Baby
 
-3,017 songs - 5 day 20 hr 6 min
+3,018 songs - 5 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1833,7 +1833,7 @@
 | [NO CAP](https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [NO CAP](https://open.spotify.com/album/73fplZaiXzMcXALbVjAYpN) | 2:21 | 2026-10-23 |  |
 | [No Complaining](https://open.spotify.com/track/06RXYYPfPRnwfwAPsk11Zf) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Might Forgive](https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU) | 3:06 | 2023-11-03 | 2024-02-03 |
 | [No Date](https://open.spotify.com/track/6UuG4xWBi4Qw74LwUzlhj1) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [No Date](https://open.spotify.com/album/4r8YnQJmCGURwZZlAApkUm) | 2:41 | 2025-05-09 | 2025-08-16 |
-| [No Days Off](https://open.spotify.com/track/2YNtU4U2kOHn1xfZnhnSF2) | [Jay Montana](https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw) | [No Days Off](https://open.spotify.com/album/3Unj8FnAkDzFo4hm9nwSAD) | 1:54 | 2026-10-16 |  |
+| [No Days Off](https://open.spotify.com/track/2YNtU4U2kOHn1xfZnhnSF2) | [Jay Montana](https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw) | [No Days Off](https://open.spotify.com/album/3Unj8FnAkDzFo4hm9nwSAD) | 1:54 | 2026-10-16 | 2026-11-07 |
 | [No Degrees](https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Trick City \(Deluxe\)](https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua) | 2:39 | 2023-03-31 | 2023-04-29 |
 | [No Diddy](https://open.spotify.com/track/6WGP3utzkTZKUZiIuhHVQT) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [No Diddy](https://open.spotify.com/album/7k1VyUWPLgSiD8mLkWuOOP) | 3:24 | 2024-05-10 | 2024-05-18 |
 | [No Dissin](https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [No Dissin](https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn) | 2:48 | 2023-09-08 | 2023-11-04 |
@@ -2977,6 +2977,7 @@
 | [XOXO](https://open.spotify.com/track/1DNAIKJQTTOxAIgFl2dcls) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [XOXO](https://open.spotify.com/album/4pZTdwIXeXMGBnzHH6Jgb6) | 2:20 | 2025-04-18 | 2025-06-21 |
 | [Ya Bih](https://open.spotify.com/track/1sKn4AQNdddMINS7I0A6Tl) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:37 | 2022-02-04 | 2022-03-12 |
 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 | 2026-05-08 | 2026-10-09 |
+| [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 | 2026-11-06 |  |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-09-16 | 2022-10-22 |
 | [Yacht Party](https://open.spotify.com/track/2LOoUMTCzJrEuY2OH4HfdQ) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Yacht Party](https://open.spotify.com/album/2ZLt15ASV1sAyBDz9PNN56) | 3:41 | 2024-07-12 | 2024-07-19 |
 | [YAE ENERGY](https://open.spotify.com/track/6og219WwSl2pU7oXyXfRMe) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [YAE ENERGY](https://open.spotify.com/album/1dCGJXNs3NhNRgT5manGI7) | 1:42 | 2021-11-14 | 2022-01-22 |

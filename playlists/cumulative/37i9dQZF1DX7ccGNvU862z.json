@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YUNGTARR",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 2Ectasy, jeffy, Kakagoesbackhome",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163750,
       "name": "Just Call My Phone",
       "url": "https://open.spotify.com/track/03loymtN5YI0wryzacJDcF"
@@ -8209,6 +8209,36 @@
     },
     {
       "album": {
+        "name": "TURN OFF THE LIGHT",
+        "url": "https://open.spotify.com/album/4RDgFLxfhpdOHmocEaI2wd"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "MC-King",
+          "url": "https://open.spotify.com/artist/0Pf3pQ4NT34e7cLzf45lls"
+        },
+        {
+          "name": "MIKESICKFLOW",
+          "url": "https://open.spotify.com/artist/74P4kb0I4LLKdz14jMpX2m"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328673,
+      "name": "TURN OFF THE LIGHT",
+      "url": "https://open.spotify.com/track/7lhdgpOzWYVMhJ9TtZWT8J"
+    },
+    {
+      "album": {
         "name": "Turn To Something",
         "url": "https://open.spotify.com/album/2LwN4BmqOwe7QzLZ9jPMTc"
       },
@@ -11221,6 +11251,32 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+        "url": "https://open.spotify.com/album/0fVYbBaVCDBC6qi7mI5oa7"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        },
+        {
+          "name": "jeffy",
+          "url": "https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT"
+        },
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+      "url": "https://open.spotify.com/track/5RQdNyuZMWfmZKIBJrpP7Q"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e31\u0e49\u0e19\u0e2b\u0e01",
         "url": "https://open.spotify.com/album/1wqbtUG7AKnP5NpZsJYkU8"
       },
@@ -12042,6 +12098,32 @@
       "duration_ms": 197142,
       "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/71XNRIhUFi9cdDjLGnRgjr"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/7LcYxSXWNqvrIzYGliK0Nk"
+      },
+      "artists": [
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/03NqlCLVasMHXfdqw8dBEL"
     },
     {
       "album": {
@@ -14328,7 +14410,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 185750,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e17\u0e32\u0e07\u0e1c\u0e48\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0OsuTD38rVnEodWKCGWR1T"
@@ -14784,6 +14866,32 @@
       "duration_ms": 217500,
       "name": "\u0e23\u0e48\u0e27\u0e07\u0e2b\u0e25\u0e48\u0e19",
       "url": "https://open.spotify.com/track/7APojEWbYThILY8CjAlKLn"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/3DnsOyrnorO752qwnUqpnw"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "\u0e23\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/0reM1wA1QqdId2dnDRdutM"
     },
     {
       "album": {
@@ -15278,7 +15386,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147682,
       "name": "\u0e27\u0e34\u0e04\u0e15\u0e2d\u0e40\u0e23\u0e35\u0e22",
       "url": "https://open.spotify.com/track/6Hy7uxbwp4Wv2c3W6kPkX9"
@@ -20502,7 +20610,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191162,
       "name": "\u0e44\u0e25\u0e48\u0e40\u0e1a\u0e32",
       "url": "https://open.spotify.com/track/4XDuouyS7dotidiutuLheO"

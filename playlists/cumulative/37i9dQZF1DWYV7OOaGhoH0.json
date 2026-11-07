@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Rayland Baxter",
+  "description": "The best in folk & acoustic today featuring music from Sylvie",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -494,6 +494,24 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
+      "album": {
+        "name": "Eternity of Anything",
+        "url": "https://open.spotify.com/album/4yz8xnbEvgbRvIjYzI9Oen"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ain't Convinced",
+      "url": "https://open.spotify.com/track/6NWmsYEU3v4oTR9wIqsuuL"
     },
     {
       "album": {
@@ -2740,6 +2758,28 @@
       "duration_ms": 196126,
       "name": "California",
       "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
+    },
+    {
+      "album": {
+        "name": "New Season",
+        "url": "https://open.spotify.com/album/0Hci3QTWU3ErP8pXyDq7SU"
+      },
+      "artists": [
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233613,
+      "name": "California Hills",
+      "url": "https://open.spotify.com/track/79Yf8Z0lLWKFs4lUI3oA9Q"
     },
     {
       "album": {
@@ -7584,7 +7624,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 203333,
       "name": "If You Know Me",
       "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
@@ -13362,7 +13402,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153250,
       "name": "Stolen Valor",
       "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
@@ -13784,6 +13824,24 @@
       "duration_ms": 215246,
       "name": "Tell Me I'm Beautiful",
       "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "album": {
+        "name": "Doom Country",
+        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243702,
+      "name": "Texas in Flaming Tongues",
+      "url": "https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG"
     },
     {
       "album": {

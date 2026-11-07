@@ -299491,6 +299491,24 @@
     },
     {
       "album": {
+        "name": "Kemarau dan Sang Penghujan",
+        "url": "https://open.spotify.com/album/6H7Cbwes174oD46YhJhIXf"
+      },
+      "artists": [
+        {
+          "name": "Arah Pulang",
+          "url": "https://open.spotify.com/artist/6L4POXPdm6AMOEVNwBBCag"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269770,
+      "name": "Kemarau dan Sang Penghujan",
+      "url": "https://open.spotify.com/track/1vDtG2TEcexMjWNOARd0zv"
+    },
+    {
+      "album": {
         "name": "Kemarin",
         "url": "https://open.spotify.com/album/47q9YafSyI0EIa8uIDTTNP"
       },
@@ -393411,7 +393429,7 @@
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179952,
+      "duration_ms": 179979,
       "name": "Nigel Sylvester",
       "url": "https://open.spotify.com/track/09a3A3v2dGT0WNR1amQJXT"
     },

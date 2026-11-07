@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 50781,
+  "num_followers": 50796,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,18 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Back Outside",
-        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 211090,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -159,18 +155,22 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 234560,
       "name": "Can You Stay",
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -955,22 +955,18 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 158181,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -995,18 +991,22 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Hashtag",
-      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "Awesome Things",
         "url": "https://open.spotify.com/album/77dG18TVuIqHEgwOolA75p"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 129449,
       "name": "BMF \u200b(f\u200beat\u200b. Byron Messia, Fireboy DML\u200b)",
       "url": "https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "Hashtag",
+        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hashtag",
+      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
     },
     {
       "added_at": "2026-10-23 00:01:31",

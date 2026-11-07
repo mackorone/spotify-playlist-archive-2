@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/72MerDu3fbe4Oy9tUkDM8z"
+      },
+      "artists": [
+        {
+          "name": "One Good Reason",
+          "url": "https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/5s3rIqx9O6igEokeNeHX8z"
+    },
+    {
+      "album": {
         "name": "3 AM Friend",
         "url": "https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX"
       },

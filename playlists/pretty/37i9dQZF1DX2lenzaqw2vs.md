@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: MABEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,365 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,384 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 87 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
 | 88 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
 | 89 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
-| 90 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
-| 91 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
-| 92 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 |
-| 93 | [Nada seguro \- MABEL Remix](https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [MABEL](https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT) | [Nada seguro \(MABEL Remix\)](https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY) | 3:52 |
+| 90 | [Nada seguro \- MABEL Remix](https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [MABEL](https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT) | [Nada seguro \(MABEL Remix\)](https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY) | 3:52 |
+| 91 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 92 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
+| 93 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 |
 | 94 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 95 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 96 | [Prometeo \- feat\. Ceretti](https://open.spotify.com/track/1R8UwmCenwTp27ixuYzNuo) | [bautibit](https://open.spotify.com/artist/3kqMwQRkXB1f0nbvxIH3e5), [Ceretti](https://open.spotify.com/artist/1mxmzlsBQxSDeXBDIj9emf) | [bitFM: SEÑAL ABIERTA](https://open.spotify.com/album/6XjAUpJ1XtTBEONXFjdgVc) | 2:58 |

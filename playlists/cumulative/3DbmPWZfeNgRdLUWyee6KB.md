@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,671 songs - 4 day 1 hr 32 min
+1,674 songs - 4 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -970,6 +970,7 @@
 | [Nicht nur heut](https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 | 2026-09-03 | 2026-10-03 |
 | [Night and Day](https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Night and Day](https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP) | 2:43 | 2026-02-03 | 2026-03-07 |
 | [Night Caravan](https://open.spotify.com/track/3R3Yetm1JsNIDvylBdsy4E) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [Night Caravan](https://open.spotify.com/album/0gm71xzHNzhzrPxHO5WewX) | 2:41 | 2023-11-02 | 2025-11-29 |
+| [Nightbus To Nowhere](https://open.spotify.com/track/7c0wPTH0lS07nuYdMwvizu) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 2:34 | 2026-11-06 |  |
 | [Nikà](https://open.spotify.com/track/21IwyotvKTpn9LBOphRQNx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker](https://open.spotify.com/track/753qgf9vKNuImbtcpt46qn) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Nina the Dressmaker](https://open.spotify.com/album/0yo32cNHcbKaDZms79YdOO) | 4:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker \(alt\. Vers\)](https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:49 | 2023-04-27 | 2025-11-29 |
@@ -1420,6 +1421,7 @@
 | [The Night King](https://open.spotify.com/track/5B0DwY2VIX18JorYc9K5bq) | [Andora Mercury](https://open.spotify.com/artist/7HrxL4YrxURFDDfTVNhh35) | [The Night King](https://open.spotify.com/album/2IsPWKKBYD1sa1S9Tm54xq) | 5:26 | 2026-10-07 |  |
 | [The One](https://open.spotify.com/track/6mxtqYfKuCLfkNM6WGFwSg) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [The One](https://open.spotify.com/album/7bsjk3OfWA7E3chARN0s6W) | 3:42 | 2026-11-04 |  |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2026-03-02 | 2026-03-25 |
+| [The One I'll Chase](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [The One I'll Chase](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 | 2026-11-06 |  |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2026-01-06 | 2026-02-03 |
 | [The Pink Burger Bar \(Part 2\)](https://open.spotify.com/track/7IX0NcCDjMc3zqkNAHkw1O) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [The Good Old Days \(A Rock 'N' Roll Story\)](https://open.spotify.com/album/5cGl6Se6BNFjkuBarUWsOw) | 8:04 | 2026-02-24 | 2026-03-25 |
 | [The Pink Burger Bar Part 1 \- Live](https://open.spotify.com/track/1fQjUPXzIhec1KRHTt4tNP) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV), [Cool Banana](https://open.spotify.com/artist/3tIcxAObVuYpR4e13MbMQZ) | [The Pink Burger Bar Part 1 \(Live\)](https://open.spotify.com/album/1ha0hQ0qBFnnCAi6tzdWmY) | 2:41 | 2026-02-24 | 2026-03-25 |
@@ -1564,6 +1566,7 @@
 | [Wahrheit ans Licht](https://open.spotify.com/track/1AbQJmLZW93wmrIFtabzE8) | [Co2y](https://open.spotify.com/artist/2GITK1XRzRP2yGvL9SKSPd) | [Wahrheit ans Licht](https://open.spotify.com/album/1nhJtT23NZ7dpvdZ0o0dNw) | 3:27 | 2026-10-21 |  |
 | [Wait No More](https://open.spotify.com/track/61CP0xYxaPDXjMPv11Txv5) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 4:04 | 2025-10-12 | 2026-01-15 |
 | [Waiting](https://open.spotify.com/track/0c5W6OR57xVOkeqAnhWron) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Waiting](https://open.spotify.com/album/3q2XkMDxIjDvbGQsUfI09t) | 3:20 | 2025-10-17 | 2026-04-12 |
+| [Waiting](https://open.spotify.com/track/2ynzXArpo0etrRmjEkObNp) | [Margaret's Daughter](https://open.spotify.com/artist/1vhUWZLe5nOcahdd4McuAi) | [Waiting](https://open.spotify.com/album/1oefYEm3ymdIV6VaOS1F42) | 4:16 | 2026-11-06 |  |
 | [Walking with No Destination](https://open.spotify.com/track/5vY5K9qcv51njLiRQzV3Ed) | [Gamina Chad](https://open.spotify.com/artist/45ynquiP8pzBnzr1kxB3tm) | [Walking with No Destination](https://open.spotify.com/album/7qyYDOpHdjovobeBzwmAut) | 3:05 | 2026-06-02 | 2026-07-03 |
 | [Wanderer](https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [Wanderer](https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI) | 2:48 | 2026-07-01 | 2026-08-10 |
 | [Want Me Back](https://open.spotify.com/track/7ExJgUlNREs38GpnHdZ1TW) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [Want Me Back](https://open.spotify.com/album/3sRGNn9dyvxkryQuX0qiCx) | 3:39 | 2026-04-25 | 2026-06-05 |

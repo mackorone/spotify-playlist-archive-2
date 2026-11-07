@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite female artists here.
 
-199 songs - 10 hr 44 min
+200 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Are You Sorry Now?](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now?](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 | 2025-07-17 | 2025-12-12 |
 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 | 2026-03-27 |  |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2025-07-17 | 2026-10-02 |
-| [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 | 2026-09-18 |  |
+| [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 | 2026-09-18 | 2026-11-07 |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-07 | 2026-06-27 |
 | [Bang Bang](https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [People Pleaser](https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX) | 2:30 | 2026-10-30 |  |
 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 | 2026-04-10 | 2026-10-02 |
@@ -110,6 +110,7 @@
 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 | 2025-07-17 | 2025-09-27 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2025-12-11 |  |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-17 | 2025-12-12 |
+| [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 | 2026-11-06 |  |
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-07-17 | 2025-10-25 |
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-03-20 |  |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-07-17 | 2025-08-30 |

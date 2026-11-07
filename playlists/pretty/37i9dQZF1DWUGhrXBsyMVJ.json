@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 319520,
+  "num_followers": 319559,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,22 @@
     {
       "added_at": "2025-09-01 13:23:10",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 173240,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF"
+      "duration_ms": 168906,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2025-09-01 13:23:10",
@@ -387,22 +391,18 @@
     {
       "added_at": "2025-09-01 13:23:10",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+      "duration_ms": 173240,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF"
     },
     {
       "added_at": "2025-09-01 13:23:10",

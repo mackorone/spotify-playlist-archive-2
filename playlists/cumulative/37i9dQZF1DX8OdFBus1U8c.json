@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "AAK PAAK",
+        "url": "https://open.spotify.com/album/75WIzzIFBMyyEtkr3TgFCv"
+      },
+      "artists": [
+        {
+          "name": "JAMAICA",
+          "url": "https://open.spotify.com/artist/2U0uQLjLAKVKCuXtARZdIb"
+        },
+        {
+          "name": "2puff",
+          "url": "https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152856,
+      "name": "AAK PAAK",
+      "url": "https://open.spotify.com/track/484MS2u2SdM41XW7a3AAra"
+    },
+    {
+      "album": {
         "name": "5YL",
         "url": "https://open.spotify.com/album/3bKbUO5c7svWsHqOOeS2TN"
       },
@@ -6904,6 +6926,28 @@
       "duration_ms": 211086,
       "name": "Mannira",
       "url": "https://open.spotify.com/track/3ZfHo6QLWuJt4jj9lahlwo"
+    },
+    {
+      "album": {
+        "name": "MANNOD",
+        "url": "https://open.spotify.com/album/510qC7O9QogNv2ZSqMgLWD"
+      },
+      "artists": [
+        {
+          "name": "JAMAICA",
+          "url": "https://open.spotify.com/artist/2U0uQLjLAKVKCuXtARZdIb"
+        },
+        {
+          "name": "Jkfactor",
+          "url": "https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "MANNOD",
+      "url": "https://open.spotify.com/track/6DSLT94r13OFdUlCOAMpg2"
     },
     {
       "album": {

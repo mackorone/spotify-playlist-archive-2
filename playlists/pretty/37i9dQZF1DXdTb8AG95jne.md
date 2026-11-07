@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,834 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,843 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 22 | [yaya](https://open.spotify.com/track/55TKpzNGVRikAjyw3simiK) | [Thmoon](https://open.spotify.com/artist/4DZR3oSwvSIeLP3F5gZ58f) | [yaya](https://open.spotify.com/album/3Q2VHW2FPLE9S7svKVCRPm) | 2:38 |
 | 23 | [Manphasickzuck](https://open.spotify.com/track/590xpNtvmYv7EaNukmeEcY) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Ballad of You](https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM) | 4:13 |
 | 24 | [+82](https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [dinnermode](https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW) | 3:30 |
-| 25 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
+| 25 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:47 |
 | 26 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
 | 27 | [The Back of the Moon](https://open.spotify.com/track/5tZer1NZ4NoAdbRPTY9rfV) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [MENDING PROCESS](https://open.spotify.com/album/6l5z7hO6ECjM4kh8rPj70A) | 3:18 |
 | 28 | [Blue Diamond](https://open.spotify.com/track/6sjXCnawLHV5LId3cXMaj0) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [7](https://open.spotify.com/album/6eijhbNjs96BeOYG8PVC8x) | 3:15 |

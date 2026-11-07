@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449420,
+  "num_followers": 449403,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
-      "added_at": "2025-12-12 19:32:52",
-      "album": {
-        "name": "Not At This Party",
-        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 212437,
-      "name": "Not At This Party",
-      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
-    },
-    {
       "added_at": "2025-07-04 04:00:22",
       "album": {
         "name": "I'm A Little Crazy",
@@ -719,6 +703,22 @@
       "duration_ms": 199060,
       "name": "I'm A Little Crazy",
       "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
+    },
+    {
+      "added_at": "2025-12-12 19:32:52",
+      "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "I Wish You Would (ft. Midland)",
-        "url": "https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        },
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "I Wish You Would (ft. Midland)",
-      "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Bulletproof (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 183919,
       "name": "Bulletproof (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "I Wish You Would (ft. Midland)",
+        "url": "https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "I Wish You Would (ft. Midland)",
+      "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
     },
     {
-      "added_at": "2025-12-12 19:32:52",
-      "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 189638,
-      "name": "You Didn\u2019t Hear It From Me",
-      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
-    },
-    {
       "added_at": "2025-07-04 04:00:22",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
@@ -1537,20 +1521,36 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
+      "added_at": "2025-12-12 19:32:52",
       "album": {
-        "name": "Country's Cool Again",
-        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 218280,
-      "name": "Country's Cool Again",
-      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Some Whiskey",
+      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1571,18 +1571,34 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Some Whiskey",
-      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Making Good Time",
+        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Making Good Time",
+      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
       "added_at": "2026-01-23 05:01:12",
@@ -1603,22 +1619,6 @@
       "duration_ms": 215701,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Making Good Time",
-        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Making Good Time",
-      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
       "added_at": "2025-07-04 04:00:22",

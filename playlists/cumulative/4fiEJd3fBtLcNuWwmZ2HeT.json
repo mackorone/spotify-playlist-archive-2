@@ -7699,6 +7699,32 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30c9\u30ef\u30ca\u30eb\u30ab\uff1d\u30c9\u30ed\u30c3\u30d7\u30be\u30f3\u30c7",
+        "url": "https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI"
+      },
+      "artists": [
+        {
+          "name": "nyanyannya",
+          "url": "https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195664,
+      "name": "\u30a8\u30eb\u30fb\u30bf\u30f3\u30b4\u30fb\u30a8\u30b4\u30a4\u30b9\u30bf (feat. \u5de1\u97f3\u30eb\u30ab&KAITO)",
+      "url": "https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA"
+    },
+    {
+      "album": {
         "name": "\u7345\u5b50\u578b\u30a2\u30e9\u30d9\u30b9\u30af\u8d85\u5348\u524d\u3001\u9752",
         "url": "https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P"
       },

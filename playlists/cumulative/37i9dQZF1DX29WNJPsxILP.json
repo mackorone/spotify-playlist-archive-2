@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: King",
+  "description": "Best of Hindi Hip-Hop! Cover: Naam Sujal",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 206629,
       "name": "BAJESH VISHAY - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/5knokuk6RjmAMgKhnv7DDj"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 184071,
       "name": "GANG & HOODIES",
       "url": "https://open.spotify.com/track/0ThCEz3hZpBTftDPKh2XUp"
@@ -3858,7 +3858,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204095,
       "name": "Karta Kya Hai",
       "url": "https://open.spotify.com/track/55rsHTpDenL0DajypexEI6"
@@ -6068,6 +6068,32 @@
       "duration_ms": 166321,
       "name": "RADE RAPATE",
       "url": "https://open.spotify.com/track/7CE7aGWKmQ1oqATMZkDsFf"
+    },
+    {
+      "album": {
+        "name": "Almost Commercial",
+        "url": "https://open.spotify.com/album/6IvloLHUiXfr5TKwNiVRo0"
+      },
+      "artists": [
+        {
+          "name": "KhullarG",
+          "url": "https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i"
+        },
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Rattiyan",
+      "url": "https://open.spotify.com/track/6l3DoBHpURWllmYKtiAfnq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11067103,
+  "num_followers": 11066933,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -571,30 +571,6 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Sybil",
-          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -619,22 +595,26 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
       "artists": [
         {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         },
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -655,6 +635,26 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "BIANCA (Extended)",
-        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1023,6 +1007,22 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -1343,22 +1327,18 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 136333,
-      "name": "Ever Since U Left Me (I Went Deaf)",
-      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1375,6 +1355,26 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Ever Since U Left Me (I Went Deaf)",
+      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "Just A Little Bit More",
-        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Just A Little Bit More",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Danceteria Afterhours",
-        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 230503,
-      "name": "Danceteria Afterhours",
-      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1699,22 +1715,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
         "name": "I Wanna Go - John Summit Remix",
         "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
       },
@@ -1831,18 +1847,22 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -1863,26 +1883,6 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2026-10-30 04:01:02",
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -2167,26 +2167,6 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2026-10-30 04:01:02",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-10-30 04:01:02",
@@ -2283,6 +2263,26 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
+    },
+    {
+      "added_at": "2026-10-30 04:01:02",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-10-30 04:01:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 256 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 256 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 138 | [Rebound \(feat\. Joey Bada$$\)](https://open.spotify.com/track/32HMtqbJcmTFgkGW3MoyDL) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 4:01 |
 | 139 | [Tiptoe](https://open.spotify.com/track/7jFqorrnHGQq2Kra5E5DSp) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Tiptoe](https://open.spotify.com/album/2ggfC4PIKJhmqp2ByVcihN) | 2:58 |
 | 140 | [Move \(feat\. Yseult\)](https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:41 |
-| 141 | [All In a Day's Work](https://open.spotify.com/track/4kHMoqKJf67w3EJT2dIhFx) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [DK3](https://open.spotify.com/album/5oKuY2PaV7VcvpolsDZ0eH) | 3:14 |
-| 142 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 141 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 142 | [All In a Day's Work](https://open.spotify.com/track/4kHMoqKJf67w3EJT2dIhFx) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [DK3](https://open.spotify.com/album/5oKuY2PaV7VcvpolsDZ0eH) | 3:14 |
 | 143 | [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 |
 | 144 | [Nothin' With You](https://open.spotify.com/track/4wa1M7imCi4RYuEQbAdube) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Left Me Hangin'](https://open.spotify.com/album/5u77sXkq7ruKbgUvDy3kdW) | 3:34 |
 | 145 | [Residue](https://open.spotify.com/track/5Y1Hn0tt4w9QpTls6ukPRT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:26 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 255 | [Intro](https://open.spotify.com/track/2voUe1ZoydUCnrjjSBymNz) | [Monet](https://open.spotify.com/artist/258AGqI6omKexzEte9BXci), [Mellow Bora](https://open.spotify.com/artist/77EKywL0RK6rDMGuxvxZmj) | [Popo](https://open.spotify.com/album/61VeYxptr7wSy5QfxLHzR2) | 2:16 |
 | 256 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Acg5SAAAAAAkwgGv5Mb/e5Q+1yF3Ck9r`
+Snapshot ID: `Acg+tgAAAAC4JdT7LbsJBM/HX17A3ViU`

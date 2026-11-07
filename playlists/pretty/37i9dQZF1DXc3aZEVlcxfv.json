@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22297,
+  "num_followers": 22302,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -1063,6 +1047,22 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
     },
     {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+      },
+      "artists": [
+        {
+          "name": "Adeyinka Alaseyori",
+          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+        }
+      ],
+      "duration_ms": 532062,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Breakthrough",
@@ -1189,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "K'OSENI",
@@ -1221,44 +1221,20 @@
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
-      "added_at": "2026-10-02 00:01:17",
+      "added_at": "2026-04-03 00:01:46",
       "album": {
-        "name": "When I Walk (Psalm 23) [World Version]",
-        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
       },
       "artists": [
         {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        },
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 222162,
-      "name": "When I Walk (Psalm 23) - World Version",
-      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
-    },
-    {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
-      },
-      "artists": [
-        {
-          "name": "Younggod Supreme",
-          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
-        },
-        {
-          "name": "Kelar Thrillz",
-          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1281,20 +1257,44 @@
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
     },
     {
-      "added_at": "2026-10-30 00:01:06",
+      "added_at": "2026-07-17 00:01:08",
       "album": {
-        "name": "Dear Lord",
-        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
       },
       "artists": [
         {
-          "name": "Adeyinka Alaseyori",
-          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+          "name": "Younggod Supreme",
+          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
+        },
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
         }
       ],
-      "duration_ms": 532062,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
+      "duration_ms": 196271,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+    },
+    {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        },
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1397,26 +1397,6 @@
       "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Call Me One Hundred (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3Q2FGSIvPi8PMdqgNMfsTP"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 188854,
-      "name": "Call Me One Hundred (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/1mdSVLXx0KjDlVrJ5DP3QJ"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1435,6 +1415,26 @@
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Call Me One Hundred (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3Q2FGSIvPi8PMdqgNMfsTP"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "Call Me One Hundred (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/1mdSVLXx0KjDlVrJ5DP3QJ"
     },
     {
       "added_at": "2026-08-28 00:01:38",
@@ -1489,26 +1489,6 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
-      "added_at": "2026-10-30 00:01:06",
-      "album": {
-        "name": "Those Who Belong (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 1023500,
-      "name": "Those Who Belong (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Ifeoma",
@@ -1527,6 +1507,26 @@
       "duration_ms": 144000,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
+    },
+    {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "Those Who Belong (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 1023500,
+      "name": "Those Who Belong (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
     },
     {
       "added_at": "2026-08-21 00:01:32",

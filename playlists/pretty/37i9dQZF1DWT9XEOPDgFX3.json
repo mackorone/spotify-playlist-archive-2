@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 112487,
+  "num_followers": 112490,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Salt Circle",
-        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
-      },
-      "artists": [
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 260721,
-      "name": "Salt Circle",
-      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "serious person (part 2)",
         "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 198631,
       "name": "alien",
       "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Salt Circle",
+        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "duration_ms": 260721,
+      "name": "Salt Circle",
+      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
     },
     {
       "added_at": "2024-11-08 05:00:00",

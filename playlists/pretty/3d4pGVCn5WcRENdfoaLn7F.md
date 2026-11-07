@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 925 likes - 59 songs - 3 hr 21 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 934 likes - 63 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 57 | [With All of Us](https://open.spotify.com/track/0VI8zM8jJChx9Iv8fZ9ScQ) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:29 |
 | 58 | [Breakwall](https://open.spotify.com/track/1d4c6s3OpMXu98TVvH0mXr) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Breakwall](https://open.spotify.com/album/3zEunuVIRMYJw74PHKdy5I) | 3:29 |
 | 59 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
+| 60 | [Warning Signs](https://open.spotify.com/track/5zFMIxhLh0iqGB2fSuskvU) | [Chaotic Hearts](https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq) | [Warning Signs](https://open.spotify.com/album/62Wv503SOc96RcJkdt0DNn) | 3:06 |
+| 61 | [Colliding Into Space](https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Colliding Into Space](https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb) | 3:58 |
+| 62 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 |
+| 63 | [Impossible Highs](https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV), [Sonic Panda](https://open.spotify.com/artist/0b9czBoJTsWwxyjOdVK1RL) | [Impossible Highs](https://open.spotify.com/album/2iTVRC8XPaUn4bcsV7JP1q) | 3:30 |
 
-Snapshot ID: `AAAEHeroie8tHPPgoUHUPKC/r9QiVElK`
+Snapshot ID: `AAAEIdfREOdA/F7QEqk1Y6KMxVApR0ns`

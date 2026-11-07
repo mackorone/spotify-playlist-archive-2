@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,125 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,127 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 92 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
 | 93 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 |
 | 94 | [Nada es lo Mismo](https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Nada es lo Mismo](https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk) | 3:04 |
-| 95 | [cuerpo](https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 3:18 |
-| 96 | [100 Días](https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [La Dolce Vita](https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5) | 3:04 |
+| 95 | [100 Días](https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [La Dolce Vita](https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5) | 3:04 |
+| 96 | [cuerpo](https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 3:18 |
 | 97 | [Tu y yo](https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Prometieron volar](https://open.spotify.com/album/2lBkfSRpIuPR09IaLGiqn4) | 3:14 |
 | 98 | [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 |
 | 99 | [La despedida](https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [La despedida](https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5) | 3:34 |
-| 100 | [Tus Errores](https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Otra Que Arde](https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj) | 3:06 |
+| 100 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 
 Snapshot ID: `AAAAAIKu9sXkPaYg7r2Xm64CecLmVKA2`

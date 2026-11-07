@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 71 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 71 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 33 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 |
 | 34 | [Fever Dream](https://open.spotify.com/track/2AYRjAC4tiabNz1ttacbt3) | [Elevator Boys](https://open.spotify.com/artist/2fcSjd0fxqJQ1IM2hjYPud) | [Fever Dream](https://open.spotify.com/album/1GbD6q31JbO8hVVqr7D7mP) | 2:26 |
 | 35 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
-| 36 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 |
-| 37 | [Rather You Leave](https://open.spotify.com/track/4R0m1C9B2MuYVmW0NXjqyY) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:28 |
+| 36 | [Rather You Leave](https://open.spotify.com/track/4R0m1C9B2MuYVmW0NXjqyY) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:28 |
+| 37 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 |
 | 38 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 |
 | 39 | [Party Baby](https://open.spotify.com/track/4ckBrQ2QsXuMKcMHjmsond) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:57 |
 | 40 | [BRINGING TO THE TABLE](https://open.spotify.com/track/2bBcpzGbc9Xe0oumISMarC) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:46 |
@@ -65,14 +65,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 55 | [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 |
 | 56 | [Waterfall](https://open.spotify.com/track/2aInc7CdIKt4AWlArGipGM) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:55 |
 | 57 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
-| 58 | [The End](https://open.spotify.com/track/64FhJfZJRhxdous0h5ycG4) | [Indi Star](https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8) | [eMotion Sick](https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr) | 2:12 |
-| 59 | [Like Family](https://open.spotify.com/track/4Ue56aYvDR9AIAHCXeSrN4) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:34 |
+| 58 | [Like Family](https://open.spotify.com/track/4Ue56aYvDR9AIAHCXeSrN4) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:34 |
+| 59 | [The End](https://open.spotify.com/track/64FhJfZJRhxdous0h5ycG4) | [Indi Star](https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8) | [eMotion Sick](https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr) | 2:12 |
 | 60 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 |
-| 61 | [Applause](https://open.spotify.com/track/4r6XgerXxg41GLq2cvGD6N) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Applause](https://open.spotify.com/album/7mYlLHYVsgjlrAlozK7cwu) | 1:52 |
-| 62 | [This Body](https://open.spotify.com/track/0QeKaXTfaohjl6D7L0wogO) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:34 |
-| 63 | [Näckrosbarn](https://open.spotify.com/track/1Fwpu97FQSk1Oi8itBPXMp) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Näckrosbarn](https://open.spotify.com/album/1UHtxlyBmk7MAkyqwZES4Y) | 2:39 |
-| 64 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
-| 65 | [Crying In The Club](https://open.spotify.com/track/6ZCRYD7yL5zOHWDpuu0ZkG) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:58 |
+| 61 | [This Body](https://open.spotify.com/track/0QeKaXTfaohjl6D7L0wogO) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:34 |
+| 62 | [Applause](https://open.spotify.com/track/4r6XgerXxg41GLq2cvGD6N) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Applause](https://open.spotify.com/album/7mYlLHYVsgjlrAlozK7cwu) | 1:52 |
+| 63 | [Crying In The Club](https://open.spotify.com/track/6ZCRYD7yL5zOHWDpuu0ZkG) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:58 |
+| 64 | [Näckrosbarn](https://open.spotify.com/track/1Fwpu97FQSk1Oi8itBPXMp) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Näckrosbarn](https://open.spotify.com/album/1UHtxlyBmk7MAkyqwZES4Y) | 2:39 |
+| 65 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
 | 66 | [window shopping](https://open.spotify.com/track/5c8drrCqzfU5Yxmvw7gd6p) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [window shopping](https://open.spotify.com/album/6iEIW2JFSqrotlWS9Rlzen) | 3:14 |
 | 67 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 |
 | 68 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 70 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 71 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `Acg5SAAAAABVR5Qb/MTef3OdDl9bS9Aj`
+Snapshot ID: `Acg+tgAAAACTNTccgzAjyspWd035ZSoe`

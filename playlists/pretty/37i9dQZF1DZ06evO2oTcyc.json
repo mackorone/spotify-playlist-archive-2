@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 234174,
+  "num_followers": 234218,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADpXWw1zMgmOAU8B0pSPR2g",
+  "snapshot_id": "auvHAAAAAAAFbsXsX21K+z7TjQQVHI4T",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 130929,
+      "name": "If I'm Lyin', I'm Flyin'",
+      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 130929,
-      "name": "If I'm Lyin', I'm Flyin'",
-      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "On Everything",
-      "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistolz & Pearlz",
         "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 305618,
       "name": "No Love For A Thug",
       "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "On Everything",
+      "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"
     },
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+      "duration_ms": 157782,
+      "name": "Yo Mama (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
       "duration_ms": 214781,
       "name": "Coolin and Booted",
       "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": null,
@@ -831,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 215954,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -863,6 +867,22 @@
       "duration_ms": 164038,
       "name": "MoshPit (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 215954,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 237223,
       "name": "By Myself (feat. Dj E Money & G6reddot)",
       "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cucuy",
-        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Yo Mama (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 330435,
+  "num_followers": 330412,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 273666,
       "name": "Undead Ahead 2: The Tale of the Midnight Ride",
       "url": "https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "Get Heavy",
+        "url": "https://open.spotify.com/album/70Pn4oyRGbAcRxMlTTvsG9"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Would You Love A Monsterman",
+      "url": "https://open.spotify.com/track/1KFFJxVj3mUUZVJawehnLr"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 199946,
       "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
       "url": "https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "Get Heavy",
-        "url": "https://open.spotify.com/album/70Pn4oyRGbAcRxMlTTvsG9"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Would You Love A Monsterman",
-      "url": "https://open.spotify.com/track/1KFFJxVj3mUUZVJawehnLr"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Don't Wait 'Til Tomorrow",
-        "url": "https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "I Loved You at Your Darkest",
         "url": "https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 301320,
       "name": "Bartzabel",
       "url": "https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Don't Wait 'Til Tomorrow",
+        "url": "https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR"
     },
     {
       "added_at": "2025-10-27 20:26:25",

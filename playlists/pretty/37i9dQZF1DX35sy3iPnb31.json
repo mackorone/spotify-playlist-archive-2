@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2909,
+  "num_followers": 2934,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "THE ALLIGATOR",
-        "url": "https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 281185,
-      "name": "THE ALLIGATOR",
-      "url": "https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "oh well!",
         "url": "https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 189088,
       "name": "oh well!",
       "url": "https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "THE ALLIGATOR",
+        "url": "https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 281185,
+      "name": "THE ALLIGATOR",
+      "url": "https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Saisons",
+        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Saisons",
+      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "ECSTASY SURROUNDS ME (Remixes)",
         "url": "https://open.spotify.com/album/4OacwFQiqFB3a7ol1l5MOz"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 461538,
       "name": "ECSTASY SURROUNDS ME - Deetron Remix",
       "url": "https://open.spotify.com/track/1KYGi1WeQubvsZyWrcDwGk"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Saisons",
-        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "Saisons",
-      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Black Cloud",
         "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 256651,
       "name": "redstar",
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "SOFTER",
-        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "THIS IS A BREAKUP ALBUM",
+        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "The 4",
         "url": "https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "THIS IS A BREAKUP ALBUM",
-        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Tu choisis comment tu aimes",
         "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "angels on my mind",
-        "url": "https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3"
-      },
-      "artists": [
-        {
-          "name": "l i l a",
-          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
-        }
-      ],
-      "duration_ms": 190486,
-      "name": "on your shoulders",
-      "url": "https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Tout ce que tu fais c'est de la musique",
         "url": "https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 189200,
       "name": "Tout ce que tu fais c'est de la musique",
       "url": "https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "angels on my mind",
+        "url": "https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "duration_ms": 190486,
+      "name": "on your shoulders",
+      "url": "https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "STAFF MEAL",
-        "url": "https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "LA MIF DE LA MIF",
-      "url": "https://open.spotify.com/track/0GorhXHgwykKIn0HgYlPdZ"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Light and Matter",
         "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 187384,
       "name": "White Claw Addict",
       "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "STAFF MEAL",
+        "url": "https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "LA MIF DE LA MIF",
+      "url": "https://open.spotify.com/track/0GorhXHgwykKIn0HgYlPdZ"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Lady Of The Lake",
+        "url": "https://open.spotify.com/album/5ecyGh0UKhRU7Hjsqb3JYf"
+      },
+      "artists": [
+        {
+          "name": "MOONRIIVR",
+          "url": "https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8"
+        }
+      ],
+      "duration_ms": 246136,
+      "name": "Lady Of The Lake",
+      "url": "https://open.spotify.com/track/6YkvRo7ls676GMZ2QY9dJF"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Playboi 3arbi",
         "url": "https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 113777,
       "name": "Playboi 3arbi",
       "url": "https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Lady Of The Lake",
-        "url": "https://open.spotify.com/album/5ecyGh0UKhRU7Hjsqb3JYf"
-      },
-      "artists": [
-        {
-          "name": "MOONRIIVR",
-          "url": "https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Lady Of The Lake",
-      "url": "https://open.spotify.com/track/6YkvRo7ls676GMZ2QY9dJF"
     },
     {
       "added_at": "2026-11-01 04:01:35",

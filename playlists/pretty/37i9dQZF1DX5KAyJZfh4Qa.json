@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Koyo",
-  "num_followers": 87247,
+  "num_followers": 87259,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+        "name": "End Eric Sparrow and the Life of Him",
+        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+      "duration_ms": 169000,
+      "name": "End Eric Sparrow and the Life of Him",
+      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -223,18 +223,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "End Eric Sparrow and the Life of Him",
-        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 169000,
-      "name": "End Eric Sparrow and the Life of Him",
-      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
+        "name": "Prototheme",
+        "url": "https://open.spotify.com/album/19PUMO1CapZOaG5ubLXxj7"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "Prototheme",
+      "url": "https://open.spotify.com/track/4AjHQ8r44uVsIHvsZ8G3jV"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
         "name": "World Apart",
         "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 180840,
       "name": "World Apart",
       "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Prototheme",
-        "url": "https://open.spotify.com/album/19PUMO1CapZOaG5ubLXxj7"
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 137600,
-      "name": "Prototheme",
-      "url": "https://open.spotify.com/track/4AjHQ8r44uVsIHvsZ8G3jV"
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -339,6 +339,22 @@
       "duration_ms": 180857,
       "name": "777",
       "url": "https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "And a Big Load",
+        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 173791,
+      "name": "And a Big Load",
+      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -387,22 +403,6 @@
       "duration_ms": 200292,
       "name": "Where Blue Light Blooms",
       "url": "https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
-        "name": "And a Big Load",
-        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 173791,
-      "name": "And a Big Load",
-      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Stay Golden",
-        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
-      },
-      "artists": [
-        {
-          "name": "Combat",
-          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
-        }
-      ],
-      "duration_ms": 154221,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 257084,
       "name": "Taking Inventory Of A Frozen Lake",
       "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Stay Golden",
+        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
+      },
+      "artists": [
+        {
+          "name": "Combat",
+          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
+        }
+      ],
+      "duration_ms": 154221,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "It Was Real To Me",
         "url": "https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 166373,
       "name": "It Was Real To Me",
       "url": "https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
-      },
-      "artists": [
-        {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
-        }
-      ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Nobody\u2019s",
         "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 135897,
       "name": "Nobody\u2019s",
       "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "DELUXE EDITION",
-        "url": "https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw"
-      },
-      "artists": [
-        {
-          "name": "Nihilistic Easyrider",
-          "url": "https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq"
-        }
-      ],
-      "duration_ms": 206317,
-      "name": "Weekend Fever",
-      "url": "https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
         "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 207933,
       "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
       "url": "https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "DELUXE EDITION",
+        "url": "https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw"
+      },
+      "artists": [
+        {
+          "name": "Nihilistic Easyrider",
+          "url": "https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq"
+        }
+      ],
+      "duration_ms": 206317,
+      "name": "Weekend Fever",
+      "url": "https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "A Second Chance At Forever: The Brilliant Lies From Casey Diamond",
-        "url": "https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc"
-      },
-      "artists": [
-        {
-          "name": "Kaonashi",
-          "url": "https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I"
-        }
-      ],
-      "duration_ms": 191997,
-      "name": "C.A.S.E.Y",
-      "url": "https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Grendel",
         "url": "https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 304337,
       "name": "Grendel",
       "url": "https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "A Second Chance At Forever: The Brilliant Lies From Casey Diamond",
+        "url": "https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc"
+      },
+      "artists": [
+        {
+          "name": "Kaonashi",
+          "url": "https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I"
+        }
+      ],
+      "duration_ms": 191997,
+      "name": "C.A.S.E.Y",
+      "url": "https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Cactus Song",
-        "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
-      },
-      "artists": [
-        {
-          "name": "Raccoon Tour",
-          "url": "https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R"
-        }
-      ],
-      "duration_ms": 182985,
-      "name": "Cactus Song",
-      "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Chessie",
         "url": "https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173715,
       "name": "Chessie",
       "url": "https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Cactus Song",
+        "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
+      },
+      "artists": [
+        {
+          "name": "Raccoon Tour",
+          "url": "https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R"
+        }
+      ],
+      "duration_ms": 182985,
+      "name": "Cactus Song",
+      "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
     },
     {
       "added_at": "2026-03-13 17:53:46",

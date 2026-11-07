@@ -1,13 +1,33 @@
 {
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
-  "num_followers": 549905,
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Manuel Turizo y J Balvin",
+  "num_followers": 549911,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHb3oYYpdGUgsmLiZFLDzDc0v8ed",
+  "snapshot_id": "AAAAAPHG7tyU/7RXgis0lFKeTgJzs9Y6",
   "tracks": [
+    {
+      "added_at": "2026-11-06 04:59:38",
+      "album": {
+        "name": "Apambichao, Vol. 2",
+        "url": "https://open.spotify.com/album/52MlGKVyJ0SCV9QDSZE96h"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/7AzErgLuGGqMfLcpdaj3N5"
+    },
     {
       "added_at": "2026-09-18 04:59:39",
       "album": {
@@ -49,26 +69,6 @@
       "url": "https://open.spotify.com/track/6TdsrHJVLFBApxontMWJeB"
     },
     {
-      "added_at": "2026-07-31 04:59:17",
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 177821,
-      "name": "Efectos Secundarios",
-      "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
-    },
-    {
       "added_at": "2026-05-15 04:59:16",
       "album": {
         "name": "Tu recuerdo",
@@ -103,22 +103,6 @@
       "duration_ms": 258461,
       "name": "Nada Que Me Pagan",
       "url": "https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u"
-    },
-    {
-      "added_at": "2026-09-18 04:59:39",
-      "album": {
-        "name": "Se Parece Al Pai",
-        "url": "https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 226042,
-      "name": "Se Parece Al Pai",
-      "url": "https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V"
     },
     {
       "added_at": "2026-09-18 04:59:39",
@@ -227,22 +211,6 @@
       "duration_ms": 271189,
       "name": "Caer y Levantarse",
       "url": "https://open.spotify.com/track/3JXgEwGO2WOV4SThJ3C8wl"
-    },
-    {
-      "added_at": "2026-08-21 04:59:13",
-      "album": {
-        "name": "El Pap\u00e1 De La Salsa",
-        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301413,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/4SQQXTfDQQzqMYt9Ems7A1"
     },
     {
       "added_at": "2026-09-18 04:59:39",

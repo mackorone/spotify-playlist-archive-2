@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-419 songs - 1 day 3 hr 43 min
+419 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 | 2024-04-05 | 2024-06-21 |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 | 2024-03-15 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-11 | 2025-02-14 |
+| [Lovebird](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 3:45 | 2026-11-06 |  |
 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 | 2025-05-29 | 2026-08-14 |
 | [Loving You](https://open.spotify.com/track/2CkuSuRqD4tqc0CmudDbg4) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Loving You](https://open.spotify.com/album/1z0C4eiRS94cs3Q7j9nswA) | 4:14 | 2025-10-23 | 2026-03-21 |
 | [Lungs](https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Lungs](https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap) | 6:43 | 2022-01-14 | 2023-08-16 |
@@ -382,7 +383,6 @@
 | [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 | 2026-02-27 |  |
 | [Tonight In Belfast \- Edit](https://open.spotify.com/track/3Nc1xUyUx3tAXhylybt1u2) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL), [Mike Garry](https://open.spotify.com/artist/2TGg9f0CCX1rAR3S88o9yD), [DJ Helen](https://open.spotify.com/artist/0JXfuTC8TiERwGzMmTtNuZ) | [Tonight In Belfast](https://open.spotify.com/album/46vW0Y9s7hsr231fEZ7uz8) | 4:00 | 2024-02-23 | 2024-04-10 |
 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 | 2022-01-14 | 2023-11-22 |
-| [Track 7](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 0:00 | 2026-11-06 |  |
 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 | 2024-09-26 | 2025-04-08 |
 | [Twisted](https://open.spotify.com/track/3px5cJGLZzrIoPNjd7AJJY) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Twisted](https://open.spotify.com/album/3PnGHglITPklkGdIJMZFcl) | 7:25 | 2024-02-16 | 2024-02-23 |
 | [Two Souls Intertwine](https://open.spotify.com/track/5YpQ073khPhn3QqpVHb8aZ) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [The Night We Met](https://open.spotify.com/album/6G6WiEmy65P4I5qeApTXBz) | 3:37 | 2024-07-05 | 2024-08-10 |

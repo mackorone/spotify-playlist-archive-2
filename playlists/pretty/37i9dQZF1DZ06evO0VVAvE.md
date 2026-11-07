@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,133 likes - 48 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,146 likes - 48 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Round One \(Elle Mummy\)](https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Round One \(Elle Mummy\)](https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX) | 2:26 |
 | 2 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 |
 | 3 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 |
-| 4 | [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 |
-| 5 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
+| 4 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
+| 5 | [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 |
 | 6 | [Trenches Luv](https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 3:25 |
 | 7 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 8 | [Lose My Mind](https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:30 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 24 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 |
 | 25 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 |
 | 26 | [Jericho](https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:32 |
-| 27 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 |
-| 28 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
+| 27 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
+| 28 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 |
 | 29 | [Good Life](https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:40 |
 | 30 | [Dodge](https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:28 |
 | 31 | [Feel Free](https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:27 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 47 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
 | 48 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `aukkAAAAAADk233jJwJa+ZEOrEzOojaY`
+Snapshot ID: `auvHAAAAAAA6xdl4A12mvzj0AgiPZsIE`

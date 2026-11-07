@@ -1,6 +1,6 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 616682,
+  "num_followers": 616630,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-11-05 23:01:16",
       "album": {
+        "name": "Gute Zeiten",
+        "url": "https://open.spotify.com/album/54TXKHyEbffRqRNqCKet7w"
+      },
+      "artists": [
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "duration_ms": 121371,
+      "name": "Gute Zeiten",
+      "url": "https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my"
+    },
+    {
+      "added_at": "2026-11-05 23:01:16",
+      "album": {
         "name": "Was war das",
         "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-11-05 23:01:16",
       "album": {
-        "name": "Gute Zeiten",
-        "url": "https://open.spotify.com/album/54TXKHyEbffRqRNqCKet7w"
+        "name": "BEAUTY QUEEN",
+        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
       },
       "artists": [
         {
-          "name": "Philipp Poisel",
-          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 121371,
-      "name": "Gute Zeiten",
-      "url": "https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my"
+      "duration_ms": 190000,
+      "name": "BEAUTY QUEEN",
+      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
     },
     {
       "added_at": "2026-11-05 23:01:16",
@@ -967,34 +983,18 @@
     {
       "added_at": "2026-11-05 23:01:16",
       "album": {
-        "name": "BEAUTY QUEEN",
-        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
       },
       "artists": [
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
         }
       ],
-      "duration_ms": 190000,
-      "name": "BEAUTY QUEEN",
-      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
-    },
-    {
-      "added_at": "2026-11-05 23:01:16",
-      "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
+      "duration_ms": 179348,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
     }
   ],
   "unique_name": "morning glow",

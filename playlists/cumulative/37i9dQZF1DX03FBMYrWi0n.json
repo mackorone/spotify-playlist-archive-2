@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: comment debord",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Laura Niquay",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160866,
       "name": "2h15",
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "DES FOIS DANSER",
+        "url": "https://open.spotify.com/album/6rWNACy0stQJ3cS8zHPcRU"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134878,
+      "name": "attends minute!",
+      "url": "https://open.spotify.com/track/25DOZnnizcymQ4LQXWQsko"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/2CBoHe6yhMpHPPrHcYbdWW"
       },
@@ -1048,6 +1066,24 @@
       "duration_ms": 349927,
       "name": "Autour de Moi",
       "url": "https://open.spotify.com/track/1unSFD958Rtx43wHr5Y9Cm"
+    },
+    {
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/1xRLXxn2gvFyHIt1rv9C7C"
+      },
+      "artists": [
+        {
+          "name": "Fleeting Colours",
+          "url": "https://open.spotify.com/artist/2PCSx52krNo1ngn9H1tdBB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/2ecyAWrG0b2M2rU7KOvsUz"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 187693,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 243803,
       "name": "Boulet",
       "url": "https://open.spotify.com/track/5GOae0JQzudKXWayFPmbqj"
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 132877,
       "name": "Claudia",
       "url": "https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE"
@@ -3276,7 +3312,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183570,
       "name": "DIEU",
       "url": "https://open.spotify.com/track/7MenF0tilErbDzpe3C4UOv"
@@ -3636,7 +3672,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6k7sLvyYTXkld84P7valfu"
@@ -4396,7 +4432,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 125783,
       "name": "funny easy time",
       "url": "https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0"
@@ -5825,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/40a1v9kfK7wrFJzgZj0iRd"
+      },
+      "artists": [
+        {
+          "name": "Wizaard",
+          "url": "https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190179,
+      "name": "Joey",
+      "url": "https://open.spotify.com/track/6w36CLMZhG5kyyKR6K44QS"
+    },
+    {
+      "album": {
         "name": "Cours, Cora, cours / Journal d'un loup-garou",
         "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
       },
@@ -6853,6 +6907,24 @@
     },
     {
       "album": {
+        "name": "Le pendule",
+        "url": "https://open.spotify.com/album/4X7caUNMqCzBSM42iHuu1r"
+      },
+      "artists": [
+        {
+          "name": "Blanc Dehors",
+          "url": "https://open.spotify.com/artist/32GovIcQsAkHGWbJs2UBQ5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228249,
+      "name": "Le pendule",
+      "url": "https://open.spotify.com/track/0EQcEzwL2UdewWsvBpR27u"
+    },
+    {
+      "album": {
         "name": "Le Roi de la montagne",
         "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
       },
@@ -7743,6 +7815,24 @@
     },
     {
       "album": {
+        "name": "Nir Wactenama",
+        "url": "https://open.spotify.com/album/3OdRlIQltc3XXbk4YhsKlB"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "Mikwetc",
+      "url": "https://open.spotify.com/track/3daYKjZMOiV2ZYou1zHGXP"
+    },
+    {
+      "album": {
         "name": "Million Rats",
         "url": "https://open.spotify.com/album/3V1q7yanZrhK1Y0SFcDkmE"
       },
@@ -8006,7 +8096,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169264,
       "name": "Mrs Worldwide",
       "url": "https://open.spotify.com/track/5p3HVsNUtHdlAwxSwIN4mI"
@@ -8386,6 +8476,28 @@
       "duration_ms": 157800,
       "name": "nouvelle vie",
       "url": "https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H"
+    },
+    {
+      "album": {
+        "name": "No\u00e9mie",
+        "url": "https://open.spotify.com/album/4ZTOeCTuXtpPIsRsUYAjeW"
+      },
+      "artists": [
+        {
+          "name": "Racasse",
+          "url": "https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6"
+        },
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172775,
+      "name": "No\u00e9mie",
+      "url": "https://open.spotify.com/track/4oCgp8ST7NPd94lE3q2Fv9"
     },
     {
       "album": {
@@ -10256,7 +10368,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 220493,
       "name": "Rotten",
       "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
@@ -11767,6 +11879,24 @@
     },
     {
       "album": {
+        "name": "The Man Upstairs",
+        "url": "https://open.spotify.com/album/1X41kX6UxiJH2PPxFgYPRQ"
+      },
+      "artists": [
+        {
+          "name": "Space Buns",
+          "url": "https://open.spotify.com/artist/3yH8MVOjUpvQjfWX2qNTUi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145848,
+      "name": "The Man Upstairs",
+      "url": "https://open.spotify.com/track/12bj997E5AMRjKHk8ILFKP"
+    },
+    {
+      "album": {
         "name": "The New Year",
         "url": "https://open.spotify.com/album/5PtqWo0taGspuTpgYXzWmM"
       },
@@ -11962,6 +12092,24 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "album": {
+        "name": "top of the morning",
+        "url": "https://open.spotify.com/album/5NNZmpQyaalMxY1WT30Rhu"
+      },
+      "artists": [
+        {
+          "name": "Classical X",
+          "url": "https://open.spotify.com/artist/3lhNTFStFPddPJQ4aPhqH3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134746,
+      "name": "top of the morning",
+      "url": "https://open.spotify.com/track/18lPoK9dIKtRRPYh8z2oyW"
     },
     {
       "album": {
@@ -12200,6 +12348,24 @@
       "duration_ms": 161848,
       "name": "True Love - Alix Fernz's version",
       "url": "https://open.spotify.com/track/1cpAdmaGCbA2rhNEWEEU9A"
+    },
+    {
+      "album": {
+        "name": "Turbulences",
+        "url": "https://open.spotify.com/album/4dQGQcGmBtC07HVxmo7ZAj"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e8ges",
+          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229201,
+      "name": "Turbulences",
+      "url": "https://open.spotify.com/track/0u19lGnitw5hKYxqL6zdQZ"
     },
     {
       "album": {

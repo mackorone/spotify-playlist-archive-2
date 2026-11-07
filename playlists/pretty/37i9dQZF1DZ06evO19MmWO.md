@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,392 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,393 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 47 | [Teenage Beat](https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:00 |
 | 48 | [Crazy Legs](https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 
-Snapshot ID: `aukkAAAAAABXM68zaoyAXDLjYDj6zqxN`
+Snapshot ID: `auvHAAAAAAAbtCmDMOXv8HbsE4BjNIeL`

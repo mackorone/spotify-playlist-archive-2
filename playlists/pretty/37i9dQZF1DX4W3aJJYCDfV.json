@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Skepta, Slayyyter, Sam Fender, Rex Orange County and more! ",
-  "num_followers": 1039928,
+  "num_followers": 1040754,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJaZfVtn+e8SY0uA3U7IrnnNV4x",
+  "snapshot_id": "AAAAAPzpeJaVRlHW+MMXe6YWomQUQ2Cv",
   "tracks": [
     {
       "added_at": "2026-11-06 00:01:00",
@@ -233,6 +233,26 @@
       "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
+      "added_at": "2026-11-06 11:32:55",
+      "album": {
+        "name": "bootleg",
+        "url": "https://open.spotify.com/album/7wrnwgR7wXPn2640q3BxCk"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        },
+        {
+          "name": "gone like summer",
+          "url": "https://open.spotify.com/artist/2XOxFoWBxYr7IXSdM2QkJn"
+        }
+      ],
+      "duration_ms": 127745,
+      "name": "bootleg",
+      "url": "https://open.spotify.com/track/6fw5FDNXJ0s7rU8GdIguzT"
+    },
+    {
       "added_at": "2026-11-06 00:01:00",
       "album": {
         "name": "Gimme A Beat",
@@ -435,7 +455,7 @@
     {
       "added_at": "2026-11-06 00:01:00",
       "album": {
-        "name": "So Fly",
+        "name": "So Fly (feat. Riton)",
         "url": "https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A"
       },
       "artists": [
@@ -453,7 +473,7 @@
         }
       ],
       "duration_ms": 126412,
-      "name": "So Fly",
+      "name": "So Fly (feat. Riton)",
       "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {
@@ -638,10 +658,14 @@
         {
           "name": "MK",
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
         }
       ],
       "duration_ms": 137015,
-      "name": "Slip & Slide",
+      "name": "Slip & Slide (feat. Amira Eldine)",
       "url": "https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei"
     },
     {
@@ -748,8 +772,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "duration_ms": 157440,

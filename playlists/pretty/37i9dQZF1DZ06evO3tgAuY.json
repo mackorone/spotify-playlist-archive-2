@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADUnXp6LwfER3OMgg/ggEq2",
+  "snapshot_id": "aup1gAAAAAAqx9sT5CTi0/a15pT1RW7Q",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "SI MUERO MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BELICLOVE",
         "url": "https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
+      "duration_ms": 153402,
+      "name": "SI MUERO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
     },
     {
       "added_at": null,
@@ -815,58 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "FLAKA MORENA",
-      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESDE MIS OJOS",
-        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         },
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "DESDE MIS OJOS",
-      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Lo Hubiera Pensado",
-        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
-      },
-      "artists": [
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 149994,
-      "name": "Nadie Lo Hubiera Pensado",
-      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
+      "duration_ms": 188666,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
     },
     {
       "added_at": null,
@@ -898,21 +842,17 @@
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Sabine",
-          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
         }
       ],
-      "duration_ms": 184800,
-      "name": "#TBT",
-      "url": "https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD"
+      "duration_ms": 154000,
+      "name": "FLAKA MORENA",
+      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TOKO",
-        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
+        "name": "Nadie Lo Hubiera Pensado",
+        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
       },
       "artists": [
         {
@@ -920,9 +860,33 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 121606,
-      "name": "TOKO",
-      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
+      "duration_ms": 149994,
+      "name": "Nadie Lo Hubiera Pensado",
+      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESDE MIS OJOS",
+        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "DESDE MIS OJOS",
+      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
     },
     {
       "added_at": null,
@@ -947,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bsod3",
-        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
-      },
-      "artists": [
-        {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Bsod3",
-      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFROLANDIA",
         "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
       },
@@ -987,8 +931,44 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+        "name": "TOKO",
+        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 121606,
+      "name": "TOKO",
+      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bsod3",
+        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
+      },
+      "artists": [
+        {
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Bsod3",
+      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Copa",
+        "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
       },
       "artists": [
         {
@@ -996,13 +976,37 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
         }
       ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+      "duration_ms": 200000,
+      "name": "Copa",
+      "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Sabine",
+          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "#TBT",
+      "url": "https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD"
     }
   ],
   "unique_name": "This Is Alex Favela",

@@ -4147,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Ocean Floor",
+        "url": "https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0"
+      },
+      "artists": [
+        {
+          "name": "Cam Get'm",
+          "url": "https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244401,
+      "name": "Ocean Floor",
+      "url": "https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K"
+    },
+    {
+      "album": {
         "name": "Only From Afar",
         "url": "https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy"
       },
@@ -4634,6 +4652,24 @@
       "duration_ms": 256319,
       "name": "Rain Falls In The Night.",
       "url": "https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ"
+    },
+    {
+      "album": {
+        "name": "Read my Rights",
+        "url": "https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry"
+      },
+      "artists": [
+        {
+          "name": "The Garbage Gang",
+          "url": "https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Read my Rights",
+      "url": "https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL"
     },
     {
       "album": {

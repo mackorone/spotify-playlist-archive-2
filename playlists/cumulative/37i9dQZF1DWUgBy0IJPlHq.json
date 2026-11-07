@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: verygently\n",
+  "description": "A new shade of Country. Cover: Lily Fitts\n",
   "name": "Indigo",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 195856,
       "name": "Amabel Lee",
       "url": "https://open.spotify.com/track/4xevPIUHNWET3gS7bEs3I6"
@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Calling It Quits",
+        "url": "https://open.spotify.com/album/7IaMJ3fQ6GAQIz8m1XD9Oi"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221253,
+      "name": "Calling It Quits",
+      "url": "https://open.spotify.com/track/2eT6hF96qSVkiEsjmfZPOu"
+    },
+    {
+      "album": {
         "name": "Can Chaser",
         "url": "https://open.spotify.com/album/7KPaPo5P7LK3TkyHc9SQ1A"
       },
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 214440,
       "name": "Cardinal Sin (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157083,
       "name": "Carolina Shakedown",
       "url": "https://open.spotify.com/track/3JnzeLMaTrZnL5Ms7KADIC"
@@ -4927,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Enough Rope",
+        "url": "https://open.spotify.com/album/1kFhhEDsmnxNtjZaolxc2b"
+      },
+      "artists": [
+        {
+          "name": "Max Alan",
+          "url": "https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226583,
+      "name": "Enough Rope",
+      "url": "https://open.spotify.com/track/42WcYXx9LPE4J1K33uUOfW"
+    },
+    {
+      "album": {
         "name": "Evangelina",
         "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
       },
@@ -5766,6 +5802,24 @@
       "duration_ms": 201531,
       "name": "Game I Can\u2019t Win",
       "url": "https://open.spotify.com/track/6S54LiJPmBRfm877hXbOX0"
+    },
+    {
+      "album": {
+        "name": "Gasoline (Stripped)",
+        "url": "https://open.spotify.com/album/2s8jiyfSLj03myus9nTOuO"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes @ Sunset",
+          "url": "https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199439,
+      "name": "Gasoline - Stripped",
+      "url": "https://open.spotify.com/track/1qsp5iIMa3hOTOFWdopEyA"
     },
     {
       "album": {
@@ -8642,7 +8696,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 272693,
       "name": "Last American Waltz",
       "url": "https://open.spotify.com/track/7ijGJUmmEqKoE0GyfMKQhH"
@@ -8682,6 +8736,24 @@
       "duration_ms": 208942,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW"
+    },
+    {
+      "album": {
+        "name": "TAHOE",
+        "url": "https://open.spotify.com/album/1JSGB1H24evCRBKA749vpH"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188122,
+      "name": "LAST CALL",
+      "url": "https://open.spotify.com/track/32IRGXo4s0dGQ0uQlEE3S1"
     },
     {
       "album": {
@@ -9484,7 +9556,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 211346,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
@@ -9640,6 +9712,24 @@
       "duration_ms": 183371,
       "name": "Love You Tonight",
       "url": "https://open.spotify.com/track/6eB1ykuJXmtoJ8CmHra4ip"
+    },
+    {
+      "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
     },
     {
       "album": {
@@ -10192,7 +10282,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 302908,
       "name": "Moral Victory",
       "url": "https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E"
@@ -12840,7 +12930,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174789,
       "name": "Should\u2019ve Known Better",
       "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
@@ -13440,6 +13530,24 @@
       "duration_ms": 253965,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
+    },
+    {
+      "album": {
+        "name": "Songs My Friends Wrote",
+        "url": "https://open.spotify.com/album/5WlPUNxUy1yGQOt6GlmIe1"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250114,
+      "name": "Spookin\u2019 the Horses",
+      "url": "https://open.spotify.com/track/3e8tAxlXA6UbokanOcuUgr"
     },
     {
       "album": {
@@ -15402,7 +15510,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 241185,
       "name": "Tracking the Tropics",
       "url": "https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix"

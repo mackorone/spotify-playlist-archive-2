@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACLHxfHmqFz4CD8kscNSMJQ",
+  "snapshot_id": "auvHAAAAAADRn6D/PZvzmvigaOx/c4As",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 138088,
+      "name": "Ackee",
+      "url": "https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rice Bowl",
         "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 186666,
       "name": "Rice Bowl",
       "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 138088,
-      "name": "Ackee",
-      "url": "https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "DJ SAZE",
+          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "dnd",
+      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "his sweater",
         "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 178611,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "DJ SAZE",
-          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "dnd",
-      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
     }
   ],
   "unique_name": "This Is SadBoi",

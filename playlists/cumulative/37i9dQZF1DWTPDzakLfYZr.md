@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Maisak
 
-413 songs - 21 hr 33 min
+414 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Aquí Estoy](https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Aquí Estoy](https://open.spotify.com/album/3BdctQrrNWKKazV67UXzGK) | 2:08 | 2022-05-06 | 2022-06-11 |
 | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/album/26Mksnxwl6TQAJ5FGdQGsm) | 2:53 | 2023-04-14 | 2023-05-19 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-04-14 | 2023-05-20 |
+| [Arroz Con Huevo](https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Arroz Con Huevo](https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts) | 2:45 | 2026-11-06 |  |
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2022-04-01 | 2022-04-09 |
 | [Aurora](https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:57 | 2025-02-26 | 2025-10-18 |
 | [Aurora \- Remix](https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aurora \(Remix\)](https://open.spotify.com/album/3dgoNFp7Rdw1KBH3n5YIAO) | 4:02 | 2022-10-21 | 2023-02-25 |

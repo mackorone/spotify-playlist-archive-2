@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,222 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,237 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 31 | [Horizons](https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 5:39 |
 | 32 | [Destroyer](https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:47 |
 | 33 | [Wreckage](https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:21 |
-| 34 | [Devil's Calling](https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:26 |
+| 34 | [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 |
 | 35 | [Breaking Point](https://open.spotify.com/track/7nhVZs10XVluL6RKtv86q9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:38 |
-| 36 | [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 |
+| 36 | [Devil's Calling](https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:26 |
 | 37 | [Unrest](https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 2:19 |
 | 38 | [Writings on the Wall](https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 39 | [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 46 | [It's So Hard To Speak Without A Tongue](https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 4:16 |
 | 47 | [Gimme AD](https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
 
-Snapshot ID: `aukkAAAAAACG8O9/62+YwgNLOL1cFZtM`
+Snapshot ID: `auvHAAAAAABje4vwKBleMbxyrXNaHxDn`

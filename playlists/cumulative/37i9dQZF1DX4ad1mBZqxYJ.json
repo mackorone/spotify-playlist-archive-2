@@ -921,6 +921,28 @@
     },
     {
       "album": {
+        "name": "BOOMERANG",
+        "url": "https://open.spotify.com/album/7yZaztjDNut62lUPQUfcre"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173007,
+      "name": "BOOMERANG",
+      "url": "https://open.spotify.com/track/3N5t8zJUQB5tKxpEJ7W8Re"
+    },
+    {
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq"
       },
@@ -4565,6 +4587,32 @@
     },
     {
       "album": {
+        "name": "SANDRO & MALANDROS",
+        "url": "https://open.spotify.com/album/6j5C9dLtEqFR96K0JyEtZF"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155737,
+      "name": "Mac n Cheese",
+      "url": "https://open.spotify.com/track/59FfOGtPpHu9NImxubVwzj"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -5102,6 +5150,28 @@
       "duration_ms": 171215,
       "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
       "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
+    },
+    {
+      "album": {
+        "name": "NeNe MaLo",
+        "url": "https://open.spotify.com/album/3Z5p5jUltJIMieO9WtzFaH"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "NeNe MaLo",
+      "url": "https://open.spotify.com/track/2YtZwNCY5xhMcVZAeWj5Lv"
     },
     {
       "album": {

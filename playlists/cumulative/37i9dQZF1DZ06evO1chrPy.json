@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Make It Easy",
+        "url": "https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197018,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },

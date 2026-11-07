@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,115 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,118 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 17 | [Yeah Boy](https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:14 |
 | 18 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 19 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 |
-| 20 | [People Pleaser](https://open.spotify.com/track/0TqPFLnbZsMVG65ZeBBL17) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:12 |
-| 21 | [Dibs](https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:03 |
+| 20 | [I Sit In Parks](https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:10 |
+| 21 | [People Pleaser](https://open.spotify.com/track/0TqPFLnbZsMVG65ZeBBL17) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:12 |
 | 22 | [Mountain With A View](https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:57 |
-| 23 | [I Sit In Parks](https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:10 |
+| 23 | [Dibs](https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:03 |
 | 24 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 |
 | 25 | [LOVE IS A COWBOY](https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:43 |
 | 26 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 49 | [I Would, Would You](https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:52 |
 | 50 | [Cut Me Up](https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:35 |
 
-Snapshot ID: `aukkAAAAAAAD+VZ76zq72Arjp9tTNHXg`
+Snapshot ID: `auvHAAAAAAD0rZVEamnLrucRp51klvE+`

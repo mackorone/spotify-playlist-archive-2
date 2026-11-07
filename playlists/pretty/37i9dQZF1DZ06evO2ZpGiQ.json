@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 486657,
+  "num_followers": 486697,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABTX+DImcXhUvNxEOal7Pxn",
+  "snapshot_id": "auvHAAAAAADod+Y66R7l4QDvVQM9WW7p",
   "tracks": [
     {
       "added_at": null,
@@ -247,34 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We The Best Forever",
         "url": "https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg"
       },
@@ -303,22 +275,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": null,
@@ -339,6 +319,26 @@
       "duration_ms": 271946,
       "name": "Right Above It",
       "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 148610,
+      "name": "Twist Made Me",
+      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 148610,
-      "name": "Twist Made Me",
-      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me U & Hennessy (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
-      },
-      "artists": [
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 224971,
-      "name": "Me U & Hennessy (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me U & Hennessy (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Me U & Hennessy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "I'm Into You",
+      "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "I'm Into You",
-      "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 371870,
+      "name": "The Question (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 227478,
       "name": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
       "url": "https://open.spotify.com/track/0ZLuW8uOXdFNWcI40C0OC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 371870,
-      "name": "The Question (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 237360,
       "name": "Gimme That Remix (feat. Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd"
     }
   ],
   "unique_name": "This Is Lil Wayne",

@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,531 songs - 5 day 22 hr 13 min
+2,534 songs - 5 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,6 +1093,7 @@
 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 | 2026-03-20 | 2026-09-14 |
 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 | 2023-09-30 |
 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-26 | 2024-11-09 |
+| [IN2U](https://open.spotify.com/track/7ud3HNsw8PRO1YWuniYJLW) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [IN2U](https://open.spotify.com/album/4ZkGxPp27hwTlGHeW8Jv4j) | 3:49 | 2026-11-06 |  |
 | [Incanto](https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Incanto](https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp) | 3:06 | 2024-06-21 | 2024-07-13 |
 | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/track/3a4iD8kXESNUQ69DKT75OS) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Scorccio](https://open.spotify.com/artist/7uTD4BLn80TuHxNeIAspJc) | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/album/0RwubAqdP2AmfEdVE5jfQ8) | 2:39 | 2023-05-12 | 2023-05-20 |
 | [Informer](https://open.spotify.com/track/6sLhiDvFtcMjsB29hQ5yLE) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Informer](https://open.spotify.com/album/4gDKsS87beuPQiCIRVgrlv) | 3:05 | 2022-11-19 | 2022-11-29 |
@@ -1859,6 +1860,7 @@
 | [Running](https://open.spotify.com/track/7bMWMh0hw63TtpM5UWKPZQ) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Running](https://open.spotify.com/album/0DHip6BOwZ2uyLvQwQ870n) | 2:54 | 2023-01-28 | 2023-02-11 |
 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2022-06-03 | 2022-06-11 |
 | [Rush On Me](https://open.spotify.com/track/5xvPZAGYF0X4xvK0YDXfLM) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Rush On Me](https://open.spotify.com/album/2uAiBwbIYtmK6Sm4ZDN6G1) | 3:40 | 2022-06-03 | 2022-06-11 |
+| [RUSHIN'](https://open.spotify.com/track/2NmRGpEJ1hs6aospwPb67k) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [RUSHIN'](https://open.spotify.com/album/0YhP8tJKANFQGmks7kiBRe) | 3:06 | 2026-11-06 |  |
 | [Sabor](https://open.spotify.com/track/43n7D7dfkPtdPa5Njyk7gG) | [Swavé](https://open.spotify.com/artist/48hun92tyQfPrN1rTWBJBr) | [Sabor](https://open.spotify.com/album/0xLemIMbafsI4Ovh3Hakmj) | 2:55 | 2023-11-10 | 2023-11-18 |
 | [Salsa Shake](https://open.spotify.com/track/0Y5eIPZ22ypKq8JSWrVUlh) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Salsa Shake](https://open.spotify.com/album/0jZAnZG2QeQ0p3phFXQcRm) | 3:07 | 2022-06-10 | 2022-06-18 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-13 | 2022-05-30 |
@@ -2133,6 +2135,7 @@
 | [Teka \(with Peso Pluma\) \- Matroda Remix](https://open.spotify.com/track/0eF9MPddedbS6MngSnB9RC) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Teka \(with Peso Pluma\) \[Matroda Remix\]](https://open.spotify.com/album/1xhIlcaKLZZAnDtumF0Qd6) | 3:15 | 2024-07-12 | 2024-08-03 |
 | [TELEMARKETER](https://open.spotify.com/track/5YtFmJF6RzB4etYr1rls48) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [TELEMARKETER](https://open.spotify.com/album/47WCuW1XFyEo0P8w2brTx7) | 3:34 | 2025-03-07 | 2025-04-19 |
 | [Telephone Ringin'](https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Telephone Ringin'](https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML) | 3:33 | 2025-05-02 | 2025-05-31 |
+| [Tell Me](https://open.spotify.com/track/4OgX35ylh4OayekGxE1PkE) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn), [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Tell Me EP](https://open.spotify.com/album/4HtzthIMpeaEUn7JRlvrz0) | 3:47 | 2026-11-06 |  |
 | [Tell Me](https://open.spotify.com/track/7wcBjem7yS10mCTL7Tf14k) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tell Me](https://open.spotify.com/album/2Ij05JnZx2T3CaWMWhPuLS) | 3:30 | 2025-02-28 | 2025-04-05 |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-13 | 2023-10-28 |
 | [Tell You Why](https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Tell You Why](https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq) | 2:33 | 2026-10-30 |  |

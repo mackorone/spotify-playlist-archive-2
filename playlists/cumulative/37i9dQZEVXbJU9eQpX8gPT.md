@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,192 songs - 4 day 22 hr 33 min
+2,193 songs - 4 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Bye](https://open.spotify.com/track/1qQp9ecVMGOO1H6nNn9hIU) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:02 | 2022-01-27 | 2022-01-30 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-14 | 2023-12-16 |
 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-04-29 | 2023-05-01 |
+| [C'est Pas Facile](https://open.spotify.com/track/5UtkkA4Rw0CWHeyqFn0Bzq) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [C'est Pas Facile](https://open.spotify.com/album/1NOlrWyYjYNKK2H42R8DsW) | 3:27 | 2026-11-06 |  |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-19 | 2024-06-22 |
 | [C.C](https://open.spotify.com/track/5IjYvPZQuDVT2cSwEVzfKG) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 3:31 | 2024-11-15 | 2024-12-21 |
 | [C.V.D.I.](https://open.spotify.com/track/29PQ2G9LWUWBcy9N6lRO0B) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:31 | 2021-03-27\* | 2021-04-17 |
@@ -1837,7 +1838,7 @@
 | [SRTTT](https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:29 | 2024-11-08 | 2024-11-30 |
 | [Stafeta](https://open.spotify.com/track/7h2WNXMAJTKH3Ttwff1oti) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 2:49 | 2024-06-25 | 2024-06-30 |
 | [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-11 | 2024-05-19 |
-| [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 1\)](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 | 2024-11-29 |  |
+| [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 1\)](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 | 2024-11-29 | 2026-11-07 |
 | [Staline](https://open.spotify.com/track/5mY7KEG5gUYdXBu9ekZIMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Skyrock Freestyles \(Morocco Edition\)](https://open.spotify.com/album/4ycGxsIhfjDyTE0Gn0LQIu) | 3:58 | 2024-09-20 | 2024-11-22 |
 | [Staline](https://open.spotify.com/track/5JGhrQuSz5ZkBMVXpynajp) | [Joe Prod](https://open.spotify.com/artist/1wFPvFmZ2g4rzYS2rNncJJ), [Egtoto](https://open.spotify.com/artist/5IawoPaqWPiQqDmruv4p0J) | [Staline](https://open.spotify.com/album/77fkMZXBOlvqjlpnPHVdx1) | 3:58 | 2024-09-19 | 2024-09-21 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2023-11-27 |
@@ -1884,7 +1885,7 @@
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-30 |
 | [T3EQDNA](https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc) | [ELHAFIDY](https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng) | [SILENT BATTLES](https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY) | 3:12 | 2026-02-03 | 2026-02-09 |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-05 | 2022-11-19 |
-| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 |  |
+| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 | 2026-11-07 |
 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-08-23 | 2026-09-30 |
 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 | 2025-06-01 |  |
 | [Taff](https://open.spotify.com/track/1ax1hArCzxeVcnsFHnJCd5) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 3:10 | 2024-10-24 | 2024-10-26 |
@@ -2148,7 +2149,7 @@
 | [YSL](https://open.spotify.com/track/3u2dEwgpdqfAPgSXBpfgpY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:38 | 2021-12-05 | 2021-12-06 |
 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 | 2024-05-11 | 2024-05-26 |
 | [Zahri](https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:20 | 2021-03-27\* | 2026-05-17 |
-| [Zahri](https://open.spotify.com/track/24TlSSYXhVl0emKRYAvhFS) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BE\-11](https://open.spotify.com/album/1Xj5QVfHsCIpXJjER4tuOk) | 3:33 | 2026-09-15 | 2026-11-06 |
+| [Zahri](https://open.spotify.com/track/24TlSSYXhVl0emKRYAvhFS) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BE\-11](https://open.spotify.com/album/1Xj5QVfHsCIpXJjER4tuOk) | 3:33 | 2026-09-15 |  |
 | [ZANDA](https://open.spotify.com/track/1n8YdvsqgIMMYRnQ6SmScD) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [ZANDA](https://open.spotify.com/album/2trmvgEuBnQXHDruoZo4V6) | 3:07 | 2023-11-29 | 2024-01-05 |
 | [ZANDA](https://open.spotify.com/track/4UCOg9a0A5ObLYGa9acg66) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [ZANDA](https://open.spotify.com/album/4jAEyZacdRwtsL5cyhZuAZ) | 3:07 | 2024-01-05 | 2024-01-11 |
 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-06-23 | 2024-09-11 |

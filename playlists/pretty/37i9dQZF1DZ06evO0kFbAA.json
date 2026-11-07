@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 61793,
+  "num_followers": 61829,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADvxmU0is0wWaqM92fqJru8",
+  "snapshot_id": "auvHAAAAAADzbBrywVfK8vm04IOo3SUh",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
+      "duration_ms": 219286,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj"
     },
     {
       "added_at": null,
@@ -359,26 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG"
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 219286,
-      "name": "Saudade Vem Correndo",
-      "url": "https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj"
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": null,

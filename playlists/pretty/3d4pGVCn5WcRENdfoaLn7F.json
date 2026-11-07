@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 925,
+  "num_followers": 934,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEHeroie8tHPPgoUHUPKC/r9QiVElK",
+  "snapshot_id": "AAAEIdfREOdA/F7QEqk1Y6KMxVApR0ns",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -959,6 +959,78 @@
       "duration_ms": 231335,
       "name": "Suicide Sugar",
       "url": "https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz"
+    },
+    {
+      "added_at": "2026-11-06 16:55:00",
+      "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/62Wv503SOc96RcJkdt0DNn"
+      },
+      "artists": [
+        {
+          "name": "Chaotic Hearts",
+          "url": "https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/5zFMIxhLh0iqGB2fSuskvU"
+    },
+    {
+      "added_at": "2026-11-06 17:19:45",
+      "album": {
+        "name": "Colliding Into Space",
+        "url": "https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gavl\u00e9n",
+          "url": "https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL"
+        },
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        }
+      ],
+      "duration_ms": 238384,
+      "name": "Colliding Into Space",
+      "url": "https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd"
+    },
+    {
+      "added_at": "2026-11-06 17:32:48",
+      "album": {
+        "name": "Dethroned",
+        "url": "https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Dethroned - Single Version",
+      "url": "https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t"
+    },
+    {
+      "added_at": "2026-11-06 18:47:23",
+      "album": {
+        "name": "Impossible Highs",
+        "url": "https://open.spotify.com/album/2iTVRC8XPaUn4bcsV7JP1q"
+      },
+      "artists": [
+        {
+          "name": "Seelenpein",
+          "url": "https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV"
+        },
+        {
+          "name": "Sonic Panda",
+          "url": "https://open.spotify.com/artist/0b9czBoJTsWwxyjOdVK1RL"
+        }
+      ],
+      "duration_ms": 210947,
+      "name": "Impossible Highs",
+      "url": "https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

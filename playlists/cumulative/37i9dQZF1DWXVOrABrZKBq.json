@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Heuss L'enfoir\u00e9, PLK",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: L2B",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 151115,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7gK04VqpO5iznmYkXT0AAF"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166360,
       "name": "Bad Day (SABR)",
       "url": "https://open.spotify.com/track/6G2jgQzg1I8bUWdvkdADm1"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158355,
       "name": "Belles choses",
       "url": "https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI"
@@ -2568,6 +2568,28 @@
       "duration_ms": 206557,
       "name": "Bout It",
       "url": "https://open.spotify.com/track/19zIXx8M3skiiKCa7PlNdw"
+    },
+    {
+      "album": {
+        "name": "Sexe, Drogues et Rap conscient",
+        "url": "https://open.spotify.com/album/2f55WPSwDHXIXs1lYnDnl7"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        },
+        {
+          "name": "Teddy Relaxx",
+          "url": "https://open.spotify.com/artist/6v3OSBCzhedYhORkVkrndN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221617,
+      "name": "Bo\u00eete de Pandore",
+      "url": "https://open.spotify.com/track/6hWUaB56igWtrjhMUphE5b"
     },
     {
       "album": {
@@ -3261,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/0jyGEBJvHMxZhoI8768SIz"
+    },
+    {
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/5STY0vbcKegoAdYnOMuBZe"
       },
@@ -3498,6 +3538,24 @@
       "duration_ms": 141745,
       "name": "CHROMI",
       "url": "https://open.spotify.com/track/2jayHZIvrhTwLYXKZuBv3l"
+    },
+    {
+      "album": {
+        "name": "CHRONOM\u00c8TRE",
+        "url": "https://open.spotify.com/album/10vsPoJmGYCYiOCdN6gST6"
+      },
+      "artists": [
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135696,
+      "name": "CHRONOM\u00c8TRE",
+      "url": "https://open.spotify.com/track/4crtyCnurrjZzyTQqd3FKC"
     },
     {
       "album": {
@@ -5054,6 +5112,24 @@
       "duration_ms": 205500,
       "name": "D\u00e9river",
       "url": "https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN"
+    },
+    {
+      "album": {
+        "name": "Zombie Life (10 Years Anniversary)",
+        "url": "https://open.spotify.com/album/1jQReSMHlQuoQLKRKVE8i3"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "D\u00e9tails",
+      "url": "https://open.spotify.com/track/2kCHldEmEgVJZKDvnmAKxO"
     },
     {
       "album": {
@@ -8798,7 +8874,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 133080,
       "name": "LES FOURMIS",
       "url": "https://open.spotify.com/track/2EqnGIIrQmPcUpq5nskkPz"
@@ -9337,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "Macronie",
+        "url": "https://open.spotify.com/album/2wdiFkGKgrvWoPxg2uw9jO"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169860,
+      "name": "Macronie",
+      "url": "https://open.spotify.com/track/5PEFCh1GU2LteiIJzYrvE0"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -9410,6 +9504,24 @@
       "duration_ms": 194443,
       "name": "Malsain et sauf",
       "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
+    },
+    {
+      "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210091,
+      "name": "Maman ne dort pas",
+      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
     },
     {
       "album": {
@@ -10930,6 +11042,24 @@
       "duration_ms": 229386,
       "name": "Nocif",
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
+    },
+    {
+      "album": {
+        "name": "Noir pour demain",
+        "url": "https://open.spotify.com/album/1j1M39SOdvam6lIMqbmYIl"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Noir pour demain",
+      "url": "https://open.spotify.com/track/0qSFgDDJp1SjU2F5QM96wZ"
     },
     {
       "album": {
@@ -12548,6 +12678,24 @@
       "duration_ms": 182081,
       "name": "PORT D'ARME",
       "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
+    },
+    {
+      "album": {
+        "name": "Poupette",
+        "url": "https://open.spotify.com/album/01ueFOS0oqSbQmjtMUnyL8"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182559,
+      "name": "Poupette",
+      "url": "https://open.spotify.com/track/3eWusNcbxRcHPCSJlFjB2O"
     },
     {
       "album": {
@@ -14506,7 +14654,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162406,
       "name": "SOLIDE",
       "url": "https://open.spotify.com/track/7Mmk8oRfhvJcyM80vvYI9o"
@@ -15410,7 +15558,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181826,
       "name": "TOUS MES DIAMANTS",
       "url": "https://open.spotify.com/track/11lYM95HuWxGyGMTWEFQVk"
@@ -15698,7 +15846,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140622,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6kxwRi9daiaV1c6wWQmwVi"

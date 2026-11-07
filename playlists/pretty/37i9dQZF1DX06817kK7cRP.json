@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204149,
+  "num_followers": 204163,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "skills",
+        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "skills",
+      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/2Sb3J6ExQSAl16YdNkgKys"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 149624,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/2mag4uJrjz3ub8ycjASBrZ"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "skills",
-        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "skills",
-      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/7q234e9D1WgRln97XPBE3N"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        },
+        {
+          "name": "Steve Chops",
+          "url": "https://open.spotify.com/artist/0anIwg0PUTpK8s89GX2rH5"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/7H0SDCXhNavoDM9EIcrozN"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Marigot",
         "url": "https://open.spotify.com/album/08mK985PXhFRSnEDZyhep0"
       },
@@ -539,6 +559,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Fading Sunlight",
+        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        }
+      ],
+      "duration_ms": 115324,
+      "name": "Fading Sunlight",
+      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
       },
@@ -555,42 +591,6 @@
       "duration_ms": 101538,
       "name": "Views",
       "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/7q234e9D1WgRln97XPBE3N"
-      },
-      "artists": [
-        {
-          "name": "Harry Hawaii",
-          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
-        },
-        {
-          "name": "Steve Chops",
-          "url": "https://open.spotify.com/artist/0anIwg0PUTpK8s89GX2rH5"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/7H0SDCXhNavoDM9EIcrozN"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Fading Sunlight",
-        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
-      },
-      "artists": [
-        {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        }
-      ],
-      "duration_ms": 115324,
-      "name": "Fading Sunlight",
-      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "canvas",
-        "url": "https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        },
-        {
-          "name": "Kylan",
-          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "canvas",
-      "url": "https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Polaroids",
         "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 138352,
       "name": "Polaroids",
       "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "canvas",
+        "url": "https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "Kylan",
+          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "canvas",
+      "url": "https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Cloudscape",
-        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
-      },
-      "artists": [
-        {
-          "name": "baegel",
-          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
-        }
-      ],
-      "duration_ms": 146328,
-      "name": "Jetlag",
-      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 106666,
       "name": "Bask",
       "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Cloudscape",
+        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "duration_ms": 146328,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 109367,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Nothing Urgent",
         "url": "https://open.spotify.com/album/1bm9GjlV1av0KQxVK1s34t"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 109367,
       "name": "Nothing Urgent",
       "url": "https://open.spotify.com/track/4VBUqkWYku6xAh6UuPNJDi"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 109367,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Missed The Bus",
+        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "duration_ms": 99397,
+      "name": "Missed The Bus",
+      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/4NF6j0UpqxnbooPCltEehL"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 109756,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/1ULVlnExqXN3JGy3gTuRv1"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Missed The Bus",
-        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        }
-      ],
-      "duration_ms": 99397,
-      "name": "Missed The Bus",
-      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "THIQ",
-        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
-      },
-      "artists": [
-        {
-          "name": "Bloomsbury Boys",
-          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "THIQ",
-      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Good feeling",
         "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+        "name": "THIQ",
+        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
       },
       "artists": [
         {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+          "name": "Bloomsbury Boys",
+          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
         }
       ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
+      "duration_ms": 143283,
+      "name": "THIQ",
+      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1363,6 +1347,22 @@
       "duration_ms": 186666,
       "name": "Orle",
       "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+      },
+      "artists": [
+        {
+          "name": "Sidual.",
+          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 136438,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Hi",
-        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
-      },
-      "artists": [
-        {
-          "name": "Sidual.",
-          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
     },
     {
       "added_at": "2026-10-16 07:28:54",

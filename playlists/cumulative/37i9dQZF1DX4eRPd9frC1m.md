@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-506 songs - 1 day 2 hr 51 min
+507 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
 | [FIGHT OR FLIGHT](https://open.spotify.com/track/4uJ7Y0ux0L4zJtJCnOCYKD) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [FIGHT OR FLIGHT](https://open.spotify.com/album/3uvqOnCn4H1zJ99zcGb4jI) | 2:40 | 2025-11-07 |  |
+| [FIRE DANCE](https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FIRE DANCE](https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz) | 2:47 | 2026-10-30 |  |
 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 | 2025-04-26 |
 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 | 2025-07-11 | 2025-09-30 |
 | [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 | 2025-05-30 | 2025-08-08 |
@@ -439,7 +440,7 @@
 | [Sweat](https://open.spotify.com/track/72cOiHaGs0N7JSHcJiMzi7) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Sweat](https://open.spotify.com/album/43RbSseg8UTZ9Ypy8NwHxp) | 2:56 | 2026-08-07 | 2026-09-05 |
 | [Switch \(with Nat James\) \- Kozmoz Remix](https://open.spotify.com/track/1Kp1WlBmhTvhtRUidGeSyt) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa), [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:28 | 2023-08-18 | 2023-09-10 |
 | [symphony no.5 in bass minor](https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [symphony no.5 in bass minor](https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P) | 2:58 | 2024-05-10 | 2025-04-19 |
-| [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 |  |
+| [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 | 2026-11-07 |
 | [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 | 2026-03-20 |  |
 | [Takin' Over](https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Takin' Over](https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY) | 2:19 | 2022-01-07 | 2022-07-28 |
 | [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-11 | 2026-06-13 |

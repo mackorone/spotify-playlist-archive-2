@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 150 songs - 8 hr 59 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 153 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 148 | [Alfonsina Sin Mar](https://open.spotify.com/track/6uQV5Cdwpm91ctXoCw1g8x) | [Diana Ramundey](https://open.spotify.com/artist/1yS8uDIozrGruSrU0SE52v) | [Zamba Madre](https://open.spotify.com/album/7rQNTiqHS8Qwk0EGPtNJyf) | 3:34 |
 | 149 | [I wish you stayed](https://open.spotify.com/track/4MX1Q3Ei03EF5DxcW9kdyU) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [I wish you stayed](https://open.spotify.com/album/45np5eq9SrGD3UmAyy2uiL) | 2:32 |
 | 150 | [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 |
+| 151 | [Nightbus To Nowhere](https://open.spotify.com/track/7c0wPTH0lS07nuYdMwvizu) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 2:34 |
+| 152 | [Waiting](https://open.spotify.com/track/2ynzXArpo0etrRmjEkObNp) | [Margaret's Daughter](https://open.spotify.com/artist/1vhUWZLe5nOcahdd4McuAi) | [Waiting](https://open.spotify.com/album/1oefYEm3ymdIV6VaOS1F42) | 4:16 |
+| 153 | [The One I'll Chase](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [The One I'll Chase](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 |
 
-Snapshot ID: `AAAZPovnVzYq71pOmDq+9N4Cs1mYQNIG`
+Snapshot ID: `AAAZQYWQxBidBWcKO8mq9TDcl3hoGZ2d`

@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 159139,
+  "num_followers": 159159,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+        "name": "Juan Gabriel Instrumental",
+        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
       },
       "artists": [
         {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
         }
       ],
-      "duration_ms": 195000,
+      "duration_ms": 246746,
       "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
+      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Juan Gabriel Instrumental",
-        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
       "artists": [
         {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 246746,
+      "duration_ms": 195000,
       "name": "Costumbres",
-      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
+      "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 261399,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Guitarra Mexicana, Vol. 1",
         "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
@@ -415,22 +399,6 @@
       "duration_ms": 136000,
       "name": "Las Golondrinas",
       "url": "https://open.spotify.com/track/0dkDktCKm9bLtBjx6bSNco"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -451,6 +419,38 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 261399,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Cerezo Rosa",
         "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 184000,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -499,22 +483,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Grandes Exitos del Sol",
         "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 237773,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Corazon Partio",
-      "url": "https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Juan Gabriel Instrumental",
         "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 221000,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Corazon Partio",
+      "url": "https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Historia de Amor",
         "url": "https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226653,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Llevatela",
         "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 309933,
-      "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
-      "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -783,6 +767,22 @@
       "duration_ms": 136000,
       "name": "Pensamiento",
       "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+      },
+      "artists": [
+        {
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+        }
+      ],
+      "duration_ms": 309933,
+      "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
+      "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
       "artists": [
         {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
         }
       ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
       "artists": [
         {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 150293,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/4cBQl53QbFzcK9Gk44aoBr"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Homenaje a Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "A la Orilla de un Palmar",
-      "url": "https://open.spotify.com/track/4ur5Mne8y17iZWP3tkWpa5"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 212973,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/0znUdNIr1OnHLW6Z1O22aB"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Homenaje a Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "A la Orilla de un Palmar",
+      "url": "https://open.spotify.com/track/4ur5Mne8y17iZWP3tkWpa5"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "La Guitarra De M\u00e9xico",
-        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
-      },
-      "artists": [
-        {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "La Borrachita",
-      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 150266,
       "name": "Fue un Placer Conocerte - Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/3QcIXswS4xGCO88rFpsu1z"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "La Guitarra De M\u00e9xico",
+        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "La Borrachita",
+      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1419,6 +1419,22 @@
       "duration_ms": 157529,
       "name": "Pasitos",
       "url": "https://open.spotify.com/track/34t7XTMCWWBumlXC2dtzx2"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+      },
+      "artists": [
+        {
+          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
+          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Tico-Tico",
+      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1464,22 +1480,6 @@
       },
       "artists": [
         {
-          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
-          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Tico-Tico",
-      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
-      },
-      "artists": [
-        {
           "name": "Gilberto Puente",
           "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
         }
@@ -1487,22 +1487,6 @@
       "duration_ms": 190000,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
-      },
-      "artists": [
-        {
-          "name": "Claudio Estrada",
-          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "El Mar - Beyond the Sea [Resmasterizado]",
-      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1519,6 +1503,22 @@
       "duration_ms": 205013,
       "name": "Nunca, Nunca, Nunca",
       "url": "https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+      },
+      "artists": [
+        {
+          "name": "Claudio Estrada",
+          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "El Mar - Beyond the Sea [Resmasterizado]",
+      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+      "duration_ms": 266000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb"
     },
     {
       "added_at": "2024-07-11 01:27:02",

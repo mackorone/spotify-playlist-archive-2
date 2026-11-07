@@ -2726,8 +2726,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-05",
@@ -33423,24 +33423,6 @@
     },
     {
       "album": {
-        "name": "Io non sono lei",
-        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
-      },
-      "artists": [
-        {
-          "name": "Emili Kasa",
-          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165029,
-      "name": "Io non sono lei",
-      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
-    },
-    {
-      "album": {
         "name": "L'ultima ruota del Caravan",
         "url": "https://open.spotify.com/album/5zstkUXxHUlRz9bfSGlOzn"
       },
@@ -46946,6 +46928,24 @@
       "duration_ms": 172377,
       "name": "Non sono io",
       "url": "https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI"
+    },
+    {
+      "album": {
+        "name": "Non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165029,
+      "name": "Non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "album": {
@@ -76027,7 +76027,7 @@
     },
     {
       "album": {
-        "name": "Why'd You Have To Leave",
+        "name": "Why'd You Have To Leave?",
         "url": "https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT"
       },
       "artists": [
@@ -76040,7 +76040,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205000,
-      "name": "Why'd You Have To Leave",
+      "name": "Why'd You Have To Leave?",
       "url": "https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D"
     },
     {

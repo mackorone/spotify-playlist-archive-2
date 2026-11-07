@@ -4,13 +4,14 @@
 
 > 
 
-151 songs - 10 hr 37 min
+152 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2025-11-07 | 2026-05-03 |
 | [A Little More](https://open.spotify.com/track/6i9G9jq9O2M11W7vPsL7jm) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 4:49 | 2026-03-30 | 2026-10-08 |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2025-09-26 |  |
+| [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 | 2026-11-06 |  |
 | [An Alien in Love](https://open.spotify.com/track/67wot02aG1ayPZ2gb7YVoF) | [Yesable](https://open.spotify.com/artist/6sQcE03UfjGq6W1FuciTSb) | [Love Cheque](https://open.spotify.com/album/4Zk91IlxYLc11UNNkMDR3b) | 3:20 | 2026-03-30 | 2026-05-03 |
 | [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 | 2026-10-08 |  |
 | [Ascensionism](https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 7:08 | 2025-07-13 |  |

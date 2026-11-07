@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: keshi",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tate McRae",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 149355,
       "name": "bow wow",
       "url": "https://open.spotify.com/track/3YlQvJ5tFm99e7wrvWQTAk"
@@ -1778,6 +1778,24 @@
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
+    },
+    {
+      "album": {
+        "name": "FINAL GIRL",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225928,
+      "name": "breaks open",
+      "url": "https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU"
     },
     {
       "album": {
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -4504,7 +4522,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 224877,
       "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
@@ -6313,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+        "url": "https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216993,
+      "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+      "url": "https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81"
+    },
+    {
+      "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
       },
@@ -7728,7 +7764,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 222478,
       "name": "Lasso The Moon",
       "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
@@ -10020,7 +10056,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219427,
       "name": "Obsessica",
       "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
@@ -11835,6 +11871,24 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
+    },
+    {
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
@@ -12885,6 +12939,24 @@
     },
     {
       "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
+    },
+    {
+      "album": {
         "name": "Something In The Heavens",
         "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
@@ -13726,6 +13798,24 @@
       "duration_ms": 229933,
       "name": "Take A Sexy Picture Of Me",
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
+    },
+    {
+      "album": {
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177685,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
     },
     {
       "album": {
@@ -14639,6 +14729,28 @@
     },
     {
       "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187592,
+      "name": "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
+    },
+    {
+      "album": {
         "name": "Therapy at the Club",
         "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
       },
@@ -14999,6 +15111,28 @@
     },
     {
       "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
       },
@@ -15324,7 +15458,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 232527,
       "name": "Unloveu",
       "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"

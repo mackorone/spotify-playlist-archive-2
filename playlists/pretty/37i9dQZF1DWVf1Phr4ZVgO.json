@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1212968,
+  "num_followers": 1213091,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-09 08:32:48",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r"
-    },
-    {
-      "added_at": "2026-10-09 08:32:48",
-      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 162066,
       "name": "Sway (Quien Sera) - 1997 - Remastered",
       "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
+    },
+    {
+      "added_at": "2026-10-09 08:32:48",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r"
     },
     {
       "added_at": "2026-10-09 08:32:48",

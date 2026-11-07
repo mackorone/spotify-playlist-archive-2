@@ -2,9 +2,9 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North with Tate McRae.
+> The hottest tracks in the North with Zach Bryan.
 
-1,059 songs - 2 day 8 hr 5 min
+1,061 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-09-18 |  |
 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 | 2026-02-20 | 2026-09-26 |
 | [Be Her](https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:37 | 2026-04-24 | 2026-05-02 |
-| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-26 |  |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-26 | 2026-11-07 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-11-29 | 2025-02-15 |
 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 | 2026-07-24 |  |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-01-14 | 2022-02-26 |
@@ -202,6 +202,7 @@
 | [Cold \(feat\. Post Malone\)](https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 3:08 | 2025-11-21 | 2026-01-17 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-12-31 | 2022-04-29 |
 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-12 | 2026-06-27 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-11-06 |  |
 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-10 | 2026-02-07 |
 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2024-04-19 | 2024-09-14 |
 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-08-25 | 2024-04-19 |
@@ -402,6 +403,7 @@
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-22 | 2025-03-29 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 | 2023-09-02 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-20 | 2023-06-02 |
+| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-11-06 |  |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-15 | 2023-09-23 |
 | [Hey Now \(Iko Iko\)](https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb), [Altur Santos](https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR) | [Hey Now \(Iko Iko\)](https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u) | 2:49 | 2021-12-31 | 2022-02-05 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-01-12 | 2024-07-13 |
@@ -669,7 +671,7 @@
 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 | 2022-07-08 | 2022-09-03 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-15 | 2025-10-11 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-11-29 | 2025-04-26 |
-| [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-08 |  |
+| [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-08 | 2026-11-07 |
 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 | 2025-11-21 | 2025-12-20 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-25 | 2024-11-09 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-21 | 2026-04-25 |

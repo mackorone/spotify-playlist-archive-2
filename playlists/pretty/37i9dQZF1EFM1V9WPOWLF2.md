@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 115 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 115 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 81 | [SER ELLA](https://open.spotify.com/track/05LrCe514iiTxv4gmBNghX) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe) | 2:41 |
 | 82 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
 | 83 | [CERO](https://open.spotify.com/track/4ycIupIRDw18lls4NpCCAi) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [CERO](https://open.spotify.com/album/2FjnyINbcWE5j2mNi17wRE) | 2:38 |
-| 84 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 |
-| 85 | [MVP](https://open.spotify.com/track/46XvJolGAgexVH7sgZ0GuT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [2026 World Baseball Classic](https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB) | 1:54 |
+| 84 | [MVP](https://open.spotify.com/track/46XvJolGAgexVH7sgZ0GuT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [2026 World Baseball Classic](https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB) | 1:54 |
+| 85 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 |
 | 86 | [Gramos ft\. Kris Floyd, Hozwal](https://open.spotify.com/track/40XfhnuIEzqvuluAEAL9xa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:46 |
 | 87 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 |
 | 88 | [Bendito](https://open.spotify.com/track/69OfF5CtfG0KX1VjEzQMdA) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Bendito](https://open.spotify.com/album/42WSpAwE63w2ahuZvpD4mo) | 2:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 95 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
 | 96 | [Crezco](https://open.spotify.com/track/78Q755u7op1rvSrjbRmSd2) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:36 |
 | 97 | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/track/7Ewl0FFRxqJ673RQZ4wCpw) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe) | 2:30 |
-| 98 | [VIP](https://open.spotify.com/track/6yJhhzcle8QNb8LujNjSV6) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe) | 1:46 |
-| 99 | [ODIO A TU NOVIA](https://open.spotify.com/track/2Tzac8w3E1acFOvssdApmc) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:36 |
+| 98 | [ODIO A TU NOVIA](https://open.spotify.com/track/2Tzac8w3E1acFOvssdApmc) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:36 |
+| 99 | [VIP](https://open.spotify.com/track/6yJhhzcle8QNb8LujNjSV6) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe) | 1:46 |
 | 100 | [¿CUANDO VIENES?](https://open.spotify.com/track/6MpRdshIVU8iOqXBpTzeUK) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe) | 2:32 |
 | 101 | [Voy Por El Millón](https://open.spotify.com/track/2x9CeKPYxdb0pXxWmjuvHA) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:41 |
 | 102 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 114 | [LIKE A CHAMPION](https://open.spotify.com/track/73mViHQE6N08rInBWkyaiw) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:12 |
 | 115 | [UWU](https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [UWU](https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx) | 2:22 |
 
-Snapshot ID: `Acg5IAAAAAAKoC2ETamZG5DtgDpsGrUP`
+Snapshot ID: `Acg+mAAAAAC2D63mfTNNU/lyhB0qE2+n`

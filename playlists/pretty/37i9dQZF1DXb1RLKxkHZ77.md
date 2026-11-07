@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,876 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,841 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 43 | [Healing Dulu](https://open.spotify.com/track/6q1ZElQYi03xv4OqVn9uIY) | [Kaer Azami](https://open.spotify.com/artist/4Bu1m3sghjg9h15BfnvDuy) | [Healing Dulu](https://open.spotify.com/album/5ZDLCfzCBjPanmldJG6Sju) | 3:28 |
 | 44 | [Kisah Yang Hampir Sempurna](https://open.spotify.com/track/147guKO3zoouNs4DLulvrM) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Kisah Yang Hampir Sempurna](https://open.spotify.com/album/7gJSKVaGwHeRdyZeo9CHrd) | 3:09 |
 | 45 | [Cinta Di Akhir Garisan 2.0](https://open.spotify.com/track/0SkJfA1dVT8u3gdCQylgd4) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD), [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cinta Di Akhir Garisan 2.0](https://open.spotify.com/album/0ciHG0NIgRowK8lxM7wM7K) | 4:55 |
-| 46 | [Jiwa Yang Mengalah](https://open.spotify.com/track/5pqh7t3u55buLeYgE9eXgz) | [Bellestrelle](https://open.spotify.com/artist/0PI1yTew40WSJ35CpEDGxY), [Harry Azrul Rupin](https://open.spotify.com/artist/4Ei8OJJvzXmHNkjrMQMBnx) | [Jiwa Yang Mengalah](https://open.spotify.com/album/1qqs1JVX9tUPRN1Qrnklt5) | 2:14 |
+| 46 | [Jiwa Yang Mengalah](https://open.spotify.com/track/5pqh7t3u55buLeYgE9eXgz) | [Bellestrelle](https://open.spotify.com/artist/0PI1yTew40WSJ35CpEDGxY), [Harry Azrul](https://open.spotify.com/artist/2N3qDpPJ5gdm2eC731yCk5) | [Jiwa Yang Mengalah](https://open.spotify.com/album/1qqs1JVX9tUPRN1Qrnklt5) | 2:14 |
 | 47 | [Malam\-Malam](https://open.spotify.com/track/19I9vLd5zH7qwk69FGEp7o) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Malam\-Malam](https://open.spotify.com/album/0p6yDqL3srZiEsJNT5pUVT) | 3:57 |
 | 48 | [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 |
 | 49 | [Romancinta](https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Romancinta](https://open.spotify.com/album/1dqV2O8kV4flijwKc2s9e0) | 4:04 |

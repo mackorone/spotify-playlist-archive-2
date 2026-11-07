@@ -17001,24 +17001,6 @@
     },
     {
       "album": {
-        "name": "Io non sono lei",
-        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
-      },
-      "artists": [
-        {
-          "name": "Emili Kasa",
-          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165029,
-      "name": "Io non sono lei",
-      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
-    },
-    {
-      "album": {
         "name": "IO VOLEVO",
         "url": "https://open.spotify.com/album/7gXxccDicstPL11QGub92e"
       },
@@ -24588,6 +24570,24 @@
       "duration_ms": 195624,
       "name": "Non So Se Dirtelo",
       "url": "https://open.spotify.com/track/6BnYmi1rpbHuYeJIuJr1A5"
+    },
+    {
+      "album": {
+        "name": "Non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165029,
+      "name": "Non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23571,
+  "num_followers": 23572,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "treat u right",
-        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177565,
-      "name": "treat u right",
-      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-10-19 15:51:33",

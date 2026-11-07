@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Las Que Me Gustan a M\u00ed Vol. 2",
+        "url": "https://open.spotify.com/album/1bh5ugHMWzL5mmIrgGb7aV"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199163,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/7yLjXB9oVjrD9yq08J3NaC"
+    },
+    {
+      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/4sfr7ausWUynywGdlT1C6p"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 182413,
       "name": "ASUNTOS PENDIENTES",
       "url": "https://open.spotify.com/track/1H1A2GBAln4ThLSV2HcW5u"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138166,
       "name": "Como Te Va Mi Amor",
       "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147000,
       "name": "COZUMEL",
       "url": "https://open.spotify.com/track/5d3ahxrqTUwsmPH08KlLPR"
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177750,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
@@ -5801,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "El error de mi vida",
+        "url": "https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "El error de mi vida",
+      "url": "https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq"
+    },
+    {
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
       },
@@ -6516,7 +6552,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219733,
       "name": "El Peor De Mis Fracasos",
       "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
@@ -7920,7 +7956,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198180,
       "name": "Eso Es Lo Que Paso",
       "url": "https://open.spotify.com/track/6dJopyTkyEK8O6Bm8zzynb"
@@ -8086,7 +8122,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 172202,
       "name": "Etapa Migajera",
       "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
@@ -8133,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "Ex de Verdad",
+        "url": "https://open.spotify.com/album/4hD0pkPksY2fzoBCWcQrG3"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187722,
+      "name": "Ex de Verdad",
+      "url": "https://open.spotify.com/track/1lumdrQ8SWVfnHwrWLaSHw"
+    },
+    {
+      "album": {
         "name": "Expectante",
         "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
@@ -8166,7 +8220,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 202860,
       "name": "Explicaci\u00f3n real",
       "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
@@ -8188,6 +8242,24 @@
       "duration_ms": 169386,
       "name": "Faltaba Fe",
       "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "album": {
+        "name": "FAMA",
+        "url": "https://open.spotify.com/album/1KQ5wnsxehARC9rHIZOm0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166230,
+      "name": "FAMA",
+      "url": "https://open.spotify.com/track/14dK1FZ9qjecW6ZLSlS0TZ"
     },
     {
       "album": {
@@ -9203,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Corridos Finos",
+        "url": "https://open.spotify.com/album/1QeHQEgRN7m6BAiN2Psbjn"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201588,
+      "name": "Hombre Fino",
+      "url": "https://open.spotify.com/track/1CuiV3l0UfTTRRViPwAm3r"
+    },
+    {
+      "album": {
         "name": "Hombre Libre",
         "url": "https://open.spotify.com/album/5HhhlArbJJSHMOfEsdE52J"
       },
@@ -9612,7 +9702,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 144874,
       "name": "KBRON",
       "url": "https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK"
@@ -9942,7 +10032,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157500,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
@@ -10650,7 +10740,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
@@ -13117,6 +13207,24 @@
     },
     {
       "album": {
+        "name": "Mi Versi\u00f3n",
+        "url": "https://open.spotify.com/album/4Ag9O7l4v6Z50FtfoptUgo"
+      },
+      "artists": [
+        {
+          "name": "Grupo otro estilo",
+          "url": "https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Mi Versi\u00f3n",
+      "url": "https://open.spotify.com/track/5ktty7oDBrF6a6lZmeSmFv"
+    },
+    {
+      "album": {
         "name": "Mi Yo de Antes",
         "url": "https://open.spotify.com/album/1I5XmzOXBxwveYrj5CCRqJ"
       },
@@ -13386,6 +13494,28 @@
       "duration_ms": 170384,
       "name": "Mu\u00e9velo, Bailalo",
       "url": "https://open.spotify.com/track/1HFMgE5zOAwESADG2fzalR"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1equita",
+        "url": "https://open.spotify.com/album/2A9fNiRubhkZAHbbcXMXnz"
+      },
+      "artists": [
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/4udQRTCT3vuWMcmaj4d0kp"
     },
     {
       "album": {
@@ -15252,6 +15382,24 @@
       "duration_ms": 202385,
       "name": "Paz en Este Amor",
       "url": "https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd"
+    },
+    {
+      "album": {
+        "name": "PELIBLACK",
+        "url": "https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "PELIBLACK",
+      "url": "https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS"
     },
     {
       "album": {
@@ -19060,7 +19208,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 161824,
       "name": "TMS",
       "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
@@ -19162,6 +19310,28 @@
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
+    },
+    {
+      "album": {
+        "name": "Todo A Su Tiempo",
+        "url": "https://open.spotify.com/album/0paxAZv2h2ap8Kv61MCJrL"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Todo A Su Tiempo",
+      "url": "https://open.spotify.com/track/0g94TT5XsEYmvgw1Eb7dvf"
     },
     {
       "album": {
@@ -20329,6 +20499,24 @@
     },
     {
       "album": {
+        "name": "Vida De Vago / Amor Sin Medida / El Rancho Donde Nac\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/1cpnxdLagawUFnz6C3HE2l"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420385,
+      "name": "Vida De Vago / Amor Sin Medida / El Rancho Donde Nac\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/2qnqXhsozhZVHj8FA7nNOy"
+    },
+    {
+      "album": {
         "name": "Vida Truncada",
         "url": "https://open.spotify.com/album/3ArAh3KRYaRsvuiJ5hvOWH"
       },
@@ -20517,6 +20705,24 @@
     },
     {
       "album": {
+        "name": "Winnona (En Vivo)",
+        "url": "https://open.spotify.com/album/0XM0BJd8VumwB5PqK9q9nb"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178131,
+      "name": "Winnona - En Vivo",
+      "url": "https://open.spotify.com/track/3ueVAvDGVTXD3AVoFa0cKM"
+    },
+    {
+      "album": {
         "name": "X Perro",
         "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
       },
@@ -20644,6 +20850,28 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "album": {
+        "name": "Y Se Logro",
+        "url": "https://open.spotify.com/album/3SFVEshPdEFhSQOb1Wd84t"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Y Se Logro",
+      "url": "https://open.spotify.com/track/2c6kUOPQfCjVWcC9FctYNF"
     },
     {
       "album": {

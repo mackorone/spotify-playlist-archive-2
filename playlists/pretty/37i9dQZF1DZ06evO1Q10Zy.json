@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 39216,
+  "num_followers": 39217,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADUHPNpXxLUfziEHaJ/B9IJ",
+  "snapshot_id": "aup1gAAAAAD+Flh+VFDL3v/eLITaskah",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 276560,
-      "name": "The Loneliness",
-      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
+      "duration_ms": 241493,
+      "name": "It's No Crime",
+      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 241493,
-      "name": "It's No Crime",
-      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
+      "duration_ms": 276560,
+      "name": "The Loneliness",
+      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 79465,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 217433,
       "name": "Shoulda (feat. Babyface)",
       "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188761,
+      "name": "The Recipe (with Muni Long)",
+      "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Stoppin' Us",
         "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 179700,
       "name": "No Stoppin' Us",
       "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188761,
-      "name": "The Recipe (with Muni Long)",
-      "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-186 songs - 12 hr 46 min
+187 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [American Interior](https://open.spotify.com/track/6EOe3uRQUF6o4CzNwZmUV2) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [American Interior](https://open.spotify.com/album/6k0bHeyykC3CvfGhVknU3S) | 3:15 | 2024-11-26 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2025-02-01 |  |
 | [Atomik Lust](https://open.spotify.com/track/5x8DmYi4YYjgXZb6Ngerrl) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Love Kraft](https://open.spotify.com/album/7tzkUmG3eRbwrQOZFVgmkZ) | 4:53 | 2025-10-03 |  |
+| [Atwater](https://open.spotify.com/track/0qvCv4Onyf91TEjMbu9NVZ) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Atwater](https://open.spotify.com/album/3a1d0Dq8PoRaTDD2PZEQVj) | 4:27 | 2026-11-06 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2022-10-08 |  |
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2025-05-03 |  |
 | [Between Two Points](https://open.spotify.com/track/1xQ4BNf4nXPWtBFdJPknYJ) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Romany Gilmour](https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD) | [Luck and Strange](https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn) | 5:46 | 2026-10-10 |  |

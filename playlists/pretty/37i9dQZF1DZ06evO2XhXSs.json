@@ -1,13 +1,29 @@
 {
   "description": "This is Hannah Jadagu. The essential tracks, all in one playlist.",
-  "num_followers": 448,
+  "num_followers": 450,
   "original_name": "This Is Hannah Jadagu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACmY+CFq9BAAiR52kny5IPM",
+  "snapshot_id": "auvHAAAAAABIeqKYsFZ4bDw3ZItFCkLW",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Going On?",
-        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 207510,
-      "name": "What Is Going On?",
-      "url": "https://open.spotify.com/track/6Q6hbVnOGeJP0CtBH1mPnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Describe",
         "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
       },
@@ -55,6 +55,22 @@
       "duration_ms": 164956,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7lsaIknmHdm6MGA8AhJZcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Is Going On?",
+        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 207510,
+      "name": "What Is Going On?",
+      "url": "https://open.spotify.com/track/6Q6hbVnOGeJP0CtBH1mPnj"
     },
     {
       "added_at": null,
@@ -91,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Describe",
+        "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 232574,
+      "name": "Gimme Time",
+      "url": "https://open.spotify.com/track/24QuhzWyEqJHoGg42Qk59K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Is Going On?",
         "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
       },
@@ -107,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Describe",
         "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
       },
@@ -116,9 +164,25 @@
           "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 232574,
-      "name": "Gimme Time",
-      "url": "https://open.spotify.com/track/24QuhzWyEqJHoGg42Qk59K"
+      "duration_ms": 191519,
+      "name": "Doing Now",
+      "url": "https://open.spotify.com/track/6aIlwBpWSRmUkvdbRs78wU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Is Going On?",
+        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 216367,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0lTQrcDZtbH0GbsUN3Nvl0"
     },
     {
       "added_at": null,
@@ -148,89 +212,9 @@
           "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Is Going On?",
-        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 216367,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/0lTQrcDZtbH0GbsUN3Nvl0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Describe",
-        "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 191519,
-      "name": "Doing Now",
-      "url": "https://open.spotify.com/track/6aIlwBpWSRmUkvdbRs78wU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unending",
-        "url": "https://open.spotify.com/album/3OqBICekeD89OwRyWZmiC6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "Unending",
-      "url": "https://open.spotify.com/track/2zSNMDuYTuFWvbTUkdZs6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Admit It",
-      "url": "https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Is Going On?",
-        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 224647,
-      "name": "Bleep Bloop",
-      "url": "https://open.spotify.com/track/0R8bN6f8C1lYzKHXZXMzdR"
+      "duration_ms": 182719,
+      "name": "What You Did",
+      "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
     },
     {
       "added_at": null,
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+        "name": "Unending",
+        "url": "https://open.spotify.com/album/3OqBICekeD89OwRyWZmiC6"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 182719,
-      "name": "What You Did",
-      "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
+      "duration_ms": 233314,
+      "name": "Unending",
+      "url": "https://open.spotify.com/track/2zSNMDuYTuFWvbTUkdZs6r"
     },
     {
       "added_at": null,
@@ -276,9 +260,25 @@
           "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 138935,
-      "name": "My Bones",
-      "url": "https://open.spotify.com/track/10PZkDsZgIziek73hpqrsT"
+      "duration_ms": 224647,
+      "name": "Bleep Bloop",
+      "url": "https://open.spotify.com/track/0R8bN6f8C1lYzKHXZXMzdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
       "duration_ms": 201432,
       "name": "More",
       "url": "https://open.spotify.com/track/2E6NaE4gzmWhdMbmjlLvQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Is Going On?",
+        "url": "https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 138935,
+      "name": "My Bones",
+      "url": "https://open.spotify.com/track/10PZkDsZgIziek73hpqrsT"
     },
     {
       "added_at": null,

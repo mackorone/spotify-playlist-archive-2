@@ -18755,6 +18755,24 @@
     },
     {
       "album": {
+        "name": "Pyhi\u00e4 voimia",
+        "url": "https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH"
+      },
+      "artists": [
+        {
+          "name": "Rosi",
+          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Taistele, pakene",
+      "url": "https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX"
+    },
+    {
+      "album": {
         "name": "Taivas",
         "url": "https://open.spotify.com/album/1vTab6HyRUGMtMuGHw3GCo"
       },
@@ -19838,24 +19856,6 @@
       "duration_ms": 121379,
       "name": "toxic",
       "url": "https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i"
-    },
-    {
-      "album": {
-        "name": "Pyhi\u00e4 voimia",
-        "url": "https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH"
-      },
-      "artists": [
-        {
-          "name": "Rosi",
-          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Isac Elliot & Mikael Gabriel, Sonia & Sointu Borg, Diogi..\. ja moni muu  🎶
 
-13,455 songs - 29 day 16 hr 10 min
+13,456 songs - 29 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,6 +1103,7 @@
 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 | 2025-11-27 | 2025-12-05 |
 | [Best Friend](https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Best Friend](https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I) | 4:02 | 2026-08-13 | 2026-08-21 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-13 | 2025-02-21 |
+| [Best Life](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 3:03 | 2026-11-05 |  |
 | [Best Match Version \- Consequence \- Raft of Medusa](https://open.spotify.com/track/0cGAB9zDq17jTKHnMbZp31) | [Giant Robot](https://open.spotify.com/artist/4uN8Fwvt71q7wDLeWmWtR9) | [Raft of Medusa](https://open.spotify.com/album/7aQlgaEvhi6mDzumgHluft) | 11:57 | 2025-01-30 | 2025-02-07 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-30 | 2025-02-07 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-02 | 2024-05-10 |
@@ -10373,6 +10374,7 @@
 | [Someone Like You](https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Someone Like You](https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4) | 5:27 | 2026-10-08 | 2026-10-16 |
 | [Someone New](https://open.spotify.com/track/5pyo1cM0fR2EDJwHLkdOSh) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Someone New](https://open.spotify.com/album/7dWmQYs2iC5U2UOF0EI5zk) | 2:35 | 2025-04-17 | 2025-04-25 |
 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 | 2024-08-15 | 2024-08-23 |
+| [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 | 2026-11-05 |  |
 | [SOMEONE TO YOU](https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEONE TO YOU](https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be) | 2:59 | 2024-09-26 | 2024-10-04 |
 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 | 2024-09-19 | 2024-09-27 |
 | [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-16 | 2025-01-24 |
@@ -11056,6 +11058,7 @@
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 | 2024-09-27 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2024-10-18 |
+| [Taistele, pakene](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 2:50 | 2026-11-05 |  |
 | [TAIVAAL](https://open.spotify.com/track/2TekkEVOOs94SB0dIIb04S) | [Big T](https://open.spotify.com/artist/195WnabnBOicFm8tFNlIUx), [JOKKE](https://open.spotify.com/artist/7z6sUUaeOVbgYeztqdj6Ul), [Päälikkö](https://open.spotify.com/artist/6f43XdGacLra9eSii2r88w) | [RANKKULA TAPES Vol\. 1](https://open.spotify.com/album/3ULU6UgdztscEl9pI03gy9) | 3:05 | 2026-07-02 | 2026-07-10 |
 | [Taivaanpaloja](https://open.spotify.com/track/5nErauhcLh4HRTxOCHWWDQ) | [Tommi Kalenius](https://open.spotify.com/artist/1qjLtuPfpeVmDE54cuHKZJ) | [Taivaanpaloja](https://open.spotify.com/album/4HZMS3nvZ7TzLP8EdQaBZH) | 3:34 | 2025-10-16 | 2025-10-24 |
 | [Taivaaseen](https://open.spotify.com/track/1f4eGu6u6EvSWq5QDHey0j) | [Threelaxs](https://open.spotify.com/artist/47L49YxUl4BLPMsudMYI3Z), [Kekkonen](https://open.spotify.com/artist/5tJwZkGyiMumm81fN1aM0p) | [Taivaaseen](https://open.spotify.com/album/1cx25Wnqsvi2zSnpZxndFw) | 3:02 | 2024-12-19 | 2025-01-03 |
@@ -11820,8 +11823,6 @@
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-10-31 |
 | [Toyboy](https://open.spotify.com/track/5PKv65XyVpMPwj6mDJNVdE) | [Ylävire](https://open.spotify.com/artist/7xCgb12CxaseKxdiQcm6BJ) | [Toyboy](https://open.spotify.com/album/51QGW3h5KDZ4whu2d85d9h) | 2:38 | 2026-06-11 | 2026-06-19 |
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-27 | 2025-12-05 |
-| [Track 2](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 0:00 | 2026-11-05 |  |
-| [Track 8](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 0:00 | 2026-11-05 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-09 | 2026-04-17 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |

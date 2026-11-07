@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 167040,
       "name": "Acelerao",
       "url": "https://open.spotify.com/track/3S8BgiGYOln0SjvnmlbghR"
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+    },
+    {
+      "album": {
         "name": "BOOM BOOM",
         "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
       },
@@ -1624,6 +1642,24 @@
       "duration_ms": 203463,
       "name": "Carita Linda",
       "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
+    },
+    {
+      "album": {
+        "name": "carita linda ;)",
+        "url": "https://open.spotify.com/album/3al9PBD5XqE5XWYPfySKdx"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210281,
+      "name": "carita linda ;)",
+      "url": "https://open.spotify.com/track/64N5BvavEYBpPoUXglzTQL"
     },
     {
       "album": {
@@ -3933,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Eleg\u00eda (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3YHeYJu1r0tM5G6be3fwWY"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204024,
+      "name": "Hablemos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0RZbe3BSnFBII3mnILSQSw"
+    },
+    {
+      "album": {
         "name": "What Happened To The Heart? (Deluxe)",
         "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
       },
@@ -4496,7 +4550,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181850,
       "name": "INSTANTE",
       "url": "https://open.spotify.com/track/0AYGU7rFHRGuoLTVig7zGD"
@@ -5964,7 +6018,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183477,
       "name": "Mi d\u00eda a d\u00eda",
       "url": "https://open.spotify.com/track/1g2AN9McE2LiIk70L8bQnE"
@@ -9305,6 +9359,28 @@
     },
     {
       "album": {
+        "name": "Tengo Ganas 2.0",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159419,
+      "name": "Tengo Ganas 2.0",
+      "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
+    },
+    {
+      "album": {
         "name": "Tengo Un Plan - Remix",
         "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
       },
@@ -9612,6 +9688,28 @@
       "duration_ms": 140564,
       "name": "TOCA MADERA",
       "url": "https://open.spotify.com/track/5rWvIlXByapQ0pLx8IpWLY"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "album": {
@@ -10256,7 +10354,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 253133,
       "name": "V\u00eda L\u00e1ctea",
       "url": "https://open.spotify.com/track/4NZS0LkJUyLWNUoLSKU7oi"
@@ -10310,7 +10408,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"

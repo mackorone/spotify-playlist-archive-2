@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/4Hx5axN7HxCKRxSKYrAeaQ"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280512,
+      "name": "Aged And Mellow",
+      "url": "https://open.spotify.com/track/02cCntRCrtgojL45e9oNnu"
+    },
+    {
+      "album": {
         "name": "All About Chris",
         "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
@@ -710,7 +728,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 336365,
       "name": "Dance Me to the End of Love",
       "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"

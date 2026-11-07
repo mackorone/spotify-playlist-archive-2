@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,102 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,120 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 16 | [Voorbij](https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Zien](https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf) | 4:06 |
 | 17 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
 | 18 | [Stilte In De Storm](https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:16 |
-| 19 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van..](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
-| 20 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
+| 19 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
+| 20 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van..](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
 | 21 | [Binnen](https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Luid En Duidelijk](https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1) | 4:34 |
 | 22 | [De Kapitein Deel II](https://open.spotify.com/track/25v3woD9LIoL8wJZDu7HId) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:01 |
 | 23 | [Laura](https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [JanSmit.com](https://open.spotify.com/album/71v1iplssftNV8DOYZwJuw) | 3:08 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 31 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
 | 32 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
 | 33 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
-| 34 | [Pak Maar M'n Hand](https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 3:31 |
-| 35 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
+| 34 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
+| 35 | [Pak Maar M'n Hand](https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 3:31 |
 | 36 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
 | 37 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
 | 38 | [Omarm](https://open.spotify.com/track/0sC7iL2mW9W2q5czQcm2XH) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:16 |

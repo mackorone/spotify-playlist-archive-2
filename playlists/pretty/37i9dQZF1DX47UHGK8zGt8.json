@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 621223,
+  "num_followers": 621281,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,22 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Taiobeiras (folha grande)",
-        "url": "https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC"
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Taiobeiras (folha grande)",
-      "url": "https://open.spotify.com/track/2oAU8wm9DjY0hAXD2gH2lY"
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -295,22 +299,18 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+        "name": "Taiobeiras (folha grande)",
+        "url": "https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+      "duration_ms": 211200,
+      "name": "Taiobeiras (folha grande)",
+      "url": "https://open.spotify.com/track/2oAU8wm9DjY0hAXD2gH2lY"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        }
-      ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        }
+      ],
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Anitta",
-        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Zen",
-      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Le\u00e3o",
         "url": "https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 207321,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 198075,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Seu e S\u00f3",
-        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 153148,
-      "name": "Seu e S\u00f3",
-      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+      "duration_ms": 198075,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -755,6 +739,22 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
         "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
       },
@@ -1243,6 +1243,38 @@
       "duration_ms": 210560,
       "name": "Benditas",
       "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Cada L\u00e1grima",
+        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Cada L\u00e1grima",
+      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1271,38 +1303,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
-        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 189276,
-      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
-      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
-        "name": "Cada L\u00e1grima",
-        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
-      },
-      "artists": [
-        {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Cada L\u00e1grima",
-      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        }
-      ],
-      "duration_ms": 198703,
-      "name": "soul brasileiro",
-      "url": "https://open.spotify.com/track/0iWJQJ8xkCNqVyCWOG6hRM"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "soul brasileiro",
+      "url": "https://open.spotify.com/track/0iWJQJ8xkCNqVyCWOG6hRM"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
         "name": "When The Wind Blows (Private Sessions)",
         "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "A Estrela",
-      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 224184,
-      "name": "hoje eu vou me dar bem",
-      "url": "https://open.spotify.com/track/0yzpUJbXuG7vNd20TzGHlR"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 259320,
       "name": "Lenda",
       "url": "https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 224184,
+      "name": "hoje eu vou me dar bem",
+      "url": "https://open.spotify.com/track/0yzpUJbXuG7vNd20TzGHlR"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
+        "name": "Mahmundi",
+        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 295771,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
         "name": "Rosa Maria",
         "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
-        "name": "Mahmundi",
-        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 295771,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
     },
     {
       "added_at": "2026-11-06 03:00:20",

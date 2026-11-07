@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1446,
+  "num_followers": 1453,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHTY02Ixl9/SNRqkWmGP3NIkLqzP4x",
+  "snapshot_id": "AAAHUO8wf3m1kA03ZBMYyEirxhfWr2tw",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -1091,6 +1091,54 @@
       "duration_ms": 194361,
       "name": "FRESCO & SOLEADO",
       "url": "https://open.spotify.com/track/5o5zcdtReTum1l1qjWeS1S"
+    },
+    {
+      "added_at": "2026-11-06 16:54:31",
+      "album": {
+        "name": "PCH",
+        "url": "https://open.spotify.com/album/4OozgpiLIOpwwJQQMQRivm"
+      },
+      "artists": [
+        {
+          "name": "Chaotic Hearts",
+          "url": "https://open.spotify.com/artist/0AnkSBsvP4dDvfXrqE6eLq"
+        }
+      ],
+      "duration_ms": 298500,
+      "name": "PCH",
+      "url": "https://open.spotify.com/track/7fwBbBWE9vwiGzEmIHw30L"
+    },
+    {
+      "added_at": "2026-11-06 16:56:40",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/5LJqq53VTPgWQmPA2X1osP"
+      },
+      "artists": [
+        {
+          "name": "McNum",
+          "url": "https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/4wvVNCXf1kguUIw3HhJmxb"
+    },
+    {
+      "added_at": "2026-11-06 16:58:58",
+      "album": {
+        "name": "M30",
+        "url": "https://open.spotify.com/album/76K1pVbMSisFEdPiIcoIvO"
+      },
+      "artists": [
+        {
+          "name": "M30",
+          "url": "https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz"
+        }
+      ],
+      "duration_ms": 229470,
+      "name": "Skoold",
+      "url": "https://open.spotify.com/track/6aSYqXbgGESAMrx5farYZp"
     }
   ],
   "unique_name": "Unsigned Rock",

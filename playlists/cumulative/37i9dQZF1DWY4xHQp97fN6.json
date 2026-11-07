@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Future",
+  "description": "Mood: Turnt Cover: Gunna",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 207724,
       "name": "BOAT",
       "url": "https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i"
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -7223,6 +7223,28 @@
     },
     {
       "album": {
+        "name": "EXPOSED. ft Quavo.",
+        "url": "https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "EXPOSED. ft Quavo.",
+      "url": "https://open.spotify.com/track/58Q3J5Pq4u2rsa9MP9wrCo"
+    },
+    {
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
         "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
@@ -7274,7 +7296,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 128566,
       "name": "F You",
       "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
@@ -8444,7 +8466,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210173,
       "name": "Fried (She a Vibe)",
       "url": "https://open.spotify.com/track/28xOPIPw0joNPwYd0asIT5"
@@ -8708,7 +8730,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
@@ -12115,6 +12137,28 @@
     },
     {
       "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -13440,7 +13484,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 165000,
       "name": "Lil Krazy",
       "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
@@ -14753,6 +14797,24 @@
     },
     {
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Mr. Do Something",
+      "url": "https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY"
+    },
+    {
+      "album": {
         "name": "Mr. President",
         "url": "https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba"
       },
@@ -15992,6 +16054,24 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/2bj93oOTQd7EZkbyA8DXyP"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129700,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/1h35GXVhetKtQU3JfntPpO"
     },
     {
       "album": {
@@ -19406,7 +19486,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 129722,
       "name": "ROCKIN",
       "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI"
@@ -23545,6 +23625,28 @@
     },
     {
       "album": {
+        "name": "TOO SOON (feat. Babyface)",
+        "url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ"
+    },
+    {
+      "album": {
         "name": "Toolie",
         "url": "https://open.spotify.com/album/3ikkmlZKMLbi0JCPzRysJN"
       },
@@ -26160,6 +26262,36 @@
       "duration_ms": 123000,
       "name": "Y FI DAT",
       "url": "https://open.spotify.com/track/7KctiosmWbWSGt9xUU3ObU"
+    },
+    {
+      "album": {
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
     },
     {
       "album": {

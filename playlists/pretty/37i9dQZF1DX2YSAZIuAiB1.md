@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,015 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,935 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 17 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
 | 18 | [Immer](https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Immer](https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9) | 2:39 |
 | 19 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
-| 20 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 20 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 21 | [Vidrado Em Você](https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Vidrado Em Você](https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe) | 2:14 |
 | 22 | [No Me Dejes Solo](https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/7BmWnXvx1CD6vtxtBd0czc) | 2:50 |
 | 23 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |

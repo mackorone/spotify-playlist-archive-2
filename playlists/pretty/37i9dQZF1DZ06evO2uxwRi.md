@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,892 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,899 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 26 | [At Least I'm Known For Something](https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:30 |
 | 27 | [Stay \(I Missed You\)](https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:42 |
 | 28 | [Cups](https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 1:50 |
-| 29 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
+| 29 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
 | 30 | [I Don't Wanna Know](https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:30 |
-| 31 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
+| 31 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
 | 32 | [Better Off Dead](https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:48 |
 | 33 | [The Promise](https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
 | 34 | [Good To Go](https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Good To Go](https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
 | 50 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
 
-Snapshot ID: `aukkAAAAAADgL85Lbhs3Bs/Ju91hDfza`
+Snapshot ID: `auvHAAAAAAClsPic0en9D71Ourtgs3HQ`

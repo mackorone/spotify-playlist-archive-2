@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,961 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,006 likes - 46 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,24 +15,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 5 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 6 | [2 soon](https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [2 soon](https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb) | 3:26 |
 | 7 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 |
-| 8 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 |
-| 9 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 |
+| 8 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 |
+| 9 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 |
 | 10 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 11 | [less of you](https://open.spotify.com/track/3IqcBL5yjJK3ri0TGaL3MC) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:26 |
-| 12 | [Bodies](https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:26 |
-| 13 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 |
+| 12 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 |
+| 13 | [Bodies](https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:26 |
 | 14 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 |
-| 15 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 |
-| 16 | [War](https://open.spotify.com/track/7GjOb7jRRrB3nrNqFeKzff) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:29 |
-| 17 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 |
+| 15 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 |
+| 16 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 |
+| 17 | [War](https://open.spotify.com/track/7GjOb7jRRrB3nrNqFeKzff) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:29 |
 | 18 | [Kiss Me Right](https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Bonus Edition\)](https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx) | 2:41 |
 | 19 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
-| 20 | [Like That](https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:00 |
-| 21 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
+| 20 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
+| 21 | [Like That](https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:00 |
 | 22 | [B.Y.S.](https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:45 |
 | 23 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
-| 24 | [Night](https://open.spotify.com/track/4xlkIVboOY2plOALp9bqD8) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 2:59 |
-| 25 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
+| 24 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
+| 25 | [Night](https://open.spotify.com/track/4xlkIVboOY2plOALp9bqD8) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 2:59 |
 | 26 | [summer](https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:45 |
 | 27 | [WESTSIDE](https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:04 |
 | 28 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 34 | [I Choose You](https://open.spotify.com/track/41EnM4giX9PJYZIBUCPmiI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:48 |
 | 35 | [the reaper](https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:18 |
 | 36 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
-| 37 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 |
-| 38 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
+| 37 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
+| 38 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 |
 | 39 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 | 40 | [atlas](https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:51 |
 | 41 | [onoffonoff](https://open.spotify.com/track/66Cvj3KAYjeJcDEVQRJSYn) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [onoffonoff](https://open.spotify.com/album/0GJmg6PCM2HKNv8CfdkNgX) | 3:10 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 45 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 |
 | 46 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
 
-Snapshot ID: `aukkAAAAAAAZHgXoYsbOVWhkScWcHoLw`
+Snapshot ID: `auvHAAAAAAAl/L5s5mQbObvk3Fym+t4Q`

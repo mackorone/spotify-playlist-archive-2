@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 205392,
+  "num_followers": 205436,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -47,38 +47,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8"
-      },
-      "artists": [
-        {
-          "name": "Stella Starlight Trio",
-          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Ebony and Ivory",
         "url": "https://open.spotify.com/album/1ztDVfurx3fc4Fcdqt9vqP"
       },
@@ -99,6 +67,38 @@
       "duration_ms": 219250,
       "name": "Ebony and Ivory",
       "url": "https://open.spotify.com/track/7zsv8AsEPknqs35q2cEK5J"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8"
+      },
+      "artists": [
+        {
+          "name": "Stella Starlight Trio",
+          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Song Like Ours",
+        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+      },
+      "artists": [
+        {
+          "name": "Jazzy D",
+          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+        }
+      ],
+      "duration_ms": 298549,
+      "name": "Song Like Ours",
+      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 190893,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Song Like Ours",
-        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
-      },
-      "artists": [
-        {
-          "name": "Jazzy D",
-          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
-        },
-        {
-          "name": "Angela Gooden",
-          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
-        }
-      ],
-      "duration_ms": 298549,
-      "name": "Song Like Ours",
-      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227645,
       "name": "Her House (Single Edit)",
       "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/1R8LZrM0bdCMQN8t6GjD78"
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK"
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/1R8LZrM0bdCMQN8t6GjD78"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg"
-      },
-      "artists": [
-        {
-          "name": "Wilson's Prom",
-          "url": "https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M"
-        },
-        {
-          "name": "Feelds",
-          "url": "https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W"
-        },
-        {
-          "name": "Merpire",
-          "url": "https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV"
-        }
-      ],
-      "duration_ms": 184835,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Snowflakes",
         "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
       },
@@ -1627,34 +1603,42 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
       },
       "artists": [
         {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
         }
       ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
     },
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Catwoman",
-        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg"
       },
       "artists": [
         {
-          "name": "Stephanie Domet",
-          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
+          "name": "Wilson's Prom",
+          "url": "https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M"
+        },
+        {
+          "name": "Feelds",
+          "url": "https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W"
+        },
+        {
+          "name": "Merpire",
+          "url": "https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV"
         }
       ],
-      "duration_ms": 211343,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
+      "duration_ms": 184835,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Catwoman",
+        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Domet",
+          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
       "artists": [
         {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
         }
       ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
     }
   ],
   "unique_name": "Jazz Pop",

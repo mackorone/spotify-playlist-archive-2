@@ -237973,6 +237973,24 @@
     },
     {
       "album": {
+        "name": "Wounds I've Made",
+        "url": "https://open.spotify.com/album/7mOLETfqFnra270N0Vzte0"
+      },
+      "artists": [
+        {
+          "name": "Burn Eternal",
+          "url": "https://open.spotify.com/artist/0H3ztvIwkQsfcwg6CqNsWF"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221192,
+      "name": "Wounds I've Made",
+      "url": "https://open.spotify.com/track/3QArCpwGziiqcEbZjDJFmU"
+    },
+    {
+      "album": {
         "name": "Wounds Never Healed",
         "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
       },

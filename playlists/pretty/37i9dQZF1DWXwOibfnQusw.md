@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grande Y Fuerte](https://open.spotify.com/track/4gGm3mnfUJvo3nj4wi2nVc) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:34 |
 | 2 | [Soldado Soy de Jesus \- Infantil](https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:00 |
-| 3 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
-| 4 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
+| 3 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
+| 4 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
 | 5 | [Los Talentos](https://open.spotify.com/track/0lRgkxtBOsFs8O5xo1AAK3) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [Los Talentos](https://open.spotify.com/album/2WdTBVLZeEFkhpRZAM1nXp) | 3:42 |
 | 6 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
 | 7 | [El Arca de Noé \- Infantil](https://open.spotify.com/track/7mhTn1WILa52WAk329YBQC) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:48 |

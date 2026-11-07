@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 29386,
+  "num_followers": 29389,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABkLOm+gCJBMzs38TcyQIVE",
+  "snapshot_id": "auvHAAAAAAAiSWbKnwmgL/cEqhztm20q",
   "tracks": [
     {
       "added_at": null,
@@ -43,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
+      "duration_ms": 182906,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt"
     },
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt"
+      "duration_ms": 164000,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 171906,
-      "name": "La Francis",
-      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 176533,
-      "name": "Ultimo Amor, Ultimo Due\u00f1o",
-      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+      "duration_ms": 171906,
+      "name": "La Francis",
+      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
     },
     {
       "added_at": null,
@@ -511,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+        "name": "Intrusso 100% Norte\u00f1o",
+        "url": "https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX"
       },
       "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 600050,
+      "name": "Popurr\u00ed Norte\u00f1o",
+      "url": "https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO"
     },
     {
       "added_at": null,
@@ -543,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intrusso 100% Norte\u00f1o",
-        "url": "https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX"
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
       "artists": [
-        {
-          "name": "Intrusso De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
-        },
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 600050,
-      "name": "Popurr\u00ed Norte\u00f1o",
-      "url": "https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 172293,
-      "name": "La Paga",
-      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
+      "duration_ms": 140826,
+      "name": "Mudo Por Tu Amor",
+      "url": "https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+        "name": "Las M\u00e1s Pedidas, Vol. 1",
+        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+      "duration_ms": 161625,
+      "name": "No Le Hace Que Le Aunque",
+      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
     },
     {
       "added_at": null,
@@ -652,15 +652,15 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Mudo Por Tu Amor",
-      "url": "https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1"
+      "duration_ms": 172293,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Las M\u00e1s Pedidas, Vol. 1",
-        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 161625,
-      "name": "No Le Hace Que Le Aunque",
-      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+      "duration_ms": 179373,
+      "name": "El Caim\u00e1n",
+      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
     },
     {
       "added_at": null,

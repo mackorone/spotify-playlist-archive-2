@@ -1,12 +1,12 @@
 {
   "description": "The best and latest rock and alternative. Cover:  Greta Van Fleet",
-  "num_followers": 9410,
+  "num_followers": 9409,
   "original_name": "New Rock Music",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAdfogCvD9yESs2ysVfOjzanCzvk/8c",
+  "snapshot_id": "AAAdgN7pkhY/JVcsm5ecsgB19xTtyh+y",
   "tracks": [
     {
       "added_at": "2026-10-30 12:38:35",
@@ -39,6 +39,22 @@
       "duration_ms": 220295,
       "name": "Kid",
       "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
+    },
+    {
+      "added_at": "2026-11-06 10:04:29",
+      "album": {
+        "name": "Handshake Thugs",
+        "url": "https://open.spotify.com/album/70RNMKbbN9LHtCiz3jyKzA"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 240239,
+      "name": "Handshake Thugs",
+      "url": "https://open.spotify.com/track/1uQjiH5ny1RHsIMSvhLm7T"
     },
     {
       "added_at": "2026-10-30 12:38:35",

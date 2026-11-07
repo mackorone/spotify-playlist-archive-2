@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,015 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,020 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

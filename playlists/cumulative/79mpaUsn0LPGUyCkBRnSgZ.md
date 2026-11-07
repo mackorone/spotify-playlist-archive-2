@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,264 songs - 3 day 9 hr 43 min
+1,265 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 | 2024-03-15 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
 | [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 | 2026-03-16 |  |
+| [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 | 2026-11-06 |  |
 | [Among a Hundred Faces](https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Dystopian](https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6) | 3:05 | 2026-09-11 |  |
 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 | 2026-07-18 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |

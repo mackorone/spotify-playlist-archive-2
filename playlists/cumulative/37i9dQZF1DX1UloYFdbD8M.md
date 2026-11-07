@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Eechuu
 
-572 songs - 1 day 11 hr 16 min
+573 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Mohabbat \- Love with Pride](https://open.spotify.com/track/5V5KX1hSWUxIvwR6Fa6Dwn) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Mohabbat \- Love with Pride](https://open.spotify.com/album/7yGFU0a91t5w56SPBMjLA2) | 3:46 | 2023-07-27 | 2024-02-15 |
 | [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 | 2025-07-31 | 2025-10-19 |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 | 2023-07-28 |
+| [Monsoon of Love](https://open.spotify.com/track/5gc6ZgreADS7vNnTrc3pw5) | [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [S.M.J.](https://open.spotify.com/artist/4wGDA3XCPyoDiU7hDnBYRs), [Sreehari K](https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx) | [Monsoon of Love](https://open.spotify.com/album/2zwge1vROhDd1IddlIxSBN) | 3:21 | 2026-11-06 |  |
 | [Moovanthi](https://open.spotify.com/track/3r88b4dis76sk8v0CkNA0J) | [Prasanth Mohan M P](https://open.spotify.com/artist/4iRnyI9etZoMtxWH3FUox3), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Kavithasreepanicker](https://open.spotify.com/artist/4oi7pU6JdAMCnxn63MW2Sv), [Shyam Mangalath](https://open.spotify.com/artist/1IDtDkumhPsQOeQxggeHo8) | [Moovanthi](https://open.spotify.com/album/5FHFajFKCOwcmygpPhye96) | 4:51 | 2026-07-27 |  |
 | [Moula Mere](https://open.spotify.com/track/4BosVT8DgK8TYcjpWjbgYs) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Ramees.km](https://open.spotify.com/artist/4YU2FQMxkTQ6aEHwkSV2Z7), [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy) | [Moula Mere](https://open.spotify.com/album/7vC74xe0DHiQeEk0lldKh8) | 4:12 | 2024-04-30 | 2024-11-05 |
 | [Mounam](https://open.spotify.com/track/7FwzgH11q5eScAHu29yyZ0) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Denna Ann Jacob](https://open.spotify.com/artist/1r76R0g2wnNCFtsUnyGa0r) | [Mounam](https://open.spotify.com/album/7cfUJevx9LomCq3gs866P7) | 3:13 | 2024-10-08 | 2025-05-31 |

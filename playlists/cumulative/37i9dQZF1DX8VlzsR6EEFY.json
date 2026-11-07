@@ -7331,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1ora",
+        "url": "https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh"
+    },
+    {
+      "album": {
         "name": "Si Tu Jalas Yo Jalo",
         "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
       },

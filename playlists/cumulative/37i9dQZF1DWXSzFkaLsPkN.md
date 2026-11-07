@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-376 songs - 20 hr 40 min
+377 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 | 2023-07-01 |
 | [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 | 2026-08-07 |  |
 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-14 |  |
+| [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 | 2026-11-06 |  |
 | [Aao Bhula Dein](https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Aao Bhula Dein](https://open.spotify.com/album/3d7Oe8nu0J8yNt77PJir7w) | 3:37 | 2024-11-20 | 2025-02-11 |
 | [Aarzu](https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB) | [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Madhurxo](https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2) | [Aarzu](https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs) | 3:07 | 2026-02-11 |  |
 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 | 2025-03-13 |  |
@@ -307,7 +308,7 @@
 | [Sajke](https://open.spotify.com/track/6TeFtj6dqAUVA1n6qbLuXh) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Sajke](https://open.spotify.com/album/1dUA1KKR4GJCundt3OzHQl) | 4:20 | 2024-09-27 | 2025-09-17 |
 | [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 | 2024-01-09 | 2024-02-06 |
 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 | 2025-01-31 |  |
-| [Sansein Kaha](https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj), [Zaroon](https://open.spotify.com/artist/18JGYRxX2ZTSo86VoifaPR) | [Sansein Kaha](https://open.spotify.com/album/6WtIheU1W6bMcepFKkMneK) | 3:18 | 2026-09-15 |  |
+| [Sansein Kaha](https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj), [Zaroon](https://open.spotify.com/artist/18JGYRxX2ZTSo86VoifaPR) | [Sansein Kaha](https://open.spotify.com/album/6WtIheU1W6bMcepFKkMneK) | 3:18 | 2026-09-15 | 2026-11-07 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-25 | 2026-07-03 |
 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 | 2025-09-16 |  |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2023-05-02 | 2023-09-26 |

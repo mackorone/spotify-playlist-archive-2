@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,888 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,886 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 |
 | 50 | [Good Boy \(feat\. BOJ and Ckay\)](https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [BOJ](https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Bad Boy Blaq Re\-Up](https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V) | 4:11 |
 
-Snapshot ID: `aukkAAAAAAAR9hTXb+zVUS4Kfp8wC13N`
+Snapshot ID: `auvHAAAAAABiIB7emRFMKQNJ2Nf30t1n`

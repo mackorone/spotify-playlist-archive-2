@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,373 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,367 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 31 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
 | 32 | [Temporal](https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Temporal](https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ) | 4:40 |
 | 33 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |
-| 34 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(Bolivia y Su Folklore\)](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
-| 35 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
+| 34 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
+| 35 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(Bolivia y Su Folklore\)](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 36 | [Presente Simple](https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Presente Simple](https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay) | 3:21 |
 | 37 | [Desventura](https://open.spotify.com/track/62JMeGryB8d3EHFUpFfQWQ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Desventura](https://open.spotify.com/album/1gNGhrPZGS6fYcUSR6I7Ku) | 4:17 |
 | 38 | [La Niña Blanca](https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [La Niña Blanca](https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s) | 3:55 |

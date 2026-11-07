@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,000 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,027 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 16 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
 | 17 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
 | 18 | [Sweet 'Lil Lies](https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF) | 5:17 |
-| 19 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
-| 20 | [Runaway Train](https://open.spotify.com/track/7eslw47vXY57xEdehPU8RO) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Letters from a Black Widow](https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14) | 4:15 |
+| 19 | [Runaway Train](https://open.spotify.com/track/7eslw47vXY57xEdehPU8RO) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Letters from a Black Widow](https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14) | 4:15 |
+| 20 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
 | 21 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
 | 22 | [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 |
 | 23 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 50 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
 | 51 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |
 | 52 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
-| 53 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 |
-| 54 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
+| 53 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
+| 54 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 |
 | 55 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
 | 56 | [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 |
 | 57 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |

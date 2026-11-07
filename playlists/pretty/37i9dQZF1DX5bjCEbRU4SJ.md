@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,012 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,027 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 54 | [This Must Be The Place](https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [This Must Be The Place](https://open.spotify.com/album/36GkOSZ11diC92mBGJBRrQ) | 3:32 |
 | 55 | [Coming Down](https://open.spotify.com/track/16bwzB6w9ev11KOZ1RNNKJ) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/6TEtRKzAhB3AQ5R0vnGTGz) | 6:30 |
 | 56 | [I Think of You](https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/4Aa53iJ3EuGEkrna4nhAHn) | 3:25 |
-| 57 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
-| 58 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
+| 57 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
+| 58 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 59 | [Giant of Illinois](https://open.spotify.com/track/5PKq3gMexDhqvHb3LsJDpK) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Things Are Really Great Here, Sort Of...](https://open.spotify.com/album/1nXNVxTKqOzvy7zYAmddR0) | 3:31 |
 | 60 | [Pale Blue Eyes](https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground](https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL) | 5:41 |
-| 61 | [Wild Side \(Oh the Places You'll Go\)](https://open.spotify.com/track/1mxXTUlRQQnjjFT9h0Dt0p) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 5:40 |
-| 62 | [This Old Dog](https://open.spotify.com/track/1hPZt6ih3ZEiU5Xv7iHGeF) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6x0MXL27N8nDhL0Xm4V73p) | 2:30 |
+| 61 | [This Old Dog](https://open.spotify.com/track/1hPZt6ih3ZEiU5Xv7iHGeF) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6x0MXL27N8nDhL0Xm4V73p) | 2:30 |
+| 62 | [Wild Side \(Oh the Places You'll Go\)](https://open.spotify.com/track/1mxXTUlRQQnjjFT9h0Dt0p) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 5:40 |
 | 63 | [Wave of Mutilation \(UK Surf\)](https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU) | 3:00 |
 | 64 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
 | 65 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |

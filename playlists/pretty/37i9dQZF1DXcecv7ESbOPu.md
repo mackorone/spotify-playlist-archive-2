@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Newkid och Nuqi med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,805 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,941 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 16 | [On And On](https://open.spotify.com/track/2vaDXEwnLHbnNtmf0o9NhS) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [On And On](https://open.spotify.com/album/7HYcKh7LOMwYQmFSsxma1Z) | 2:43 |
 | 17 | [Sky Burial](https://open.spotify.com/track/74lMprSEbZ1swwCOiTGUGm) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Aldehydes and Ketones / Sky Burial](https://open.spotify.com/album/4qFYTbgkL159dUVl5oxgZT) | 3:28 |
 | 18 | [Så lätt](https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Så lätt](https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g) | 3:08 |
-| 19 | [bloodstream](https://open.spotify.com/track/3euSjq80NLhMubWCmg63fE) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 2:57 |
+| 19 | [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 |
 | 20 | [Pollination](https://open.spotify.com/track/1G8XLeXdtscwDHX89pidGR) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Pollination](https://open.spotify.com/album/3FRZsbIP68BQqL3rCxuX5o) | 3:10 |
 | 21 | [Club Haram](https://open.spotify.com/track/59mjBXN0TVpWAL43PgU5Ek) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Club Haram](https://open.spotify.com/album/7pgj5XSq174hfiF5ZQXwsZ) | 2:41 |
 | 22 | [Inte Redo \(Feat\. Sleiken\)](https://open.spotify.com/track/3z9tPofXg7zmqZlTCjHl7H) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Inte Redo \(Feat\. Sleiken\)](https://open.spotify.com/album/6F7VKe0skJnjQVpLvRhItQ) | 2:42 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 51 | [Jord](https://open.spotify.com/track/38ogi1kJbPakzeZwELQv1D) | [Sofijah](https://open.spotify.com/artist/6fMbyqT4Iqi8hMs9w4tpPD) | [Jord](https://open.spotify.com/album/5ZPlwtK1wU5K5EEN7uWcLC) | 3:24 |
 | 52 | [Oops All Sixes](https://open.spotify.com/track/50IkSdPemCf6eo6crVrVaF) | [Per Hammar](https://open.spotify.com/artist/64ro37ZAxFkXIJ2pxOdqCX) | [Ontario EP](https://open.spotify.com/album/6Eoe8v0G6u6oTWqKqQ2s1r) | 7:23 |
 | 53 | [Kilowatt](https://open.spotify.com/track/5a6nX0L9raFnoGjAeH02dh) | [LLL](https://open.spotify.com/artist/5qB5HatomnEOF3CvF7yumY) | [Kilowatt / Respektrum](https://open.spotify.com/album/05jUxKq2N1DIu7Si1pwMNA) | 5:10 |
-| 54 | [Slip & Slide](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
+| 54 | [Slip & Slide \(feat\. Amira Eldine\)](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
 | 55 | [Same Fire](https://open.spotify.com/track/103Du0Hf6K2DcUDHov6IXX) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Same Fire](https://open.spotify.com/album/32l8c6lbXX3Z3YzwtVm6Xz) | 2:37 |
 | 56 | [Rest Don't Matter](https://open.spotify.com/track/5tLpP3TAbsAUfNv8okfcwx) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Rest Don't Matter](https://open.spotify.com/album/20aXnChAvz74i3Tdk4pFmf) | 3:21 |
 | 57 | [GO 2 WAR](https://open.spotify.com/track/4MOPyeRAt2S2VobQjA47f3) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A LITTLE VENGEANCE \(is more human than no vengeance at all\)](https://open.spotify.com/album/3finUPTcL6mUIReFK2TxA8) | 2:50 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Nån som oss?](https://open.spotify.com/track/5hA3rZvXjbD95G5zJQj6xH) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [Nån som oss?](https://open.spotify.com/album/2jIY1VPYbE77dT8RxCq0IY) | 2:09 |
 | 102 | [Laissez\-Moi](https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv) | [Emma Kok](https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL) | [Laissez\-Moi](https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah) | 3:05 |
 
-Snapshot ID: `AAAAAC0jIEFn7MxOvo+BIjVRm581407a`
+Snapshot ID: `AAAAAMKE4zpQOEv9A/BGGrSB+7XRiZDZ`

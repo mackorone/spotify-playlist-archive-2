@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Donovan Woods, Charlotte Cornfield",
+  "description": "A laid-back trip in the folk scene. Cover: Hayden",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219281,
       "name": "Anything Anything",
       "url": "https://open.spotify.com/track/5z0cWacpqhkgR0FfBEPqP9"
@@ -4541,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "Butter My Lover",
+        "url": "https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185735,
+      "name": "Butter My Lover",
+      "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
+    },
+    {
+      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/2OgFj8A4fnCtMkjBmFr2ze"
       },
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 200181,
       "name": "California Sober",
       "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158253,
       "name": "Casting Me Away From You",
       "url": "https://open.spotify.com/track/5rSKigOAKclUR3JzQgEb98"
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 251525,
       "name": "Compass",
       "url": "https://open.spotify.com/track/1cG638T4uymBifCbyqy8Qj"
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 156669,
       "name": "Coquihalla",
       "url": "https://open.spotify.com/track/5EdwMMjdUXyIe6K8oCJzrw"
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 143823,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3VneXYcEtw6ZsVgGSOi1Op"
@@ -7842,7 +7860,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210266,
       "name": "Don't Feel Right",
       "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
@@ -9634,6 +9652,24 @@
       "duration_ms": 133626,
       "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
       "url": "https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7"
+    },
+    {
+      "album": {
+        "name": "New Entertainment",
+        "url": "https://open.spotify.com/album/1nNZEWRU7yPKzcspP9EWAL"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93648,
+      "name": "Everything the Light Touches",
+      "url": "https://open.spotify.com/track/2HMdM8ZQLFjlorXxnNjX9Q"
     },
     {
       "album": {
@@ -12984,7 +13020,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 230075,
       "name": "Haven Hill",
       "url": "https://open.spotify.com/track/2os8dLW2POd2gezm36kXJe"
@@ -17718,7 +17754,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 323341,
       "name": "Leaving the Zoo",
       "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
@@ -18353,6 +18389,24 @@
     },
     {
       "album": {
+        "name": "Little More Time",
+        "url": "https://open.spotify.com/album/2N7ovv8RXmkC8Y2EG971xO"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167676,
+      "name": "Little More Time",
+      "url": "https://open.spotify.com/track/6lcDQ7ZMaSsFxEsVNFQLkZ"
+    },
+    {
+      "album": {
         "name": "When The Truth Comes Out / Little Red Ranger",
         "url": "https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb"
       },
@@ -18930,7 +18984,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 211346,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
@@ -19676,6 +19730,24 @@
       "duration_ms": 221715,
       "name": "Manual",
       "url": "https://open.spotify.com/track/2Xyqb51cNsT1xnHLnfdOw8"
+    },
+    {
+      "album": {
+        "name": "Maritime Moonshine (Acoustic)",
+        "url": "https://open.spotify.com/album/3UnmFkhQdE6pLvEiY7ZYFS"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205763,
+      "name": "Maritime Moonshine",
+      "url": "https://open.spotify.com/track/11HbAj0fO6Mf30f6UKJd8h"
     },
     {
       "album": {
@@ -21020,7 +21092,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 245440,
       "name": "My Dark Places",
       "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
@@ -21092,7 +21164,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6c8atDBcb1iEzxwIsDqpap"
@@ -21976,6 +22048,24 @@
       "duration_ms": 186252,
       "name": "No Mast",
       "url": "https://open.spotify.com/track/4XHvLCzN2G5VUfvh3wxW6D"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/6dvwugxr58LTm4iZlmTg4l"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "No One's Fault",
+      "url": "https://open.spotify.com/track/4C4BWi32cw8Du089euyb90"
     },
     {
       "album": {
@@ -23586,7 +23676,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170826,
       "name": "Otherwise, I'm Fine",
       "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
@@ -23734,6 +23824,24 @@
       "duration_ms": 237946,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX"
+    },
+    {
+      "album": {
+        "name": "The Recent Past",
+        "url": "https://open.spotify.com/album/2J5ifaLbdSOhRPLWzQTF6a"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238307,
+      "name": "Outta Nashville",
+      "url": "https://open.spotify.com/track/6zwJu0s7v0FNWyq0VlnO9e"
     },
     {
       "album": {
@@ -24936,6 +25044,24 @@
       "duration_ms": 216200,
       "name": "Pull The Rug",
       "url": "https://open.spotify.com/track/0MULYUjm5SwIdg86qlb3cH"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/71CcHCuP1goOxG6wUQ8dDF"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "Pushin' Up Daisies",
+      "url": "https://open.spotify.com/track/5Ccud142f2ooVfhOsz4TzB"
     },
     {
       "album": {
@@ -28604,7 +28730,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 156600,
       "name": "Sorry for Everything",
       "url": "https://open.spotify.com/track/6ckTr6wN5JHDWdvK1JRgWj"
@@ -30338,7 +30464,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 205794,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
@@ -34157,6 +34283,24 @@
     },
     {
       "album": {
+        "name": "Charades",
+        "url": "https://open.spotify.com/album/195pN7CuNNwtoP5LvC3ThU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ashton",
+          "url": "https://open.spotify.com/artist/53t38sKooUEyyENANtticX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196148,
+      "name": "Watered Down",
+      "url": "https://open.spotify.com/track/49BKYeDl0Hr4wEd22F9IzI"
+    },
+    {
+      "album": {
         "name": "La cascade",
         "url": "https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo"
       },
@@ -35490,7 +35634,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 240560,
       "name": "Why\u2019d You Have To Bring Me Flowers - UN-unplugged",
       "url": "https://open.spotify.com/track/5A1Iac0CrFmOcGLiUzBt9z"
@@ -35567,6 +35711,24 @@
     },
     {
       "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/2t2kNA7bPj0AtHC8ZjizKu"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
+    },
+    {
+      "album": {
         "name": "Wild One",
         "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
       },
@@ -35596,7 +35758,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 179303,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
@@ -35820,6 +35982,24 @@
       "duration_ms": 228395,
       "name": "Wishing Stone",
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "album": {
+        "name": "Peanut Butter Saltine",
+        "url": "https://open.spotify.com/album/3eKf6ZnXHYxBndJ9j7dPGp"
+      },
+      "artists": [
+        {
+          "name": "House Mouse",
+          "url": "https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204227,
+      "name": "with my legs dragging behind",
+      "url": "https://open.spotify.com/track/3TWU7oIi1DKMqcQbqlPFoF"
     },
     {
       "album": {

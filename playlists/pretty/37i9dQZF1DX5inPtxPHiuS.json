@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Kidchen",
-  "num_followers": 91751,
+  "num_followers": 91745,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Sencillo, para mentes complicadas",
-        "url": "https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H"
-      },
-      "artists": [
-        {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
-        }
-      ],
-      "duration_ms": 227244,
-      "name": "Sencillo, para mentes complicadas",
-      "url": "https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Sencillo, para mentes complicadas",
+        "url": "https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H"
+      },
+      "artists": [
+        {
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+        }
+      ],
+      "duration_ms": 227244,
+      "name": "Sencillo, para mentes complicadas",
+      "url": "https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+      },
+      "artists": [
+        {
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
         "name": "La Teta Pirata",
         "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 271691,
       "name": "La Teta Pirata",
       "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
-      },
-      "artists": [
-        {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "LVRBOY",
         "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 249917,
       "name": "LVRBOY",
       "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
-      },
-      "artists": [
-        {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Antes de Que Sea Muy Tarde",
         "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
         }
       ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -835,6 +819,22 @@
       "duration_ms": 247392,
       "name": "Solo t\u00fa",
       "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Todo Se Olvida",
         "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
@@ -919,34 +903,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Los Kitsch de Colombia Presentan: 1/3",
-        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
       "artists": [
         {
-          "name": "The Kitsch",
-          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 155000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+      "duration_ms": 226451,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -967,6 +935,38 @@
       "duration_ms": 301863,
       "name": "Corriente",
       "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Los Kitsch de Colombia Presentan: 1/3",
+        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+      },
+      "artists": [
+        {
+          "name": "The Kitsch",
+          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
     },
     {
       "added_at": "2026-10-16 05:01:29",

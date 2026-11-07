@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 544 likes - 51 songs - 2 hr 57 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 543 likes - 53 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 49 | [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 |
 | 50 | [Presença](https://open.spotify.com/track/6NfoaNC3F12ucmVtiLoDV2) | [Moacir Sader](https://open.spotify.com/artist/4XnU7oi3AKqJwOrFY0Cd6w) | [Presença](https://open.spotify.com/album/5202vgV2cGnn2Ih8xcxt89) | 4:56 |
 | 51 | [Light Up](https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB) | [H\. 4Real](https://open.spotify.com/artist/6VaTWoMnz7WhncBc4zgrKm) | [Dend Down Low](https://open.spotify.com/album/6GqaXCRPLLLBTWwZkj2Rzo) | 3:47 |
+| 52 | [Here, punx!](https://open.spotify.com/track/1iQo9Ch0BKmoCmO4af2unQ) | [Giacomo Roppa](https://open.spotify.com/artist/71XHy0XkhUu9BZtDRjjTZ2) | [No flowers for her](https://open.spotify.com/album/62gbuFKHmxgk8jIWB6YVn3) | 2:31 |
+| 53 | [Oro e Argento](https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw) | [Enrico Lotterini](https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT) | [Lòrico](https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD) | 3:51 |
 
-Snapshot ID: `AAACldl8Z2QvW/yl2d5GjniX1ay+wXrM`
+Snapshot ID: `AAAClyhcryeV4oL+v1XLl4P6ko7tg4qD`

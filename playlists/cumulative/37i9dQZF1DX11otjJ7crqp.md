@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Slayyyter
 
-12,497 songs - 26 day 5 hr 44 min
+12,499 songs - 26 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3280,6 +3280,7 @@
 | [Empty](https://open.spotify.com/track/6DThx0fdmdZuhG4ZrUg8oM) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Empty](https://open.spotify.com/album/0i3wruZEDnREqgbnMQNVmd) | 2:41 | 2026-08-21 | 2026-09-12 |
 | [Empty Apartment](https://open.spotify.com/track/5WaBqohrFBDaZj5TDMSZZu) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Empty Apartment / Neighbors](https://open.spotify.com/album/6x6de2TgOWkDgrpash7EP0) | 3:04 | 2023-04-21 | 2023-05-06 |
 | [Empty Chair](https://open.spotify.com/track/0HNV4cBlOkNTPtsX5I3Rps) | [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Empty Chair](https://open.spotify.com/album/1kAMmHfV9tnkP5jOYbbPPw) | 2:50 | 2025-03-14 | 2025-03-29 |
+| [Empty Pages](https://open.spotify.com/track/0juRuUWd216Juj2sa9Ujds) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Empty Pages](https://open.spotify.com/album/3Of72v7nggqBaqtk9FV8uk) | 2:46 | 2026-11-06 |  |
 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 | 2023-09-15 | 2023-09-30 |
 | [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-12 | 2026-06-20 |
 | [Encore](https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Encore](https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy) | 2:20 | 2023-08-18 | 2023-09-02 |
@@ -5806,7 +5807,7 @@
 | [INCREDIBLE WORLD](https://open.spotify.com/track/1AhGBxVYGKwTDn1yr5EDiI) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL: SUPER DELUXE VALUE SIZE](https://open.spotify.com/album/6w3qgPT9n2ZNScSARe8KcF) | 3:21 | 2022-10-21 | 2022-10-29 |
 | [Indecisive](https://open.spotify.com/track/5SZUqkmbnQm9ZDH6a2I7nf) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Indecisive](https://open.spotify.com/album/7D8YWZTJde2uMB6d3QRpod) | 2:51 | 2023-10-13 | 2023-10-28 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-03 |
-| [Indigo](https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa), [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Indigo](https://open.spotify.com/album/2LUy2lpkWIQT7VC1nNxWxb) | 3:36 | 2026-10-17 |  |
+| [Indigo](https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa), [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Indigo](https://open.spotify.com/album/2LUy2lpkWIQT7VC1nNxWxb) | 3:36 | 2026-10-17 | 2026-11-07 |
 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 | 2025-03-28 | 2025-04-05 |
 | [Indigo](https://open.spotify.com/track/3dDfVmRywNtwB7flbTicZ6) | [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Indigo](https://open.spotify.com/album/7y6oATKlbKFNs8PQT1MpqU) | 2:30 | 2022-12-30 | 2023-01-21 |
 | [Indigo](https://open.spotify.com/track/3cxBEkmOaCVUdJOkgF8lJb) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Indigo](https://open.spotify.com/album/2LbuzX1rIVNdbYIUZbWmub) | 4:47 | 2025-10-17 | 2025-10-25 |
@@ -6997,6 +6998,7 @@
 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-10 | 2026-05-02 |
 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 | 2024-05-03 | 2024-05-18 |
 | [Magazine](https://open.spotify.com/track/0Rop7nCpDSuqnuvzWvZIdq) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Magazine](https://open.spotify.com/album/3qoA0qWckqk4zo8Uf1iegl) | 3:51 | 2022-08-26 | 2022-09-10 |
+| [MAGDALENE](https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK) | [Magdalene](https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c) | [American Heroine](https://open.spotify.com/album/4x9bMp8KgfQURQ7eG5hnzr) | 2:14 | 2026-11-06 |  |
 | [Maggie](https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Maggie](https://open.spotify.com/album/4OmNQi3AudOnWKdhTQpkD7) | 3:32 | 2026-06-26 | 2026-07-18 |
 | [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 | 2024-02-02 | 2024-02-10 |
 | [Magic](https://open.spotify.com/track/63MQEI9rOEJJO3S7HoG4L8) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Magic](https://open.spotify.com/album/2dBDtgAec8TUCD8re4Foq8) | 2:58 | 2026-03-13 | 2026-03-28 |
@@ -9957,7 +9959,7 @@
 | [Sorority](https://open.spotify.com/track/19CqaxojbrK0QthZtht4nR) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Sorority](https://open.spotify.com/album/4jctcnJUa2R2N798kp83bl) | 3:33 | 2023-10-20 | 2023-10-28 |
 | [Sorry](https://open.spotify.com/track/4wwnHAfmF12t0XGd3exEX0) | [Jessiqa Jones](https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT) | [Sorry](https://open.spotify.com/album/3Co2nl4J3gN6N5VVaACJnb) | 3:18 | 2022-12-23 | 2023-01-14 |
 | [SORRY](https://open.spotify.com/track/3mAdMAABaaj3WDdpophBgF) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [EPISODE 8: SORRY](https://open.spotify.com/album/6ayV8I6iFmLk3GWWgR0uXZ) | 2:19 | 2022-02-25 | 2022-03-05 |
-| [Sorry](https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on \(deluxe\)](https://open.spotify.com/album/1qbGwfRKoupCptOicxgdMc) | 2:51 | 2026-10-16 |  |
+| [Sorry](https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on \(deluxe\)](https://open.spotify.com/album/1qbGwfRKoupCptOicxgdMc) | 2:51 | 2026-10-16 | 2026-11-07 |
 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 | 2025-11-14 | 2025-11-29 |
 | [Sorry](https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Counting My Blessings](https://open.spotify.com/album/5mJVYqxiTdW3To07GPicSr) | 2:51 | 2026-02-20 | 2026-03-07 |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2023-11-10 | 2023-12-09 |

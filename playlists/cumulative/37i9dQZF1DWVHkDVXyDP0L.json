@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "DMA'S (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183937,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z"
+    },
+    {
+      "album": {
         "name": "better",
         "url": "https://open.spotify.com/album/4dBRpAjGdaspvQ6w2EIW3T"
       },
@@ -3446,6 +3464,28 @@
       "duration_ms": 196889,
       "name": "Check Mate",
       "url": "https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1"
+    },
+    {
+      "album": {
+        "name": "El Cuarto Rosa",
+        "url": "https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB"
+      },
+      "artists": [
+        {
+          "name": "Cherry Chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Cherry Baby Loca",
+      "url": "https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN"
     },
     {
       "album": {
@@ -16693,6 +16733,24 @@
     },
     {
       "album": {
+        "name": "A Delicate Balance",
+        "url": "https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP"
+      },
+      "artists": [
+        {
+          "name": "HEADSEND",
+          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278710,
+      "name": "Sit With",
+      "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"
+    },
+    {
+      "album": {
         "name": "Site Unseen",
         "url": "https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU"
       },
@@ -19964,60 +20022,6 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
-    },
-    {
-      "album": {
-        "name": "A Delicate Balance",
-        "url": "https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP"
-      },
-      "artists": [
-        {
-          "name": "HEADSEND",
-          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"
-    },
-    {
-      "album": {
-        "name": "El Cuarto Rosa",
-        "url": "https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB"
-      },
-      "artists": [
-        {
-          "name": "Cherry Chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN"
-    },
-    {
-      "album": {
-        "name": "DMA'S (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z"
     },
     {
       "album": {

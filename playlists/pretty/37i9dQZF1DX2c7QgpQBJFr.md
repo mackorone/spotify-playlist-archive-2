@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop 🇮🇹 Emili Kasa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,752 likes - 95 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,753 likes - 95 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 1 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 2 | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI) | 3:30 |
 | 3 | [Vorrei essere un po’ più alto](https://open.spotify.com/track/6rjtyTMW02B0eIoaFGdw4l) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [MDMA](https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B) | 3:13 |
 | 4 | [la verità](https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [la verità](https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5) | 3:05 |

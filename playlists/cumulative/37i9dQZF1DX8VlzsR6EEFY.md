@@ -4,7 +4,7 @@
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Pipe Bueno en portada 🌹
 
-461 songs - 23 hr 55 min
+462 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [SECRETO](https://open.spotify.com/track/504VfM2pmclGufjypM5c59) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [SECRETO](https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG) | 3:28 | 2025-07-18 | 2025-10-25 |
 | [Seguimos Sumando](https://open.spotify.com/track/4jHKEyT7sgMM72OAnBhfUs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/6Y6rR8dg57e0y1oHBG7lkW) | 3:16 | 2025-05-16 | 2025-07-19 |
 | [Sentimental](https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Sentimental](https://open.spotify.com/album/7EWCw5uwGEqLN1SbaGusS4) | 2:14 | 2025-10-24 | 2026-08-28 |
+| [Señora](https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Señora](https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP) | 2:59 | 2026-11-06 |  |
 | [Si Tu Jalas Yo Jalo](https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Si Tu Jalas Yo Jalo](https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa) | 2:54 | 2025-05-02 | 2025-10-04 |
 | [SI TU QUIERES](https://open.spotify.com/track/1lcgthMjWPJ3jW9s3tytfF) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [SI TU QUIERES](https://open.spotify.com/album/4WsWSmXb6jVV7VJrELfmdf) | 2:45 | 2025-03-31 | 2025-04-12 |
 | [Si Volvemos a Empezar](https://open.spotify.com/track/4713nUJDGyvpp2BirmoYxm) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [Si Volvemos a Empezar](https://open.spotify.com/album/1PDBriIdWOyN9tnzDZMBWV) | 3:10 | 2024-04-19 | 2025-09-06 |

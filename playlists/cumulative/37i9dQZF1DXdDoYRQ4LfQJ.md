@@ -4,7 +4,7 @@
 
 > Bien Chaka con LOS DOS DE TAMAULIPAS & the hottest Corridos in the U.S.
 
-594 songs - 1 day 5 hr 34 min
+596 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [Comprobado](https://open.spotify.com/track/7yMS2TnLiddORCCkKHjeo7) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Comprobado](https://open.spotify.com/album/0ZfhiBRqDauFAXcmjClsR1) | 2:36 | 2022-05-20 | 2022-07-22 |
 | [Compton](https://open.spotify.com/track/26d4MdcZ4la9pwDQjOW4H3) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Compton](https://open.spotify.com/album/3Rxk6cbgb8NrAhAbtK8iTU) | 2:55 | 2026-07-31 | 2026-09-25 |
 | [Con la Bola](https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:27 | 2024-02-23 | 2024-12-07 |
+| [CON QUÉ](https://open.spotify.com/track/2D6FCDqh7BTdYjVS0knHNT) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [CON QUÉ](https://open.spotify.com/album/5PRpSCsPhUuwISVH6HyzQb) | 2:27 | 2026-11-06 |  |
 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 | 2023-09-08 | 2023-12-11 |
 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 | 2022-05-20 | 2023-03-04 |
-| [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 | 2023-09-08 |  |
+| [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 | 2023-09-08 | 2026-11-07 |
 | [CR7](https://open.spotify.com/track/2aeeDXCFgsCdyehJ1n1zWs) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 2:18 | 2026-09-25 |  |
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2023-12-12 |  |
 | [Cripto](https://open.spotify.com/track/1jPI3D9L3Ba9cJn7Fg815B) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Cripto](https://open.spotify.com/album/152QYbI1ju9P3XjIgS3AtA) | 2:48 | 2025-12-12 | 2026-02-07 |
@@ -393,6 +394,7 @@
 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 | 2025-05-09 |  |
 | [Martes 13](https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Martes 13](https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq) | 2:43 | 2024-06-07 | 2026-08-28 |
 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 | 2022-06-13 | 2022-08-30 |
+| [MAÑA](https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [MAÑA](https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM) | 2:01 | 2026-11-06 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-05-20 | 2024-01-19 |
 | [Me Acostumbre A Lo Bueno II](https://open.spotify.com/track/0UXfmA5wYIE1uBvFzOdlCR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Me Acostumbre A Lo Bueno II](https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT) | 2:06 | 2024-10-04 | 2026-10-17 |
 | [Me Consulto El Padrino](https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Me Consulto El Padrino](https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH) | 2:55 | 2026-10-16 |  |
@@ -565,7 +567,7 @@
 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 | 2022-05-20 | 2026-10-05 |
 | [Todo Se Va](https://open.spotify.com/track/4iMlvDqxNPvWMMwr1x8bcz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Todo Se Va](https://open.spotify.com/album/7I1ssRibbgp1hIwdpMLJra) | 2:55 | 2023-05-15 | 2023-06-04 |
 | [Todo Veo](https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:15 | 2024-01-05 | 2024-12-07 |
-| [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-05-20 |  |
+| [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-05-20 | 2026-11-07 |
 | [Tolin Infante](https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Tolin Infante](https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3) | 3:26 | 2022-11-01 | 2023-03-04 |
 | [Tony Montana](https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Tony Montana](https://open.spotify.com/album/1aDCXyqjfceBHeMb8j2z3y) | 3:01 | 2025-12-12 | 2026-01-15 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-05-24 | 2024-03-16 |

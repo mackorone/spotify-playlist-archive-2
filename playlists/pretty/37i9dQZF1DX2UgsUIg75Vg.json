@@ -1,13 +1,29 @@
 {
-  "description": "Chill r&b. Cover: Vedo",
-  "num_followers": 2364998,
+  "description": "Chill r&b. Cover: nomi.",
+  "num_followers": 2364928,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbmFhoPAr4kuLfS+zqpqJzPvM3o",
+  "snapshot_id": "AAAAAKAptMHMiYwR40VnGKQi7vXnpw2S",
   "tracks": [
+    {
+      "added_at": "2026-10-30 06:24:56",
+      "album": {
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "r u?",
+      "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
+    },
     {
       "added_at": "2026-10-23 04:01:31",
       "album": {
@@ -49,6 +65,22 @@
       "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
     },
     {
+      "added_at": "2026-11-06 17:55:03",
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
+    },
+    {
       "added_at": "2026-09-18 06:12:11",
       "album": {
         "name": "Westside Whimsy",
@@ -69,26 +101,6 @@
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "Familiar/She Know",
-        "url": "https://open.spotify.com/album/3lGUaRUJ5A10uSesWvMlHi"
-      },
-      "artists": [
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "She Know",
-      "url": "https://open.spotify.com/track/7E2Ls9297iCuSu99Feeu6E"
-    },
-    {
       "added_at": "2026-08-07 04:02:07",
       "album": {
         "name": "Icon (Director's Cut)",
@@ -103,38 +115,6 @@
       "duration_ms": 200610,
       "name": "like it was. [bonus track]",
       "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
-    },
-    {
-      "added_at": "2026-10-30 06:24:56",
-      "album": {
-        "name": "this wolf may cry",
-        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "r u?",
-      "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
-    },
-    {
-      "added_at": "2026-10-16 05:16:22",
-      "album": {
-        "name": "let's talk about it",
-        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 157810,
-      "name": "let\u2019s talk about it",
-      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "added_at": "2026-07-17 04:02:08",
@@ -153,6 +133,22 @@
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
+      "added_at": "2026-10-02 15:59:10",
+      "album": {
+        "name": "Vacancy: Late Checkout",
+        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2pAy5jfm3NhsF6MyqFbyd2"
+    },
+    {
       "added_at": "2026-10-02 05:25:53",
       "album": {
         "name": "Frequency Of Love",
@@ -169,36 +165,20 @@
       "url": "https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ"
     },
     {
-      "added_at": "2026-10-02 05:25:53",
+      "added_at": "2026-10-03 08:04:01",
       "album": {
-        "name": "options",
-        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         }
       ],
-      "duration_ms": 212131,
-      "name": "options",
-      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
-    },
-    {
-      "added_at": "2026-10-02 15:59:10",
-      "album": {
-        "name": "Vacancy: Late Checkout",
-        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2pAy5jfm3NhsF6MyqFbyd2"
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
       "added_at": "2026-10-09 06:23:09",
@@ -221,36 +201,40 @@
       "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
     },
     {
-      "added_at": "2026-10-03 08:04:01",
+      "added_at": "2026-10-02 05:25:53",
       "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
     },
     {
       "added_at": "2026-10-23 04:01:31",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+        "name": "Familiar/She Know",
+        "url": "https://open.spotify.com/album/3lGUaRUJ5A10uSesWvMlHi"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 197760,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+      "duration_ms": 155294,
+      "name": "She Know",
+      "url": "https://open.spotify.com/track/7E2Ls9297iCuSu99Feeu6E"
     },
     {
       "added_at": "2026-10-09 06:23:09",
@@ -305,6 +289,38 @@
       "url": "https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm"
     },
     {
+      "added_at": "2026-11-06 17:55:03",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6daW8qmopdmeb7eJkBSr3x"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Show Me Sumthin",
+      "url": "https://open.spotify.com/track/1XUY3jJOJuNCmOlIzwRKgU"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
       "added_at": "2026-10-23 04:01:31",
       "album": {
         "name": "Cry On You",
@@ -345,20 +361,36 @@
       "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
     },
     {
-      "added_at": "2026-10-23 04:01:31",
+      "added_at": "2026-11-06 17:55:03",
       "album": {
-        "name": "the 5 stages of heartbreak",
-        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
         }
       ],
-      "duration_ms": 181769,
-      "name": "the 5 stages of heartbreak",
-      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+      "duration_ms": 165822,
+      "name": "sirens",
+      "url": "https://open.spotify.com/track/68SPhd76A3Fr6mGSzQYeIW"
+    },
+    {
+      "added_at": "2026-10-16 05:16:22",
+      "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "added_at": "2026-10-09 06:23:09",
@@ -485,24 +517,52 @@
       "url": "https://open.spotify.com/track/7dCO7UfAaI1Oa5SGLTz5TV"
     },
     {
-      "added_at": "2026-10-09 06:23:09",
+      "added_at": "2026-11-06 17:55:03",
       "album": {
-        "name": "MACHIKO",
-        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/4h2UN34CkdfK5uAIFirDZx"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
         }
       ],
-      "duration_ms": 227298,
-      "name": "Wish I Knew - feat. Odeal",
-      "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"
+      "duration_ms": 241347,
+      "name": "COSIGN",
+      "url": "https://open.spotify.com/track/46ZpuuR68f8hb4vtoRLE3P"
+    },
+    {
+      "added_at": "2026-01-09 06:03:04",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
+      },
+      "artists": [
+        {
+          "name": "Qui",
+          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
+        }
+      ],
+      "duration_ms": 104020,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-28 00:35:04",
@@ -543,6 +603,26 @@
       "duration_ms": 234036,
       "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
       "url": "https://open.spotify.com/track/5hGnrxC9mJHSZolU7DZPiA"
+    },
+    {
+      "added_at": "2026-10-09 06:23:09",
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 227298,
+      "name": "Wish I Knew - feat. Odeal",
+      "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"
     },
     {
       "added_at": "2026-10-16 05:16:22",
@@ -2417,26 +2497,6 @@
       "url": "https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm"
     },
     {
-      "added_at": "2026-06-20 04:00:17",
-      "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Aura (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
-    },
-    {
       "added_at": "2026-07-24 06:54:12",
       "album": {
         "name": "FANTASY",
@@ -3881,22 +3941,6 @@
       "url": "https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ"
     },
     {
-      "added_at": "2026-04-03 06:35:41",
-      "album": {
-        "name": "At Least She's Beautiful",
-        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "At Least She's Beautiful",
-      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
-    },
-    {
       "added_at": "2026-03-20 15:58:14",
       "album": {
         "name": "When The City Sleeps",
@@ -3949,26 +3993,6 @@
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
-      "added_at": "2026-03-06 05:40:26",
-      "album": {
-        "name": "girl music vol. 1",
-        "url": "https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 195238,
-      "name": "intention (with Brandy)",
-      "url": "https://open.spotify.com/track/1ZGQug62wWSfELA3Jvufl5"
-    },
-    {
       "added_at": "2025-10-17 04:47:43",
       "album": {
         "name": "feels like love",
@@ -3999,22 +4023,6 @@
       "duration_ms": 195107,
       "name": "desire.",
       "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
-    },
-    {
-      "added_at": "2026-02-20 06:48:12",
-      "album": {
-        "name": "Don't Leave",
-        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
     },
     {
       "added_at": "2026-02-27 07:03:38",
@@ -4273,22 +4281,6 @@
       "url": "https://open.spotify.com/track/1bIlHTjsRPtIGBaZL0QiXZ"
     },
     {
-      "added_at": "2026-01-09 06:03:04",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
-      },
-      "artists": [
-        {
-          "name": "Qui",
-          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
-        }
-      ],
-      "duration_ms": 104020,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
-    },
-    {
       "added_at": "2025-11-21 09:24:23",
       "album": {
         "name": "Come Home",
@@ -4429,22 +4421,6 @@
       "url": "https://open.spotify.com/track/4cAeIhgtNdj1hsOMAsfIPz"
     },
     {
-      "added_at": "2025-11-14 13:05:32",
-      "album": {
-        "name": "Fire&Smoke",
-        "url": "https://open.spotify.com/album/6N9LE0bNFcT54QXOBqXv1X"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2NqLPkS0YMgyHeSGE3voiQ"
-    },
-    {
       "added_at": "2025-08-15 06:14:03",
       "album": {
         "name": "Useless (Without You)",
@@ -4459,22 +4435,6 @@
       "duration_ms": 166894,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
-    },
-    {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "NOT FAIR",
-      "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
     },
     {
       "added_at": "2025-10-24 08:57:48",

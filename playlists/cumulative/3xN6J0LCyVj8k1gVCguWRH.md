@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,699 songs - 15 day 15 hr 1 min
+6,700 songs - 15 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [Can't Keep Running](https://open.spotify.com/track/3lbAKgx5UR6JP0fvJhBNS8) | [D Mills](https://open.spotify.com/artist/4j15TlEXsoU1f2RHaejASa) | [Back To Our Regularly Scheduled Programming](https://open.spotify.com/album/65D5qDMxfTJVFBcUqxRiPg) | 3:41 | 2026-10-25 |  |
 | [CAN'T LIE](https://open.spotify.com/track/16GiU2KkjtQKr5Z66llpPW) | [bren](https://open.spotify.com/artist/1sKIAoDcaTxADichsVA10z), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [CAN'T LIE](https://open.spotify.com/album/1HHlINKSLnAAJErrytOd8S) | 2:24 | 2025-07-01 | 2025-07-14 |
 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 | 2024-05-29 | 2024-06-10 |
+| [Can't Outrun the Radio](https://open.spotify.com/track/1KMb6W8f5fVWX8lEJzht2Q) | [Trey Gonzalez](https://open.spotify.com/artist/0WiEyzCMXJJhI4ereD3urR) | [Can't Outrun the Radio](https://open.spotify.com/album/4iwM4nQc0hbaKtdrfuvNve) | 3:28 | 2026-11-06 |  |
 | [Can't Phase Me](https://open.spotify.com/track/6CD8YpwCjh8Ma2L3rjAjEh) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Can't Phase Me](https://open.spotify.com/album/2lG12pEYFZ1GqDEJhCoQxv) | 2:47 | 2026-05-25 | 2026-06-24 |
 | [Can't Stay](https://open.spotify.com/track/3QvmByGpYpnQ0DPbroFPN2) | [Peter Scavello](https://open.spotify.com/artist/45bSi60uYRWkxm1cAA9inR) | [Can't Stay](https://open.spotify.com/album/1QeckViACaI8hpdEtyyPbO) | 4:13 | 2025-02-05 | 2025-02-17 |
 | [Can't Stay Away](https://open.spotify.com/track/0kYESBjHlA8bEnCsv1807r) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [Can't Stay Away](https://open.spotify.com/album/31gttnOTgX4XAjZ79UVXjw) | 2:16 | 2020-04-12 | 2020-04-22 |

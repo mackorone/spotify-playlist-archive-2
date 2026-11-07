@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: nomi.",
+  "description": "Where R&B lives. Cover: Ella Mai",
   "name": "RNB X",
   "tracks": [
     {
@@ -2555,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197198,
+      "name": "Catch Me If You Can - feat. JID",
+      "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
       },
@@ -3256,7 +3278,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 222970,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
@@ -4382,6 +4404,24 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176545,
+      "name": "Favourite T-Shirt",
+      "url": "https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5"
     },
     {
       "album": {
@@ -9218,7 +9258,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184666,
       "name": "Main Attraction - Remix",
       "url": "https://open.spotify.com/track/0j14eHWV5jzB3pOitfCFE4"
@@ -11354,6 +11394,24 @@
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
     },
     {
       "album": {
@@ -13806,7 +13864,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210461,
       "name": "Slow Jamz (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf"

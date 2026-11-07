@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,886 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,896 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 30 | [Kangaroo \- feat\. Batman](https://open.spotify.com/track/7CMHjhDTiJbvMkomXUodis) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML), [Batman](https://open.spotify.com/artist/3PTvxYMFgNGE9bQdlDT9Wx) | [Black Stars – Ghana’s Hiplife Generation](https://open.spotify.com/album/6jdTD8R5rYp5Gs3WRuZyR9) | 3:31 |
 | 31 | [Odo](https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Odo](https://open.spotify.com/album/2zqYXrJGUYjaB3RxkfFH4O) | 3:53 |
 | 32 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
-| 33 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
-| 34 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
+| 33 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
+| 34 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
 | 35 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
 | 36 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
 | 37 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |

@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-428 songs - 1 day 2 hr 14 min
+429 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Oh My Love](https://open.spotify.com/track/13nXzeGnieeDnZMZxpywhY) | [OYESONO](https://open.spotify.com/artist/7cHHdS56pmSCP5vjyRfFUc) | [Oh My Love](https://open.spotify.com/album/701KhiFnBiIBWuo4sPebpv) | 3:44 | 2025-11-14 | 2026-01-21 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2022-05-27 | 2024-10-05 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-05-27 |  |
+| [Only Want You](https://open.spotify.com/track/4ICTiNMlVnqu60ZqZZcLio) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Want You](https://open.spotify.com/album/7jbRB0YJd5U2U03l86Wr6A) | 2:53 | 2026-11-06 |  |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2024-10-04 | 2025-11-01 |
 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 | 2026-07-06 |  |
 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 | 2026-09-18 |  |
@@ -335,7 +336,7 @@
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-08-20 |
 | [Scared to Be Lonely \- Acoustic Version](https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely \(Acoustic Version\)](https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY) | 4:17 | 2022-05-27 | 2025-10-11 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2022-05-27 | 2024-10-05 |
-| [Sexual Healing](https://open.spotify.com/track/7pwTNqKRrJlb0wd476AFO5) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:56 | 2026-02-09 |  |
+| [Sexual Healing](https://open.spotify.com/track/7pwTNqKRrJlb0wd476AFO5) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:56 | 2026-02-09 | 2026-11-07 |
 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 | 2024-10-04 | 2026-10-10 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2026-01-22 |  |
 | [She Makes Me](https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [She Makes Me](https://open.spotify.com/album/0ts5DfHtMBh47p5OBEKvuh) | 3:06 | 2025-03-28 | 2025-08-12 |

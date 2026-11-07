@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Autumn!, Cuo Zay and more
+> With Yeat, Ken Carson, Autumn! and more
 
 361 songs - 14 hr 4 min
 
@@ -226,7 +226,7 @@
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Not Him](https://open.spotify.com/track/6sMQVMzECzNoz4Nuy5KpUs) | [IceBirds](https://open.spotify.com/artist/2jEbgXtvUzAKfLynbfjwnw) | [Neighborhood Superstar III](https://open.spotify.com/album/5xnE66PPKZKiznZ2wCiJAt) | 2:26 | 2026-07-20 | 2026-08-07 |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
-| [Nottaburden](https://open.spotify.com/track/10nUAMDyOWjwqnwVxTaRbJ) | [Ysn yellowtape](https://open.spotify.com/artist/5TK14iTl8oeppeVviOLGcU), [Shadoh](https://open.spotify.com/artist/3xgRHY1EfWzGE80ETmOuk0), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [Tape Talk 2](https://open.spotify.com/album/1XMZz853xRJX1gTPUiMadl) | 2:05 | 2026-11-04 |  |
+| [Nottaburden](https://open.spotify.com/track/10nUAMDyOWjwqnwVxTaRbJ) | [Ysn yellowtape](https://open.spotify.com/artist/5TK14iTl8oeppeVviOLGcU), [Shadoh](https://open.spotify.com/artist/3xgRHY1EfWzGE80ETmOuk0), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [Tape Talk 2](https://open.spotify.com/album/1XMZz853xRJX1gTPUiMadl) | 2:05 | 2026-11-04 | 2026-11-07 |
 | [Off my Radar! \(2024\)](https://open.spotify.com/track/78Jy6aPmkDvJ3M7UnfJmnS) | [NV Man Man!](https://open.spotify.com/artist/24qegvIfxNIoImWf2iofdz) | [Off my Radar! \(2024\)](https://open.spotify.com/album/4YrRGajyPGemucDVQigEFD) | 1:51 | 2026-03-07 | 2026-03-15 |
 | [Off tha Lot \- Remix](https://open.spotify.com/track/0YD65NZU1x10Qjzz9JW1PV) | [tr3nt!](https://open.spotify.com/artist/3HSZDx6CVJuM0FvRqA2RZV) | [Off tha Lot \(Remix\)](https://open.spotify.com/album/0WaUSZ42kCZAKKwwkRwKtc) | 1:54 | 2026-02-12 | 2026-02-15 |
 | [One Take](https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD) | [Young Slixe](https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG) | [One Take](https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv) | 1:59 | 2026-03-01 | 2026-05-05 |
@@ -278,7 +278,7 @@
 | [shimmy](https://open.spotify.com/track/2j9OmMArlj8DtRM0OE4aVH) | [fangmadesoso](https://open.spotify.com/artist/3ZmDpHju6Fg36kDgIIdHnl), [so so](https://open.spotify.com/artist/55TY2YdFmJ11CSGC5DkXQc), [up!r](https://open.spotify.com/artist/1GUHKMXKOywHEOIa8zShNm) | [fangmade](https://open.spotify.com/album/4YL7UDjOcbIzypja9OFMx7) | 1:39 | 2026-07-05 | 2026-07-24 |
 | [sick](https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [!?](https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4) | 2:05 | 2025-11-29 |  |
 | [SICKÖ](https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC) | [BLING BØI EP 2: HØSTED BY DJ HØLIDAY](https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79) | 2:00 | 2026-08-21 | 2026-09-11 |
-| [Simple!](https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Ils Verront](https://open.spotify.com/album/2VLmqA6liyiWLQ7pu8d0na) | 3:03 | 2025-11-29 | 2026-09-22 |
+| [Simple!](https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Ils Verront](https://open.spotify.com/album/2VLmqA6liyiWLQ7pu8d0na) | 3:03 | 2025-11-29 |  |
 | [Sizzurp](https://open.spotify.com/track/1aED4pzjTZQRwEWGVIqFk2) | [luhdelf](https://open.spotify.com/artist/4igaC79J5tLhSZ8Qqo8zII) | [Hiatus](https://open.spotify.com/album/1B5dNX0AKfkPAcesNTBMjr) | 2:17 | 2026-05-17 | 2026-05-29 |
 | [SK](https://open.spotify.com/track/4fayv4mrhpFrO7Pq35mOWT) | [Crackin3z](https://open.spotify.com/artist/6hIlwLC9tteN1hQaWjCaAO) | [SK](https://open.spotify.com/album/6JsdGYgZTwBlgxGYKARc2K) | 2:31 | 2026-09-10 | 2026-10-21 |
 | [Slay3d](https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G) | [gothamrok](https://open.spotify.com/artist/63PuOaP4fCF2PSA7caynRo) | [Slay3d](https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q) | 1:53 | 2026-05-25 | 2026-06-18 |

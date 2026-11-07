@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Mr Thela",
+  "description": "The best dance hits in Africa. Cover: CIZA",
   "name": "mint Africa",
   "tracks": [
     {
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 333595,
       "name": "AIBOO (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe"
@@ -10844,7 +10844,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 381570,
       "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
       "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
@@ -16369,6 +16369,36 @@
     },
     {
       "album": {
+        "name": "Koma",
+        "url": "https://open.spotify.com/album/7v6ybECYIXYcKD4vAddJsq"
+      },
+      "artists": [
+        {
+          "name": "Balcony Mix Africa",
+          "url": "https://open.spotify.com/artist/0g3anY9Kyx4GP1wgSrUXqp"
+        },
+        {
+          "name": "Mpho Sebina",
+          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
+        },
+        {
+          "name": "MSA",
+          "url": "https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326472,
+      "name": "Koma",
+      "url": "https://open.spotify.com/track/4Xr1fKOcysMrIiiaLi2gCW"
+    },
+    {
+      "album": {
         "name": "Kore (Main HT)",
         "url": "https://open.spotify.com/album/26bEboycI52qkYhEL8RC5g"
       },
@@ -18693,6 +18723,32 @@
     },
     {
       "album": {
+        "name": "Mamela",
+        "url": "https://open.spotify.com/album/1K6w6LpieKogeU1njbcMOg"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "TWO SHADES (AT)",
+          "url": "https://open.spotify.com/artist/0g2VRwayEtuxd0cT8I5RtM"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276446,
+      "name": "Mamela",
+      "url": "https://open.spotify.com/track/0YNW9Xa5GBTLYWArKNbCNC"
+    },
+    {
+      "album": {
         "name": "Mamma (Radio Edit)",
         "url": "https://open.spotify.com/album/66dxZZRUgVOyKnmq9VB70o"
       },
@@ -19894,7 +19950,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 308346,
       "name": "Mokone (feat. Dr Skaro & Dj Janisto)",
       "url": "https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt"
@@ -24094,6 +24150,24 @@
       "duration_ms": 207840,
       "name": "Pretoria",
       "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
+    },
+    {
+      "album": {
+        "name": "Night Transmission",
+        "url": "https://open.spotify.com/album/3rB31EdNNkSXDHrwD2OPJg"
+      },
+      "artists": [
+        {
+          "name": "Sef Kombo",
+          "url": "https://open.spotify.com/artist/56XJ3AzNbn80hG19T3HqrN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277685,
+      "name": "Project 41",
+      "url": "https://open.spotify.com/track/7eZX8l4VQIPCx3cuwM1Wab"
     },
     {
       "album": {

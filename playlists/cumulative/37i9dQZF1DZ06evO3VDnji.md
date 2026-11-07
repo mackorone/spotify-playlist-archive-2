@@ -4,7 +4,7 @@
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 26 min
+95 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Soledad](https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 4:02 | 2024-10-04 |  |
 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 | 2024-08-11 | 2024-12-15 |
 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2024-08-08 | 2026-09-26 |
-| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/4ityAzct0pwJGQBGatUxdo) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [AÚN NO HE TERMINADO](https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t) | 3:16 | 2026-09-26 |  |
+| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/4ityAzct0pwJGQBGatUxdo) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [AÚN NO HE TERMINADO](https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t) | 3:16 | 2026-09-26 | 2026-11-07 |
+| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/6txlN7B1f6DCwDxmSKYAHZ) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [AÚN NO HE TERMINADO](https://open.spotify.com/album/68x1LN4VTHbNYAh9OQKjGq) | 3:16 | 2026-11-07 |  |
 | [Te vas alejando](https://open.spotify.com/track/7IxEohlBivgdJMRC9p95Bg) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 3:42 | 2026-10-02 |  |
 | [TRISTEZA DE LUX](https://open.spotify.com/track/2ZnfSChYrkBdenBrlzxuld) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:48 | 2025-05-18 | 2025-08-10 |
 | [Tristeza Y Traicion](https://open.spotify.com/track/3otr23EypFovRCjnPODejZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:39 | 2024-08-08 |  |

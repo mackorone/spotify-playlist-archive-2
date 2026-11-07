@@ -12462,6 +12462,24 @@
     {
       "album": {
         "name": "Home",
+        "url": "https://open.spotify.com/album/76mbt0RzaX7fKqXIBP0KvW"
+      },
+      "artists": [
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5HWCxkwA5qLLrBscW5HhFD"
+    },
+    {
+      "album": {
+        "name": "Home",
         "url": "https://open.spotify.com/album/2f3hqoi96gdhdw51MBccDD"
       },
       "artists": [
@@ -31394,6 +31412,24 @@
       "duration_ms": 138715,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/5mx9adNpiWs7lPLwxGaFvU"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/2bFQ86DKDZk7Qvp3w4v32P"
+      },
+      "artists": [
+        {
+          "name": "Nova Sol",
+          "url": "https://open.spotify.com/artist/7BJp4lQ3gUtMLkUFgcmLLs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127304,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7Beh2TUnja03EuKnHatkJ8"
     },
     {
       "album": {

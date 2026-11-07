@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAHPaEHe/cHWi+2cy6x0d9CqwmeAkwc",
+  "snapshot_id": "AAAHPtxTqIMhk5GpygB6VJL985Vzi+Nk",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -1203,6 +1203,26 @@
       "duration_ms": 262413,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa"
+    },
+    {
+      "added_at": "2026-11-06 16:08:54",
+      "album": {
+        "name": "Stages (Deluxe)",
+        "url": "https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
     }
   ],
   "unique_name": "idek man",

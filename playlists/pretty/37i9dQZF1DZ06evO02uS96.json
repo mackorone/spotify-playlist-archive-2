@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169511,
+  "num_followers": 169515,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADLs9eKU4VmRQTD1c/2Scdd",
+  "snapshot_id": "auvHAAAAAAB6eG0JBLzgDN66aTYeTbn3",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 345133,
-      "name": "RE:I AM",
-      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST SELECTION \"blanc\"",
         "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 329786,
       "name": "\u831c\u3055\u3059",
       "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "RE:I AM",
+      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 294930,
       "name": "\u671d\u304c\u6765\u308b",
       "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
-      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 365093,
       "name": "\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
+      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 245065,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 150842,
       "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
       "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 245065,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
       "duration_ms": 244186,
       "name": "Through My Blood <AM>",
       "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "STAND-ALONE",
-      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live to Survive",
-        "url": "https://open.spotify.com/album/57Iy10AkQGsp10EyJGL6zT"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 207517,
-      "name": "Live to Survive",
-      "url": "https://open.spotify.com/track/0Ylt36GkzEHeAljzzcck3L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "escalate",
         "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242341,
       "name": "escalate",
       "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live to Survive",
+        "url": "https://open.spotify.com/album/57Iy10AkQGsp10EyJGL6zT"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 207517,
+      "name": "Live to Survive",
+      "url": "https://open.spotify.com/track/0Ylt36GkzEHeAljzzcck3L"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: John Legend
 
-1,014 songs - 2 day 12 hr 16 min
+1,015 songs - 2 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 | 2025-12-12 |  |
 | [Fly Away](https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 3:12 | 2026-10-16 |  |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2024-02-17 |
+| [Follow](https://open.spotify.com/track/6cBP7BZg8nZ5fZtmRMsuRw) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Made In Chicago](https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce) | 3:25 | 2026-10-02 |  |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-09 | 2023-04-29 |
 | [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 | 2024-07-19 | 2026-07-09 |
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-12-03 | 2023-08-05 |
@@ -793,7 +794,7 @@
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 | 2024-07-20 |
 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 | 2023-06-09 | 2024-03-15 |
 | [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 | 2024-10-18 | 2025-03-18 |
-| [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 |  |
+| [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 | 2026-11-07 |
 | [So Distracted](https://open.spotify.com/track/0ngHbClCf9nU3XhflzdLuo) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Duets](https://open.spotify.com/album/34lwRHpFW4m8x0bxfSoiBO) | 4:10 | 2024-08-23 | 2024-08-31 |
 | [So Fine](https://open.spotify.com/track/2aFiUHeO8qy6LoWpjUUCQV) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [MyGuyMars](https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6) | [2BHONEST](https://open.spotify.com/album/14a2wFgqpnKtMmQUtHMcpZ) | 3:45 | 2025-08-22 | 2026-01-24 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 | 2023-10-01 |

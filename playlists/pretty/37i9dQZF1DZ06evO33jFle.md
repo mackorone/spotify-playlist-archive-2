@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,038 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,155 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 28 | [Sufriendo a Solas \- En Vivo](https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:20 |
 | 29 | [Chuper Amigos](https://open.spotify.com/track/6h8oQHda1vXeex187OLud3) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 4:05 |
 | 30 | [La Cara Bonita](https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 2:16 |
-| 31 | [La Mentada Contestada](https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida \(Deluxe\)](https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827) | 2:47 |
-| 32 | [Juro Que Nunca Volveré \- En Vivo](https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:29 |
+| 31 | [Juro Que Nunca Volveré \- En Vivo](https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:29 |
+| 32 | [La Mentada Contestada](https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida \(Deluxe\)](https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827) | 2:47 |
 | 33 | [Trono Caído](https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 2:38 |
 | 34 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 35 | [Querida Socia](https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 2:58 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 43 | [Detrás de Mi Ventana \- Banda](https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:37 |
 | 44 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
 | 45 | [Puño de Tierra \- En Vivo Desde Los Ángeles 2011](https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mírame Desde Staples Center \(En Vivo Desde Los Ángeles 2011\)](https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U) | 3:31 |
-| 46 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
+| 46 | [Las Mismas Costumbres](https://open.spotify.com/track/3N9IiTrJOqVECQy9zvhvPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:25 |
 | 47 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
 | 48 | [Se Marchó](https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Se las Voy a Dar a Otro](https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum) | 2:31 |
 | 49 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
-| 50 | [Las Mismas Costumbres](https://open.spotify.com/track/3N9IiTrJOqVECQy9zvhvPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:25 |
+| 50 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 
-Snapshot ID: `aukkAAAAAADnRLCZtPlQkB8CugheBttW`
+Snapshot ID: `auvHAAAAAAAG+xdS1oD2JzNgpWbZLEzE`

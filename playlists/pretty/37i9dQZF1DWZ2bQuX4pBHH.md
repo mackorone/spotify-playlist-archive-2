@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > It's Shah Rukh Khan world, and we're just falling in love in it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,161 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,238 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

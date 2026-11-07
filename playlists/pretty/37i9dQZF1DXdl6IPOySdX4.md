@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,002 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227,283 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 76 | [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 |
 | 77 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 78 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
-| 79 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
-| 80 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
+| 79 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
+| 80 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 | 81 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |
 | 82 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
-| 83 | [freak for you](https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [freak for you](https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg) | 2:26 |
-| 84 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
+| 83 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
+| 84 | [freak for you](https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [freak for you](https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg) | 2:26 |
 | 85 | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/track/27xprsAJJYC2U02zKog81S) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY) | 2:14 |
 | 86 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
-| 87 | [Le Boy](https://open.spotify.com/track/3cxRaVmDRFflWFgDg9TkX5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:30 |
-| 88 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
+| 87 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
+| 88 | [Le Boy](https://open.spotify.com/track/3cxRaVmDRFflWFgDg9TkX5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:30 |
 | 89 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |
 | 90 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 |
 | 91 | [DIET](https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DIET](https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd) | 2:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 96 | [more than just a little bit](https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [more than just a little bit](https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv) | 2:40 |
 | 97 | [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 |
 | 98 | [Sex with my Ex](https://open.spotify.com/track/36LKcafeByy2ybG5783w7e) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sex with my Ex](https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA) | 2:59 |
-| 99 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
-| 100 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 |
+| 99 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 |
+| 100 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
 
-Snapshot ID: `AAAAAPrryniSlmcOAGu7FUFcgmZD6ROr`
+Snapshot ID: `AAAAAJ2fZCl3zJcQATU/V63H82H5ZPEB`

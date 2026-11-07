@@ -1,29 +1,13 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Sigala",
-  "num_followers": 117530,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mode\u0101 ",
+  "num_followers": 117525,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiJ4Fp7p5pu7a2pH9I77+mnaw432MT",
+  "snapshot_id": "AAAiLERTx0KD0ek8iHYD0y3OUQcAWjWu",
   "tracks": [
-    {
-      "added_at": "2026-11-05 12:04:04",
-      "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
-      },
-      "artists": [
-        {
-          "name": "melih sar\u0131",
-          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
-        }
-      ],
-      "duration_ms": 153259,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
-    },
     {
       "added_at": "2026-10-29 23:00:09",
       "album": {
@@ -85,6 +69,22 @@
       "url": "https://open.spotify.com/track/1RBhbCIkpM7XCRGRZYXTQr"
     },
     {
+      "added_at": "2026-11-06 09:15:21",
+      "album": {
+        "name": "The Clock",
+        "url": "https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q"
+      },
+      "artists": [
+        {
+          "name": "KIRK",
+          "url": "https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "The Clock",
+      "url": "https://open.spotify.com/track/0dzUHHAq5OotCEmIbm4l7a"
+    },
+    {
       "added_at": "2026-10-15 22:00:04",
       "album": {
         "name": "SAVIOUR",
@@ -139,6 +139,22 @@
       "duration_ms": 157288,
       "name": "Pyramid",
       "url": "https://open.spotify.com/track/5BsVyxAfJWeIG1iPTn0Rpj"
+    },
+    {
+      "added_at": "2026-11-05 12:04:04",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
+      },
+      "artists": [
+        {
+          "name": "melih sar\u0131",
+          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
+        }
+      ],
+      "duration_ms": 153259,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
     },
     {
       "added_at": "2026-10-29 23:00:13",
@@ -267,6 +283,22 @@
       "duration_ms": 181363,
       "name": "Do It Like",
       "url": "https://open.spotify.com/track/6fCfnf1sLHfbPccmaAlZkN"
+    },
+    {
+      "added_at": "2026-11-06 09:15:21",
+      "album": {
+        "name": "The Clock",
+        "url": "https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q"
+      },
+      "artists": [
+        {
+          "name": "KIRK",
+          "url": "https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ"
+        }
+      ],
+      "duration_ms": 294193,
+      "name": "The Clock - Extended",
+      "url": "https://open.spotify.com/track/1plmf2Izb7I43XGbxzXQ2m"
     },
     {
       "added_at": "2026-10-01 22:00:04",

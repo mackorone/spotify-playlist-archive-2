@@ -2,7 +2,7 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\.  Photo: Aswell
+> De la musique québécoise pour tous les goûts\.  Photo: mokina, Gabrielle Olivo
 
 654 songs - 1 day 12 hr 36 min
 

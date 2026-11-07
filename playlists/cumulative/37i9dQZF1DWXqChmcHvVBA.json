@@ -269,6 +269,32 @@
     },
     {
       "album": {
+        "name": "AL PISO",
+        "url": "https://open.spotify.com/album/4XFecUXG6QFNwEPpYeumXp"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "WHTEGOLD",
+          "url": "https://open.spotify.com/artist/2jqN3kjKQ51QM1cDcKNQYb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150020,
+      "name": "AL PISO",
+      "url": "https://open.spotify.com/track/0wz58d48fCsGg1GSgc0Egz"
+    },
+    {
+      "album": {
         "name": "Al Que Te Toque Rkt",
         "url": "https://open.spotify.com/album/3rD559B4jIqgfWzTUoWTVK"
       },
@@ -648,6 +674,24 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "album": {
+        "name": "Auto Lujoso",
+        "url": "https://open.spotify.com/album/7sIfBOEQpP5Mno5gtbdzdn"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Auto Lujoso",
+      "url": "https://open.spotify.com/track/1LCt0CNXrNGtexNleWickO"
     },
     {
       "album": {
@@ -4479,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "Pal piso",
+        "url": "https://open.spotify.com/album/3iOfqlw6kaGso3IoxsUeRv"
+      },
+      "artists": [
+        {
+          "name": "Cande Gonzalez",
+          "url": "https://open.spotify.com/artist/6HxhkBkKezR26FbMHVuKNq"
+        },
+        {
+          "name": "mamiyosoyelth",
+          "url": "https://open.spotify.com/artist/0WeYfeSY8u5DBuDSu1f7s5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160096,
+      "name": "Pal piso",
+      "url": "https://open.spotify.com/track/6pdVFjzhS3cJ5GEw7xTQRe"
+    },
+    {
+      "album": {
         "name": "Para el Tiktok",
         "url": "https://open.spotify.com/album/6N92O2oINCkzp5qwKLSIWt"
       },
@@ -4626,7 +4692,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 138000,
       "name": "Peipper | Mission 11",
       "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
@@ -4696,6 +4762,24 @@
       "duration_ms": 134123,
       "name": "Perreo Cacheton",
       "url": "https://open.spotify.com/track/1GVe6rHBYbLPDlA3bMceFa"
+    },
+    {
+      "album": {
+        "name": "PERREO CASINO",
+        "url": "https://open.spotify.com/album/0ONVt27nRaT0i1mUHnlOCS"
+      },
+      "artists": [
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127254,
+      "name": "PERREO CASINO",
+      "url": "https://open.spotify.com/track/3I4elkEHvGa9w02h437ez9"
     },
     {
       "album": {
@@ -5758,7 +5842,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 149988,
       "name": "Se Desacata - Remix",
       "url": "https://open.spotify.com/track/2FFqiAGscJVONPhEAxhpfY"
@@ -7554,7 +7638,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -8046,7 +8130,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"

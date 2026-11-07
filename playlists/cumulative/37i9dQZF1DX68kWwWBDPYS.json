@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidxs haciendo m\u00fasica chida. Erich en portada.",
+  "description": "morrxs chidxs haciendo m\u00fasica chida. Midnight Generation en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Bancate tu viaje",
+        "url": "https://open.spotify.com/album/2xe5Pl8BXQPwnxjqs2RzOA"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Bancate tu viaje",
+      "url": "https://open.spotify.com/track/6kFI9PWWCWnbrq7fkDhqeO"
+    },
+    {
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/2zvLgTtYG2f6DiKLsuqich"
       },
@@ -1302,6 +1320,24 @@
       "duration_ms": 171000,
       "name": "Cambio De Ciudad",
       "url": "https://open.spotify.com/track/39rB0FtKibYVi5Lo9kD177"
+    },
+    {
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/74eaJPwTd8WYTtNAjOiaXd"
+      },
+      "artists": [
+        {
+          "name": "Maria Nastenka",
+          "url": "https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/3hmfdCdsuRYaGdzvZC4lqa"
     },
     {
       "album": {
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 190546,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5SXvN0iSKGmSgIoin5TjJT"
@@ -7265,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/1vhEG3tznbXm0Gi8nvCr2k"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325986,
+      "name": "To Be Someone",
+      "url": "https://open.spotify.com/track/7rdUYGLaSiemFz7qCESfd7"
+    },
+    {
+      "album": {
         "name": "Toda La Luz",
         "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
       },
@@ -7400,7 +7454,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 197435,
       "name": "TODOTERRENO",
       "url": "https://open.spotify.com/track/57bczw09mhiwNz2kpX7yJb"

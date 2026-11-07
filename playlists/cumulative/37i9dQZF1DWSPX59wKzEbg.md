@@ -4,7 +4,7 @@
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-62 songs - 3 hr 34 min
+63 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Happy Xmas \(War Is Over\) \- Symphony Orchestra Version](https://open.spotify.com/track/6x778u9CMPh1xreSxK59D8) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Christmas Classics \(Classical Versions\)](https://open.spotify.com/album/3KGUPeNLamfT2KPHlcHTym) | 2:51 | 2025-12-05 |  |
 | [Hark The Herald Angels Sing/O Come All Ye Faithful](https://open.spotify.com/track/1QQ8HuR86qd0gzbKcn699W) | [Clay Aiken](https://open.spotify.com/artist/13aBWT8LN4oNWWGFOu96MA) | [Merry Christmas With Love](https://open.spotify.com/album/5w5zxqNrJYFL1y8a8HtuLD) | 4:00 | 2023-12-08 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2023-12-08 |  |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/5TVdNsYo8THVmvr8GU0m3K) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl) | [Heaven Is A Place On Earth](https://open.spotify.com/album/59Tyapxv4VwDqh8NBJJAJC) | 3:05 | 2026-11-06 |  |
 | [Home for Christmas \- Fireside Mix](https://open.spotify.com/track/17osclgmQLjGfBtMZFd3lv) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl) | [Home for Christmas](https://open.spotify.com/album/0ubtrZL0H4L1kHOnq8ba3G) | 2:42 | 2023-12-08 |  |
 | [I Believe In Father Christmas](https://open.spotify.com/track/3aL5PN7zwviscZjvC1WBd5) | [Joe McElderry](https://open.spotify.com/artist/38SqjWcm8au0qiQZvd3FbF) | [Classic Christmas](https://open.spotify.com/album/1ApSL79W5qVeFQUF79qZPV) | 3:09 | 2023-12-08 |  |
 | [I Saw Three Ships Come Sailing In \(on Christmas Day\)](https://open.spotify.com/track/2ZTjXwLUWPld0SRPdGt5VJ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Richard & Adam](https://open.spotify.com/artist/2TdaPBiCkL9QpjOpjCkeBB) | [The Christmas Album](https://open.spotify.com/album/3ZbokJViQDiADPzeDubET2) | 3:15 | 2023-12-08 |  |

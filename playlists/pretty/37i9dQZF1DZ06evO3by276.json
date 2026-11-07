@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3247115,
+  "num_followers": 3247217,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACmxrwEhNnqgLvSs0MQymk/",
+  "snapshot_id": "auvHAAAAAAC/RIVZqOjmWV1XR0+Up+OF",
   "tracks": [
     {
       "added_at": null,
@@ -250,15 +250,11 @@
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": null,
@@ -322,11 +318,15 @@
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 200013,
-      "name": "You Da One",
-      "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"
+      "duration_ms": 206400,
+      "name": "Sex With Me",
+      "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Sex With Me",
-      "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "Love The Way You Lie (Part II) - Pt. 2",
-      "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 209600,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/57mKcbEq7nMqtJ4gqJvWcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 296226,
+      "name": "Love The Way You Lie (Part II) - Pt. 2",
+      "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
     },
     {
       "added_at": null,

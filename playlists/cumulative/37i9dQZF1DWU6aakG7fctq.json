@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Silvana Estrada & M. Ward",
+  "description": "Fresh Latin Indie you should know. Cover: Silvestre y La Naranja",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181450,
       "name": "Alguien",
       "url": "https://open.spotify.com/track/7BKUlYZlKQi7Hd9qFI3fwK"
@@ -7001,6 +7001,24 @@
     },
     {
       "album": {
+        "name": "cimiento",
+        "url": "https://open.spotify.com/album/69w2WLj7sZluDBDltYNA1G"
+      },
+      "artists": [
+        {
+          "name": "Lucy Vives",
+          "url": "https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133862,
+      "name": "El Jaguar",
+      "url": "https://open.spotify.com/track/7A6F8AkMvmds7VMRQl514t"
+    },
+    {
+      "album": {
         "name": "El Juego",
         "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
       },
@@ -9871,6 +9889,24 @@
     },
     {
       "album": {
+        "name": "HEELS",
+        "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
+      },
+      "artists": [
+        {
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151532,
+      "name": "HEELS",
+      "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
+    },
+    {
+      "album": {
         "name": "Helao",
         "url": "https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt"
       },
@@ -10030,7 +10066,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181714,
       "name": "Hombre De Bien",
       "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
@@ -11304,7 +11340,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
@@ -11810,6 +11846,24 @@
       "duration_ms": 198650,
       "name": "Lara",
       "url": "https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Cambian",
+        "url": "https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156170,
+      "name": "Las Cosas Cambian",
+      "url": "https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD"
     },
     {
       "album": {
@@ -14119,6 +14173,24 @@
     },
     {
       "album": {
+        "name": "El M\u00e1s Feliz de los Tristes",
+        "url": "https://open.spotify.com/album/3xCb1oxClCtTvz0TdQj8I0"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Mercedes Rosa",
+      "url": "https://open.spotify.com/track/0w9KWawjDKyw9p8Otdouq9"
+    },
+    {
+      "album": {
         "name": "Observation I: Metamorphosis",
         "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
       },
@@ -15146,7 +15218,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210156,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/3UnR5KeYbW8kCLc2jvTkfE"
@@ -18809,6 +18881,24 @@
     },
     {
       "album": {
+        "name": "PROFUNDA",
+        "url": "https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ"
+      },
+      "artists": [
+        {
+          "name": "judith",
+          "url": "https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154449,
+      "name": "PROFUNDA",
+      "url": "https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T"
+    },
+    {
+      "album": {
         "name": "Promesas de Origami",
         "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
       },
@@ -19566,7 +19656,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 358625,
       "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
       "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
@@ -20576,6 +20666,24 @@
       "duration_ms": 171224,
       "name": "se fue",
       "url": "https://open.spotify.com/track/1KCz0aKX8syLE5bDxo7jmE"
+    },
+    {
+      "album": {
+        "name": "se queda corto el beat",
+        "url": "https://open.spotify.com/album/7hOH4WwfCTIZAWpj8mayTj"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102531,
+      "name": "se queda corto el beat",
+      "url": "https://open.spotify.com/track/2CORGIZPyBTQE6fIrGBtfc"
     },
     {
       "album": {
@@ -24830,7 +24938,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189526,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6xIo24DMIhvo2WbVyYdsuu"

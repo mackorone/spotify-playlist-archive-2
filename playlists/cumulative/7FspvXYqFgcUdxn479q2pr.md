@@ -2,9 +2,9 @@
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: MORTEN
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Modeā
 
-1,314 songs - 2 day 18 hr 28 min
+1,316 songs - 2 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,6 +1133,8 @@
 | [The Big Fake](https://open.spotify.com/track/10BpmIujqYT8HvsnNzrstN) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [The Big Fake](https://open.spotify.com/album/0Svzzm1IUI9RjzP5a08ikg) | 2:33 | 2024-10-24 | 2024-11-08 |
 | [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 | 2025-05-22 | 2025-05-31 |
 | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz) | 2:33 | 2024-09-19 | 2024-10-18 |
+| [The Clock](https://open.spotify.com/track/0dzUHHAq5OotCEmIbm4l7a) | [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [The Clock](https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q) | 2:50 | 2026-11-06 |  |
+| [The Clock \- Extended](https://open.spotify.com/track/1plmf2Izb7I43XGbxzXQ2m) | [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [The Clock](https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q) | 4:54 | 2026-11-06 |  |
 | [The Connection](https://open.spotify.com/track/5Wariiifxkc1QBGZ0xjRDB) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [The Connection](https://open.spotify.com/album/1WU8j8f9qIQwhc6IM1ZQI8) | 3:14 | 2025-10-17 | 2026-02-14 |
 | [The Echo](https://open.spotify.com/track/5uuq38sbZBuNNwLNYxlQXD) | [Vareso](https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l) | [The Echo](https://open.spotify.com/album/5UyUbt1pZsHmqxaBWXJy0n) | 4:29 | 2026-01-30 | 2026-02-07 |
 | [The Game](https://open.spotify.com/track/3NudrsFkJpY09ab1UjmuS4) | [Different Stage](https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z) | [The Game](https://open.spotify.com/album/5IXxoWURqzdih9oT5JMdGE) | 4:00 | 2024-05-02 | 2024-05-11 |

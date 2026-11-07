@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Busta Rhymes
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Anderson .Paak & Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,216 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,087 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 2 | [Godfather II](https://open.spotify.com/track/6GgQiSyhTWqmmBy9V5Blob) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 3:03 |
 | 3 | [Champagne Wishes](https://open.spotify.com/track/6X0GUwX9bx4DN85x8meUtR) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Expensive Taste](https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu) | 5:39 |
 | 4 | [ZILLA](https://open.spotify.com/track/1AFeuYhsse5HyF679zJiOY) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [ZILLA](https://open.spotify.com/album/2bA62lIFAMlOitMT1XLOwI) | 2:51 |
-| 5 | [Talk Ya Shit](https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Talk Ya Shit](https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4) | 2:25 |
+| 5 | [Night Vision \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/43jJnAZdZjJo82uyPgUV7w) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Off To The Races](https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt) | 2:42 |
 | 6 | [Crown](https://open.spotify.com/track/2imgEKscNLv6OKGP1HUckh) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 2:39 |
 | 7 | [Love Me Now](https://open.spotify.com/track/4IKUU6v9QkLdAD6px5cAlf) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Love Me Now](https://open.spotify.com/album/0hcCuwdLOc9cfcHcYPqfij) | 3:02 |
-| 8 | [This Thing Of Ours](https://open.spotify.com/track/3f3tSkQZSenHPlwWle2Sx1) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [This Thing Of Ours](https://open.spotify.com/album/4YaAKHY0doFAEV5vTglLW0) | 2:39 |
+| 8 | [Kamikaze Drive](https://open.spotify.com/track/0kvYS4piD9NWnfQnc4zx4m) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Off To The Races](https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt) | 2:01 |
 | 9 | [When I Say Shhh](https://open.spotify.com/track/6kTDC74zulnuisCKIy9OFC) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Illmac](https://open.spotify.com/artist/57cZEJjLppvEmppehjqwmI) | [Illmad](https://open.spotify.com/album/03PHVxcQtxlVwuWFeSNk6O) | 3:26 |
 | 10 | [STATIC](https://open.spotify.com/track/06jJ94bMXKhgOhTniBtSEv) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [STRIKING](https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx) | 3:36 |
-| 11 | [Rabbit](https://open.spotify.com/track/6ejYa5BRCvtggFmszLmojK) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [MAC SHAWN 100](https://open.spotify.com/artist/5Kts0PTxYYY47DRxMq5iKQ) | [Rabbit](https://open.spotify.com/album/46w322n0Rl8yGZiVtTCWtB) | 3:26 |
+| 11 | [Ain't So Far](https://open.spotify.com/track/3bZ3VVv3VvdzNI0hsYTJNH) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Harley Harl](https://open.spotify.com/artist/76A5AGFCf2dOoi3BlqJBB1) | [Expensive Taste](https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu) | 3:10 |
 | 12 | [Trouble Trouble](https://open.spotify.com/track/24piW3iCJkkqv3giorOvZY) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Trouble Trouble](https://open.spotify.com/album/7uY3pHvR0adNfXlFxsulXa) | 4:13 |
 | 13 | [Que Sera](https://open.spotify.com/track/40sdqna7xeWrXMTPPdcG0E) | [Stoney Jackson](https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ) | [Que Sera](https://open.spotify.com/album/3A3WJ5Q2jVMEcIbafplub8) | 3:41 |
 | 14 | [KNOCK](https://open.spotify.com/track/0idGJz40xztZf3amTmEKax) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [KNOCK](https://open.spotify.com/album/0L0sz7yXh4q0FWU5wEVvAk) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Lemon Pepper Steppers](https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 2:46 |
 | 50 | [This Woman \(feat\. D'Angelo\)](https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [DILLAGENCE II](https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh) | 4:21 |
 
-Snapshot ID: `AAAAALYpJwrlnMLBxyslDr7wasX8lzkD`
+Snapshot ID: `AAAAABAryy8pjhd3k54hVD56yNxxxTvS`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 897724,
+  "num_followers": 897791,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAB7HZz4oNPpGRlSrR7LqcBH",
+  "snapshot_id": "auvHAAAAAACJcCmCASoBtTOffK0uI0zD",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 193038,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
     },
     {
       "added_at": null,
@@ -187,26 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
       },
       "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flavorz Pack",
+        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 218059,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 202413,
       "name": "Aquel diciembre",
       "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flavorz Pack",
-        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 218059,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Error 93",
         "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 305113,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
     },
     {
       "added_at": null,
@@ -799,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+        "name": "Body (Remix)",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 163265,
-      "name": "Besalo",
-      "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
+      "duration_ms": 234240,
+      "name": "Body - Remix",
+      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
     },
     {
       "added_at": null,
@@ -835,6 +839,26 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
     },
     {
       "added_at": null,
@@ -879,30 +903,6 @@
       "duration_ms": 246746,
       "name": "QU\u00c9 RICO CH**GAMOS",
       "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body (Remix)",
-        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Body - Remix",
-      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
     },
     {
       "added_at": null,

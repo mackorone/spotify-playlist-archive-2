@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
+    {
+      "album": {
         "name": "Describe",
         "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
       },

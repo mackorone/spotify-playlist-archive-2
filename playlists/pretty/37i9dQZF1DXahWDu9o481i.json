@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 122139,
+  "num_followers": 122958,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Wish Upon You",
-        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 277248,
-      "name": "Wish Upon You",
-      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 306397,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 222580,
       "name": "Dientes De Fierro",
       "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Summer Clothes",
-        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "Summer Clothes",
-      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 184689,
       "name": "Memories",
       "url": "https://open.spotify.com/track/403gawZsw405TxgN5LIuDp"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "We'll Never Be This Young Again",
-      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Stalks",
         "url": "https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 167831,
       "name": "Stalks",
       "url": "https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "We'll Never Be This Young Again",
+      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Nature's Pill",
         "url": "https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 257893,
       "name": "Covergirl",
       "url": "https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lindsey",
-          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Call Me If You Need Me",
         "url": "https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 142869,
       "name": "Call Me If You Need Me",
       "url": "https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "FAITH OVER FAME",
+        "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 194527,
+      "name": "SUPERHERO",
+      "url": "https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Sentimental Ultra",
         "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 192500,
       "name": "Sentimental Ultra",
       "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "FAITH OVER FAME",
-        "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 194527,
-      "name": "SUPERHERO",
-      "url": "https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp"
     },
     {
       "added_at": "2026-10-27 04:00:01",

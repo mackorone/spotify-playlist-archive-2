@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Kapo en portada",
+  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Nicky Jam  en portada",
   "name": "Flow Tranqui",
   "tracks": [
     {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 187198,
       "name": "Bby Girl",
       "url": "https://open.spotify.com/track/1npPkv3P1OWlnmkeEPSSi0"
@@ -1862,6 +1862,24 @@
       "duration_ms": 187428,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
+    },
+    {
+      "album": {
+        "name": "BONSAI",
+        "url": "https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "BONSAI",
+      "url": "https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele"
     },
     {
       "album": {
@@ -9873,6 +9891,24 @@
     },
     {
       "album": {
+        "name": "QUE TALENTO",
+        "url": "https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "QUE TALENTO",
+      "url": "https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc"
+    },
+    {
+      "album": {
         "name": "Que Vuelta",
         "url": "https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx"
       },
@@ -11899,6 +11935,24 @@
     },
     {
       "album": {
+        "name": "TESORIIITO",
+        "url": "https://open.spotify.com/album/7fvVTbNgJjY0jqMOApwqrO"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "TESORIIITO",
+      "url": "https://open.spotify.com/track/3oiFhiHsLKdWjsQpHWmwhz"
+    },
+    {
+      "album": {
         "name": "Thal\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
       },
@@ -12672,7 +12726,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170400,
       "name": "Vida Nueva",
       "url": "https://open.spotify.com/track/52Ad11OpNQoiG5E2eRw93c"

@@ -4,7 +4,7 @@
 
 > recent trending tracks in rock, alt, metal, and punk.
 
-170 songs - 10 hr 22 min
+171 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,13 +46,13 @@
 | [die first](https://open.spotify.com/track/3TfDUStpnEVIlsNlgcKQgJ) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:57 | 2022-11-30 | 2024-04-06 |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-05 | 2026-04-08 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-31 | 2026-05-20 |
-| [Doomed](https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j) | [Maphra](https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58) | [Doomed](https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko) | 4:35 | 2026-03-26 |  |
+| [Doomed](https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j) | [Maphra](https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58) | [Doomed](https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko) | 4:35 | 2026-03-26 | 2026-11-07 |
 | [Doubt](https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:11 | 2025-04-09 |  |
 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-25 |  |
 | [Dreaming](https://open.spotify.com/track/4bzv1DvQF2kCESPeKBhXNO) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Home](https://open.spotify.com/album/2ZMGAQ1QyWmirdMQ1KET8o) | 3:45 | 2025-06-19 | 2026-03-24 |
 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 | 2022-11-30 | 2024-04-06 |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2026-09-25 |  |
-| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-05-19 |  |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-05-19 | 2026-11-07 |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-04-09 | 2026-01-06 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-04-05 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:53 | 2022-11-30 | 2024-04-06 |
@@ -149,6 +149,7 @@
 | [Spit](https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Corpus I](https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm) | 4:00 | 2025-06-12 | 2026-05-20 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2025-03-05 | 2026-03-24 |
 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 | 2025-03-04 | 2026-01-06 |
+| [Stolen From Each Other](https://open.spotify.com/track/2foXimKq2TNtJdl7SAyxNH) | [Nova Charisma](https://open.spotify.com/artist/38eA1ThaS4uXfJjh8N8OaX) | [Metropolitan](https://open.spotify.com/album/3OGDLxOOdRXY782Ilkjxy0) | 4:03 | 2026-11-07 |  |
 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2024-07-30 | 2026-01-06 |
 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-12-06 | 2025-02-15 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-11-30 | 2024-04-06 |

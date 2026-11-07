@@ -4,13 +4,13 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-846 songs - 1 day 14 hr 19 min
+847 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 pm](https://open.spotify.com/track/1Hnd8zA1htyvgn0qoNhHzh) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [10 pm](https://open.spotify.com/album/55w3aNDAyajf7yNTu8Wjdz) | 2:24 | 2021-12-23 | 2022-01-08 |
 | [1664](https://open.spotify.com/track/5gzGeAaYa6uTsJPpD4hFg9) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Nations](https://open.spotify.com/album/7FlNrwZl4kdRCN2RaXu9Ur) | 1:17 | 2021-12-23 | 2022-05-12 |
-| [16:18](https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [16:18](https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z) | 3:17 | 2021-12-23 |  |
+| [16:18](https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [16:18](https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z) | 3:17 | 2021-12-23 | 2026-11-07 |
 | [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 | 2025-06-03 |  |
 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-12-14 | 2024-12-23 |
 | [2GI NO NA2](https://open.spotify.com/track/0rPEJjMxTD7oB3YZgc0Zbw) | [M%O](https://open.spotify.com/artist/0eH8CnTyhcebjiCNUVC3kT), [MURO](https://open.spotify.com/artist/29PJtOTZvqWkikYC5Lvpej), [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH) | [M%O](https://open.spotify.com/album/3w87AShsAbRv6SyIWJf2uG) | 2:19 | 2021-12-23 | 2022-07-28 |
@@ -121,6 +121,7 @@
 | [Chains Reaction](https://open.spotify.com/track/3n8A9cPu1GOX2iBYV8UOeu) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Chains Reaction](https://open.spotify.com/album/5MvtRBgZqo1KzpVsvgicuX) | 2:01 | 2023-07-27 | 2023-09-20 |
 | [Charlie](https://open.spotify.com/track/3S34zryr8HZBiG6WglMjLU) | [MIKISARA](https://open.spotify.com/artist/03y7qdJe0fDUfULcg162jZ) | [Charlie](https://open.spotify.com/album/1lDSDQQgtARrpPYjYwblyo) | 5:01 | 2021-12-23 | 2022-02-10 |
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
+| [Chic](https://open.spotify.com/track/6RwBSXb1EMcEAtQrjwtJ4r) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Chic](https://open.spotify.com/album/3lDqMpPIRQxHWexY9u3PGN) | 1:52 | 2026-10-20 |  |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
 | [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 |  |

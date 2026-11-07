@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
+  "description": "Best of Haryanvi Hip-Hop! Cover: MC SQUARE",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173048,
       "name": "2 BHAI",
       "url": "https://open.spotify.com/track/4pkv7RFkMoQk5IlibNLHdW"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154295,
       "name": "Case",
       "url": "https://open.spotify.com/track/53tpC9hT4TkOTIDeurOIRL"
@@ -2738,6 +2738,28 @@
       "duration_ms": 193494,
       "name": "Check Check",
       "url": "https://open.spotify.com/track/6w0zaLV4DGQk66bDWc3dWs"
+    },
+    {
+      "album": {
+        "name": "TRIATHLON",
+        "url": "https://open.spotify.com/album/3U0jiC6n6QOHYYS1tk3Uvk"
+      },
+      "artists": [
+        {
+          "name": "Kuhad",
+          "url": "https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin"
+        },
+        {
+          "name": "T-Raj",
+          "url": "https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "CHECKMATE",
+      "url": "https://open.spotify.com/track/3vBGhjnRUX7NnTHp6jxu8w"
     },
     {
       "album": {
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146966,
       "name": "DANCE BITCH",
       "url": "https://open.spotify.com/track/3DCdTHw9qXOKR9PODV4IUp"
@@ -4505,6 +4527,28 @@
     },
     {
       "album": {
+        "name": "TRIATHLON",
+        "url": "https://open.spotify.com/album/3U0jiC6n6QOHYYS1tk3Uvk"
+      },
+      "artists": [
+        {
+          "name": "Kuhad",
+          "url": "https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin"
+        },
+        {
+          "name": "T-Raj",
+          "url": "https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "DON JULIO",
+      "url": "https://open.spotify.com/track/4GM2kUeMkJytnAlyOGQ7yB"
+    },
+    {
+      "album": {
         "name": "Donali",
         "url": "https://open.spotify.com/album/134hUe3TzaKTnB2rlSIqMC"
       },
@@ -4556,6 +4600,28 @@
       "duration_ms": 165788,
       "name": "Dosti Yaari",
       "url": "https://open.spotify.com/track/0zEGbgdmtX0DQNuXPKlwn4"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6tlzbxoP2KDOYpmNaa6FhZ"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143501,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4Il44NRjvPcODmlRjVvdrN"
     },
     {
       "album": {
@@ -5210,7 +5276,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 117767,
       "name": "Flood Flow",
       "url": "https://open.spotify.com/track/2R5E1i3T4ONAWnTaPSe5M5"
@@ -6062,7 +6128,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162303,
       "name": "Guns & Roses",
       "url": "https://open.spotify.com/track/1XgEY8Of2TmMUJWRb7aDE4"
@@ -6490,6 +6556,36 @@
       "duration_ms": 147374,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/4dlDoH3H44W5X0y8lG99mX"
+    },
+    {
+      "album": {
+        "name": "Hey Bhagwan",
+        "url": "https://open.spotify.com/album/6BMsh2LPzoBW8jT4k5ekaQ"
+      },
+      "artists": [
+        {
+          "name": "Duryodhan Rana",
+          "url": "https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX"
+        },
+        {
+          "name": "Khanna",
+          "url": "https://open.spotify.com/artist/5oRD79FfIswtEGSf5R3jBz"
+        },
+        {
+          "name": "Prodbysoundscape",
+          "url": "https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX"
+        },
+        {
+          "name": "Yash Thukral",
+          "url": "https://open.spotify.com/artist/0Cj3wCMwyxvbP4nQobAj6R"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151110,
+      "name": "Hey Bhagwan",
+      "url": "https://open.spotify.com/track/08EzDr3janLc9CcnbkGdgj"
     },
     {
       "album": {
@@ -6967,6 +7063,32 @@
     },
     {
       "album": {
+        "name": "Sometimes I Rap",
+        "url": "https://open.spotify.com/album/2Ni8mtfpL0Ul1RrG3QDHQ3"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166128,
+      "name": "I FEEL LIKE!",
+      "url": "https://open.spotify.com/track/5xobcrVbHvJVxBtGqagRQe"
+    },
+    {
+      "album": {
         "name": "DNW Vol. 1",
         "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
       },
@@ -7218,6 +7340,28 @@
       "duration_ms": 186673,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/7maO75wgp37ChpIbnEH9Zz"
+    },
+    {
+      "album": {
+        "name": "Jaane Ja",
+        "url": "https://open.spotify.com/album/114RsZ06jcYiIDwuuAOWIM"
+      },
+      "artists": [
+        {
+          "name": "Lv94",
+          "url": "https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur"
+        },
+        {
+          "name": "Mt 35",
+          "url": "https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Jaane Ja",
+      "url": "https://open.spotify.com/track/4MRygrTCxmU8DrL89tv9zO"
     },
     {
       "album": {
@@ -8880,7 +9024,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 116363,
       "name": "LAMCHOOS",
       "url": "https://open.spotify.com/track/2hlNxMwF6m2Zq6zb1f7lIz"
@@ -10559,6 +10703,28 @@
     },
     {
       "album": {
+        "name": "No Snitching",
+        "url": "https://open.spotify.com/album/0TXfOPpG9IDTki1LjIKToN"
+      },
+      "artists": [
+        {
+          "name": "Vin WRLD",
+          "url": "https://open.spotify.com/artist/37D897y6HIsPZva78utb0q"
+        },
+        {
+          "name": "Harshit Rao",
+          "url": "https://open.spotify.com/artist/4hG9gLSrqA4I4ZHTlh1KB4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160299,
+      "name": "No Snitching",
+      "url": "https://open.spotify.com/track/5yv7p5rFVCUeIOxNwguOaZ"
+    },
+    {
+      "album": {
         "name": "No Tension - Single",
         "url": "https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L"
       },
@@ -11360,7 +11526,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 207759,
       "name": "Paisa Phek",
       "url": "https://open.spotify.com/track/2LzTzRIXMquLVwYP64rGtt"
@@ -11496,7 +11662,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 237600,
       "name": "Paracetamol",
       "url": "https://open.spotify.com/track/7GKBrQTO8TXHp0l1CG9RKX"
@@ -13355,6 +13521,28 @@
     },
     {
       "album": {
+        "name": "Sometimes I Rap",
+        "url": "https://open.spotify.com/album/2Ni8mtfpL0Ul1RrG3QDHQ3"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238617,
+      "name": "Sometimes I Rap",
+      "url": "https://open.spotify.com/track/5VDOsMol8dt2XS4b51ZmJz"
+    },
+    {
+      "album": {
         "name": "Starboi",
         "url": "https://open.spotify.com/album/3pfamLffYqusrGZe2Qzu9B"
       },
@@ -13480,7 +13668,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 161739,
       "name": "STR8 TALK",
       "url": "https://open.spotify.com/track/2l1vaI02ZZWoqTPjw01ri2"
@@ -14682,7 +14870,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 131333,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/4uylLbB0ct19TJsbB9sfVR"
@@ -15305,6 +15493,28 @@
     },
     {
       "album": {
+        "name": "Sometimes I Rap",
+        "url": "https://open.spotify.com/album/2Ni8mtfpL0Ul1RrG3QDHQ3"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180768,
+      "name": "Winter Soldier",
+      "url": "https://open.spotify.com/track/4CtEeuQTx2eSlrTS4FiGQT"
+    },
+    {
+      "album": {
         "name": "Tem Aan Do",
         "url": "https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw"
       },
@@ -15328,6 +15538,28 @@
       "duration_ms": 176664,
       "name": "World War",
       "url": "https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D"
+    },
+    {
+      "album": {
+        "name": "WWA - When We Arrive",
+        "url": "https://open.spotify.com/album/45clDICJ6WVvF69uI0iuLb"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "WWA - When We Arrive",
+      "url": "https://open.spotify.com/track/7HZTSKqnP7Tr4c4LPmkGLx"
     },
     {
       "album": {

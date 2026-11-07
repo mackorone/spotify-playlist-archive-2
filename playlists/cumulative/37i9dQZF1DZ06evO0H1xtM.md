@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-151 songs - 7 hr 47 min
+152 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2023-08-08 | 2025-07-12 |
 | [El Tapon](https://open.spotify.com/track/2WtEc2o95Brgz52Xsm1Igu) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:47 | 2023-08-08 | 2026-03-26 |
 | [El Trébol de la Suerte](https://open.spotify.com/track/5O8ldmYB4pDLtEGwttnS6V) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Trébol de la Suerte](https://open.spotify.com/album/4tTABLflOnratxanByfHFA) | 3:56 | 2023-08-08 | 2024-03-30 |
-| [El Veintitantos](https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 2:47 | 2026-03-06 |  |
+| [El Veintitantos](https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 2:47 | 2026-03-06 | 2026-11-07 |
 | [El Veintitantos](https://open.spotify.com/track/27LrAuBRkxge9zxIQLljjc) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 | 2025-05-27 | 2025-07-14 |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-08-23 |  |
 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 | 2024-02-03 |  |
@@ -153,6 +153,7 @@
 | [Tu Me Enseñaste](https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Tu Me Enseñaste](https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0) | 3:33 | 2023-08-08 | 2024-10-05 |
 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh) | 1:50 | 2023-08-08 | 2025-05-24 |
 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 | 2025-05-24 | 2026-09-27 |
+| [Vitamina](https://open.spotify.com/track/2TKHT1XU7XZTi3BmU9WjSg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Vitamina](https://open.spotify.com/album/6tchKHgP5p2HT8B50gFAcN) | 2:54 | 2026-11-07 |  |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2023-08-08 | 2024-04-19 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-04-19 |  |
 | [Ya Va Haber Algo](https://open.spotify.com/track/4GrBjsSTRqeKEl4m56YhJ1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Ya Va Haber Algo](https://open.spotify.com/album/388986wIgntQUo8UookHGS) | 2:18 | 2024-01-20 | 2024-11-07 |

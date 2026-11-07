@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Mariano Otero",
-  "num_followers": 34335,
+  "num_followers": 34337,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
-      },
-      "artists": [
-        {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+      },
+      "artists": [
+        {
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
-      },
-      "artists": [
-        {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -1355,18 +1355,26 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -1403,26 +1411,18 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
         }
       ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     }
   ],
   "unique_name": "Jazz Argentino",

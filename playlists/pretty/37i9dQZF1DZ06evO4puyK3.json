@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167129,
+  "num_followers": 167122,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABdWVP3xSkFyxdtP+Iv506H",
+  "snapshot_id": "aup1gAAAAADqMFnDDjP28tRQ91STaIzw",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata da GG, Vol. 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 160630,
       "name": "Larica De Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/5gnTi78Q7nDlA2pqa4nKnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163544,
-      "name": "Entendi Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 145056,
       "name": "FOGO NO BARRACO",
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Entendi Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 J\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 182182,
-      "name": "At\u00e9 J\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 165157,
       "name": "JOGO PERIGOSO",
       "url": "https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 J\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 182182,
+      "name": "At\u00e9 J\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from daine, Lizzy McAlpine, DMA's, Skepta, Slayyyter, Mack Geiger, Te Wehi, MELOWDOWNZ, Hohua Sta + more ",
-  "num_followers": 462573,
+  "num_followers": 462774,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACnwJZJ8lofQvuKOr/hvE9DuGSJ5",
+  "snapshot_id": "AAAAAB1D91Jrlusif1AI17gZHeGH7aar",
   "tracks": [
     {
       "added_at": "2026-11-05 13:00:09",
@@ -40,8 +40,8 @@
           "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 183937,
+      "name": "Best Life",
       "url": "https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z"
     },
     {
@@ -147,6 +147,38 @@
       "duration_ms": 205741,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Mr. Do Something",
+      "url": "https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY"
     },
     {
       "added_at": "2026-11-05 13:00:09",
@@ -332,8 +364,8 @@
           "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 14",
+      "duration_ms": 221786,
+      "name": "Wild Love",
       "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
     },
     {
@@ -362,10 +394,14 @@
         {
           "name": "Cherry Chola",
           "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 261818,
+      "name": "Cherry Baby Loca",
       "url": "https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN"
     },
     {
@@ -423,6 +459,26 @@
       "duration_ms": 215906,
       "name": "Carottes",
       "url": "https://open.spotify.com/track/78mrAmRMY1Pv0aD6JqD4RE"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
     },
     {
       "added_at": "2026-11-05 13:00:09",
@@ -500,8 +556,8 @@
           "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 176603,
+      "name": "Flow Switcher",
       "url": "https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm"
     },
     {
@@ -519,6 +575,22 @@
       "duration_ms": 229484,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
     },
     {
       "added_at": "2026-11-05 13:00:09",
@@ -968,8 +1040,8 @@
           "url": "https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 178828,
+      "name": "You Ain't It",
       "url": "https://open.spotify.com/track/4H9xiGkn2jXCJ16BW3VEGy"
     },
     {
@@ -1140,8 +1212,8 @@
           "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 177533,
+      "name": "Take You With Me",
       "url": "https://open.spotify.com/track/3Evp9ZfoSvAO0pFYR103VM"
     },
     {

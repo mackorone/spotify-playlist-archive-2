@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🩷 with ISOxo
 
-989 songs - 2 day 3 hr 20 min
+990 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [CLENCH MY FIST \(Jon Casey VIP\)](https://open.spotify.com/track/3bDW6K1DGiIqWlvLoPxDMN) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [CLENCH MY FIST \(Jon Casey VIP\)](https://open.spotify.com/album/1lQM80aZJD0SIXvQhX4I4z) | 3:06 | 2026-08-28 | 2026-09-05 |
 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 | 2024-04-05 | 2025-02-17 |
 | [Cobra](https://open.spotify.com/track/0BDmyy2xonhhvcl2QDg2Xh) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Cobra](https://open.spotify.com/album/1se7OjX41LBkLRQT73mR1t) | 4:15 | 2021-11-19 | 2021-12-28 |
-| [COME THRU](https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [MAXED OUT](https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2) | 3:02 | 2026-09-11 |  |
+| [COME THRU](https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [MAXED OUT](https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2) | 3:02 | 2026-09-11 | 2026-11-07 |
 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 | 2022-02-01 | 2022-11-19 |
 | [CONTACT](https://open.spotify.com/track/0qnkt7iy7onBjcyoKJcOpj) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [CONTACT](https://open.spotify.com/album/3SPBXfkSOjTqCqCJswA5BH) | 3:03 | 2026-01-23 | 2026-02-14 |
 | [CONTROL](https://open.spotify.com/track/0t20e3FAuQ4F4iQJwzvhxs) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [BLINDED BY VANITY](https://open.spotify.com/album/7r0fvtOmE4Jq2vH4LgwPOJ) | 3:00 | 2025-12-05 | 2026-02-14 |
@@ -879,6 +879,7 @@
 | [Tik Tok](https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx) | [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Tik Tok](https://open.spotify.com/album/07rbrKhpXSilbigKmsfn0J) | 2:44 | 2023-11-10 | 2025-01-04 |
 | [TIME 4 YOUR MIND](https://open.spotify.com/track/7qfB71OeMTEOXYTnKULRBc) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [TIME 4 YOUR MIND](https://open.spotify.com/album/2Pv7EMp86O0fftmqh2r4nx) | 3:24 | 2025-09-19 | 2025-10-11 |
 | [TMF](https://open.spotify.com/track/14yftcqitxj6eU45V24UYr) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [TMF](https://open.spotify.com/album/00Bp57GAupvF0kIISrHEW2) | 3:10 | 2024-03-29 | 2024-05-11 |
+| [To Me](https://open.spotify.com/track/2SVrBV9AstiPzzfIB6diAa) | [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i), [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Inversions](https://open.spotify.com/album/6IyVrWiT06SRn1X9nravlC) | 3:37 | 2026-11-06 |  |
 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 | 2024-02-02 | 2024-08-20 |
 | [tonguetiiied \(ghost voices flip\)](https://open.spotify.com/track/19FV58TNA4u65GJrxJBZRX) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [tonguetiiied \(ghost voices flip\)](https://open.spotify.com/album/5qAxj6YGT7s7n2JHti1Ffo) | 3:12 | 2026-05-01 | 2026-08-01 |
 | [Tonight](https://open.spotify.com/track/0iWHDplkRdrtv9ensY6lTY) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC), [Ricky Remedy](https://open.spotify.com/artist/2nWD5qpzn6rGaBz5gLZvfB) | [Tonight](https://open.spotify.com/album/6B6KWZO1y3RM6nTxhAPmuC) | 3:38 | 2026-02-20 | 2026-02-28 |

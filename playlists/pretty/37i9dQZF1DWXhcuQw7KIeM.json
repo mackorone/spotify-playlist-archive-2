@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 602010,
+  "num_followers": 602091,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Verjugar\u00f0ar / Walls",
-        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
-      },
-      "artists": [
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Verjugar\u00f0ar / Walls",
-      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Hugrheim",
         "url": "https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 199000,
       "name": "Hugrheim",
       "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Verjugar\u00f0ar / Walls",
+        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Verjugar\u00f0ar / Walls",
+      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
     },
     {
       "added_at": "2026-10-19 15:51:47",

@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Doom Country",
+        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178193,
+      "name": "Doom Country",
+      "url": "https://open.spotify.com/track/2VIsnAaYoHcu1BwXuHVxSc"
+    },
+    {
+      "album": {
         "name": "holy friend",
         "url": "https://open.spotify.com/album/6uqa1ZpRFpBzyp2dFlGvio"
       },

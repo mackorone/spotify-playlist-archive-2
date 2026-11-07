@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > DIM, A3 & Kingsize, GRGY, Rocher en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,225 likes - 77 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,237 likes - 77 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Patsers & Princessen](https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [Patsers & Princessen](https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk) | 1:58 |
+| 1 | [PATSERS & PRINCESSEN](https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [PATSERS & PRINCESSEN](https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk) | 1:58 |
 | 2 | [When It Rains It Pours](https://open.spotify.com/track/0vpvZJOuFC9qeerTvSJrF5) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [When It Rains It Pours](https://open.spotify.com/album/5CLxbkIDlieALzGp4FSJoO) | 3:07 |
 | 3 | [Uniform 2 \(feat\. Faberyayo\)](https://open.spotify.com/track/5SH6KLgYhebyUeAzLhLUqo) | [GRGY](https://open.spotify.com/artist/7x8NAk8hz9zl6lFwJLvDDL), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Uniform 2 \(feat\. Faberyayo\)](https://open.spotify.com/album/1XuLKQXckUNDGAoQo9S8zg) | 3:07 |
 | 4 | [Harry Kane](https://open.spotify.com/track/1MLClvAm35DKizNtdAAs8P) | [Platform.be](https://open.spotify.com/artist/0M3PLZ6T8dIlVUYHfKJRCQ), [Nafas](https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq) | [Harry Kane](https://open.spotify.com/album/1hYIgavf6xUBPnlXxNgwS8) | 1:44 |

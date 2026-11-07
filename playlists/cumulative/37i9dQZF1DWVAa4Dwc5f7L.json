@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 221500,
       "name": "A Las Ilusas De Mi Marido",
       "url": "https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 196746,
       "name": "Abeja Blanca 2.0",
       "url": "https://open.spotify.com/track/69jbycDGeZArbbyORcSU3q"
@@ -154,6 +154,28 @@
       "duration_ms": 249813,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -204,7 +226,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
@@ -558,7 +580,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188160,
       "name": "Borracho Me Doli\u00f3",
       "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
@@ -794,6 +816,28 @@
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
     },
     {
       "album": {
@@ -1248,7 +1292,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 264146,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
@@ -2112,7 +2156,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
@@ -2310,7 +2354,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 221531,
       "name": "La Noviecita",
       "url": "https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6"
@@ -2502,7 +2546,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "La Travesia",
       "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
@@ -2578,6 +2622,24 @@
       "duration_ms": 162882,
       "name": "La Vida Da Vuelta",
       "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
+    },
+    {
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
     },
     {
       "album": {
@@ -2760,7 +2822,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 257266,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
@@ -3114,7 +3176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 142500,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
@@ -3481,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Pa' Bailar",
+        "url": "https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Pa' Bailar",
+      "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
+    },
+    {
+      "album": {
         "name": "15 Exitos De Pura Candela",
         "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
       },
@@ -3782,7 +3866,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 227646,
       "name": "QUIERO",
       "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
@@ -4314,7 +4398,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163349,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"

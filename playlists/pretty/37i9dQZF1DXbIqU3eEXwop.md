@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Que des hits pour la meilleure vos soirées estivales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,931 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,895 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

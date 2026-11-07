@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > upbeat indie en alternative voor onderweg: van fietsrit tot een lange roadtrip of treinreis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,056 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,055 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 39 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 |
 | 40 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 41 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
-| 42 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
-| 43 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 42 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 43 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 44 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
 | 45 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 46 | [Think Twice](https://open.spotify.com/track/7gVVb2Tpoc4S9fkfm4j5if) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Think Twice](https://open.spotify.com/album/1iSV82EFX3NPgV4EpuNC3j) | 3:04 |
-| 47 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
-| 48 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
+| 47 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
+| 48 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
 | 49 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 50 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 51 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 |

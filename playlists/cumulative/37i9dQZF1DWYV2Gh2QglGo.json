@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: The Reklaws",
+  "description": "The home of Canadian country music. Cover: Noeline Hofmann",
   "name": "North Country",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169437,
       "name": "Anything But That",
       "url": "https://open.spotify.com/track/0aAKFjfgx3Mv9ZVC35U9de"
@@ -1761,6 +1761,42 @@
     },
     {
       "album": {
+        "name": "Tried & True",
+        "url": "https://open.spotify.com/album/4mgspnxCiZ1uNf2USQIx70"
+      },
+      "artists": [
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182354,
+      "name": "Burning Bright",
+      "url": "https://open.spotify.com/track/0vRUMzjQT55xRrhnLYCwhy"
+    },
+    {
+      "album": {
+        "name": "Butter My Lover",
+        "url": "https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185735,
+      "name": "Butter My Lover",
+      "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
+    },
+    {
+      "album": {
         "name": "By Heart",
         "url": "https://open.spotify.com/album/6MteneVypUr9JUwQgV43nq"
       },
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198146,
       "name": "Call You A Country Boy",
       "url": "https://open.spotify.com/track/1eFfvPvwLDDh3XjHzrezK7"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 176000,
       "name": "Crooked Heart",
       "url": "https://open.spotify.com/track/6f6BNmylsm3MN04P1as8FS"
@@ -5077,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/7xBhrlP5fyMrBt7GDPjwmm"
+      },
+      "artists": [
+        {
+          "name": "Amanda & James",
+          "url": "https://open.spotify.com/artist/3a1oFji5KaCbVZ8oOU05ol"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/6NWSoBrR2SjEn9VhO58OrF"
+    },
+    {
+      "album": {
         "name": "Good Man",
         "url": "https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh"
       },
@@ -5857,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Verse 1",
+        "url": "https://open.spotify.com/album/2a5gsuBHGv8DSJ4n2W7vnb"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Hi Ho Silverado",
+      "url": "https://open.spotify.com/track/4tWJ4HIu2F8vRFpQcnSqJ4"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/6jxrPcypdXLK8CLftooswt"
       },
@@ -6386,7 +6458,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 201487,
       "name": "I Ain't Crazy",
       "url": "https://open.spotify.com/track/4ZJ6oanHufLf1kBDloOipa"
@@ -7750,7 +7822,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158530,
       "name": "Killing Spree",
       "url": "https://open.spotify.com/track/6L64IOKXyZjIS6rpdwEf8Z"
@@ -7822,7 +7894,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173614,
       "name": "Kiss My Glass",
       "url": "https://open.spotify.com/track/2jvj8Ujx1atOIE7QIMCekC"
@@ -8570,7 +8642,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 193740,
       "name": "Lonely Weekend",
       "url": "https://open.spotify.com/track/46ZaIDGHfn83DkJ55O78wP"
@@ -8688,6 +8760,24 @@
       "duration_ms": 165681,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ"
+    },
+    {
+      "album": {
+        "name": "Loosen Your Lasso",
+        "url": "https://open.spotify.com/album/2TxNM4RWKF7JrpJ3yf6SZ2"
+      },
+      "artists": [
+        {
+          "name": "Amberlyn Rutherford",
+          "url": "https://open.spotify.com/artist/6zl0scJgBDgfeNd1MAZdgH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "Loosen Your Lasso",
+      "url": "https://open.spotify.com/track/0kewRSxzfVnyfblHpYHBxj"
     },
     {
       "album": {
@@ -8858,6 +8948,24 @@
       "duration_ms": 231369,
       "name": "Lover I'm Gonna Miss You - Country Cut",
       "url": "https://open.spotify.com/track/0rtaWamWVzkKT66w5c6a5r"
+    },
+    {
+      "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
     },
     {
       "album": {
@@ -9688,7 +9796,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 165875,
       "name": "Neon Town",
       "url": "https://open.spotify.com/track/1XOAvyG75esKqcVrU1905C"
@@ -10060,6 +10168,24 @@
       "duration_ms": 156754,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T"
+    },
+    {
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/4jJ97zwZkWNnF7tFKysYg0"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156754,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/6KgrubJgF9FvBgs4uLeRC4"
     },
     {
       "album": {
@@ -12001,6 +12127,24 @@
     },
     {
       "album": {
+        "name": "Forever Changed",
+        "url": "https://open.spotify.com/album/79eDuoGrJskvUTpQ71JHeW"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219797,
+      "name": "Same Story",
+      "url": "https://open.spotify.com/track/4ckWAaLu2toWp3Q1pGqglL"
+    },
+    {
+      "album": {
         "name": "Gravel and Smoke",
         "url": "https://open.spotify.com/album/1oG27t34VXtlMUTtn1Kzik"
       },
@@ -12913,6 +13057,24 @@
     },
     {
       "album": {
+        "name": "Sometimes It Don't",
+        "url": "https://open.spotify.com/album/6hTVVP47njiroQawvdLczW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210182,
+      "name": "Sometimes It Don't",
+      "url": "https://open.spotify.com/track/20NzXDoFIIbGnvtdLLoziY"
+    },
+    {
+      "album": {
         "name": "Somewhere in a Small Town",
         "url": "https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM"
       },
@@ -13450,7 +13612,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191933,
       "name": "Sunshine's Free",
       "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
@@ -14521,6 +14683,24 @@
     },
     {
       "album": {
+        "name": "Through The City",
+        "url": "https://open.spotify.com/album/4ZnNASOqMoIn7shoKm6WGs"
+      },
+      "artists": [
+        {
+          "name": "Sarina Haggarty",
+          "url": "https://open.spotify.com/artist/15fFnKGIePD80gc9AplCX6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167739,
+      "name": "Through The City",
+      "url": "https://open.spotify.com/track/0Yz5iRPtT5oXd1gAiiCvKY"
+    },
+    {
+      "album": {
         "name": "TICKET TO RIDE",
         "url": "https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0"
       },
@@ -14634,7 +14814,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219345,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
@@ -15088,7 +15268,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 205942,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/31INymMJWK1ENMzdYFfihB"
@@ -15863,6 +16043,24 @@
     },
     {
       "album": {
+        "name": "Whiskey Turns Blue",
+        "url": "https://open.spotify.com/album/2GFdyp8aQnyzehkdK2So8A"
+      },
+      "artists": [
+        {
+          "name": "Brian John Harwood",
+          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220308,
+      "name": "Whiskey Turns Blue",
+      "url": "https://open.spotify.com/track/35z5BFXpccYwoI4KdXVvez"
+    },
+    {
+      "album": {
         "name": "Whisky Wings",
         "url": "https://open.spotify.com/album/1xzhakNCHHn9xmAkz1rut8"
       },
@@ -16084,7 +16282,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 208210,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1hzhwqaH1z72vzbihRF3No"
@@ -16622,6 +16820,28 @@
       "duration_ms": 184155,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
+    },
+    {
+      "album": {
+        "name": "You Won't Leave Me Tonight",
+        "url": "https://open.spotify.com/album/6niGMkAJssI44wvjXC2M0T"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        },
+        {
+          "name": "Olivia Johnston",
+          "url": "https://open.spotify.com/artist/7fBYzwdt2vq1htEJRibGVq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191641,
+      "name": "You Won't Leave Me Tonight",
+      "url": "https://open.spotify.com/track/2TTLYepZq6Jcs6QLfM7bJy"
     },
     {
       "album": {

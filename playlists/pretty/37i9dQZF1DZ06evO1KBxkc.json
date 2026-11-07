@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204492,
+  "num_followers": 204502,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACddVr416iebYj/xkWH0i61",
+  "snapshot_id": "auvHAAAAAABA7ho4cmER21oojBJCEfFI",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOWN FOR REAL",
-        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
-      },
-      "artists": [
-        {
-          "name": "Victor Victor Presents",
-          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "DOWN FOR REAL",
-      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 135017,
       "name": "It's Crazy (feat. Melody)",
       "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOWN FOR REAL",
+        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
+      },
+      "artists": [
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 182084,
+      "name": "DOWN FOR REAL",
+      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
     },
     {
       "added_at": null,
@@ -579,22 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Wait (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
     },
     {
       "added_at": null,
@@ -627,26 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+        "name": "Wait (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
       },
       "artists": [
         {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+      "duration_ms": 190476,
+      "name": "Wait (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
     },
     {
       "added_at": null,
@@ -975,26 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning (Sped Up Version)",
-        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+        "name": "Catch These Vibes",
+        "url": "https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 174517,
-      "name": "Drowning - Sped Up Version",
-      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+      "duration_ms": 210652,
+      "name": "Lovin' (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

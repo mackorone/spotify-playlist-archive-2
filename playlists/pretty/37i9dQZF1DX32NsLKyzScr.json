@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2583430,
+  "num_followers": 2583321,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Loco Loco",
-        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
         "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 194645,
       "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
       "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "WannaCry",
-        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 219367,
-      "name": "WannaCry",
-      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "Beauty In Us",
         "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 172166,
       "name": "Beauty In Us",
       "url": "https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 257571,
-      "name": "drift away",
-      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
-        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 240318,
-      "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
-      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "run",
         "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
       },
@@ -1499,6 +1475,26 @@
       "duration_ms": 262297,
       "name": "run",
       "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1523,22 +1519,26 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
+        "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 187384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+      "duration_ms": 240318,
+      "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1935,26 +1935,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Don't Want Your Love (R\u00d8Z Remix)",
-        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+        "name": "Overclock",
+        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         },
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Don't Want Your Love - R\u00d8Z Remix",
-      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
+      "duration_ms": 187998,
+      "name": "Overclock",
+      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1975,22 +1971,26 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Overclock",
-        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
+        "name": "Don't Want Your Love (R\u00d8Z Remix)",
+        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "DAMEN",
-          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 187998,
-      "name": "Overclock",
-      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
+      "duration_ms": 163555,
+      "name": "Don't Want Your Love - R\u00d8Z Remix",
+      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 213953,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2223,6 +2223,30 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Dark Darker",
+        "url": "https://open.spotify.com/album/6z3GWVJaAqYQj2WhqcAwpl"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        },
+        {
+          "name": "Wennink",
+          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Dark Darker",
+      "url": "https://open.spotify.com/track/7hMrm2fpw48sjOFZbzbT05"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "The Realm",
         "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
       },
@@ -2259,30 +2283,6 @@
       "duration_ms": 192923,
       "name": "Welcome 2 Miami",
       "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Dark Darker",
-        "url": "https://open.spotify.com/album/6z3GWVJaAqYQj2WhqcAwpl"
-      },
-      "artists": [
-        {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        },
-        {
-          "name": "Wennink",
-          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Dark Darker",
-      "url": "https://open.spotify.com/track/7hMrm2fpw48sjOFZbzbT05"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Picasso",
-        "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 260039,
-      "name": "Picasso",
-      "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Identity",
         "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 157847,
       "name": "Abraza",
       "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 260039,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
     },
     {
       "added_at": "2026-10-23 04:00:50",

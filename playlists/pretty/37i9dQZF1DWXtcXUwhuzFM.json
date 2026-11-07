@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Isac Elliot & Mikael Gabriel, Sonia & Sointu Borg, Diogi... ja moni muu  \ud83c\udfb6",
-  "num_followers": 109051,
+  "num_followers": 109113,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -148,8 +148,8 @@
           "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 170333,
+      "name": "Taistele, pakene",
       "url": "https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX"
     },
     {
@@ -335,6 +335,22 @@
       "duration_ms": 159431,
       "name": "T\u00e4hdet n\u00e4ytt\u00e4\u00e4 tien (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
       "url": "https://open.spotify.com/track/6h3v6xs904Cajgkh0ia2mv"
+    },
+    {
+      "added_at": "2026-11-05 22:00:10",
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
       "added_at": "2026-11-05 22:00:10",
@@ -1200,8 +1216,8 @@
           "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 183937,
+      "name": "Best Life",
       "url": "https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Carlita
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,430,581 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,429,651 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 15 | [PEOPLE IN THE PLACE](https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu) | [A.B.C.](https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [PEOPLE IN THE PLACE](https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ) | 3:23 |
 | 16 | [Fight For Love](https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [Fight For Love](https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T) | 3:00 |
 | 17 | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg) | 3:15 |
-| 18 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 18 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 19 | [Stay For Love](https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [ORIGIN //](https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav) | 4:34 |
 | 20 | [Noise Keeper](https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [D Stone](https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9) | [Noise Keeper](https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW) | 3:42 |
 | 21 | [Memories](https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Memories](https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 75 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
 
-Snapshot ID: `AAAAAKIC/e3sAPcP9Wqf1Q4NzvoJTWVm`
+Snapshot ID: `AAAAADhTwiPkkfYzmB4r91XAFu94bRUW`

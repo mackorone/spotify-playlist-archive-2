@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Daniela Andrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,802 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,798 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 83 | [Ready](https://open.spotify.com/track/2KNCSn2qXDWhgV3eZOAMHV) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Ready](https://open.spotify.com/album/0gSUaL4mB45bi0IZoM2fvw) | 2:30 |
 | 84 | [人去樓空](https://open.spotify.com/track/0im069CBRQOVVkelqRY9lv) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [人去樓空](https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk) | 4:34 |
 | 85 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
-| 86 | [Stay \(feat\. RINI\)](https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Stay \(feat\. RINI\)](https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg) | 3:38 |
+| 86 | [Stay \(feat\. RINI\)](https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Stay \(feat\. RINI\)](https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg) | 3:38 |
 | 87 | [part time thing](https://open.spotify.com/track/3xlVGQ7uZhoErYlPNa0HB8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [part time thing](https://open.spotify.com/album/3RbW8HTCIc30mhFCiGa0N3) | 1:58 |
 | 88 | [Tears at Bae \(Levi Double U Edit\)](https://open.spotify.com/track/0sBQzSKYB5Syw00B5kMVUd) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Levi Double U](https://open.spotify.com/artist/0POxEugX4ePkwpW6NQoaX7) | [Tears at Bae \(Levi Double U Edit\)](https://open.spotify.com/album/6v5wtOuwG9qg9DCrUDYsLM) | 3:30 |
 | 89 | [Baby](https://open.spotify.com/track/6L3rzNHhoBAt2yERmplzuU) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Baby](https://open.spotify.com/album/2GWUAh0pqsE3N7EwMMDEj2) | 4:17 |

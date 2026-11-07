@@ -8177,6 +8177,24 @@
     },
     {
       "album": {
+        "name": "N.Y. Baby",
+        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -17244,7 +17262,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 151624,
       "name": "si",
       "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"

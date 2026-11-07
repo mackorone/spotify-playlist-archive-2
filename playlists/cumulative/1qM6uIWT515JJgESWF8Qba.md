@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-348 songs - 21 hr 41 min
+350 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Non Mi Troverai](https://open.spotify.com/track/2xvIZraE0QZRMKghPhzbIC) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Non Mi Troverai](https://open.spotify.com/album/5i9qmAEmZna27PgyYhAB80) | 3:43 | 2026-11-02 |  |
 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2026-02-10 | 2026-04-01 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-10-23 | 2026-03-21 |
+| [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 | 2026-11-06 |  |
 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 | 2026-06-15 | 2026-08-08 |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-28 |
 | [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 | 2026-03-14 |  |
@@ -264,6 +265,7 @@
 | [Quiero irme de aca](https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:56 | 2026-10-20 |  |
 | [Quién](https://open.spotify.com/track/5LNNpntodSuvNVLkHiU7er) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [El Poder del Miedo](https://open.spotify.com/album/2rAAKdhd7RbMimKLMEdPrK) | 3:31 | 2026-10-13 |  |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-09 |  |
+| [Read my Rights](https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL) | [The Garbage Gang](https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s) | [Read my Rights](https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry) | 3:02 | 2026-11-06 |  |
 | [Record Queen](https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Record Queen](https://open.spotify.com/album/2PZ4AIEKtnUXGgZwRuQdRJ) | 2:35 | 2026-08-21 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 | 2026-05-17 |
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 | 2025-12-28 |

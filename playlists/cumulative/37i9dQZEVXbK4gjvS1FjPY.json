@@ -8452,7 +8452,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -9139,7 +9139,7 @@
     },
     {
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -9154,9 +9154,9 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
@@ -10634,7 +10634,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/26m4l5G7Uw92v6vmmtlwhi"
@@ -14972,7 +14972,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -27774,7 +27774,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -32696,7 +32696,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 171104,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"

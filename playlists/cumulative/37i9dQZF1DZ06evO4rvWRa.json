@@ -1534,6 +1534,28 @@
     {
       "album": {
         "name": "Heartbreak Melody",
+        "url": "https://open.spotify.com/album/0SD3WgKtWtXSFmJyVaEsDX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191830,
+      "name": "Heartbreak Melody",
+      "url": "https://open.spotify.com/track/1E9Gah4TTcvIyfvOkQC0ds"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Melody",
         "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
       },
       "artists": [
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
@@ -1810,6 +1832,28 @@
     {
       "album": {
         "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153207,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/1NwjNtLjb5brVDyAaKr6J0"
+    },
+    {
+      "album": {
+        "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
       },
       "artists": [
@@ -1824,7 +1868,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153207,
       "name": "Last Song (feat. Faouzia)",
       "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"

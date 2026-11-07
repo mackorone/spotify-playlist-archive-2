@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,939 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,799 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 30 | [72 Seasons](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq) | 7:39 |
 | 31 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
 | 32 | [Dear God](https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu) | 6:08 |
-| 33 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 |
-| 34 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
+| 33 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
+| 34 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 |
 | 35 | [Beyond the Dream](https://open.spotify.com/track/2TJn2Jgac1U5a2gIb66gKL) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beyond the Dream](https://open.spotify.com/album/4RbdRqdEwnWjcTGeYKUNz1) | 4:04 |
 | 36 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 |
 | 37 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 68 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 | 69 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 70 | [All Things Must Change](https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [All Things Must Change](https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm) | 3:35 |
-| 71 | [Wouldn't You Rather](https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/6ER0MJlkiEGBKsebXRq2U7) | 3:49 |
-| 72 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 |
+| 71 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 |
+| 72 | [Wouldn't You Rather](https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/6ER0MJlkiEGBKsebXRq2U7) | 3:49 |
 | 73 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
 | 74 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 75 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |

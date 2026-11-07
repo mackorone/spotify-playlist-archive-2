@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: ちゃんみな
 
-3,934 songs - 10 day 10 hr 10 min
+3,935 songs - 10 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/track/5C8lhC7xMmNsNNBnP37aPB) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/album/0CQhF63ygOw27OlcvmIfUc) | 3:09 | 2023-02-07 | 2023-03-01 |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-05-29 | 2022-11-03 |
 | [Loop](https://open.spotify.com/track/2FCFjs91AYmxUwakxg6kP3) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [Loop](https://open.spotify.com/album/6FdNE5uVz75OxHzI0Hp2i5) | 3:50 | 2023-12-14 | 2023-12-20 |
+| [LOST](https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [LOST](https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz) | 3:41 | 2026-11-03 |  |
 | [LOST AND FOUND](https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [LOST AND FOUND](https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz) | 7:31 | 2024-12-17 | 2025-01-08 |
 | [LOST CHILD \- Prod\. MONDO GROSSO](https://open.spotify.com/track/1IwNbhaZXwyGZI5ablzCpL) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [LOST CHILD \(Prod\. MONDO GROSSO\)](https://open.spotify.com/album/5JQB2GCK7jvQc27k0yoKtL) | 5:12 | 2025-04-15 | 2025-04-23 |
 | [LOVE & SALT](https://open.spotify.com/track/4KZakyM7LC39hhRpmnybie) | [Mioko Yamaguchi](https://open.spotify.com/artist/33itzdcS4y00FCGR23sleH) | [LOVE & SALT](https://open.spotify.com/album/2MKGtWGN8mIYxOdJWhUi9Z) | 3:11 | 2025-10-21 | 2025-11-05 |
@@ -3676,7 +3677,7 @@
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-02 | 2022-06-29 |
 | [神秘の領域へ](https://open.spotify.com/track/6DgqBcs8YYhCunqicmABkT) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:01 | 2022-08-18 | 2022-08-20 |
 | [福は内 鬼は外](https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [The Mizuhara Sisters](https://open.spotify.com/artist/3tsvBhFzXFQYsK1Pc3w75L) | [福は内 鬼は外](https://open.spotify.com/album/49dnqkKRBRcNPwQX3Rzr49) | 2:28 | 2024-05-07 | 2024-05-15 |
-| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 |  |
+| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 | 2026-11-07 |
 | [私だけの人生](https://open.spotify.com/track/1STFOuSo5TfEz0m1sR8oA5) | [Charmant coco](https://open.spotify.com/artist/7sjEyXpi2SWI2J4rcKolGB) | [私だけの人生](https://open.spotify.com/album/0sBmnhxe2Ap3vXasX29RYo) | 4:29 | 2024-02-20 | 2024-02-28 |
 | [私にして](https://open.spotify.com/track/1PII87zGs7qMCD9AlEEM5f) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [私にして](https://open.spotify.com/album/6WLhoZVHZdcPkqnjcimLDN) | 4:11 | 2022-05-31 | 2022-07-20 |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 | 2024-02-02 |

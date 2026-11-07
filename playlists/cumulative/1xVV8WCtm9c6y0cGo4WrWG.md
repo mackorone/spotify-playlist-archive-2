@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> The newest and best Hip\-Hop updated weekly! Cover: Quavo
+> The newest and best Hip\-Hop updated weekly! Cover: Lil Baby
 
-579 songs - 1 day 5 hr 25 min
+580 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-11-03 | 2023-12-09 |
 | [Move \(feat\. G Thugg\)](https://open.spotify.com/track/3p5s3c8vx7TY8mIUfDIaDh) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [G Thugg](https://open.spotify.com/artist/07gfosp4umnedbY4PmP8KG) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 4:25 | 2026-06-17 | 2026-08-22 |
 | [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 | 2025-12-12 | 2026-08-22 |
+| [Mr\. Do Something](https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 2:50 | 2026-11-06 |  |
 | [Mrs\. Trendsetter](https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 2:28 | 2026-01-22 | 2026-08-22 |
 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 | 2026-08-22 |
 | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/track/10MpbqJvhf6Lqi7YaFFra9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/album/3G8qXEDKJI9MGdanP7FuMX) | 3:19 | 2025-01-10 | 2025-06-08 |

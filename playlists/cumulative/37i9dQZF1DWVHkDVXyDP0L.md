@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: The Chats
 
-1,203 songs - 2 day 19 hr 29 min
+1,203 songs - 2 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Best Bits](https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Best Bits](https://open.spotify.com/album/1xAopNlyW4Q4Cr59b5owFT) | 4:03 | 2024-05-30 | 2024-07-27 |
 | [Best Friend](https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Best Friend](https://open.spotify.com/album/6csQlZICNTmde0WxiGny3r) | 3:09 | 2024-05-24 | 2024-07-27 |
 | [Best Friend's House](https://open.spotify.com/track/2q40r1POGq0BHWpJoaKIAo) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [How Much Love Have I Got Left](https://open.spotify.com/album/3zL86XaQOQzSpBK7YkslOy) | 3:10 | 2026-09-03 | 2026-11-06 |
+| [Best Life](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 3:03 | 2026-11-05 |  |
 | [better](https://open.spotify.com/track/684aK3J9TN158J2DTPJwok) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [better](https://open.spotify.com/album/4dBRpAjGdaspvQ6w2EIW3T) | 3:02 | 2026-08-20 | 2026-11-06 |
 | [Better Off](https://open.spotify.com/track/1LAz8RqtJ8DtKfdI6Srpe0) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Better Off](https://open.spotify.com/album/3HKU2j8oz5SwKPoGqkOreB) | 3:21 | 2025-01-16 | 2025-04-04 |
 | [Beyond the Block Wall](https://open.spotify.com/track/19i0WdQzKI3nUKO90E1HRK) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Beyond the Block Wall](https://open.spotify.com/album/3OnOjX7LthGo3DQ1K55QdP) | 2:56 | 2025-10-16 | 2025-12-12 |
@@ -198,6 +199,7 @@
 | [Cheap Thrills](https://open.spotify.com/track/30JA74oPt0e8w2TU2NGh9N) | [Larsen](https://open.spotify.com/artist/3AsxWrzz2cyspxhNVIkaGV) | [Cheap Thrills](https://open.spotify.com/album/1eKJuLrHIy4pppUy7uWhBi) | 2:50 | 2026-08-13 | 2026-10-09 |
 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 | 2024-05-24 | 2024-07-27 |
 | [Check Mate](https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Check Mate](https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc) | 3:16 | 2024-05-24 | 2024-08-30 |
+| [Cherry Baby Loca](https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [El Cuarto Rosa](https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB) | 4:21 | 2026-11-05 |  |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 | 2024-10-04 |
 | [Child's Play](https://open.spotify.com/track/4STb9qQzJLKGzDJq5YVINx) | [Maple's Pet Dinosaur](https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je) | [Child's Play](https://open.spotify.com/album/7cVt3reoLHx4qMduqyhUmW) | 3:26 | 2026-08-27 | 2026-11-06 |
 | [Chinese Restaurant](https://open.spotify.com/track/1NE4ZL6zTXtAD8Wr85MQJl) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/1K6ZzE8Vj6GS9a5X8DpNil) | 3:34 | 2025-08-21 | 2025-10-03 |
@@ -928,6 +930,7 @@
 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 | 2024-12-12 | 2025-02-28 |
 | [Simply Disappear](https://open.spotify.com/track/4xB1qJcGJyNmjwlKuloCGF) | [Sorry, Dave](https://open.spotify.com/artist/02vwoLzsku4br5HjfVnUBB) | [Simply Disappear](https://open.spotify.com/album/1Hq8s4XtnJ63D1HdfUGwrk) | 3:49 | 2024-07-18 | 2024-08-30 |
 | [Sister](https://open.spotify.com/track/13EowSp6P5NxD0dI5PabSH) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Ra Ra](https://open.spotify.com/album/7t1Ir2e3r1KcWC6KiAFQbW) | 4:24 | 2026-09-17 |  |
+| [Sit With](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 4:38 | 2026-11-05 |  |
 | [Site Unseen](https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Site Unseen](https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU) | 2:46 | 2026-01-22 | 2026-04-10 |
 | [Situation Lost Control](https://open.spotify.com/track/0WG1iYgvHuOf25wERaFjUZ) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Situation Lost Control](https://open.spotify.com/album/33RdNRozY0tS5ZJulNI8HR) | 3:23 | 2026-02-05 | 2026-04-03 |
 | [Skin Like Suits](https://open.spotify.com/track/579QrIyJTYxRHHtbvc6QWP) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Safety in Darkness](https://open.spotify.com/album/1k9CxO5FkkVOg6UdiEN3TO) | 2:52 | 2026-05-07 | 2026-07-31 |
@@ -1107,9 +1110,6 @@
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Tough Love](https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [Tough Love](https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL) | 3:25 | 2026-07-30 | 2026-10-02 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 0:00 | 2026-11-05 |  |
-| [Track 12](https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [El Cuarto Rosa](https://open.spotify.com/album/7KMvvj0uPVfPQQKn5GMQpB) | 0:00 | 2026-11-05 |  |
-| [Track 2](https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S \(Deluxe Edition\)](https://open.spotify.com/album/1nfZodXJhh7mrdIfdahgiQ) | 0:00 | 2026-11-05 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Trapezoid](https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Trapezoid](https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb) | 2:30 | 2026-07-30 | 2026-10-02 |
 | [Trauma Bond](https://open.spotify.com/track/6u8KHTynZcgcRC5SmfrSs1) | [The Tambourine Girls](https://open.spotify.com/artist/42Vt2XvYs1IMX8kxEVI474) | [Hold Your Horses](https://open.spotify.com/album/1wG9jnJOKIckWjbmALHfXX) | 3:58 | 2026-09-10 |  |

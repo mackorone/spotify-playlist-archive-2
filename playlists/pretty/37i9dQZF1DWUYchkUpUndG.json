@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Jvson",
-  "num_followers": 68077,
+  "num_followers": 68169,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -296,8 +296,8 @@
           "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 15",
+      "duration_ms": 260049,
+      "name": "Nyana Ka Maria",
       "url": "https://open.spotify.com/track/3dOITBtVd1MuoTvh8NNluh"
     },
     {
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-11-06 00:01:58",
       "album": {
+        "name": "Ejiro",
+        "url": "https://open.spotify.com/album/6QYlFl46ZFtyp9FBLXNyt4"
+      },
+      "artists": [
+        {
+          "name": "TomPraiz",
+          "url": "https://open.spotify.com/artist/76ez5TTc96Bu6cAv1SNJbt"
+        },
+        {
+          "name": "AGBoss",
+          "url": "https://open.spotify.com/artist/4vAC25npjEUBsmeM4bncJq"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Ejiro",
+      "url": "https://open.spotify.com/track/6Wo39HvqNEm5z5vX9WPOjS"
+    },
+    {
+      "added_at": "2026-11-06 00:01:58",
+      "album": {
         "name": "THE THRONE OF GRACE",
         "url": "https://open.spotify.com/album/04uGOAxSKxofuPm0UuxxPy"
       },
@@ -351,6 +371,22 @@
       "duration_ms": 543230,
       "name": "NGCWELE",
       "url": "https://open.spotify.com/track/7pk31TvFoZvyNFkeiB58O6"
+    },
+    {
+      "added_at": "2026-11-06 00:01:58",
+      "album": {
+        "name": "You have done",
+        "url": "https://open.spotify.com/album/2A1Y2vDtks6xoPttn7WSAE"
+      },
+      "artists": [
+        {
+          "name": "Jonuelsongs",
+          "url": "https://open.spotify.com/artist/4BbRagnz6S9EIez9IrNKeM"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "You have done",
+      "url": "https://open.spotify.com/track/1oq2WaAy13frICeiAAQn4E"
     },
     {
       "added_at": "2026-11-06 00:01:58",
@@ -440,8 +476,8 @@
           "url": "https://open.spotify.com/artist/2Ay5bXW6SZOV8sOkqkfNpa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 392437,
+      "name": "Grateful",
       "url": "https://open.spotify.com/track/0DVZEuscIw7Gqma9h5fXGt"
     },
     {
@@ -820,8 +856,8 @@
           "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 158193,
+      "name": "Ese (Thank you)",
       "url": "https://open.spotify.com/track/44SgttQ4VfOpNuOWZR9y54"
     },
     {
@@ -1239,6 +1275,22 @@
       "duration_ms": 148965,
       "name": "P\u00e8",
       "url": "https://open.spotify.com/track/1vM91Wkh1mJ7AUxiMNU1z6"
+    },
+    {
+      "added_at": "2026-11-06 00:01:58",
+      "album": {
+        "name": "Leap Over",
+        "url": "https://open.spotify.com/album/06IAqHpT4Sr9vJaJb7Lql3"
+      },
+      "artists": [
+        {
+          "name": "Chris NLC",
+          "url": "https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD"
+        }
+      ],
+      "duration_ms": 140982,
+      "name": "Leap Over",
+      "url": "https://open.spotify.com/track/1mLZ41tM8zLRxT5Tiz7SOf"
     },
     {
       "added_at": "2026-11-06 00:01:58",

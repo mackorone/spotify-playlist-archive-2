@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 169087,
+  "num_followers": 169095,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -499,46 +499,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Te Echo de Menos",
-        "url": "https://open.spotify.com/album/5ncfVlBpF1SnUr4dpC6p6G"
-      },
-      "artists": [
-        {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        },
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        },
-        {
-          "name": "Mauro El C\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/5WlqTMUK1osjZ3G7cqyC9x"
-        }
-      ],
-      "duration_ms": 161725,
-      "name": "Te Echo de Menos",
-      "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Taxi Rutero",
         "url": "https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ"
       },
@@ -567,6 +527,46 @@
       "duration_ms": 192941,
       "name": "Taxi Rutero",
       "url": "https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Te Echo de Menos",
+        "url": "https://open.spotify.com/album/5ncfVlBpF1SnUr4dpC6p6G"
+      },
+      "artists": [
+        {
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        },
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        },
+        {
+          "name": "Mauro El C\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/5WlqTMUK1osjZ3G7cqyC9x"
+        }
+      ],
+      "duration_ms": 161725,
+      "name": "Te Echo de Menos",
+      "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -627,22 +627,6 @@
       "duration_ms": 158484,
       "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
       "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Yo Dar\u00eda",
-        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "Yo Dar\u00eda",
-      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
+        "name": "Yo Dar\u00eda",
+        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "Yo Dar\u00eda",
+      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
         "name": "Hace tiempo que no s\u00e9 de t\u00ed",
         "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
       },
@@ -751,26 +751,6 @@
       "duration_ms": 157974,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -827,6 +807,26 @@
       "duration_ms": 194036,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
     },
     {
       "added_at": "2026-10-01 23:46:58",

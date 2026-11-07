@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-174 songs - 9 hr 4 min
+176 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 | 2022-10-07 | 2022-10-15 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/1SZWdpjpJohTC7GQWdIjdP) | [Dove Duo](https://open.spotify.com/artist/3pdh2stkH5UGGtDtLFCu0L) | [Christmas with Family](https://open.spotify.com/album/3zUBklY7foskgSTCkje02k) | 2:10 | 2021-12-17 |  |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 | 2022-10-24 | 2025-09-05 |
+| [Santa Baby](https://open.spotify.com/track/7b8TizmmkPcbf4mKrv6Vah) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Santa Baby](https://open.spotify.com/album/09RcN9qW0sBCX5nz5afePV) | 3:32 | 2026-11-06 |  |
 | [Santa Baby](https://open.spotify.com/track/3nkVBox3k8YpbVNyXKQinl) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [Santa Baby](https://open.spotify.com/album/5UV2XfiAnmheoWWv7C3clA) | 4:25 | 2021-12-17 | 2025-09-05 |
 | [Santa Bring My Baby Back To Me](https://open.spotify.com/track/4j1EbVcxa43YPP6c0YH1Xu) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Santa Bring My Baby Back To Me](https://open.spotify.com/album/3oKB4b2xhQRSeA0bZwCBZd) | 3:04 | 2022-10-14 | 2023-10-21 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1IHueUfoxhSPoEjm4b2qwL) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Pinoy Acoustic Christmas](https://open.spotify.com/album/4m8mW98G6bZUC8urfZDOaO) | 2:09 | 2022-10-27 | 2022-11-13 |
@@ -145,6 +146,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/746iWihK3qguylWcOTmYlP) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [This Warm December: Brushfire Holiday's Vol\. 1](https://open.spotify.com/album/4FVuqpZeRBz7h9e62TFViz) | 2:09 | 2021-12-17 |  |
 | [Santa Looked A Lot Like Daddy](https://open.spotify.com/track/3hMmHY59OdBqMvPurPp3Jv) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Santa Looked A Lot Like Daddy](https://open.spotify.com/album/5RHi1vMQPqwiUGMHNbiEwh) | 3:15 | 2022-10-14 | 2023-10-21 |
 | [Santa Tell Me](https://open.spotify.com/track/2k5EzUIrgUtMa3dN6AG4h5) | [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Santa Tell Me](https://open.spotify.com/album/3feETJ0kuaBvBkV3A01UWk) | 3:55 | 2021-12-17 | 2025-09-05 |
+| [Silent Night](https://open.spotify.com/track/6lQRGVEJ19FmcyqhLtczC9) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Silent Night](https://open.spotify.com/album/5ssKH1B4MvArrOA8Ri3tq8) | 3:26 | 2026-11-06 |  |
 | [Silent Night](https://open.spotify.com/track/2ry4hqA3P3I4kazKB7d8vQ) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 4:41 | 2022-10-07 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/3DAYienbPiEMLgaSMVU488) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silent Night](https://open.spotify.com/album/5XQNFzJstxouA14tEbK3s0) | 3:08 | 2022-10-07 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/37t7M5Xwf3crTyBOdqiBCi) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh) | [Silent Night](https://open.spotify.com/album/328SvMtr6O6dahGr9QPSF9) | 2:20 | 2021-12-17 | 2025-09-05 |

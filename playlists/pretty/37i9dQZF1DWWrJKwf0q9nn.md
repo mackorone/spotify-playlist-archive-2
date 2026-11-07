@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: NOVAH & Marie Vaunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,451 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,465 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 17 | [2 The Beat](https://open.spotify.com/track/2OtgSNyj2jNYddixRv3g1u) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE) | [2 The Beat](https://open.spotify.com/album/1nkJgRetZmfn8hDxybtOoM) | 2:55 |
 | 18 | [High Till Forever](https://open.spotify.com/track/7lBxFS2OfIyxj9QiiOxVZL) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [High Till Forever](https://open.spotify.com/album/1oivvyvT1mt2Bk1OI7HIdx) | 3:19 |
 | 19 | [H.O.U.S.E](https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [H.O.U.S.E](https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA) | 2:31 |
-| 20 | [Slip & Slide](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
-| 21 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 20 | [Slip & Slide \(feat\. Amira Eldine\)](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
+| 21 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 22 | [Retro Mirage](https://open.spotify.com/track/2Um8KlpkHZ1OlnFvZe2xaF) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Damae](https://open.spotify.com/artist/3QW9uznwQ9oFTraYvbK9cn) | [Retro Mirage](https://open.spotify.com/album/2CxJZW0znHzWaBKtNITPZ5) | 2:56 |
 | 23 | [Rinse & Repeat \(Again\)](https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat \(Again\)](https://open.spotify.com/album/6Be8HD5xgudGGLvAdZsLfP) | 2:40 |
 | 24 | [Mayday](https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [Mayday](https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5) | 3:18 |

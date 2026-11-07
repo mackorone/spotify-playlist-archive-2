@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59357,
+  "num_followers": 59353,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
+        "name": "HULIGAANI (feat. Trebla)",
+        "url": "https://open.spotify.com/album/6RhZBIyjMVOKzBpdHHId1Z"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        },
+        {
+          "name": "Trebla",
+          "url": "https://open.spotify.com/artist/7ywfrzA0DtUdgXJLrjeVBE"
+        }
+      ],
+      "duration_ms": 182128,
+      "name": "HULIGAANI (feat. Trebla)",
+      "url": "https://open.spotify.com/track/5rofcEhyrWzr3TOAjMLhGN"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
         "name": "Isosisko",
         "url": "https://open.spotify.com/album/3zl7QoxDNRm3BAnqrWwhyO"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 174416,
       "name": "Ei rakastuta ikin\u00e4",
       "url": "https://open.spotify.com/track/2dTtoCWrVhb8qDXcbavZ7J"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
-        "name": "HULIGAANI (feat. Trebla)",
-        "url": "https://open.spotify.com/album/6RhZBIyjMVOKzBpdHHId1Z"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        },
-        {
-          "name": "Trebla",
-          "url": "https://open.spotify.com/artist/7ywfrzA0DtUdgXJLrjeVBE"
-        }
-      ],
-      "duration_ms": 182128,
-      "name": "HULIGAANI (feat. Trebla)",
-      "url": "https://open.spotify.com/track/5rofcEhyrWzr3TOAjMLhGN"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Edestakaisin",
-        "url": "https://open.spotify.com/album/2DVilstn40JgfJzJmHgXpK"
-      },
-      "artists": [
-        {
-          "name": "Diya",
-          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
-        }
-      ],
-      "duration_ms": 153246,
-      "name": "Edestakaisin",
-      "url": "https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "en tunne",
         "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Edestakaisin",
+        "url": "https://open.spotify.com/album/2DVilstn40JgfJzJmHgXpK"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "duration_ms": 153246,
+      "name": "Edestakaisin",
+      "url": "https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
+        "name": "Joki",
+        "url": "https://open.spotify.com/album/5RhuVQHcGxvdBpsmeYwdtB"
+      },
+      "artists": [
+        {
+          "name": "Coevisto",
+          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
+        },
+        {
+          "name": "Ella Salo",
+          "url": "https://open.spotify.com/artist/2vUt7sDnHhUm8TMouc3o0I"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Joki",
+      "url": "https://open.spotify.com/track/1UIQksFc0StKMDjaTiuNOi"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
         "name": "Ep\u00e4luotettava kertoja",
         "url": "https://open.spotify.com/album/30YMu7mvj6yBP5w2VMkqGz"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 168376,
       "name": "Miks menit unohtaa",
       "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
-        "name": "Joki",
-        "url": "https://open.spotify.com/album/5RhuVQHcGxvdBpsmeYwdtB"
-      },
-      "artists": [
-        {
-          "name": "Coevisto",
-          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
-        },
-        {
-          "name": "Ella Salo",
-          "url": "https://open.spotify.com/artist/2vUt7sDnHhUm8TMouc3o0I"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Joki",
-      "url": "https://open.spotify.com/track/1UIQksFc0StKMDjaTiuNOi"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Yksin",
-        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
-      },
-      "artists": [
-        {
-          "name": "F",
-          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Yksin",
-      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "Veljiks kasvetaan",
         "url": "https://open.spotify.com/album/3m43k2M4IRwb6aAgTBwPTR"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 177269,
       "name": "Veljiks kasvetaan",
       "url": "https://open.spotify.com/track/5Ww2z2pju4uG3rXc6YJ82N"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Yksin",
+        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+      },
+      "artists": [
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Yksin",
+      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
     },
     {
       "added_at": "2026-11-05 22:00:15",

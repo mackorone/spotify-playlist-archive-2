@@ -10357,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "TRISTAN.",
+        "url": "https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG"
+      },
+      "artists": [
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "Flow Switcher",
+      "url": "https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/29QurwuGqYFvdW83Gy612J"
       },
@@ -30982,24 +31000,6 @@
       "duration_ms": 148798,
       "name": "TRA TRA",
       "url": "https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ"
-    },
-    {
-      "album": {
-        "name": "TRISTAN.",
-        "url": "https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG"
-      },
-      "artists": [
-        {
-          "name": "Rops1",
-          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tunes op repeat. Cover: Langa",
+  "description": "De beste tunes op repeat. Cover: Idaly, Ronnie Flex & Frenna",
   "name": "Pull Up Hits",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 156854,
       "name": "Deim Van Je",
       "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
@@ -1124,6 +1124,28 @@
       "duration_ms": 181964,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/4C0dBjF3xoqF3wGWO2r9k9"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
       "album": {
@@ -1342,7 +1364,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
@@ -1904,7 +1926,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
@@ -2527,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
       },
@@ -2546,7 +2586,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "POPULAIR",
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
@@ -3005,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/2zhqn8LO2ce6NgyQlO3n1Q"
       },
@@ -3396,7 +3454,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153554,
       "name": "Tiptop",
       "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
@@ -3732,7 +3790,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 182352,
       "name": "Waterkant",
       "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"

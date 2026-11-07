@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Vedo",
+  "description": "Chill r&b. Cover: nomi.",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 156000,
       "name": "At Least She's Beautiful",
       "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 240000,
       "name": "Aura (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
@@ -6895,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/4h2UN34CkdfK5uAIFirDZx"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241347,
+      "name": "COSIGN",
+      "url": "https://open.spotify.com/track/46ZpuuR68f8hb4vtoRLE3P"
+    },
+    {
+      "album": {
         "name": "Cotton Candy Blvd",
         "url": "https://open.spotify.com/album/0CHhHnWNR8zfryYVqiQDLI"
       },
@@ -8438,7 +8456,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 130909,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 216410,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2NqLPkS0YMgyHeSGE3voiQ"
@@ -16346,7 +16364,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 195238,
       "name": "intention (with Brandy)",
       "url": "https://open.spotify.com/track/1ZGQug62wWSfELA3Jvufl5"
@@ -22526,7 +22544,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 196270,
       "name": "NOT FAIR",
       "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
@@ -23958,6 +23976,24 @@
       "duration_ms": 295746,
       "name": "Over [Feat. Yebba]",
       "url": "https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
     },
     {
       "album": {
@@ -28165,6 +28201,24 @@
     },
     {
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6daW8qmopdmeb7eJkBSr3x"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Show Me Sumthin",
+      "url": "https://open.spotify.com/track/1XUY3jJOJuNCmOlIzwRKgU"
+    },
+    {
+      "album": {
         "name": "Show U Off",
         "url": "https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m"
       },
@@ -28460,6 +28514,24 @@
       "duration_ms": 470500,
       "name": "Sins Of The Father (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4sR1YmFteF3r6axe0ms915"
+    },
+    {
+      "album": {
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165822,
+      "name": "sirens",
+      "url": "https://open.spotify.com/track/68SPhd76A3Fr6mGSzQYeIW"
     },
     {
       "album": {

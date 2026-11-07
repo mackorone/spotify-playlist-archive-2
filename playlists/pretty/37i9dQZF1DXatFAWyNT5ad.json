@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153616,
+  "num_followers": 153615,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "I'm Coming Home (Big Gulps)",
-        "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 160271,
-      "name": "I'm Coming Home (Big Gulps)",
-      "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "I'm Coming Home (Big Gulps)",
+        "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 160271,
+      "name": "I'm Coming Home (Big Gulps)",
+      "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Silverline",
-        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Silverline",
-      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -627,18 +611,34 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+        "name": "Silverline",
+        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 175037,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
+      "duration_ms": 180500,
+      "name": "Silverline",
+      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+      "duration_ms": 175037,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Fray Is Back",
         "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199866,
       "name": "Known You Always",
       "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Mascara Masquerade",
-        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
-      },
-      "artists": [
-        {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
-        }
-      ],
-      "duration_ms": 236527,
-      "name": "LSD (Love, Sex & Diamonds)",
-      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Watchers",
         "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 140363,
       "name": "The Watchers",
       "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Mascara Masquerade",
+        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "LSD (Love, Sex & Diamonds)",
+      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Little Like Hell",
-        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Little Like Hell",
-      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Earthquakes",
         "url": "https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
+        "name": "Little Like Hell",
+        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
       "artists": [
         {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
         }
       ],
-      "duration_ms": 171349,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
+      "duration_ms": 187804,
+      "name": "Little Like Hell",
+      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
       },
       "artists": [
         {
-          "name": "Vienna Vienna",
-          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
         }
       ],
-      "duration_ms": 224849,
-      "name": "Angel Wings",
-      "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
+      "duration_ms": 171349,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1411,6 +1395,22 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 224849,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1931,6 +1931,42 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Liquor and Kerosene (feat. The Maine)",
+        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 214024,
+      "name": "Liquor and Kerosene (feat. The Maine)",
+      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Holy Roller",
         "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
       },
@@ -1959,42 +1995,6 @@
       "duration_ms": 144074,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Liquor and Kerosene (feat. The Maine)",
-        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 214024,
-      "name": "Liquor and Kerosene (feat. The Maine)",
-      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 200210,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 198000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "love that kills",
-        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 184655,
-      "name": "love that kills",
-      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+        "name": "love that kills",
+        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+      "duration_ms": 184655,
+      "name": "love that kills",
+      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 186670,
-      "name": "Good Feeling About You",
-      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2383,6 +2367,22 @@
       "duration_ms": 172677,
       "name": "THE PRESSURE",
       "url": "https://open.spotify.com/track/2ERCG1bzpgMLgOFoFG7Sml"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 186670,
+      "name": "Good Feeling About You",
+      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
     },
     {
       "added_at": "2026-09-25 04:03:07",

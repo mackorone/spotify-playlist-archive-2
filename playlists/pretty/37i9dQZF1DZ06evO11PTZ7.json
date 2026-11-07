@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 8213,
+  "num_followers": 8215,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACca3LLafDbgWm4CimYhtz/",
+  "snapshot_id": "auvHAAAAAAD87Pa/SiJzSAVkNb+AZBAO",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Burn 'Em Down",
-      "url": "https://open.spotify.com/track/5rxvKN55LZEH44wrLOICSr"
+      "duration_ms": 97413,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/2eqBvPN3stocNp4IPcKOMd"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 97413,
-      "name": "Busted",
-      "url": "https://open.spotify.com/track/2eqBvPN3stocNp4IPcKOMd"
+      "duration_ms": 175413,
+      "name": "Burn 'Em Down",
+      "url": "https://open.spotify.com/track/5rxvKN55LZEH44wrLOICSr"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 114573,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3TPcpHQ0LWUdP7x2ZIQCzZ"
+      "duration_ms": 133186,
+      "name": "World Full Of Hate",
+      "url": "https://open.spotify.com/track/7hWpV0TC3YzidJiwascZva"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 79440,
-      "name": "G. I. Joe Headstomp",
-      "url": "https://open.spotify.com/track/33wj2515UqBaZdLuRP2CJG"
+      "duration_ms": 57973,
+      "name": "Pushed Too Far",
+      "url": "https://open.spotify.com/track/77n5kL8RP5ECF7TVVewnF4"
     },
     {
       "added_at": null,
@@ -420,9 +420,25 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 133186,
-      "name": "World Full Of Hate",
-      "url": "https://open.spotify.com/track/7hWpV0TC3YzidJiwascZva"
+      "duration_ms": 114573,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3TPcpHQ0LWUdP7x2ZIQCzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood, Sweat & No Tears",
+        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 79440,
+      "name": "G. I. Joe Headstomp",
+      "url": "https://open.spotify.com/track/33wj2515UqBaZdLuRP2CJG"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 114240,
       "name": "Inner Vision",
       "url": "https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Sweat & No Tears",
-        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 57973,
-      "name": "Pushed Too Far",
-      "url": "https://open.spotify.com/track/77n5kL8RP5ECF7TVVewnF4"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Look Around",
-        "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
+        "name": "Blood, Sweat & No Tears",
+        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 156826,
-      "name": "The Shield",
-      "url": "https://open.spotify.com/track/5lvwWeseoP8J62xwRx4pug"
+      "duration_ms": 115026,
+      "name": "Breeders of Hate",
+      "url": "https://open.spotify.com/track/3NhIHP6C9fp7STYbpFwkPL"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Look Around",
+        "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "The Shield",
+      "url": "https://open.spotify.com/track/5lvwWeseoP8J62xwRx4pug"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death To Tyrants",
         "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 123906,
       "name": "Machete",
       "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Sweat & No Tears",
-        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 115026,
-      "name": "Breeders of Hate",
-      "url": "https://open.spotify.com/track/3NhIHP6C9fp7STYbpFwkPL"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Sweat & No Tears",
-        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 108266,
-      "name": "Clobberin' Time / Pay the Price",
-      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death To Tyrants",
         "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Act of Defiance",
-        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
+        "name": "Blood, Sweat & No Tears",
+        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 162945,
-      "name": "DNC",
-      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
+      "duration_ms": 108266,
+      "name": "Clobberin' Time / Pay the Price",
+      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 87893,
       "name": "Pass the Buck",
       "url": "https://open.spotify.com/track/39nxkNV9hkVUjpMmBp9HG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Act of Defiance",
+        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 162945,
+      "name": "DNC",
+      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
     },
     {
       "added_at": null,

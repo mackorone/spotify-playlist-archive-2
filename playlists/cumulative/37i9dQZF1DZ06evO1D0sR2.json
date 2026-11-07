@@ -2085,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479526,
+      "name": "Lifted Up - Live",
+      "url": "https://open.spotify.com/track/0TUrdMKiqlaYRjCFDoSDRk"
+    },
+    {
+      "album": {
         "name": "Lifted Up",
         "url": "https://open.spotify.com/album/7cyDxBXDrR7SSPRpyRpK2x"
       },
@@ -2104,7 +2130,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 479526,
       "name": "Lifted Up - Live",
       "url": "https://open.spotify.com/track/7fVl4R61pmsQwBtSHfQ3EO"
@@ -3014,7 +3040,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 475254,
       "name": "Promise Keeper - Live",
       "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
@@ -3036,7 +3062,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 112517,
       "name": "Promise Keeper Interlude (feat. DeMarcus Kelly)",
       "url": "https://open.spotify.com/track/1Zr7mwgi2VuT4twyc6dRRY"
@@ -3308,7 +3334,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 489813,
       "name": "Spirit of God - Live",
       "url": "https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s"
@@ -3974,7 +4000,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 423755,
       "name": "Yahweh Deserves All Praise (feat. Tamela Hairston)",
       "url": "https://open.spotify.com/track/2xu0vLNpLWT5v7eXPmjpBt"

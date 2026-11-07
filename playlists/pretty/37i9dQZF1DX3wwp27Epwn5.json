@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 361110,
+  "num_followers": 361247,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1359,46 +1359,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
-      },
-      "artists": [
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 215075,
-      "name": "Let's Nacho",
-      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
-        "name": "Urvashi",
-        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Urvashi",
-      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Heer Aasmani (From \"Fighter\")",
         "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
       },
@@ -1423,6 +1383,46 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Urvashi",
+        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "Urvashi",
+      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 215075,
+      "name": "Let's Nacho",
+      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Brothers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/383e45grHa4YKHGRojMqYy"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 353669,
-      "name": "Brothers Anthem",
-      "url": "https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 261558,
       "name": "O Gujariya",
       "url": "https://open.spotify.com/track/22EimU5vjrNYV9A3aIGqso"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Brothers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/383e45grHa4YKHGRojMqYy"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 353669,
+      "name": "Brothers Anthem",
+      "url": "https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1755,8 +1755,8 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Badhaai Ho",
-        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
       "artists": [
         {
@@ -1764,53 +1764,17 @@
           "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
         },
         {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         },
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Panjabi MC",
-          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
-        },
-        {
-          "name": "Mellow D",
-          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
         }
       ],
-      "duration_ms": 198025,
-      "name": "Morni Banke",
-      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
-        "name": "Mera Wala Dance (From \"Simmba\")",
-        "url": "https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        }
-      ],
-      "duration_ms": 199584,
-      "name": "Mera Wala Dance (From \"Simmba\")",
-      "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM"
+      "duration_ms": 183373,
+      "name": "Kaun Nachdi",
+      "url": "https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1843,6 +1807,34 @@
       "duration_ms": 204130,
       "name": "One Name (From \"Rajini The Jailer 2\")",
       "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Mera Wala Dance (From \"Simmba\")",
+        "url": "https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        }
+      ],
+      "duration_ms": 199584,
+      "name": "Mera Wala Dance (From \"Simmba\")",
+      "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1903,8 +1895,8 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Badhaai Ho",
+        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
       },
       "artists": [
         {
@@ -1912,17 +1904,45 @@
           "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
         },
         {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         },
         {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Panjabi MC",
+          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Kaun Nachdi",
-      "url": "https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K"
+      "duration_ms": 198025,
+      "name": "Morni Banke",
+      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "They Call Him KING - King Theme (From \"King\")",
+        "url": "https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 75093,
+      "name": "They Call Him KING - King Theme (From \"King\")",
+      "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1947,26 +1967,6 @@
       "duration_ms": 258785,
       "name": "Maay Bhavani (From \"Tanhaji - The Unsung Warrior\")",
       "url": "https://open.spotify.com/track/4kBlS162jP01b4uFMbGx3A"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
-        "name": "They Call Him KING - King Theme (From \"King\")",
-        "url": "https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        }
-      ],
-      "duration_ms": 75093,
-      "name": "They Call Him KING - King Theme (From \"King\")",
-      "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"
     }
   ],
   "unique_name": "Bollywood Workout",

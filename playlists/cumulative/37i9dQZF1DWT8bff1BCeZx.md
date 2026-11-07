@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,171 songs - 3 day 6 hr 26 min
+1,172 songs - 3 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [God Wey Sabi](https://open.spotify.com/track/3r89JxsqJjrPA5u11eCFri) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [God Wey Sabi](https://open.spotify.com/album/4awNOqY4sBvHiEtYSVh35p) | 7:08 | 2026-01-16 | 2026-06-26 |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 | 2025-03-14 |
 | [God's Favorite](https://open.spotify.com/track/2jcCdk4FEEyXf2sDdiC0qB) | [Mataya Newton](https://open.spotify.com/artist/4uIl3HS6qlnmWM3deds3hp) | [God's Favorite](https://open.spotify.com/album/1fPl9VPqzAR5Z2Ce5IegcY) | 2:10 | 2025-11-14 | 2026-01-15 |
+| [God's Got Me](https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [God's Got Me](https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa) | 3:06 | 2026-10-30 |  |
 | [God's Love](https://open.spotify.com/track/7240uGoDsILNW2ujEvKSsA) | [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X), [Ifé harmony](https://open.spotify.com/artist/6S2C1f1dlnpZrc2NhkZsLU) | [Sweet in Plenty](https://open.spotify.com/album/3nxFhYmRw8Gm3sdFlltwYy) | 2:12 | 2025-11-07 | 2026-02-27 |
 | [God's Plan](https://open.spotify.com/track/5Bcvqq28rlCPy61XvClSQV) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [God's Plan](https://open.spotify.com/album/5KcpdfwTJUjKnwMhtTFh17) | 2:30 | 2026-04-17 | 2026-08-28 |
 | [Godiya](https://open.spotify.com/track/3IzGEUmUNrAtLGhK72rl02) | [Nimix](https://open.spotify.com/artist/3A51ku0vUmDlGshRgD7TPe), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Godiya](https://open.spotify.com/album/0PloUv4FNlgDVjc1B1fA5g) | 3:39 | 2026-07-03 | 2026-10-09 |
@@ -426,7 +427,7 @@
 | [He Is Your Mercy](https://open.spotify.com/track/5mDpNM1fxPb40VOP63qLzP) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu) | [He Is Your Mercy](https://open.spotify.com/album/2ovaG9witL5tn3e1DKs6Mo) | 4:26 | 2026-02-06 | 2026-03-06 |
 | [He Reigns](https://open.spotify.com/track/0ca9YvqqqgHQmR2WOTtsaH) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE) | [He Reigns](https://open.spotify.com/album/6v2TCH8zNBP1rMCs722j7l) | 2:46 | 2024-11-01 | 2025-02-28 |
 | [He Will Never Fail](https://open.spotify.com/track/0QfSCWg6vTjcpUOxFSlthO) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [He Will Never Fail](https://open.spotify.com/album/0WEBUsLb3vgZhknADp3VqX) | 4:13 | 2026-02-06 | 2026-09-25 |
-| [Heaven Is My Home](https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [iThemba Youth Choir](https://open.spotify.com/artist/4EOOO9yCe3UNF8cRFgkaCZ) | [Heaven Is My Home](https://open.spotify.com/album/6owyc4D1WSLvQj4hTwnX1n) | 3:07 | 2026-08-07 |  |
+| [Heaven Is My Home](https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [iThemba Youth Choir](https://open.spotify.com/artist/4EOOO9yCe3UNF8cRFgkaCZ) | [Heaven Is My Home](https://open.spotify.com/album/6owyc4D1WSLvQj4hTwnX1n) | 3:07 | 2026-08-07 | 2026-11-07 |
 | [Heaven's Got My Back](https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Heaven's Got My Back](https://open.spotify.com/album/50RExeqQJQuzvidZovHFQ2) | 2:30 | 2025-08-08 | 2026-01-15 |
 | [High Praise Medley](https://open.spotify.com/track/0DGw16Xvsukc5eAELGDg0Y) | [The Lux City Choir](https://open.spotify.com/artist/0yLhEiFLPKw1JvEOTwXT5s) | [High Praise Medley](https://open.spotify.com/album/4DmhuLLIRllEv4gJPj86SH) | 10:00 | 2026-07-17 | 2026-07-31 |
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2024-09-27 |

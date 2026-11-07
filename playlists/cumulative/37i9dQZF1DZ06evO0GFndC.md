@@ -4,7 +4,7 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 20 min
+87 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Como Has Estau?](https://open.spotify.com/track/7FMo3ndoRSNWcxDHY7Odt0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:19 | 2024-06-02 | 2024-06-03 |
 | [Creces](https://open.spotify.com/track/7nSknXLSED07Hubig7HxvZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 3:26 | 2025-07-23 | 2025-12-30 |
 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 | 2024-01-29 |  |
-| [CUIDAME DE LA ENVIDIA](https://open.spotify.com/track/3Js63nef8ULBrGnfEC4l1x) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [CUIDAME DE LA ENVIDIA](https://open.spotify.com/album/1G4RNSA25MlmAEtxIvXXc4) | 3:14 | 2026-08-02 |  |
+| [CUIDAME DE LA ENVIDIA](https://open.spotify.com/track/1FTmKrBe1yS9NhOaE291tm) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 3:14 | 2026-11-07 |  |
+| [CUIDAME DE LA ENVIDIA](https://open.spotify.com/track/3Js63nef8ULBrGnfEC4l1x) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [CUIDAME DE LA ENVIDIA](https://open.spotify.com/album/1G4RNSA25MlmAEtxIvXXc4) | 3:14 | 2026-08-02 | 2026-11-07 |
 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 | 2024-01-29 |  |
 | [El Challenger Negro](https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:17 | 2024-01-29 |  |
 | [El de Houston](https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [El de Houston](https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5) | 3:02 | 2024-01-29 |  |
@@ -54,7 +55,7 @@
 | [Holy Molly](https://open.spotify.com/track/0tL39kApl53imatnaQiY4H) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 |  |
 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 | 2025-01-27 | 2026-09-20 |
 | [Independiente](https://open.spotify.com/track/1XqzoDf2gOw11MCZj6ra45) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:37 | 2025-07-20 |  |
-| [JEFAZO](https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 2:54 | 2026-09-21 |  |
+| [JEFAZO](https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 2:54 | 2026-09-21 | 2026-11-07 |
 | [Jumanji \- En Vivo](https://open.spotify.com/track/7JuPwwY32n3KqOR50EfGdn) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 2](https://open.spotify.com/album/0wWUGwPeylib39EDoVC0Ye) | 2:32 | 2024-01-29 | 2025-05-18 |
 | [La Bolsita](https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:10 | 2024-01-29 |  |
 | [La Calabaza](https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:55 | 2024-06-22 |  |
@@ -75,7 +76,7 @@
 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 | 2024-01-29 | 2025-10-06 |
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pongámonos de Acuerdo](https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK) | 3:08 | 2025-06-08 |  |
 | [Por Extrañarte](https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:45 | 2024-06-04 |  |
-| [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 | 2024-01-29 | 2026-11-05 |
+| [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 | 2024-01-29 |  |
 | [Problemas Mentales](https://open.spotify.com/track/56X29F9THJqhofWefcdvRk) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Problemas Mentales](https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL) | 2:51 | 2024-09-06 | 2025-07-23 |
 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 | 2024-01-29 |  |
 | [Producto de Calle](https://open.spotify.com/track/3MMfgeyw8xplWDxBKhemZc) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:14 | 2025-03-30 | 2025-06-08 |

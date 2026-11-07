@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1116859,
+  "num_followers": 1116948,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Left for Dead",
-        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
-      },
-      "artists": [
-        {
-          "name": "Lustra",
-          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Scotty Doesn't Know",
-      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 198266,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Left for Dead",
+        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
+      },
+      "artists": [
+        {
+          "name": "Lustra",
+          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Scotty Doesn't Know",
+      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Beelzebubba",
-        "url": "https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Punk Rock Girl",
-      "url": "https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 131160,
       "name": "Failed Imagineer",
       "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Beelzebubba",
+        "url": "https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Punk Rock Girl",
+      "url": "https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1275,22 +1275,6 @@
       "duration_ms": 154960,
       "name": "Punk Rock And Roll",
       "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 136400,
-      "name": "Wrong Way",
-      "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
+      "duration_ms": 160866,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1375,6 +1359,22 @@
       "duration_ms": 207226,
       "name": "Hurry Up & Die",
       "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
-      },
-      "artists": [
-        {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Scandinavian Leather",
         "url": "https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 254226,
       "name": "Fuck The World",
       "url": "https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Devil's Kind",
+        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+      },
+      "artists": [
+        {
+          "name": "The Longshot",
+          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Devil's Kind",
+      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Thrash Metal Cassette",
-        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Thrash Metal Cassette",
-      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Find Me Here, Pt. 1",
         "url": "https://open.spotify.com/album/2Kmuf6e92jIKmxmjGye33U"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Reclamation",
-        "url": "https://open.spotify.com/album/6kkfH6nlogS6u2AaggS7fF"
+        "name": "Thrash Metal Cassette",
+        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
       },
       "artists": [
         {
-          "name": "Bigwig",
-          "url": "https://open.spotify.com/artist/5sBf8ZpK2u8VXjsJ0e6Kma"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 130199,
-      "name": "A War Inside",
-      "url": "https://open.spotify.com/track/53tHHx3mbjWDh9B9rpeLGJ"
+      "duration_ms": 219866,
+      "name": "Thrash Metal Cassette",
+      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Titles",
+        "url": "https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq"
+      },
+      "artists": [
+        {
+          "name": "Red City Radio",
+          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
+        }
+      ],
+      "duration_ms": 183504,
+      "name": "Two Notes Shy of an Octave",
+      "url": "https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH"
     }
   ],
   "unique_name": "Skatepark Punks",

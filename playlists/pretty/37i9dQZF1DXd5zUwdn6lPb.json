@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 618819,
+  "num_followers": 618932,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Bewitched (Rework)",
-        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 262876,
-      "name": "Bewitched - Rework",
-      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 242333,
       "name": "Try",
       "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Debussy: R\u00eaverie, CD 76",
         "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 259799,
       "name": "R\u00eaverie, CD 76",
       "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -935,8 +935,8 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 268461,
-      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
+      "duration_ms": 92853,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
       },
       "artists": [
         {
@@ -1040,13 +1040,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
         }
       ],
-      "duration_ms": 92853,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
       },
       "artists": [
         {
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+      "duration_ms": 268461,
+      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1395,46 +1395,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
-      },
-      "artists": [
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        },
-        {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
-        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Mishka Rushdie Momen",
-          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "W.f. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1455,6 +1415,26 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1491,6 +1471,26 @@
       "duration_ms": 267773,
       "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Mishka Rushdie Momen",
+          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 7",
         "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 180200,
       "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
       "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Mendelssohn",
         "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 169659,
       "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
       "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1923,30 +1923,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "We Contain Multitudes \u2014 piano reworks",
         "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
       },
@@ -1987,6 +1963,30 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2026-11-06 04:00:44",

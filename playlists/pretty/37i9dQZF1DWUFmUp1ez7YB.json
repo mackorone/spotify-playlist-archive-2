@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Willie Col\u00f3n\n",
-  "num_followers": 1152638,
+  "num_followers": 1152833,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-10-05 22:10:01",
       "album": {
+        "name": "Vale La Pena (It's Worth It)",
+        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
+      },
+      "artists": [
+        {
+          "name": "La Caro Band",
+          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Amor De Etiqueta",
+      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
+    },
+    {
+      "added_at": "2026-10-05 22:10:01",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2026-10-05 22:10:01",
-      "album": {
-        "name": "Vale La Pena (It's Worth It)",
-        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
-      },
-      "artists": [
-        {
-          "name": "La Caro Band",
-          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Amor De Etiqueta",
-      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
     },
     {
       "added_at": "2026-10-05 22:10:01",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-05 22:10:01",
       "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 280013,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
-    },
-    {
-      "added_at": "2026-10-05 22:10:01",
-      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-10-05 22:10:01",
       "album": {
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2026-10-05 22:10:01",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 270093,
       "name": "Mi Libertad",
       "url": "https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh"
-    },
-    {
-      "added_at": "2026-10-05 22:10:01",
-      "album": {
-        "name": "M\u00e1s Que Palabras",
-        "url": "https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "M\u00e1s Que Palabras",
-      "url": "https://open.spotify.com/track/0DaFowAqjlEbisMddK326N"
     },
     {
       "added_at": "2026-10-05 22:10:01",
@@ -1315,6 +1299,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2026-10-05 22:10:01",
+      "album": {
+        "name": "M\u00e1s Que Palabras",
+        "url": "https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "M\u00e1s Que Palabras",
+      "url": "https://open.spotify.com/track/0DaFowAqjlEbisMddK326N"
     },
     {
       "added_at": "2026-10-05 22:10:01",

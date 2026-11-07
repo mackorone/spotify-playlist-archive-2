@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Jão
+> Grandes hits do BR e do 🌎 / Foto: LUDMILLA
 
-490 songs - 1 day 0 hr 29 min
+491 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-17 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-05-20 | 2023-01-19 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-08 | 2025-09-27 |
+| [Bi Festinha](https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Bi Festinha](https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN) | 2:28 | 2026-11-06 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-08-29 | 2025-02-04 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-11-07 | 2026-04-03 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-13 | 2023-03-13 |
@@ -403,7 +404,7 @@
 | [Sagrado Profano](https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Sagrado Profano](https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET) | 3:16 | 2024-05-31 | 2026-01-24 |
 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 | 2022-11-11 | 2023-08-04 |
 | [Sal Grosso](https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [KBrum](https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:31 | 2026-08-14 |  |
-| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-11 |  |
+| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-11 | 2026-11-07 |
 | [Saí para ver o mar](https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Saí para ver o mar](https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O) | 3:11 | 2025-12-19 | 2026-09-26 |
 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 | 2025-01-24 | 2026-01-27 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-22 |  |

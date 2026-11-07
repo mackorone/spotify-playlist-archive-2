@@ -1,6 +1,6 @@
 {
   "description": "New and local indie noise. Cover: The Chats",
-  "num_followers": 60881,
+  "num_followers": 60882,
   "original_name": "Local Noise",
   "owner": {
     "name": "Spotify",
@@ -82,10 +82,14 @@
         {
           "name": "Cherry Chola",
           "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 261818,
+      "name": "Cherry Baby Loca",
       "url": "https://open.spotify.com/track/427jGzgHkbiDBB3hDGEbBN"
     },
     {
@@ -100,8 +104,8 @@
           "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 183937,
+      "name": "Best Life",
       "url": "https://open.spotify.com/track/0lMmT7EMxbkxLiG7mwpC5z"
     },
     {
@@ -260,8 +264,8 @@
           "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 278710,
+      "name": "Sit With",
       "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"
     },
     {

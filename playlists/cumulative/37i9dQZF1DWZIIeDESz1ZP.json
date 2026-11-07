@@ -99,6 +99,60 @@
     },
     {
       "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/4eArbt7UHM2HaBuFvcSYZn"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/1zkDITnmXQ5VRMcRQE9cR8"
+    },
+    {
+      "album": {
+        "name": "CATIRA",
+        "url": "https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "CATIRA",
+      "url": "https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA"
+    },
+    {
+      "album": {
+        "name": "cosas malas de m\u00ed",
+        "url": "https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179834,
+      "name": "cosas malas de m\u00ed",
+      "url": "https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT"
+    },
+    {
+      "album": {
         "name": "crush",
         "url": "https://open.spotify.com/album/0jKsxe18Mv6fi3fjQjwioU"
       },
@@ -110,7 +164,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218154,
       "name": "crush",
       "url": "https://open.spotify.com/track/3T0H2QTPtioQryfUaiRfez"
@@ -136,6 +190,24 @@
       "duration_ms": 189038,
       "name": "dame luz",
       "url": "https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP"
+    },
+    {
+      "album": {
+        "name": "De Cero",
+        "url": "https://open.spotify.com/album/33X8MSFhcmZfQyvL9YhMkK"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170503,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/4VPaf34uvnDpfsYsNJU5FP"
     },
     {
       "album": {
@@ -208,7 +280,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181248,
       "name": "LA MENTIRA",
       "url": "https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz"
@@ -256,6 +328,24 @@
       "duration_ms": 210000,
       "name": "La Semana",
       "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Cambian",
+        "url": "https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156170,
+      "name": "Las Cosas Cambian",
+      "url": "https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD"
     },
     {
       "album": {
@@ -568,6 +658,24 @@
       "duration_ms": 138994,
       "name": "TOTOTO (+4)",
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
+    },
+    {
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176768,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U"
     },
     {
       "album": {

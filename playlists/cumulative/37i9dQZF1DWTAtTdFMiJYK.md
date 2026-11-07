@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
 
-472 songs - 1 day 2 hr 9 min
+473 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 | 2023-01-20 | 2024-05-11 |
 | [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 | 2026-08-28 |  |
 | [Aakhri Saans](https://open.spotify.com/track/790djaPwpd5ovk4SG3JNwo) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Bemisaal](https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2) | 3:18 | 2025-12-03 | 2026-01-15 |
+| [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 | 2026-11-06 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 | 2024-12-05 |
 | [Aankhon Se Batana](https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI) | 3:41 | 2022-03-21 | 2022-04-26 |
 | [Aao Bhula Dein](https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Aao Bhula Dein](https://open.spotify.com/album/3d7Oe8nu0J8yNt77PJir7w) | 3:37 | 2024-11-10 | 2026-02-20 |
@@ -288,7 +289,7 @@
 | [Megham](https://open.spotify.com/track/2nZWrBa9MRHz3vtvvQ2lXs) | [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Megham](https://open.spotify.com/album/6yEQVYaMrYWUOFSDb7DXwl) | 3:51 | 2026-09-04 |  |
 | [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 | 2023-06-10 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-10-04 | 2024-01-11 |
-| [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 | 2026-01-10 |  |
+| [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 | 2026-01-10 | 2026-11-07 |
 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2024-01-10 | 2026-07-24 |
 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-01-24 | 2024-01-11 |
 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 | 2025-12-03 | 2026-01-15 |

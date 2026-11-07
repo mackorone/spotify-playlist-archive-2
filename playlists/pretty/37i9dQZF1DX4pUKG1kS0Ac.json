@@ -1,6 +1,6 @@
 {
   "description": "We never stopped believin' ",
-  "num_followers": 3393095,
+  "num_followers": 3393050,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Backstreet's Back (European Version)",
         "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 251733,
       "name": "Pony",
       "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 189468,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 185360,
       "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 189468,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 216453,
       "name": "I Believe In A Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -2067,6 +2051,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Wilson Phillips",
         "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 266866,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "The Best Of Men At Work: Contraband",
-        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "Eve 6",
         "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 219466,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "The Best Of Men At Work: Contraband",
+        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
     },
     {
       "added_at": "2026-10-22 15:15:58",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-10-22 15:15:58",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT"
-    },
-    {
-      "added_at": "2026-10-22 15:15:58",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+    },
+    {
+      "added_at": "2026-10-22 15:15:58",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT"
     },
     {
       "added_at": "2026-10-22 15:15:58",

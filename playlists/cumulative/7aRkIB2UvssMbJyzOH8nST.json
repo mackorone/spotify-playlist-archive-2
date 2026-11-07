@@ -4497,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Only Want You",
+        "url": "https://open.spotify.com/album/7jbRB0YJd5U2U03l86Wr6A"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Only Want You",
+      "url": "https://open.spotify.com/track/4ICTiNMlVnqu60ZqZZcLio"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD"
       },
@@ -6134,7 +6152,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 240000,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"

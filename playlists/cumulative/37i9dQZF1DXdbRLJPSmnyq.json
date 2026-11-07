@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Vaundy",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: XG ",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -1096,6 +1096,24 @@
       "duration_ms": 227720,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F"
+    },
+    {
+      "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/3VazTnqawfJRCPH7E2Tszo"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/3ZveIOcuTmBlTXH7tGS0dR"
     },
     {
       "album": {
@@ -3573,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "BE:4U",
+        "url": "https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178641,
+      "name": "NOW U KNOW",
+      "url": "https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i"
+    },
+    {
+      "album": {
         "name": "Yoo-hoo",
         "url": "https://open.spotify.com/album/2ovdkF5kkDDWfjJgk9rHtu"
       },
@@ -3768,6 +3804,32 @@
       "duration_ms": 245065,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
+    },
+    {
+      "album": {
+        "name": "PEACE (feat. WILYWNKA)",
+        "url": "https://open.spotify.com/album/2k2xm1B580KdRjtq7ghLwi"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "PEACE - feat. WILYWNKA",
+      "url": "https://open.spotify.com/track/2dCtax7khWtpUEmuAt7cND"
     },
     {
       "album": {
@@ -5865,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3051\u3066\u3082\u7121\u7406\u3067\u3082",
+        "url": "https://open.spotify.com/album/4H2Ub94V1sRsntfXywbM5f"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u3057\u3044\u5730\u56f3 join \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/4TrylF8OKOqs0eq1oddrcv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "\u3044\u3051\u3066\u3082\u7121\u7406\u3067\u3082",
+      "url": "https://open.spotify.com/track/3GLekByLUZaS2K8Fqn64np"
+    },
+    {
+      "album": {
         "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
         "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
       },
@@ -7075,6 +7155,24 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30e7\u30b3\u6469\u8a36\u4e0d\u601d\u8b70",
+        "url": "https://open.spotify.com/album/1q0DCZHUVnVYCjAjC09rKm"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "\u30c1\u30e7\u30b3\u6469\u8a36\u4e0d\u601d\u8b70",
+      "url": "https://open.spotify.com/track/2QhcDHMTl3HjhwThOTdFUK"
+    },
+    {
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -7978,6 +8076,28 @@
       "duration_ms": 259877,
       "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
       "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+        "url": "https://open.spotify.com/album/1Mjrfn6qqRAAJM6OTjxnaz"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317102,
+      "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+      "url": "https://open.spotify.com/track/73PjaJWkRvlTqGekbZ3rjZ"
     },
     {
       "album": {
@@ -9740,7 +9860,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 238253,
       "name": "\u96f6-zero-",
       "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"

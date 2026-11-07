@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 201038,
       "name": "chodzi o nas",
       "url": "https://open.spotify.com/track/0vdVLBqXoN49A1ojHoLMwn"
@@ -10794,7 +10794,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 258296,
       "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
       "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
@@ -12010,7 +12010,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198060,
       "name": "Nie ma miejsca jak dom",
       "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
@@ -13508,7 +13508,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158720,
       "name": "PANGEA",
       "url": "https://open.spotify.com/track/2ZwEDO0WH8ELXpDiIsZORv"
@@ -15267,6 +15267,24 @@
     },
     {
       "album": {
+        "name": "Raport",
+        "url": "https://open.spotify.com/album/5RtPXJJqxxhH6IZTF5H9fn"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185044,
+      "name": "Raport",
+      "url": "https://open.spotify.com/track/35mN0UFFpdbPwCmNJlkZl7"
+    },
+    {
+      "album": {
         "name": "BEFORE I FORGET",
         "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
@@ -16142,6 +16160,24 @@
       "duration_ms": 174240,
       "name": "september lightning",
       "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
+    },
+    {
+      "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/1SAGltZWmoSsN3qyS4RL1r"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/7CLoNAwsM3ObHdNCo6XNwn"
     },
     {
       "album": {
@@ -21679,6 +21715,24 @@
     },
     {
       "album": {
+        "name": "Zdj\u0119cie",
+        "url": "https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Zdj\u0119cie",
+      "url": "https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6"
+    },
+    {
+      "album": {
         "name": "Unikaj\u0105c Odpowiedzi EP",
         "url": "https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ"
       },
@@ -21734,6 +21788,24 @@
       "duration_ms": 177933,
       "name": "Zima",
       "url": "https://open.spotify.com/track/0w87jcdqBn6KqCsYRebolf"
+    },
+    {
+      "album": {
+        "name": "zimne jab\u0142ko",
+        "url": "https://open.spotify.com/album/0hCoxCwuAzjZRrYzy5rz0C"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297066,
+      "name": "zimne jab\u0142ko",
+      "url": "https://open.spotify.com/track/1FrX7wkdHph4s5pcWR8RcA"
     },
     {
       "album": {

@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
@@ -508,6 +508,24 @@
       "duration_ms": 176293,
       "name": "Bien Chill",
       "url": "https://open.spotify.com/track/56BV0uPbXSu9RRHrPR1Zat"
+    },
+    {
+      "album": {
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153059,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
     },
     {
       "album": {
@@ -901,6 +919,24 @@
     },
     {
       "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
+    },
+    {
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -956,6 +992,28 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
     },
     {
       "album": {
@@ -2572,7 +2630,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
@@ -3024,7 +3082,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163157,
       "name": "MALA M\u00cdA",
       "url": "https://open.spotify.com/track/2ptQrhGlBY7qVMm8VbuAY8"
@@ -3158,7 +3216,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -3180,7 +3238,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 169823,
       "name": "MARATHON",
       "url": "https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9"
@@ -3294,7 +3352,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 176509,
       "name": "mi hombre",
       "url": "https://open.spotify.com/track/4C18zbNTQR9Y36GDYXQAq7"
@@ -3448,7 +3506,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 164705,
       "name": "Move ya body",
       "url": "https://open.spotify.com/track/7oGWLLJg0hrqTTbO3pS4Rl"
@@ -4125,6 +4183,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S"
+    },
+    {
+      "album": {
         "name": "Prende (Remix)",
         "url": "https://open.spotify.com/album/2sYkiXPrWFE9sW5lfZJmR5"
       },
@@ -4586,7 +4666,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -4850,7 +4930,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158316,
       "name": "Se Le Pega",
       "url": "https://open.spotify.com/track/0WVhcFiT3XkjfGHMUBmKia"
@@ -4982,7 +5062,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 167095,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
@@ -5274,7 +5354,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
@@ -5502,7 +5582,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 129836,
       "name": "Tiene Tumbao",
       "url": "https://open.spotify.com/track/2Zg5eXtjIWzIqdIXe1DosI"
@@ -5586,7 +5666,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
@@ -6008,7 +6088,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 171864,
       "name": "Work",
       "url": "https://open.spotify.com/track/0ArfxWwRJx3Q5RCSnhZEED"

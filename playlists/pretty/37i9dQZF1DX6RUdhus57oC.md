@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,186 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,188 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 15 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
 | 16 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 17 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
-| 18 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |
-| 19 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 18 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 19 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |
 | 20 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
-| 21 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
-| 22 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
+| 21 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
+| 22 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 23 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 |
 | 24 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 |
 | 25 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 43 | [Blue Water Floats](https://open.spotify.com/track/1valVbc0kxrTxrT4nf3x9t) | [Placid Warren](https://open.spotify.com/artist/1R1NeLGKtMkDEt6lVqEtyl) | [Blue Water Floats](https://open.spotify.com/album/5pp6y9zMzwkqjKyiECnfxx) | 2:39 |
 | 44 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
 | 45 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
-| 46 | [L'hiver](https://open.spotify.com/track/7aK6ta2RLhGEvgWpseGXMY) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [L'hiver](https://open.spotify.com/album/0tFUWmFQoy6ATytDer3V66) | 1:41 |
-| 47 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
+| 46 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
+| 47 | [L'hiver](https://open.spotify.com/track/7aK6ta2RLhGEvgWpseGXMY) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [L'hiver](https://open.spotify.com/album/0tFUWmFQoy6ATytDer3V66) | 1:41 |
 | 48 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 49 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
 | 50 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 71 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
 | 72 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 73 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
-| 74 | [Sequences](https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Sequences](https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD) | 2:25 |
-| 75 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 |
+| 74 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 |
+| 75 | [Sequences](https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Sequences](https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD) | 2:25 |
 | 76 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 |
-| 77 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
-| 78 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 |
+| 77 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 |
+| 78 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
 | 79 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 |
 | 80 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 81 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 93 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 |
 | 94 | [Patience](https://open.spotify.com/track/4v5iSQlLPWdakoO0Z2ZrAF) | [Felix Manzi](https://open.spotify.com/artist/4mRRmHSH6aXnasbsgLhg0o), [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Patience](https://open.spotify.com/album/6IT3jNfpZKM3t7begGA3Z1) | 2:43 |
 | 95 | [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 |
-| 96 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 |
-| 97 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
+| 96 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
+| 97 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 |
 | 98 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
 | 99 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
 | 100 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |

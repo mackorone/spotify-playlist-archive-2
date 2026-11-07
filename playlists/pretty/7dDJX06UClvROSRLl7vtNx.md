@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,442 likes - 233 songs - 10 hr 4 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,466 likes - 235 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,5 +241,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 231 | [Falling In Love](https://open.spotify.com/track/31CovvAWSS5Qg6H83Rkr5x) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Falling In Love](https://open.spotify.com/album/27pL34eJm4UrO776o43nLg) | 2:10 |
 | 232 | [Endless Beach](https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Endless Beach](https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK) | 2:37 |
 | 233 | [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 |
+| 234 | [Home](https://open.spotify.com/track/5HWCxkwA5qLLrBscW5HhFD) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Home](https://open.spotify.com/album/76mbt0RzaX7fKqXIBP0KvW) | 3:01 |
+| 235 | [Vertigo](https://open.spotify.com/track/7Beh2TUnja03EuKnHatkJ8) | [Nova Sol](https://open.spotify.com/artist/7BJp4lQ3gUtMLkUFgcmLLs) | [Vertigo](https://open.spotify.com/album/2bFQ86DKDZk7Qvp3w4v32P) | 2:07 |
 
-Snapshot ID: `AABXFNsuglgkpN6IL7xcSKHk/AdejJBp`
+Snapshot ID: `AABXFkBelTkSAOJj3zCcCXwoVOej0/6j`

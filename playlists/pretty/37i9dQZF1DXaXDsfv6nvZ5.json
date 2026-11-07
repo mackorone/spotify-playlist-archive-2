@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: John Legend",
-  "num_followers": 785088,
+  "num_followers": 785068,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1389,20 +1389,20 @@
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
-      "added_at": "2026-02-14 03:28:47",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-08-22 04:00:21",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2026-02-14 03:28:47",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
       "added_at": "2025-12-05 07:50:19",
@@ -1493,6 +1493,26 @@
       "url": "https://open.spotify.com/track/6pNrdoEgWVcHvKxrsvHMKL"
     },
     {
+      "added_at": "2024-05-17 07:14:12",
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+    },
+    {
       "added_at": "2025-03-21 05:07:45",
       "album": {
         "name": "HEART OF THE MATTER",
@@ -1507,22 +1527,6 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
-    },
-    {
-      "added_at": "2025-11-14 12:04:27",
-      "album": {
-        "name": "Heat The Streets Some Mo'",
-        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
       "added_at": "2025-08-15 19:53:41",
@@ -1573,6 +1577,22 @@
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
+      "added_at": "2025-11-14 12:04:27",
+      "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
+    },
+    {
       "added_at": "2025-09-26 04:57:19",
       "album": {
         "name": "Gas Station Love",
@@ -1587,26 +1607,6 @@
       "duration_ms": 245100,
       "name": "Gas Station Love",
       "url": "https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI"
-    },
-    {
-      "added_at": "2024-05-17 07:14:12",
-      "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "added_at": "2025-04-25 07:19:25",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
       "added_at": "2024-09-13 09:22:53",
       "album": {
         "name": "The Love Is Gone",
@@ -1691,6 +1675,22 @@
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2025-04-18 05:17:41",
@@ -2061,6 +2061,22 @@
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
     },
     {
+      "added_at": "2025-12-12 18:54:21",
+      "album": {
+        "name": "Tangled (Stripped)",
+        "url": "https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp"
+      },
+      "artists": [
+        {
+          "name": "John Splithoff",
+          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Tangled - Stripped",
+      "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
+    },
+    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Flowers",
@@ -2079,42 +2095,6 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
-    },
-    {
-      "added_at": "2025-12-12 18:54:21",
-      "album": {
-        "name": "Tangled (Stripped)",
-        "url": "https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp"
-      },
-      "artists": [
-        {
-          "name": "John Splithoff",
-          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Tangled - Stripped",
-      "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
-    },
-    {
-      "added_at": "2026-09-25 08:27:30",
-      "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Lydia Kitto",
-          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
-        }
-      ],
-      "duration_ms": 242609,
-      "name": "All Day, All Night (feat. Lydia Kitto)",
-      "url": "https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2"
     },
     {
       "added_at": "2025-11-07 07:43:36",
@@ -2147,6 +2127,26 @@
       "duration_ms": 211669,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+    },
+    {
+      "added_at": "2026-09-25 08:27:30",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        }
+      ],
+      "duration_ms": 242609,
+      "name": "All Day, All Night (feat. Lydia Kitto)",
+      "url": "https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2185,6 +2185,22 @@
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
+      "added_at": "2025-12-05 07:50:19",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
+    {
       "added_at": "2024-11-08 14:48:31",
       "album": {
         "name": "Celebrate",
@@ -2219,22 +2235,6 @@
       "duration_ms": 178891,
       "name": "If The Love Goes",
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
-    },
-    {
-      "added_at": "2025-12-05 07:50:19",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2489,6 +2489,22 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
+      "added_at": "2026-09-25 08:27:30",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz"
+    },
+    {
       "added_at": "2025-02-14 09:04:21",
       "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
@@ -2569,40 +2585,20 @@
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
-      "added_at": "2026-09-25 08:27:30",
+      "added_at": "2026-10-02 07:36:23",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ"
+        "name": "Made In Chicago",
+        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce"
       },
       "artists": [
         {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz"
-    },
-    {
-      "added_at": "2025-02-28 17:58:06",
-      "album": {
-        "name": "SO BEAUTIFUL",
-        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 227649,
-      "name": "SO BEAUTIFUL",
-      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
+      "duration_ms": 205500,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6cBP7BZg8nZ5fZtmRMsuRw"
     }
   ],
   "unique_name": "Soul Coffee",

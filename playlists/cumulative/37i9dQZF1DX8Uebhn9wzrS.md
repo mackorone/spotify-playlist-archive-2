@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,541 songs - 4 day 0 hr 39 min
+2,542 songs - 4 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1234,6 +1234,7 @@
 | [Liliac](https://open.spotify.com/track/4xhLpuypn1JCVdklz1FLYt) | [softhead](https://open.spotify.com/artist/2nq3JoZK43Y5eeZPNReJI8) | [Liliac](https://open.spotify.com/album/2VEDWfLVAcOxXtCJY2144e) | 1:31 | 2022-05-13 | 2022-11-12 |
 | [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-29 | 2025-02-19 |
 | [lilly](https://open.spotify.com/track/6TYwpyey0o6pAxp4trTqI2) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [lilly](https://open.spotify.com/album/5KxAVslcXaJ1gLyb8qIb9t) | 2:05 | 2025-04-18 | 2025-07-18 |
+| [Lily Pads](https://open.spotify.com/track/4inWGupRNXrLfRnveRPoHp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Lily Pads](https://open.spotify.com/album/5HFmL1ifuYbT5F0N3jTeWj) | 2:09 | 2026-11-05 |  |
 | [Limewire](https://open.spotify.com/track/0wwa9lg3yCKyyOkJLAEtod) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:19 | 2022-04-15 | 2022-06-03 |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-13 | 2023-03-25 |
 | [linger](https://open.spotify.com/track/3scMFS1GB4NIfUHzGh1fNQ) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [linger](https://open.spotify.com/album/7r5YcB16E82MBNmOKOe1Lr) | 2:29 | 2026-08-20 |  |
@@ -1817,7 +1818,7 @@
 | [Reminds Me of Me](https://open.spotify.com/track/2qz2QDD9p4P9PfbOZN0ngF) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Reminds Me of Me](https://open.spotify.com/album/6gM2Wpa6XZiRgjs0Adb0Hd) | 2:42 | 2022-10-07 | 2023-03-09 |
 | [Reminisce](https://open.spotify.com/track/3a9FDZH7YfRaTvrfdWnn43) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Reminisce](https://open.spotify.com/album/4lslNVpFJjWTzQcypAooxN) | 2:24 | 2024-07-12 | 2024-11-16 |
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 | 2025-07-26 |
-| [RESOLUTION](https://open.spotify.com/track/7lFW8mhko9rb4ZCGooRy5t) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [RESOLUTION](https://open.spotify.com/album/6xoUy0MGLiN4egMmpkQWrG) | 2:26 | 2026-11-05 |  |
+| [RESOLUTION](https://open.spotify.com/track/7lFW8mhko9rb4ZCGooRy5t) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [RESOLUTION](https://open.spotify.com/album/6xoUy0MGLiN4egMmpkQWrG) | 2:26 | 2026-11-05 | 2026-11-07 |
 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 | 2023-02-13 | 2025-07-18 |
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-06-06 | 2023-10-06 |
 | [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 | 2026-03-14 |

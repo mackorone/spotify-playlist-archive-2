@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juanchito, Gerardo Coronel 📸
 
-12,088 songs - 26 day 2 hr 38 min
+12,090 songs - 26 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2395,6 +2395,7 @@
 | [De Mí No Vas A Estar Hablando](https://open.spotify.com/track/7jhnAbCee38MXTfoJfluuW) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [De Mí No Vas A Estar Hablando](https://open.spotify.com/album/6zW5fLgtEdmrKZnXkHal2X) | 2:53 | 2023-04-07 | 2023-04-15 |
 | [De Mí Te Acuerdas](https://open.spotify.com/track/0xDYJaSeYBaEDOckSXKek5) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Mí Te Acuerdas](https://open.spotify.com/album/2ZXKOkkFsZPkbOCq7YuiKu) | 3:40 | 2023-02-24 | 2023-03-04 |
 | [De Nada Sirvió \- En Vivo](https://open.spotify.com/track/5j27pvG5Pgn8rvz1pU2eF6) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Nada Sirvió \(En Vivo\)](https://open.spotify.com/album/0UGB6UrdpJaNuEBt7bLhv1) | 4:15 | 2022-09-09 | 2022-09-17 |
+| [De Noche](https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO) | [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [De Noche](https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx) | 2:59 | 2026-11-06 |  |
 | [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 | 2025-12-12 | 2025-12-20 |
 | [DE NUEVO](https://open.spotify.com/track/3ztlF2Eqicbq8ELVSrgsyE) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [DE NUEVO](https://open.spotify.com/album/204QAr2DOXYludJL5ZPyrb) | 3:56 | 2025-12-05 | 2025-12-13 |
 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 | 2026-07-24 | 2026-08-01 |
@@ -8547,6 +8548,7 @@
 | [Peguemos Fuga](https://open.spotify.com/track/71JqZx1iD6E94qZ2bejuTA) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h) | [Peguemos Fuga](https://open.spotify.com/album/0GcRzq75VzBkyTM8MnB1bX) | 2:30 | 2026-07-10 | 2026-07-18 |
 | [Peinando las Brechas \(En Vivo\)](https://open.spotify.com/track/25fdFHaoxJl2dX4qoSnHir) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Peinando las Brechas \(En Vivo\)](https://open.spotify.com/album/2Lgfi09ow50LYjHu4qG4TC) | 3:19 | 2023-02-10 | 2023-02-18 |
 | [Peleando En Silencio](https://open.spotify.com/track/3S9uvvPtwLwjsQkaMuiEAb) | [Osvaldo Rodriguez](https://open.spotify.com/artist/2BMaTsuqLtDUuOQHzGIgjP) | [Peleando En Silencio](https://open.spotify.com/album/1Uir9osNCUiQceaGSNNJVD) | 2:48 | 2026-09-04 | 2026-09-12 |
+| [PELIBLACK](https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [PELIBLACK](https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN) | 1:53 | 2026-11-06 |  |
 | [peliculiando](https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:28 | 2025-05-02 | 2025-05-10 |
 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:41 | 2026-03-20 | 2026-03-28 |
 | [Peliculón](https://open.spotify.com/track/3z1WDB3oJ5ZNmT1fJeSztw) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Peliculón](https://open.spotify.com/album/6JoH9otyMoz5aHQsFOhH8N) | 3:00 | 2025-10-24 | 2025-11-01 |

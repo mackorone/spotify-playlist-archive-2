@@ -2,9 +2,9 @@
 
 ### [Cumbia Norteña](https://open.spotify.com/playlist/37i9dQZF1DX7V3ptrxki0a)
 
-> Agarren su pareja que es momento de mover ese botecito\. Victor García, Bohemio en portada 🤠
+> Agarren su pareja que es momento de mover ese botecito\. Doble Filo en portada 🤠
 
-184 songs - 9 hr 53 min
+187 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lamentablemente](https://open.spotify.com/track/7c4HQ7hXnoNdB9v29jFqYf) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Lamentablemente](https://open.spotify.com/album/206VbJ0YKTqViK6EqlJ8vc) | 2:22 | 2025-07-18 | 2026-03-14 |
 | [Le Reclamé A Cupido](https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Le Reclamé A Cupido](https://open.spotify.com/album/6ZbGUlwaGbv7GmJ57i1isb) | 2:56 | 2026-03-06 |  |
 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 | 2023-11-08 |  |
+| [Lo Haría de Nuevo](https://open.spotify.com/track/3KrnewYUYisY2TczMZ5tYZ) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF) | [Lo Haría de Nuevo](https://open.spotify.com/album/5pfs2DxwIKDJzfgWoL0TzS) | 3:24 | 2026-11-06 |  |
 | [Lo Que Duró](https://open.spotify.com/track/5mFbqczcOiLSzO3fZ6XyBY) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Lo Que Duró](https://open.spotify.com/album/5sa2z5ZtVXCuFlV7kTyief) | 3:15 | 2025-05-30 | 2025-07-19 |
 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 | 2023-08-08 | 2023-12-02 |
 | [Los Cacahuatazos](https://open.spotify.com/track/5uGTO3PtMdZPsLw6xqTjoc) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ) | [Los Cacahuatazos](https://open.spotify.com/album/3kdv2NDNPtHRmGvzFxnAB2) | 2:45 | 2024-05-24 | 2024-11-29 |
@@ -138,6 +139,7 @@
 | [Muchachita De Ojos Tristes](https://open.spotify.com/track/0G7466Xw2AmRvwZZ8pQc2e) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Muchachita De Ojos Tristes](https://open.spotify.com/album/6gVR5QgioGBMJB5dwOyf8X) | 3:00 | 2025-12-05 |  |
 | [Nadie Te Extraña](https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Nadie Te Extraña](https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8) | 2:31 | 2026-10-23 |  |
 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 | 2025-09-05 |  |
+| [NO ME ENSEÑASTE](https://open.spotify.com/track/2aqoNsc36QmsPyQZMtRutH) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Desde El Patio Western Club Volumen 5](https://open.spotify.com/album/4qXylSgXATDgmGDWc5YRW0) | 3:36 | 2026-11-06 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2023-12-01 |  |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-08-08 | 2023-09-01 |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-08-08 | 2024-04-19 |
@@ -187,6 +189,7 @@
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-08-08 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/066iNypqZhINl4lpU2IB9N) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Ven Devórame Otra Vez](https://open.spotify.com/album/5y6lhEZyYubcIk1BVGWzxQ) | 3:19 | 2025-10-24 | 2026-10-24 |
 | [Véte Ya](https://open.spotify.com/track/7ogfZvnAn2GQ7VC2bqAyNr) | [Grupo Rojas De Eronga](https://open.spotify.com/artist/4gnFSv0GrGhjGHK9V4oUb2) | [Véte Ya](https://open.spotify.com/album/14Qfju5dsnOXEAVGHa3USU) | 2:41 | 2026-04-24 |  |
+| [Winnona \- En Vivo](https://open.spotify.com/track/3ueVAvDGVTXD3AVoFa0cKM) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Winnona \(En Vivo\)](https://open.spotify.com/album/0XM0BJd8VumwB5PqK9q9nb) | 2:58 | 2026-11-06 |  |
 | [X Si Te Arrepientes](https://open.spotify.com/track/6aTDWnPjCCojP5oCROTxih) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [X Si Te Arrepientes](https://open.spotify.com/album/7tcP5BIcuTx4UnHaz37fqW) | 2:46 | 2025-09-05 | 2025-10-25 |
 | [Y LLORO](https://open.spotify.com/track/07NMEt47qjfkrwuhCEDm5y) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Y LLORO](https://open.spotify.com/album/1btKxBWCe69hThXBtbJeVe) | 2:46 | 2025-12-05 | 2026-10-24 |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2023-08-08 | 2024-11-29 |

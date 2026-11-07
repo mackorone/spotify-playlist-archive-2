@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,976 likes - 46 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,996 likes - 46 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [Bout A Million](https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 3:23 |
 | 46 | [Coupe](https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:03 |
 
-Snapshot ID: `aukkAAAAAADnbTAbWHD2cvQ1ZOc/7Pbd`
+Snapshot ID: `auvHAAAAAABp4+VBHQ0TKedYHh0jtJGu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,036 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,066 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 46 | [Sombrero Vaquero](https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 2:49 |
 | 47 | [No Te Creas Tan Importante](https://open.spotify.com/track/1xew4s5581HZOaES46OSTN) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre en Tu Corazón](https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R) | 5:11 |
 | 48 | [Te Hablarán de Mi](https://open.spotify.com/track/4XaVN3Q7qKKUNdfMupEzw9) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Te Hablarán de Mi](https://open.spotify.com/album/4yX6JWHE7JS4DdzWnGWSSS) | 3:04 |
-| 49 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
-| 50 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 |
+| 49 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 |
+| 50 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
 | 51 | [La Noche Perfecta](https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Noche Perfecta](https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K) | 4:25 |
-| 52 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 |
-| 53 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 |
-| 54 | [La Bella y la Bestia](https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1) | [Los Rancheros de Quilleco](https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx) | [La Bella y la Bestia](https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe) | 3:49 |
+| 52 | [La Bella y la Bestia](https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1) | [Los Rancheros de Quilleco](https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx) | [La Bella y la Bestia](https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe) | 3:49 |
+| 53 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 |
+| 54 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 |
 | 55 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 |
 | 56 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 |
 | 57 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 |

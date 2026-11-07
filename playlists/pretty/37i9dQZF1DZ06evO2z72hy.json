@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 94565,
+  "num_followers": 94588,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAvwFGiE4rzgybZniawDjob",
+  "snapshot_id": "auvHAAAAAAD7f3XZtH5gYzaeUaki7ZNE",
   "tracks": [
     {
       "added_at": null,
@@ -59,30 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Tito Fuentes",
-          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
         }
       ],
-      "duration_ms": 249916,
-      "name": "Sin Cadenas",
-      "url": "https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s"
+      "duration_ms": 263999,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
     },
     {
       "added_at": null,
@@ -119,6 +107,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
+        }
+      ],
+      "duration_ms": 249916,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 246333,
       "name": "Verde, Amarillo Y Rojo",
       "url": "https://open.spotify.com/track/4Q0y0SOAJ84PvR2Uu6tGXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 263999,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Dulce Amor (S\u00f3lo Un Latido)",
-      "url": "https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 247573,
       "name": "Nadie Como Tu",
       "url": "https://open.spotify.com/track/52sDXLOJz1y7Gjf3TJ5eWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Dulce Amor (S\u00f3lo Un Latido)",
+      "url": "https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cali Roots Riddim 2023",
-        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
@@ -299,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cali Roots Riddim 2023",
+        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gondwana",
         "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Alabanza",
-      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 218880,
       "name": "Volver A Sentir",
       "url": "https://open.spotify.com/track/3KGbrHIDaY7KnLbx91QXY7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Alabanza",
+      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 276826,
       "name": "Ignorancia",
       "url": "https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Defendamos",
-      "url": "https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 230000,
       "name": "Pedig\u00fce\u00f1o",
       "url": "https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Defendamos",
+      "url": "https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+      "duration_ms": 236493,
+      "name": "Para Quien Avanza",
+      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Para Quien Avanza",
-      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": null,

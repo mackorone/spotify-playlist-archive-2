@@ -4,7 +4,7 @@
 
 > roots run deep with Sam Barber
 
-508 songs - 1 day 6 hr 32 min
+509 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [God Bless The West \(feat\. Cleto Cordero\)](https://open.spotify.com/track/3UqZUHNle0hqwLtJpxqEaY) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Cleto Cordero](https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3) | [God Bless The West \(feat\. Cleto Cordero\)](https://open.spotify.com/album/4lVRuJ3OV9THQI8LAHzzDk) | 3:48 | 2025-03-21 |  |
 | [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-26 | 2024-05-11 |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2023-09-26 | 2024-01-19 |
+| [Good Faith](https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Outlier](https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5) | 3:44 | 2026-11-07 |  |
 | [Good Godly Woman](https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Good Godly Woman](https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw) | 2:27 | 2023-09-28 | 2024-10-05 |
 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-09 |  |
 | [Good While It Lasted](https://open.spotify.com/track/3URnvhDLXtkLegFuTZHRcz) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/6OgNgnMcqhcDw01qXlw8el) | 4:03 | 2025-03-14 |  |

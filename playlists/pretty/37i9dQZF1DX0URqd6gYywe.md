@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Los mejores lentos del rock\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,957 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,974 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 43 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
 | 44 | [No Entiendo Si Es Amor](https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:49 |
 | 45 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
-| 46 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
-| 47 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 |
+| 46 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 |
+| 47 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
 | 48 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
 | 49 | [Parte de Mi](https://open.spotify.com/track/4HPXjU7Jz4wHp9GlDlNpWt) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:45 |
 | 50 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 63 | [Hay Momentos](https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Esclavo](https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf) | 2:38 |
 | 64 | [Fuego contra fuego](https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:27 |
 | 65 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
-| 66 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
+| 66 | [Espíritu Felino](https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt) | [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Espíritu \(Libres Parte 3\)](https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut) | 3:43 |
 | 67 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
-| 68 | [Espíritu Felino](https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt) | [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Espíritu \(Libres Parte 3\)](https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut) | 3:43 |
+| 68 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
 | 69 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
 | 70 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 |
 | 71 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 75 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 76 | [El Gato Que Está Triste y Azul](https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Gato Que Está Triste y Azul](https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk) | 3:41 |
 | 77 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
-| 78 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
-| 79 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 |
+| 78 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 |
+| 79 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 80 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 |
 | 81 | [Ella](https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Ella](https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm) | 4:14 |
 | 82 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 85 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
 | 86 | [Te Enfadas](https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:37 |
 | 87 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
-| 88 | [Loop Dorado](https://open.spotify.com/track/36s5cDUgmSNQTf4neSSDPA) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Todo lo Sólido se Desvanece en el Aire](https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl) | 3:34 |
-| 89 | [Gente en la Ventana](https://open.spotify.com/track/1FbfVRPCbuFZm102i3hYg5) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:59 |
+| 88 | [Gente en la Ventana](https://open.spotify.com/track/1FbfVRPCbuFZm102i3hYg5) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:59 |
+| 89 | [Loop Dorado](https://open.spotify.com/track/36s5cDUgmSNQTf4neSSDPA) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Todo lo Sólido se Desvanece en el Aire](https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl) | 3:34 |
 | 90 | [Como Un Cuento](https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Como Un Cuento](https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv) | 4:47 |
 | 91 | [Las Arañas](https://open.spotify.com/track/0DC2xgdAaunixqno818mZo) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Arañas](https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK) | 2:59 |
 | 92 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 97 | [El Universo](https://open.spotify.com/track/0YBn48a0CAaS8I7FpcWAvv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/3TOpU3w0sTPPSKl8yt323D) | 2:16 |
 | 98 | [Así](https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra) | [Así](https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD) | 4:14 |
 | 99 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
-| 100 | [BUZIOS](https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [SOLO POR HOY](https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5) | 2:17 |
+| 100 | [El Beso Más Famoso del Mundo](https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 4:03 |
 
 Snapshot ID: `AAAAAMwwBM6mBT/kSvfadNfflfu/INby`

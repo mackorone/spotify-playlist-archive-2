@@ -4,7 +4,7 @@
 
 > Pop you need to hear! Cover: Slayyyter
 
-1,075 songs - 2 day 9 hr 29 min
+1,076 songs - 2 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl](https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R) | 3:29 | 2025-10-31 | 2025-12-12 |
 | [Somebody To Love](https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Poppy](https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv) | 3:13 | 2024-12-20 | 2025-03-07 |
 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 | 2026-07-09 | 2026-07-31 |
+| [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 | 2026-11-06 |  |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-26 | 2024-08-16 |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-18 | 2025-11-28 |
 | [Something Kinda Strange](https://open.spotify.com/track/5VOLcjt7HsECg5lER5XTAx) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Something Kinda Strange](https://open.spotify.com/album/00V5FnlwyJVDGIDgL6mJVm) | 2:58 | 2026-10-30 |  |

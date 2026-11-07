@@ -1,6 +1,6 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144009,
+  "num_followers": 144024,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Top Latino Navidad (Remix - Audio)",
         "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 179320,
       "name": "Cinco Pa' las 12",
       "url": "https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "El negrito del Batey - Remastered",
+      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "32 Grandes Exitos",
         "url": "https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 260146,
       "name": "Ron Pa' Todo el Mundo (feat. Diomedes D\u00edaz)",
       "url": "https://open.spotify.com/track/4kgAZUvmdUE6f16j4HEVK7"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "El negrito del Batey - Remastered",
-      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Matemos las Ganas",
-        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 182166,
-      "name": "Matemos las Ganas",
-      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
         "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 284666,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "Dinamitazos Tropicales de Siempre",
-        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 191772,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Mejor Que Antes",
-        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
         },
         {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
         }
       ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
+      "duration_ms": 191772,
+      "name": "Todo el Mundo Necesita un Beso",
+      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
     },
     {
       "added_at": "2026-10-24 04:59:12",

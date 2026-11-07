@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 52852,
+  "num_followers": 52856,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACAQQGevDtw6vcUkw1fbA+B",
+  "snapshot_id": "auvHAAAAAACO56K/PKF/tYxeRBkjg7di",
   "tracks": [
     {
       "added_at": null,
@@ -387,42 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Spider",
-        "url": "https://open.spotify.com/album/3L2tN4l4TGO4SZTsdY7zwM"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "Soul Fever Blues (feat. Muddy Waters)",
-      "url": "https://open.spotify.com/track/5NMxSNy8w2Zv4RZ2A5kRid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "I'm Ready - Single Version",
-      "url": "https://open.spotify.com/track/2NQ8X3rlxQqmGx6oofdQcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -447,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -456,9 +420,29 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/68kORVY2G5fgyvrHftcbDq"
+      "duration_ms": 183280,
+      "name": "I'm Ready - Single Version",
+      "url": "https://open.spotify.com/track/2NQ8X3rlxQqmGx6oofdQcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Burning Spider",
+        "url": "https://open.spotify.com/album/3L2tN4l4TGO4SZTsdY7zwM"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "Soul Fever Blues (feat. Muddy Waters)",
+      "url": "https://open.spotify.com/track/5NMxSNy8w2Zv4RZ2A5kRid"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 174567,
       "name": "Forty Days And Forty Nights",
       "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/68kORVY2G5fgyvrHftcbDq"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
       "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
+      "duration_ms": 368773,
+      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
+      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
     },
     {
       "added_at": null,
@@ -775,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -788,25 +808,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 368773,
-      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
-      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
+      "duration_ms": 400666,
+      "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
+      "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
     },
     {
       "added_at": null,
@@ -855,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Waltz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
       "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        },
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 400666,
-      "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
-      "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": null,

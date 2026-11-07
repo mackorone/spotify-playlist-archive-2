@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-142 songs - 8 hr 37 min
+143 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2021-12-28 |  |
 | [Don't Matter](https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:53 | 2022-03-14 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2021-12-28 | 2022-03-15 |
+| [Don't Matter \- Radio Edit](https://open.spotify.com/track/2MfspstiWkADeIG9D5U5NU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Don't Matter](https://open.spotify.com/album/3KLlK34gDm7IrisyZHHUKZ) | 4:09 | 2026-11-07 |  |
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/132jKGj1Xh6hmbA4TjeJIJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:18 | 2026-02-07 |  |
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-06-01 | 2026-02-07 |
 | [Enjoy That](https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT) | 3:03 | 2022-08-27 | 2022-10-18 |
@@ -62,7 +63,7 @@
 | [Ghetto Story Chapter 3 \(feat\. Akon\)](https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ghetto Story](https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa) | 4:22 | 2025-11-17 | 2026-05-10 |
 | [Go Girl](https://open.spotify.com/track/1rxaEMHbyGrNyvlob9YLcc) | [Teemanay](https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [KONVICT KULTURE PRESENTS TEEMANAY](https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3) | 2:41 | 2023-02-05 | 2023-02-19 |
 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-10-29 | 2023-08-19 |
-| [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 | 2021-12-28 |  |
+| [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 | 2021-12-28 | 2026-11-07 |
 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/0pCyoA5o2uxUwIovECCziF) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/0yYWeLqonFk11pmb0RiMbP) | 3:32 | 2021-12-28 | 2022-07-17 |
 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 | 2022-07-16 |  |
 | [Hold The Umbrella \(feat\. De la Ghetto\)](https://open.spotify.com/track/23KxmIClQ2tEOimS9KeSWF) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Hold The Umbrella \(feat\. De la Ghetto\)](https://open.spotify.com/album/7zQxTiz8rov8jrgSNF0nKV) | 3:05 | 2025-05-18 | 2025-06-15 |

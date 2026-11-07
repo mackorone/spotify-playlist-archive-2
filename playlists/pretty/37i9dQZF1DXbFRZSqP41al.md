@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,799 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,876 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 33 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 34 | [Crying Fire](https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Crying Fire](https://open.spotify.com/album/4U6mCQ4jD6gdJaUCllxwg0) | 4:08 |
 | 35 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
-| 36 | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq) | 3:01 |
-| 37 | [Into The Dark](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
+| 36 | [Into The Dark](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
+| 37 | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq) | 3:01 |
 | 38 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
 | 39 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
 | 40 | [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 |

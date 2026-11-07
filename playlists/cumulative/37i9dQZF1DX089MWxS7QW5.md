@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Zion.T\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YECHAN\)
 
-683 songs - 1 day 12 hr 31 min
+684 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [day by day](https://open.spotify.com/track/2n6dYI54a9j8yVrR4ob7Fo) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [day by day](https://open.spotify.com/album/6sV3dw34ZviqiY4GyzcwrP) | 3:58 | 2024-03-08 | 2024-07-10 |
 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 | 2023-10-05 | 2024-02-07 |
 | [day off](https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [mis](https://open.spotify.com/album/0465P7QwKvua7zSGNoH3NO) | 2:46 | 2022-05-28 | 2022-08-03 |
+| [Ddung Ddang Ddung Ddang!](https://open.spotify.com/track/2ZhC7eHygocSl9PMvlQvTP) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr) | [Little Country Bookshop](https://open.spotify.com/album/5LLw13hEu9hdRlCBCeTJpr) | 4:06 | 2026-11-06 |  |
 | [dear goodbye](https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6) | [Jang Ye Jin](https://open.spotify.com/artist/7Dt4RaCuOERTklhHbZcrCU) | [dear goodbye](https://open.spotify.com/album/3FLSiFdNlZl8MgsDHhydO0) | 3:33 | 2024-04-17 | 2024-08-07 |
 | [Dear My Sorrow \(Doop\)](https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu) | [Add All Ears](https://open.spotify.com/artist/6uZ4zg2t2yCRACJJAHetgs) | [Dear My Sorrow](https://open.spotify.com/album/46R8yonAYUnizLWonwG1Vx) | 4:02 | 2024-07-25 | 2024-09-14 |
 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 |  |
@@ -376,7 +377,7 @@
 | [Lovestruck](https://open.spotify.com/track/6XDITtqHGbwGabvBRoVDIV) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Lovestruck](https://open.spotify.com/album/333YGW1Uy6WEOe79iQi1Yn) | 3:12 | 2025-04-18 | 2025-08-06 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Lucid Dream](https://open.spotify.com/track/44EYN37LzbbMWan3rdstuu) | [YOU Sieun](https://open.spotify.com/artist/76e055trYOgjlIidfYGBmu) | [Morphine](https://open.spotify.com/album/3Aaat4pMDRMrRoEyxmA9X6) | 4:23 | 2025-10-22 | 2026-05-15 |
-| [Lucky](https://open.spotify.com/track/2BLGNwa2TilLNRVmRDMYlw) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Lucky](https://open.spotify.com/album/24Zn0QuP9VyAjUYHRarggi) | 2:38 | 2026-05-07 |  |
+| [Lucky](https://open.spotify.com/track/2BLGNwa2TilLNRVmRDMYlw) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Lucky](https://open.spotify.com/album/24Zn0QuP9VyAjUYHRarggi) | 2:38 | 2026-05-07 | 2026-11-07 |
 | [Lychee Lime Juice](https://open.spotify.com/track/03IxmjvEqfzHCw9ivFX3pm) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [SUMMER FREAK: Sun, Rain, Love](https://open.spotify.com/album/0rawyUTz3wjP4gVFYAloIM) | 4:30 | 2024-08-01 | 2024-09-14 |
 | [Magnolia](https://open.spotify.com/track/7gIeUVYUGkXX6qKyfhSvCT) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4) | [Magnolia](https://open.spotify.com/album/47VCVcsD6bPIYiIqosclMh) | 3:24 | 2024-09-13 | 2024-11-30 |
 | [Main spot \(feat\. Ben Bliss\)](https://open.spotify.com/track/6DF2j2lN8JHWrTfzojFJ41) | [YUuL](https://open.spotify.com/artist/5KsKiZaOE4hCVzeIJxBtIo), [Ben Bliss](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [Main spot](https://open.spotify.com/album/0JlKbydZrsg1qGTGsRItRi) | 2:44 | 2025-06-02 | 2025-09-26 |

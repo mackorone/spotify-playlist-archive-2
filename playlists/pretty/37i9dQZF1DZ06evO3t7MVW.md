@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,662 likes - 47 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,675 likes - 47 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 5 | [All for You](https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:26 |
 | 6 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 |
 | 7 | [Smokin' Love \(with Collie Buddz\)](https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 3:34 |
-| 8 | [Paradise](https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:10 |
+| 8 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
 | 9 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 |
-| 10 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
+| 10 | [Paradise](https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:10 |
 | 11 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 |
 | 12 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
 | 13 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 26 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
 | 27 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
 | 28 | [In This Love](https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:12 |
-| 29 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
-| 30 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
+| 29 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
+| 30 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
 | 31 | [Show Love \(with Stick Figure\)](https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Feel It All Around](https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01) | 3:14 |
 | 32 | [Falling Stars](https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:42 |
 | 33 | [Out the Door](https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:34 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 46 | [Vibes Alive](https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 4:48 |
 | 47 | [Fight the Feeling](https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:02 |
 
-Snapshot ID: `aukkAAAAAAABNRiGirzeL8CDsMQJpNac`
+Snapshot ID: `auvHAAAAAAC8M7wJVcNWEXMQsqMwJOFK`

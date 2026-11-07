@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 781056,
+  "num_followers": 781156,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADsDIPzs43PEn3lLwvxkrp7",
+  "snapshot_id": "auvHAAAAAAC0gYky1Qgh93QSiRfisj1h",
   "tracks": [
     {
       "added_at": null,
@@ -456,17 +456,21 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 185280,
-      "name": "This Bar",
-      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone",
+      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
     },
     {
       "added_at": null,
@@ -526,35 +530,27 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Up Down (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
       },
       "artists": [
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Only Thing That\u2019s Gone",
-      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
+      "duration_ms": 185280,
+      "name": "This Bar",
+      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
     },
     {
       "added_at": null,
@@ -602,11 +598,15 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
+      "duration_ms": 197253,
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
     },
     {
       "added_at": null,

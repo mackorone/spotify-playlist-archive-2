@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,988 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,997 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 29 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
 | 30 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
 | 31 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
-| 32 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
-| 33 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
+| 32 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
+| 33 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
 | 34 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
-| 35 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
-| 36 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 35 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 36 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
 | 37 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
 | 38 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
 | 39 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 45 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
 | 46 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |
 | 47 | [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 |
-| 48 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
-| 49 | [ぴ](https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ぴ](https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q) | 3:36 |
-| 50 | [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 |
+| 48 | [ぴ](https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ぴ](https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q) | 3:36 |
+| 49 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
+| 50 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 
 Snapshot ID: `AAAAAOm2gWnHddVKuwWb97C6zfwHAmm5`

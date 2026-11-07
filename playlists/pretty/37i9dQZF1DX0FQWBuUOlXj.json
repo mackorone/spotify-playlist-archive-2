@@ -1,6 +1,6 @@
 {
   "description": "Listen to the music from Will & Harper, now streaming on Netflix. ",
-  "num_followers": 66654,
+  "num_followers": 66657,
   "original_name": "Will & Harper Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -182,10 +182,6 @@
         {
           "name": "Hank Williams",
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
       "duration_ms": 159706,

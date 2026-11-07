@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360597,
+  "num_followers": 360622,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Pararam",
-        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Pararam",
-      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Move Your Body (Ti\u00ebsto Edit)",
         "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 140160,
       "name": "Move Your Body - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Pararam",
+        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Pararam",
+      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
     },
     {
       "added_at": "2026-10-02 12:20:02",

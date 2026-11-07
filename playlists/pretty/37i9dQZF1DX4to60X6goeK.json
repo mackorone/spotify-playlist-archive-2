@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77208,
+  "num_followers": 77223,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
-      },
-      "artists": [
-        {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -851,6 +851,30 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "OH YEAH",
+        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
+      },
+      "artists": [
+        {
+          "name": "Killer Hertz",
+          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 227657,
+      "name": "OH YEAH",
+      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -895,30 +919,6 @@
       "duration_ms": 190689,
       "name": "Skanka",
       "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "OH YEAH",
-        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
-      },
-      "artists": [
-        {
-          "name": "Killer Hertz",
-          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
-        },
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "OH YEAH",
-      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-10-22 23:00:31",

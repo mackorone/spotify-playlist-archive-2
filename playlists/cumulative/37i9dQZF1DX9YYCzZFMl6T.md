@@ -4,7 +4,7 @@
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-84 songs - 4 hr 33 min
+85 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 | 2024-12-20 | 2026-10-30 |
 | [Christmas Whiskey](https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Chris Canterbury](https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s) | [Christmas Whiskey](https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL) | 3:40 | 2024-09-02 | 2025-09-05 |
 | [December Song](https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [December Song](https://open.spotify.com/album/4oepkwqAEiysj5ObhWFNUK) | 3:35 | 2025-11-28 |  |
-| [Don't Go Leaving Me \(It's Christmas Eve\)](https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 4:38 | 2025-10-24 |  |
+| [Don't Go Leaving Me \(It's Christmas Eve\)](https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 4:38 | 2025-10-24 | 2026-11-07 |
 | [Every Day Will Be Like A Holiday](https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Every Day Will Be Like A Holiday](https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL) | 3:20 | 2025-10-24 |  |
 | [Everything Is Cool](https://open.spotify.com/track/3otZFpBehn0Qj5u1NZLlvT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb) | 3:25 | 2024-09-02 | 2025-10-25 |
 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 | 2024-12-20 | 2025-11-06 |
@@ -64,6 +64,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 | 2025-11-28 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2024-09-02 |  |
 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 | 2024-09-02 |  |
+| [Pretty Paper](https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Pretty Paper](https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS) | 3:53 | 2026-11-06 |  |
 | [River](https://open.spotify.com/track/6FRp7oWjxIVbFSAjYQjgKv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [River](https://open.spotify.com/album/5lP3w4pppBEKlKhTKbahvz) | 4:03 | 2026-11-06 |  |
 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 | 2024-09-02 |  |
 | [Run Run Rudolph](https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Run Run Rudolph](https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU) | 2:54 | 2025-10-24 |  |

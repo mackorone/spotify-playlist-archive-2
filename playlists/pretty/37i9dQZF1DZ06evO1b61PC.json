@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11489,
+  "num_followers": 11490,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABJbS2JtfZKLuAym4JMdpCE",
+  "snapshot_id": "auvHAAAAAACUZejQWW+n9B1atUS6HZXt",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "trilogy remixes",
-        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "blue - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 171428,
       "name": "Throw Ya Body",
       "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "trilogy remixes",
+        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "blue - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Lyncs",
-          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
-        }
-      ],
-      "duration_ms": 221791,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Lyncs",
+          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
+        }
+      ],
+      "duration_ms": 221791,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
-        }
-      ],
-      "duration_ms": 168821,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7AyfRe3XBXiIe6FFiW2rv4"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5MFyKapK3F3jonD8A5Rh2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
       },
@@ -643,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
         "url": "https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh) (Demo)",
       "url": "https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 253714,
       "name": "eye2eye - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
     },
     {
       "added_at": null,

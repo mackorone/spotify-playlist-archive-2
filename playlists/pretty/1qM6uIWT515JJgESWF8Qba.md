@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 620 likes - 72 songs - 4 hr 31 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 625 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 70 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
 | 71 | [Drums Beat Riff](https://open.spotify.com/track/3g9s1J0iK0v3dJaCbg3M1G) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 3:27 |
 | 72 | [Clementine](https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l) | [Every Living Beast](https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z) | [Clementine](https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt) | 2:55 |
+| 73 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
+| 74 | [Read my Rights](https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL) | [The Garbage Gang](https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s) | [Read my Rights](https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry) | 3:02 |
 
-Snapshot ID: `AAACYEE0WBJyRhENzvjQ85otKwyx+3a4`
+Snapshot ID: `AAACYgra7tX2Yr1YW4VHr/3TKCBCpSDP`

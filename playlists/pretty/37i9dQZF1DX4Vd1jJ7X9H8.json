@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 347127,
+  "num_followers": 347129,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-07-17 18:01:04",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2026-07-17 18:01:04",
+      "album": {
         "name": "HIGHJACK",
         "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
-    },
-    {
-      "added_at": "2026-07-17 18:01:04",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2026-07-17 18:01:04",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-17 18:01:04",
       "album": {
+        "name": "Baby Wants to Ride / Your Love",
+        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 403706,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
+    },
+    {
+      "added_at": "2026-07-17 18:01:04",
+      "album": {
         "name": "Electric Photograph",
         "url": "https://open.spotify.com/album/0yCpeH8KWCQYACEAc4qk2u"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 175381,
       "name": "Electric Photograph",
       "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
-    },
-    {
-      "added_at": "2026-07-17 18:01:04",
-      "album": {
-        "name": "Baby Wants to Ride / Your Love",
-        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 403706,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
     },
     {
       "added_at": "2026-07-17 18:01:04",

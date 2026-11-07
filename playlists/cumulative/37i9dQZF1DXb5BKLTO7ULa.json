@@ -13096,8 +13096,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-05",
@@ -74356,6 +74356,28 @@
       "duration_ms": 230340,
       "name": "Dear Parents",
       "url": "https://open.spotify.com/track/1FtkLLZnf6VEAJTG6pMQQJ"
+    },
+    {
+      "album": {
+        "name": "Dear Son",
+        "url": "https://open.spotify.com/album/5y6t3MPoEi9ejTHYyyQcoa"
+      },
+      "artists": [
+        {
+          "name": "Jan van Duikeren",
+          "url": "https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL"
+        },
+        {
+          "name": "Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284876,
+      "name": "Dear Son",
+      "url": "https://open.spotify.com/track/0hM1JBaa8Epd3lZWDBP5LH"
     },
     {
       "album": {
@@ -240837,7 +240859,7 @@
     },
     {
       "album": {
-        "name": "Patsers & Princessen",
+        "name": "PATSERS & PRINCESSEN",
         "url": "https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk"
       },
       "artists": [
@@ -240850,7 +240872,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 118098,
-      "name": "Patsers & Princessen",
+      "name": "PATSERS & PRINCESSEN",
       "url": "https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW"
     },
     {

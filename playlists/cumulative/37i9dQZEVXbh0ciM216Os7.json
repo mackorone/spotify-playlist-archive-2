@@ -4663,6 +4663,28 @@
     },
     {
       "album": {
+        "name": "Ashes and Auras",
+        "url": "https://open.spotify.com/album/4P09IKL7GrwuFCSqpgEnqZ"
+      },
+      "artists": [
+        {
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308258,
+      "name": "Ashes and Auras",
+      "url": "https://open.spotify.com/track/2dKhgvzXrMbaG3wut3DJeT"
+    },
+    {
+      "album": {
         "name": "Asking (feat. Clementine Douglas) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/7FlbEc8atVHKLNC8wHKTiS"
       },
@@ -13618,6 +13640,40 @@
       "duration_ms": 258941,
       "name": "Chocolate For Dinner (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/2j98K5wRpXHlSyswZECQQy"
+    },
+    {
+      "album": {
+        "name": "Black Samson: The Saga Continues",
+        "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
+      },
+      "artists": [
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Hue Hef",
+          "url": "https://open.spotify.com/artist/0ZuNXdmcWi6x2zFH3pRLaE"
+        },
+        {
+          "name": "Jon Depp",
+          "url": "https://open.spotify.com/artist/4WzqTJAGuauEZp9GB2Ge3o"
+        },
+        {
+          "name": "Chalana Haney",
+          "url": "https://open.spotify.com/artist/3ahPc6WZJVlE3izEdnx5CV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/4602ssIzMXFlYQCfqpoEAO"
     },
     {
       "album": {
@@ -24550,7 +24606,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 120424,
       "name": "Firing Squad",
       "url": "https://open.spotify.com/track/0H8wh7KfFJwgnMNhTISvy4"
@@ -27410,6 +27466,36 @@
       "duration_ms": 106500,
       "name": "GEMINI SEASON",
       "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
+    },
+    {
+      "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Generational",
+      "url": "https://open.spotify.com/track/4ar4rrNUCp7GaVCkRH6KhU"
     },
     {
       "album": {
@@ -31279,6 +31365,28 @@
     },
     {
       "album": {
+        "name": "Halfway 2 Jesus",
+        "url": "https://open.spotify.com/album/5qQCGKpe4h1fFZhlYL7W36"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258696,
+      "name": "Heal My Faith",
+      "url": "https://open.spotify.com/track/09V5cD3NovAEaR07OzMVYc"
+    },
+    {
+      "album": {
         "name": "Welt der Wunder",
         "url": "https://open.spotify.com/album/764tb7SepcFKeiYZJYHk6B"
       },
@@ -33182,6 +33290,24 @@
       "duration_ms": 295544,
       "name": "Honeymoon Avenue - Live from London",
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
+    },
+    {
+      "album": {
+        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150037,
+      "name": "HONOR KiLLING (Main Titles)",
+      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
     },
     {
       "album": {
@@ -40130,7 +40256,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218150,
       "name": "Knowledge My Wisdom",
       "url": "https://open.spotify.com/track/1WejVhLvarq53i1urwGFvM"
@@ -45292,7 +45418,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 375285,
       "name": "L\u00e6knisgaldr",
       "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
@@ -45448,7 +45574,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 295866,
       "name": "MADARA (with Eminem)",
       "url": "https://open.spotify.com/track/4SaYK1xomZ5jAIOnqClQsV"
@@ -47618,7 +47744,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 215640,
       "name": "Mission Of Love",
       "url": "https://open.spotify.com/track/2L0MrJLBmAvtMMSdfdje2X"
@@ -50754,6 +50880,28 @@
       "duration_ms": 96341,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2z52MZxBjRr06HHTDhNEJ5"
+    },
+    {
+      "album": {
+        "name": "Next Time, Believe Me",
+        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123472,
+      "name": "Next Time, Believe Me",
+      "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
     },
     {
       "album": {
@@ -59096,7 +59244,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 214696,
       "name": "Rabbit Gets The Gun",
       "url": "https://open.spotify.com/track/0sFxHWS8kQz18rAFES6JXe"
@@ -64286,6 +64434,24 @@
       "duration_ms": 194280,
       "name": "She's the One (with Surfer Girl & Tropidelic)",
       "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
+    },
+    {
+      "album": {
+        "name": "Sheep (Original Radio Edit)",
+        "url": "https://open.spotify.com/album/2K835MGTE0IaJv6d0SGV0D"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263293,
+      "name": "Sheep - Original Radio Edit",
+      "url": "https://open.spotify.com/track/6eC8MIqBDErjqTYq0ZoX74"
     },
     {
       "album": {
@@ -70783,6 +70949,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back (Leave Me There) [Special Edition]",
+        "url": "https://open.spotify.com/album/3fgMUdelypSkAQgBhk988F"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Take Me Back (Leave Me There) - Special Edition",
+      "url": "https://open.spotify.com/track/0aYAbSFPmLTyCwOk8dA5rv"
+    },
+    {
+      "album": {
         "name": "Reagan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1qjznkU7WqGgz5nhp5ensX"
       },
@@ -74576,7 +74760,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159416,
       "name": "The Sign (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2"
@@ -75422,7 +75606,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146392,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"

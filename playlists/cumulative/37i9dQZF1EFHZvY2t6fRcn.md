@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 12 hr 31 min
+235 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 | 2022-03-20 |  |
 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 | 2021-12-27 |  |
 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/7aOFV5qa46hrbcWlAYiSZW) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 | 2022-11-11 |  |
+| [bubblegum pink](https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:32 | 2026-11-06 |  |
 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 | 2021-12-27 |  |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-22 | 2023-04-11 |
 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 | 2023-04-10 |  |
@@ -45,6 +46,7 @@
 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 | 2024-01-14 |  |
 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 | 2022-07-17 |  |
 | [Cliche](https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Cliche](https://open.spotify.com/album/5xONmKddxJymbH5cqMhw1r) | 3:15 | 2022-04-17 | 2022-07-18 |
+| [Clickbait](https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To...Do A Fan Edition](https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R) | 3:07 | 2026-11-06 |  |
 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 | 2025-02-19 |  |
 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 | 2026-07-12 |  |
 | [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 | 2023-12-13 |  |
@@ -84,7 +86,7 @@
 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 | 2023-03-31 | 2026-01-30 |
 | [FACE MYSELF](https://open.spotify.com/track/4O44AxJYAgZIP8aQzKvCMF) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/5Qkkzt6qV0bjsHDWI2xd0w) | 3:47 | 2026-01-29 |  |
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-12-27 |  |
-| [Far Away](https://open.spotify.com/track/0ZZkO4f9yiXtkndRts6yP5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:50 | 2025-04-08 |  |
+| [Far Away](https://open.spotify.com/track/0ZZkO4f9yiXtkndRts6yP5) | [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:50 | 2025-04-08 |  |
 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 | 2022-09-25 |  |
 | [Feed The Beast](https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:30 | 2023-07-28 |  |
 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 | 2021-12-27 |  |
@@ -131,6 +133,7 @@
 | [Look What You're Doing To Me](https://open.spotify.com/track/0tEIWklg5pvkQGvxboLegR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:00 | 2021-12-27 |  |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-02-18 | 2025-03-03 |
 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 | 2025-03-02 |  |
+| [Maybe](https://open.spotify.com/track/5KxhYlemX1ubkwyXclZuSS) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Okay Piano Guy](https://open.spotify.com/album/7FCIU4E3quVFnVtuBJ1KTC) | 2:23 | 2026-11-06 |  |
 | [Meddle In The Mold](https://open.spotify.com/track/4B3rL1zWeN23YCcrGfYgOf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:07 | 2026-07-08 |  |
 | [Meddle In The Mold \- A COLORS SHOW](https://open.spotify.com/track/0AcMtOeAyk6ugKtQeqo69K) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Meddle In The Mold \- A COLORS SHOW](https://open.spotify.com/album/1oxmCSj84JdBiTPj5OxPiI) | 3:07 | 2026-05-14 | 2026-07-09 |
 | [Messiah](https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4) | [M\-Phazes](https://open.spotify.com/artist/4B1CeNsCcLfOvRBJ34UUSX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Messiah](https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn) | 3:43 | 2021-12-27 |  |
@@ -179,7 +182,7 @@
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-08-01 | 2024-09-16 |
 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 | 2024-09-15 |  |
 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 | 2021-12-27 |  |
-| [Scars](https://open.spotify.com/track/2W4WKyY97XlPzUOuj0x2ac) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:40 | 2025-05-11 |  |
+| [Scars](https://open.spotify.com/track/2W4WKyY97XlPzUOuj0x2ac) | [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:40 | 2025-05-11 |  |
 | [Sharpest Edges](https://open.spotify.com/track/3UFTGvTWqfFzQuVCIMBeet) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:09 | 2021-12-27 |  |
 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 | 2021-12-27 |  |
 | [Slow Dive \(feat\. Bea Miller\)](https://open.spotify.com/track/0e3lesSPndGuqQbZdwSimE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 3:48 | 2023-12-13 |  |
@@ -216,7 +219,7 @@
 | [Unanimous](https://open.spotify.com/track/5fYotloHnlkET0dzjw82aU) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Trey Campbell](https://open.spotify.com/artist/05S2PVQNMDOsTxQGwmCp6U) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 2:32 | 2025-08-21 |  |
 | [UNDER THE RHYTHM](https://open.spotify.com/track/1XgTPwIdU5LawlT6IQOLsa) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [UNDER THE RHYTHM](https://open.spotify.com/album/57o1oYWFqqV8X3M6Au9y4j) | 2:50 | 2026-06-25 | 2026-07-13 |
 | [UNDER THE RHYTHM](https://open.spotify.com/track/3mrdcNlgn5CRc0nUgKvrYd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 2:50 | 2026-07-12 |  |
-| [Under The Surface](https://open.spotify.com/track/04F4XeHY510ZpZamRqQEU2) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 3:15 | 2025-05-02 |  |
+| [Under The Surface](https://open.spotify.com/track/04F4XeHY510ZpZamRqQEU2) | [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 3:15 | 2025-05-02 |  |
 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 | 2021-12-27 |  |
 | [Vitamin P](https://open.spotify.com/track/3VayoJ5USdqDiA7aMve5Mg) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Vitamin P](https://open.spotify.com/album/1BY3L8DqvUpT1x58yRSRB9) | 2:33 | 2025-06-19 |  |
 | [warmer](https://open.spotify.com/track/5j1sD9Y23NBdidWUKx22Ss) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:14 | 2021-12-27 |  |

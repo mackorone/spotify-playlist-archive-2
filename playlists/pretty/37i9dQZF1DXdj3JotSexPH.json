@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "MENTE M\u00c1",
         "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "DIA DEL\u00cdCIA",
-        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
-      },
-      "artists": [
-        {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
-        },
-        {
-          "name": "\u03a3P",
-          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
-        }
-      ],
-      "duration_ms": 75461,
-      "name": "DIA DEL\u00cdCIA",
-      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "LUNA BALA",
         "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "DIA DEL\u00cdCIA",
+        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "\u03a3P",
+          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
+        }
+      ],
+      "duration_ms": 75461,
+      "name": "DIA DEL\u00cdCIA",
+      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -407,30 +407,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MONTAGEM XONADA",
-        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
-      },
-      "artists": [
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        },
-        {
-          "name": "DJ Javi26",
-          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
-        }
-      ],
-      "duration_ms": 75682,
-      "name": "MONTAGEM XONADA",
-      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -475,18 +451,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
+        "name": "MONTAGEM XONADA",
+        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
       },
       "artists": [
         {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "DJ Javi26",
+          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
         }
       ],
-      "duration_ms": 88615,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
+      "duration_ms": 75682,
+      "name": "MONTAGEM XONADA",
+      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 88615,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SLAY!",
         "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Easter Pink",
+        "url": "https://open.spotify.com/album/5MOvQ7VIhxGp9RVgMOcQtP"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 84846,
+      "name": "Easter Pink",
+      "url": "https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "ACELERADA",
         "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Easter Pink",
-        "url": "https://open.spotify.com/album/5MOvQ7VIhxGp9RVgMOcQtP"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 84846,
-      "name": "Easter Pink",
-      "url": "https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "FUNK UNIVERSO",
-        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
-      },
-      "artists": [
-        {
-          "name": "Irokz",
-          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "FUNK UNIVERSO",
-      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Butterfly 2026",
         "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164336,
       "name": "Butterfly 2026",
       "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "FUNK UNIVERSO",
+        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
+      },
+      "artists": [
+        {
+          "name": "Irokz",
+          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "FUNK UNIVERSO",
+      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Slide da Treme Mel\u00f3dica v2",
         "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ESTA NOCHE",
-        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 68702,
-      "name": "ESTA NOCHE",
-      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ESTA NOCHE",
+        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 68702,
+      "name": "ESTA NOCHE",
+      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1471,22 +1491,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+        "name": "Where You Are (Zedd Remix)",
+        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+      "duration_ms": 184649,
+      "name": "Where You Are - Zedd Remix",
+      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1515,30 +1539,6 @@
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Where You Are (Zedd Remix)",
-        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 184649,
-      "name": "Where You Are - Zedd Remix",
-      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 208000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "don't need u (i do)",
+        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
+      },
+      "artists": [
+        {
+          "name": "blunn",
+          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "don't need u (i do)",
+      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 190577,
       "name": "Fuck My Computer",
       "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "don't need u (i do)",
-        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
-      },
-      "artists": [
-        {
-          "name": "blunn",
-          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "don't need u (i do)",
-      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
     },
     {
       "added_at": "2026-04-13 15:38:24",

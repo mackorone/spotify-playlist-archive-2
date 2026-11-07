@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara, Eve
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara, Ave
 
 312 songs - 21 hr 40 min
 

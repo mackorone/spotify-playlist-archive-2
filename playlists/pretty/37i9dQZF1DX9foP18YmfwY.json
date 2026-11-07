@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 383527,
+  "num_followers": 383554,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "Milagre de Amor",
+        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 256824,
+      "name": "Milagre de Amor",
+      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "UM - Origem",
         "url": "https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 294658,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Milagre de Amor",
-        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 256824,
-      "name": "Milagre de Amor",
-      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -523,6 +523,30 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "Gba Stage (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Dan\u00fabia M.J",
+          "url": "https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR"
+        },
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 303527,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "Voc\u00ea Vai Chegar",
         "url": "https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 300089,
       "name": "Voc\u00ea Vai Chegar",
       "url": "https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Gba Stage (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Dan\u00fabia M.J",
-          "url": "https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR"
-        },
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 303527,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Atr\u00e1s do Temporal",
-        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 275242,
-      "name": "Atr\u00e1s do Temporal",
-      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
         "name": "Gba Stage, Vol. 35",
         "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 319171,
       "name": "A Barca",
       "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Atr\u00e1s do Temporal",
+        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 275242,
+      "name": "Atr\u00e1s do Temporal",
+      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C"
+      },
+      "artists": [
+        {
+          "name": "BENITO",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Se \u00c9 L\u00e1 Que C\u00ea Ta",
+      "url": "https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "M\u00e3e, Me Defende do Mal",
         "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 300184,
       "name": "M\u00e3e, Me Defende do Mal",
       "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C"
-      },
-      "artists": [
-        {
-          "name": "BENITO",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Se \u00c9 L\u00e1 Que C\u00ea Ta",
-      "url": "https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "Santa Rita de C\u00e1ssia",
+        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 310772,
+      "name": "Santa Rita de C\u00e1ssia",
+      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 370000,
       "name": "Quero Nascer de Novo",
       "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Santa Rita de C\u00e1ssia",
-        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 310772,
-      "name": "Santa Rita de C\u00e1ssia",
-      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
         "name": "Quem Como Deus? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 366386,
       "name": "Quem Como Deus? - Ao Vivo",
       "url": "https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2026-10-19 15:48:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085,742 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085,478 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 69 | [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 |
 | 70 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 |
 | 71 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
-| 72 | [Rolling On](https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Rolling On](https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX) | 2:56 |
-| 73 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
+| 72 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
+| 73 | [Rolling On](https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Rolling On](https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX) | 2:56 |
 | 74 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 75 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
 | 76 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 79 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 |
 | 80 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
 | 81 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 |
-| 82 | [More](https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [More](https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ) | 3:42 |
-| 83 | [Wild Turkey](https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:32 |
+| 82 | [Wild Turkey](https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:32 |
+| 83 | [More](https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [More](https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ) | 3:42 |
 | 84 | [Cold Feet](https://open.spotify.com/track/2wVd7pvX8gbYTVOOL4eKjJ) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Cold Feet](https://open.spotify.com/album/0l1Hm8MBege3nX4dAMypB8) | 3:20 |
 | 85 | [Tugboats](https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Tugboats \- EP](https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5) | 3:47 |
 | 86 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 100 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
 | 101 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 |
 | 102 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 |
-| 103 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
-| 104 | [Indefinitely](https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Indefinitely](https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS) | 3:38 |
+| 103 | [Indefinitely](https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Indefinitely](https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS) | 3:38 |
+| 104 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 105 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 106 | [Go Down River \- Acoustic](https://open.spotify.com/track/0mvml8wDmxQjbxnifxQslV) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/251B0kXoPz8dil5Miu9b4H) | 3:49 |
 | 107 | [I Miss Strangers \- Acoustic](https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 2:47 |

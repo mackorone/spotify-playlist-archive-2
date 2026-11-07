@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-146 songs - 9 hr 51 min
+148 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Beads On One String](https://open.spotify.com/track/2rsz7h4cJQViOCB2QgYT65) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:40 | 2022-09-17 | 2022-10-13 |
 | [Behind Blue Eyes](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:41 | 2022-09-17 |  |
 | [Behind Blue Eyes \- Lifehouse Chronicles / Demo / Remastered 2022](https://open.spotify.com/track/6uzcfwr0YPe6hsL3rAY3uA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 3:28 | 2023-09-18 | 2023-11-11 |
-| [Bell Boy](https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 4:55 | 2023-01-15 |  |
+| [Bell Boy](https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 4:55 | 2023-01-15 | 2026-11-07 |
 | [Blue Red And Grey](https://open.spotify.com/track/6XtsMEFQ0M0X2yzMcqLSF6) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 2:46 | 2022-09-17 | 2024-04-21 |
 | [Blue Red And Grey](https://open.spotify.com/track/7EngpMPwriHk8e2WNfzU4l) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:47 | 2023-05-25 |  |
 | [Boris The Spider](https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:27 | 2023-02-01 | 2026-10-18 |
@@ -42,6 +42,7 @@
 | [Detour](https://open.spotify.com/track/0UA9nE47FbV0W5vhTjSy4N) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:46 | 2022-09-17 | 2022-10-13 |
 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 | 2023-04-25 |  |
 | [Dreaming From The Waist](https://open.spotify.com/track/6y3GK9KMVBKAcoewHdJxl1) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 4:06 | 2026-10-27 | 2026-11-02 |
+| [Dreaming From The Waist \- 2026 Remaster](https://open.spotify.com/track/3rCZrrY3qRSG5pBBNdg4Vv) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 4:11 | 2026-11-07 |  |
 | [Drowned](https://open.spotify.com/track/4ZT2Xki1u0HjBmMS6xbLsA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:26 | 2023-01-18 | 2023-08-09 |
 | [Eminence Front](https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 5:39 | 2022-09-17 |  |
 | [Fortune Teller \- Live](https://open.spotify.com/track/1p33A9znBatARO8KI0cLPS) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At Leeds \(Expanded Edition\)](https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4) | 2:34 | 2024-03-01 | 2024-03-08 |
@@ -80,6 +81,7 @@
 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/03eY6eU7XvvZ61ahRoWeeU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:33 | 2023-06-22 | 2023-12-25 |
 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Imagine A Man \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq) | 4:33 | 2023-03-04 | 2023-06-17 |
 | [Imagine A Man \- Pete Vocal / Early Mix](https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Imagine A Man \(Pete Vocal / Early Mix\)](https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz) | 4:07 | 2026-09-04 |  |
+| [In A Hand Or A Face \- 2026 Remaster](https://open.spotify.com/track/5beVLpFsMeM3Lc1zBGS3eb) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 3:26 | 2026-11-07 |  |
 | [Is It In My Head?](https://open.spotify.com/track/3y3phapKU02pwqoAhEUIzU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:43 | 2024-04-13 | 2024-04-19 |
 | [Is It In My Head?](https://open.spotify.com/track/5XSKoePK44z8EbM736fY57) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:43 | 2022-12-03 | 2026-03-14 |
 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 | 2022-09-17 |  |
@@ -118,7 +120,7 @@
 | [Squeeze Box \- Acoustic / Stripped Mix 2026](https://open.spotify.com/track/2GFDqzmYb6hiw7ewTzpFQw) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Squeeze Box \(Acoustic / Stripped Mix 2026\)](https://open.spotify.com/album/4plZVMP0NIkyldGk0rreWy) | 2:42 | 2026-10-05 | 2026-10-31 |
 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 | 2022-09-17 |  |
 | [Substitute \- Single Version / Mono Version](https://open.spotify.com/track/2x4QFtQdPS0IijZmp4PPXA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Breakthroughs](https://open.spotify.com/album/7aVV2F19bvzh2Z9onHrKBg) | 3:47 | 2026-04-25 | 2026-07-06 |
-| [Success Story](https://open.spotify.com/track/1SJg7cmf24yw6A4vaUAiOZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 3:20 | 2026-10-20 |  |
+| [Success Story](https://open.spotify.com/track/1SJg7cmf24yw6A4vaUAiOZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 3:20 | 2026-10-20 | 2026-11-07 |
 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 | 2022-09-17 | 2023-11-11 |
 | [Summertime Blues \- Live](https://open.spotify.com/track/1fBcUV1S7FdHcB8aSINFsB) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At Leeds \(Expanded Edition\)](https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4) | 3:22 | 2024-02-18 | 2026-11-02 |
 | [Summertime Blues \- Live](https://open.spotify.com/track/2GR10dd8zfczapNU6XYaie) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 3:23 | 2024-12-26 | 2025-01-16 |

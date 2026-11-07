@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring John Summit + Crankdat",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring SLANDER, Excision, & Blanke",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -2330,6 +2330,24 @@
       "duration_ms": 213458,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw"
+    },
+    {
+      "album": {
+        "name": "DANCE DISRUPTOR",
+        "url": "https://open.spotify.com/album/0oz0f2csE01RZJU4NfEB4J"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237510,
+      "name": "AVENUES",
+      "url": "https://open.spotify.com/track/6MjhoglMGvyrMp7ddeudwU"
     },
     {
       "album": {
@@ -6208,6 +6226,28 @@
       "duration_ms": 166666,
       "name": "Bury Me in Leather",
       "url": "https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB"
+    },
+    {
+      "album": {
+        "name": "Bury Them / Salts",
+        "url": "https://open.spotify.com/album/0XPHzjN4aR027cfRIcmTIt"
+      },
+      "artists": [
+        {
+          "name": "Klinical",
+          "url": "https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Bury Them",
+      "url": "https://open.spotify.com/track/0IfZFvb5YydOQRuwrb4K25"
     },
     {
       "album": {
@@ -12820,7 +12860,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173142,
       "name": "F WHAT U HEARD",
       "url": "https://open.spotify.com/track/1BFSAaGL91tAFRedx1KvXJ"
@@ -15125,6 +15165,28 @@
     },
     {
       "album": {
+        "name": "Scared Not To Live",
+        "url": "https://open.spotify.com/album/1gBRxBlF2vYcasYAoJaYuJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Capochino",
+          "url": "https://open.spotify.com/artist/70qOCKE1NFO6q1a1pC0KRE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/3WfLX0msZoS2GN2DXsnoBp"
+    },
+    {
+      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/2RvSm6uftORfVfSG5m7s8V"
       },
@@ -15656,7 +15718,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166956,
       "name": "Gatita Rica",
       "url": "https://open.spotify.com/track/4GOzYVBFonZD1JsBcKjc4S"
@@ -16040,6 +16102,32 @@
       "duration_ms": 137491,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/41P1RlldZuKjnw2Pd8lGjQ"
+    },
+    {
+      "album": {
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/1wNw1N3oGXnGZt0pbUEaJS"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174870,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/6Bv6ovdcP1uCEJjnF9qvBg"
     },
     {
       "album": {
@@ -17134,6 +17222,24 @@
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
+    },
+    {
+      "album": {
+        "name": "Hands All Over Me",
+        "url": "https://open.spotify.com/album/6bnOEbTr4vNEAzKFMiLECC"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "Hands All Over Me",
+      "url": "https://open.spotify.com/track/2ILdXZofeN6MBqZzovHkC1"
     },
     {
       "album": {
@@ -24438,6 +24544,28 @@
     {
       "album": {
         "name": "Mayday",
+        "url": "https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Ceebo",
+          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
+    },
+    {
+      "album": {
+        "name": "Mayday",
         "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
       },
       "artists": [
@@ -26366,7 +26494,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 216000,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/1DpeeIO6Zss9gruenZbteu"
@@ -31546,7 +31674,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 193653,
       "name": "REBIRTH",
       "url": "https://open.spotify.com/track/0N7nNAqLXDvPmOlS8Thwpr"
@@ -34530,7 +34658,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 194892,
       "name": "SHOOTA",
       "url": "https://open.spotify.com/track/2GsYtMDhk9OxTOsIAMndmL"
@@ -36191,6 +36319,28 @@
     },
     {
       "album": {
+        "name": "Split Signal",
+        "url": "https://open.spotify.com/album/2fOopypzh9Jm4aPX1Vf5ZP"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Split Signal",
+      "url": "https://open.spotify.com/track/1QLPvlwhqNhoEtybsYuO79"
+    },
+    {
+      "album": {
         "name": "Sploinky Dub",
         "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
       },
@@ -37252,6 +37402,24 @@
       "duration_ms": 198000,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1AavLJdHNs4ZduRV0YLXmu"
+    },
+    {
+      "album": {
+        "name": "Wobble Game",
+        "url": "https://open.spotify.com/album/4g8y1iXlwC1A2342UmHA8K"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216788,
+      "name": "Super Hero",
+      "url": "https://open.spotify.com/track/6wmZRyXefapsfGeGiLdZnL"
     },
     {
       "album": {
@@ -38738,7 +38906,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168500,
       "name": "The Gate",
       "url": "https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z"
@@ -42504,7 +42672,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 250285,
       "name": "What\u2019s the motive?",
       "url": "https://open.spotify.com/track/22aHWsMOhsvWjIIUfT5gEj"
@@ -42544,7 +42712,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 192000,
       "name": "When I Saw You Again",
       "url": "https://open.spotify.com/track/5DdmY05GZLzvkvbAHrUVYv"

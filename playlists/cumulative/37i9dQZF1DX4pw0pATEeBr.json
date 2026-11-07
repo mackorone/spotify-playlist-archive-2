@@ -86,7 +86,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 187767,
       "name": "ALO",
       "url": "https://open.spotify.com/track/5CehARXGsrHJj0KDemeomI"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158666,
       "name": "BIG MOMMA",
       "url": "https://open.spotify.com/track/1Zp7FssOeXmwcUiM54jgUE"
@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Dropshop",
+        "url": "https://open.spotify.com/album/0ySw4H4tB9uCdZuECPQ32a"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "W. Corona",
+          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216006,
+      "name": "Dropshop",
+      "url": "https://open.spotify.com/track/0hEVpSQBKfJwkiMVULBJsc"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Pago",
         "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },
@@ -792,7 +814,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158927,
       "name": "Golfista",
       "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
@@ -974,7 +996,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
@@ -1107,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Ley de Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/1Yg81WpyVNtNwbmIIljGdR"
+    },
+    {
+      "album": {
         "name": "Leyenda Viva",
         "url": "https://open.spotify.com/album/27nbClc2d310EdLPCxwF2M"
       },
@@ -1148,6 +1188,32 @@
       "duration_ms": 213356,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/6zQ1fFfhSPdwid5mKSlBeq"
+    },
+    {
+      "album": {
+        "name": "d00mscrvll",
+        "url": "https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "d00mscrvll",
+          "url": "https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160806,
+      "name": "Loitering (ft. Kodak Black)",
+      "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
     },
     {
       "album": {
@@ -1746,7 +1812,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 143474,
       "name": "Rifles y Dracos",
       "url": "https://open.spotify.com/track/5D1Hk4eyXuEfMiQOfzOvow"
@@ -1858,7 +1924,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 284571,
       "name": "Somos Guerreros",
       "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
@@ -2080,7 +2146,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 200116,
       "name": "T\u00edo Rico",
       "url": "https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32"
@@ -2120,6 +2186,36 @@
       "duration_ms": 185236,
       "name": "Vaya Vaya",
       "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
+    },
+    {
+      "album": {
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221802,
+      "name": "Vengo De Nada",
+      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
     },
     {
       "album": {

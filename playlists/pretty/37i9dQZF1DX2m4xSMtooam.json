@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 406592,
+  "num_followers": 406663,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Sobre o oceano",
+        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Sobre o oceano",
+      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Sobre o oceano",
-        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+        "name": "Sombra La Lua",
+        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
       },
       "artists": [
         {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
         }
       ],
-      "duration_ms": 170259,
-      "name": "Sobre o oceano",
-      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+      "duration_ms": 226468,
+      "name": "Sombra La Lua",
+      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -439,22 +455,6 @@
       "duration_ms": 248306,
       "name": "All I Really Want Is Love",
       "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Sombra La Lua",
-        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
-      },
-      "artists": [
-        {
-          "name": "Billie Shaw",
-          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
-        }
-      ],
-      "duration_ms": 226468,
-      "name": "Sombra La Lua",
-      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Diavola",
-        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
+        "name": "Fim do ver\u00e3o",
+        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
       },
       "artists": [
         {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Bossy Nova",
-      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
+      "duration_ms": 230591,
+      "name": "Fim do ver\u00e3o",
+      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -791,34 +791,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Fim do ver\u00e3o",
-        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
+        "name": "Diavola",
+        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
       },
       "artists": [
         {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 230591,
-      "name": "Fim do ver\u00e3o",
-      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+      "duration_ms": 232866,
+      "name": "Bossy Nova",
+      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -835,6 +819,22 @@
       "duration_ms": 232261,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215160,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Bossa Carioca",
-        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
-      },
-      "artists": [
-        {
-          "name": "Central Park Quartet",
-          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
-        }
-      ],
-      "duration_ms": 218874,
-      "name": "Bossa Carioca",
-      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 295533,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Bossa Carioca",
+        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
+      },
+      "artists": [
+        {
+          "name": "Central Park Quartet",
+          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
+        }
+      ],
+      "duration_ms": 218874,
+      "name": "Bossa Carioca",
+      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1095,6 +1095,22 @@
       "duration_ms": 181951,
       "name": "\u00c1guas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Praia de Ipanema",
-        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
-      },
-      "artists": [
-        {
-          "name": "Jonah Anderson",
-          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
-        }
-      ],
-      "duration_ms": 241124,
-      "name": "Praia de Ipanema",
-      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "I Mean To Say",
         "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+        "name": "Praia de Ipanema",
+        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+      "duration_ms": 241124,
+      "name": "Praia de Ipanema",
+      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Lonely Desires",
-        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
-      },
-      "artists": [
-        {
-          "name": "Amir Patel",
-          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Lonely Desires",
-      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "That\u2019s your heart",
         "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 195830,
       "name": "That\u2019s your heart",
       "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Time Passes By",
+        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "duration_ms": 151877,
+      "name": "Time Passes By",
+      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1Ky9OOOReMN8OfFwohWK32"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 262869,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Time Passes By",
-        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonzalez",
-          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
-        }
-      ],
-      "duration_ms": 151877,
-      "name": "Time Passes By",
-      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Valentine Sessions",
-        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
-      },
-      "artists": [
-        {
-          "name": "Matt Rollings",
-          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Small Bossa",
-      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Too Marvelous for Words",
         "url": "https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 224000,
       "name": "Too Marvelous for Words",
       "url": "https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "The Valentine Sessions",
+        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
+      },
+      "artists": [
+        {
+          "name": "Matt Rollings",
+          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Small Bossa",
+      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
     }
   ],
   "unique_name": "Bossa Chill",

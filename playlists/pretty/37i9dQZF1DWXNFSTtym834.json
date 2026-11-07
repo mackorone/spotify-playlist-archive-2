@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1418831,
+  "num_followers": 1418951,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "War is the Answer",
         "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Suicide Season",
-        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
+        "name": "With Teeth (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Chelsea Smile",
-      "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "With Teeth (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 346573,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Through The Eyes",
         "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Brave New World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 434293,
-      "name": "Blood Brothers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+      "duration_ms": 346573,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1303,6 +1287,22 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 434293,
+      "name": "Blood Brothers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Desensitized",
-        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Step Up",
-      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Train of Thought",
         "url": "https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 467826,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Desensitized",
+        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
     },
     {
       "added_at": "2026-04-05 20:45:13",

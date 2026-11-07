@@ -1,6 +1,6 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1220417,
+  "num_followers": 1220528,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Que Te Quieran Bonito",
-        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 162211,
-      "name": "Que Te Quieran Bonito",
-      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 188128,
       "name": "El Indio Enamorado",
       "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "La Primera Piedra",
-        "url": "https://open.spotify.com/album/3fdzL4QQa5aHsFf3mnn5d6"
-      },
-      "artists": [
-        {
-          "name": "Don Zares",
-          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Como Conf\u00eda Un Ciego",
-      "url": "https://open.spotify.com/track/4sEqvZIBIqyHrtYAqOCj1y"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "La Primera Piedra",
+        "url": "https://open.spotify.com/album/3fdzL4QQa5aHsFf3mnn5d6"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Como Conf\u00eda Un Ciego",
+      "url": "https://open.spotify.com/track/4sEqvZIBIqyHrtYAqOCj1y"
     },
     {
       "added_at": "2026-10-16 06:35:29",

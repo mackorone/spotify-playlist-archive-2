@@ -529,6 +529,42 @@
     },
     {
       "album": {
+        "name": "Acidioma",
+        "url": "https://open.spotify.com/album/0ECvTQSCpptcGWKvYmINTL"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344688,
+      "name": "Acidioma",
+      "url": "https://open.spotify.com/track/3QdhzyVGihqIMykvbZ4XGo"
+    },
+    {
+      "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/1AlYozvPxzdihh32EqajHz"
+      },
+      "artists": [
+        {
+          "name": "BASHKKA",
+          "url": "https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371299,
+      "name": "Activate Your Love",
+      "url": "https://open.spotify.com/track/0cnAU181jrwzDR9JHqtaFE"
+    },
+    {
+      "album": {
         "name": "activeee",
         "url": "https://open.spotify.com/album/6RuTgbOsLIjjaWE9sxC9RY"
       },
@@ -2916,7 +2952,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 286373,
       "name": "Body Double",
       "url": "https://open.spotify.com/track/0lrTl7x7HS40HPhoCvLyK5"
@@ -4652,7 +4688,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 195555,
       "name": "COKETA",
       "url": "https://open.spotify.com/track/3zFG1PDHnVUnv2cj5dQO2A"
@@ -4768,6 +4804,28 @@
       "duration_ms": 305982,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/5qwZdH9utUYiQhx8xnHoza"
+    },
+    {
+      "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/3ZOD8jSToxWDDJoYO5pZaD"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        },
+        {
+          "name": "Ogaz\u00f3n",
+          "url": "https://open.spotify.com/artist/6FIr59SJB0UrQ0vzmi7PWb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495166,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/52vp72K5NYkr3lHhzN3Fa8"
     },
     {
       "album": {
@@ -5428,6 +5486,24 @@
       "duration_ms": 257521,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2KNpdjtaAbWSoWRnkNeD3i"
+    },
+    {
+      "album": {
+        "name": "ddr",
+        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "ddr",
+      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
     },
     {
       "album": {
@@ -9298,7 +9374,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 343378,
       "name": "Habban",
       "url": "https://open.spotify.com/track/4MMyr5urTE4y1yX8IWaBfm"
@@ -11011,6 +11087,24 @@
     },
     {
       "album": {
+        "name": "Interference",
+        "url": "https://open.spotify.com/album/5nkwpZvhyy2hFyE8OYVNLD"
+      },
+      "artists": [
+        {
+          "name": "Introspekt",
+          "url": "https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/4VxzJR1HEjb58cTHy6MxOl"
+    },
+    {
+      "album": {
         "name": "Ipa Ma",
         "url": "https://open.spotify.com/album/06175m2OvWmMVncB0i7jt6"
       },
@@ -11740,6 +11834,24 @@
       "duration_ms": 263265,
       "name": "La Notte",
       "url": "https://open.spotify.com/track/3dCKu7cLdyVoFUD8JwNhK0"
+    },
+    {
+      "album": {
+        "name": "Moving / Lantern",
+        "url": "https://open.spotify.com/album/3xvu9ygfuzSkbvkM3FFIZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Sprinter",
+          "url": "https://open.spotify.com/artist/62bTaWfo92DH6KPMh5xhlY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241764,
+      "name": "Lantern",
+      "url": "https://open.spotify.com/track/69nuflyynzqT3n9v7rCEZe"
     },
     {
       "album": {
@@ -14882,7 +14994,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 207272,
       "name": "OPA!",
       "url": "https://open.spotify.com/track/0QAN6BStZnoRsbQXWKu2tu"
@@ -15152,7 +15264,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 352500,
       "name": "Pantano",
       "url": "https://open.spotify.com/track/6CuSDrasmVmA10pZnQKT9T"
@@ -17235,6 +17347,24 @@
     },
     {
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/6Eljp4cpqdMIvuOX9JArsn"
+      },
+      "artists": [
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/03mJ9ORuiWIi91OFmGkAKD"
+    },
+    {
+      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -18069,6 +18199,24 @@
     },
     {
       "album": {
+        "name": "Shisandra Replanted",
+        "url": "https://open.spotify.com/album/3KqsDsDbExMwgwdV7XzuZ4"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271532,
+      "name": "Shisandra Replanted",
+      "url": "https://open.spotify.com/track/5yTo8J4beIYlUi8dR3qoDo"
+    },
+    {
+      "album": {
         "name": "shish.Haft",
         "url": "https://open.spotify.com/album/0Ul8CvkEtF5ZeIOXAZ1D3A"
       },
@@ -18648,7 +18796,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 273000,
       "name": "Something In The Air Tonight",
       "url": "https://open.spotify.com/track/7GuIt6yTT5hTRvjRlZeMeo"
@@ -18886,7 +19034,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 334138,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
@@ -19508,7 +19656,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181004,
       "name": "Sur",
       "url": "https://open.spotify.com/track/7JyMa5bp68fsJxtNoUFSVW"
@@ -19530,6 +19678,32 @@
       "duration_ms": 222857,
       "name": "Surface Tension - Edit",
       "url": "https://open.spotify.com/track/1wmF2oUvxum4MUoCzJkb4T"
+    },
+    {
+      "album": {
+        "name": "Suriname (feat. brazy and King Doudou)",
+        "url": "https://open.spotify.com/album/1HN9rxwfsN0RSQzI2tXKVg"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158369,
+      "name": "Suriname (feat. brazy & King Doudou)",
+      "url": "https://open.spotify.com/track/6DqpNUtN5omf3bTRDED58j"
     },
     {
       "album": {
@@ -19782,7 +19956,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 366879,
       "name": "Syncopaths",
       "url": "https://open.spotify.com/track/66f9FPNjmVDvRGRLwfjpWH"

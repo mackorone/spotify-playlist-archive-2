@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Sigala
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Modeā
 
-2,099 songs - 4 day 5 hr 4 min
+2,101 songs - 4 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1804,6 +1804,8 @@
 | [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 | 2025-05-22 | 2025-05-31 |
 | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz) | 2:33 | 2024-09-19 | 2024-10-04 |
 | [The Chills](https://open.spotify.com/track/4LcXZPdx1tL63jzfsqdsHp) | [The Pressure](https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN) | [The Chills](https://open.spotify.com/album/2SCXbDnz9SQwLqh4bPMqnm) | 2:51 | 2022-06-03 | 2022-06-20 |
+| [The Clock](https://open.spotify.com/track/0dzUHHAq5OotCEmIbm4l7a) | [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [The Clock](https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q) | 2:50 | 2026-11-06 |  |
+| [The Clock \- Extended](https://open.spotify.com/track/1plmf2Izb7I43XGbxzXQ2m) | [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [The Clock](https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q) | 4:54 | 2026-11-06 |  |
 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 | 2022-06-03 | 2022-06-11 |
 | [The Creeps \(Brent Anthony x ACT ON Remix\)](https://open.spotify.com/track/5Uaf1EEtICPX3DfRkr2eMZ) | [Camille Jones](https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC), [Brent Anthony](https://open.spotify.com/artist/7qEqQcJLyMwVbPdj9Canu9), [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz) | [The Creeps \(Brent Anthony x ACT ON Remix\)](https://open.spotify.com/album/6w4Uq9mjTFxVfFA1NXvcad) | 3:04 | 2023-08-17 | 2023-09-01 |
 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 | 2022-10-21 | 2022-11-04 |

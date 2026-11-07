@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-116 songs - 4 hr 28 min
+118 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 | 2021-12-22 | 2024-04-19 |
 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 | 2021-12-22 |  |
 | [Be Thou My Vision Lullaby](https://open.spotify.com/track/3P96LOcJuE4Aqzetsqnou2) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Christmas Flow](https://open.spotify.com/album/3aXKEnziDwXCVJqbx97Jj9) | 1:06 | 2022-12-23 |  |
+| [Can't Believe It's Christmas](https://open.spotify.com/track/67DTGHN7kq2oespMu7cLpz) | [Dr\. Eam](https://open.spotify.com/artist/1CSmWKHJxB9mCDTRgpyb8c) | [Can't Believe It's Christmas](https://open.spotify.com/album/1OmY650JGa3erEKfb871iW) | 1:57 | 2026-11-06 |  |
 | [Caroling, caroling](https://open.spotify.com/track/06zCr3KozocS9gzSAxmQwY) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Deck the hall](https://open.spotify.com/album/3IhZrMCx2OHwEqydGWTol4) | 2:26 | 2023-10-27 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
 | [Christmas Baby \- Instrumental](https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Christmas Lullabies for Babies \(2024\)](https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA) | 3:06 | 2024-11-14 | 2025-12-13 |
@@ -75,7 +76,8 @@
 | [Joy To The World](https://open.spotify.com/track/23CDgb2xHfuKlWDaFbrnoR) | [Baby Sleep Music](https://open.spotify.com/artist/6a1uY4qTyJ5hXs0eOxRQnL), [Monarch Baby Lullaby Institute](https://open.spotify.com/artist/78xDLQc4yprjfXlrEXkEYQ), [Christmas Music Lullabies](https://open.spotify.com/artist/0cob7zfjKrTWDDqKQaJKXz) | [Christmas Baby: Christmas Music,Christmas Carols, Holiday Music, Baby Lullabies & Baby Lullaby Music](https://open.spotify.com/album/6lodGpWBpMc6JO6nEpqxIN) | 2:07 | 2021-12-22 | 2022-10-15 |
 | [Joy to the World](https://open.spotify.com/track/1ZWIyUI8An10AbGznyAJS5) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 1:48 | 2022-12-16 |  |
 | [Joy to the World \(Instrumental\)](https://open.spotify.com/track/2XG2tfepUFV6ujKSLFmL7u) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:56 | 2021-12-22 | 2022-12-17 |
-| [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 | 2021-12-22 |  |
+| [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 | 2021-12-22 | 2026-11-07 |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2KxIU5jqTLh7isySwYOi3y) | [Dag Ljungberg](https://open.spotify.com/artist/1nBTxUmAQ1XIv7TiWuSdHk) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/31kWrJSd8u5aIeHz22UTWN) | 2:21 | 2026-11-06 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/3bdI1ZM5nteHRupb6cqHYx) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [Little Drummer Boy](https://open.spotify.com/album/23nkhkP3QpkgOncjxjfLqM) | 2:08 | 2023-10-06 | 2025-09-05 |
 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 | 2021-12-22 |  |
 | [Mary’s Boy child](https://open.spotify.com/track/61VQF7MNKpHtCBZRr3TePx) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:26 | 2022-09-22 | 2025-09-05 |

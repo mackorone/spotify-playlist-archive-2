@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹 fyi Visconti ha cucinato un discone
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,949 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,957 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 9 | [Beniamino](https://open.spotify.com/track/6GO9dCdNU9sRdhmwGE9ndf) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Zustissia \(Original Motion Picture Score\)](https://open.spotify.com/album/10Y8qGegTDTg6X5aQf3qhw) | 8:58 |
 | 10 | [Mano Nella Mano \(con Fulminacci\)](https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:55 |
 | 11 | [Cerco una ragazza, disperatamente](https://open.spotify.com/track/5dZMGTFtmIfhuEul3bXBhv) | [Tommaso Ottomano](https://open.spotify.com/artist/254iU0xjqUkOf7qaFutraU), [Topo Nero Rock](https://open.spotify.com/artist/6yu3yrvAdb3nIC9WqmPWHN) | [Cerco una ragazza, disperatamente](https://open.spotify.com/album/7BiIwCTIhykxRlLaHJjV3m) | 3:19 |
-| 12 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 12 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 13 | [ZOLA \(The Italian job, pt.1\)](https://open.spotify.com/track/2r4p0uj9QaQrUAisBU7Acd) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [THE ITALIAN JOB](https://open.spotify.com/album/6onk6Z3JeGGQaelLCJ9wUu) | 3:50 |
 | 14 | [Mother's Son](https://open.spotify.com/track/0e6tioEvWePls4yCPOYKLb) | [Yuma Birch](https://open.spotify.com/artist/3z7uHEYWbHqGBxoV7OAKfC) | [Better Way](https://open.spotify.com/album/72CojY8fqJq07gXwijfQgy) | 2:43 |
 | 15 | [Innaya Som](https://open.spotify.com/track/11eSwCGbpTdb6pszB6LpHy) | [Ninos Du Brasil](https://open.spotify.com/artist/2ALx5yXpSTe5aPEF2vLeGa) | [Innaya Som](https://open.spotify.com/album/67zH42QlkLrTRPsxSpoK1m) | 3:27 |

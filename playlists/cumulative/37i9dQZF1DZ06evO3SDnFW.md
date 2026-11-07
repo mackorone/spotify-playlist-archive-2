@@ -4,7 +4,7 @@
 
 > This is Sam Fender\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 58 min
+48 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Wild Grey Ocean](https://open.spotify.com/track/4unenxuWoIq4RYG5hyHZpK) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 3:54 | 2025-10-28 |  |
 | [Wild Long Lie](https://open.spotify.com/track/5lQS3Q71OZWEA2tt7TcWai) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 6:04 | 2025-10-28 | 2026-01-31 |
 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 | 2025-10-28 |  |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [You Can’t Always Get What You Want](https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF) | 3:29 | 2026-11-07 |  |
 | [You're Not The Only One](https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 4:35 | 2026-10-02 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

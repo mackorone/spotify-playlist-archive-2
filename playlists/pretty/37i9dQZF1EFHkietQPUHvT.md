@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 80 | [She's Like Me](https://open.spotify.com/track/2jr0Q7xJbDuaOvlHhwqP3m) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Best I Can](https://open.spotify.com/album/6Jl27z0EuOfEVK0Y88Xufp) | 2:45 |
 | 81 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
 | 82 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
-| 83 | [Crybaby](https://open.spotify.com/track/1YLgcTKofzERZ6DxYkbX5D) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/48LiIPSO9HyUCCb84ankpo) | 3:00 |
-| 84 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
+| 83 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
+| 84 | [Crybaby](https://open.spotify.com/track/1YLgcTKofzERZ6DxYkbX5D) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/48LiIPSO9HyUCCb84ankpo) | 3:00 |
 | 85 | [Lay It All Down](https://open.spotify.com/track/5KWs7NQO2a6Y0aMMW7pvGy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Where Have All The Good Men Gone?](https://open.spotify.com/album/2T4mLc6SKNUBQZvdbD8Vt9) | 3:30 |
 | 86 | [Glasheen Road](https://open.spotify.com/track/50Y6DDQlOLdVOFHIktJBgw) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 3:20 |
 | 87 | [Remember Who Your Friends Are](https://open.spotify.com/track/5GA27cxq95h7Kk8h1KlSl9) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Remember Who Your Friends Are](https://open.spotify.com/album/20mIlW5pqvkM9Ul99GlDUJ) | 3:22 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 97 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
 | 98 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `Acg5NAAAAACsWdjCgn/+a3SYiX1D+eF7`
+Snapshot ID: `Acg+rAAAAADClWVkCbOGP5uD8r4oeh5E`

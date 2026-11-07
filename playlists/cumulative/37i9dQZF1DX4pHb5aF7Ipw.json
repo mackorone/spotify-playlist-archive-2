@@ -3261,6 +3261,28 @@
     },
     {
       "album": {
+        "name": "FREQUENCY",
+        "url": "https://open.spotify.com/album/2B8ILNOLWIPtbIe5S1TC36"
+      },
+      "artists": [
+        {
+          "name": "Kaler",
+          "url": "https://open.spotify.com/artist/4dqM3uuaybAqdLB6mPL85m"
+        },
+        {
+          "name": "DaVinci Sound",
+          "url": "https://open.spotify.com/artist/1LywcJkvbQcNLMQ4XrtVUM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "B town",
+      "url": "https://open.spotify.com/track/1HrSD2BCuI27LMTYKbpJfU"
+    },
+    {
+      "album": {
         "name": "B.K.B.",
         "url": "https://open.spotify.com/album/658hmtJGJ0kaI1eZEYDaMd"
       },
@@ -4346,7 +4368,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 134066,
       "name": "Begaane",
       "url": "https://open.spotify.com/track/6Pqh0hKUqf0MI3aKScxkGK"
@@ -5680,7 +5702,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 172833,
       "name": "Boss Mode",
       "url": "https://open.spotify.com/track/2ZFbebP6Gqd3AaTUd1I6dR"
@@ -15143,6 +15165,24 @@
     },
     {
       "album": {
+        "name": "Hip Hop Anthem",
+        "url": "https://open.spotify.com/album/699Mets18DmbePrL3tMJvo"
+      },
+      "artists": [
+        {
+          "name": "Jp Hunjan",
+          "url": "https://open.spotify.com/artist/7yvfDUNwiiNoQDSs4beKQ3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169941,
+      "name": "Hip Hop Anthem",
+      "url": "https://open.spotify.com/track/5q3jrvJTSFNI42TFejmbsJ"
+    },
+    {
+      "album": {
         "name": "Hip Hop Death Game",
         "url": "https://open.spotify.com/album/4By4XbdTbYYEaUN18B3aoc"
       },
@@ -19661,6 +19701,28 @@
     },
     {
       "album": {
+        "name": "FREQUENCY",
+        "url": "https://open.spotify.com/album/2B8ILNOLWIPtbIe5S1TC36"
+      },
+      "artists": [
+        {
+          "name": "Kaler",
+          "url": "https://open.spotify.com/artist/4dqM3uuaybAqdLB6mPL85m"
+        },
+        {
+          "name": "DaVinci Sound",
+          "url": "https://open.spotify.com/artist/1LywcJkvbQcNLMQ4XrtVUM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Leen",
+      "url": "https://open.spotify.com/track/0JdNhQSiWemNWFDLIkIrUR"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/16zRpw0SWEyy9W3hOOJ90r"
       },
@@ -21130,7 +21192,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189092,
       "name": "Maidaan",
       "url": "https://open.spotify.com/track/61IEHbFUlRnZ8qR2qxaP1S"
@@ -23042,7 +23104,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 188307,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5eIrSs5KdjxQGVSOo63m8t"
@@ -32830,6 +32892,28 @@
       "duration_ms": 137967,
       "name": "Tanashah",
       "url": "https://open.spotify.com/track/1PKIDkhNDB9Wi9rCOymArk"
+    },
+    {
+      "album": {
+        "name": "Tang Kurti",
+        "url": "https://open.spotify.com/album/5PeGCXxNBNNCoENJ3IDFwi"
+      },
+      "artists": [
+        {
+          "name": "Nimaan Sidhu",
+          "url": "https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137023,
+      "name": "Tang Kurti",
+      "url": "https://open.spotify.com/track/5f5NotGx53ehtkOdV3NTyk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "una guitarra y mucho sentimiento para cantar. Gabriela Alatorre en portada.",
+  "description": "una guitarra y mucho sentimiento para cantar. Renee Mooi en portada.",
   "name": "Folk Mexicano",
   "tracks": [
     {
@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "A Morir a los Desiertos",
+        "url": "https://open.spotify.com/album/59wWp5gVK7d0YCePs0byNr"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        },
+        {
+          "name": "Last Jer\u00f3nimo",
+          "url": "https://open.spotify.com/artist/0yaL0dzITk9aOWDeO2D3vW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254326,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/6xfjE6dvANhJ9taimobHYN"
+    },
+    {
+      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/3Oq8SYIASucRZNlegqqIst"
       },
@@ -1170,6 +1192,24 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Crist\u00f3bal Comala",
+          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251583,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz"
     },
     {
       "album": {
@@ -1804,6 +1844,28 @@
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
+    },
+    {
+      "album": {
+        "name": "El Vac\u00edo",
+        "url": "https://open.spotify.com/album/4JGiJczbXySzvG9Ios8VfS"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252330,
+      "name": "El Vac\u00edo",
+      "url": "https://open.spotify.com/track/2zlaYCxo2aeaPuKzwFG9Zn"
     },
     {
       "album": {
@@ -4525,6 +4587,24 @@
     },
     {
       "album": {
+        "name": "AZUL EP",
+        "url": "https://open.spotify.com/album/5lWsoyzMF7q2gmt0r0Jdp4"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230454,
+      "name": "Si un d\u00eda me pierdo",
+      "url": "https://open.spotify.com/track/5fTKHXmzXUXCAoiHEZ4hPf"
+    },
+    {
+      "album": {
         "name": "\u00daltimamente me acuerdo mucho de tu casa",
         "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
       },
@@ -4794,6 +4874,24 @@
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
+    },
+    {
+      "album": {
+        "name": "te extra\u00f1o",
+        "url": "https://open.spotify.com/album/0p9MBpGx8DeCpBAjflqvU0"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209877,
+      "name": "te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6CpmWzvlV01jDAFCss6M6r"
     },
     {
       "album": {

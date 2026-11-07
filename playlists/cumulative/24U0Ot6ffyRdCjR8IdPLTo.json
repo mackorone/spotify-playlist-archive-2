@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "driftwood",
+        "url": "https://open.spotify.com/album/65JBQKdqZWA7VIx00VWSja"
+      },
+      "artists": [
+        {
+          "name": "Henry Patterson",
+          "url": "https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155524,
+      "name": "driftwood",
+      "url": "https://open.spotify.com/track/324qNZT7YIuKLKuKEmOgKw"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -6680,6 +6698,24 @@
       "duration_ms": 220620,
       "name": "swan song",
       "url": "https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/0Ti3FBh9STE0SZ42QXNb8l"
+      },
+      "artists": [
+        {
+          "name": "Clara Le Bouar",
+          "url": "https://open.spotify.com/artist/5d4Z9gtKIo66PT6hMbmevx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243488,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3D3409tT7P1S5AYzYKy3fA"
     },
     {
       "album": {

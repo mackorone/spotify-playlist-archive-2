@@ -1221,6 +1221,42 @@
     },
     {
       "album": {
+        "name": "DE EUROPA A JAP\u00d3N",
+        "url": "https://open.spotify.com/album/1p0VbOLs2H9dFZZOxQmbGu"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170168,
+      "name": "DE EUROPA A JAP\u00d3N",
+      "url": "https://open.spotify.com/track/4JesElQ9Btxf3UpzMu7ffR"
+    },
+    {
+      "album": {
+        "name": "De Noche",
+        "url": "https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx"
+      },
+      "artists": [
+        {
+          "name": "La Gavilla",
+          "url": "https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "De Noche",
+      "url": "https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO"
+    },
+    {
+      "album": {
         "name": "Deb\u00ed besarte",
         "url": "https://open.spotify.com/album/0535FyRchIZALTjbkaBOhV"
       },
@@ -3712,6 +3748,24 @@
       "duration_ms": 204204,
       "name": "PL\u00c1TICA CON CUPIDO",
       "url": "https://open.spotify.com/track/48PzmwnVp7aWPyAoZPvpn7"
+    },
+    {
+      "album": {
+        "name": "Poligamia",
+        "url": "https://open.spotify.com/album/1QWdgyDjAN9p0Oh8aGaE0z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "Poligamia",
+      "url": "https://open.spotify.com/track/72DzJlTE05EiB6U7rYvDrr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36816,
+  "num_followers": 36820,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADkHUeic2AJ2ae0/n456hQH",
+  "snapshot_id": "auvHAAAAAAB3t9s2KeEsO+HfKoR0TkRf",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Defense of Drinking",
-        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
+        "name": "Gold Chain Cowboy (Special Edition)",
+        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
       },
       "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
+      "duration_ms": 218804,
+      "name": "Blanco County Rain - Special Edition Track",
+      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy (Special Edition)",
-        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
+        "name": "In Defense of Drinking",
+        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
       },
       "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 218804,
-      "name": "Blanco County Rain - Special Edition Track",
-      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 163080,
-      "name": "Things Are Looking Up - Acoustic",
-      "url": "https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx"
+      "duration_ms": 213973,
+      "name": "Far, Far Away - Acoustic",
+      "url": "https://open.spotify.com/track/3DXy5O4NkXIteVV0JURPpI"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 213973,
-      "name": "Far, Far Away - Acoustic",
-      "url": "https://open.spotify.com/track/3DXy5O4NkXIteVV0JURPpI"
+      "duration_ms": 163080,
+      "name": "Things Are Looking Up - Acoustic",
+      "url": "https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx"
     }
   ],
   "unique_name": "This Is Parker McCollum",

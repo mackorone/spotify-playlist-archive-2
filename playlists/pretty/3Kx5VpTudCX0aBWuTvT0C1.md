@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,325 likes - 111 songs - 6 hr 39 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,324 likes - 112 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 109 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 | 110 | [I Wanna Go Back](https://open.spotify.com/track/16T7nFn9uhXdRBVLt6hjU5) | [Noah Robertson](https://open.spotify.com/artist/7nBX9mLCLJLsasBHIkvXxE) | [I Wanna Go Back](https://open.spotify.com/album/2GwiAqlyzPVoi3wj5o0H1Q) | 3:25 |
 | 111 | [Don't cry](https://open.spotify.com/track/1NGAmWzbNu8ouD7hlNBqqc) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Don't cry](https://open.spotify.com/album/4ovPZqK4wSIeBD9SPPtu50) | 3:09 |
+| 112 | [Sexy Freak'aLicious](https://open.spotify.com/track/5AdkvB7z14eMGTTj2b49My) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Sexy Freak'aLicious](https://open.spotify.com/album/4OFIAf8r7kkF2MvFkexxDq) | 3:07 |
 
-Snapshot ID: `AAAC48hEhPzpnUuxhDG1wEodxxzY4UBj`
+Snapshot ID: `AAAC5ANQjVq2+a1wA/YGD87jkNg7JIq2`

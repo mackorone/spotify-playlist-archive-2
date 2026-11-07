@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 162223,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 92299,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2BPnqOJk8oJ2oR4u364Qzt"
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "O come all ye faithful",
+        "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "O come all ye faithful",
+      "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
+    },
+    {
+      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177874,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/6hbTuHeuAM0yemXJ1mmqQO"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379437,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3R52G5gjn3i2Gv91lvY4iL"
+    },
+    {
+      "album": {
         "name": "Christmas Jazz!",
         "url": "https://open.spotify.com/album/5Zb21fmHLMw1lkft5F88Id"
       },
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 220000,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL"
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 150694,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e"
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 139000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM"

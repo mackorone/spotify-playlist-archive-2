@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Angels On Ecstasy",
+        "url": "https://open.spotify.com/album/1sh566AG898BbXJMHSCVIl"
+      },
+      "artists": [
+        {
+          "name": "Pirate Copy",
+          "url": "https://open.spotify.com/artist/4FNYnqg9OnihmqNqAr0XsN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180113,
+      "name": "Angels On Ecstasy",
+      "url": "https://open.spotify.com/track/20XeUYpVsVD6yaeav0TM6t"
+    },
+    {
+      "album": {
         "name": "Any Fonque",
         "url": "https://open.spotify.com/album/48eX7KziQJo6vNHQwkLhB8"
       },
@@ -3345,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Iba Kenichi EP",
+        "url": "https://open.spotify.com/album/53mAvximWOjMbc6zyRqAof"
+      },
+      "artists": [
+        {
+          "name": "Elias R",
+          "url": "https://open.spotify.com/artist/2q4eFRPd7VUHQOfgmSw6Cq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165591,
+      "name": "Iba Kenichi",
+      "url": "https://open.spotify.com/track/1SiT2qP4h2hPalENiJzpiQ"
+    },
+    {
+      "album": {
         "name": "Ice",
         "url": "https://open.spotify.com/album/4mt67VASzQvvah1Fz4JxHh"
       },
@@ -4869,6 +4905,28 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/7G8lvdGUbHeTudy8tJnWJa"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174633,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1r8mAgBcehfph9VjPymw34"
+    },
+    {
+      "album": {
         "name": "On The Run",
         "url": "https://open.spotify.com/album/6b0I625GSDrFoQ45PYgv4o"
       },
@@ -5106,7 +5164,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
@@ -5366,7 +5424,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204094,
       "name": "Play With Me Daddy",
       "url": "https://open.spotify.com/track/1aYSQQuwP7TwnjkcU71vbg"
@@ -5780,7 +5838,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 135486,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/18o8InV501O1NhjQAstfOw"
@@ -6513,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Sweat It Out EP",
+        "url": "https://open.spotify.com/album/4nyHq354eOB9xzQrpncLOr"
+      },
+      "artists": [
+        {
+          "name": "TwoSlice",
+          "url": "https://open.spotify.com/artist/7tjeiMlhaZh3n8VqyNcMG1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182884,
+      "name": "Sweat It Out",
+      "url": "https://open.spotify.com/track/1u5eXoKE503T5JBNPWEHWY"
+    },
+    {
+      "album": {
         "name": "Sweet Nothing (2025 Edit)",
         "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
       },
@@ -6916,7 +6992,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154486,
       "name": "The Sound Of House",
       "url": "https://open.spotify.com/track/2i8b2J8j4qTJ8tD3XU7MSU"
@@ -6978,7 +7054,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 176357,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/0QVgULBiWoVwl1gNItl057"
@@ -7282,6 +7358,28 @@
       "duration_ms": 209076,
       "name": "Tunnel Vision (feat. Jane)",
       "url": "https://open.spotify.com/track/0aovb0lbaj4OxlfFJ2s3HJ"
+    },
+    {
+      "album": {
+        "name": "Turn Me On",
+        "url": "https://open.spotify.com/album/6h3F8zU15d2ZdwRGi4fM8i"
+      },
+      "artists": [
+        {
+          "name": "HASKELL",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        },
+        {
+          "name": "Superchumbo",
+          "url": "https://open.spotify.com/artist/3oswXxyAvrKPya8Ot6wOjg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0ZzNs177sI4edMcSXUHED4"
     },
     {
       "album": {

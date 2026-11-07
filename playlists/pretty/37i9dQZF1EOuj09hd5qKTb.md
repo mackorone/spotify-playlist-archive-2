@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOuj09hd5qKTb.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOuj09hd5qKTb.md) - [plain]
 | 14 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 15 | [EP 008 \- Album Retrospective: Billy Joel Greatest Hits Volume I & II](https://open.spotify.com/episode/1QndtAzZulqn6BDdPhqI7d) | [Glass Houses \- A Billy Joel Podcast](https://open.spotify.com/show/2fTjIoL8mJNUBaXgp113HF) | [Glass Houses \- A Billy Joel Podcast](https://open.spotify.com/album/2fTjIoL8mJNUBaXgp113HF) | 53:12 |
 | 16 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
-| 17 | [Jack Johnson \- You Can't Control It](https://open.spotify.com/episode/1axKZ2xY2Ab7rSuAK9o3zm) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 15:25 |
+| 17 | [Jack Johnson \- You Can't Control It](https://open.spotify.com/episode/1axKZ2xY2Ab7rSuAK9o3zm) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 15:49 |
 | 18 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 |
 | 19 | [Episode 106 \- Yusuf / Cat Stevens](https://open.spotify.com/episode/13yvZVSo8a8MjJLioee9Rq) | [Sodajerker On Songwriting](https://open.spotify.com/show/4oTBzqC3DHbaKNFq2YXpQw) | [Sodajerker On Songwriting](https://open.spotify.com/album/4oTBzqC3DHbaKNFq2YXpQw) | 41:03 |
 

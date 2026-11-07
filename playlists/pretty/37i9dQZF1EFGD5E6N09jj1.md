@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,019 likes - 228 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,018 likes - 229 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 153 | [Card Declined](https://open.spotify.com/track/3vFRHL7DuN076fdIQuWQfv) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 3:27 |
 | 154 | [Drugs \(feat\. ABRA\)](https://open.spotify.com/track/2JjQNEYozHM41eQPFgOV6j) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:49 |
 | 155 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 |
-| 156 | [Delicious \(feat\. Tommy Cash\)](https://open.spotify.com/track/740PUPhgdtWhxGYbQzM3do) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 4:32 |
-| 157 | [Persona](https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:37 |
+| 156 | [Persona](https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:37 |
+| 157 | [Delicious \(feat\. Tommy Cash\)](https://open.spotify.com/track/740PUPhgdtWhxGYbQzM3do) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 4:32 |
 | 158 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 159 | [Bang Bang \(feat\. R\. City, Selah Sue & Craig David\) \- René LaVice's Trigger Happy Remix](https://open.spotify.com/track/5fEn8RHPrh5eC1HlAT2yG8) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Bang Bang \(Remixes\) \(feat\. R\. City, Selah Sue & Craig David\)](https://open.spotify.com/album/7n06YZj3TcbcsaDDUtAthS) | 4:02 |
 | 160 | [White Roses](https://open.spotify.com/track/363vy5ekQwiC5ilmiMhqbA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:33 |
@@ -236,5 +236,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 226 | [Blue Flame](https://open.spotify.com/track/5f4ADf8y0mnmtW8vtRBfwU) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/5VWhUZ0x5cPV2d3DoGtGKX) | 3:29 |
 | 227 | [Moonlight](https://open.spotify.com/track/4iT8EOPws0Z01UsfQW71Qy) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [Moonlight](https://open.spotify.com/album/0fMtYan7n5gzAcWoAVBxSI) | 1:30 |
 | 228 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
+| 229 | [playboy bunny](https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT) | [xcx99](https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK) | [playboy bunny](https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB) | 1:55 |
 
-Snapshot ID: `Acg5NAAAAADKJRfp8am/OF8f1tEDqoB2`
+Snapshot ID: `Acg+mAAAAACAAsjClC9oeBfwvE+krDQQ`

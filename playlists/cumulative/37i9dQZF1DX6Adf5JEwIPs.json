@@ -46959,6 +46959,24 @@
     },
     {
       "album": {
+        "name": "De Noche",
+        "url": "https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx"
+      },
+      "artists": [
+        {
+          "name": "La Gavilla",
+          "url": "https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "De Noche",
+      "url": "https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO"
+    },
+    {
+      "album": {
         "name": "De Nuestro Amor No Queda Nada",
         "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
       },
@@ -167444,6 +167462,24 @@
       "duration_ms": 168457,
       "name": "Peleando En Silencio",
       "url": "https://open.spotify.com/track/3S9uvvPtwLwjsQkaMuiEAb"
+    },
+    {
+      "album": {
+        "name": "PELIBLACK",
+        "url": "https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "PELIBLACK",
+      "url": "https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS"
     },
     {
       "album": {

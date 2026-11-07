@@ -4,7 +4,7 @@
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-80 songs - 2 hr 54 min
+81 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Dog Tags](https://open.spotify.com/track/4dlmnJ8Eq3m4jubfGBoYg1) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [All Quiet On The Western Front \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4) | 1:27 | 2026-10-03 |  |
 | [Eins nach dem anderen](https://open.spotify.com/track/42vn4X5yjFh3aRW2jfGnUS) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Lennart Saathoff](https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE) | [Corpus Delicti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW) | 1:15 | 2026-10-31 |  |
 | [End Credit \(Clayface\)](https://open.spotify.com/track/205V8sIGaHNeA19ZUpxedb) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 3:47 | 2026-10-31 |  |
-| [Ending Credits \- Verity](https://open.spotify.com/track/7gzy3e63rp8oYxDv9q57wZ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 4:51 | 2026-10-28 |  |
+| [Ending Credits \- Verity](https://open.spotify.com/track/7gzy3e63rp8oYxDv9q57wZ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 4:51 | 2026-10-28 | 2026-11-07 |
 | [Entering The Meeting](https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 1:09 | 2026-10-03 |  |
 | [Enzo's Last Ride](https://open.spotify.com/track/0loX01j5nETtY1mV4qua9o) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Art of Racing in the Rain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38M6iuTxDfisl9VKcBYJ2t) | 2:40 | 2026-10-03 | 2026-10-13 |
 | [Evening Prayer](https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 0:34 | 2026-10-03 | 2026-11-01 |
+| [Fahrt zum Verlag](https://open.spotify.com/track/4gvZw1Y6C1JkthpGpuMe3l) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 0:56 | 2026-11-07 |  |
 | [Falling for Eve](https://open.spotify.com/track/2uHbgl81mreOhhG9SJxTQ5) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Art of Racing in the Rain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38M6iuTxDfisl9VKcBYJ2t) | 0:53 | 2026-10-03 | 2026-10-26 |
 | [Family \(From "Lion" Soundtrack\)](https://open.spotify.com/track/3QXwNLHixxu4HKlMcJgXsk) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:04 | 2026-10-03 |  |
 | [Finale](https://open.spotify.com/track/3yMvm36EPgxgyzGNE4ZOUo) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [One Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I9rM6mi4q4yS4mB4MZDI6) | 4:41 | 2026-10-03 | 2026-10-13 |

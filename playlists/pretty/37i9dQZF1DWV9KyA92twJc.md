@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,705 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,704 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 43 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 44 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 45 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
-| 46 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
-| 47 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
+| 46 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
+| 47 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 48 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 49 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 50 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 84 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
 | 85 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
 | 86 | [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 |
-| 87 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
-| 88 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
-| 89 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 |
+| 87 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
+| 88 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
+| 89 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
 | 90 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 |
 | 91 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |
 | 92 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 |
 | 93 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
-| 94 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
+| 94 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 |
 | 95 | [גשם](https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר כהן](https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX) | 3:04 |
 | 96 | [אדם שבור](https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אדם שבור](https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F) | 3:30 |
 | 97 | [צריך אותך](https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:57 |
-| 98 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 |
+| 98 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [שרקי](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
 | 99 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 |
-| 100 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [שרקי](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
+| 100 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 |
 
 Snapshot ID: `AAAAAKkHoV8hC9MUDDsFJXJith7M58vG`

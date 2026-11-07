@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,631 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,634 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 20 | [In the Rain](https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:48 |
 | 21 | [시그널 \(Signal\)](https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:20 |
 | 22 | [Magnetic \- City Night Remix](https://open.spotify.com/track/6vkj9UHlADo13y5eHSwdec) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:54 |
-| 23 | [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 |
-| 24 | [Candy Crush](https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 3:00 |
-| 25 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 |
+| 23 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 |
+| 24 | [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 |
+| 25 | [Candy Crush](https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 3:00 |
 | 26 | [NEON](https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [NEON](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) | 3:40 |
 | 27 | [All Night](https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:30 |
 | 28 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 |
-| 29 | [Lovegame](https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [tellusboutyourself](https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj) | 3:33 |
-| 30 | [We](https://open.spotify.com/track/0vuM2H3oow8eATaF2lXNMN) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [love you more,](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) | 3:41 |
-| 31 | [City Lights \(Feat\. Hash Swan\)](https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [City Lights](https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp) | 3:49 |
-| 32 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
+| 29 | [We](https://open.spotify.com/track/0vuM2H3oow8eATaF2lXNMN) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [love you more,](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) | 3:41 |
+| 30 | [Lovegame](https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [tellusboutyourself](https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj) | 3:33 |
+| 31 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
+| 32 | [City Lights \(Feat\. Hash Swan\)](https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [City Lights](https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp) | 3:49 |
 | 33 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 |
-| 34 | [지켜줄게](https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ) | 3:44 |
-| 35 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
+| 34 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
+| 35 | [지켜줄게](https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ) | 3:44 |
 | 36 | [A Night Like This](https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:52 |
 | 37 | [Sacrifice](https://open.spotify.com/track/5PUXJEyoun8vgcfS0wrWzW) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 3:29 |
 | 38 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 68 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
 | 69 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 |
 | 70 | [You always \- Digging Club Seoul Ver.](https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Onstage Digging Club Seoul Part.05](https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d) | 4:54 |
-| 71 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
-| 72 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
+| 71 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
+| 72 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
 | 73 | [Once again, With you](https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [Typhoon Family, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0) | 3:34 |
 | 74 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
 | 75 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |

@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-90 songs - 5 hr 4 min
+91 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I'll Be Your Santa Baby](https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:35 | 2021-11-12 |  |
 | [It Can't Be Christmas](https://open.spotify.com/track/5SxfqYOHg6XaLCBr8N4jFo) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [It Can't Be Christmas](https://open.spotify.com/album/4WDJarpfVVwJlMrd36OyiM) | 3:07 | 2025-10-17 |  |
 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2021-11-12 |  |
+| [It's Christmas](https://open.spotify.com/track/3cTKCuZ5cRSrVsstExNNyh) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [It's Christmas](https://open.spotify.com/album/3nqdRkD7jvHfmxMzcbiNwR) | 2:38 | 2026-11-06 |  |
 | [It's The Holidays](https://open.spotify.com/track/1rrabjcbiEcdUiZOe46pFw) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [It's The Holidays](https://open.spotify.com/album/50pS1trCWbG8dmbVtNg88d) | 2:43 | 2025-11-21 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Home For Christmas](https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1) | 3:23 | 2022-11-18 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1tJ2IxYebzo8BH1DfugyL3) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Christmas With The Platters](https://open.spotify.com/album/3WdCWL7bYtiSLRAlxxq1Q2) | 1:51 | 2021-11-12 |  |

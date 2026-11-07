@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,951 likes - 204 songs - 12 hr 53 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,951 likes - 205 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 202 | [Rest In Fight](https://open.spotify.com/track/1Ibpqkq11iSRPdOP132Sju) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Rest In Fight](https://open.spotify.com/album/3kcYI5qf2k0m5ablgKrFo9) | 2:26 |
 | 203 | [Roadside Redemption](https://open.spotify.com/track/5pEux62430TmWm3wdPFrPW) | [Carl Speaks](https://open.spotify.com/artist/4kYWW4xqLmYW5ocMbp2xwY) | [Roadside Redemption](https://open.spotify.com/album/65COFrUhjq4wXjInsXPVQc) | 3:42 |
 | 204 | [Black Sorcery](https://open.spotify.com/track/26snts5ounwV0cAckqZNL4) | [Ivan Joy](https://open.spotify.com/artist/6KkXS1Bvq4jwdbC2yOQbCQ), [Joy Gomez](https://open.spotify.com/artist/2MUg67gw6NHTc3epu5WYqK), [Ivan Pons](https://open.spotify.com/artist/5GuC332HEfDWXoVXTGFGFJ) | [Black Sorcery](https://open.spotify.com/album/5NAln1HvVVSQKHftxm6iP7) | 5:06 |
+| 205 | [2003](https://open.spotify.com/track/5s3rIqx9O6igEokeNeHX8z) | [One Good Reason](https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK) | [2003](https://open.spotify.com/album/72MerDu3fbe4Oy9tUkDM8z) | 2:53 |
 
-Snapshot ID: `AAAM+dcml5bjVrNRW+Ska01YzBopMJyp`
+Snapshot ID: `AAAM+jK+pke6+KBGrmMfPXANUdH7+U0y`

@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-231 songs - 12 hr 2 min
+233 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,8 @@
 | [Heart On Fire](https://open.spotify.com/track/1xC7pXx7gNWuDT1cS72ndv) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Heart On Fire](https://open.spotify.com/album/3EfNgX7JOf2C4PnENLgjNX) | 3:20 | 2024-06-24 | 2024-08-30 |
 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-08-29 | 2024-12-03 |
 | [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-06-24 | 2024-11-08 |
+| [Heel Genoeg](https://open.spotify.com/track/3uk1pTFldWwx2jfNv82mj4) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Heel Genoeg](https://open.spotify.com/album/2LRhu4DQEimbE4r1JKWCST) | 3:01 | 2026-11-05 |  |
+| [Helikopterpiloot](https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [DWARS](https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S) | 3:59 | 2026-11-05 |  |
 | [Het Idee](https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Inge van Calkar](https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP) | [Het Idee](https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA) | 2:54 | 2024-10-24 | 2025-03-07 |
 | [Het Midden](https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Het Midden](https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS) | 2:41 | 2024-12-12 | 2025-02-21 |
 | [Het verleden](https://open.spotify.com/track/6AjxjyZlpgZzCX2h49EsdF) | [KRISTEL](https://open.spotify.com/artist/4RR1Hu38jmbA010XOEVuOF) | [Het verleden](https://open.spotify.com/album/6fT11QCpe47VOzs8kqvL2T) | 3:30 | 2025-06-19 | 2025-10-17 |
@@ -80,7 +82,7 @@
 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 | 2024-08-29 | 2025-03-14 |
 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-07-09 |  |
 | [Hoe Wij Hier Samen Staan](https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht Bij Mij](https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy) | 2:58 | 2026-05-14 |  |
-| [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 |  |
+| [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 | 2026-11-07 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 | 2026-01-06 |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 | 2024-12-13 |
 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 | 2026-04-23 |  |
@@ -179,7 +181,7 @@
 | [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-06-24 | 2024-09-13 |
 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 | 2025-03-06 | 2025-06-27 |
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 | 2024-12-13 |
-| [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 |  |
+| [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 | 2026-11-07 |
 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 |  |
 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 | 2025-04-13 |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 | 2024-11-22 |

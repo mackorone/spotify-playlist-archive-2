@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 221395,
+  "num_followers": 221407,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABrY3RzvHmDPY0ZQeyAS68T",
+  "snapshot_id": "auvHAAAAAAADneD3RthHLEW6SAur3xHE",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad in Scandinavia",
-        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 198074,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 168000,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad in Scandinavia",
+        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 198074,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
     },
     {
       "added_at": null,

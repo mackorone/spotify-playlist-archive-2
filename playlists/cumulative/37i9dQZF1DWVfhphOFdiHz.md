@@ -4,7 +4,7 @@
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-671 songs - 1 day 11 hr 57 min
+673 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Downfall](https://open.spotify.com/track/2aAcT2candbjm9HghUotKF) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Downfall](https://open.spotify.com/album/2ZqZlFztQvsypPBoPcMpP8) | 2:47 | 2026-04-10 | 2026-05-09 |
 | [Dreams \(Aquaria Remix\)](https://open.spotify.com/track/2VMSvRhxs30VAoPoj3jTNu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Revelation \[Remixes\]](https://open.spotify.com/album/1MbslP83tLeeVWIKRvABzu) | 3:18 | 2026-06-02 | 2026-07-25 |
 | [Dressin'](https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Dressin'](https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e) | 2:26 | 2026-04-03 | 2026-05-02 |
-| [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 | 2026-09-11 |  |
+| [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 | 2026-09-11 | 2026-11-07 |
 | [Drop Down](https://open.spotify.com/track/3rNmkmZWH3qC9cSvCyCiAP) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Haute Sauce](https://open.spotify.com/album/5Eam1MmcPLmdTa72bsB74w) | 3:15 | 2025-09-26 | 2026-01-15 |
 | [Drunk On You](https://open.spotify.com/track/4Pihu8myETm01bYgoKBHua) | [LORYANN](https://open.spotify.com/artist/0bd1IpnDs9fSAUxenOdDOU) | [Drunk On You](https://open.spotify.com/album/36rxPugz00xkT2c40Ef8LW) | 2:46 | 2026-05-22 | 2026-06-17 |
 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 | 2026-07-04 |
@@ -308,6 +308,7 @@
 | [I'm Really Pretty](https://open.spotify.com/track/6KEPSnOkxfrSacwxxQgB5g) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [I'm Really Pretty](https://open.spotify.com/album/6q62muJ2St1NCzwR4B5M02) | 2:43 | 2024-03-08 | 2025-05-31 |
 | [I'VE ALWAYS HAD THINGS FOR COWBOYS](https://open.spotify.com/track/06RpfITNxlLaFbXFjiqhI3) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [I'VE ALWAYS HAD THINGS FOR COWBOYS](https://open.spotify.com/album/1wE70FqUt8R720VSFkCpFl) | 3:01 | 2024-06-17 | 2024-07-13 |
 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-10 | 2026-05-16 |
+| [IDKW](https://open.spotify.com/track/6NxoYOYCpurmaGsA8VFvmW) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDKW](https://open.spotify.com/album/0endo3MeMmhqz8GU7AkoMd) | 3:41 | 2026-11-06 |  |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-12-15 | 2024-09-07 |
 | [IFYGF](https://open.spotify.com/track/6jYJYzfwvI8DUeHD4wP35R) | [Gen Laforce](https://open.spotify.com/artist/41V8rH3K84PmlhLSAf8NsS) | [IFYGF](https://open.spotify.com/album/02PMAdeF21U9rdrt08wWJv) | 2:22 | 2026-10-30 |  |
 | [ily ily](https://open.spotify.com/track/1jB8hnwzfYxHOwKxBQCxn5) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [ily ily](https://open.spotify.com/album/3v0uyIDtQ8aFrkAAy5TI8w) | 3:12 | 2023-12-15 | 2024-05-14 |
@@ -535,7 +536,7 @@
 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 | 2026-05-01 | 2026-07-04 |
 | [Shoulder to Shoulder](https://open.spotify.com/track/2afz59k5MvW9gsoU2hEtLA) | [ELLES](https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o) | [Shoulder to Shoulder](https://open.spotify.com/album/3l437roNvD7SaEi6Tq6wkP) | 3:27 | 2026-05-01 | 2026-05-16 |
 | [Showgirl At Heart](https://open.spotify.com/track/6HXZJMT1gtnLFjIlPrZO2Y) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:16 | 2026-03-17 | 2026-04-11 |
-| [SHUT UP AND DIE !](https://open.spotify.com/track/1yYfCya7RfuqZ3gPvSXgoX) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts) | [SHUT UP AND DIE !](https://open.spotify.com/album/7uUJMRaEtzwVlcOSTX4yQM) | 3:20 | 2026-10-30 |  |
+| [SHUT UP AND DIE !](https://open.spotify.com/track/1yYfCya7RfuqZ3gPvSXgoX) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts) | [SHUT UP AND DIE !](https://open.spotify.com/album/7uUJMRaEtzwVlcOSTX4yQM) | 3:20 | 2026-10-30 | 2026-11-07 |
 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-04-10 |  |
 | [SICK!](https://open.spotify.com/track/6Q71WravIYPvJZ0fJDTrrE) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [SICK!](https://open.spotify.com/album/4BgkrXmfMQ6KnVVNSlnxLv) | 3:13 | 2026-06-02 | 2026-06-17 |
 | [Sides Of Me I've Never Met](https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Sides Of Me I've Never Met](https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP) | 3:58 | 2025-10-31 | 2026-02-14 |
@@ -586,6 +587,7 @@
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-12-15 | 2024-04-06 |
 | [Tan Lines](https://open.spotify.com/track/5oDT7KAJxuOy4kvat3bzlf) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Tan Lines](https://open.spotify.com/album/5K8JMSph1hfovoB0LoHvGo) | 2:38 | 2026-04-10 | 2026-06-17 |
 | [Tattoos](https://open.spotify.com/track/0NR4jLMmIeneNq7Sqb0dl7) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Grrrl](https://open.spotify.com/album/4hvxEQAFO3jloZtE54tLuV) | 3:48 | 2024-06-17 | 2025-08-02 |
+| [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 | 2026-11-06 |  |
 | [Terminal Lovesick](https://open.spotify.com/track/2RfmFbqPz3zN2u01SBd55s) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Terminal Lovesick](https://open.spotify.com/album/6Xu3qprU7PrQRGgJJPgWSD) | 2:38 | 2026-02-13 | 2026-04-04 |
 | [Terrenas](https://open.spotify.com/track/09bjw433XQN5p3M9lSyToN) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Terrenas](https://open.spotify.com/album/06Q5tx0RnwRsyUG9lxXl6p) | 2:52 | 2023-12-15 | 2024-05-14 |
 | [Tether](https://open.spotify.com/track/6jnrxHB6CbK89NmFF9Yqa6) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education: Songs from Season 4](https://open.spotify.com/album/5ExYoOpoHMExYBUnz6lWl8) | 3:51 | 2023-12-15 | 2024-08-10 |

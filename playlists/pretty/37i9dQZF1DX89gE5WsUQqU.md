@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 열기 그대로, 라이브 퍼포먼스 영상과 함께 라인업 아티스트의 셋리스트를 감상해보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 159 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,728 likes - 159 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 52 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 53 | [After School Activity](https://open.spotify.com/track/7p8mKSaIosypDyChmX64U8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Sound of Music pt.2 : LIFE](https://open.spotify.com/album/0VlH7KKpMs4UpXsne5EBtr) | 2:23 |
 | 54 | [JUNGLE](https://open.spotify.com/track/2wFmUoCn1z1BFxUjUtW0Lc) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 3:09 |
-| 55 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
+| 55 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:47 |
 | 56 | [Graduation](https://open.spotify.com/track/0wDz1vVrbkoZbS8axgiWZk) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [24 : How to find true love and happiness](https://open.spotify.com/album/5PBv1FrNgnUw7mb3k4OmMo) | 4:13 |
 | 57 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 |
 | 58 | [MASITNONSOUL](https://open.spotify.com/track/3fiy2hCUsJnZfCQa2aiQd3) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Entourage MIXTAPE \#1](https://open.spotify.com/album/7aaPeaLz4xkA4Xzt3oVJgP) | 3:55 |
 | 59 | [Citizen Kane](https://open.spotify.com/track/5umsgsPfAd0eKxzfxuVm1X) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [24 : How to find true love and happiness](https://open.spotify.com/album/5PBv1FrNgnUw7mb3k4OmMo) | 3:29 |
-| 60 | [KoK](https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [KoK](https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU) | 8:26 |
+| 60 | [KoK](https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [KoK](https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU) | 8:27 |
 | 61 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 | 62 | [Postpink](https://open.spotify.com/track/2cR8SDpYTjsTFTJYHeAKNj) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Ballad of You](https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM) | 3:53 |
 | 63 | [Crybaby](https://open.spotify.com/track/2bIMamsfhnHCML16z6nyzv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Ballad of You](https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM) | 1:12 |

@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-183 songs - 9 hr 53 min
+184 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Empty Chairs \(feat\. Mick Jagger\)](https://open.spotify.com/track/2HHEf7l2CoYfwZyLOBXyjW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:13 | 2025-07-13 | 2025-08-09 |
 | [Enjoy Yourself \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/6QzkbRRLWTEcFE0NyOX1Dt) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:17 | 2021-12-28 | 2023-08-28 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-09 | 2026-04-15 |
-| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3ltc9j6uh3LvO7FuXm6Ix3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 2:39 | 2025-12-20 |  |
+| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3ltc9j6uh3LvO7FuXm6Ix3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 2:39 | 2025-12-20 | 2026-11-07 |
+| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:39 | 2026-11-07 |  |
 | [Gbona](https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:07 | 2024-11-25 |  |
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2021-12-28 | 2025-06-07 |
 | [Giddem](https://open.spotify.com/track/55ylfI9v88iPOCgjAAdwMe) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:31 | 2021-12-29 | 2022-01-27 |

@@ -4,7 +4,7 @@
 
 > 낮은 햇살과 선선한 바람, 조금 더 걷고 싶은 가을의 노래들 \(Walk home a little longer with autumn in the air and a song in your ears\) \(Cover: BABO\)
 
-234 songs - 14 hr 16 min
+235 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Wait A Minute ! \(Feat\. 황세현\(h3hyeon\)\)](https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Wait A Minute !](https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD) | 3:14 | 2023-09-20 |  |
 | [Warmth, Where Memory Rests \(Phantom Lawyer : Original Television Soundtrack\)](https://open.spotify.com/track/67r3Dtdvlq4WwqYBbcwqBC) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Phantom Lawyer, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/68uS40vTP5a7Otysaez3t8) | 2:46 | 2026-10-23 |  |
 | [Water](https://open.spotify.com/track/2l26SisqsxD0MCZoarxlL3) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [22522](https://open.spotify.com/album/52uiwubDec4Tmm5B2sQu1w) | 3:41 | 2022-07-04 |  |
+| [We are no more](https://open.spotify.com/track/3Sb09JZXxDS5Gw0d1D88px) | [choichangsoon](https://open.spotify.com/artist/2gLhmVEa4hnjHRvMur0qlv) | [We are no more](https://open.spotify.com/album/3N5AceJsdtzTW4VZXvwIYe) | 3:26 | 2026-11-06 |  |
 | [What day do you live?](https://open.spotify.com/track/2rccS92aHoL4TfGR9wK8B5) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [What day do you live?](https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY) | 5:14 | 2022-07-04 | 2026-10-24 |
 | [What I Loved](https://open.spotify.com/track/2RDznQ0rtlbkjNpv3D6enB) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [“ Sin ! ”](https://open.spotify.com/album/56v27twySh7OITSiH5HPJ0) | 2:43 | 2026-10-23 |  |
 | [Whatever for u](https://open.spotify.com/track/2SPimOLQV6DBRiCA3IQ1sY) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/2c3TcGj1cwJHDtdFwyz0jW) | 2:56 | 2022-11-03 | 2024-04-19 |

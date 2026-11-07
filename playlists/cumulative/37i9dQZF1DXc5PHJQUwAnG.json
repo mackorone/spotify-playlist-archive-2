@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa.  En portada: Zimple y Santa Fe Klan",
+  "description": "Bienvenidx a la trampa mexa.  En portada: MNKY y Deack Lopez",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Ariel Camacho",
+        "url": "https://open.spotify.com/album/2yy0xg2hLiG3IEyOF2cyYr"
+      },
+      "artists": [
+        {
+          "name": "Asis",
+          "url": "https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191638,
+      "name": "Ariel Camacho",
+      "url": "https://open.spotify.com/track/5NTSzFq888q735x9WwBZJ5"
+    },
+    {
+      "album": {
         "name": "Arre Lu Lu",
         "url": "https://open.spotify.com/album/5kqMoi0eLuSIUeckMyn8tf"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 212101,
       "name": "Calladito",
       "url": "https://open.spotify.com/track/57S7rIH6h8R5xWYlLU1pJF"
@@ -2912,6 +2930,24 @@
       "duration_ms": 161739,
       "name": "De Gira",
       "url": "https://open.spotify.com/track/2M0yRM2dsjvRsLjn2npDZU"
+    },
+    {
+      "album": {
+        "name": "DE MARCA",
+        "url": "https://open.spotify.com/album/0eEJIDPOqCLyTpNzLppzSB"
+      },
+      "artists": [
+        {
+          "name": "Emilio Morales",
+          "url": "https://open.spotify.com/artist/7niPvia8jlPaciHzQrDoYd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "DE MARCA",
+      "url": "https://open.spotify.com/track/1fuyR5WJKLfsRi7oaZgae2"
     },
     {
       "album": {
@@ -4712,6 +4748,24 @@
       "duration_ms": 124100,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/1iw8Tvg0BmqIP1jW69sW1R"
+    },
+    {
+      "album": {
+        "name": "Gastar Balas",
+        "url": "https://open.spotify.com/album/1gMhZoy3EpIS858ooi7nGn"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "Gastar Balas",
+      "url": "https://open.spotify.com/track/0U9iRvpU6wvPISZE9LO5FP"
     },
     {
       "album": {
@@ -7701,6 +7755,28 @@
     },
     {
       "album": {
+        "name": "NO CONSIGO",
+        "url": "https://open.spotify.com/album/2WDtQ4luAIlVeyATgnmBua"
+      },
+      "artists": [
+        {
+          "name": "XXCASTILLEJOS",
+          "url": "https://open.spotify.com/artist/2xi020kHel4MQSHMcrzMDC"
+        },
+        {
+          "name": "Biowaverave",
+          "url": "https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196935,
+      "name": "NO CONSIGO",
+      "url": "https://open.spotify.com/track/29Ak5CIFw7xn5beILV3Y03"
+    },
+    {
+      "album": {
         "name": "No Face No Case",
         "url": "https://open.spotify.com/album/2FQLisjwY4LIqco0gAOhS8"
       },
@@ -8547,6 +8623,28 @@
     },
     {
       "album": {
+        "name": "Pacas y Pacas",
+        "url": "https://open.spotify.com/album/0K6IdLYyPqxPNjB19mS7v6"
+      },
+      "artists": [
+        {
+          "name": "SALVAMENTO",
+          "url": "https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Pacas y Pacas",
+      "url": "https://open.spotify.com/track/3fjRFmHLjkArM5KpzU2a8d"
+    },
+    {
+      "album": {
         "name": "PANCHO VILLA",
         "url": "https://open.spotify.com/album/1xV6SyZhVKUHSE6rEfJbhd"
       },
@@ -8658,7 +8756,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157586,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/2D1EgOOybmJOU9rh0yYivn"
@@ -9206,7 +9304,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 238016,
       "name": "Punta Verde",
       "url": "https://open.spotify.com/track/6Vl94Dxz9bbZd2HRvZFMsF"
@@ -9402,7 +9500,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162919,
       "name": "Que te valga vrg (feat. Tzunami)",
       "url": "https://open.spotify.com/track/128qSWDez56hTJZPaC7PQ6"
@@ -9486,7 +9584,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 139870,
       "name": "QUINIENTAS ATRAS",
       "url": "https://open.spotify.com/track/3esXe9ijPAWpXPtLIdUw0o"
@@ -9530,7 +9628,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177386,
       "name": "Qu\u00edmica Prohibida",
       "url": "https://open.spotify.com/track/7Ii1cxhpz0bSSn1NwQe1gd"
@@ -10218,6 +10316,28 @@
       "duration_ms": 129373,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/11C3JshvZNh5hPkWKQVpoR"
+    },
+    {
+      "album": {
+        "name": "SI NOS VAMOS A MORIR",
+        "url": "https://open.spotify.com/album/7AvJL70IBlsHukWdRQvhhu"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "SI NOS VAMOS A MORIR",
+      "url": "https://open.spotify.com/track/3qWpalaiW744p0wJ64jZNj"
     },
     {
       "album": {
@@ -11769,6 +11889,28 @@
     },
     {
       "album": {
+        "name": "VINI JR",
+        "url": "https://open.spotify.com/album/3XwFZ337OLPgeaBf1vEoUT"
+      },
+      "artists": [
+        {
+          "name": "MNKY",
+          "url": "https://open.spotify.com/artist/0pHNi1nqp8EA3InGw4dZXw"
+        },
+        {
+          "name": "Deack Lopez",
+          "url": "https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "VINI JR",
+      "url": "https://open.spotify.com/track/257FT5eIRWIPMHdAxKEzSk"
+    },
+    {
+      "album": {
         "name": "Visnes sucios",
         "url": "https://open.spotify.com/album/3rYp99Hie7fA37C0UBJkAL"
       },
@@ -11780,7 +11922,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 211776,
       "name": "Visnes sucios",
       "url": "https://open.spotify.com/track/2gKgRooYkJcidvsGgxnbCN"

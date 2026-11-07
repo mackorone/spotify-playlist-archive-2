@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-885 songs - 2 day 6 hr 49 min
+886 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-03-07 | 2023-04-19 |
 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-01-28 | 2025-07-09 |
 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2021-10-17 | 2022-05-27 |
+| [BPM \(feat\. KREVA\)](https://open.spotify.com/track/6SMUXzvpo1dGg1N7QaMjvy) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [BPM \(feat\. KREVA\)](https://open.spotify.com/album/2GlGoYZji2Y1aiSjeWMWVU) | 2:53 | 2026-11-06 |  |
 | [Brand New](https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 3:31 | 2026-09-30 |  |
 | [Brand New](https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Brand New](https://open.spotify.com/album/77nCMjnsMkHUC2j7bwKIed) | 3:31 | 2026-07-13 | 2026-10-01 |
 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 | 2025-06-04 | 2025-07-09 |
@@ -219,7 +220,7 @@
 | [Is it me?](https://open.spotify.com/track/13t6ysw3FUR0yJvTx4qCIU) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:58 | 2024-03-07 | 2024-03-14 |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-12 | 2025-07-23 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-07 |  |
-| [It’s not a bad life](https://open.spotify.com/track/6Swia6AU2KVhORFIyvJEVG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 3:46 | 2026-11-06 |  |
+| [It’s not a bad life](https://open.spotify.com/track/6Swia6AU2KVhORFIyvJEVG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 3:46 | 2026-11-06 | 2026-11-07 |
 | [IYKYK](https://open.spotify.com/track/0Gl9pXfGTU8eAnEbcka6AV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:00 | 2024-11-09 | 2024-11-16 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-12 | 2024-11-10 |
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-12-08 | 2024-12-24 |

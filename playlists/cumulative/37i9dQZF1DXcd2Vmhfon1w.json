@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. C. Tangana",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 175290,
       "name": "A Cuestas",
       "url": "https://open.spotify.com/track/39kQD3Q4yFNJiJMJuhJ23J"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 197374,
       "name": "Cisne Negro",
       "url": "https://open.spotify.com/track/4b01CMpiSFECRaqp89Tsvf"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 117176,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/1z3rWDMx5tTC2GKiqE7Zn6"
@@ -4632,6 +4632,24 @@
       "duration_ms": 125052,
       "name": "Denarios",
       "url": "https://open.spotify.com/track/1vnQyjVsJYN4XoO31zXlj3"
+    },
+    {
+      "album": {
+        "name": "Derecho a So\u00f1ar",
+        "url": "https://open.spotify.com/album/2lH82GqtJGhc7t1495hYDT"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193537,
+      "name": "Derecho a So\u00f1ar",
+      "url": "https://open.spotify.com/track/6K3UvZfuS1FK2FZ6dAkta9"
     },
     {
       "album": {
@@ -5615,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "El Puzzle",
+        "url": "https://open.spotify.com/album/1M2F9mI7DLwCYK42t2N7gm"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Kandas",
+          "url": "https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "El Puzzle",
+      "url": "https://open.spotify.com/track/5uMsjTa5kreukphK9ba9pW"
+    },
+    {
+      "album": {
         "name": "EL RESPLANDOR | Bolt Sessions #11",
         "url": "https://open.spotify.com/album/3m8J5JZqAj50g4ILGMdD8A"
       },
@@ -5758,6 +5798,28 @@
       "duration_ms": 220137,
       "name": "El tiempo corre m\u00e1s que yo",
       "url": "https://open.spotify.com/track/6A4hstiExz4KsM6EQsqoyw"
+    },
+    {
+      "album": {
+        "name": "El T\u00e1ndem",
+        "url": "https://open.spotify.com/album/2xrkEVEUu7mGGedcHtYWQO"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167917,
+      "name": "El T\u00e1ndem",
+      "url": "https://open.spotify.com/track/1EMKDtfgPar0PNTfsi9gzv"
     },
     {
       "album": {
@@ -7705,6 +7767,28 @@
     },
     {
       "album": {
+        "name": "Hello Toto",
+        "url": "https://open.spotify.com/album/5Niwa7HW86JlKpafwR679n"
+      },
+      "artists": [
+        {
+          "name": "Poleg",
+          "url": "https://open.spotify.com/artist/1Ccxj1i9r9vfDkgu7vxJg6"
+        },
+        {
+          "name": "TeykBeats",
+          "url": "https://open.spotify.com/artist/1TzoFAtWa414QRNMZ9wL1z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Hello Toto",
+      "url": "https://open.spotify.com/track/0Mdt9yVAa5XBK09txclV3r"
+    },
+    {
+      "album": {
         "name": "Hidetoshi Nakata",
         "url": "https://open.spotify.com/album/7IBf9V9Xp2nxRlYYVXP8Fd"
       },
@@ -8526,6 +8610,36 @@
       "duration_ms": 202971,
       "name": "KILOMETROZERO",
       "url": "https://open.spotify.com/track/0OYbYJLgZoeRMhMPqjT4ka"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/3f9lVgaPFXNBZrcGcxjdST"
+      },
+      "artists": [
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        },
+        {
+          "name": "Jerv.AGZ",
+          "url": "https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208249,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/1k9FsBH9dmfuTmWHEOl7Ew"
     },
     {
       "album": {
@@ -9496,7 +9610,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204000,
       "name": "LAS NI\u00d1AS DEL RUIDO",
       "url": "https://open.spotify.com/track/1vKjb2nPQnFUIjn3wki7GK"
@@ -9514,7 +9628,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 225626,
       "name": "League Pass",
       "url": "https://open.spotify.com/track/0jy8VxCxXArxxyVPrAZjSt"
@@ -11383,6 +11497,28 @@
     },
     {
       "album": {
+        "name": "Milko Freestyle",
+        "url": "https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127326,
+      "name": "Milko Freestyle",
+      "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
+    },
+    {
+      "album": {
         "name": "Mirar a la cara",
         "url": "https://open.spotify.com/album/4n6REehVyybXIG1R0LOOs7"
       },
@@ -13081,6 +13217,24 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2BnjILA4pfPuQB4NOdWADt"
+      },
+      "artists": [
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156339,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3K7ZJ5jdm6zcojuNgaKPYZ"
+    },
+    {
+      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/3XfjL6bgu6mwve4QRdKlVr"
       },
@@ -13254,7 +13408,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174050,
       "name": "Ottn Sessions Vol.4",
       "url": "https://open.spotify.com/track/4G6Ejbvk0nlR8qQYoXKUER"
@@ -14136,6 +14290,24 @@
       "duration_ms": 191460,
       "name": "POR SI TE VAS",
       "url": "https://open.spotify.com/track/06cZ8KTzq9w3p0pUgTmOYF"
+    },
+    {
+      "album": {
+        "name": "EN LA CASA",
+        "url": "https://open.spotify.com/album/5fH8y0STyDgV1mUq4NA3iO"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "POSESION",
+      "url": "https://open.spotify.com/track/4AgHq4QReshvu40iMKnkeD"
     },
     {
       "album": {
@@ -15368,7 +15540,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 156785,
       "name": "Rulos Con Tu Foto",
       "url": "https://open.spotify.com/track/1v6n6fDxeT0zRLhf3tY9dG"
@@ -17776,7 +17948,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155757,
       "name": "Truly Yours",
       "url": "https://open.spotify.com/track/6WXFnjCjEldV9ZCfQC8SlP"

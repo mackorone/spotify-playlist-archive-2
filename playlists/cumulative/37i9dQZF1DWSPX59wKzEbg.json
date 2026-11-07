@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/59Tyapxv4VwDqh8NBJJAJC"
+      },
+      "artists": [
+        {
+          "name": "Katherine Jenkins",
+          "url": "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185297,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/5TVdNsYo8THVmvr8GU0m3K"
+    },
+    {
+      "album": {
         "name": "Home for Christmas",
         "url": "https://open.spotify.com/album/0ubtrZL0H4L1kHOnq8ba3G"
       },

@@ -3251,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/3nwEwmA4jrGVKeMk9WWnB0"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229484,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
+    },
+    {
+      "album": {
         "name": "Fire on the Water / Drift",
         "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
       },
@@ -6741,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "R\u00f3is\u00edn",
+        "url": "https://open.spotify.com/album/62vi9DCEeLUe128est6dDQ"
+      },
+      "artists": [
+        {
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "Loom",
+      "url": "https://open.spotify.com/track/0nilmQ9FpdpKSHRxSYtgg9"
+    },
+    {
+      "album": {
         "name": "Loso Na Madesu",
         "url": "https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx"
       },
@@ -8982,6 +9018,28 @@
       "duration_ms": 160986,
       "name": "RISE",
       "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
+    },
+    {
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Cleo Simone",
+          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Rising Up",
+      "url": "https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"
     },
     {
       "album": {

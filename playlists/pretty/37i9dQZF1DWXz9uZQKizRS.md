@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: shama
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,529 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,547 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 25 | [wyjdę na ludzi](https://open.spotify.com/track/2iGAY8qSa5F9RwW6uz8XJr) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [wyjdę na ludzi](https://open.spotify.com/album/3zLh1HgT5FZdievjhRy9ey) | 3:11 |
 | 26 | [Jak Ci jest?](https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Jak Ci jest?](https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt) | 6:35 |
 | 27 | [Fajnie, że byłeś](https://open.spotify.com/track/6lkIz9kroDafn1HUMZI3wH) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Młody Budda](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c), [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC) | [Fajnie, że byłeś](https://open.spotify.com/album/6y519ujN2kYfZvco4dfYxF) | 3:50 |
-| 28 | [Powidok](https://open.spotify.com/track/1UOElHaDoSaLNfcoR2mfyy) | [Karolina Skrzyńska](https://open.spotify.com/artist/6IyjNQzpPXWEUU8zmqBNRC), [Jacek Sienkiewicz](https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu) | [Powidok](https://open.spotify.com/album/1I5QjmrVn4l3nHIy1pHsTg) | 3:28 |
+| 28 | [Powidok](https://open.spotify.com/track/1UOElHaDoSaLNfcoR2mfyy) | [Karolina Skrzyńska](https://open.spotify.com/artist/6IyjNQzpPXWEUU8zmqBNRC), [SIENKIEWICZ](https://open.spotify.com/artist/6fcsAWZGM9kW8wcGiPRWxY) | [Powidok](https://open.spotify.com/album/1I5QjmrVn4l3nHIy1pHsTg) | 3:28 |
 | 29 | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/track/2rvtG0aAmZoOChMWSzoEZy) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30) | 3:43 |
 | 30 | [tsunami](https://open.spotify.com/track/349FRybvknRPvvE9bcQJ0r) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [tsunami](https://open.spotify.com/album/7zx3ibXRHFbCGGS3UVRq1H) | 3:51 |
 | 31 | [nothing personal](https://open.spotify.com/track/3ynHxRetvlG0svYuz2WVbF) | [Loud Television](https://open.spotify.com/artist/1mMs9DS3duzLgRuy3YDzCF) | [nothing personal](https://open.spotify.com/album/5gbKA5THs4uw3fzXyWWVBf) | 2:33 |

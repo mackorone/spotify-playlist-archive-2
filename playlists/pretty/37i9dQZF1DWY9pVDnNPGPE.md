@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,246 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,245 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 27 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
 | 28 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
 | 29 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
-| 30 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 |
-| 31 | [Kids Return](https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [KOMOREBI](https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG) | 4:26 |
+| 30 | [Kids Return](https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [KOMOREBI](https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG) | 4:26 |
+| 31 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 |
 | 32 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 33 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
 | 34 | [ANYWHERE ANYTIME](https://open.spotify.com/track/67sYclP23NAkhQwYciJd16) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 2:36 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 43 | [Sunshine Coast](https://open.spotify.com/track/3F7aCMePBPszLTbvojA2U1) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Sunshine Coast](https://open.spotify.com/album/2jA6z1i2mNta9fB7NoRVf2) | 3:05 |
 | 44 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 45 | [seesaw](https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:21 |
-| 46 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
+| 46 | [Days Gone](https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Days Gone](https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7) | 3:42 |
 | 47 | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW) | 3:01 |
-| 48 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 |
-| 49 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
-| 50 | [Days Gone](https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Days Gone](https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7) | 3:42 |
+| 48 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
+| 49 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 |
+| 50 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
 
 Snapshot ID: `AAAAAMigI7QutxmH586G2QdnzsqBGxYP`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-12-31",
-  "description": "HITS 2026 \ud83d\udd25 All of today's top chart hits and hot new releases from around the world. Hit \u2661 to hear the biggest new songs first! Cover: Miley Cyrus",
+  "description": "HITS 2026 \ud83d\udd25 All of today's top chart hits and hot new releases from around the world. Hit \u2661 to hear the biggest new songs first! Cover: Ashe",
   "name": "HITS 2026 - Today's Top Songs",
   "tracks": [
     {
@@ -3090,6 +3090,28 @@
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "album": {
+        "name": "TOO SOON (feat. Babyface)",
+        "url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ"
     },
     {
       "album": {

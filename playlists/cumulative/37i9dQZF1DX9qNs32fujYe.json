@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 243000,
       "name": "Armada",
       "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
@@ -7346,7 +7346,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 196740,
       "name": "Full Disclosure",
       "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
@@ -16139,6 +16139,28 @@
     },
     {
       "album": {
+        "name": "Sadness Will Reign",
+        "url": "https://open.spotify.com/album/1SKwChtsQdSNkv88AW6F8c"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287268,
+      "name": "Sadness Will Reign",
+      "url": "https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj"
+    },
+    {
+      "album": {
         "name": "Sainted by the Storm",
         "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
       },
@@ -23040,6 +23062,24 @@
       "duration_ms": 275011,
       "name": "Would You Walk With Me Through Hell",
       "url": "https://open.spotify.com/track/7i1Z0H568DE25JZTGkCQeB"
+    },
+    {
+      "album": {
+        "name": "Wounds I've Made",
+        "url": "https://open.spotify.com/album/7mOLETfqFnra270N0Vzte0"
+      },
+      "artists": [
+        {
+          "name": "Burn Eternal",
+          "url": "https://open.spotify.com/artist/0H3ztvIwkQsfcwg6CqNsWF"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221192,
+      "name": "Wounds I've Made",
+      "url": "https://open.spotify.com/track/3QArCpwGziiqcEbZjDJFmU"
     },
     {
       "album": {

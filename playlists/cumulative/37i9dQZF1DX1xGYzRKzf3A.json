@@ -7623,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Se Me Olvid\u00f3 Olvidarte",
+      "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
+    },
+    {
+      "album": {
         "name": "Se Me Solt\u00f3 El Hocico",
         "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
@@ -8316,7 +8334,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 186600,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR"

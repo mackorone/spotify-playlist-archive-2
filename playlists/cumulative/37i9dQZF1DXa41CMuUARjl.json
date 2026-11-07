@@ -28850,8 +28850,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-06",
@@ -98475,6 +98475,24 @@
     },
     {
       "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/48aYsQoGBIjRorC5uQv0jc"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241826,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/665zMGwOaEwEm6ZoKYuBr4"
+    },
+    {
+      "album": {
         "name": "Brooklyn Ballers",
         "url": "https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9"
       },
@@ -116794,6 +116812,28 @@
       "duration_ms": 157209,
       "name": "Celestial Kiss",
       "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
+    },
+    {
+      "album": {
+        "name": "Cello Tears",
+        "url": "https://open.spotify.com/album/1rNOspncRdn1sW5XJUwGQ7"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Sascha Kid",
+          "url": "https://open.spotify.com/artist/5BZcoDT8Yhyy7O85spjdx5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cello Tears",
+      "url": "https://open.spotify.com/track/1QKZiCinTk7RyaE8DLjOIY"
     },
     {
       "album": {
@@ -138103,7 +138143,7 @@
     },
     {
       "album": {
-        "name": "Conjure Dreams (Adam Beyer & Bart Skils 2026 Rework)",
+        "name": "Conjure Dreams (Adam Beyer & Bart Skils Rework)",
         "url": "https://open.spotify.com/album/0EdFULSofXpXSpka8XMZRa"
       },
       "artists": [
@@ -138124,7 +138164,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231225,
-      "name": "Conjure Dreams - Adam Beyer & Bart Skils 2026 Rework",
+      "name": "Conjure Dreams - Adam Beyer & Bart Skils Rework",
       "url": "https://open.spotify.com/track/3kV5WoRkjlEBcNhYrwfI49"
     },
     {
@@ -160524,6 +160564,24 @@
       "duration_ms": 172153,
       "name": "Deep House Pumpin'",
       "url": "https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p"
+    },
+    {
+      "album": {
+        "name": "Deep In My Soul",
+        "url": "https://open.spotify.com/album/1uJhG1ElrTyayfdykrRzvW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175612,
+      "name": "Deep In My Soul",
+      "url": "https://open.spotify.com/track/5658wvpzVBWvINv0C2qaMd"
     },
     {
       "album": {
@@ -209318,8 +209376,8 @@
           "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         },
         {
-          "name": "Oc\u00e1tvio Cabuata",
-          "url": "https://open.spotify.com/artist/21dZ2negaw5kiWvlS662Fm"
+          "name": "Oct\u00e1vio Cabuata",
+          "url": "https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ"
         }
       ],
       "date_added": "2026-11-06",
@@ -248864,6 +248922,28 @@
       "duration_ms": 279435,
       "name": "Forget Your Name",
       "url": "https://open.spotify.com/track/60I0dA7p4sWt2Ha4X6ZmZs"
+    },
+    {
+      "album": {
+        "name": "Forget Your Name",
+        "url": "https://open.spotify.com/album/6JLsJAAlF3kdAMwqkCpqxj"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Forget Your Name",
+      "url": "https://open.spotify.com/track/0fQsJwl7nuBdAzfTzlPfgF"
     },
     {
       "album": {
@@ -304602,6 +304682,24 @@
       "duration_ms": 170650,
       "name": "Hey Cookie",
       "url": "https://open.spotify.com/track/2TIRimntYOpeyYYEpmST6o"
+    },
+    {
+      "album": {
+        "name": "Hey DJ EP",
+        "url": "https://open.spotify.com/album/0SshU3fe21b28iS4eRoH28"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/136y5DU5elZFuWCfNtTtoF"
     },
     {
       "album": {
@@ -490161,6 +490259,24 @@
     },
     {
       "album": {
+        "name": "No Brakes / Miss Booty",
+        "url": "https://open.spotify.com/album/3hxmXGU9n5G0uIhgYjHKrX"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/6w9I4oUcBUtkqCbiCUEEvh"
+    },
+    {
+      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -514974,6 +515090,32 @@
       "duration_ms": 155097,
       "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
       "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
+    },
+    {
+      "album": {
+        "name": "One Last Time (Rustie Remix)",
+        "url": "https://open.spotify.com/album/7AOUsNv9SgpI0yN69LzZVp"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "Rustie",
+          "url": "https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "One Last Time - Rustie Remix",
+      "url": "https://open.spotify.com/track/6jzHOxJnuH9wfikkqJfffl"
     },
     {
       "album": {
@@ -588767,6 +588909,28 @@
     },
     {
       "album": {
+        "name": "Slow My Routine",
+        "url": "https://open.spotify.com/album/2o2hyc5nyWeDQ0ZeC3Trhv"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Humans Musik",
+          "url": "https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/31NBGPDufUSdD26fuQoNK7"
+    },
+    {
+      "album": {
         "name": "Rowdy (BLAOW!)",
         "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
@@ -630248,13 +630412,17 @@
         {
           "name": "MK",
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
         }
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137015,
-      "name": "Slip & Slide",
+      "name": "Slip & Slide (feat. Amira Eldine)",
       "url": "https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei"
     },
     {
@@ -631236,6 +631404,32 @@
       "duration_ms": 168000,
       "name": "SLOWLY",
       "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
+    },
+    {
+      "album": {
+        "name": "Sludge",
+        "url": "https://open.spotify.com/album/5sdPji7hCiUs2QIKGxJbon"
+      },
+      "artists": [
+        {
+          "name": "Shades",
+          "url": "https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        },
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174006,
+      "name": "Sludge",
+      "url": "https://open.spotify.com/track/1W3ccAbkj7tyiOm7v2wO0z"
     },
     {
       "album": {
@@ -634197,7 +634391,7 @@
     },
     {
       "album": {
-        "name": "So Fly",
+        "name": "So Fly (feat. Riton)",
         "url": "https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A"
       },
       "artists": [
@@ -634218,7 +634412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 126412,
-      "name": "So Fly",
+      "name": "So Fly (feat. Riton)",
       "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {
@@ -791914,6 +792108,28 @@
       "duration_ms": 180581,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/0MkgKIH4HjPzHE83djey6b"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/2rDsy8ypyYB0nfCXElFLN8"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        },
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282631,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/2SbEiaesedUuK1OXh71IPh"
     },
     {
       "album": {

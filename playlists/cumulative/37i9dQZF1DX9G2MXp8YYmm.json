@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140107,
       "name": "G\u00f6zlerin Mi K\u00f6r",
       "url": "https://open.spotify.com/track/1V2arQmSShZEVzUUJ9Dadb"
@@ -13642,7 +13642,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 153796,
       "name": "YEN\u0130 B\u0130R\u0130",
       "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r"
@@ -14134,6 +14134,24 @@
       "duration_ms": 194351,
       "name": "Y\u0131k\u0131lmay\u0131z \u00d6yle",
       "url": "https://open.spotify.com/track/7JaJ9XbLEaCGvFsY4cxkAJ"
+    },
+    {
+      "album": {
+        "name": "Y\u0131llar",
+        "url": "https://open.spotify.com/album/5p4iLj5RFr2tQvVwzJTYH1"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235776,
+      "name": "Y\u0131llar",
+      "url": "https://open.spotify.com/track/2FOj3FBJPso65jXSZe0q9o"
     },
     {
       "album": {
@@ -15000,6 +15018,28 @@
       "duration_ms": 194926,
       "name": "\u015eerbetli",
       "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
+    },
+    {
+      "album": {
+        "name": "\u015eikayetim Var",
+        "url": "https://open.spotify.com/album/3jIfiKKxGNdtCv8ZDsdEey"
+      },
+      "artists": [
+        {
+          "name": "Demet Sa\u011f\u0131ro\u011flu",
+          "url": "https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY"
+        },
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "\u015eikayetim Var",
+      "url": "https://open.spotify.com/track/7onYzrrFm0IKK8XueTNDxH"
     },
     {
       "album": {

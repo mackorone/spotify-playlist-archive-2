@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Skepta, Lil Baby, GloRilla and more!
 
-11,409 songs - 21 day 18 hr 51 min
+11,411 songs - 21 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10607,6 +10607,7 @@
 | [Vibez](https://open.spotify.com/track/6sWRLvnrpxyaDIe1VMC2h5) | [DudeyLo](https://open.spotify.com/artist/3r0lVXtDMMDTlni1TCYNlm) | [Vibez](https://open.spotify.com/album/19oDsp0N8OVPAUgNFxN10g) | 2:11 | 2024-07-27 | 2024-08-03 |
 | [Vibrant](https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vibrant](https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1) | 2:03 | 2023-07-07 | 2023-07-15 |
 | [VICE CITY](https://open.spotify.com/track/0AUoWq5xvZL6vW7u4dZmJO) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:18 | 2025-08-01 | 2025-08-10 |
+| [Vice City](https://open.spotify.com/track/1ZTgQAG1mCj1EOzO3OiG5O) | [Lil Twist](https://open.spotify.com/artist/564gvOqSRcQoYAhaBpTiK2) | [Vice City](https://open.spotify.com/album/4p7oYlOyCUpbAtl6ECT7PG) | 2:27 | 2026-11-06 |  |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-28 | 2022-02-12 |
 | [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-15 | 2024-03-30 |
 | [VICODIN](https://open.spotify.com/track/1k6NRe4Vh0vjcEJiVARB4Q) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [VICODIN](https://open.spotify.com/album/7qtu6qTqRj3ONaP7eaPtPN) | 2:19 | 2024-11-22 | 2024-12-07 |
@@ -11241,6 +11242,7 @@
 | [Ya Don't Stop](https://open.spotify.com/track/1QNsSHamC2FQuoxhjdnZuv) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ya Don't Stop](https://open.spotify.com/album/3jIziF4JDNKvyAcZjIM1CR) | 3:04 | 2024-07-27 | 2024-08-03 |
 | [Ya Feel Me](https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Ya Feel Me](https://open.spotify.com/album/0qlOJtCUJ7rJKjbxjIzlLI) | 3:44 | 2025-07-04 | 2025-07-12 |
 | [Ya Get Dat](https://open.spotify.com/track/3rEL8kOlF1Ppxn8QoK6HOk) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Ya Get Dat](https://open.spotify.com/album/3gc5hhDCc1sl7BCGGUpSwx) | 2:10 | 2025-02-28 | 2025-03-08 |
+| [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 | 2026-11-06 |  |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-09-16 | 2022-09-24 |
 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-05-30 | 2025-06-07 |
 | [Yacht Master](https://open.spotify.com/track/4RJTYHKzXzbKh0qjlq7Lpf) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Yacht Master](https://open.spotify.com/album/6ZwOCnCmnpbuDuySDiXx81) | 2:11 | 2024-03-29 | 2024-04-06 |

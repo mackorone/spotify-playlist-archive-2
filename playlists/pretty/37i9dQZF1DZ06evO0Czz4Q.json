@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 141105,
+  "num_followers": 141120,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADxgz/vBw7xD2hmYI8DIWUS",
+  "snapshot_id": "auvHAAAAAADonvQdaCwf4qi3Y+xkfbnM",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         },
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 322226,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
+      "duration_ms": 257800,
+      "name": "Can't Let You Go (The Sha La Song)",
+      "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
     },
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Can't Let You Go (The Sha La Song)",
-      "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
+      "duration_ms": 322226,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 328119,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Power Of Love",
         "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 275119,
       "name": "Don't Want to Be a Fool",
       "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 328119,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
     },
     {
       "added_at": null,

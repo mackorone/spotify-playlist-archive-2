@@ -12001,6 +12001,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225468,
+      "name": "Lovebird",
+      "url": "https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6"
+    },
+    {
+      "album": {
         "name": "Loved Ones",
         "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
       },
@@ -20048,24 +20066,6 @@
       "duration_ms": 115654,
       "name": "Toy",
       "url": "https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K"
-    },
-    {
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6"
     },
     {
       "album": {

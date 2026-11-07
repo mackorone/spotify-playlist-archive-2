@@ -125513,6 +125513,24 @@
     },
     {
       "album": {
+        "name": "Laissez-Moi",
+        "url": "https://open.spotify.com/album/4gUcq4LNuJLHdSNnax3Iah"
+      },
+      "artists": [
+        {
+          "name": "Emma Kok",
+          "url": "https://open.spotify.com/artist/2a6virBXLHNoX9f4cD7WzL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185446,
+      "name": "Laissez-Moi",
+      "url": "https://open.spotify.com/track/4aZG7j9Gvd8D7aeiWy7avv"
+    },
+    {
+      "album": {
         "name": "LaLaLa (Everybody's Up) [HEDEGAARD Edit]",
         "url": "https://open.spotify.com/album/428yRGYOE7yM4l7jBsZVwN"
       },
@@ -187843,6 +187861,24 @@
     },
     {
       "album": {
+        "name": "9mm + B-sider",
+        "url": "https://open.spotify.com/album/5dsceFDqt0Wgf8CBtQJeRh"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125880,
+      "name": "Selvtillidssang Nr#1 - Charno Demo",
+      "url": "https://open.spotify.com/track/6vOXQ6YJg8HZK3nViToSjz"
+    },
+    {
+      "album": {
         "name": "sen nat igen",
         "url": "https://open.spotify.com/album/4PH7JTBLeP9Ms46Bw8xMGz"
       },
@@ -197681,6 +197717,24 @@
     },
     {
       "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
+    },
+    {
+      "album": {
         "name": "SOMEONE TO YOU",
         "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
       },
@@ -207346,6 +207400,24 @@
       "duration_ms": 185049,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/41btjQ77h0tsWNohA5M7lp"
+    },
+    {
+      "album": {
+        "name": "Everything once",
+        "url": "https://open.spotify.com/album/77j6aJcuxgdxohiV1b2gDU"
+      },
+      "artists": [
+        {
+          "name": "Tigeroak",
+          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186155,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/3HYStRor1g78cGa98YqMVK"
     },
     {
       "album": {
@@ -224426,42 +224498,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Wild Love",
-        "url": "https://open.spotify.com/album/2t2kNA7bPj0AtHC8ZjizKu"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
-    },
-    {
-      "album": {
-        "name": "Everything once",
-        "url": "https://open.spotify.com/album/77j6aJcuxgdxohiV1b2gDU"
-      },
-      "artists": [
-        {
-          "name": "Tigeroak",
-          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3HYStRor1g78cGa98YqMVK"
     },
     {
       "album": {
@@ -243210,6 +243246,24 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/2t2kNA7bPj0AtHC8ZjizKu"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
     },
     {
       "album": {

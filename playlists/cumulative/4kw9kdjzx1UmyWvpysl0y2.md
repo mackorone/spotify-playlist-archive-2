@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,333 songs - 3 day 1 hr 51 min
+1,334 songs - 3 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 | 2023-12-14 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [Avalon](https://open.spotify.com/track/2c02JeGzAP0p3CvCGcL9hN) | [DUALIS](https://open.spotify.com/artist/3mbXSrD5JfE4rJ5LO0qi2S), [Barzek](https://open.spotify.com/artist/7h1pW3dxGdsnX6sOKkRWkT), [Jethimself](https://open.spotify.com/artist/7LWHzPREhFBD9p6Wnigkli) | [Silk Selections 03](https://open.spotify.com/album/4qJ0fAlYJ9blLbhdkthxdA) | 2:56 | 2025-04-15 | 2025-07-09 |
+| [AVENUES](https://open.spotify.com/track/6MjhoglMGvyrMp7ddeudwU) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [DANCE DISRUPTOR](https://open.spotify.com/album/0oz0f2csE01RZJU4NfEB4J) | 3:57 | 2026-11-06 |  |
 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 | 2023-04-20 |
 | [AWAKENING](https://open.spotify.com/track/0H4IxZniI62EaDECyoyDP7) | [FLEYT5](https://open.spotify.com/artist/60M7uI70IASrB6hAs5d5pd) | [Monstercat Uncaged Selections 04](https://open.spotify.com/album/19C5jd3JcKNEYMl19z6y1S) | 2:53 | 2026-10-19 |  |
 | [Añoranza](https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Alex Hentze](https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ) | [Añoranza](https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG) | 3:00 | 2024-12-03 | 2025-03-12 |

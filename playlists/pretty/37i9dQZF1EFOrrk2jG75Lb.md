@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 22 | [Mudanza de Hormiga](https://open.spotify.com/track/5k380k6DE6SbYlYBKMRd9m) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 2:31 |
 | 23 | [Lo Que Una Chica Por Amor Es Capaz](https://open.spotify.com/track/6DNZig6OeXqhRuSrbYuFmZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:49 |
 | 24 | [Zona De Riesgo](https://open.spotify.com/track/7qUnkHwXtKmHzs1An72WQe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Zona De Riesgo](https://open.spotify.com/album/2Ptwz2pry0DZa60th54Yqh) | 3:33 |
-| 25 | [Él Se Equivocó](https://open.spotify.com/track/4z7QjhiABJOZdyk7v8G8eY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:36 |
-| 26 | [Un Abrazo](https://open.spotify.com/track/3Paij8HXrodBN9rcpNXv0v) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [EL VUELO](https://open.spotify.com/album/5iYTLEWInG89sJhOVZU4JV) | 4:02 |
+| 25 | [Un Abrazo](https://open.spotify.com/track/3Paij8HXrodBN9rcpNXv0v) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [EL VUELO](https://open.spotify.com/album/5iYTLEWInG89sJhOVZU4JV) | 4:02 |
+| 26 | [Él Se Equivocó](https://open.spotify.com/track/4z7QjhiABJOZdyk7v8G8eY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:36 |
 | 27 | [Rómpeme El Corazón](https://open.spotify.com/track/2dNjo3KBW38Yea8XygWPpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:30 |
 | 28 | [Medusa](https://open.spotify.com/track/2GT3FdRHXMVCPjAF2Dypf4) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Medusa](https://open.spotify.com/album/1iGmOJAUvN0ydktKmpHZUO) | 3:08 |
 | 29 | [Nos Volvimos Locos](https://open.spotify.com/track/5U44C9jqIDz5wdSUIOLnpA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 2:56 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 78 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/6BTchXeNy4WBxQtBVIVHvS) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/6bobdYIzkwIis5BCuWuQXr) | 3:02 |
 | 79 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/4s4VODJYEYCNXpbPjgVCbh) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/6bobdYIzkwIis5BCuWuQXr) | 3:36 |
 
-Snapshot ID: `Acg5NAAAAADKvyWXfAepwucGX1NK8lqj`
+Snapshot ID: `Acg+rAAAAABWkRMZZOxt6gPKhECbqwBQ`

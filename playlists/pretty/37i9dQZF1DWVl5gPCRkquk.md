@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,434 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,285 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 42 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
 | 43 | [Wait It Out](https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wait It Out](https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy) | 2:45 |
 | 44 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
-| 45 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 46 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
+| 45 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
+| 46 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 47 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 |
 | 48 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 49 | [all of me was you](https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [all of me was you](https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5) | 3:04 |
 | 50 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 51 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
-| 52 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 51 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 52 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 53 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 54 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 55 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 57 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
 | 58 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 |
 | 59 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
-| 60 | [No Place to Be](https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Fondness, Etc.](https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF) | 2:55 |
-| 61 | [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 |
-| 62 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 |
-| 63 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
+| 60 | [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 |
+| 61 | [No Place to Be](https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Fondness, Etc.](https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF) | 2:55 |
+| 62 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
+| 63 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 |
 | 64 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 65 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 66 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 96 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
 | 97 | [The Voyager](https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:30 |
 | 98 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
-| 99 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
-| 100 | [Shoulders](https://open.spotify.com/track/1RctSA81ibMw21gUPHjbVw) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Kenneth Pattengale](https://open.spotify.com/artist/2Ji2VzBsQ0OFEhnkjUCZpE) | [People ≠ Possessions](https://open.spotify.com/album/2okBs9PB0AraOnbKROJWlY) | 3:57 |
+| 99 | [Shoulders](https://open.spotify.com/track/1RctSA81ibMw21gUPHjbVw) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Kenneth Pattengale](https://open.spotify.com/artist/2Ji2VzBsQ0OFEhnkjUCZpE) | [People ≠ Possessions](https://open.spotify.com/album/2okBs9PB0AraOnbKROJWlY) | 3:57 |
+| 100 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
 
 Snapshot ID: `AAAAAK/QB3Rv+MxaJEGk+14gHK0d/T/4`

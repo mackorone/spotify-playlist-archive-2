@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Chenda",
+        "url": "https://open.spotify.com/album/6xrK3IMRewH1uArfEWLnz1"
+      },
+      "artists": [
+        {
+          "name": "RITUAL",
+          "url": "https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Chenda",
+      "url": "https://open.spotify.com/track/76LKvBAI6OhdHKWhZHFDvd"
+    },
+    {
+      "album": {
         "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
       },
@@ -1512,6 +1530,36 @@
       "duration_ms": 257545,
       "name": "Chennai City Gangsta",
       "url": "https://open.spotify.com/track/7mIlbe9TP4eqC1oGIYC8Jh"
+    },
+    {
+      "album": {
+        "name": "Thee Kural - Episode 1",
+        "url": "https://open.spotify.com/album/5h4Mw6UnG5V8QGXCDsbbxJ"
+      },
+      "artists": [
+        {
+          "name": "VARUN",
+          "url": "https://open.spotify.com/artist/3H5FfBp0uCW8rpn5nhmVqd"
+        },
+        {
+          "name": "Madrass Miran",
+          "url": "https://open.spotify.com/artist/70ccssXPVH9XMFf4zbFei7"
+        },
+        {
+          "name": "LRC",
+          "url": "https://open.spotify.com/artist/7C3OfTTSFpdxUDKiv62Lcp"
+        },
+        {
+          "name": "Faraaz_49",
+          "url": "https://open.spotify.com/artist/1AxCDFnvtzA6nQQTOe7cPU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Chennai Paiyan - From \"Thee Kural - Episode 1\"",
+      "url": "https://open.spotify.com/track/6V3ZQCFe3EYBdFqKBp1PLt"
     },
     {
       "album": {
@@ -3946,6 +3994,28 @@
       "duration_ms": 121390,
       "name": "Lady Superstar (from the Netflix Documentary \u201cNayanthara: Beyond the Fairy Tale\")",
       "url": "https://open.spotify.com/track/4KDNHea3R68RjE6AiF8P6P"
+    },
+    {
+      "album": {
+        "name": "Thee Kural - Episode 1",
+        "url": "https://open.spotify.com/album/5h4Mw6UnG5V8QGXCDsbbxJ"
+      },
+      "artists": [
+        {
+          "name": "Veena AE",
+          "url": "https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK"
+        },
+        {
+          "name": "Ashlay JC",
+          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Langai Ooru Ponnu - From \"Thee Kural - Episode 1\"",
+      "url": "https://open.spotify.com/track/6NQkQIYRBzRkSNXaeReA62"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 756,
+  "num_followers": 757,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACctQdh2RMss5Rah6yfUVCX",
+  "snapshot_id": "auvHAAAAAADDhoWEpCEOtIvhGWdRMNsf",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "f**k it i'll do it myself",
-        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
+        "name": "24K",
+        "url": "https://open.spotify.com/album/0cEVabnk0wQt29o2Rgfxvd"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 168602,
-      "name": "emergency",
-      "url": "https://open.spotify.com/track/2kt4lHZMN1BTHl3rSKltRw"
+      "duration_ms": 245806,
+      "name": "24K",
+      "url": "https://open.spotify.com/track/2MT7TZ16O6d4lR3VsUpOBB"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24K",
-        "url": "https://open.spotify.com/album/0cEVabnk0wQt29o2Rgfxvd"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 245806,
-      "name": "24K",
-      "url": "https://open.spotify.com/track/2MT7TZ16O6d4lR3VsUpOBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "f**k it i'll do it myself",
         "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
       },
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 221333,
-      "name": "girl no more",
-      "url": "https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb"
+      "duration_ms": 168602,
+      "name": "emergency",
+      "url": "https://open.spotify.com/track/2kt4lHZMN1BTHl3rSKltRw"
     },
     {
       "added_at": null,
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 184204,
-      "name": "hate LA",
-      "url": "https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4"
+      "duration_ms": 221333,
+      "name": "girl no more",
+      "url": "https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb"
     },
     {
       "added_at": null,
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 204708,
-      "name": "2019",
-      "url": "https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw"
+      "duration_ms": 184204,
+      "name": "hate LA",
+      "url": "https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 216750,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "f**k it i'll do it myself",
+        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw"
     },
     {
       "added_at": null,

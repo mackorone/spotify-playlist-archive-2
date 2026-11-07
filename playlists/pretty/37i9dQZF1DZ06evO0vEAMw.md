@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,342 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,364 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 23 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 |
 | 24 | [Ride For You](https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Deal With It](https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS) | 3:37 |
 | 25 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
-| 26 | [Galorizzy](https://open.spotify.com/track/3wmz5VjvJRTolge228JHYe) | [Ecool](https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Iphxne Dj](https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Galorizzy](https://open.spotify.com/album/4TBzgF3ahYn5haqaa4MPKF) | 4:13 |
-| 27 | [Fall](https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fall](https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs) | 4:00 |
+| 26 | [Fall](https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fall](https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs) | 4:00 |
+| 27 | [Galorizzy](https://open.spotify.com/track/3wmz5VjvJRTolge228JHYe) | [Ecool](https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Iphxne Dj](https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Galorizzy](https://open.spotify.com/album/4TBzgF3ahYn5haqaa4MPKF) | 4:13 |
 | 28 | [Aye](https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s) | 3:55 |
 | 29 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
 | 30 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Hip Hop Messiah](https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:19 |
 | 50 | [One Ticket](https://open.spotify.com/track/7aVdBfyW1BPgezEFChrPyY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/5hfh67t1O4R2BykWhDE7HW) | 3:28 |
 
-Snapshot ID: `aukkAAAAAABEPxTUFe3rIfRCRDhhs9DI`
+Snapshot ID: `aup1gAAAAABd2hSRO3SIn6uNL8KXyWhf`

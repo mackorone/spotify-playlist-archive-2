@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,270 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,273 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 19 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RYUHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 | 20 | [Girl, Interrupted](https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life](https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3) | 3:00 |
 | 21 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
-| 22 | [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 |
-| 23 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
+| 22 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
+| 23 | [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 |
 | 24 | [sWing](https://open.spotify.com/track/0rxdQrVLojZ9xR88Q8E28v) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Breathe 4](https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU) | 2:36 |
-| 25 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
-| 26 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
+| 25 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
+| 26 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
 | 27 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 28 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
 | 29 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |

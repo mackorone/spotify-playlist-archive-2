@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,127 songs - 2 day 12 hr 0 min
+1,127 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 | 2025-11-07 |  |
 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 | 2024-05-09 | 2025-08-13 |
 | [Love You for the Summer \- Kohen Remix](https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Love You for the Summer \(Kohen Remix\)](https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz) | 2:38 | 2025-02-07 | 2026-07-25 |
+| [Lovebird](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 3:45 | 2026-11-05 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 | 2024-01-06 |
 | [loveday](https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5) | [JHN](https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk), [a friend of mine](https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8) | [loveday](https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X) | 2:28 | 2023-06-15 | 2024-01-06 |
 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 | 2026-06-11 |  |
@@ -989,7 +990,6 @@
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
 | [Toy](https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K) | [ilysm](https://open.spotify.com/artist/0pRVWdcqtwZ1QI1Tlw3Ehq) | [Toy](https://open.spotify.com/album/4RWuhq0MXjCZeJvJVnFfno) | 1:55 | 2026-04-30 |  |
-| [Track 7](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 0:00 | 2026-11-05 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 | 2026-08-28 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |

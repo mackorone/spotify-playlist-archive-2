@@ -2109,6 +2109,28 @@
     },
     {
       "album": {
+        "name": "Death Of Me",
+        "url": "https://open.spotify.com/album/4wobIvQ0xVLYL1m2Xxp5vT"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        },
+        {
+          "name": "Ben Johnson",
+          "url": "https://open.spotify.com/artist/44jxp31HvTqIB0Bv3tHOEm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199828,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0NTi0CxSSwIwvgfzBNzbIx"
+    },
+    {
+      "album": {
         "name": "If You Go There, I Hope You Find It",
         "url": "https://open.spotify.com/album/7vULyg3RtEXYxsOulFZQ41"
       },
@@ -2742,6 +2764,28 @@
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/5XhaIFhtZeqcExorrYSVDM"
+    },
+    {
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
     },
     {
       "album": {
@@ -7670,6 +7714,24 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/7g4JvjIMwC4gi6gBPKOqnz"
+    },
+    {
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI"
     },
     {
       "album": {

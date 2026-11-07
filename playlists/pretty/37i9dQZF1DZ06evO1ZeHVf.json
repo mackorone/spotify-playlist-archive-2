@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 59010,
+  "num_followers": 59028,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACm7mpe0YcxEyZaQ2UsSsDA",
+  "snapshot_id": "auvHAAAAAAC1/MJsI/xY4oCtFgmSbkwt",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+        "name": "Celebrating Fisk! (The 150th Anniversary Album)",
+        "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
       },
       "artists": [
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 332973,
-      "name": "Alabaster Box",
-      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+      "duration_ms": 220923,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrating Fisk! (The 150th Anniversary Album)",
-        "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
       "artists": [
-        {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
-        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 220923,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
+      "duration_ms": 332973,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 212053,
       "name": "Just To Be Close To You - Live",
       "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 51466,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hymns",
-        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/1HhMmo7BiHudre8MRAUn4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This (Deluxe Edition)",
         "url": "https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 362984,
       "name": "We Pray",
       "url": "https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hymns",
+        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/1HhMmo7BiHudre8MRAUn4w"
     }
   ],
   "unique_name": "This Is CeCe Winans",

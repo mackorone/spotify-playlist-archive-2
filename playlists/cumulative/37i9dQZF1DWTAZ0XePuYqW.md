@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> B2K's got that big energy.
+> DijahSB's got that big energy.
 
-707 songs - 1 day 11 hr 24 min
+708 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV) | 2:46 | 2025-12-13 | 2026-04-04 |
 | [Don't Need Him](https://open.spotify.com/track/4kwedianT9A4FOCTBRZEmJ) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Don't Need Him](https://open.spotify.com/album/4TcMHQXoMshvClT6kz0aIw) | 2:34 | 2026-03-06 | 2026-08-01 |
 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 | 2023-08-18 | 2023-09-09 |
-| [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 | 2026-08-07 |  |
+| [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 | 2026-08-07 | 2026-11-07 |
 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 | 2026-02-27 | 2026-04-25 |
 | [Double Up \- Miami Bass Remix](https://open.spotify.com/track/7Es1fXTYr762iYXfA9htV3) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn), [Tamir](https://open.spotify.com/artist/6IiMfiwSN3v4x3lVuxC6kH), [Ya Fave Auntie](https://open.spotify.com/artist/6Th4yYUjKaQMLagVs4BYi9) | [Double Up \(Miami Bass Remix\)](https://open.spotify.com/album/2T9TdmiRggwtlAs70cYztZ) | 3:13 | 2026-09-25 |  |
 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2023-08-18 | 2023-09-30 |
@@ -691,6 +691,7 @@
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 | 2023-11-18 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-08-18 | 2023-12-09 |
 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 | 2023-08-18 | 2024-03-30 |
+| [Why Die When You Can Dance?](https://open.spotify.com/track/0dpFFVul4ABmvEYR0hdWfJ) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Why Die When You Can Dance?](https://open.spotify.com/album/2JGDUWYtSqJ7LISND4Eedh) | 2:12 | 2026-11-06 |  |
 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 | 2023-08-18 | 2024-03-16 |
 | [Wifey Riddim](https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 2:28 | 2025-02-28 | 2025-10-05 |
 | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/album/0CEB3BMVJolbpLymxvXWDE) | 1:13 | 2024-02-02 | 2024-05-25 |

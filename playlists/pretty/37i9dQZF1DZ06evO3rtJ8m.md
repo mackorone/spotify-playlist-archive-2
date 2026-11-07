@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,621 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,626 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 32 | [Humans](https://open.spotify.com/track/20g9uu9hwEaBHFqZ68TN6j) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:23 |
 | 33 | [Pretty Things](https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:04 |
 | 34 | [Orange](https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:30 |
-| 35 | [Wolf](https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 4:42 |
+| 35 | [Two Hands](https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:52 |
 | 36 | [Breathe in My Lungs](https://open.spotify.com/track/6sSlJJp9lHRL1tPY1QEUmB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Mythological Beauty](https://open.spotify.com/album/407CZIQW4o1sEzxA4NFoph) | 2:52 |
 | 37 | [I Was Young When I Left Home \(feat\. Big Thief\)](https://open.spotify.com/track/63KU6CDZK4fzBQhSEFymBn) | [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Decoration Day, Vol\. 4](https://open.spotify.com/album/67uMXsEywNemsQDRbZV35D) | 4:24 |
 | 38 | [Open Desert](https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:47 |
-| 39 | [Two Hands](https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:52 |
+| 39 | [Wolf](https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 4:42 |
 | 40 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 |
 | 41 | [Burial At Sea](https://open.spotify.com/track/2iQULAYjrePvMQCZJ0OYAh) | [Tucker Zimmerman](https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Iji](https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35), [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Dance Of Love](https://open.spotify.com/album/1aA7OojB1z3TCyTWb65v2h) | 4:01 |
 | 42 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
 | 43 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 
-Snapshot ID: `aukkAAAAAACuYDOLrYXa4oi15xJyLKZG`
+Snapshot ID: `auvHAAAAAADg9tYjgfcf/I9f7xIzLtok`

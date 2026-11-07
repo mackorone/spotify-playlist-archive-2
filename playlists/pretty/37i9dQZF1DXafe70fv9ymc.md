@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,706 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,707 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 50 | [Get It \(Oou Wee\)](https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS) | [Nunu Eluma](https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Get It \(Oou Wee\)](https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7) | 2:38 |
 | 51 | [Taste](https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Taste](https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse) | 2:51 |
 | 52 | [JAMAICA](https://open.spotify.com/track/2UAdeWcMoPLszpvEJ5zmQp) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz), [LOGDRM](https://open.spotify.com/artist/1rdVk0Sj2xpk5dp1hT0FAw) | [JAMAICA](https://open.spotify.com/album/0ZLVzr7WqhClTBJfvKJgVk) | 2:17 |
-| 53 | [MENU](https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [MENU](https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt) | 2:39 |
+| 53 | [MENU](https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [MENU](https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt) | 2:39 |
 | 54 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 55 | [WEATHER FOR 2](https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [WEATHER FOR 2](https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX) | 2:55 |
 | 56 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |

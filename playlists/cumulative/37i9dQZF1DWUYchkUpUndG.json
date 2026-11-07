@@ -38697,6 +38697,28 @@
     },
     {
       "album": {
+        "name": "Ejiro",
+        "url": "https://open.spotify.com/album/6QYlFl46ZFtyp9FBLXNyt4"
+      },
+      "artists": [
+        {
+          "name": "TomPraiz",
+          "url": "https://open.spotify.com/artist/76ez5TTc96Bu6cAv1SNJbt"
+        },
+        {
+          "name": "AGBoss",
+          "url": "https://open.spotify.com/artist/4vAC25npjEUBsmeM4bncJq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Ejiro",
+      "url": "https://open.spotify.com/track/6Wo39HvqNEm5z5vX9WPOjS"
+    },
+    {
+      "album": {
         "name": "eJordan",
         "url": "https://open.spotify.com/album/22kQ8BQShrU9NhhJnwZ65b"
       },
@@ -41746,6 +41768,24 @@
       "duration_ms": 166530,
       "name": "Ese",
       "url": "https://open.spotify.com/track/3GviTNz7hM27NobEaIIFHG"
+    },
+    {
+      "album": {
+        "name": "Everything: GOD",
+        "url": "https://open.spotify.com/album/3votSrkf7vPLbNE6iYZofn"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "Ese (Thank you)",
+      "url": "https://open.spotify.com/track/44SgttQ4VfOpNuOWZR9y54"
     },
     {
       "album": {
@@ -59346,6 +59386,24 @@
       "duration_ms": 358992,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6QLJX9p3Y76TkIyjHZH5bQ"
+    },
+    {
+      "album": {
+        "name": "Highly Favoured",
+        "url": "https://open.spotify.com/album/7g86ABeBB7MIBuNXKtWXqy"
+      },
+      "artists": [
+        {
+          "name": "Lilian Nneji",
+          "url": "https://open.spotify.com/artist/2Ay5bXW6SZOV8sOkqkfNpa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392437,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/0DVZEuscIw7Gqma9h5fXGt"
     },
     {
       "album": {
@@ -94823,6 +94881,24 @@
     },
     {
       "album": {
+        "name": "Leap Over",
+        "url": "https://open.spotify.com/album/06IAqHpT4Sr9vJaJb7Lql3"
+      },
+      "artists": [
+        {
+          "name": "Chris NLC",
+          "url": "https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140982,
+      "name": "Leap Over",
+      "url": "https://open.spotify.com/track/1mLZ41tM8zLRxT5Tiz7SOf"
+    },
+    {
+      "album": {
         "name": "Legodimong",
         "url": "https://open.spotify.com/album/1h9wX4hcgrNCPJB3lS3SIm"
       },
@@ -122320,6 +122396,24 @@
       "duration_ms": 225083,
       "name": "Nyame Ye",
       "url": "https://open.spotify.com/track/1Y60J6EsKRcJ19t46Hnomg"
+    },
+    {
+      "album": {
+        "name": "Ipasi (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZJQF9AldQ1TK2WqeDQUxx"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260049,
+      "name": "Nyana Ka Maria",
+      "url": "https://open.spotify.com/track/3dOITBtVd1MuoTvh8NNluh"
     },
     {
       "album": {
@@ -169059,60 +169153,6 @@
     },
     {
       "album": {
-        "name": "Everything: GOD",
-        "url": "https://open.spotify.com/album/3votSrkf7vPLbNE6iYZofn"
-      },
-      "artists": [
-        {
-          "name": "Amichael Genre",
-          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/44SgttQ4VfOpNuOWZR9y54"
-    },
-    {
-      "album": {
-        "name": "Ipasi (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZJQF9AldQ1TK2WqeDQUxx"
-      },
-      "artists": [
-        {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 15",
-      "url": "https://open.spotify.com/track/3dOITBtVd1MuoTvh8NNluh"
-    },
-    {
-      "album": {
-        "name": "Highly Favoured",
-        "url": "https://open.spotify.com/album/7g86ABeBB7MIBuNXKtWXqy"
-      },
-      "artists": [
-        {
-          "name": "Lilian Nneji",
-          "url": "https://open.spotify.com/artist/2Ay5bXW6SZOV8sOkqkfNpa"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0DVZEuscIw7Gqma9h5fXGt"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -189604,6 +189644,24 @@
       "duration_ms": 253074,
       "name": "You Guide My Way",
       "url": "https://open.spotify.com/track/7L1PZCCTKJiei5YvlDDxCV"
+    },
+    {
+      "album": {
+        "name": "You have done",
+        "url": "https://open.spotify.com/album/2A1Y2vDtks6xoPttn7WSAE"
+      },
+      "artists": [
+        {
+          "name": "Jonuelsongs",
+          "url": "https://open.spotify.com/artist/4BbRagnz6S9EIez9IrNKeM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232888,
+      "name": "You have done",
+      "url": "https://open.spotify.com/track/1oq2WaAy13frICeiAAQn4E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di MACE, Tony Boy, Rocco Hunt e Clementino, LILCR  e tanti altri.
 
-7,999 songs - 14 day 16 hr 6 min
+8,000 songs - 14 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4572,6 +4572,7 @@
 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 | 2022-11-18 | 2022-12-09 |
 | [MONEY](https://open.spotify.com/track/2W1pRQGgIT4FgXXLJhAz7o) | [Le garçon](https://open.spotify.com/artist/7bfaB3zJ12yoMnFMewFrnR) | [MONEY](https://open.spotify.com/album/0Vl8W5rXaMZVZP2gs0PPup) | 3:26 | 2024-06-13 | 2024-07-05 |
 | [MONEY](https://open.spotify.com/track/5mNhH18wtgW6dV1LQBJbhx) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [2ME](https://open.spotify.com/artist/09ZHP3tUhWrN4ipMp3owI2) | [MONEY](https://open.spotify.com/album/5J9ow5145rm2E7FsLyCjw8) | 3:15 | 2023-07-13 | 2023-07-28 |
+| [MONEY \(feat\. Artie 5ive\)](https://open.spotify.com/track/5J8Bk70gqe0eQryVXePyR9) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2AaIiX1EeyiFR8ayOtVOfZ) | 2:39 | 2026-11-06 |  |
 | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/album/79UlYn63NrMs1CEvyN1zQS) | 3:29 | 2025-11-07 | 2025-12-05 |
 | [Money Cash \(feat\. Diss Gacha\)](https://open.spotify.com/track/1VxGl8QDtW6MnRBW7bNoSR) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:26 | 2023-08-31 | 2023-09-29 |
 | [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 | 2025-09-04 | 2025-09-26 |

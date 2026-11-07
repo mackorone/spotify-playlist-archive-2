@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Cruel Santino, Skepta, Joeboy, L.A.X, Didi B, Lil Baby, Bruno Mars and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,608 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,167 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Girls](https://open.spotify.com/track/59DqgKpSKsyCc2VE8h1SvD) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Pretty Girls](https://open.spotify.com/album/6qzU45BjfmPKlGK0KH5nxW) | 2:16 |
 | 2 | [PARTY](https://open.spotify.com/track/7CpyeFIWBB4ym9A8jhsD5b) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [PARTY](https://open.spotify.com/album/2H5Lo5fKfJgenaMW2YVj6J) | 2:45 |
-| 3 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/album/3AMytGAfYyeuhPdR9iWRhb) | 2:51 |
+| 3 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/album/3AMytGAfYyeuhPdR9iWRhb) | 2:51 |
 | 4 | [Siesta \(feat\. Mavo\)](https://open.spotify.com/track/6jz3wcx4mpdL8pcKmOV4kn) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Siesta \(feat\. Mavo\)](https://open.spotify.com/album/3NzR0oTgMm3S56CvjyTHnq) | 2:08 |
 | 5 | [Bolonese](https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [The Only Lover Boy Left \(TOLBL\)](https://open.spotify.com/album/7fVMBx3ZTAZViAFSInMGJ0) | 2:44 |
 | 6 | [Ferawa](https://open.spotify.com/track/0N1DsTvTxWE6fjN1kjIOgh) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ferawa](https://open.spotify.com/album/1a53BwC3qZc8pVO2eb67tr) | 2:29 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [One Day](https://open.spotify.com/track/21vJx4niJNBeNKk6t7URi6) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [One Day](https://open.spotify.com/album/1Vfb2GTERiAb8mEGYBKyQu) | 2:38 |
 | 13 | [Mr\. Do Something](https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 2:50 |
 | 14 | [Aswaran](https://open.spotify.com/track/4H5BMDiCSfBhwoWCjfl905) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Aswaran](https://open.spotify.com/album/3m8nNQIuqcvXGT16IlG77x) | 2:47 |
-| 15 | [Oceans Milk](https://open.spotify.com/track/0KieROPmPlQ9PuUUZ7OACq) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Oceans Milk](https://open.spotify.com/album/4dkoRTqPZInF6fVDOd1InR) | 3:21 |
+| 15 | [Oceans Milk](https://open.spotify.com/track/0KieROPmPlQ9PuUUZ7OACq) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Kwamz Original](https://open.spotify.com/artist/5KT8pIex4OwXEk8kOIgncp) | [Oceans Milk](https://open.spotify.com/album/4dkoRTqPZInF6fVDOd1InR) | 3:21 |
 | 16 | [Pressure](https://open.spotify.com/track/4eBLc3qRDHnK2OXterlbvx) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Ends With Us](https://open.spotify.com/album/2kSeVhYIuk9LyzqLT4vWh3) | 3:08 |
 | 17 | [Get Up](https://open.spotify.com/track/2vnLytR69QdTF5RSdseuIZ) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Get Up](https://open.spotify.com/album/3hgsFi1fNogPGdarMHCfUO) | 1:57 |
 | 18 | [DISTANCE](https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [DISTANCE](https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK) | 2:12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Nsqk en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Cometa a la Deriva en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -960,6 +960,28 @@
       "duration_ms": 140117,
       "name": "Amygdalae",
       "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/7syhEkU9b1sBnV10W5v1QG"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        },
+        {
+          "name": "6 Voltios",
+          "url": "https://open.spotify.com/artist/5HXds5wEHbMgZtKW6RIcpw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168614,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4ZsALpRTSwFAJFoP57PNZ2"
     },
     {
       "album": {
@@ -2162,7 +2184,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 222713,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3oOcd8RxAMAvd4rntXZCil"
@@ -3056,7 +3078,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 282755,
       "name": "Como Un Demonio En Una Nube",
       "url": "https://open.spotify.com/track/0Jdwf1lgADTILn7Dh4aneo"
@@ -5002,6 +5024,24 @@
       "duration_ms": 242000,
       "name": "EL ELIXIR DE TUS LABIOS",
       "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo Como Estaba",
+        "url": "https://open.spotify.com/album/5DdqS1tEM2HzExhj0fXK1G"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214537,
+      "name": "El Endemoniao",
+      "url": "https://open.spotify.com/track/1twdMR3zD8CKvaD5HK2KxO"
     },
     {
       "album": {
@@ -8150,7 +8190,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
@@ -8438,7 +8478,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 209510,
       "name": "Ll\u00e9vame de Vuelta",
       "url": "https://open.spotify.com/track/41krgZ16YCbiDzz2WNpRv0"
@@ -11980,7 +12020,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191006,
       "name": "Para Ser Sincero",
       "url": "https://open.spotify.com/track/7nkXCLuL4d0tA1fl7rBO11"
@@ -12674,6 +12714,24 @@
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
+    },
+    {
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/2xeW2ufdvlIYTOVmykLmMo"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118634,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/23Us40sOQX8aj5qRVpiryf"
     },
     {
       "album": {
@@ -16435,6 +16493,24 @@
     },
     {
       "album": {
+        "name": "FORTUNA KID",
+        "url": "https://open.spotify.com/album/0LEUX7miHZjC68ocLiwbuI"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183586,
+      "name": "Vivir para siempre",
+      "url": "https://open.spotify.com/track/6Mi2Udl7eOQ1hg2l5YXqhF"
+    },
+    {
+      "album": {
         "name": "vivo del aire",
         "url": "https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035"
       },
@@ -16540,7 +16616,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 226859,
       "name": "Voy Hacia la Luz",
       "url": "https://open.spotify.com/track/6auczjkanxttVmAny5oB7L"
@@ -16674,6 +16750,28 @@
       "duration_ms": 146743,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4ySgR9BaxtNEiDCFtsfXhS"
+    },
+    {
+      "album": {
+        "name": "Cruzando",
+        "url": "https://open.spotify.com/album/5SyTqverrK2T3Iv71DN0Ft"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        },
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Watchugonadoaboutit?",
+      "url": "https://open.spotify.com/track/2JFQVYx1NKefyyrunYICGf"
     },
     {
       "album": {
@@ -17204,6 +17302,28 @@
       "duration_ms": 165986,
       "name": "\u00c1rbol",
       "url": "https://open.spotify.com/track/6MkWgZNpY548ccjs2PJSyq"
+    },
+    {
+      "album": {
+        "name": "\u00c9l te puede esperar (yo te puedo esperar)",
+        "url": "https://open.spotify.com/album/5TklKyatdDtoJxK8v9zXse"
+      },
+      "artists": [
+        {
+          "name": "Cometa a la Deriva",
+          "url": "https://open.spotify.com/artist/66zzXcMMv6ivjCSSkBn8Uq"
+        },
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "\u00c9l te puede esperar (yo te puedo esperar)",
+      "url": "https://open.spotify.com/track/1jOuW9d5vaKoOSiB6DkswQ"
     },
     {
       "album": {

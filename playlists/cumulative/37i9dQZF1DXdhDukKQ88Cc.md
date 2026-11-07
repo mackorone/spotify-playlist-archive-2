@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdhDukKQ88Cc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdhDukKQ88Cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdhDukKQ88Cc)
 
-### [ny rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
+### [ny dansk rap](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap øverst 👀  Kris på cover!!
+> kun det nyeste danske rap øverst 👀  GUSTO på cover!!
 
-664 songs - 1 day 4 hr 22 min
+665 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Nazario](https://open.spotify.com/track/1i8wOqiOku6X4QMugTOWXz) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Nazario](https://open.spotify.com/album/5t05shQ43pGuVjcQOEucET) | 2:19 | 2025-09-18 | 2026-04-10 |
 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 | 2023-11-10 | 2024-09-13 |
 | [Nirvana](https://open.spotify.com/track/7FbK2BzUIByoRUdHVIyjx7) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Nirvana](https://open.spotify.com/album/73LdlHaHDzAtCPypzcpJpw) | 2:34 | 2025-04-24 | 2025-05-30 |
+| [No Mercy](https://open.spotify.com/track/4kSsO50b4j4gFy6EXquXho) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [No Mercy](https://open.spotify.com/album/7xwJjafwpApMwasiEszGbq) | 2:42 | 2026-11-06 |  |
 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 | 2023-09-21 | 2024-04-05 |
 | [NOGET I VEJEN](https://open.spotify.com/track/25Ft00plGW0uf220EJT4ak) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [LAD MIG LIGE LEVE](https://open.spotify.com/album/33XZOYDwuqMxapso4GA1qS) | 3:23 | 2026-09-25 |  |
 | [Noget Med Noget](https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noget Med Noget](https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH) | 2:21 | 2023-09-21 | 2023-11-11 |

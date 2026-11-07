@@ -4,7 +4,7 @@
 
 > Descubre el futuro de la música en México en compañía de Pepe Walker
 
-577 songs - 1 day 5 hr 35 min
+578 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 | 2022-05-13 | 2023-04-19 |
 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 | 2023-07-03 | 2024-05-03 |
 | [La Cuenta](https://open.spotify.com/track/6jCB8QRXVlxOVGjdhUpa7p) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Fede Montero](https://open.spotify.com/artist/1zrYlMgjBImRf7mEzQuTmX) | [La Cuenta](https://open.spotify.com/album/6OIEN0Pg7ekw3kqRmqVgmG) | 3:24 | 2021-10-01 | 2022-05-07 |
-| [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 | 2026-04-17 |  |
+| [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 | 2026-04-17 | 2026-11-07 |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-01 | 2022-05-10 |
 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 | 2022-05-13 | 2022-08-05 |
 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 | 2026-04-17 |  |
@@ -335,6 +335,7 @@
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-08-08 | 2022-12-06 |
 | [Morena](https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Morena](https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV) | 3:40 | 2022-05-13 | 2023-04-19 |
 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 | 2024-06-04 | 2025-04-23 |
+| [mors egoni](https://open.spotify.com/track/1jobMeZkfq114vfva6pX5n) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [mors egoni](https://open.spotify.com/album/2EFjjAP6Jw9GtNCcWdQrOq) | 3:15 | 2026-11-06 |  |
 | [MTY](https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [MTY](https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97) | 2:10 | 2025-06-10 | 2026-04-18 |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-10-01 | 2022-05-12 |
 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 | 2022-05-13 | 2023-04-19 |

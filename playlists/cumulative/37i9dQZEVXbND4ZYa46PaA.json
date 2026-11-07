@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154460,
+      "name": "Bodycount",
+      "url": "https://open.spotify.com/track/4tJWZr9CkDDbiUPOShhvZY"
+    },
+    {
+      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -2296,7 +2318,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -2683,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Chaussures Roses",
+      "url": "https://open.spotify.com/track/2PFHIvrZjUsJ79KIOKxdXk"
+    },
+    {
+      "album": {
         "name": "Chaussures Roses",
         "url": "https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t"
       },
@@ -2694,7 +2734,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 201299,
       "name": "Chaussures Roses",
       "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
@@ -4138,7 +4178,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -7042,7 +7082,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 221053,
       "name": "La Nocturne",
       "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
@@ -7194,6 +7234,24 @@
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/5YryHqBkM7sYe3Vr16Rj5a"
     },
     {
       "album": {
@@ -8960,7 +9018,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
@@ -8978,7 +9036,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"

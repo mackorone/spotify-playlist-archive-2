@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Joeboy",
-  "num_followers": 268504,
+  "num_followers": 268521,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,18 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
-        "name": "Back Outside",
-        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 211090,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-11-06 01:59:31",
@@ -187,18 +183,22 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "added_at": "2026-11-06 01:59:31",
@@ -946,10 +946,6 @@
         {
           "name": "Bayanni",
           "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
       "duration_ms": 159183,
@@ -1147,22 +1143,6 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
-    },
-    {
-      "added_at": "2026-11-06 01:59:31",
-      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -1187,22 +1167,18 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
-        "name": "Love Egbugomo",
-        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
       "artists": [
         {
-          "name": "SYEMCA",
-          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
         }
       ],
-      "duration_ms": 151794,
-      "name": "Love Egbugomo",
-      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-11-06 01:59:31",
@@ -1227,6 +1203,26 @@
       "duration_ms": 155840,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"
+    },
+    {
+      "added_at": "2026-11-06 01:59:31",
+      "album": {
+        "name": "Love Egbugomo",
+        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
+      },
+      "artists": [
+        {
+          "name": "SYEMCA",
+          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Love Egbugomo",
+      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
     },
     {
       "added_at": "2026-11-06 01:59:31",
@@ -1315,6 +1311,54 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-11-06 01:59:31",
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-11-06 01:59:31",
+      "album": {
+        "name": "Your Body (Crazy)",
+        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Your Body (Crazy)",
+      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
+    },
+    {
+      "added_at": "2026-11-06 01:59:31",
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -1339,22 +1383,6 @@
     {
       "added_at": "2026-11-06 01:59:31",
       "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
-    },
-    {
-      "added_at": "2026-11-06 01:59:31",
-      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -1371,38 +1399,6 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
-    },
-    {
-      "added_at": "2026-11-06 01:59:31",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
-    },
-    {
-      "added_at": "2026-11-06 01:59:31",
-      "album": {
-        "name": "Your Body (Crazy)",
-        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Your Body (Crazy)",
-      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
       "added_at": "2026-11-06 01:59:31",

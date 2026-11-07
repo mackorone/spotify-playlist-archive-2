@@ -1,28 +1,44 @@
 {
-  "description": "Who's now and next in pop. Cover: Gracie Abrams",
-  "num_followers": 3194355,
+  "description": "Who's now and next in pop. Cover: Dove Cameron",
+  "num_followers": 3194350,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMMBJqDXy1Tuwbmv4UX47SAB6A+O",
+  "snapshot_id": "AAAAACFgpfuyYSBA6qqMauLJcaEEi1yJ",
   "tracks": [
     {
-      "added_at": "2026-10-30 04:01:16",
+      "added_at": "2026-11-06 05:01:29",
       "album": {
-        "name": "Here You Come, There You Go",
-        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+        "name": "FINAL GIRL",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 170582,
-      "name": "Here You Come, There You Go",
-      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+      "duration_ms": 225928,
+      "name": "breaks open",
+      "url": "https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU"
+    },
+    {
+      "added_at": "2026-11-06 05:01:29",
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
     },
     {
       "added_at": "2026-10-16 04:01:07",
@@ -39,6 +55,22 @@
       "duration_ms": 187727,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
+    },
+    {
+      "added_at": "2026-10-30 04:01:16",
+      "album": {
+        "name": "Here You Come, There You Go",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 170582,
+      "name": "Here You Come, There You Go",
+      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
     {
       "added_at": "2026-10-16 04:01:07",
@@ -189,6 +221,22 @@
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
+      "added_at": "2026-11-06 05:01:29",
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/2vrhyLpkOHQXewh8NMbmL2"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/7K04ooT8CNK1ZPwiKa9XPo"
+    },
+    {
       "added_at": "2026-10-23 04:02:29",
       "album": {
         "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
@@ -255,6 +303,22 @@
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-11-06 05:01:29",
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
       "added_at": "2026-10-23 04:02:29",
@@ -673,6 +737,22 @@
       "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
     },
     {
+      "added_at": "2026-11-06 05:01:29",
+      "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
+    },
+    {
       "added_at": "2026-08-21 04:02:06",
       "album": {
         "name": "Stop The Wedding!",
@@ -943,22 +1023,6 @@
       "duration_ms": 233785,
       "name": "Secret Language",
       "url": "https://open.spotify.com/track/2ATWSTxqUGUfqsQD4LIYPB"
-    },
-    {
-      "added_at": "2026-09-11 04:01:52",
-      "album": {
-        "name": "ATTITUDE ERA!",
-        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 198142,
-      "name": "SHOW ME RIGHT!",
-      "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
     },
     {
       "added_at": "2026-09-18 04:00:33",
@@ -1305,22 +1369,6 @@
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
-      "added_at": "2026-08-21 04:02:06",
-      "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 291530,
-      "name": "Constant Companion",
-      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
-    },
-    {
       "added_at": "2026-07-24 04:02:04",
       "album": {
         "name": "FILM NOIR",
@@ -1367,22 +1415,6 @@
       "duration_ms": 171352,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
-    },
-    {
-      "added_at": "2026-07-03 04:02:12",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
       "added_at": "2026-07-24 04:02:04",
@@ -1635,38 +1667,6 @@
       "duration_ms": 159095,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
-    },
-    {
-      "added_at": "2026-05-29 04:02:59",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
-    },
-    {
-      "added_at": "2026-06-12 04:01:43",
-      "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     }
   ],
   "unique_name": "Pop Rising",

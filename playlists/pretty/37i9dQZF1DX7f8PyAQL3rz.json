@@ -1,6 +1,6 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1426895,
+  "num_followers": 1426739,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,34 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "MANEIRINHO VIBES 2",
+        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Regufe",
+          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+        },
+        {
+          "name": "Pariz Beat",
+          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "ENGAJAMENTO",
+      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -459,34 +487,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "MANEIRINHO VIBES 2",
-        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Regufe",
-          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
-        },
-        {
-          "name": "Pariz Beat",
-          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "ENGAJAMENTO",
-      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -735,6 +735,30 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "Set da Zyzy (gosta de brincar cmg)",
+        "url": "https://open.spotify.com/album/3eTJiQw8fJl9HyUlq1XH5r"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Set da Zyzy (gosta de brincar cmg)",
+      "url": "https://open.spotify.com/track/2hlFT18leCLSIx0GpYKwpk"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 133000,
       "name": "Depois Desse Show",
       "url": "https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "Set da Zyzy (gosta de brincar cmg)",
-        "url": "https://open.spotify.com/album/3eTJiQw8fJl9HyUlq1XH5r"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Set da Zyzy (gosta de brincar cmg)",
-      "url": "https://open.spotify.com/track/2hlFT18leCLSIx0GpYKwpk"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "Amor \u00c9 F*da 2",
+        "url": "https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0"
+      },
+      "artists": [
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod.Jay-C",
+          "url": "https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY"
+        }
+      ],
+      "duration_ms": 133997,
+      "name": "Amor \u00c9 F*da 2",
+      "url": "https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -1435,30 +1459,6 @@
       "duration_ms": 134829,
       "name": "Fiquei Bonito...",
       "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "Amor \u00c9 F*da 2",
-        "url": "https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0"
-      },
-      "artists": [
-        {
-          "name": "Gibin",
-          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod.Jay-C",
-          "url": "https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY"
-        }
-      ],
-      "duration_ms": 133997,
-      "name": "Amor \u00c9 F*da 2",
-      "url": "https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw"
     },
     {
       "added_at": "2026-11-06 03:01:13",

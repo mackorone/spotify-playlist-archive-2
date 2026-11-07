@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 75406,
+  "num_followers": 75408,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+      "duration_ms": 237146,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
       "artists": [
         {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Modjo (Remastered)",
         "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 307153,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Films About Ghosts: The Best Of...",
-        "url": "https://open.spotify.com/album/0J5rAGrSlzzROSezNoI6Ag"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/7FQSD5JjWqGtS1BaQQiT6V"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 208786,
       "name": "This Is The Last Time",
       "url": "https://open.spotify.com/track/6IVlHRrjTKep5SS9kbcpTa"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Films About Ghosts: The Best Of...",
+        "url": "https://open.spotify.com/album/0J5rAGrSlzzROSezNoI6Ag"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FQSD5JjWqGtS1BaQQiT6V"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "All The Right Moves",
-      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "After The Hurricane - Greatest Hits & More",
         "url": "https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk"
       },
@@ -1543,18 +1527,34 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
       "artists": [
         {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+      "duration_ms": 238000,
+      "name": "All The Right Moves",
+      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/1meis09isQJFDA65afUTt8"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/1meis09isQJFDA65afUTt8"
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
       "artists": [
         {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
     },
     {
       "added_at": "2024-07-19 06:48:03",

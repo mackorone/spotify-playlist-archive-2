@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 509556,
+  "num_followers": 509661,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAACuZ71S59cxn1iIg9uV1al/",
+  "snapshot_id": "auvHAAAAAACiJuDfTC4aZD4MpdQEAEjN",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 381293,
-      "name": "Falling out of Love",
-      "url": "https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 151333,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/2pAD0PKMUMtxlMvz33tYzB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 290773,
-      "name": "Liar's Remorse",
-      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 153933,
       "name": "Soma",
       "url": "https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 290773,
+      "name": "Liar's Remorse",
+      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
     },
     {
       "added_at": null,

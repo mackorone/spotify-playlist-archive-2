@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277786,
+  "num_followers": 277796,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -287,22 +287,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "/Nachica",
+      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "El Despertador",
         "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 171613,
       "name": "El Despertador",
       "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "/Nachica",
-      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "Perdonarte \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "Gritar\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 209224,
-      "name": "Gritar\u00eda - Remix",
-      "url": "https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194638,
       "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
       "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
+        "name": "Gritar\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 209224,
+      "name": "Gritar\u00eda - Remix",
+      "url": "https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "La Bandera",
-        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 160006,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
         "name": "BACCARAT",
         "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 157924,
       "name": "BACCARAT",
       "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "La Enamorada De Un Amigo M\u00edo",
+        "url": "https://open.spotify.com/album/2NbgJPRulDRsZTmuHQVsrj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 187477,
+      "name": "La Enamorada De Un Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/674pIduUnCYIJ3WwXeeXus"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "Como si no nos am\u00e1ramos",
         "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 191250,
       "name": "Como si no nos am\u00e1ramos",
       "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "La Enamorada De Un Amigo M\u00edo",
-        "url": "https://open.spotify.com/album/2NbgJPRulDRsZTmuHQVsrj"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 187477,
-      "name": "La Enamorada De Un Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/674pIduUnCYIJ3WwXeeXus"
     },
     {
       "added_at": "2026-09-14 07:02:39",

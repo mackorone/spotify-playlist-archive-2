@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,483 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,490 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 | 12 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 |
 | 13 | [Tití Me Preguntó](https://open.spotify.com/track/74uM0HT6JPXIzaVk5IQMtY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tití Me Preguntó](https://open.spotify.com/album/1Er72OzYbTkXKjzinDakpO) | 4:50 |
 | 14 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
-| 15 | [La Bachata](https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/56x4SumdngV2zQXkxjlsGF) | 3:05 |
+| 15 | [La Bachata \- Alternate Video](https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata \(Alternate Video\)](https://open.spotify.com/album/56x4SumdngV2zQXkxjlsGF) | 3:05 |
 | 16 | [Gata Only](https://open.spotify.com/track/1jAibpPpbNMJyLEnu8b3ES) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Gata Only](https://open.spotify.com/album/5uyNrZMYdauJCrwSPBfJ4z) | 3:35 |
 | 17 | [Mírame](https://open.spotify.com/track/3oj8MKN2KmAIVMCsCkdbkG) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/3hM3i4eghAifTJVBwcaKNb) | 2:42 |
 | 18 | [Pepas](https://open.spotify.com/track/72VipjUthWyIAW8rwCAY40) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/5RQVfYOqGWoLyViYHanYD6) | 4:53 |

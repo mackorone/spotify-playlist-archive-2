@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,463 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,474 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 71 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
 | 72 | [POLITE](https://open.spotify.com/track/6CNF6SXpaPvKvUHTZaQClG) | [Full Circle Boys](https://open.spotify.com/artist/0YfeVLbLdLI28s03XYXfnJ) | [YOU NEED TO HEAR THIS](https://open.spotify.com/album/34Uj3zsTjnK1wupqOM1aZh) | 2:45 |
 | 73 | [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 |
-| 74 | [losing day](https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [losing day](https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE) | 6:20 |
+| 74 | [losing day](https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [losing day](https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE) | 6:22 |
 | 75 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
 | 76 | [Rollercoaster](https://open.spotify.com/track/0zGnH3NbrPSP22g87xOKxZ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Rollercoaster](https://open.spotify.com/album/4RFfpRkcYY9Y8liNLyWPoR) | 4:33 |
 | 77 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |

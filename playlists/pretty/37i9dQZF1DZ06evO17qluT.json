@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 114787,
+  "num_followers": 114817,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAZ/H485H9l+BS8CpjIiZVo",
+  "snapshot_id": "aup1gAAAAABlhU3nkCHL2Qe/u7wDcbSP",
   "tracks": [
     {
       "added_at": null,
@@ -663,50 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00f3gos",
-        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "CrimeNow",
-          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Regras da Loja",
-      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Morro Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
       },
@@ -735,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
         {
@@ -744,21 +700,37 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
         }
       ],
-      "duration_ms": 309618,
-      "name": "Quadros",
-      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
+      "duration_ms": 193941,
+      "name": "Morro Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
     },
     {
       "added_at": null,
@@ -787,6 +759,34 @@
       "duration_ms": 227093,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
+        }
+      ],
+      "duration_ms": 309618,
+      "name": "Quadros",
+      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 206378,
       "name": "Em nome do que sinto",
       "url": "https://open.spotify.com/track/32i85bbgGRH6ls0OXdcigN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 203520,
       "name": "N\u00e3o Me Abandona",
       "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 152342,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3SYUDlqR6tYOwjOayZX1xV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 159984,
       "name": "O Que Sobra Disso Tudo",
       "url": "https://open.spotify.com/track/06y977jqu2JnTiAx3CMNGR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 152342,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3SYUDlqR6tYOwjOayZX1xV"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 148738,
       "name": "Deus do Furdun\u00e7o",
       "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 191338,
+      "name": "Se Eu N\u00e3o Manter",
+      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 232096,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/3OrMzKr1E8FCCpRH4xhjwr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 191338,
-      "name": "Se Eu N\u00e3o Manter",
-      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
     },
     {
       "added_at": null,

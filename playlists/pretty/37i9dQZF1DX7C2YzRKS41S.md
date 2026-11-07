@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,613 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,615 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 33 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 34 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 35 | [Seja Como For](https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:39 |
-| 36 | [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 |
-| 37 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
+| 36 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
+| 37 | [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 |
 | 38 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 39 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
 | 40 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 50 | [não há voz que alcance](https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Todas as coisas do coração](https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W) | 4:01 |
 | 51 | [Eu Nasci Pra Você](https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf) | [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Canções do Velho Mundo](https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq) | 3:36 |
 | 52 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
-| 53 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
-| 54 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
+| 53 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
+| 54 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
 | 55 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 |
 | 56 | [A Coisa Mais Bonita](https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [A Coisa Mais Bonita](https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3) | 2:49 |
 | 57 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |

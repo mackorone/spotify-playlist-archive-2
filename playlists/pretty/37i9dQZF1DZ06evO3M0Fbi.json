@@ -1,12 +1,12 @@
 {
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1468372,
+  "num_followers": 1468481,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAB7SxQiBHpQsEe0k+ZSoJ2F",
+  "snapshot_id": "auvHAAAAAAC7V4eMJma2I4+zrL4J2fj2",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 174134,
-      "name": "Blew",
-      "url": "https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH"
+      "duration_ms": 217173,
+      "name": "Serve The Servants",
+      "url": "https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Serve The Servants",
-      "url": "https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi"
+      "duration_ms": 174134,
+      "name": "Blew",
+      "url": "https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,849 likes - 70 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,848 likes - 70 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 43 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 44 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 45 | [True Crime \(Shortcut\)](https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [True Crime](https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu) | 3:56 |
-| 46 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
-| 47 | [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 |
+| 46 | [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 |
+| 47 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 | 48 | [What If I](https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [What If I](https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0) | 5:54 |
 | 49 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
 | 50 | [Some Type of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/3JESF4y5o29QYebTheGju0) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU) | 3:24 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 61 | [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 |
 | 62 | [Shades of You \(feat\. Henry Green\) \- Tim Engelhardt Remix](https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Hiraeth Remixes](https://open.spotify.com/album/5ma5FaYh586UIRYpQihkqC) | 6:37 |
 | 63 | [Polar](https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Polar](https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI) | 4:21 |
-| 64 | [Living Machines](https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1) | [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [Underyourskin 100](https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj) | 5:07 |
-| 65 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
+| 64 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
+| 65 | [Living Machines](https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1) | [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [Underyourskin 100](https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj) | 5:07 |
 | 66 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 67 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 68 | [Beings of Light](https://open.spotify.com/track/7i1bsnDcFv4dnR4aIPjSGv) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:12 |

@@ -4561,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Waterfalling",
+        "url": "https://open.spotify.com/album/6XWad4HEBh0PBkMiiRjH0b"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279249,
+      "name": "Waterfalling",
+      "url": "https://open.spotify.com/track/6sapyO8tTU8RmkzPgeVBkL"
+    },
+    {
+      "album": {
         "name": "The Resurrection Of A King",
         "url": "https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK"
       },

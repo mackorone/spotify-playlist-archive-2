@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,435 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,536 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 7 | [My Heart](https://open.spotify.com/track/1CqcGbXZrpJJygqUM8PW05) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:52 |
 | 8 | [Trying Things](https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:11 |
 | 9 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
-| 10 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 11 | [Cry On You](https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Cry On You](https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99) | 2:00 |
+| 10 | [Cry On You](https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Cry On You](https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99) | 2:00 |
+| 11 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 12 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
 | 13 | [Wish I Knew \- feat\. Odeal](https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:47 |
 | 14 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 43 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 44 | [Reason \(feat\. Elijah Fox\)](https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:07 |
 | 45 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 |
-| 46 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
-| 47 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
+| 46 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
+| 47 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
 | 48 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 49 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 |
 | 50 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
 
-Snapshot ID: `aukkAAAAAACM8/uXBw3IDYjvTzJUhEKE`
+Snapshot ID: `auvHAAAAAACusvdFCJ5RAT4ofigV0uaj`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-923 songs - 1 day 21 hr 55 min
+925 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-05-24 | 2024-12-09 |
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feel That Way](https://open.spotify.com/track/6vkeigDcenew30dyAKnme2) | [D4N](https://open.spotify.com/artist/5FQzNWtS11lpF0WIDiQ5HO), [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Feel That Way](https://open.spotify.com/album/3qf62Ku8CzU58xY6h9TZE5) | 2:49 | 2025-11-11 |  |
+| [FEEL THE RUSH](https://open.spotify.com/track/58WAz9iUUdLTmWsWRYDnnB) | [tonytonychopper999](https://open.spotify.com/artist/4s6Z4DHaTxDZ4HLG4GMCvM) | [FEEL THE RUSH](https://open.spotify.com/album/5JdNVyLvwKNlRhRYBHop1J) | 2:51 | 2026-11-06 |  |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
 | [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |
@@ -691,6 +692,7 @@
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 | 2024-09-29 |
 | [Round Around](https://open.spotify.com/track/2b1rSSkF3Gi1ggHuBqj1xN) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [Round Around](https://open.spotify.com/album/0Ff7cvHGwOiafsJrliFP3n) | 2:55 | 2025-09-23 |  |
 | [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 | 2024-03-22 | 2024-09-29 |
+| [Roxbury](https://open.spotify.com/track/6z74S9n4XYa6Gpke02m3GV) | [Sevag H](https://open.spotify.com/artist/2CcBfAgI3k7GV9gxAOLNt7) | [Roxbury](https://open.spotify.com/album/155QHT1nIc08jOhOGyyQWb) | 3:29 | 2026-11-06 |  |
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2023-12-13 |  |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 | 2024-04-17 |
 | [Royalty \- Don Diablo Remix](https://open.spotify.com/track/78zKViVRByb2f2TowJKNEI) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Royalty \(Don Diablo Remix\)](https://open.spotify.com/album/5yZ1s1YJX1MABbvVbZ4VCG) | 2:58 | 2023-12-13 | 2024-07-19 |

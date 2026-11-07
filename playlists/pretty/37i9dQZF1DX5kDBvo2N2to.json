@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61464,
+  "num_followers": 61479,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Viva L\u2019Amor",
-        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Viva L\u2019Amor",
-      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "Nya Skolans Ledare",
         "url": "https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Feelin' Myself",
-        "url": "https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56"
-      },
-      "artists": [
-        {
-          "name": "Mondo",
-          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
-        }
-      ],
-      "duration_ms": 165057,
-      "name": "Feelin' Myself",
-      "url": "https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176066,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Feelin' Myself",
+        "url": "https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56"
+      },
+      "artists": [
+        {
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
+        }
+      ],
+      "duration_ms": 165057,
+      "name": "Feelin' Myself",
+      "url": "https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 180343,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
         "name": "Min v\u00e4n och jag",
         "url": "https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 165760,
       "name": "Barfotabarn",
       "url": "https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd"
-      },
-      "artists": [
-        {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
-        }
-      ],
-      "duration_ms": 180343,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "Where Strippers Go To Die",
         "url": "https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "Tiden l\u00e4ker alla s\u00e5r",
-        "url": "https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q"
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
       },
       "artists": [
         {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
         }
       ],
-      "duration_ms": 183449,
-      "name": "Tiden l\u00e4ker alla s\u00e5r",
-      "url": "https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz"
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -1159,6 +1143,22 @@
       "duration_ms": 231306,
       "name": "Kaprifol",
       "url": "https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "Tiden l\u00e4ker alla s\u00e5r",
+        "url": "https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "duration_ms": 183449,
+      "name": "Tiden l\u00e4ker alla s\u00e5r",
+      "url": "https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz"
     },
     {
       "added_at": "2026-11-05 23:00:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-11-05 23:00:56",
       "album": {
-        "name": "F\u00f6rst in, Sist ut",
-        "url": "https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B"
-      },
-      "artists": [
-        {
-          "name": "LKN",
-          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "F\u00f6rst in, Sist ut",
-      "url": "https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB"
-    },
-    {
-      "added_at": "2026-11-05 23:00:56",
-      "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 187183,
       "name": "Hos dig \u00e4r jag stark",
       "url": "https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId"
+    },
+    {
+      "added_at": "2026-11-05 23:00:56",
+      "album": {
+        "name": "F\u00f6rst in, Sist ut",
+        "url": "https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B"
+      },
+      "artists": [
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "F\u00f6rst in, Sist ut",
+      "url": "https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB"
     },
     {
       "added_at": "2026-11-05 23:00:56",

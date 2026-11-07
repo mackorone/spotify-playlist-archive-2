@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645445,
+  "num_followers": 645461,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADfdEED5JZOMs5YqfE3fJFY",
+  "snapshot_id": "auvHAAAAAABzByH1L6D3D+joqNgWwpJa",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+        "name": "WH1TNEY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv"
       },
       "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
+      "duration_ms": 285068,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S"
     },
     {
       "added_at": null,
@@ -143,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WH1TNEY (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
       "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 285068,
-      "name": "One Moment in Time",
-      "url": "https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S"
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 362758,
-      "name": "Hold Me (with Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
+      "duration_ms": 241960,
+      "name": "I Believe In You And Me - Film Version",
+      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 241960,
-      "name": "I Believe In You And Me - Film Version",
-      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
+      "duration_ms": 362758,
+      "name": "Hold Me (with Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
     },
     {
       "added_at": null,

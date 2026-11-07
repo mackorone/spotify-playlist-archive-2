@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27296,
+  "num_followers": 27306,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO"
     },
     {
-      "added_at": "2026-09-11 00:01:55",
-      "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "REVIVAL",
-      "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
-    },
-    {
       "added_at": "2026-10-02 00:01:22",
       "album": {
         "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
@@ -171,6 +155,22 @@
       "duration_ms": 218079,
       "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
       "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
+    },
+    {
+      "added_at": "2026-09-11 00:01:55",
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "REVIVAL",
+      "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
     },
     {
       "added_at": "2025-08-29 00:01:17",
@@ -725,24 +725,20 @@
       "url": "https://open.spotify.com/track/4zFjkyU4ZI26KSfgaoJIG1"
     },
     {
-      "added_at": "2026-09-25 00:01:16",
+      "added_at": "2026-10-30 00:01:07",
       "album": {
-        "name": "You Are Worthy (Live)",
-        "url": "https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go"
+        "name": "LAMB",
+        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
       },
       "artists": [
         {
-          "name": "Sunday Ekaidem",
-          "url": "https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob"
-        },
-        {
-          "name": "E-Daniels",
-          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
         }
       ],
-      "duration_ms": 557226,
-      "name": "You Are Worthy - Live",
-      "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
+      "duration_ms": 168461,
+      "name": "BOUNDLESS LOVE",
+      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
     },
     {
       "added_at": "2026-10-23 00:01:22",
@@ -767,22 +763,6 @@
     {
       "added_at": "2026-10-30 00:01:07",
       "album": {
-        "name": "LAMB",
-        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "BOUNDLESS LOVE",
-      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
-    },
-    {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
         "name": "AFFIRMED",
         "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
       },
@@ -795,6 +775,50 @@
       "duration_ms": 155089,
       "name": "THE DAY",
       "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
+    {
+      "added_at": "2026-09-25 00:01:16",
+      "album": {
+        "name": "You Are Worthy (Live)",
+        "url": "https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go"
+      },
+      "artists": [
+        {
+          "name": "Sunday Ekaidem",
+          "url": "https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob"
+        },
+        {
+          "name": "E-Daniels",
+          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
+        }
+      ],
+      "duration_ms": 557226,
+      "name": "You Are Worthy - Live",
+      "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
+    },
+    {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Gbayin Gbope / Korin Iyin (Medley)",
+        "url": "https://open.spotify.com/album/4bMoUYGl6GRydOfKrDqZts"
+      },
+      "artists": [
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        },
+        {
+          "name": "The OhEmGee Band",
+          "url": "https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx"
+        },
+        {
+          "name": "The OhEmGee Choir",
+          "url": "https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb"
+        }
+      ],
+      "duration_ms": 736921,
+      "name": "Gbayin Gbope / Korin Iyin (Medley)",
+      "url": "https://open.spotify.com/track/1ZTwvEivl97wmdyXnHa1GA"
     },
     {
       "added_at": "2026-10-09 00:01:37",
@@ -927,30 +951,6 @@
       "duration_ms": 209684,
       "name": "REDEEMED",
       "url": "https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Gbayin Gbope / Korin Iyin (Medley)",
-        "url": "https://open.spotify.com/album/4bMoUYGl6GRydOfKrDqZts"
-      },
-      "artists": [
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
-        },
-        {
-          "name": "The OhEmGee Band",
-          "url": "https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx"
-        },
-        {
-          "name": "The OhEmGee Choir",
-          "url": "https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb"
-        }
-      ],
-      "duration_ms": 736921,
-      "name": "Gbayin Gbope / Korin Iyin (Medley)",
-      "url": "https://open.spotify.com/track/1ZTwvEivl97wmdyXnHa1GA"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -1093,28 +1093,20 @@
       "url": "https://open.spotify.com/track/2eEkTiXfAWfCm6hRBlFryw"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
+      "added_at": "2026-10-30 00:01:07",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5"
+        "name": "PRAISE EXPLOSION 4.0",
+        "url": "https://open.spotify.com/album/0t21ROMkC832SLPvotzeTP"
       },
       "artists": [
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Johay",
-          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
         }
       ],
-      "duration_ms": 193658,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
+      "duration_ms": 1969920,
+      "name": "PRAISE EXPLOSION 4.0",
+      "url": "https://open.spotify.com/track/1jkJsb3CScWADhXuqEvR9R"
     },
     {
       "added_at": "2026-04-17 00:01:38",
@@ -1137,20 +1129,28 @@
       "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
     },
     {
-      "added_at": "2026-10-30 00:01:07",
+      "added_at": "2026-09-18 00:01:36",
       "album": {
-        "name": "PRAISE EXPLOSION 4.0",
-        "url": "https://open.spotify.com/album/0t21ROMkC832SLPvotzeTP"
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5"
       },
       "artists": [
         {
-          "name": "Deborah Ajayi",
-          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Johay",
+          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
         }
       ],
-      "duration_ms": 1969920,
-      "name": "PRAISE EXPLOSION 4.0",
-      "url": "https://open.spotify.com/track/1jkJsb3CScWADhXuqEvR9R"
+      "duration_ms": 193658,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
     },
     {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
-        "name": "GIVE YOU PRAISE",
-        "url": "https://open.spotify.com/album/5LCSwbL1BhSmmrIR8OSiYH"
-      },
-      "artists": [
-        {
-          "name": "Blessing Lopez",
-          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
-        }
-      ],
-      "duration_ms": 144089,
-      "name": "GIVE YOU PRAISE",
-      "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
-    },
-    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Who Run Am",
@@ -1249,6 +1233,22 @@
       "url": "https://open.spotify.com/track/5ypsnyrwnq5LfaQqnFHJFe"
     },
     {
+      "added_at": "2026-09-25 00:01:16",
+      "album": {
+        "name": "GIVE YOU PRAISE",
+        "url": "https://open.spotify.com/album/5LCSwbL1BhSmmrIR8OSiYH"
+      },
+      "artists": [
+        {
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
+        }
+      ],
+      "duration_ms": 144089,
+      "name": "GIVE YOU PRAISE",
+      "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
+    },
+    {
       "added_at": "2026-10-09 00:01:37",
       "album": {
         "name": "Oruko Jesu",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
     },
     {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "Ka Anyi Kelee Aha Ya",
-        "url": "https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS"
-      },
-      "artists": [
-        {
-          "name": "Minister Prudence",
-          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
-        }
-      ],
-      "duration_ms": 781090,
-      "name": "Ka Anyi Kelee Aha Ya",
-      "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
-    },
-    {
       "added_at": "2026-08-28 00:01:39",
       "album": {
         "name": "I Choose Joy",
@@ -1295,6 +1279,22 @@
       "duration_ms": 328750,
       "name": "I Choose Joy",
       "url": "https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi"
+    },
+    {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "Ka Anyi Kelee Aha Ya",
+        "url": "https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS"
+      },
+      "artists": [
+        {
+          "name": "Minister Prudence",
+          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
+        }
+      ],
+      "duration_ms": 781090,
+      "name": "Ka Anyi Kelee Aha Ya",
+      "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -1445,38 +1445,6 @@
       "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
-      "album": {
-        "name": "Onyeoma",
-        "url": "https://open.spotify.com/album/0iEfQZ7oM9yJH55TdxyBG2"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Onyeoma",
-      "url": "https://open.spotify.com/track/1IaZ1BzX2m5fV7zly8KUSP"
-    },
-    {
-      "added_at": "2026-06-12 00:01:28",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Need You",
@@ -1497,24 +1465,40 @@
       "url": "https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH"
     },
     {
-      "added_at": "2026-08-07 00:01:02",
+      "added_at": "2026-06-12 00:01:28",
       "album": {
-        "name": "Heaven Is My Home",
-        "url": "https://open.spotify.com/album/6owyc4D1WSLvQj4hTwnX1n"
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
       },
       "artists": [
         {
-          "name": "Len Muller",
-          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
-        },
-        {
-          "name": "iThemba Youth Choir",
-          "url": "https://open.spotify.com/artist/4EOOO9yCe3UNF8cRFgkaCZ"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 187594,
-      "name": "Heaven Is My Home",
-      "url": "https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi"
+      "duration_ms": 206400,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
+    },
+    {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
       "added_at": "2026-10-30 00:01:07",
@@ -1531,6 +1515,22 @@
       "duration_ms": 164895,
       "name": "Wanna Be More",
       "url": "https://open.spotify.com/track/5aOss4ZyOsbtmjfgcoNDxs"
+    },
+    {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "Onyeoma",
+        "url": "https://open.spotify.com/album/0iEfQZ7oM9yJH55TdxyBG2"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/1IaZ1BzX2m5fV7zly8KUSP"
     }
   ],
   "unique_name": "Higher",

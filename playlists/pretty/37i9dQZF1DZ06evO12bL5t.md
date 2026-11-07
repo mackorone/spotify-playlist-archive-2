@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,412 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,430 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 20 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
 | 21 | [Versos del Corazón](https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Versos del Corazón](https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK) | 4:13 |
 | 22 | [No Quiero Amores](https://open.spotify.com/track/5WMyImX0GHhuZGKO8WSU4w) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 3:20 |
-| 23 | [Se Sufre Pa Merecer](https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 3:49 |
+| 23 | [Jarabe Con Sprite](https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:26 |
 | 24 | [Chequen Los Datos](https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:06 |
 | 25 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
 | 26 | [Sin Tu Amor](https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:18 |
-| 27 | [Jarabe Con Sprite](https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:26 |
+| 27 | [Se Sufre Pa Merecer](https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 3:49 |
 | 28 | [Elevando Rango](https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 2:56 |
 | 29 | [Risk Takers](https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 2:35 |
 | 30 | [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Preparado](https://open.spotify.com/track/5DSOagocvvf355gyZMgegT) | [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Preparado](https://open.spotify.com/album/2rFw73lyiu1bG4cE9fHOLi) | 3:18 |
 | 50 | [Seguimos Dando Lata](https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:25 |
 
-Snapshot ID: `aukkAAAAAAAYDMMEnfx3XptOywPeIaOv`
+Snapshot ID: `auvHAAAAAAAXxQbVRWx3UcRn72mx00qk`

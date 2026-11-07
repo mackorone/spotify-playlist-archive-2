@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 73657,
+  "num_followers": 73708,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAdP8RxEGF27O+lu1UCke/9",
+  "snapshot_id": "auvHAAAAAABWg09vS3+pejOgAdSVqccd",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": null,
@@ -115,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn It Down (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 251032,
-      "name": "Burn it Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -151,22 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "name": "Let 'Em Know",
+        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Last Of My Kind (feat. Paul Cauthen)",
-      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
+      "duration_ms": 180236,
+      "name": "Let 'Em Know",
+      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em Know",
-        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 180236,
-      "name": "Let 'Em Know",
-      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
+      "duration_ms": 201463,
+      "name": "Last Of My Kind (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
     },
     {
       "added_at": null,
@@ -287,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
         "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 140128,
       "name": "Tall Boy",
       "url": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
         "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 195676,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "My Fault (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/1khLPhobojtGS0jL358B4C"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 236020,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/1khLPhobojtGS0jL358B4C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
         "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 153667,
       "name": "All Men Die (Freestyle)",
       "url": "https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 132206,
+      "name": "Til Sunday",
+      "url": "https://open.spotify.com/track/698IWgmReYQuWIeBQwtjiu"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
       "duration_ms": 171466,
       "name": "Start a Riot",
       "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Til Sunday",
-      "url": "https://open.spotify.com/track/698IWgmReYQuWIeBQwtjiu"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Chrome - Bonus",
-      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire and Gasoline - A COLORS ENCORE",
         "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 191162,
       "name": "Fire and Gasoline - A COLORS ENCORE",
       "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,

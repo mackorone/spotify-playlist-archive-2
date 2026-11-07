@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,764 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,789 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 7 | [Tombstone](https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:40 |
 | 8 | [2018](https://open.spotify.com/track/1VSJTVzLy3NfHQB6DpjKk9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:14 |
 | 9 | [TP](https://open.spotify.com/track/4OgP2p4dNk9PbUzfbZUd4g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:48 |
-| 10 | [Dark Clouds](https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:49 |
-| 11 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
+| 10 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
+| 11 | [Dark Clouds](https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:49 |
 | 12 | [Last Lap](https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 4:08 |
 | 13 | [Hustle](https://open.spotify.com/track/2CNFA0ixWQOaHbOM5xgSd0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:19 |
 | 14 | [Heart On Ice](https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 39 | [Dark Conversation](https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:24 |
 | 40 | [Ribbon In The Sky](https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:43 |
 
-Snapshot ID: `aukkAAAAAADWZwgYO9WWRfKf2RLAiME/`
+Snapshot ID: `auvHAAAAAABDSCAEtoBPRhPoY0LSOZ8+`

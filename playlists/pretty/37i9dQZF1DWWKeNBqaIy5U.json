@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz vocals and smooth instrumentals to soundtrack your dinner - perfect for cooking, hosting a dinner party, or a relaxed evening at home.",
-  "num_followers": 96117,
+  "num_followers": 96160,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
         "name": "All The Sunsets",
         "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 368388,
       "name": "Lonely Streets",
       "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+        "name": "Ducks for cover",
+        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+      "duration_ms": 160589,
+      "name": "Ducks for cover",
+      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Ducks for cover",
-        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 160589,
-      "name": "Ducks for cover",
-      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Penitentes",
-        "url": "https://open.spotify.com/album/6rDN49jDeaRzg9GNWwZe7e"
-      },
-      "artists": [
-        {
-          "name": "Ray Love Trio",
-          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
-        }
-      ],
-      "duration_ms": 223074,
-      "name": "Penitentes",
-      "url": "https://open.spotify.com/track/6sHc80w3CXIpFAID6YNTxQ"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Blues-A-Plenty",
         "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 219680,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Penitentes",
+        "url": "https://open.spotify.com/album/6rDN49jDeaRzg9GNWwZe7e"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "duration_ms": 223074,
+      "name": "Penitentes",
+      "url": "https://open.spotify.com/track/6sHc80w3CXIpFAID6YNTxQ"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1571,6 +1571,38 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Chan's Song (Never Said)",
+      "url": "https://open.spotify.com/track/2XTSiJ2GVi2L8Ob0ppotBU"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Nearness Of You: The Ballad Book",
-        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Chan's Song (Never Said)",
-      "url": "https://open.spotify.com/track/2XTSiJ2GVi2L8Ob0ppotBU"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 320920,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+      "duration_ms": 209160,
+      "name": "Satin Doll",
+      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -2016,9 +2016,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Satin Doll",
-      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
+      "duration_ms": 320920,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
     },
     {
       "added_at": "2026-07-20 13:57:14",

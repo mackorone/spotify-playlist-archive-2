@@ -9451,6 +9451,24 @@
     },
     {
       "album": {
+        "name": "Vie d'Adulte",
+        "url": "https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "Douter",
+      "url": "https://open.spotify.com/track/005qFe7U4oVqJteXYYEWLQ"
+    },
+    {
+      "album": {
         "name": "Douter",
         "url": "https://open.spotify.com/album/4pyppyNOXJ5iKmT9g9vnTI"
       },

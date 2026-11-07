@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 70 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
 | 71 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 |
 | 72 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 |
-| 73 | [Maze](https://open.spotify.com/track/7AwVn68ejkolhndL6F4d8q) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 4:29 |
-| 74 | [Love Is Blind](https://open.spotify.com/track/7pzL8kHWBXYoGITYwmrzj5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:51 |
+| 73 | [Love Is Blind](https://open.spotify.com/track/7pzL8kHWBXYoGITYwmrzj5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:51 |
+| 74 | [Maze](https://open.spotify.com/track/7AwVn68ejkolhndL6F4d8q) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 4:29 |
 | 75 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
 | 76 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
 | 77 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 151 | [Shake The Snow Globe](https://open.spotify.com/track/5MjHwSUJJQLI3Dtta9ktbT) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/0dkmNHHdcA7nn9v0hAFhQS) | 2:53 |
 | 152 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `Acg5SAAAAACdSMuwVbdVrTfJj4KF5AH9`
+Snapshot ID: `Acg+tgAAAAATCI3EE6dWwjPY3lxqbGq1`

@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-514 songs - 1 day 1 hr 41 min
+515 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Faraba](https://open.spotify.com/track/15rllcb8N7UmpDmiM4Jiyq) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Faraba](https://open.spotify.com/album/47JxkBAqugQKcSnazKEwvO) | 2:18 | 2023-08-25 | 2024-06-22 |
 | [Fearless Dreamers](https://open.spotify.com/track/1fF9VfW5Xa1BXy6dVBgPvt) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Fearless Dreamers](https://open.spotify.com/album/0T7N8MYxT5ms02M5PKg1eW) | 2:44 | 2023-09-14 | 2025-07-31 |
 | [Fears In The Fire](https://open.spotify.com/track/1EwYWqQsaBhm98CphY1tKs) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g) | 2:37 | 2022-07-29 | 2023-04-29 |
+| [Feel Love](https://open.spotify.com/track/5ZuIWk2CWo9NTh3Ijzbn3r) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Feel Love](https://open.spotify.com/album/0tb2xEL0QyA2uJg1bZ0Jjo) | 2:50 | 2026-11-06 |  |
 | [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 | 2024-11-28 | 2025-03-13 |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 | 2025-10-09 |
 | [Feel The Beat](https://open.spotify.com/track/5lcW8RJu6wXwGImnScNMej) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Feel The Beat](https://open.spotify.com/album/1xnzN2CviZvmKmhxv5l2yt) | 2:54 | 2026-10-09 |  |

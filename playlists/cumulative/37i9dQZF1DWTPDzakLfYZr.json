@@ -735,6 +735,28 @@
     },
     {
       "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
+    },
+    {
+      "album": {
         "name": "Att: Amor",
         "url": "https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX"
       },

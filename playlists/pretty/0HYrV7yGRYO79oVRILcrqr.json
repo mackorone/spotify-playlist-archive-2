@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAM+dcml5bjVrNRW+Ska01YzBopMJyp",
+  "snapshot_id": "AAAM+jK+pke6+KBGrmMfPXANUdH7+U0y",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -3363,6 +3363,22 @@
       "duration_ms": 306677,
       "name": "Black Sorcery",
       "url": "https://open.spotify.com/track/26snts5ounwV0cAckqZNL4"
+    },
+    {
+      "added_at": "2026-11-06 13:49:19",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/72MerDu3fbe4Oy9tUkDM8z"
+      },
+      "artists": [
+        {
+          "name": "One Good Reason",
+          "url": "https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK"
+        }
+      ],
+      "duration_ms": 173709,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/5s3rIqx9O6igEokeNeHX8z"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

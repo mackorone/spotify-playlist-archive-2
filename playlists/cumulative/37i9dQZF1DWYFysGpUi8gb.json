@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes life feel interesting, featuring purple pilgrims",
+  "description": "unearthing music that makes life feel interesting, featuring untitled (halo)",
   "name": "melomania",
   "tracks": [
     {
@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Boys Are Dogs (But I Am One Too)",
+        "url": "https://open.spotify.com/album/3Roix2XlrjA60mnfn7v9xL"
+      },
+      "artists": [
+        {
+          "name": "Cool Haircuts for Boys",
+          "url": "https://open.spotify.com/artist/68p8hOp7sfSLDTI8vhASJC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186057,
+      "name": "Boys Are Dogs (But I Am One Too)",
+      "url": "https://open.spotify.com/track/1kx3dpF4675SLSHPZxAbqQ"
+    },
+    {
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 262545,
       "name": "Buster",
       "url": "https://open.spotify.com/track/3aDbVibedUfG25q1PWD0Ay"
@@ -2084,10 +2102,28 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 224663,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4Xxs7mapd3iReIcGZ2pR8d"
+    },
+    {
+      "album": {
+        "name": "City I Believe",
+        "url": "https://open.spotify.com/album/7dfygYBnInFEDoewOYswN4"
+      },
+      "artists": [
+        {
+          "name": "Spanish Horses",
+          "url": "https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167811,
+      "name": "City I Believe",
+      "url": "https://open.spotify.com/track/0KSb4aEpIUulAYQ0noSYNz"
     },
     {
       "album": {
@@ -3053,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Worry Dynamite",
+        "url": "https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167628,
+      "name": "Don\u2019t Worry Dynamite",
+      "url": "https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn"
+    },
+    {
+      "album": {
         "name": "Doves",
         "url": "https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50"
       },
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173653,
       "name": "Fast Asleep",
       "url": "https://open.spotify.com/track/1plZImDbco0NxZyxjQ1KnY"
@@ -3868,7 +3922,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 214464,
       "name": "Flight Path",
       "url": "https://open.spotify.com/track/0XiJyhqf5EpBkCXydRUBdk"
@@ -4520,7 +4574,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 186540,
       "name": "Green",
       "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
@@ -4722,7 +4776,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158240,
       "name": "Headfirst",
       "url": "https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2"
@@ -4780,6 +4834,24 @@
       "duration_ms": 156470,
       "name": "Heat Of The Summer",
       "url": "https://open.spotify.com/track/0q7FGknqGU4TQ54U8QBAOu"
+    },
+    {
+      "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
     },
     {
       "album": {
@@ -5054,6 +5126,24 @@
       "duration_ms": 163421,
       "name": "Hours, Years",
       "url": "https://open.spotify.com/track/1xoI7deirCKJo4Xwfx4WNv"
+    },
+    {
+      "album": {
+        "name": "untitled (halo)",
+        "url": "https://open.spotify.com/album/4TKFP2DLk1z8zn1ZGuVbsh"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144321,
+      "name": "how to make your love (stay)",
+      "url": "https://open.spotify.com/track/0k66KVUV7hzKPsemb6Wmf5"
     },
     {
       "album": {
@@ -5669,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "PEACE + WAR",
+        "url": "https://open.spotify.com/album/4Lbs1ZVwXGJ9tgFBxrpyPA"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Jag\u00f3dki (Blueberries)",
+      "url": "https://open.spotify.com/track/5kWBBObGHpO26IH4FlQgkE"
+    },
+    {
+      "album": {
         "name": "Jakobo",
         "url": "https://open.spotify.com/album/6YESTMd5dGpcTCRwpr7te7"
       },
@@ -5885,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/0OMg1sBvJEuw6h3QQph3Px"
+      },
+      "artists": [
+        {
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/2CfGgQc1ooi0lxeqyRDnn2"
+    },
+    {
+      "album": {
         "name": "Drive to Goldenhammer",
         "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
       },
@@ -5914,7 +6040,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 205554,
       "name": "Keira Knightley",
       "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
@@ -6649,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "lyre",
+        "url": "https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "lyre",
+      "url": "https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP"
+    },
+    {
+      "album": {
         "name": "m4 windy",
         "url": "https://open.spotify.com/album/653FeW1wjy7vgTikh08ao6"
       },
@@ -6984,7 +7128,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 186906,
       "name": "Mobius",
       "url": "https://open.spotify.com/track/4XmksppWPTP0mECUyuZlqn"
@@ -8266,7 +8410,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 165135,
       "name": "Pin Up Boys",
       "url": "https://open.spotify.com/track/4BsobCMyjvO4dM049cvKJ3"
@@ -8540,6 +8684,24 @@
       "duration_ms": 307786,
       "name": "Raoul",
       "url": "https://open.spotify.com/track/1vwEPyKwOkllCo6ulQJR3I"
+    },
+    {
+      "album": {
+        "name": "Real thing",
+        "url": "https://open.spotify.com/album/0QOzSuaN9yLzFmpwQUITqL"
+      },
+      "artists": [
+        {
+          "name": "The Golden Dregs",
+          "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Real thing",
+      "url": "https://open.spotify.com/track/4jkyNLjMhyyO7QEPCUj3sZ"
     },
     {
       "album": {
@@ -10297,6 +10459,24 @@
     },
     {
       "album": {
+        "name": "Stupid Boy",
+        "url": "https://open.spotify.com/album/4gbvK3aMdBM7UJFOBabnEP"
+      },
+      "artists": [
+        {
+          "name": "1000 Rabbits",
+          "url": "https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252779,
+      "name": "Stupid Boy",
+      "url": "https://open.spotify.com/track/0RfrWr1Ej0zVvJstp4MT68"
+    },
+    {
+      "album": {
         "name": "Skinwalker",
         "url": "https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG"
       },
@@ -10388,6 +10568,24 @@
       "duration_ms": 371887,
       "name": "swim",
       "url": "https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/4z8yhlcw6JOGNBWXkOIA7B"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177068,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4G31I9jhPh5STbtqNKaA7k"
     },
     {
       "album": {
@@ -10575,6 +10773,24 @@
     },
     {
       "album": {
+        "name": "Tell The Leaves Not To Turn",
+        "url": "https://open.spotify.com/album/10IpzfeJGY09tplI7vXUqW"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271590,
+      "name": "Tell The Leaves Not To Turn",
+      "url": "https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9"
+    },
+    {
+      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/1SWHxL3cvowvlNhNQePtGz"
       },
@@ -10640,7 +10856,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 205600,
       "name": "The Ballad of DCB",
       "url": "https://open.spotify.com/track/66mscDg4cGONwg59RJD2Lt"
@@ -11292,7 +11508,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 134444,
       "name": "Tilapia",
       "url": "https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n"
@@ -11490,7 +11706,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 239031,
       "name": "Topaz",
       "url": "https://open.spotify.com/track/3R9DihE7a7adJoHZBj1zCG"
@@ -12307,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "xstick_xstick",
+        "url": "https://open.spotify.com/album/2ulOEjXX7WphDbDMkTQIl4"
+      },
+      "artists": [
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "xstick_xstick",
+      "url": "https://open.spotify.com/track/3Wwrx1akChkCEsBU9Ix5Qd"
+    },
+    {
+      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3"
       },
@@ -12372,7 +12606,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147770,
       "name": "Yr Big Day",
       "url": "https://open.spotify.com/track/2IDFkS8nFkqQOhULvsX1Qi"

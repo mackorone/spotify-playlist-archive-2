@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 395027,
+  "num_followers": 395083,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afro-Funk",
-        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
-      },
-      "artists": [
-        {
-          "name": "T. P. Orchestre Poly-Rythmo",
-          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
-        },
-        {
-          "name": "Gabo Brown",
-          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "It's A Vanity",
-      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Brass Construction",
         "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
@@ -685,20 +665,24 @@
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
-      "added_at": "2024-03-26 13:55:21",
+      "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
       "artists": [
         {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
         }
       ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -719,6 +703,22 @@
       "duration_ms": 281733,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -793,42 +793,6 @@
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
     },
     {
-      "added_at": "2026-10-02 04:00:35",
-      "album": {
-        "name": "Snap, Crackle & Bop!",
-        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
-      },
-      "artists": [
-        {
-          "name": "Us3",
-          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
-        },
-        {
-          "name": "Akil Dasan",
-          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
-        }
-      ],
-      "duration_ms": 278752,
-      "name": "We Like That",
-      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Special Love (Micky More & Andy Tee 7\" Jazz Mix)",
@@ -867,6 +831,42 @@
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2026-10-02 04:00:35",
+      "album": {
+        "name": "Snap, Crackle & Bop!",
+        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Akil Dasan",
+          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
+        }
+      ],
+      "duration_ms": 278752,
+      "name": "We Like That",
+      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     }
   ],
   "unique_name": "Acid Jazz",

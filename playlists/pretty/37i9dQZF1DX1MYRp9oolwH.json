@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Alias Rukmini",
-  "num_followers": 172471,
+  "num_followers": 172482,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK55HDXvFCgzn53X4ZcP/K2JRqO1",
+  "snapshot_id": "AAAAADB+VDBt/jjVBy7R4ZEaLR4Rvxso",
   "tracks": [
     {
       "added_at": "2026-11-02 03:30:36",
@@ -239,6 +239,54 @@
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-11-06 16:28:57",
+      "album": {
+        "name": "Emani Varninchanu (From \"Srirastu\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1wOWtr8pmJ6Rn3IbLeLY4I"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 205033,
+      "name": "Emani Varninchanu (From \"Srirastu\") [TELUGU]",
+      "url": "https://open.spotify.com/track/1sy2whjGX4KRR7C1JaELSD"
+    },
+    {
+      "added_at": "2026-11-06 16:28:57",
+      "album": {
+        "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+        "url": "https://open.spotify.com/album/1gYdMWlOmCNIPgNOt4jZKs"
+      },
+      "artists": [
+        {
+          "name": "BV Harsha",
+          "url": "https://open.spotify.com/artist/5iQlmpnrNkPpXWvclKqXCc"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Vijay Evana",
+          "url": "https://open.spotify.com/artist/0Ox5rB4Z1phGeUIhCYqR0x"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+      "url": "https://open.spotify.com/track/1OWu4YDF4EIrQRbDX6IHqi"
     },
     {
       "added_at": "2026-11-02 05:52:35",
@@ -921,30 +969,6 @@
       "url": "https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD"
     },
     {
-      "added_at": "2026-08-03 08:58:26",
-      "album": {
-        "name": "Nee Venake (From \"Red Bag\")",
-        "url": "https://open.spotify.com/album/42tR97CrfYMpgfOacfIyMk"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Sekhar Mopoori",
-          "url": "https://open.spotify.com/artist/31ViwbvcnWz5oLbNggrh2D"
-        },
-        {
-          "name": "Tirupathi Jaavana",
-          "url": "https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Nee Venake (From \"Red Bag\")",
-      "url": "https://open.spotify.com/track/6qPChRVAvbYmgaCyHGga5O"
-    },
-    {
       "added_at": "2026-08-14 06:21:50",
       "album": {
         "name": "Pilla Pilla (From \"Missing Meghana\")",
@@ -1015,30 +1039,6 @@
       "duration_ms": 164840,
       "name": "Prema Tholiprema",
       "url": "https://open.spotify.com/track/5umFFxLUuphAvweGeDjewg"
-    },
-    {
-      "added_at": "2026-07-30 07:12:49",
-      "album": {
-        "name": "Nanne Nanne (From \"The Maze\")",
-        "url": "https://open.spotify.com/album/3CiimeOSrIMmGWHeU5EBpJ"
-      },
-      "artists": [
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Shravan Bharadwaj",
-          "url": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
-        },
-        {
-          "name": "Chirravuri Vijay Kumar",
-          "url": "https://open.spotify.com/artist/3dyf9l89FvH8qq5nUdLVIW"
-        }
-      ],
-      "duration_ms": 230232,
-      "name": "Nanne Nanne (From \"The Maze\")",
-      "url": "https://open.spotify.com/track/6kPBFJVML1tuYOTtqwtzQo"
     },
     {
       "added_at": "2026-08-10 10:34:51",

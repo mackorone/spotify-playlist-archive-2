@@ -4884,7 +4884,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
@@ -6516,7 +6516,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -12482,7 +12482,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 224997,
       "name": "DOLE VODOU",
       "url": "https://open.spotify.com/track/25GP90hSjh7LCbsVj8Tryf"
@@ -13742,7 +13742,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 129987,
       "name": "dVAdSA\u01656",
       "url": "https://open.spotify.com/track/7vzkeMs0zII1JRBVYqn51V"
@@ -22532,7 +22532,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
@@ -35921,6 +35921,24 @@
     },
     {
       "album": {
+        "name": "N\u00e1dech",
+        "url": "https://open.spotify.com/album/76nezzdje9ugAr3mBqyo8p"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150612,
+      "name": "N\u00e1dech",
+      "url": "https://open.spotify.com/track/2Vsci1GxM2V4YlTZoeqS5J"
+    },
+    {
+      "album": {
         "name": "PREPAD\u00c1K",
         "url": "https://open.spotify.com/album/7F5GllFsYIkdoB6mMr9OuG"
       },
@@ -40790,7 +40808,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 161351,
       "name": "PUNO PARA PUNO PROBLEMA",
       "url": "https://open.spotify.com/track/20Vm5xcdfdHQ9VjIYrD5iH"
@@ -41072,7 +41090,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146526,
       "name": "P\u00d3ZART A HEJTOVEN",
       "url": "https://open.spotify.com/track/4fehyOhppnOSobNcfnCRHS"
@@ -42939,7 +42957,7 @@
     },
     {
       "album": {
-        "name": "Rozdielne",
+        "name": "ROZDIELNE",
         "url": "https://open.spotify.com/album/5UNquipHd8WdxrlnEC5zx9"
       },
       "artists": [
@@ -42950,9 +42968,9 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 131818,
-      "name": "Rozdielne",
+      "name": "ROZDIELNE",
       "url": "https://open.spotify.com/track/2K29vBjCbxEBpFlQ0Xtku4"
     },
     {
@@ -44994,7 +45012,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 145000,
       "name": "SI SPOME\u0147 \u017dE",
       "url": "https://open.spotify.com/track/22uqY7MuD0r7HI4zLIDP4j"
@@ -55270,7 +55288,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
@@ -58488,7 +58506,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 231001,
       "name": "ZASTAVAM SA",
       "url": "https://open.spotify.com/track/2rWdJhviIeJs3dRAVafTf4"
@@ -59014,7 +59032,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184977,
       "name": "ZPRAVA ZLAVA",
       "url": "https://open.spotify.com/track/73xUu1D54l5nJE11wn4fEj"

@@ -6903,6 +6903,32 @@
     },
     {
       "album": {
+        "name": "Monsoon of Love",
+        "url": "https://open.spotify.com/album/2zwge1vROhDd1IddlIxSBN"
+      },
+      "artists": [
+        {
+          "name": "Bhadra Rajin",
+          "url": "https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn"
+        },
+        {
+          "name": "S.M.J.",
+          "url": "https://open.spotify.com/artist/4wGDA3XCPyoDiU7hDnBYRs"
+        },
+        {
+          "name": "Sreehari K",
+          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201792,
+      "name": "Monsoon of Love",
+      "url": "https://open.spotify.com/track/5gc6ZgreADS7vNnTrc3pw5"
+    },
+    {
+      "album": {
         "name": "Moovanthi",
         "url": "https://open.spotify.com/album/5FHFajFKCOwcmygpPhye96"
       },

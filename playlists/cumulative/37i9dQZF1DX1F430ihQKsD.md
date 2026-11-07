@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal w/ Carla Chanelle
 
-1,022 songs - 2 day 9 hr 34 min
+1,023 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,6 +926,7 @@
 | [TOI](https://open.spotify.com/track/5GzKPDiPtnurHMdz8ecUu9) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [DJ Manifest](https://open.spotify.com/artist/054xXaZopv6j8jKPiQhVtT) | [LE CASH VAUT RIEN](https://open.spotify.com/album/5BQmijxAPJbVZiPYA7vz57) | 3:19 | 2026-03-13 | 2026-06-06 |
 | [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 | 2023-01-14 |
 | [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 | 2025-02-21 | 2026-04-04 |
+| [top of the morning](https://open.spotify.com/track/18lPoK9dIKtRRPYh8z2oyW) | [Classical X](https://open.spotify.com/artist/3lhNTFStFPddPJQ4aPhqH3) | [top of the morning](https://open.spotify.com/album/5NNZmpQyaalMxY1WT30Rhu) | 2:14 | 2026-11-06 |  |
 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 | 2022-09-23 | 2023-01-21 |
 | [Tough](https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bruise](https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ) | 3:27 | 2026-07-17 | 2026-09-26 |
 | [Toujours mieux](https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0) | [Tom Leger](https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK) | [Toujours mieux](https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf) | 2:25 | 2025-10-31 | 2025-12-04 |

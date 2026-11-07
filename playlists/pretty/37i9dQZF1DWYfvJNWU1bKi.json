@@ -1,6 +1,6 @@
 {
   "description": "The best in romantic tunes from Tamil cinema.\nCover : Sirai",
-  "num_followers": 675852,
+  "num_followers": 675971,
   "original_name": "Tamil Romance",
   "owner": {
     "name": "Spotify",
@@ -441,50 +441,6 @@
       "url": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN"
     },
     {
-      "added_at": "2025-04-17 11:03:07",
-      "album": {
-        "name": "Vazhithunaiye (From \"Dragon\")",
-        "url": "https://open.spotify.com/album/6LP4JZkaCBL5wmM1YsgipZ"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        }
-      ],
-      "duration_ms": 218285,
-      "name": "Vazhithunaiye - From \"Dragon\"",
-      "url": "https://open.spotify.com/track/3bTnREOf1CyY4Gz5jfHUiI"
-    },
-    {
-      "added_at": "2026-04-20 06:06:36",
-      "album": {
-        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Dheema",
-      "url": "https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm"
-    },
-    {
       "added_at": "2026-02-19 12:23:28",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
@@ -511,6 +467,50 @@
       "duration_ms": 208000,
       "name": "Singari",
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
+    },
+    {
+      "added_at": "2026-04-20 06:06:36",
+      "album": {
+        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Dheema",
+      "url": "https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm"
+    },
+    {
+      "added_at": "2025-04-17 11:03:07",
+      "album": {
+        "name": "Vazhithunaiye (From \"Dragon\")",
+        "url": "https://open.spotify.com/album/6LP4JZkaCBL5wmM1YsgipZ"
+      },
+      "artists": [
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        }
+      ],
+      "duration_ms": 218285,
+      "name": "Vazhithunaiye - From \"Dragon\"",
+      "url": "https://open.spotify.com/track/3bTnREOf1CyY4Gz5jfHUiI"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -747,8 +747,8 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+        "name": "Petta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g"
       },
       "artists": [
         {
@@ -756,21 +756,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Vaali",
-          "url": "https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r"
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
         }
       ],
-      "duration_ms": 312280,
-      "name": "Velicha Poove",
-      "url": "https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP"
+      "duration_ms": 217000,
+      "name": "Ilamai Thirumbudhe - From \"Petta\"",
+      "url": "https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU"
     },
     {
       "added_at": "2026-01-29 08:52:25",
@@ -933,20 +925,24 @@
       "url": "https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR"
     },
     {
-      "added_at": "2024-09-30 07:36:01",
+      "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Vaaya moodi summa iru da",
-        "url": "https://open.spotify.com/album/5Wfb9OXZfqBTCoBPmPGLBZ"
+        "name": "Naan Mahaan Alla (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2oTvmhMCac0nlAcQsL5k88"
       },
       "artists": [
         {
-          "name": "K. Krishna Kumar",
-          "url": "https://open.spotify.com/artist/6vNr4L8T4zVl43s3LCGrTQ"
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Tanvi Shah",
+          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
         }
       ],
-      "duration_ms": 273606,
-      "name": "Vaaya moodi summa iru da",
-      "url": "https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo"
+      "duration_ms": 317739,
+      "name": "Iragai Poley",
+      "url": "https://open.spotify.com/track/3FRLxtpSk9BxxnxdS6I4jq"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -997,24 +993,20 @@
       "url": "https://open.spotify.com/track/1AbSrAwrzuC3FcDXoYi3ED"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
+      "added_at": "2024-09-30 07:36:01",
       "album": {
-        "name": "Naan Mahaan Alla (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2oTvmhMCac0nlAcQsL5k88"
+        "name": "Vaaya moodi summa iru da",
+        "url": "https://open.spotify.com/album/5Wfb9OXZfqBTCoBPmPGLBZ"
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Tanvi Shah",
-          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
+          "name": "K. Krishna Kumar",
+          "url": "https://open.spotify.com/artist/6vNr4L8T4zVl43s3LCGrTQ"
         }
       ],
-      "duration_ms": 317739,
-      "name": "Iragai Poley",
-      "url": "https://open.spotify.com/track/3FRLxtpSk9BxxnxdS6I4jq"
+      "duration_ms": 273606,
+      "name": "Vaaya moodi summa iru da",
+      "url": "https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -1035,6 +1027,34 @@
       "duration_ms": 256945,
       "name": "Kannamma",
       "url": "https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6"
+    },
+    {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "NGK (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PSOoUkPG2oOSOVqAk3L7r"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "Anbae Peranbae",
+      "url": "https://open.spotify.com/track/6qRiVOBexkxK4BxSt1j6rn"
     },
     {
       "added_at": "2024-11-05 07:08:26",
@@ -1129,34 +1149,6 @@
       "url": "https://open.spotify.com/track/25SOVnk2agskqzqeKPcx2Q"
     },
     {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
-        "name": "NGK (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PSOoUkPG2oOSOVqAk3L7r"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Uma Devi",
-          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Anbae Peranbae",
-      "url": "https://open.spotify.com/track/6qRiVOBexkxK4BxSt1j6rn"
-    },
-    {
       "added_at": "2025-06-04 14:34:01",
       "album": {
         "name": "Thug Life (Tamil)",
@@ -1201,34 +1193,6 @@
       "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
     },
     {
-      "added_at": "2024-10-09 08:08:08",
-      "album": {
-        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
-        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 229811,
-      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
-      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
-    },
-    {
       "added_at": "2023-10-19 10:26:01",
       "album": {
         "name": "Kangal Edho (From \"Chithha\")",
@@ -1255,6 +1219,34 @@
       "duration_ms": 242249,
       "name": "Kangal Edho - From \"Chithha\"",
       "url": "https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4"
+    },
+    {
+      "added_at": "2024-10-09 08:08:08",
+      "album": {
+        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "duration_ms": 229811,
+      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -1775,18 +1767,18 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Rowthiram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4Bi1ggSG4ljoZoD4e5jpyA"
+        "name": "Minnale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA"
       },
       "artists": [
         {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+          "name": "Bombay Jayashri",
+          "url": "https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC"
         }
       ],
-      "duration_ms": 313600,
-      "name": "Malai Mangum Neram",
-      "url": "https://open.spotify.com/track/2yDBeS1pUuX9ms5Y3ItIAf"
+      "duration_ms": 299146,
+      "name": "Vaseegara",
+      "url": "https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -1805,20 +1797,28 @@
       "url": "https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
+      "added_at": "2024-10-03 13:12:17",
       "album": {
-        "name": "Minnale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA"
+        "name": "Kgf Chapter 2",
+        "url": "https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub"
       },
       "artists": [
         {
-          "name": "Bombay Jayashri",
-          "url": "https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC"
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
         }
       ],
-      "duration_ms": 299146,
-      "name": "Vaseegara",
-      "url": "https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo"
+      "duration_ms": 212351,
+      "name": "Mehabooba",
+      "url": "https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY"
     }
   ],
   "unique_name": "Tamil Romance",

@@ -4,7 +4,7 @@
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-101 songs - 5 hr 37 min
+102 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [DEVIL YOU KNOW](https://open.spotify.com/track/7nbAWldYW0XcfYUsB2fQIl) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:12 | 2025-09-05 |  |
 | [Doing Time](https://open.spotify.com/track/29MC8FA2ePMFv6zlRa1oMR) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [Doing Time](https://open.spotify.com/album/63CRNTgYWSf4tyavNFnqRR) | 2:40 | 2026-09-18 |  |
 | [Dust Till Dawn](https://open.spotify.com/track/2wuLvfJn8vqmgzgAXH0wAv) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP), [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Dust Till Dawn](https://open.spotify.com/album/3SqnkOUBHjugq0J7VvSv4u) | 2:55 | 2025-09-19 |  |
+| [Evergreen](https://open.spotify.com/track/0aJOtADXFfjUWYnPnMFNyo) | [Davis Cook](https://open.spotify.com/artist/5mriuNvLdhgaCHSg5dC3mF) | [Evergreen](https://open.spotify.com/album/5kf41Q0Se9CfPBlTLmt5Kc) | 2:43 | 2026-11-07 |  |
 | [Everything You Hate](https://open.spotify.com/track/2Jcj2BcQACBfNEouhjtvhK) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Everything You Hate](https://open.spotify.com/album/2jfJpru4kTLGk6Yj827us9) | 3:54 | 2026-01-09 |  |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2025-09-05 |  |
 | [Four Leaf Clover](https://open.spotify.com/track/4rKwvkw0x1K3I9dr5lwRhg) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 3:11 | 2025-09-05 |  |

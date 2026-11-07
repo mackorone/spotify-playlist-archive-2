@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo: Zed Yun Pavarotti.
 
-628 songs - 1 day 8 hr 3 min
+629 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [BOOM BOOM](https://open.spotify.com/track/6tOot9R6J8GEnDvndrmQ33) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [BOOM BOOM](https://open.spotify.com/album/6qUwqlBuZiYKnhkhji0bZZ) | 2:51 | 2026-01-01 | 2026-01-24 |
 | [Bouche à bouche](https://open.spotify.com/track/25aWXkGaXxloRWrdrjb1g0) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh), [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Bouche à bouche / Paradise](https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy) | 3:02 | 2025-01-23 | 2025-02-14 |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 | 2024-06-21 |
-| [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 | 2026-10-01 |  |
+| [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 | 2026-10-01 | 2026-11-07 |
 | [Briquet Collec](https://open.spotify.com/track/6AInThVfD3u4YLFrd8BADO) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [GRANITAS](https://open.spotify.com/album/3d29q1fjYNo7BroUQpN4fI) | 3:01 | 2026-06-18 | 2026-07-31 |
 | [british girl](https://open.spotify.com/track/0l04kYoEizefLbLIBttGVK) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi) | [british girl](https://open.spotify.com/album/2yx7RfrsuYbbkS2vBC1arg) | 2:40 | 2026-01-08 | 2026-04-10 |
 | [BROKEN BONES](https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId), [LIL Moine](https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq) | [BROKEN BONES](https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk) | 2:30 | 2024-06-13 | 2024-06-28 |
@@ -584,6 +584,7 @@
 | [Tout donner](https://open.spotify.com/track/0dVDB7he251aHjIp2OeCdG) | [Hotel Blue](https://open.spotify.com/artist/21hEqhG1BY1ZNg9chrijgp) | [Paolo](https://open.spotify.com/album/7nl8l63P2fqRVtvJb0UM2G) | 2:19 | 2026-11-05 |  |
 | [Tout est facile](https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Lesley](https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt), [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW), [Bruant](https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO), [Génération Débrouille](https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s) | [Tout est facile](https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY) | 3:06 | 2026-10-01 |  |
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 | 2024-02-02 |
+| [Tout s'en va](https://open.spotify.com/track/6mpBA9CQfJs7g16DjTya0A) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:55 | 2026-11-06 |  |
 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 | 2026-05-16 |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 | 2026-04-24 |
 | [Tout va passer](https://open.spotify.com/track/07x7aqwqXyAwoj5NDwajHd) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3), [Céline](https://open.spotify.com/artist/2328WsfrUqs6w7En7Si3WQ) | [Lazar](https://open.spotify.com/album/1s4pRwHfYXFvhSbTcWjfJu) | 2:38 | 2026-10-15 |  |

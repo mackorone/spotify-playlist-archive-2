@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-1,720 songs - 3 day 8 hr 2 min
+1,720 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Flip](https://open.spotify.com/track/3Q490nhbYkqCYZZsWGU1AV) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [The Golden Lotus](https://open.spotify.com/album/7dLQRlhxO89ErJeBFx4T6R) | 2:20 | 2024-04-07 | 2024-06-07 |
 | [Flip The Switch x Dibz](https://open.spotify.com/track/4zdwClUmo0zo20dX1SHX8Q) | [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG), [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Flip The Switch x Dibz](https://open.spotify.com/album/37qtikYIdiSoWqzcsIPCCf) | 2:31 | 2024-12-12 | 2025-03-07 |
 | [Flip The Switch x Say True God?](https://open.spotify.com/track/2TE9VXKTcElpvFtOL3ReCb) | [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Flip The Switch x Say True God?](https://open.spotify.com/album/0K0z6BPdlSMXPWYNwZ60uP) | 2:33 | 2025-04-24 | 2025-08-08 |
+| [Flow Switcher](https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [TRISTAN.](https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG) | 2:56 | 2026-11-05 |  |
 | [FLOWERS](https://open.spotify.com/track/7i9Jew4R1tzAe9SlPdWPK2) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [FLOWERS](https://open.spotify.com/album/29QurwuGqYFvdW83Gy612J) | 2:30 | 2024-09-19 | 2024-11-22 |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 | 2022-11-25 |
 | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/album/3suGtJheyDNSi0q00nEM9h) | 2:31 | 2025-10-30 | 2026-04-17 |
@@ -1534,7 +1535,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 11](https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [TRISTAN.](https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG) | 0:00 | 2026-11-05 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

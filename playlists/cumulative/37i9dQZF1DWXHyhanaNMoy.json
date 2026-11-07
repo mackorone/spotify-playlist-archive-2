@@ -36913,6 +36913,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124844,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN"
+    },
+    {
+      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -37874,24 +37892,6 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
-    },
-    {
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN"
     },
     {
       "album": {

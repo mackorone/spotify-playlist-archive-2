@@ -5915,6 +5915,32 @@
     },
     {
       "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/0dqiPaLrBHvJJpQuRD4ACP"
+      },
+      "artists": [
+        {
+          "name": "Carlton Jumel Smith & The Soul Seeders",
+          "url": "https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7"
+        },
+        {
+          "name": "The Soul Seeders",
+          "url": "https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as"
+        },
+        {
+          "name": "Carlton Jumel Smith",
+          "url": "https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/3ks9qSXJhT69jxXmavzCAn"
+    },
+    {
+      "album": {
         "name": "Love Is The Way",
         "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
       },
@@ -7038,7 +7064,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 175103,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f"
@@ -9598,7 +9624,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 253517,
       "name": "Sugar Me Up",
       "url": "https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc"
@@ -10436,6 +10462,24 @@
       "duration_ms": 197000,
       "name": "Tied To You",
       "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
+    },
+    {
+      "album": {
+        "name": "Time for A Change",
+        "url": "https://open.spotify.com/album/0fpaqKAJDXHJePJyQ4WD4K"
+      },
+      "artists": [
+        {
+          "name": "The Freedom Affair",
+          "url": "https://open.spotify.com/artist/09KnoJelHJ15aVpt3GAcuT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224151,
+      "name": "Time for A Change",
+      "url": "https://open.spotify.com/track/0UbG9aY25wTrbfdbZXFSBJ"
     },
     {
       "album": {

@@ -1143,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187592,
+      "name": "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
+    },
+    {
+      "album": {
         "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
       },

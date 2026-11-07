@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 673032,
+  "num_followers": 673003,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+      "duration_ms": 229282,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 229282,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "The Good Times and The Bad Ones",
-        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 277694,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
+        "name": "The Good Times and The Bad Ones",
+        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 277694,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1123,22 +1139,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2026-09-24 22:02:37",

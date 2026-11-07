@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-75 songs - 2 hr 27 min
+77 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Jingle Bells](https://open.spotify.com/track/5pbGOkjvOCDt8JzWeslQzS) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [Jingle Bells](https://open.spotify.com/album/0A6vd8mJpoVGcJhjqsApMG) | 2:27 | 2023-11-23 |  |
 | [Joy To The World](https://open.spotify.com/track/18NFzafFLPyjyf6iV3wf2X) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Christmas Night Lullabies](https://open.spotify.com/album/7IUk965uKYZGQiQjYHDGKe) | 1:14 | 2023-11-23 |  |
 | [Last Christmas](https://open.spotify.com/track/6qVj2ElSs2SUIwehqHyvIY) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [The Christmas Box](https://open.spotify.com/album/07Bdmu41VsgjiSOC5k7etg) | 3:37 | 2023-11-23 | 2025-09-05 |
+| [Last Christmas](https://open.spotify.com/track/1KTlTIG9YGvun43vKrPx9j) | [Eternelles](https://open.spotify.com/artist/0VsrG15EAEp0YkTHs6vL1a) | [Last Christmas](https://open.spotify.com/album/1ATg61yi6lFTFNfVHFqZ7x) | 2:10 | 2026-11-06 |  |
 | [Leise Rieselt der Schnee](https://open.spotify.com/track/6uLwesKCZF6RBF1KqdfKoc) | [Rosalie Bacque](https://open.spotify.com/artist/61h1MYvSPH23gbZD0ZgOlp) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:33 | 2023-11-23 |  |
 | [Let It Snow \- Music Box Version](https://open.spotify.com/track/2rVNiCBvPNANf8kHiF9Do9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [My Christmas Music Box](https://open.spotify.com/album/51VlCVsag9ouzitxEWeNZA) | 1:44 | 2023-11-23 |  |
 | [Little Donkey](https://open.spotify.com/track/6PUrQ4hHBNqrMuTYSaHCc8) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Christmas Music Box](https://open.spotify.com/album/4tyumZKLgiXc5vedXHzl6t) | 1:52 | 2023-11-23 | 2025-09-05 |
@@ -65,6 +66,7 @@
 | [Oh du Fröhliche](https://open.spotify.com/track/6jdWWdmIvPx1QqA5pHBusR) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:27 | 2023-11-23 | 2025-09-05 |
 | [Oh Tannenbaum](https://open.spotify.com/track/7HJEWwtoEwP0lGhaW0N81I) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Christmas Music Box](https://open.spotify.com/album/4tyumZKLgiXc5vedXHzl6t) | 1:14 | 2023-11-23 | 2025-09-05 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3mTFPi36pqNJErG78Dh71L) | [Mrs Myers Musicbox](https://open.spotify.com/artist/4f1PP9FjYZWEgNacU5ctVe) | [I'll Be Home For Christmas](https://open.spotify.com/album/53uJBbddmX2XYsiJzoyQJV) | 2:29 | 2023-11-23 |  |
+| [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6MjQJB6v1shsVDiUPes4zA) | [Little Koala](https://open.spotify.com/artist/1gLRBiAgnTX3Fj6I29ULqQ) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/4YusDvB8gKKcH1uisnuq45) | 2:39 | 2026-11-06 |  |
 | [Santa claus is coming to town](https://open.spotify.com/track/6xxU9GD8zMnkwrzp29WzYg) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Santa's Lullabies](https://open.spotify.com/album/2JoasNEISj8cQX2z0SsFHq) | 1:44 | 2023-11-23 | 2025-09-05 |
 | [Santa Tell Me](https://open.spotify.com/track/5XFmwPly8VTYtgSnzTZzHH) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Santa Tell Me](https://open.spotify.com/album/4nhTkg2x6WwEC61XiOVGuq) | 3:07 | 2024-12-05 |  |
 | [Santa Tell Me](https://open.spotify.com/track/3rPZhVdx5p7220Uq3jmNUG) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Santa Tell Me](https://open.spotify.com/album/7gIHLzqTAJiic1iofxPeSS) | 1:43 | 2023-11-23 | 2024-12-06 |

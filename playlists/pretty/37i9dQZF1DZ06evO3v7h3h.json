@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 45711,
+  "num_followers": 45708,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADTGT3fSIaaLOYUUVgJ4XSc",
+  "snapshot_id": "aup1gAAAAAAgLConTOnhB5PQ5MKc9cti",
   "tracks": [
     {
       "added_at": null,
@@ -779,30 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marissol Mwaba",
-          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
-        }
-      ],
-      "duration_ms": 243424,
-      "name": "Jogo S\u00e9rio",
-      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 219294,
       "name": "Levante",
       "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marissol Mwaba",
+          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
+        }
+      ],
+      "duration_ms": 243424,
+      "name": "Jogo S\u00e9rio",
+      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -919,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guizo de Cascavel",
         "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 226026,
       "name": "Pegapacap\u00e1",
       "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -1007,30 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 184445,
       "name": "Sem Norte",
       "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     },
     {
       "added_at": null,

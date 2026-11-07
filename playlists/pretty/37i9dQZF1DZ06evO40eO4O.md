@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,865 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,876 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 33 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 |
 | 34 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/3qc8DcgUI0Wo27LV64m2uL) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
 | 35 | [Tu Mitad \(feat\. Angela Torres\)](https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 3:41 |
-| 36 | [AMOR DEL WENO](https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AMOR DEL WENO](https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6) | 3:18 |
-| 37 | [Suerte](https://open.spotify.com/track/3Vw49Lshvir54THxWx6KQ5) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Suerte](https://open.spotify.com/album/4b2khULwCtevccCqhlWLkA) | 3:51 |
+| 36 | [Suerte](https://open.spotify.com/track/3Vw49Lshvir54THxWx6KQ5) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Suerte](https://open.spotify.com/album/4b2khULwCtevccCqhlWLkA) | 3:51 |
+| 37 | [AMOR DEL WENO](https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AMOR DEL WENO](https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6) | 3:18 |
 | 38 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 39 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 |
 | 40 | [Ropa Usada](https://open.spotify.com/track/42486PSR7Ed3VBGNhMFtP0) | [Diego Uma](https://open.spotify.com/artist/1GdiNwO4ULE3airQyDbIMI), [Martin Bosa](https://open.spotify.com/artist/0rQJnIVSGk1Bt9MQZIGBp4), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Kevsho](https://open.spotify.com/artist/2ZRWQ32bmdN6cdXr1TVGLh), [Sofía Saborido](https://open.spotify.com/artist/6yYuD9tFDOZFKA3HytWtVT), [Federico Sack](https://open.spotify.com/artist/0K2z0O8rZrG3SxQy59ZsQr) | [Porno y Helado \- \(Banda Sonora De La Segunda Temporada De La Serie Original De Amazon Prime\)](https://open.spotify.com/album/1GmqlbHDnKDsr5AWjv1EuE) | 1:57 |
 
-Snapshot ID: `aukkAAAAAAB9I9S7BlwOiqkQttdpAEaB`
+Snapshot ID: `auvHAAAAAAB4W7ZIHWNOEiu6bh4wvntr`

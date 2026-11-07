@@ -4,7 +4,7 @@
 
 > Reforzando la alianza Colombia\-México\. Con Luis Alfonso, Xavi y Silvestre Dangond en portada.
 
-428 songs - 22 hr 45 min
+429 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 | 2022-06-08 | 2022-07-26 |
 | [Mandale Una Carta](https://open.spotify.com/track/5nTl2wKuZ0gQNsgRnlpk2t) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Grandes Exitos \- Cornelio Reyna](https://open.spotify.com/album/78sIJmimw2un4UVOLSdJbL) | 2:52 | 2022-06-08 | 2022-07-27 |
 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 | 2026-07-17 |  |
-| [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 | 2026-07-17 |  |
+| [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 | 2026-07-17 | 2026-11-07 |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-06-08 | 2026-07-17 |
 | [Me Atrapaste](https://open.spotify.com/track/6LgRkAObJJUQEqV41szQ0R) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Nuestro Idolo](https://open.spotify.com/album/7eLhBVsqWVafqjsprtH6wH) | 3:46 | 2022-06-08 | 2022-07-29 |
 | [Me Bebi Lo del Mercado](https://open.spotify.com/track/4AQgGqE4gfkTy3Lr80QJh5) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim) | 3:39 | 2022-06-08 | 2022-07-29 |
@@ -342,6 +342,7 @@
 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 | 2026-07-17 |  |
 | [Señor](https://open.spotify.com/track/13HYMiliCHvhxqAbwnxSWY) | [Helenita Vargas](https://open.spotify.com/artist/6VGjtnnXEadiBtE5xPStM2) | [La Ronca de Oro \- Big Hits](https://open.spotify.com/album/40z4wlc5JUEsFPncJEZTKQ) | 2:53 | 2022-06-08 | 2022-07-29 |
 | [Señor Locutor](https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Historias Que Contar](https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP) | 3:08 | 2022-06-08 | 2022-12-31 |
+| [Señora](https://open.spotify.com/track/7nNKHNOXGzXAHNTs2LcIPg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Aquí Estoy Yo](https://open.spotify.com/album/3S1shMfIc0bd3UZhMg3BsT) | 2:59 | 2026-11-06 |  |
 | [Si Es Posible](https://open.spotify.com/track/4F6PxAv3P7WmDUiFknmRBp) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Si Es Posible](https://open.spotify.com/album/3VPdPXUegcU1wILBLinF5U) | 4:15 | 2026-07-17 |  |
 | [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-06-08 | 2022-07-29 |
 | [Si Negabas Que Buscabas](https://open.spotify.com/track/5WFRE336yFEFGyySGbO6hM) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw) | 3:47 | 2022-06-08 | 2022-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 447924,
+  "num_followers": 447949,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+      "duration_ms": 143632,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -435,34 +435,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 143632,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273805,
-      "name": "Trying Times",
-      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -479,6 +463,22 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 273805,
+      "name": "Trying Times",
+      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 246240,
       "name": "Miffed It",
       "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Cat Fun",
-        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Cat Fun",
-      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Cat Fun",
+        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 208700,
+      "name": "Cat Fun",
+      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Algo Fugaz",
+        "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
+      },
+      "artists": [
+        {
+          "name": "John Squalo",
+          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
+        },
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "duration_ms": 137101,
+      "name": "Algo Fugaz",
+      "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1851,22 +1871,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Algo Fugaz",
-        "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
       "artists": [
         {
-          "name": "John Squalo",
-          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
-        },
-        {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
         }
       ],
-      "duration_ms": 137101,
-      "name": "Algo Fugaz",
-      "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1887,22 +1903,6 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
-      },
-      "artists": [
-        {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Hasta los Glaciares",
-        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
-      },
-      "artists": [
-        {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
-        }
-      ],
-      "duration_ms": 201381,
-      "name": "Hasta los Glaciares",
-      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "No quiero olvidar",
         "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Hasta los Glaciares",
+        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 201381,
+      "name": "Hasta los Glaciares",
+      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "girlhood",
-        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
+        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
       "artists": [
         {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
         }
       ],
-      "duration_ms": 231910,
-      "name": "girlhood",
-      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
+      "duration_ms": 195541,
+      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
+      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
       "artists": [
         {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
         }
       ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     }
   ],
   "unique_name": "Relax en casa",

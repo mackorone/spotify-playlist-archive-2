@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-749 songs - 1 day 13 hr 27 min
+753 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 | 2025-02-24 |  |
 | [Blue Haze](https://open.spotify.com/track/2RWBFmndDrRQOcax4mfhvw) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Blue Haze](https://open.spotify.com/album/6PdHcC7kDnhl2p94foGcjL) | 1:41 | 2025-02-17 |  |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 | 2024-07-02 |
+| [Blue in Silence](https://open.spotify.com/track/1ZUnE13DVUDABwZCnHwWVr) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Blue in Silence](https://open.spotify.com/album/6vEFLPJATxiZUq8MeGxLn0) | 3:04 | 2026-11-06 |  |
 | [Blue Midnight](https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Blue Midnight](https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ) | 2:26 | 2023-12-08 | 2026-06-13 |
 | [Blue Moon](https://open.spotify.com/track/5Ej5z9hWIlNED6HkPT8l2f) | [Shandra Lewis](https://open.spotify.com/artist/6us9lDOOSG2BnBlkWkVO2B) | [Blue Moon](https://open.spotify.com/album/1wJEnxsA2azshg6xkLxZ3D) | 2:43 | 2023-01-05 | 2024-12-10 |
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 | 2025-07-02 |
@@ -179,6 +180,7 @@
 | [Echoes of Then](https://open.spotify.com/track/1obLOSAbJUNoqdHb93Fh4v) | [Noa Emerson](https://open.spotify.com/artist/6L3ru0t3JBL8fGywpt7uD6) | [Echoes of Then](https://open.spotify.com/album/4Tw1uEmGnMoibKNmQCGVCz) | 2:27 | 2026-05-08 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 | 2025-05-10 |
 | [Emily](https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Emily](https://open.spotify.com/album/33gP7iGrdPMvuZGkWeZPzR) | 3:46 | 2023-03-09 | 2025-04-24 |
+| [Empty Theaters](https://open.spotify.com/track/2riR4sCyRQKIm1Pd7tI5KV) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Empty Theaters](https://open.spotify.com/album/24VmI2LrmfW4aaUsrKxRdh) | 2:38 | 2026-11-06 |  |
 | [Entitled to it](https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Entitled to it](https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit) | 3:27 | 2023-06-08 | 2025-07-24 |
 | [Esperanza Brillante](https://open.spotify.com/track/6hlQU2W28HuP77MFqXcl0k) | [Palm Mgwire](https://open.spotify.com/artist/3kB4uwSDLzsPxnJMQtvC1f) | [Esperanza Brillante](https://open.spotify.com/album/6CPDn34IaIzFB4Np0lnfjU) | 3:00 | 2024-05-23 | 2025-03-25 |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 | 2024-11-19 |
@@ -335,7 +337,7 @@
 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 | 2024-02-23 | 2024-08-27 |
 | [Just a Memory](https://open.spotify.com/track/0oWSJi8tK26edMQZLEnVR4) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Just a Memory](https://open.spotify.com/album/4BkisHs6HgK8THr9ekCSzS) | 2:58 | 2025-10-15 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 | 2022-10-07 |
-| [Just About](https://open.spotify.com/track/1eCML5VJZequaheztQWBjs) | [Raven St John](https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu) | [Just About](https://open.spotify.com/album/1j1BDpPnRoMCijeVnEnNZB) | 2:15 | 2026-06-12 |  |
+| [Just About](https://open.spotify.com/track/1eCML5VJZequaheztQWBjs) | [Raven St John](https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu) | [Just About](https://open.spotify.com/album/1j1BDpPnRoMCijeVnEnNZB) | 2:15 | 2026-06-12 | 2026-11-07 |
 | [Just Friends](https://open.spotify.com/track/2YsdjtklZEjBXgovsaKFpm) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Just Friends](https://open.spotify.com/album/6zcCzNrc6e9NDKLMvMgKUm) | 3:45 | 2022-08-30 | 2024-06-28 |
 | [Just like the old days](https://open.spotify.com/track/27MGIJrErsvBwLfkjtr3DF) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Just like the old days](https://open.spotify.com/album/4upTPn43ZbHEEX6gixNimN) | 3:26 | 2024-06-04 | 2024-08-27 |
 | [Just One More](https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Just One More](https://open.spotify.com/album/3191PgCVvNGrFrQsuBODno) | 3:16 | 2024-03-22 | 2026-03-19 |
@@ -692,6 +694,7 @@
 | [Uncovered](https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Uncovered](https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH) | 2:29 | 2023-04-20 | 2024-12-17 |
 | [Underbart är kort](https://open.spotify.com/track/0cMLTbR7VyjsYc1267fp2M) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 4:04 | 2022-04-12 | 2022-08-11 |
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2022-08-10 | 2023-08-26 |
+| [Unhurried](https://open.spotify.com/track/3dsnXEyMzIkRJxMZVZnNjE) | [Ferru](https://open.spotify.com/artist/16pdEPoS5bYvwwcb04Gt3Q) | [Unhurried](https://open.spotify.com/album/3C8ceFUlx4dhbosAG2YayN) | 2:26 | 2026-11-06 |  |
 | [Unmarked Paths](https://open.spotify.com/track/4lY3iJHGwqtYDqH11uePd3) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Unmarked Paths](https://open.spotify.com/album/0niTxPAnzBOJ0OPQqamFzm) | 3:28 | 2026-03-20 | 2026-09-05 |
 | [Until the End of Night](https://open.spotify.com/track/6h90hz90xCvuPonKE3hkau) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Until the End of Night](https://open.spotify.com/album/1DIOYPyEmtndqsvjnmRnpE) | 2:33 | 2026-02-12 |  |
 | [Vancouver](https://open.spotify.com/track/3rZ0Si8Hadvn7cpV5UJTuG) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Vancouver](https://open.spotify.com/album/2pCswMzxRFRMbfmrr7ApDw) | 2:46 | 2024-07-01 | 2026-03-19 |
@@ -727,6 +730,7 @@
 | [When You Come Home](https://open.spotify.com/track/3YIB84TV1T3xzp091cyNaG) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [When You Come Home](https://open.spotify.com/album/3CUAfH53DhI9Tdt8uN9ZmJ) | 2:57 | 2024-04-10 |  |
 | [When You Come Over](https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [When You Come Over](https://open.spotify.com/album/2gos7UfVuuzx5mF0QIVy1s) | 3:00 | 2024-03-08 |  |
 | [Where did U go?](https://open.spotify.com/track/1xH0TTvm3ELeUAFnRcCqCw) | [Raven St John](https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu) | [Where did U go?](https://open.spotify.com/album/5hr9Bb5xdNDri4bnf4ZZOh) | 2:23 | 2026-09-04 |  |
+| [Where Light Rests](https://open.spotify.com/track/2i6czudI4CkUAZ6MCRxndb) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Where Light Rests](https://open.spotify.com/album/7FEyTfNO31zDt703ti057C) | 2:20 | 2026-11-06 |  |
 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 | 2022-04-12 | 2025-02-25 |
 | [Where Sound Becomes Distance](https://open.spotify.com/track/1wS52FxTn8QVnslYWxorAH) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Where Sound Becomes Distance](https://open.spotify.com/album/1OJrNDYQKOpiZYnryNhVMd) | 2:39 | 2026-05-08 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/0GpaPE4QF3ROdwAMThhfVu) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Whispers of jazz in the Wind](https://open.spotify.com/album/2J1cpf0a5F0zKdmDEW7c5x) | 2:20 | 2023-06-08 | 2025-03-04 |

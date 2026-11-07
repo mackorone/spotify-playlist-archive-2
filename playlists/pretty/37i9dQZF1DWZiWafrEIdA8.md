@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,788 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,797 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 44 | [Eul \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [2 Little Bites From \[Fatal Album Ⅲ\]](https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S) | 2:58 |
 | 45 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
 | 46 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
-| 47 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 |
-| 48 | [Sick enough to die \(Feat\. JAMIE\)](https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Jamie](https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN) | [20th Anniversary Edition ‘Dark Hole’](https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7) | 4:30 |
+| 47 | [Sick enough to die \(Feat\. JAMIE\)](https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Jamie](https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN) | [20th Anniversary Edition ‘Dark Hole’](https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7) | 4:30 |
+| 48 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 |
 | 49 | [Transcend \(Feat\. C JAMM\)](https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 3:40 |
 | 50 | [It's Gone](https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 4:29 |
 

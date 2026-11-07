@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152418,
+      "name": "bubblegum pink",
+      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe"
       },
@@ -680,6 +698,24 @@
       "duration_ms": 195300,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ"
+    },
+    {
+      "album": {
+        "name": "My Ego Told Me To...Do A Fan Edition",
+        "url": "https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187558,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c"
     },
     {
       "album": {
@@ -1422,7 +1458,7 @@
       },
       "artists": [
         {
-          "name": "RINI",
+          "name": "Rini",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
@@ -2288,6 +2324,24 @@
       "duration_ms": 213142,
       "name": "Love Is Unkind",
       "url": "https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh"
+    },
+    {
+      "album": {
+        "name": "Okay Piano Guy",
+        "url": "https://open.spotify.com/album/7FCIU4E3quVFnVtuBJ1KTC"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143032,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/5KxhYlemX1ubkwyXclZuSS"
     },
     {
       "album": {
@@ -3200,7 +3254,7 @@
       },
       "artists": [
         {
-          "name": "RINI",
+          "name": "Rini",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
@@ -3882,7 +3936,7 @@
       },
       "artists": [
         {
-          "name": "RINI",
+          "name": "Rini",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],

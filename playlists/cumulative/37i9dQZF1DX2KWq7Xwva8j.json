@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Gara Dur\u00e1n.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Alcal\u00e1 Norte.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -602,6 +602,24 @@
       "duration_ms": 123375,
       "name": "Camila",
       "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo Como Estaba",
+        "url": "https://open.spotify.com/album/5DdqS1tEM2HzExhj0fXK1G"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Campos De Golf",
+      "url": "https://open.spotify.com/track/2POzBe7i64yZF0ngCST3MG"
     },
     {
       "album": {

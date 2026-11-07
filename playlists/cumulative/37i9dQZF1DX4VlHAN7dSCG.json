@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: SONNIE \u6851\u5c3c",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 302016,
       "name": "bluebird",
       "url": "https://open.spotify.com/track/5bkm6ymbKeHfxt1jKi8xWC"
@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Running from London",
+        "url": "https://open.spotify.com/album/1b4xS7gvH0KpR5MgYIL0X4"
+      },
+      "artists": [
+        {
+          "name": "the Grey Zone",
+          "url": "https://open.spotify.com/artist/5PL9JgqjhZOvA7l67FeQYN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216714,
+      "name": "Hard to Compete",
+      "url": "https://open.spotify.com/track/32apjrTDpeojTRwfrHrorG"
+    },
+    {
+      "album": {
         "name": "Healing Me",
         "url": "https://open.spotify.com/album/2AxlsHqqqp8yTDIEqdUJio"
       },
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 305363,
       "name": "Komaen Ti' ti' \u6212\u56b4\u6b4c",
       "url": "https://open.spotify.com/track/43vQBrDTDrpcb72xUO5udC"
@@ -2818,6 +2836,24 @@
       "duration_ms": 213822,
       "name": "Let's Dream About Love (feat. GermanPops Orchestra) [Live]",
       "url": "https://open.spotify.com/track/42v7fZoy8aebsHmnfO8TDv"
+    },
+    {
+      "album": {
+        "name": "Like a Movie",
+        "url": "https://open.spotify.com/album/0UTJ58mKsjXGSj3V5Z3YQQ"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237551,
+      "name": "Like a Movie",
+      "url": "https://open.spotify.com/track/62b4bJxDSVX7hCTSurMwyO"
     },
     {
       "album": {
@@ -3458,7 +3494,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 254823,
       "name": "No more lying",
       "url": "https://open.spotify.com/track/2sX6m2ZrpLfWM2ltWLa31I"
@@ -5461,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "You'll See_XX",
+        "url": "https://open.spotify.com/album/29XPBlkOqmVs5y3IJycgSK"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Bac",
+          "url": "https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308930,
+      "name": "You'll See_XX",
+      "url": "https://open.spotify.com/track/3t4IPZOJlWQUzFqJAHFVHE"
+    },
+    {
+      "album": {
         "name": "Youaretheappleofmyeye",
         "url": "https://open.spotify.com/album/6psOUW1fVPHRdcpJdVtyBd"
       },
@@ -5632,7 +5686,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 227064,
       "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/5b6ESO8yGwUsnNEnZz2UCL"
@@ -5668,7 +5722,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 398082,
       "name": "\u4e00\u500b\u4eba\u7684\u65e5\u5b50",
       "url": "https://open.spotify.com/track/7hHc4LUh0qNjTxC5na631w"
@@ -6467,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "\u885d\u7a81\u7684\u610f\u7fa9",
+        "url": "https://open.spotify.com/album/5bpFtxEeF9VKMkjkEX3OqH"
+      },
+      "artists": [
+        {
+          "name": "\u6eab\u5ba4\u96dc\u8349",
+          "url": "https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271928,
+      "name": "\u4e9e\u7d30\u4e9e\u7684\u5b8c\u7f8e\u4eba\u751f",
+      "url": "https://open.spotify.com/track/4udajeFccLLOGWwFpTjWjL"
+    },
+    {
+      "album": {
         "name": "\u4eba\u53bb\u6a13\u7a7a",
         "url": "https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk"
       },
@@ -7052,6 +7124,24 @@
       "duration_ms": 269000,
       "name": "\u4f60\u7684\u6b65\u983b",
       "url": "https://open.spotify.com/track/0pSnyjR2svAntmx0VQR2au"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u807d\u6709\u7121",
+        "url": "https://open.spotify.com/album/2gg25AYaFqOjKJxEBSXRFk"
+      },
+      "artists": [
+        {
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217696,
+      "name": "\u4f60\u807d\u6709\u7121",
+      "url": "https://open.spotify.com/track/26QqyCGLfP1d3W76C3cNBe"
     },
     {
       "album": {
@@ -8594,7 +8684,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 309000,
       "name": "\u540c\u573a\uff08\u6bd4\u4e9a\u8fea\u6c49\u5510\u767e\u4e07\u8fbe\u6210\u7eaa\u5ff5\u5355\u66f2\uff09",
       "url": "https://open.spotify.com/track/2B8orPi7KHkQ4EoVtghGxs"
@@ -9884,6 +9974,24 @@
       "duration_ms": 324463,
       "name": "\u5bb6",
       "url": "https://open.spotify.com/track/7uZ2wOyNmFsiYTpWKJFAfJ"
+    },
+    {
+      "album": {
+        "name": "\u5bb6\u9580",
+        "url": "https://open.spotify.com/album/69lhADHxUyCp5QJsd8UCvu"
+      },
+      "artists": [
+        {
+          "name": "Who Cares \u80e1\u51f1\u5152",
+          "url": "https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242510,
+      "name": "\u5bb6\u9580",
+      "url": "https://open.spotify.com/track/07UlbUzwztq0zRCszSeDOQ"
     },
     {
       "album": {
@@ -11930,6 +12038,24 @@
       "duration_ms": 265808,
       "name": "\u6211\u662f\u8ab0\u6211\u662f\u8ab0\u6211\u662f\u8ab0(GX\u7248)",
       "url": "https://open.spotify.com/track/22VWtSne9Yhv7ifQ9J36ZZ"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6703\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/2aNWvSXapaJvY9nC1aDIV9"
+      },
+      "artists": [
+        {
+          "name": "Hello Nico",
+          "url": "https://open.spotify.com/artist/7x9dgKNOqskk2exnmjOEKo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "\u6211\u6703\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/0SoB0AoovnDSyNpN9OQ8dJ"
     },
     {
       "album": {
@@ -14945,6 +15071,24 @@
     },
     {
       "album": {
+        "name": "\u6295\u5e63\u5f0f\u4f34\u5531\u9dc4",
+        "url": "https://open.spotify.com/album/1V9juKbslba0P9U4Wf3L6r"
+      },
+      "artists": [
+        {
+          "name": "RIKI",
+          "url": "https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u7239\u819c",
+      "url": "https://open.spotify.com/track/2U1guZ8KXQb2E5kxVmtnvI"
+    },
+    {
+      "album": {
         "name": "\u7279\u6280\u5bb6\u65cf",
         "url": "https://open.spotify.com/album/5b8nrCJTdSwFKLP4dcwbBP"
       },
@@ -16629,6 +16773,24 @@
     },
     {
       "album": {
+        "name": "\u81ea\u7136\u7d44",
+        "url": "https://open.spotify.com/album/2C7RY5poDAV6YFiksVAwlH"
+      },
+      "artists": [
+        {
+          "name": "STACO",
+          "url": "https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198157,
+      "name": "\u81ea\u7136\u7d44",
+      "url": "https://open.spotify.com/track/5psomM9eMGIuWxEbzUANBw"
+    },
+    {
+      "album": {
         "name": "\u81ea\u7531\u9748\u9b42 (stripped)",
         "url": "https://open.spotify.com/album/25CLbmaVoze5TijPk9chiL"
       },
@@ -17250,7 +17412,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 245958,
       "name": "\u8a8d\u540c\u611f",
       "url": "https://open.spotify.com/track/40R5ehdcs68Cvd8rUxT66f"
@@ -17492,6 +17654,24 @@
       "duration_ms": 198560,
       "name": "\u8c6c\u809d\u9eb5\u7dda",
       "url": "https://open.spotify.com/track/46hdyC1kBOxUFcdr3Ti0gt"
+    },
+    {
+      "album": {
+        "name": "\u8ca1\u5bcc (Good Luck.)",
+        "url": "https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233522,
+      "name": "\u8ca1\u5bcc (Good Luck.)",
+      "url": "https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05"
     },
     {
       "album": {

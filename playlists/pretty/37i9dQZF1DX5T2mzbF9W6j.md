@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,047 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,041 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 43 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
 | 44 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
 | 45 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
-| 46 | [Kochanie!](https://open.spotify.com/track/4P8CXaK6JujCRu45IaZu5x) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Kochanie!](https://open.spotify.com/album/0qu9Ob1sWLmUYcUfwA81KT) | 2:52 |
+| 46 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 47 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
 | 48 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
 | 49 | [Ruchy pełne dźwięku](https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ruchy pełne dźwięku](https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk) | 2:53 |
 | 50 | [Nie mówcie mi jak mam kochać](https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v) | [Larah](https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp) | [Nie mówcie mi jak mam kochać](https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK) | 2:54 |
-| 51 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
+| 51 | [Kochanie!](https://open.spotify.com/track/4P8CXaK6JujCRu45IaZu5x) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Kochanie!](https://open.spotify.com/album/0qu9Ob1sWLmUYcUfwA81KT) | 2:52 |
 | 52 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 53 | [Nie wszystko złoto, co się świeci](https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Nie wszystko złoto, co się świeci](https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G) | 3:01 |
-| 54 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
-| 55 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
-| 56 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
-| 57 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
+| 54 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
+| 55 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
+| 56 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
+| 57 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
 | 58 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |
-| 59 | [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 |
-| 60 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
+| 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
+| 60 | [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 |
 
 Snapshot ID: `AAAAAFpRuT7ulCA3XBzHk/ClL/becyeN`

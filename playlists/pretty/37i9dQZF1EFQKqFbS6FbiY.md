@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 485 songs - 23 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 485 songs - 23 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 192 | [Mando Ou Não Mando \- Ao Vivo](https://open.spotify.com/track/6z4VYiyrY1EtQ7gfmISxPs) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:59 |
 | 193 | [Bêbado Mais Bêbado \- Ao Vivo](https://open.spotify.com/track/3MHjhPXG3FmzoxW3H8Q8qb) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:46 |
 | 194 | [Seja um Fenômeno \- Ao Vivo](https://open.spotify.com/track/7E30IFJdE5hf6zfnu2gjqb) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:12 |
-| 195 | [Chei das Poses](https://open.spotify.com/track/2ps4eyXbQSkusH7wX5drBT) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [De Volta do Futuro \(Ao Vivo\)](https://open.spotify.com/album/32tTYptSYlvLKayDcxNC0V) | 2:31 |
-| 196 | [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 |
+| 195 | [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 |
+| 196 | [Chei das Poses](https://open.spotify.com/track/2ps4eyXbQSkusH7wX5drBT) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [De Volta do Futuro \(Ao Vivo\)](https://open.spotify.com/album/32tTYptSYlvLKayDcxNC0V) | 2:31 |
 | 197 | [Eu Te Ganho \- Ao Vivo](https://open.spotify.com/track/2DO5YrqmfCl2rfGtxyWmlg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Com Amor Kevi Jonny \(Ao Vivo, Em Goiânia\)](https://open.spotify.com/album/2u9oqZGnMJh9wJhIEug4WV) | 3:39 |
 | 198 | [Lista de Trouxa \- Ao Vivo](https://open.spotify.com/track/6FoCVEPZEJ5w69Bdh9y5mo) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Lista de Trouxa \(Ao Vivo\)](https://open.spotify.com/album/2AcXMrS6i5LCCJgeLAxISy) | 2:46 |
 | 199 | [Chiclete \- Ao Vivo](https://open.spotify.com/track/0Tvb7HLqZdqEpDHGneunbZ) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Ao Vivo Em Brasília](https://open.spotify.com/album/34WRZpfbj6WShteS8xHJRm) | 2:33 |
@@ -468,8 +468,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 458 | [Adeus](https://open.spotify.com/track/7hS49CsgrcdKMewHLtVxNy) | [Tiaguinho Carvalho](https://open.spotify.com/artist/3YTPwaAl7b7ve2E7fEfeMc) | [Sentimento no Máximo 2.0](https://open.spotify.com/album/4asOaoxIcNXJv5wLPSBS5V) | 2:24 |
 | 459 | [Encarcerado](https://open.spotify.com/track/3Z1v2vb4QQCQTloMzuIpf3) | [Laluna e Vinícius](https://open.spotify.com/artist/2FC4Om8SSHWcOzab7jTYGf) | [O Que Rola Com Você](https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm) | 3:13 |
 | 460 | [E Eu](https://open.spotify.com/track/2GfCkgOiNolKBv1HTnD14H) | [Vitor Lima](https://open.spotify.com/artist/3n5lTanyLbwil9M5vkjFqh) | [Brincar de Vida](https://open.spotify.com/album/4xYyGSs39slfLLhRPssNFH) | 3:27 |
-| 461 | [Amigo Que É Amigo](https://open.spotify.com/track/5D1ixNARlM6FgtVwrb0esH) | [Junior Magalhaes](https://open.spotify.com/artist/55PGtNFOs1hBbN0szW9p2T) | [Junior Magalhaes](https://open.spotify.com/album/2DE1jLXH3UgvNWW7WXxbSR) | 2:16 |
-| 462 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 461 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 462 | [Amigo Que É Amigo](https://open.spotify.com/track/5D1ixNARlM6FgtVwrb0esH) | [Junior Magalhaes](https://open.spotify.com/artist/55PGtNFOs1hBbN0szW9p2T) | [Junior Magalhaes](https://open.spotify.com/album/2DE1jLXH3UgvNWW7WXxbSR) | 2:16 |
 | 463 | [Escolhe](https://open.spotify.com/track/2UBI2kgmy5pEzGJ5KpDbXZ) | [Nildo Rocha](https://open.spotify.com/artist/6PZ5U2oJhet83kYygVQ5mp) | [Chora Não Que Passa](https://open.spotify.com/album/5kl5EJ177UCxDi96PGeYIA) | 3:16 |
 | 464 | [Bébe Condenado \- Ao Vivo](https://open.spotify.com/track/4WE2NwQMt9kfop7q4kIzAg) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:33 |
 | 465 | [Marchate Ahora](https://open.spotify.com/track/4y0e3ExELaugYrkwhAeAAB) | [Juan Salguero](https://open.spotify.com/artist/0Or76RlOCqhutBjAF4WoB0) | [Marchate Ahora](https://open.spotify.com/album/5MSJnuj00fZCevgiGPcAFQ) | 4:07 |
@@ -494,4 +494,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 484 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 485 | [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 |
 
-Snapshot ID: `Acg5KgAAAACnZcK6do5hwfPokbiVjB+p`
+Snapshot ID: `Acg+mAAAAABdozI0C1bCnFKWRT6FWKci`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Look fear in the face. Scary movie themes, including tracks from Clayface, only in theatres.",
+  "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
   "name": "Fright Fest",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 127360,
       "name": "A Nightmare On Elm Street",
       "url": "https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 114946,
       "name": "Clayface Theme",
       "url": "https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 123134,
       "name": "Ghostbusters - Piano & Strings Version",
       "url": "https://open.spotify.com/track/3beAE0QZgk8GIKy3epPfAS"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 76173,
       "name": "No Soft Story",
       "url": "https://open.spotify.com/track/59BNWzDecXxvS1r5JsVrzp"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 167586,
       "name": "Pretty No More",
       "url": "https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq"
@@ -1350,6 +1350,24 @@
       "duration_ms": 97093,
       "name": "Sidney's Lament - From \"Scream\"",
       "url": "https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF"
+    },
+    {
+      "album": {
+        "name": "Get Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0L7VtXWMySVyhePPAtRlAN"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79956,
+      "name": "Sikiliza Kwa Wahenga - Main Title",
+      "url": "https://open.spotify.com/track/7dYRXvyAGIloysASZazFLl"
     },
     {
       "album": {

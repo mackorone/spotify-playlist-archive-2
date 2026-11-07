@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-311 songs - 17 hr 30 min
+313 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dead Weight](https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:27 | 2022-06-01 | 2023-06-02 |
 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 | 2022-06-01 | 2024-06-22 |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2023-01-24 | 2023-06-02 |
-| [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-06-01 |  |
+| [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-06-01 | 2026-11-07 |
 | [Dick in the Air](https://open.spotify.com/track/638UHVZeUJiDVQxb7PQ1u4) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Rub](https://open.spotify.com/album/3cFBqKdxDfZUDCOtOytHeB) | 3:10 | 2021-06-22 | 2022-06-01 |
 | [Did You Come?](https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:10 | 2022-06-06 | 2023-06-02 |
 | [Did You Come?](https://open.spotify.com/track/7Gg3K1voAqySrOMh9DPjAX) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:10 | 2021-06-22 | 2022-10-13 |
@@ -148,9 +148,10 @@
 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 | 2021-06-22 | 2023-07-01 |
 | [Liffey](https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2) | 4:19 | 2022-06-06 | 2024-04-19 |
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-06-22 | 2022-10-13 |
-| [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-05-30 |  |
+| [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-05-30 | 2026-11-07 |
 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-06-01 | 2026-07-10 |
 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 | 2025-05-30 |  |
+| [Loopholes](https://open.spotify.com/track/0R5AwrtQbABjnmV0DjF839) | [Rivkah Reyes](https://open.spotify.com/artist/5b77JnBZDTvUGNRCw5OdRw) | [Fan Favorite](https://open.spotify.com/album/6tNbVbN9YXBS2yfCfcLgAg) | 2:48 | 2026-11-06 |  |
 | [Lost](https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Lost](https://open.spotify.com/album/14ecs1rWP4SrH5rT8sU6Ox) | 3:34 | 2021-06-22 | 2022-06-01 |
 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 | 2023-01-24 | 2023-06-02 |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2021-06-22 | 2022-06-01 |
@@ -302,6 +303,7 @@
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2022-06-01 | 2023-06-02 |
 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 | 2023-06-01 | 2024-05-23 |
 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 | 2026-08-21 |  |
+| [We’ll Be Okay](https://open.spotify.com/track/6v3QZxEY4GChw1l892TKRc) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [When it Rains in August](https://open.spotify.com/album/0dm6oo11MhB2Kqcqma12Ep) | 2:41 | 2026-11-06 |  |
 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 | 2024-05-22 | 2026-09-05 |
 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 | 2023-06-01 |  |
 | [Where the Bodies are Buried](https://open.spotify.com/track/0xG35t62RlS74P1ReAgew9) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Where The Bodies Are Buried](https://open.spotify.com/album/3nVtNC85YkvrxYWmaJJ22M) | 3:06 | 2021-06-22 | 2022-07-29 |

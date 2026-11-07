@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Musk Vol.1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2VWYRFKaZHnfRZpQE62PGo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Connections",
+      "url": "https://open.spotify.com/track/2KJWybIHyAH4aPA9bUVJBp"
+    },
+    {
+      "album": {
         "name": "Contentious Environment (From \"The Invite\")",
         "url": "https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH"
       },
@@ -17578,24 +17596,6 @@
       "duration_ms": 180528,
       "name": "Towels on the Field",
       "url": "https://open.spotify.com/track/7ytvaFgYfja2E6ISXFoBWj"
-    },
-    {
-      "album": {
-        "name": "Musk Vol.1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2VWYRFKaZHnfRZpQE62PGo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2KJWybIHyAH4aPA9bUVJBp"
     },
     {
       "album": {

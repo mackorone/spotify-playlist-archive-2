@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "We are no more",
+        "url": "https://open.spotify.com/album/3N5AceJsdtzTW4VZXvwIYe"
+      },
+      "artists": [
+        {
+          "name": "choichangsoon",
+          "url": "https://open.spotify.com/artist/2gLhmVEa4hnjHRvMur0qlv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206123,
+      "name": "We are no more",
+      "url": "https://open.spotify.com/track/3Sb09JZXxDS5Gw0d1D88px"
+    },
+    {
+      "album": {
         "name": "What day do you live?",
         "url": "https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY"
       },

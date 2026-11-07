@@ -4,13 +4,14 @@
 
 > This is Hannah Jadagu\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 19 min
+25 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Admit It](https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:38 | 2025-11-15 |  |
 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2025-11-15 |  |
 | [Bleep Bloop](https://open.spotify.com/track/0R8bN6f8C1lYzKHXZXMzdR) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 3:44 | 2025-11-15 |  |
+| [Curse](https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Curse](https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr) | 3:23 | 2026-11-07 |  |
 | [D.I.A.A.](https://open.spotify.com/track/2br6kFxlzynYGelWXkNLt8) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:32 | 2025-11-15 |  |
 | [Describe](https://open.spotify.com/track/75GvPZpJyVWn51UKOH0KX0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:51 | 2025-11-15 | 2026-10-17 |
 | [Doing Now](https://open.spotify.com/track/6aIlwBpWSRmUkvdbRs78wU) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:11 | 2025-11-15 |  |

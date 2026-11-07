@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... Foto: Charly Garc\u00eda",
-  "num_followers": 127786,
+  "num_followers": 127809,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
+        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 301830,
+      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
         "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 266519,
       "name": "Ven Aqu\u00ed - MTV Unplugged",
       "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
-        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 301830,
-      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
+        "name": "Todavia No Puedo Olvidarte (En Vivo)",
+        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        },
+        {
+          "name": "Manuel Moretti",
+          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
+        }
+      ],
+      "duration_ms": 246023,
+      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 298263,
       "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
-        "name": "Todavia No Puedo Olvidarte (En Vivo)",
-        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        },
-        {
-          "name": "Manuel Moretti",
-          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
-        }
-      ],
-      "duration_ms": 246023,
-      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Sheriff (En Vivo en Baradero Diciembre 2024)",
-        "url": "https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0"
+        "name": "EN LA CIUDAD DE LA FURIA (En Vivo)",
+        "url": "https://open.spotify.com/album/1loCmsGg5lk8HmRcRlMxQ8"
       },
       "artists": [
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
-      "duration_ms": 347227,
-      "name": "Sheriff - En Vivo en Baradero Diciembre 2024",
-      "url": "https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW"
+      "duration_ms": 338123,
+      "name": "EN LA CIUDAD DE LA FURIA - En Vivo",
+      "url": "https://open.spotify.com/track/2fw3ujE8zbNVsl4EM7d0lR"
     }
   ],
   "unique_name": "Vivo de Rock",

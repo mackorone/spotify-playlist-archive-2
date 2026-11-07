@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125905,
+  "num_followers": 125919,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABYaUqeR0/Gh/jttWaDc4F8",
+  "snapshot_id": "auvHAAAAAAAZtarA0u9s+9qfhp6OsHud",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207561,
-      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/5UeGYRhsVMubTsraHGi2ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207561,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/5UeGYRhsVMubTsraHGi2ao"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Water Witch",
-      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 259799,
       "name": "No One Knows Us - Sad Gay Version",
       "url": "https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Hard Way Home",
-      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 242329,
-      "name": "A War With Time",
-      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
     },
     {
       "added_at": null,
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+      "duration_ms": 242329,
+      "name": "A War With Time",
+      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
     },
     {
       "added_at": null,
@@ -847,28 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 313167,
-      "name": "Who Believes In Angels?",
-      "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
@@ -876,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,
@@ -915,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ted Lasso: Season 4 (Apple TV Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5cWIQZ1qcBH3thID1beRB4"
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
       "artists": [
         {
@@ -924,9 +888,29 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 212733,
-      "name": "Ted Lasso Theme - from \u201cTed Lasso: Season 4\u201d",
-      "url": "https://open.spotify.com/track/4Ek8RVWrO2AecZZdT6GWNn"
+      "duration_ms": 182186,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 313167,
+      "name": "Who Believes In Angels?",
+      "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
     },
     {
       "added_at": null,
@@ -947,6 +931,22 @@
       "duration_ms": 202391,
       "name": "Run To Me (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ted Lasso: Season 4 (Apple TV Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5cWIQZ1qcBH3thID1beRB4"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Ted Lasso Theme - from \u201cTed Lasso: Season 4\u201d",
+      "url": "https://open.spotify.com/track/4Ek8RVWrO2AecZZdT6GWNn"
     },
     {
       "added_at": null,

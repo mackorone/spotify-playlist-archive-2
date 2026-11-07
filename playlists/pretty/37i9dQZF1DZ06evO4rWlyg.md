@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,343 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,362 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 25 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 |
 | 26 | [Pluto](https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:19 |
 | 27 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 |
-| 28 | [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 |
+| 28 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
 | 29 | [Undo](https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:38 |
 | 30 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 |
-| 31 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
+| 31 | [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 |
 | 32 | [Scary](https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Bachelorette](https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb) | 2:37 |
 | 33 | [Cocoon](https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 4:28 |
 | 34 | [All Neon Like](https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 41 | [Domestica](https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 3:25 |
 | 42 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 |
 | 43 | [New World](https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 4:21 |
-| 44 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
+| 44 | [It's In Our Hands](https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [It's In Our Hands, Vol\. 1](https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU) | 4:17 |
 | 45 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
-| 46 | [It's In Our Hands](https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [It's In Our Hands, Vol\. 1](https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU) | 4:17 |
+| 46 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
 | 47 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
-| 48 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
-| 49 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
-| 50 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 48 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
+| 49 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 50 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
 
-Snapshot ID: `aukkAAAAAABhOIxRAYe/BzMcNN4XK15r`
+Snapshot ID: `aup1gAAAAABGu3M3SBB1Y8C3YUpc3XE8`

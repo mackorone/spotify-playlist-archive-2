@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 213805,
       "name": "Been By Now",
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -4311,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -4692,7 +4728,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -5603,6 +5639,28 @@
     },
     {
       "album": {
+        "name": "expectations (feat. Chappell Roan) [wheel of misfortune]",
+        "url": "https://open.spotify.com/album/2nOFPiKwZSQccxG0lakaEV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/26m4l5G7Uw92v6vmmtlwhi"
+    },
+    {
+      "album": {
         "name": "expectations (feat. Chappell Roan)",
         "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
@@ -5618,7 +5676,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -5654,7 +5712,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -6380,7 +6438,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217897,
       "name": "Freakin\u2019 Out",
       "url": "https://open.spotify.com/track/2LSltDwOzq2yoBliFUnY41"
@@ -7094,7 +7152,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -7432,7 +7490,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -7812,7 +7870,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
@@ -10080,7 +10138,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -14578,7 +14636,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -16045,6 +16103,24 @@
     },
     {
       "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -16216,6 +16292,24 @@
       "duration_ms": 306065,
       "name": "Spoiled",
       "url": "https://open.spotify.com/track/0Shd736f6A7tJxzCTUI69X"
+    },
+    {
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
       "album": {
@@ -16806,7 +16900,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -18026,7 +18120,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -19254,7 +19348,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

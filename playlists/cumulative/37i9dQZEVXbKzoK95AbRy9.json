@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 419520,
       "name": "Anjos (Pra quem tem f\u00e9)",
       "url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -6782,7 +6782,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157184,
       "name": "Flash - Ao Vivo",
       "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 161862,
       "name": "Mo\u00e7a Pra Casar - Ao Vivo",
       "url": "https://open.spotify.com/track/0MuzQYLoFUYqcy89hH8cDR"
@@ -13047,6 +13047,24 @@
     },
     {
       "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240098,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b"
+    },
+    {
+      "album": {
         "name": "miXtura (Ao Vivo)",
         "url": "https://open.spotify.com/album/1NTfaogXzIYMSVPBtezgsJ"
       },
@@ -15324,7 +15342,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 624000,
       "name": "Set Dj Gm 6.0",
       "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
@@ -15560,7 +15578,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147096,
       "name": "Solinho do Fora PT",
       "url": "https://open.spotify.com/track/6PWlmKg86bvzmG7aSNe8Dq"
@@ -17220,7 +17238,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

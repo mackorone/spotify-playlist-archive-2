@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,567 songs - 5 day 16 hr 59 min
+2,569 songs - 5 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 | 2026-02-20 | 2026-03-31 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2026-03-21 |
 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-15 | 2026-09-22 |
-| [Blind](https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Blind](https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6) | 3:09 | 2026-09-08 |  |
+| [Blind](https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Blind](https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6) | 3:09 | 2026-09-08 | 2026-11-07 |
 | [Blindside](https://open.spotify.com/track/47iGN5FfJJnBSZWh5pz1bZ) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Blindside](https://open.spotify.com/album/2iPcf10Dnk8YCSjpnCNH3l) | 3:38 | 2022-04-08 | 2022-04-21 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-27 |
 | [Block Your Number](https://open.spotify.com/track/2ydxcOqV1csgBuJSJPunvX) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Block Your Number](https://open.spotify.com/album/3cpcgAYgkdLDW64J704aNB) | 3:22 | 2020-10-13\* | 2021-05-22 |
@@ -1743,6 +1743,7 @@
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-19 | 2023-01-24 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2021-02-24 | 2021-05-23 |
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-29 | 2022-07-01 |
+| [Perfect](https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Perfect](https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs) | 3:49 | 2026-11-06 |  |
 | [Perfect Timing](https://open.spotify.com/track/2OwLOjsJ7HTWQtnkInjHdL) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Perfect Timing](https://open.spotify.com/album/0xYhsSyXjDVBw2NtxkDYfu) | 2:13 | 2022-06-17 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-08-27 | 2022-07-23 |
 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 | 2023-03-03 | 2024-04-07 |
@@ -2261,7 +2262,7 @@
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-06-20 |
 | [The Bug](https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [The Bug](https://open.spotify.com/album/2A1c0zO7rYkPtlSrEiZTGP) | 3:56 | 2024-04-26 | 2024-06-01 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-09 |
-| [The Chapel](https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [The Chapel](https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8) | 3:02 | 2026-09-25 |  |
+| [The Chapel](https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [The Chapel](https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8) | 3:02 | 2026-09-25 | 2026-11-07 |
 | [The Clouds](https://open.spotify.com/track/5SegYKHnOYeNSroxWdJ1Wc) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [The Clouds](https://open.spotify.com/album/6FFq4AVPFU1Ig4uAIi14kr) | 2:19 | 2020-11-20 | 2021-02-28 |
 | [the craziest thing i've ever done](https://open.spotify.com/track/504MLnUGC8qPxtsWmwY3hl) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [the craziest thing i've ever done](https://open.spotify.com/album/4s2wMCiGFlOwbJwW63ZRec) | 3:11 | 2021-03-16 | 2021-05-28 |
 | [The Drummer](https://open.spotify.com/track/6hfjUCMCN2uA4PVAek7yU3) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb) | [The Drummer](https://open.spotify.com/album/1Y1X2eWAXaiYhaG2UXTPXA) | 3:29 | 2022-09-09 | 2022-09-17 |
@@ -2454,6 +2455,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-06-16 | 2023-09-30 |
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-11-03 | 2022-04-16 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-21 | 2024-10-26 |
+| [Well I Might Just Die](https://open.spotify.com/track/5SPLSJfoxLmVeXtFbMSR9h) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Well I Might Just Die](https://open.spotify.com/album/0az7K3RkMFEmvSkxomICTF) | 3:09 | 2026-11-06 |  |
 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-25 | 2025-08-27 |
 | [We’re So In Tune](https://open.spotify.com/track/7wjusjmjeqGJmuoGFYnMeM) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Mood Ring](https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5) | 4:00 | 2021-10-11 | 2021-10-16 |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-12-12 | 2026-03-21 |

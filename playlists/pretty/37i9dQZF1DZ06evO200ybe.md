@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,651 likes - 45 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,672 likes - 45 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,18 +17,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 7 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 | 8 | [Moon Love](https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [The Trumpet Artistry Of Chet Baker](https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM) | 3:15 |
 | 9 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 |
-| 10 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
-| 11 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
+| 10 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
+| 11 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 12 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
 | 13 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 14 | [If You Could See Me Now \- Mono](https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:19 |
-| 15 | [Soultrane](https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Most Important Jazz Album Of 1964/65](https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM) | 4:42 |
-| 16 | [I’m Old Fashioned](https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:06 |
-| 17 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 |
+| 15 | [I’m Old Fashioned](https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:06 |
+| 16 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
+| 17 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 18 | [Alone Together \- Mono](https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 6:52 |
-| 19 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
+| 19 | [Soultrane](https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Most Important Jazz Album Of 1964/65](https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM) | 4:42 |
 | 20 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 |
-| 21 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
+| 21 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 |
 | 22 | [September Song \- Mono](https://open.spotify.com/track/38xKGPT1Jxt1EFkWJGyk9w) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 3:05 |
 | 23 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
 | 24 | [Tenderly](https://open.spotify.com/track/5HVdNDqhK8hvEXm0OWEoGO) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 6:40 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 44 | [Lullaby Of The Leaves](https://open.spotify.com/track/2ynGfwePiLptW599QebWbr) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:16 |
 | 45 | [I waited for you](https://open.spotify.com/track/7EF6ls57hx7h2fThxjkXB5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:08 |
 
-Snapshot ID: `aukkAAAAAACnxU4Jsupw1aJzvORNJ8E0`
+Snapshot ID: `auvHAAAAAAAUpN1wQpBytQmPAeDT/crj`

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。XG, Ado, The Weeknd, Jack Harlow, Slayyyter and more!
 
-15,751 songs - 36 day 16 hr 13 min
+15,752 songs - 36 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14998,6 +14998,7 @@
 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 | 2025-11-06 | 2025-11-14 |
 | [パスタに涙](https://open.spotify.com/track/2eycfSMCcCKZF0yRN5VDqq) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [パスタに涙](https://open.spotify.com/album/7EzczSgGoOtRqM9pstbzvj) | 3:35 | 2026-07-30 | 2026-08-07 |
 | [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 | 2026-05-07 | 2026-05-15 |
+| [パラサイト](https://open.spotify.com/track/45cRjEwf4bho5HIwItPB1z) | [メメメメ](https://open.spotify.com/artist/0UdkujhXCcRDhkmHh7tmbc) | [パラサイト](https://open.spotify.com/album/7hcp6Nxdfry53EbIgterfd) | 2:18 | 2026-11-06 |  |
 | [パレットガール](https://open.spotify.com/track/2ZV7dXYxwC3U2972ivkkg4) | [プルスタンス](https://open.spotify.com/artist/2KOYcpqlozlvVDRnmmmmMA) | [パレットガール](https://open.spotify.com/album/2OrYroTl81PWVA9PEyhlAM) | 4:06 | 2024-06-28 | 2024-07-05 |
 | [パーティーチューン](https://open.spotify.com/track/33yCnYATdAhCcNpMhaxcsH) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [パーティーチューン](https://open.spotify.com/album/3fwqWXKjZCHLtrT9uDieZ2) | 2:11 | 2024-07-04 | 2024-07-12 |
 | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/track/3J2ICQACSVx1k6NVYjJ2O0) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/album/6FtYRmiSDlOJ3kHluWfWiw) | 3:22 | 2026-09-25 | 2026-10-02 |

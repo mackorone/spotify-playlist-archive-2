@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,654 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,656 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 30 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
 | 31 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 32 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
-| 33 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
-| 34 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 33 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 34 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 35 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
 | 36 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
 | 37 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |

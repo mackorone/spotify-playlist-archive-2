@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Gabriela Alatorre en portada.
+> una guitarra y mucho sentimiento para cantar\. Renee Mooi en portada.
 
-295 songs - 18 hr 43 min
+300 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 | 2025-05-30 | 2026-09-05 |
 | [Bumerán](https://open.spotify.com/track/1eDG6rEIWlVLVmoOZPnmRd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Bumerán](https://open.spotify.com/album/2UWpmovdzymBeYBRflCgX8) | 2:49 | 2026-01-16 |  |
 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 | 2023-02-22 | 2025-05-31 |
+| [Calma](https://open.spotify.com/track/6xfjE6dvANhJ9taimobHYN) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB), [Last Jerónimo](https://open.spotify.com/artist/0yaL0dzITk9aOWDeO2D3vW) | [A Morir a los Desiertos](https://open.spotify.com/album/59wWp5gVK7d0YCePs0byNr) | 4:14 | 2026-11-06 |  |
 | [Candela / Morena](https://open.spotify.com/track/56vTla01WudJTnLHGCbLEx) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/3Oq8SYIASucRZNlegqqIst) | 9:55 | 2022-03-04 | 2025-05-31 |
 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 | 2022-03-04 | 2024-04-19 |
 | [Cariñito](https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:39 | 2022-03-04 | 2024-04-19 |
@@ -70,6 +71,7 @@
 | [Cuando Yo Fui Tu Clavel](https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Cuando Yo Fui Tu Clavel](https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd) | 1:52 | 2026-02-20 | 2026-10-03 |
 | [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 | 2022-03-04 | 2024-08-24 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-04-20 | 2025-05-31 |
+| [Dallas](https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Dallas](https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh) | 4:11 | 2026-11-06 |  |
 | [Dame un besito](https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm) | [Querido Erick](https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15) | [Caminante](https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W) | 3:11 | 2026-10-02 |  |
 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 | 2025-05-30 |  |
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-03-04 | 2024-06-01 |
@@ -103,6 +105,7 @@
 | [El Son de Tus Suspiros](https://open.spotify.com/track/3Ha6gnrHZKElsm6QkJvCPD) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [El Son de Tus Suspiros](https://open.spotify.com/album/40aQp39AwN6epVJvHdWE0C) | 3:19 | 2022-03-04 | 2025-05-31 |
 | [El Sueno de Frida](https://open.spotify.com/track/6oa3KgZJ83kb3qfjlExQKz) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 3:44 | 2022-03-04 | 2025-05-31 |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-20 | 2024-06-01 |
+| [El Vacío](https://open.spotify.com/track/2zlaYCxo2aeaPuKzwFG9Zn) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [El Vacío](https://open.spotify.com/album/4JGiJczbXySzvG9Ios8VfS) | 4:12 | 2026-11-06 |  |
 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 | 2022-03-04 | 2023-02-23 |
 | [El zar](https://open.spotify.com/track/7MTGHaFpVPQSKqkpJUYAis) | [Liz Moriré](https://open.spotify.com/artist/58hywzV0ya3keINey4KFqK) | [El zar](https://open.spotify.com/album/6ccy2acomAyOIwj7NjHljL) | 3:44 | 2026-10-02 |  |
 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 | 2022-03-04 | 2025-05-31 |
@@ -244,6 +247,7 @@
 | [Señor Presidente](https://open.spotify.com/track/6z3BlkIqrvrHBn2nPJVJFh) | [Los Mocosos](https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT) | [American Us](https://open.spotify.com/album/39hfHdufLFVsNpymfhyrsh) | 4:52 | 2022-03-04 | 2024-04-19 |
 | [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 | 2025-05-30 |  |
 | [Si te mentí](https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si te mentí](https://open.spotify.com/album/1h5Ms3dB19s0Ne5bWT6Gqq) | 2:53 | 2025-06-24 |  |
+| [Si un día me pierdo](https://open.spotify.com/track/5fTKHXmzXUXCAoiHEZ4hPf) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [AZUL EP](https://open.spotify.com/album/5lWsoyzMF7q2gmt0r0Jdp4) | 3:50 | 2026-11-06 |  |
 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/3jE7MBxIJgBPD28W10UKpe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:01 | 2025-05-30 | 2026-01-15 |
 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 | 2025-05-30 |  |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2025-05-30 |  |
@@ -258,6 +262,7 @@
 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 | 2025-05-30 | 2025-07-22 |
 | [Suerte o Muerte](https://open.spotify.com/track/59p4eIgSMMqdCyp62WojvS) | [Majo Puente](https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte) | [Suerte o Muerte](https://open.spotify.com/album/4GKTVEcY72TQaOdmQd69fZ) | 2:17 | 2026-10-02 |  |
 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-06-24 |  |
+| [te extraño](https://open.spotify.com/track/6CpmWzvlV01jDAFCss6M6r) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [te extraño](https://open.spotify.com/album/0p9MBpGx8DeCpBAjflqvU0) | 3:29 | 2026-11-06 |  |
 | [Te Extraño De Un Extraño](https://open.spotify.com/track/6IS3wlL3HC1CjpClyTKfWM) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Te Extraño De Un Extraño](https://open.spotify.com/album/2IhqjrAZueaJpXA3eK4fdp) | 3:05 | 2025-05-30 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-03-04 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-03-04 | 2025-05-31 |

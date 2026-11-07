@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.",
-  "num_followers": 479811,
+  "num_followers": 479789,
   "original_name": "Disney Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAN1WLzubiAbNSzSFam/LuzIaiOQ",
+  "snapshot_id": "AAAAAMYt8o+i/z3d1KFu1Sn+dhnnar0a",
   "tracks": [
     {
       "added_at": "2025-10-14 13:00:17",
@@ -1669,6 +1669,22 @@
       "url": "https://open.spotify.com/track/6SCuftUwyxKG7OwfzHX5WO"
     },
     {
+      "added_at": "2026-11-06 08:00:11",
+      "album": {
+        "name": "Into the Nightmare Realm (From \"Kiff: Season 3\")",
+        "url": "https://open.spotify.com/album/05hiVk5Ud0zAZnCSvIxDda"
+      },
+      "artists": [
+        {
+          "name": "Kiff - Cast",
+          "url": "https://open.spotify.com/artist/0uIH4tpwsBsgQKWtQMYuI1"
+        }
+      ],
+      "duration_ms": 162904,
+      "name": "Into the Nightmare Realm - From \"Kiff: Season 3\"",
+      "url": "https://open.spotify.com/track/571PLNEf5bwZnM9sO5hGmM"
+    },
+    {
       "added_at": "2025-10-14 13:00:17",
       "album": {
         "name": "Only Murders in the Building (Original Score)",
@@ -1715,6 +1731,22 @@
       "duration_ms": 76466,
       "name": "Hocus Pocus Main Theme",
       "url": "https://open.spotify.com/track/52QAHrxaIAsppzxqIOLJWR"
+    },
+    {
+      "added_at": "2026-11-06 08:00:11",
+      "album": {
+        "name": "Phineas and Ferb: Halloween Hits",
+        "url": "https://open.spotify.com/album/2K0dACUdPwrit5xbpnK1Z4"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Phineas and Ferb",
+          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
+        }
+      ],
+      "duration_ms": 47797,
+      "name": "We're Eating, We Are Suits",
+      "url": "https://open.spotify.com/track/4BB7W87gc4xlD25zgyni5Z"
     },
     {
       "added_at": "2025-10-14 13:00:17",

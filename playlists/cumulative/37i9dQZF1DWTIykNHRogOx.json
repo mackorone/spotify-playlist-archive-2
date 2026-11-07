@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "d\u00e9s\u00e9quilibres",
+        "url": "https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Comment se dire au revoir ?",
+      "url": "https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl"
+    },
+    {
+      "album": {
         "name": "Contre-c\u0153ur",
         "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
       },
@@ -6888,24 +6906,6 @@
       "duration_ms": 246968,
       "name": "Toute l'eau qui coule",
       "url": "https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz"
-    },
-    {
-      "album": {
-        "name": "d\u00e9s\u00e9quilibres",
-        "url": "https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L"
-      },
-      "artists": [
-        {
-          "name": "Mathilda",
-          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl"
     },
     {
       "album": {

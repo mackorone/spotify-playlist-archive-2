@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157807,
+  "num_followers": 157801,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Kogeplade",
         "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
       },
@@ -983,26 +999,6 @@
       "duration_ms": 156086,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Horsens (feat. Sofie1998)",
-        "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        }
-      ],
-      "duration_ms": 191262,
-      "name": "Horsens (feat. Sofie1998)",
-      "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "Horsens (feat. Sofie1998)",
+        "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+      "duration_ms": 191262,
+      "name": "Horsens (feat. Sofie1998)",
+      "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "To Lanterner",
-        "url": "https://open.spotify.com/album/3G77bagmk5pe7ojdlmxSwJ"
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
       },
       "artists": [
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        },
-        {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
         }
       ],
-      "duration_ms": 172000,
-      "name": "To Lanterner",
-      "url": "https://open.spotify.com/track/0zs5EIVjsz66ZHuVlqj2hI"
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+        "name": "To Lanterner",
+        "url": "https://open.spotify.com/album/3G77bagmk5pe7ojdlmxSwJ"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        },
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
         }
       ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+      "duration_ms": 172000,
+      "name": "To Lanterner",
+      "url": "https://open.spotify.com/track/0zs5EIVjsz66ZHuVlqj2hI"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1375,6 +1359,22 @@
       "duration_ms": 233213,
       "name": "Red",
       "url": "https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
-      },
-      "artists": [
-        {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
-      },
-      "artists": [
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1899,22 +1879,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "bl\u00e5 n\u00e6tter",
-        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
       "artists": [
         {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
         },
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
         }
       ],
-      "duration_ms": 158708,
-      "name": "bl\u00e5 n\u00e6tter",
-      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
+      "duration_ms": 182066,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1931,6 +1911,26 @@
       "duration_ms": 205978,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "bl\u00e5 n\u00e6tter",
+        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        },
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 158708,
+      "name": "bl\u00e5 n\u00e6tter",
+      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
     }
   ],
   "unique_name": "ren hygge",

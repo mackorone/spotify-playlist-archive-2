@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 182 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,140 likes - 182 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 139 | [CALL NOW \(504\-305\-8269\) \(feat\. Michael Batiste\)](https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Batiste](https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:19 |
 | 140 | [Wicked](https://open.spotify.com/track/2rrv9BBB2tL7Y2ToNdLOzg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 1:55 |
 | 141 | [Closure](https://open.spotify.com/track/0Fsoo5wDEJ4Vs9Qn3r3ZrT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:33 |
-| 142 | [Damage](https://open.spotify.com/track/02gFgSPCOx4q306IAji6gt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:55 |
-| 143 | [SWERVE](https://open.spotify.com/track/66o2MJYTvdoanjOLH0UCp8) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 2:51 |
+| 142 | [SWERVE](https://open.spotify.com/track/66o2MJYTvdoanjOLH0UCp8) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 2:51 |
+| 143 | [Damage](https://open.spotify.com/track/02gFgSPCOx4q306IAji6gt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:55 |
 | 144 | [Tic Toc](https://open.spotify.com/track/2q0pAb1RdsYDO355DBR1xG) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Tic Toc](https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL) | 2:06 |
 | 145 | [Thunder Baby \(feat\. Shadea Charai\)](https://open.spotify.com/track/5mNRP0bfBGP8idnF9YHV4f) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Shadea Charai](https://open.spotify.com/artist/5ZOSK3zvZY6TUQe9CC7nrP) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 3:28 |
 | 146 | [Heaven](https://open.spotify.com/track/40gW1rV6dtDWUORO9Tn7HE) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:30 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 181 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 182 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `Acg5SAAAAAAXFR2AUKqo/641Ct4pN8wx`
+Snapshot ID: `Acg+tgAAAAAWImU4HjYasTjr47rGg7bO`

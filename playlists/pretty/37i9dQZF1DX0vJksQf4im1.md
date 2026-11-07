@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,589 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,610 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 | 56 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
 | 57 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 58 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
-| 59 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
+| 59 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:47 |
 | 60 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
 | 61 | [i think of you the most](https://open.spotify.com/track/2pr7yL0mr8Dnm2nlnqPMin) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [i think of you the most](https://open.spotify.com/album/6qpHLyez8QjIfaQOU8NghJ) | 3:17 |
 | 62 | [This & That](https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy) | 3:05 |

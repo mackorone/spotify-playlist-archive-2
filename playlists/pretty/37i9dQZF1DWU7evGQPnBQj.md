@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 
 > Go back in time with these video throwbacks\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064 likes - 22 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 22 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 | 18 | [Ocean](https://open.spotify.com/track/3tPHrrgwI3DBTfdaUunDc2) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ocean](https://open.spotify.com/album/3HblIEzHY5Td5Yagx8aItM) | 2:34 |
 | 19 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
 | 20 | [Yo Quisiera](https://open.spotify.com/track/3zaYySYaTegOcZ8pfEPXoG) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Yo Quisiera](https://open.spotify.com/album/5wchpiHn475ARS0GmswO0P) | 3:35 |
-| 21 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 |
+| 21 | [Eres para Mí \(with Anita Tijoux\) \- Video](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\) \[Video\]](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 |
 | 22 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 
 Snapshot ID: `AAAAAB1fF7VCbJt3WoNV8+eqicGsyRC/`

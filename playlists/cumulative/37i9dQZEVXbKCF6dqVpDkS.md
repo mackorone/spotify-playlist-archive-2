@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,637 songs - 5 day 15 hr 52 min
+2,638 songs - 5 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-06-21 | 2025-06-28 |
 | [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-26 | 2026-10-30 |
 | [BADDIES IN BELGICA](https://open.spotify.com/track/5t9FkbfKGL5c9tyjkacCeW) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/6AISwJYc792a5rKs00ORWD) | 2:05 | 2026-10-29 |  |
+| [BADDIES IN HOLLANDA](https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [BADDIES IN HOLLANDA](https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5) | 2:05 | 2026-11-06 |  |
 | [Baila bailalaa](https://open.spotify.com/track/3giTSv6iUSgwRxS7Op9Liv) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Baila bailalaa](https://open.spotify.com/album/3zMc3qEDZNtlrqlrZ9jKuH) | 2:56 | 2025-04-10 | 2025-04-30 |
 | [Baila bailalaa](https://open.spotify.com/track/0s0GNwEFTBE1cXezAyrmUi) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:57 | 2025-10-27 | 2025-10-29 |
 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-06-07 | 2026-10-27 |
@@ -2243,7 +2244,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-26 | 2022-12-29 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-13 | 2024-05-29 |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-23 | 2026-06-14 |
-| [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 | 2026-06-13 |  |
+| [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 | 2026-06-13 | 2026-11-07 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-30 | 2025-04-20 |
 | [The Dead Dance](https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:48 | 2025-09-11 | 2025-11-15 |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-18 | 2024-05-20 |

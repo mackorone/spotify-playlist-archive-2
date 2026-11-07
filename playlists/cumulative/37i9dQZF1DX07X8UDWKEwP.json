@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Andr\u00e9s Cepeda y Maluma",
+  "description": "Lo nuevo del mundo tropical. Cover: Duki",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 234000,
       "name": "1ra. Cita",
       "url": "https://open.spotify.com/track/6BOUinUGu3mTwcRgrh22Ia"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 180669,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/4LeSdaRsPioQUVkAlKr44z"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 252000,
       "name": "Bashiata",
       "url": "https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 207241,
       "name": "Besitos de man\u00ed",
       "url": "https://open.spotify.com/track/3SjM9g3p8UaAwvzprBLdeF"
@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Necesitas ser Feliz",
+        "url": "https://open.spotify.com/album/4EceCBaFX8FfgHmQx8snMr"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Conga Arroyo",
+      "url": "https://open.spotify.com/track/1ek5kcfpAhHsQyiLiBOdMw"
+    },
+    {
+      "album": {
         "name": "Conoc\u00ed a una Chica",
         "url": "https://open.spotify.com/album/4JeqXwg7LMHulJUN0rA9MS"
       },
@@ -3688,6 +3706,28 @@
       "duration_ms": 151680,
       "name": "Conoc\u00ed a una Chica",
       "url": "https://open.spotify.com/track/5c0wqC9SuKeWKyQVVMhRCa"
+    },
+    {
+      "album": {
+        "name": "Conquistada (feat. Chili Fernandez)",
+        "url": "https://open.spotify.com/album/64zvR6FF4zsfnYMxIcge3N"
+      },
+      "artists": [
+        {
+          "name": "Chule",
+          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187349,
+      "name": "Conquistada (feat. Chili Fernandez)",
+      "url": "https://open.spotify.com/track/365aig6GLcTk8YYNYy4QKI"
     },
     {
       "album": {
@@ -5172,7 +5212,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174085,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1fj3ADiUOOo9byRkA6bvOr"
@@ -5755,6 +5795,28 @@
     },
     {
       "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177188,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/4F6rGLPjFU1V3RkCs26g9o"
+    },
+    {
+      "album": {
         "name": "El Me Mintio",
         "url": "https://open.spotify.com/album/5rcxrwf0ngHnF2WSxuPVwp"
       },
@@ -5818,7 +5880,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 152083,
       "name": "El Mismo Aire - Remix",
       "url": "https://open.spotify.com/track/2FhtlPXmaJ1bcgMVXL3uCw"
@@ -5953,6 +6015,28 @@
     },
     {
       "album": {
+        "name": "El Que Se La Queda Pierde",
+        "url": "https://open.spotify.com/album/74DiRJoIUGeRdXAgXa38dp"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "El Que Se La Queda Pierde",
+      "url": "https://open.spotify.com/track/2UQ6NBMAT6PlUv8TDrOcmm"
+    },
+    {
+      "album": {
         "name": "El Reclamo (Bachata)",
         "url": "https://open.spotify.com/album/5Ho9NrNxyyTzi8J6fZ53Kv"
       },
@@ -6048,7 +6132,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155840,
       "name": "El Terremoto",
       "url": "https://open.spotify.com/track/2Vi9ISfnzgnuONeZzWFGaF"
@@ -6370,7 +6454,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 237000,
       "name": "En Veracruz",
       "url": "https://open.spotify.com/track/3ImsqvClWfVpSzkLzAdSIM"
@@ -7194,7 +7278,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163298,
       "name": "FAN",
       "url": "https://open.spotify.com/track/1t4INAdV46MKCC4dUm6gQv"
@@ -8752,7 +8836,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 141093,
       "name": "La Curita",
       "url": "https://open.spotify.com/track/3N3WPcEBEOfIS7GZIzPJWR"
@@ -9018,6 +9102,24 @@
       "duration_ms": 181504,
       "name": "La Gata y El Rat\u00f3n",
       "url": "https://open.spotify.com/track/6snDVosDpGehEanyE1lAQI"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo + Lo Mejor",
+        "url": "https://open.spotify.com/album/1r2YLxgrcQCcCR5UaRKxTa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331413,
+      "name": "La Guarachita Del Zorro (Cumbia Del Zorro Plateado)",
+      "url": "https://open.spotify.com/track/0O4Rghx0IYj8q3v3Tm9sdw"
     },
     {
       "album": {
@@ -9826,7 +9928,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 294000,
       "name": "Leyendas",
       "url": "https://open.spotify.com/track/2nvkpeQCScIPlntqF6f2U5"
@@ -10548,7 +10650,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 187877,
       "name": "Magdalena Ruiz",
       "url": "https://open.spotify.com/track/0C3XcPvGfP8V9YchDRJ8YO"
@@ -10584,7 +10686,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146000,
       "name": "Mal correspondido",
       "url": "https://open.spotify.com/track/0me65jYQpoB6fumoeuScCq"
@@ -10752,7 +10854,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219500,
       "name": "Malas Amistades - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
@@ -10774,7 +10876,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 176760,
       "name": "Malas Ma\u00f1as",
       "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
@@ -11164,7 +11266,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 195666,
       "name": "Me Enamore de un Imposible",
       "url": "https://open.spotify.com/track/7FvQmquIiwn6ObedgphKsi"
@@ -11902,7 +12004,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177831,
       "name": "Mil A\u00f1os",
       "url": "https://open.spotify.com/track/7gC1iZ6EJZfaJwjv0BngL2"
@@ -12151,6 +12253,32 @@
     },
     {
       "album": {
+        "name": "Muito Legal",
+        "url": "https://open.spotify.com/album/4jHEx4rUJas5WNJsJvuhNV"
+      },
+      "artists": [
+        {
+          "name": "Santi Sc",
+          "url": "https://open.spotify.com/artist/2wdZMvSgQUrBKt5sTMwhr2"
+        },
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "risko",
+          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181939,
+      "name": "Muito Legal",
+      "url": "https://open.spotify.com/track/1pNnDasef6UWjpRxOZBvX1"
+    },
+    {
+      "album": {
         "name": "Mujeres Bellas",
         "url": "https://open.spotify.com/album/1Dhq8qbGZH81S2Np4Pp3MI"
       },
@@ -12280,7 +12408,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 184615,
       "name": "Mu\u00f1equita Hot",
       "url": "https://open.spotify.com/track/6tD3SsabfsMq4aWKFy2HXv"
@@ -12662,7 +12790,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 132347,
       "name": "NO ME DEJES SIN TU AMOR",
       "url": "https://open.spotify.com/track/1xcbvqlHeTeccX6pvmS8Nu"
@@ -13341,6 +13469,28 @@
     },
     {
       "album": {
+        "name": "Ojitos Negros",
+        "url": "https://open.spotify.com/album/6oEvAOuJR5ytF76Raj8tsF"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Ojitos Negros",
+      "url": "https://open.spotify.com/track/1TFzvAq5hLdTcEyki136lI"
+    },
+    {
+      "album": {
         "name": "OJITOS ROJOS",
         "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
@@ -13908,7 +14058,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 163573,
       "name": "Para Que Hables de M\u00ed",
       "url": "https://open.spotify.com/track/5cXiE2Kvsr8knlS6gEJ65o"
@@ -15057,6 +15207,24 @@
     },
     {
       "album": {
+        "name": "Que Se Mueran Las Penas",
+        "url": "https://open.spotify.com/album/5NtVAQF4bFnq0OJXNciJ2o"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238998,
+      "name": "Que Se Mueran Las Penas",
+      "url": "https://open.spotify.com/track/6IvLlwoWbNVd6Pgt3CRTIh"
+    },
+    {
+      "album": {
         "name": "Que Se Vayan Ya",
         "url": "https://open.spotify.com/album/2LhM6MMQ9gQ98x6aNtmPaG"
       },
@@ -15402,7 +15570,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 137496,
       "name": "Qu\u00e9 iron\u00eda",
       "url": "https://open.spotify.com/track/3vA305QrbCHIRpZHPxzvRK"
@@ -15996,7 +16164,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 232562,
       "name": "San Judas Tadeo",
       "url": "https://open.spotify.com/track/2XjBJman1Dule4YpbxMW9c"
@@ -17608,7 +17776,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 230104,
       "name": "Te Busque",
       "url": "https://open.spotify.com/track/4AvUWE7YfM7bKms2lG3ZkV"
@@ -17996,7 +18164,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155690,
       "name": "Todas - En Vivo",
       "url": "https://open.spotify.com/track/7Lz7yfo6OePiYfJ4CokhgM"
@@ -18116,7 +18284,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210398,
       "name": "TROPiKETE",
       "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
@@ -19006,7 +19174,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 146511,
       "name": "Vatos",
       "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
@@ -19206,7 +19374,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 231965,
       "name": "Vienes y Te Vas - En Vivo Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/1ww12XnHtof48oHp9ZjdaM"

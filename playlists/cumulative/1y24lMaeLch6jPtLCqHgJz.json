@@ -3601,6 +3601,40 @@
     },
     {
       "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/0tb2xEL0QyA2uJg1bZ0Jjo"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/5ZuIWk2CWo9NTh3Ijzbn3r"
+    },
+    {
+      "album": {
         "name": "Feel Me Baby",
         "url": "https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni"
       },

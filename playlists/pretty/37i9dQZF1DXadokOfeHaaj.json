@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44165,
+  "num_followers": 44172,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -795,22 +795,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Round The Block",
-        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+        "name": "Center Peace",
+        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "Jane",
-          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
         }
       ],
-      "duration_ms": 162673,
-      "name": "Round The Block",
-      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+      "duration_ms": 234285,
+      "name": "Center Peace",
+      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -835,6 +831,26 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Round The Block",
+        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "Round The Block",
+      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/1QBnnhNimYbsPtwSODQxuo"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 165454,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Center Peace",
-        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Center Peace",
-      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Rise & Shine",
         "url": "https://open.spotify.com/album/7DwqmyRo2dJeIpoQxE5cjo"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 150545,
       "name": "Rise & Shine",
       "url": "https://open.spotify.com/track/5dB8Rp9VIXzYD8t5dsYzwW"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Decoding Birdsong",
         "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 205560,
       "name": "The First Five Minutes of Magnolia",
       "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1123,6 +1123,22 @@
       "duration_ms": 225391,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Seaford Sunset",
-        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
         }
       ],
-      "duration_ms": 218318,
-      "name": "Seaford Sunset",
-      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1263,46 +1279,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+        "name": "retrograde",
+        "url": "https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE"
       },
       "artists": [
         {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         }
       ],
-      "duration_ms": 285882,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
-        "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        },
-        {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        },
-        {
-          "name": "Prentiss",
-          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
-      "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+      "duration_ms": 175257,
+      "name": "retrograde",
+      "url": "https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm"
     }
   ],
   "unique_name": "Indie Electronic ",

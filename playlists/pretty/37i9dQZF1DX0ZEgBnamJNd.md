@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,934 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,937 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 17 | [That's Life](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [That's Life](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) | 3:07 |
 | 18 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 19 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
-| 20 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
-| 21 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
-| 22 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:09 |
+| 20 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
+| 21 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:09 |
+| 22 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
 | 23 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 24 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered 2009\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 |
 | 25 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 85 | [Anyone Who Had a Heart](https://open.spotify.com/track/4ARnPLLoQSZHDcucnuZdlr) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [60's Pop Jukebox](https://open.spotify.com/album/3ZBHqU1ut0qnYVJGEqaBa2) | 2:51 |
 | 86 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
 | 87 | [Travellin In The Usa](https://open.spotify.com/track/2uI9Y14I02IjcwnMTPE9Y3) | [Bintangs](https://open.spotify.com/artist/7MXtEuM6ObTPWY4oqjr2XJ) | [Travelling In The U.S.A.](https://open.spotify.com/album/5Tq6iaG37W6XUccYr47qIT) | 2:51 |
-| 88 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
-| 89 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
+| 88 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
+| 89 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
 | 90 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
 | 91 | [World Of Birds](https://open.spotify.com/track/79BmVIS5V8haqoLTZhufXO) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/5NFeMu0ww7GFLk1qGWM3NJ) | 3:28 |
 | 92 | [Keep On Trying](https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 2:58 |

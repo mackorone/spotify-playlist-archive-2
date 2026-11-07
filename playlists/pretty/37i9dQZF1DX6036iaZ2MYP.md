@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Didi B x Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,055 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,423 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 4 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 5 | [FIN KANOU](https://open.spotify.com/track/1YsgIvcAD491KMZWgLgUJp) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [FIN KANOU](https://open.spotify.com/album/2R2vUrdpBPwMRLxPJJlsFz) | 4:21 |
 | 6 | [Biberon](https://open.spotify.com/track/5R8Aq8FMvOpwYfJM7m2QJ2) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Biberon](https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX) | 3:07 |
-| 7 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/1qFiIVwsUNEZmmqBZuSm50) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 2:51 |
+| 7 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/1qFiIVwsUNEZmmqBZuSm50) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 2:51 |
 | 8 | [Pretty Nun](https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Pretty Nun](https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB) | 3:31 |
 | 9 | [Diva](https://open.spotify.com/track/2QsBBAmFadqvSfLfVdHhRg) | [sleepypierre](https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN), [Luzyqv](https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb) | [Diva](https://open.spotify.com/album/2ogE5cHhZtk5INgUxeQJYo) | 3:00 |
 | 10 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |

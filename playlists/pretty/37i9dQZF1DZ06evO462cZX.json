@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45979,
+  "num_followers": 45982,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAiBdd0lLoQTl6BPcexyxb/",
+  "snapshot_id": "auvHAAAAAAB6A1veRGU2YNo9kq7tz78y",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camaron Pelao",
-        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
         },
         {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 210349,
-      "name": "Camaron Pelao",
-      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "added_at": null,
@@ -555,26 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como La Flor",
-        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+        "name": "Camaron Pelao",
+        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
       "artists": [
         {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
         }
       ],
-      "duration_ms": 174555,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+      "duration_ms": 210349,
+      "name": "Camaron Pelao",
+      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
     },
     {
       "added_at": null,
@@ -940,13 +940,17 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Young Eiby",
-          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Que Es Eso (feat. Young Eiby)",
-      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+      "duration_ms": 229411,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
     },
     {
       "added_at": null,
@@ -1012,17 +1016,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Young Eiby",
+          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
         }
       ],
-      "duration_ms": 229411,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
+      "duration_ms": 220800,
+      "name": "Que Es Eso (feat. Young Eiby)",
+      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
     },
     {
       "added_at": null,

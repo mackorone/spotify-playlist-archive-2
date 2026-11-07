@@ -4097,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "playboy bunny",
+        "url": "https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB"
+      },
+      "artists": [
+        {
+          "name": "xcx99",
+          "url": "https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115229,
+      "name": "playboy bunny",
+      "url": "https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT"
+    },
+    {
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },

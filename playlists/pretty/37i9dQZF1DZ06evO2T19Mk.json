@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 603627,
+  "num_followers": 603664,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABRZN4lAbMiaNwliy1UBI72",
+  "snapshot_id": "auvHAAAAAABR6gec+dSYGIXPJTgr4vCh",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believers Never Die - Greatest Hits",
-        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+      "duration_ms": 257586,
+      "name": "Disloyal Order Of Water Buffaloes",
+      "url": "https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq"
     },
     {
       "added_at": null,
@@ -699,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 204506,
       "name": "Young Volcanoes",
       "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Disloyal Order Of Water Buffaloes",
-      "url": "https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "America's Suitehearts",
+      "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believers Never Die - Greatest Hits (Volume Two)",
         "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 170040,
       "name": "Dear Future Self (Hands Up)",
       "url": "https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "America's Suitehearts",
-      "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
     },
     {
       "added_at": null,

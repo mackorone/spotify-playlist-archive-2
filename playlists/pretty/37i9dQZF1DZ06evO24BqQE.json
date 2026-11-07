@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 55821,
+  "num_followers": 55877,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAB4pdmtFL76vmdm9WiJtzC1",
+  "snapshot_id": "auvHAAAAAAClELGI99DxGODTs3+6ZVhZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+      "duration_ms": 194954,
+      "name": "Regret (feat. 2Baba)",
+      "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
     },
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         },
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 194954,
-      "name": "Regret (feat. 2Baba)",
-      "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 231151,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 168205,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
     },
     {
       "added_at": null,

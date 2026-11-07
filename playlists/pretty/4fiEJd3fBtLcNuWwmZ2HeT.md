@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 527 songs - 1 day 6 hr 24 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 528 songs - 1 day 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -535,5 +535,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 525 | [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 |
 | 526 | [I'll Throw My Emotions Away](https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH) | [Riproducer](https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N) | [My Brain The Musical](https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S) | 4:44 |
 | 527 | [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 |
+| 528 | [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 |
 
-Snapshot ID: `AAAKiBNY99DTU2jDU2e28riWKFFiG3mT`
+Snapshot ID: `AAAKid4je2cpKaeYUFwtLVtvRUDB4zqc`

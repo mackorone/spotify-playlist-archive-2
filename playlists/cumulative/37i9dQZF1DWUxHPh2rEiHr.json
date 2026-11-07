@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
+  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Daddy Yankee",
   "name": "Global X",
   "tracks": [
     {
@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -986,6 +1004,28 @@
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND (EXTENDED)",
+        "url": "https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125367,
+      "name": "BACK TO LAGOS (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1"
     },
     {
       "album": {
@@ -1484,7 +1524,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 144000,
       "name": "BIRTHDAY BEHAVIOR",
       "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
@@ -1528,7 +1568,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189357,
       "name": "Botshelo Ke Eng",
       "url": "https://open.spotify.com/track/5gBaYximqC7VruZHOkUKl8"
@@ -2187,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
       },
@@ -2650,7 +2708,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159662,
       "name": "Cuentale",
       "url": "https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6"
@@ -3013,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "Dientes De Fierro",
+        "url": "https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Dientes De Fierro",
+      "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
+    },
+    {
+      "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
@@ -3111,6 +3191,36 @@
     },
     {
       "album": {
+        "name": "Do You Mind (With MOLIY)",
+        "url": "https://open.spotify.com/album/4rnr26ITEoP3rB2VdPIOmZ"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "DJ Paleface",
+          "url": "https://open.spotify.com/artist/4O5jQeIShGpcjxHwr1P0Gt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Do You Mind - (With MOLIY)",
+      "url": "https://open.spotify.com/track/2j6Gbti2bYn1VmOwXcCT6Y"
+    },
+    {
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -3162,7 +3272,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 185590,
       "name": "Don't Let Me Drown",
       "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
@@ -3734,7 +3844,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173538,
       "name": "EPA - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1vdR1ypNFyVBl74HRCTvOg"
@@ -4646,7 +4756,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 193846,
       "name": "Globo (feat. Blessd & Kofla)",
       "url": "https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3"
@@ -4742,6 +4852,24 @@
       "duration_ms": 231333,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -5002,7 +5130,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 152906,
       "name": "Hold On You",
       "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
@@ -5024,7 +5152,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -5864,7 +5992,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 180165,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8"
@@ -6753,6 +6881,28 @@
     },
     {
       "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -7028,7 +7178,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 135884,
       "name": "Locos",
       "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
@@ -8549,6 +8699,28 @@
     },
     {
       "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
+    },
+    {
+      "album": {
         "name": "MTV Cribs",
         "url": "https://open.spotify.com/album/78OrO1W0Nche1pGwWVyvZh"
       },
@@ -8955,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -8999,6 +9189,28 @@
     },
     {
       "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
@@ -9032,7 +9244,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162857,
       "name": "No Me Cansare",
       "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
@@ -10031,6 +10243,32 @@
     },
     {
       "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -10598,6 +10836,28 @@
       "duration_ms": 175493,
       "name": "Please Don't Suck",
       "url": "https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck"
+    },
+    {
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S"
     },
     {
       "album": {
@@ -11290,7 +11550,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 286243,
       "name": "Read My Lips",
       "url": "https://open.spotify.com/track/7AVgW1nx2D96joVhDxXIvG"
@@ -11312,7 +11572,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166956,
       "name": "Read My Lips (FIFA World Cup 2026\u2122)",
       "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
@@ -12589,6 +12849,32 @@
     },
     {
       "album": {
+        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
+    },
+    {
+      "album": {
         "name": "SloMo (Eurovision's Dancebreak Edit)",
         "url": "https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA"
       },
@@ -13001,6 +13287,24 @@
     },
     {
       "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -13104,6 +13408,28 @@
       "duration_ms": 127384,
       "name": "Sushi // Woofer Paar De! (feat. Mykko Montana)",
       "url": "https://open.spotify.com/track/2K82VcYXD0fzFfLhYadvCC"
+    },
+    {
+      "album": {
+        "name": "Suzuki (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111655,
+      "name": "Suzuki (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
       "album": {
@@ -13353,6 +13679,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -13368,7 +13716,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -13842,7 +14190,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 210014,
       "name": "Three Nations",
       "url": "https://open.spotify.com/track/7CQjf3iDJcNCvzSR9YMQx1"
@@ -14696,7 +15044,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147482,
       "name": "U\u00f1as Afiladas",
       "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
@@ -14856,7 +15204,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
@@ -14926,6 +15274,32 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
+      },
+      "artists": [
+        {
+          "name": "Chisway",
+          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "\u65af\u4e39\u66fc\u7c07",
+          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
     },
     {
       "album": {

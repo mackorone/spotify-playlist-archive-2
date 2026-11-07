@@ -9185,24 +9185,6 @@
     },
     {
       "album": {
-        "name": "Io non sono lei",
-        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
-      },
-      "artists": [
-        {
-          "name": "Emili Kasa",
-          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
-        }
-      ],
-      "date_added": "2026-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165029,
-      "name": "Io non sono lei",
-      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
-    },
-    {
-      "album": {
         "name": "Io sono in paranoia",
         "url": "https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE"
       },
@@ -13574,6 +13556,24 @@
       "duration_ms": 171428,
       "name": "non siamo crazy in love",
       "url": "https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd"
+    },
+    {
+      "album": {
+        "name": "Non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165029,
+      "name": "Non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "album": {

@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 291100,
       "name": "Ending Credits - Verity",
       "url": "https://open.spotify.com/track/7gzy3e63rp8oYxDv9q57wZ"
@@ -458,6 +458,28 @@
       "duration_ms": 34879,
       "name": "Evening Prayer",
       "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
+    },
+    {
+      "album": {
+        "name": "Die Falle (Soundtrack der Netflix Serie)",
+        "url": "https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        },
+        {
+          "name": "BEN WINKLER",
+          "url": "https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56138,
+      "name": "Fahrt zum Verlag",
+      "url": "https://open.spotify.com/track/4gvZw1Y6C1JkthpGpuMe3l"
     },
     {
       "album": {

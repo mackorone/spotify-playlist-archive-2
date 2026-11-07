@@ -4831,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225468,
+      "name": "Lovebird",
+      "url": "https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6"
+    },
+    {
+      "album": {
         "name": "Love\u2019s A Game",
         "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
       },
@@ -7982,24 +8000,6 @@
       "duration_ms": 170307,
       "name": "Torii",
       "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
-    },
-    {
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6"
     },
     {
       "album": {

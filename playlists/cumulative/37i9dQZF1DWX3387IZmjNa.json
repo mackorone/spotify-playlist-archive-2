@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189061,
       "name": "Get Yo Boy (with 21 Savage)",
       "url": "https://open.spotify.com/track/4PIVjezxyuvwwH4qyHQhu0"
@@ -6938,7 +6938,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 140799,
       "name": "Highway Love",
       "url": "https://open.spotify.com/track/49RIIpC9NPe0BGazNLtU6L"
@@ -15265,6 +15265,24 @@
     },
     {
       "album": {
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -16552,6 +16570,28 @@
       "duration_ms": 197209,
       "name": "Too Much Lick Her",
       "url": "https://open.spotify.com/track/1xMDoSwVTt1BRirlyhHBxV"
+    },
+    {
+      "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"
     },
     {
       "album": {

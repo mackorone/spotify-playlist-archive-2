@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The Flaming Lips along with the hottest alternative songs right now.\n",
+  "description": "Haute & Freddy along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -12264,10 +12264,28 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/5q13qp2aZFnN2S4m5NZU5R"
     },
     {
       "album": {

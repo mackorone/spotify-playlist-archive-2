@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3388,
+  "num_followers": 3390,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAA1D+I0ojvbjFBDuJgNr0aB",
+  "snapshot_id": "aup1gAAAAAClu9Ba/ao2g6e3HNn8tqk+",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mighty Is Your Name (feat. Melissa Bethea)",
-        "url": "https://open.spotify.com/album/3sx04T2p0lddMDHzPCGhDz"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 678963,
-      "name": "Mighty Is Your Name (feat. Melissa Bethea)",
-      "url": "https://open.spotify.com/track/2xsD3PI49ZUH0uzwGE7u9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 256654,
       "name": "OMG (feat. JJ Hairston)",
       "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "duration_ms": 335411,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/5ZOc7PrqXXjqYfrU77bz8B"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems & Prayers",
-        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+        "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+        "url": "https://open.spotify.com/album/3sx04T2p0lddMDHzPCGhDz"
       },
       "artists": [
         {
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "David Wilford",
-          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
         }
       ],
-      "duration_ms": 335411,
-      "name": "Deliver Us",
-      "url": "https://open.spotify.com/track/5ZOc7PrqXXjqYfrU77bz8B"
+      "duration_ms": 678963,
+      "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+      "url": "https://open.spotify.com/track/2xsD3PI49ZUH0uzwGE7u9o"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/7cyDxBXDrR7SSPRpyRpK2x"
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
       },
       "artists": [
         {
@@ -722,13 +722,13 @@
       ],
       "duration_ms": 479526,
       "name": "Lifted Up - Live",
-      "url": "https://open.spotify.com/track/7fVl4R61pmsQwBtSHfQ3EO"
+      "url": "https://open.spotify.com/track/0TUrdMKiqlaYRjCFDoSDRk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Live Reunion: Washington, DC (Live / Deluxe)",
-        "url": "https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6"
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
       },
       "artists": [
         {
@@ -736,17 +736,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
         }
       ],
-      "duration_ms": 392258,
-      "name": "Garment Of Praise - Live",
-      "url": "https://open.spotify.com/track/4ekXmMuGkRpjvf0EdyYYtL"
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
     },
     {
       "added_at": null,
@@ -780,19 +780,19 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Demarcus Kelly",
-          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
         }
       ],
-      "duration_ms": 112517,
-      "name": "Promise Keeper Interlude (feat. DeMarcus Kelly)",
-      "url": "https://open.spotify.com/track/1Zr7mwgi2VuT4twyc6dRRY"
+      "duration_ms": 423755,
+      "name": "Yahweh Deserves All Praise (feat. Tamela Hairston)",
+      "url": "https://open.spotify.com/track/2xu0vLNpLWT5v7eXPmjpBt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
+        "name": "The Live Reunion: Washington, DC (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6"
       },
       "artists": [
         {
@@ -800,17 +800,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
         }
       ],
-      "duration_ms": 502359,
-      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
+      "duration_ms": 392258,
+      "name": "Garment Of Praise - Live",
+      "url": "https://open.spotify.com/track/4ekXmMuGkRpjvf0EdyYYtL"
     },
     {
       "added_at": null,
@@ -879,6 +879,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+        }
+      ],
+      "duration_ms": 201765,
+      "name": "Praise To The Rock - Live",
+      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exalted...Live In Baltimore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
@@ -895,30 +919,6 @@
       "duration_ms": 413533,
       "name": "Everything Is Changed - Live",
       "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
-        }
-      ],
-      "duration_ms": 348755,
-      "name": "Stretch Out - Live",
-      "url": "https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+        }
+      ],
+      "duration_ms": 348755,
+      "name": "Stretch Out - Live",
+      "url": "https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exalted...Live In Baltimore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
@@ -975,54 +999,6 @@
       "duration_ms": 444480,
       "name": "Glory and Honor - Live",
       "url": "https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
-        }
-      ],
-      "duration_ms": 201765,
-      "name": "Praise To The Rock - Live",
-      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "It Pushed Me",
-      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
     },
     {
       "added_at": null,
@@ -1051,8 +1027,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
@@ -1062,11 +1038,39 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
         }
       ],
-      "duration_ms": 489813,
-      "name": "Spirit of God - Live",
-      "url": "https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s"
+      "duration_ms": 267626,
+      "name": "It Pushed Me",
+      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Tiffany Andrews",
+          "url": "https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP"
+        }
+      ],
+      "duration_ms": 475254,
+      "name": "Promise Keeper - Live",
+      "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
     }
   ],
   "unique_name": "This Is JJ Hairston",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,244 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,255 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 7 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 |
 | 8 | [Beleza Rara](https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Beleza Rara](https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb) | 3:25 |
 | 9 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 |
-| 10 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
-| 11 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
+| 10 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
+| 11 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 12 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 |
 | 13 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
 | 14 | [Meu Xodó](https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Meu Xodó](https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS) | 3:17 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 36 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 37 | [Cada um tem o seu Deus](https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Cada um tem o seu Deus](https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl) | 3:44 |
 | 38 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
-| 39 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
-| 40 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
+| 39 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
+| 40 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 41 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 |
 | 42 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
 | 43 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |

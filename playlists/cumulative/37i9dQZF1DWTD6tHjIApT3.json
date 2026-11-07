@@ -21409,6 +21409,24 @@
     },
     {
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221930,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
+    },
+    {
+      "album": {
         "name": "LOST AND FOUND",
         "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
       },
@@ -69136,7 +69154,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"

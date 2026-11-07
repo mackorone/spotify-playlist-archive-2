@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,436 songs - 3 day 12 hr 38 min
+1,438 songs - 3 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,7 +678,8 @@
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-10-07 | 2021-12-01 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-04-26 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-05-23 |
-| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-05 |  |
+| [SaWaDiKa](https://open.spotify.com/track/0UECk3l1544vRUzYoZO5gI) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 3:08 | 2026-11-06 |  |
+| [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-05 | 2026-11-07 |
 | [SDL](https://open.spotify.com/track/2vRoAkwc3UBEPW2udvN0u9) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:51 | 2023-04-22 | 2023-04-24 |
 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 | 2025-03-27 | 2025-04-28 |
 | [Seoul City](https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 2:44 | 2025-03-08 | 2025-03-10 |
@@ -1185,7 +1186,8 @@
 | [รักกันตอนเลิกกัน \(Too Late\)](https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:52 | 2026-10-12 | 2026-10-24 |
 | [รักน้อง](https://open.spotify.com/track/7CfldwMr1T6JaiHVkMCsqY) | [โก๊ะ นิพนธ์](https://open.spotify.com/artist/21y6UjoeRSIEKmkGD1KmKb) | [รักน้อง](https://open.spotify.com/album/0cbds87mfwZcnIGfe7NrCG) | 3:34 | 2025-07-08 | 2025-07-23 |
 | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP) | 4:13 | 2026-07-09 | 2026-09-16 |
-| [รักมือสอง](https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:20 | 2025-11-02 |  |
+| [รักมือสอง](https://open.spotify.com/track/3jpWzybH9RO5VribSGk6Nk) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [รักมือสอง](https://open.spotify.com/album/38s6EzSMlKC92hbGudXdmQ) | 3:20 | 2026-11-06 |  |
+| [รักมือสอง](https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:20 | 2025-11-02 | 2026-11-07 |
 | [รักรักรักรักรักรักรัก \(Talk Less\)](https://open.spotify.com/track/1LV7y6Foa5JFMOUc0qyj4b) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รักรักรักรักรักรักรัก \(Talk Less\)](https://open.spotify.com/album/0NYeQR4Q9C7FBnpbO7Pp0C) | 4:04 | 2025-05-24 | 2026-02-06 |
 | [รักสลักอก](https://open.spotify.com/track/1YiOlK2XiivuLhmQnL1n7Q) | [คณะขวัญใจ](https://open.spotify.com/artist/2hv2iYyaxT53z0T5qPxIcP) | [รักสลักอก](https://open.spotify.com/album/0E0RfXLKVJRHfCVyyZR9qD) | 4:17 | 2025-07-03 | 2025-08-08 |
 | [รักเธอหัวทิ่มบ่อ](https://open.spotify.com/track/22A3EEXoniinp3n7BlVlxT) | [HANGMAN](https://open.spotify.com/artist/4kTSU70JFddHShDyYIBxZN) | [Hangman](https://open.spotify.com/album/0EzmbCsLyXd7HvP6uYsRWN) | 3:49 | 2025-02-11 | 2025-05-01 |

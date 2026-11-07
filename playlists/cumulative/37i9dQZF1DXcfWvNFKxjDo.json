@@ -6392,8 +6392,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-05",
@@ -40360,8 +40360,8 @@
           "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         },
         {
-          "name": "Oc\u00e1tvio Cabuata",
-          "url": "https://open.spotify.com/artist/21dZ2negaw5kiWvlS662Fm"
+          "name": "Oct\u00e1vio Cabuata",
+          "url": "https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ"
         }
       ],
       "date_added": "2026-11-05",
@@ -100473,6 +100473,32 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2hDIoDVkdBlJlYFuZjGsFr"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Radical Future",
+          "url": "https://open.spotify.com/artist/2kfPO6hGDKVLRsBbSNCaAT"
+        },
+        {
+          "name": "Hani Dakin",
+          "url": "https://open.spotify.com/artist/26GVGg0FQzPLKOpjJFY8hl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/0mpZTqA8kSn7gqytFFyTcp"
+    },
+    {
+      "album": {
         "name": "OMG! (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
       },
@@ -124993,7 +125019,7 @@
     },
     {
       "album": {
-        "name": "So Fly",
+        "name": "So Fly (feat. Riton)",
         "url": "https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A"
       },
       "artists": [
@@ -125014,7 +125040,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 126412,
-      "name": "So Fly",
+      "name": "So Fly (feat. Riton)",
       "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {

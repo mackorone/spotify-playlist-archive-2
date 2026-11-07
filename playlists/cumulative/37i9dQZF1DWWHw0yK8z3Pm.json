@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Rayland Baxter",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: The Dead South",
   "name": "Renegades",
   "tracks": [
     {
@@ -2060,6 +2060,24 @@
       "duration_ms": 268856,
       "name": "Burn, Burn, Burn",
       "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+    },
+    {
+      "album": {
+        "name": "Butter My Lover",
+        "url": "https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185735,
+      "name": "Butter My Lover",
+      "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
     },
     {
       "album": {
@@ -8161,6 +8179,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "album": {
         "name": "Loving You Like That",
         "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
       },
@@ -11834,7 +11870,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168000,
       "name": "South of the Suburbs",
       "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
@@ -13758,7 +13794,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217035,
       "name": "We Both Care",
       "url": "https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM"

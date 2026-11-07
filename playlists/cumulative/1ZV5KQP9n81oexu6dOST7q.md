@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-188 songs - 9 hr 33 min
+189 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2025-07-04 |  |
 | [Ritmo Pegajoso](https://open.spotify.com/track/4nwohqWiqvZfGfDVRplr7y) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ritmo Pegajoso](https://open.spotify.com/album/4EoYRkSz9c0UnC2MgcrjO6) | 2:45 | 2025-07-04 | 2025-09-13 |
 | [Rivers](https://open.spotify.com/track/32yfHmv0jojX6dOKKiIE5F) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Rivers](https://open.spotify.com/album/191ObhNwUbjhkMh4ZvC5Dn) | 3:22 | 2025-12-19 |  |
+| [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 | 2026-11-06 |  |
 | [Rumors](https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS) | [Rumors](https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP) | 2:42 | 2026-01-06 |  |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-07-04 |  |
 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-10 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 37 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,792 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/3vIsw56YkzZr2AmtP3Iz6i) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 4:00 |
 | 2 | [El Remate](https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 4:04 |
-| 3 | [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 |
-| 4 | [La Típica](https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 2:51 |
+| 3 | [La Típica](https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 2:51 |
+| 4 | [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 |
 | 5 | [Normal](https://open.spotify.com/track/2Dj24olIFAq8Z9MlWndo6U) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:21 |
 | 6 | [Medellificación](https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:52 |
 | 7 | [Baño de Ruda](https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td) | 3:09 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 33 | [Mi Religión](https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 3:51 |
 | 34 | [Una Resaca Mas](https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 3:58 |
 | 35 | [Let My People](https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 3:32 |
-| 36 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
-| 37 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
+| 36 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
+| 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
 
-Snapshot ID: `aukkAAAAAAAHkhLMPXmDk9785fI3uy3E`
+Snapshot ID: `auvHAAAAAABjynKLGi21i5d4qhBiLNem`

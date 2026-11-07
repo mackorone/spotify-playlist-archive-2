@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,625 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,841 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 6 | [Start Again](https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Start Again](https://open.spotify.com/album/43X6TZVig2360nHCauKFBc) | 5:16 |
 | 7 | [Everything I Don't Know](https://open.spotify.com/track/5zlk6QcitMwOEI6uJmHJ4O) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [Everything I Don't Know](https://open.spotify.com/album/4ue5lAMf0NNC0BqIFKKTuK) | 2:50 |
 | 8 | [Gas](https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Gas / Ultra / Equarium](https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL) | 3:38 |
-| 9 | [Track 7](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 0:00 |
+| 9 | [Lovebird](https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Dream](https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG) | 3:45 |
 | 10 | [Hold](https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Hold](https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe) | 4:25 |
 | 11 | [i need some space](https://open.spotify.com/track/5a4Cv3iBy8uTjPytJfIgjS) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i need some space](https://open.spotify.com/album/2E5HJ3iS5gdh2EfB4CqRUp) | 2:28 |
 | 12 | [When The Leaves Fall](https://open.spotify.com/track/2DqqzcQkKJmtVX9LwLtFhI) | [Indigo Eyes](https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O) | [When The Leaves Fall](https://open.spotify.com/album/3os0HDPsLVSrlKoOSy1QfT) | 2:22 |

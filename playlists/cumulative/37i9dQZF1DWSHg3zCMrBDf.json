@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: King Promise",
+  "description": "The hottest tracks in Ghana. Cover: Kofi Mole",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/7rDGmSgMm2VqVhnvcZP5v2"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158570,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/37hUGd9DPyMkKrH9LC5ei0"
+    },
+    {
+      "album": {
         "name": "Cold & Trophies (feat. Sister Deborah)",
         "url": "https://open.spotify.com/album/37EViFim4IoCs9l1rUsTaj"
       },
@@ -2250,7 +2272,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 222828,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/3XOb28yG4xKwuUYlV8eKmS"
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170526,
       "name": "MCBH",
       "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
@@ -8856,7 +8878,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 190270,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
@@ -9808,7 +9830,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166186,
       "name": "Where Dem Boyz",
       "url": "https://open.spotify.com/track/7ycNb1S90gGqZ3MA6HW0vn"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Emili Kasa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,870 likes - 19 songs - 57 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,874 likes - 19 songs - 57 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 1 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 2 | [piccola magia](https://open.spotify.com/track/3zNkbgFLmF1c1c43FXtAWH) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5), [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [piccola magia](https://open.spotify.com/album/4xkV3QflY0vPNWkVOE1kNi) | 3:31 |
 | 3 | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim) | 2:55 |
 | 4 | [verticale](https://open.spotify.com/track/7CRiclkzpprFei2hnUagca) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 4:28 |

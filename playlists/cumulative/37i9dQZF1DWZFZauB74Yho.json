@@ -4755,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Out",
+        "url": "https://open.spotify.com/album/015lwKkj56TTNvEzOvvpY5"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "I'm Not Out",
+      "url": "https://open.spotify.com/track/6v56bwB18lBRAZEy7swz9l"
+    },
+    {
+      "album": {
         "name": "I'm on to You",
         "url": "https://open.spotify.com/album/5QZBYoMmpEtSErJkeTzwkl"
       },
@@ -5181,6 +5199,28 @@
     },
     {
       "album": {
+        "name": "I\u2019ll Fly Away (Radio Edit)",
+        "url": "https://open.spotify.com/album/6vv93qUT1oAPb8YdqVQC00"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253027,
+      "name": "I\u2019ll Fly Away - Radio Edit",
+      "url": "https://open.spotify.com/track/1s8xn13MpAlKM0LpMPw1YV"
+    },
+    {
+      "album": {
         "name": "Jackson, TN",
         "url": "https://open.spotify.com/album/7fiM5q7mAYHM3ooKqZpZoQ"
       },
@@ -5554,7 +5594,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 179373,
       "name": "Leavin' Town",
       "url": "https://open.spotify.com/track/033t7yIDaVQDpgVGtaO8ck"
@@ -6270,7 +6310,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 211000,
       "name": "Made Of Dust",
       "url": "https://open.spotify.com/track/06m5bkQrI1N6pl8NXRY3XD"
@@ -6838,6 +6878,28 @@
       "duration_ms": 173906,
       "name": "Never Losing Me",
       "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
+    },
+    {
+      "album": {
+        "name": "Never Seen",
+        "url": "https://open.spotify.com/album/6BqiTyr5NMhrvWtwk5mkJ8"
+      },
+      "artists": [
+        {
+          "name": "Taff Rapids",
+          "url": "https://open.spotify.com/artist/0FPZl5wKqaIX3zyoK1mj1r"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Never Seen",
+      "url": "https://open.spotify.com/track/3LmIw99NL6uu50IiqbCLq4"
     },
     {
       "album": {
@@ -8687,6 +8749,32 @@
     },
     {
       "album": {
+        "name": "Saul's Tune",
+        "url": "https://open.spotify.com/album/4uGyQkG3ZKl1pD5GSrNUHE"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202365,
+      "name": "Saul's Tune",
+      "url": "https://open.spotify.com/track/7FVQJ7WytCusGUb1pMoHjE"
+    },
+    {
+      "album": {
         "name": "Sawdust",
         "url": "https://open.spotify.com/album/4mDCND8lknhPeO7ls5dvp5"
       },
@@ -9160,6 +9248,24 @@
       "duration_ms": 193000,
       "name": "South of the Sun",
       "url": "https://open.spotify.com/track/3wGxcyZSGP7UJmZk0v3Jpz"
+    },
+    {
+      "album": {
+        "name": "Southern Love",
+        "url": "https://open.spotify.com/album/6Kl5YmBsKwuV0Pb5NH0Za9"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170477,
+      "name": "Southern Love",
+      "url": "https://open.spotify.com/track/78c0nXMJLWFtlk7HbwFb9N"
     },
     {
       "album": {
@@ -10186,7 +10292,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 208120,
       "name": "The World To You",
       "url": "https://open.spotify.com/track/6idj5S7bru5z6BoWMrr6Sj"
@@ -10788,7 +10894,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223626,
       "name": "Uptown Johnny Getaway",
       "url": "https://open.spotify.com/track/4Kvo5QeWhZkImPdbsk1CDB"

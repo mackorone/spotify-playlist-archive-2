@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/3nqdRkD7jvHfmxMzcbiNwR"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/3cTKCuZ5cRSrVsstExNNyh"
+    },
+    {
+      "album": {
         "name": "It's The Holidays",
         "url": "https://open.spotify.com/album/50pS1trCWbG8dmbVtNg88d"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yng Lvcas",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 171880,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
@@ -6227,6 +6227,32 @@
     },
     {
       "album": {
+        "name": "PEKORITAS Vol.1 (DELUXE)",
+        "url": "https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "DENNA BB",
+          "url": "https://open.spotify.com/artist/0lHj2ErDP3Ou4xgSvZZLXD"
+        },
+        {
+          "name": "Porrilaporri",
+          "url": "https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "CAZADORA - DELUXE",
+      "url": "https://open.spotify.com/track/4mcmbH713JVpGOfGE4cKDK"
+    },
+    {
+      "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
       },
@@ -6804,6 +6830,28 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
+    },
+    {
+      "album": {
+        "name": "Chulalai",
+        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213313,
+      "name": "Chulalai",
+      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
     },
     {
       "album": {
@@ -7938,7 +7986,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 208000,
       "name": "Coraz\u00f3n Vac\u00edo",
       "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
@@ -12000,7 +12048,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 172590,
       "name": "El Olvido",
       "url": "https://open.spotify.com/track/4cWw0TPimL3a3OATw639lg"
@@ -16244,6 +16292,24 @@
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "album": {
+        "name": "MONOS TONTOS",
+        "url": "https://open.spotify.com/album/4120XrK2vsY4NQvqDU77l2"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "JULIETA",
+      "url": "https://open.spotify.com/track/7zN95qQkFJaheKPIEgOpWJ"
     },
     {
       "album": {
@@ -23276,7 +23342,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154699,
       "name": "Mostaza",
       "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
@@ -27009,6 +27075,24 @@
     },
     {
       "album": {
+        "name": "Desde El Patio Western Club Volumen 5",
+        "url": "https://open.spotify.com/album/4qXylSgXATDgmGDWc5YRW0"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "PARA NO VERTE MAS",
+      "url": "https://open.spotify.com/track/6qZ6RpFSbQTKaKzR7Zfezo"
+    },
+    {
+      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
       },
@@ -29011,6 +29095,28 @@
     },
     {
       "album": {
+        "name": "PRENDO UNO",
+        "url": "https://open.spotify.com/album/2RCO3fh0mMZqRvAAbbVmBq"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163370,
+      "name": "PRENDO UNO",
+      "url": "https://open.spotify.com/track/0pDc8YllIbuUkzRJViR90a"
+    },
+    {
+      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -30380,7 +30486,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217873,
       "name": "Reacciona",
       "url": "https://open.spotify.com/track/4qNwVLXoOLFL8UiICKM2gq"
@@ -30668,7 +30774,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158487,
       "name": "Reminiscencia",
       "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
@@ -31528,6 +31634,24 @@
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/61FdszsvhMuHPpzz6T3v58"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/4XrUyjtE3FV7b33iw8Xhx7"
     },
     {
       "album": {
@@ -33360,6 +33484,24 @@
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "album": {
@@ -39712,7 +39854,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191454,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/6GcK0KjppUwOYYmSqygoug"

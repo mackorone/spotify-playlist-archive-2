@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 298 songs - 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 298 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 13 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
 | 14 | [Bassically](https://open.spotify.com/track/1RFxoPtr9svzsslCxIauiu) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:51 |
 | 15 | [The Wave](https://open.spotify.com/track/2IbQBVzWkT4CF9aEUWek2o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 4:18 |
-| 16 | [Can Ghosts Be Gay?](https://open.spotify.com/track/0CN9ZaGJjFCFa5H3CyEJzm) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:21 |
-| 17 | [Sun Has Set](https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:21 |
+| 16 | [Sun Has Set](https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:21 |
+| 17 | [Can Ghosts Be Gay?](https://open.spotify.com/track/0CN9ZaGJjFCFa5H3CyEJzm) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:21 |
 | 18 | [Not the Only One](https://open.spotify.com/track/17AnW24hC6ZU6P8VQwElH9) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:46 |
 | 19 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 | 20 | [Vueltas](https://open.spotify.com/track/4zMbUp4WDZxVeEeBpdgtH4) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 29 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 30 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
 | 31 | [Keep Running](https://open.spotify.com/track/1iEW4lIeD5IuGDo9zP9lHW) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:19 |
-| 32 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 |
-| 33 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
+| 32 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
+| 33 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 |
 | 34 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
 | 35 | [Magnet](https://open.spotify.com/track/2fgawGARU29VQIf8jb26fl) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:55 |
 | 36 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 45 | [So Long](https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 2:23 |
 | 46 | [ZaZa and Some Runtz \(Smoke Break\)](https://open.spotify.com/track/2gy4zjdL4S1nfuq2sVjz6e) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Zaza and Some Runtz \(Smoke Break\)](https://open.spotify.com/album/0NZqrTCRCx9yxtCJx99z2e) | 3:19 |
 | 47 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 |
-| 48 | [Warm in These Blue Jeans](https://open.spotify.com/track/3Gs1GKlY3g9Z3ufw0suxZH) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 5:29 |
-| 49 | [Living Room](https://open.spotify.com/track/5ApiDdbc9DeO0bOypn3ZYk) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:17 |
+| 48 | [Living Room](https://open.spotify.com/track/5ApiDdbc9DeO0bOypn3ZYk) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:17 |
+| 49 | [Warm in These Blue Jeans](https://open.spotify.com/track/3Gs1GKlY3g9Z3ufw0suxZH) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 5:29 |
 | 50 | [Everybody's Safe Until…](https://open.spotify.com/track/1bH7cCjye8VYaujXBsvFEs) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 3:39 |
 | 51 | [IDC](https://open.spotify.com/track/0GRrL3cbw4TiZTtTU1xaXd) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 3:45 |
 | 52 | [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 56 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
 | 57 | [BULLET MAN](https://open.spotify.com/track/31b2vyO3VXHwfGWZIr3JDw) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:58 |
 | 58 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
-| 59 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 |
-| 60 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 59 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 60 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 |
 | 61 | [2DK](https://open.spotify.com/track/6K5oRgYM2QVagCiHFnSDu4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:16 |
 | 62 | [Baby](https://open.spotify.com/track/2TSl9k48kkiAWYosgEMb3s) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:19 |
 | 63 | [It's Alright](https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:51 |
-| 64 | [About You](https://open.spotify.com/track/1eYgb5jt3qBEICuwHDyjW9) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Symmetry](https://open.spotify.com/album/7wUP1iUObau6jXYCX0KGOo) | 3:08 |
-| 65 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
+| 64 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
+| 65 | [About You](https://open.spotify.com/track/1eYgb5jt3qBEICuwHDyjW9) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Symmetry](https://open.spotify.com/album/7wUP1iUObau6jXYCX0KGOo) | 3:08 |
 | 66 | [Smithereens](https://open.spotify.com/track/1ERLTEddhtvU39NlYvleXM) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:42 |
 | 67 | [Elevator Hum](https://open.spotify.com/track/7nRrO9tLVZRhtOcoQPRwQi) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:55 |
 | 68 | [In Motion](https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:07 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 107 | [AM To PM](https://open.spotify.com/track/1RwQQnAsDCEXoK4C82rVcD) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [AM To PM](https://open.spotify.com/album/3GiH0Wp41i3UxeQwTTPQ1x) | 3:29 |
 | 108 | [Burning the Sky](https://open.spotify.com/track/1bT1s2SmQccmWXPsaXDIpC) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:36 |
 | 109 | [Is It Me](https://open.spotify.com/track/7iqP2bvYybkkDM8Ulr2RNs) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:16 |
-| 110 | [BUGGIN’](https://open.spotify.com/track/3r35TgApxSdiRv1DLkraeQ) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:08 |
-| 111 | [Lune](https://open.spotify.com/track/3gqnVUcHIMPmhCJ33ytGtP) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 110 | [Lune](https://open.spotify.com/track/3gqnVUcHIMPmhCJ33ytGtP) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 111 | [BUGGIN’](https://open.spotify.com/track/3r35TgApxSdiRv1DLkraeQ) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:08 |
 | 112 | [MORAL SUPPORT](https://open.spotify.com/track/5HcrpwNKs0ExfR3hdUOqMW) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:56 |
 | 113 | [Personal](https://open.spotify.com/track/2nXa9R1HW85cFPDFxmnutP) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 4:19 |
 | 114 | [Joyride](https://open.spotify.com/track/4j6RgRpQ6HC4JsOUcjwVtN) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:55 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 297 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 | 298 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Acg5NAAAAADVsREm8DvxOBzyNNF2oLh5`
+Snapshot ID: `Acg+rAAAAACSySOweFUXORQZVWlOTE2q`

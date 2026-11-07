@@ -1,13 +1,61 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Fat Dog</a>",
-  "num_followers": 60520,
+  "num_followers": 60519,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAR6e+qv41ncO6sueUPcglBoRp0xTJS",
+  "snapshot_id": "AAAR8CnNmsD00qyUJJdNZ7yrVPZ4hz6P",
   "tracks": [
+    {
+      "added_at": "2026-11-06 11:34:51",
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
+    },
+    {
+      "added_at": "2026-11-06 11:35:10",
+      "album": {
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
+    },
+    {
+      "added_at": "2026-11-06 11:35:20",
+      "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+    },
     {
       "added_at": "2026-10-21 10:50:03",
       "album": {
@@ -803,54 +851,6 @@
       "duration_ms": 275559,
       "name": "Arrested in Motion",
       "url": "https://open.spotify.com/track/2EQFBuLfUE8e6gzQeJJ2id"
-    },
-    {
-      "added_at": "2026-10-21 10:50:03",
-      "album": {
-        "name": "I'm Writing a New Song Every Month from One Birthday til the Next: August",
-        "url": "https://open.spotify.com/album/5dVQO5WFvxItwEOFGK8pTR"
-      },
-      "artists": [
-        {
-          "name": "Dylan Henner",
-          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "I'm Writing a New Song Every Month from One Birthday til the Next: August",
-      "url": "https://open.spotify.com/track/4p9jsPvuvW8MpkE9p2LVBD"
-    },
-    {
-      "added_at": "2026-10-21 10:50:03",
-      "album": {
-        "name": "Nearly",
-        "url": "https://open.spotify.com/album/0XpKZlGWTpea5gidjWsuuN"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        }
-      ],
-      "duration_ms": 193594,
-      "name": "Applegene",
-      "url": "https://open.spotify.com/track/1gJJHX2qb44sWm13AhFoTs"
-    },
-    {
-      "added_at": "2026-10-21 10:50:03",
-      "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y"
-      },
-      "artists": [
-        {
-          "name": "June McDoom",
-          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/7e5voQcavujtDcGiVebtyr"
     }
   ],
   "unique_name": "Domino Sound System",

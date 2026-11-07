@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: MABEL",
-  "num_followers": 133365,
+  "num_followers": 133384,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2026-11-06 03:00:12",
       "album": {
+        "name": "Nada seguro (MABEL Remix)",
+        "url": "https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        },
+        {
+          "name": "MABEL",
+          "url": "https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Nada seguro - MABEL Remix",
+      "url": "https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb"
+    },
+    {
+      "added_at": "2026-11-06 03:00:12",
+      "album": {
         "name": "Ven Vamos",
         "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 223493,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
-    },
-    {
-      "added_at": "2026-11-06 03:00:12",
-      "album": {
-        "name": "Nada seguro (MABEL Remix)",
-        "url": "https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "MABEL",
-          "url": "https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Nada seguro - MABEL Remix",
-      "url": "https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb"
     },
     {
       "added_at": "2026-11-06 03:00:12",

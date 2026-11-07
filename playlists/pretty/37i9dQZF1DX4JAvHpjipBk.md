@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Baby,  Slayyyter, Lizzy McAlpine, Dove Cameron and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,651,705 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,655,475 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 31 | [1ndividual](https://open.spotify.com/track/3DjGf2TjAmCGU67xgrYKxj) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [INDIVIDUAL](https://open.spotify.com/album/0OOuP9cAX5QayOJEtzv0tM) | 2:23 |
 | 32 | [Grain of Salt](https://open.spotify.com/track/2vPqCuX4GFFAJiGj9JQMG0) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Grain of Salt](https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv) | 2:42 |
 | 33 | [Big Shot](https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 2:49 |
-| 34 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Something Else](https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
+| 34 | [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 |
 | 35 | [WINDOW SHOPPER](https://open.spotify.com/track/39W7F5Ayk3AH8cS1IoT9zV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [WINDOW SHOPPER](https://open.spotify.com/album/35PiOjp1Z2AGxSbIh1fUGl) | 3:01 |
 | 36 | [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 |
 | 37 | [Dying In This House](https://open.spotify.com/track/3K33BYes6bVzZAsCiavBVT) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Dying In This House](https://open.spotify.com/album/2RnDoWbeBUohjqVR8CZzQw) | 4:07 |

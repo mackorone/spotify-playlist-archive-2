@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Blue in Silence",
+        "url": "https://open.spotify.com/album/6vEFLPJATxiZUq8MeGxLn0"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Blue in Silence",
+      "url": "https://open.spotify.com/track/1ZUnE13DVUDABwZCnHwWVr"
+    },
+    {
+      "album": {
         "name": "Blue Midnight",
         "url": "https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ"
       },
@@ -3080,6 +3098,24 @@
       "duration_ms": 226893,
       "name": "Emily",
       "url": "https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc"
+    },
+    {
+      "album": {
+        "name": "Empty Theaters",
+        "url": "https://open.spotify.com/album/24VmI2LrmfW4aaUsrKxRdh"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158005,
+      "name": "Empty Theaters",
+      "url": "https://open.spotify.com/track/2riR4sCyRQKIm1Pd7tI5KV"
     },
     {
       "album": {
@@ -5902,7 +5938,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 135041,
       "name": "Just About",
       "url": "https://open.spotify.com/track/1eCML5VJZequaheztQWBjs"
@@ -12317,6 +12353,24 @@
     },
     {
       "album": {
+        "name": "Unhurried",
+        "url": "https://open.spotify.com/album/3C8ceFUlx4dhbosAG2YayN"
+      },
+      "artists": [
+        {
+          "name": "Ferru",
+          "url": "https://open.spotify.com/artist/16pdEPoS5bYvwwcb04Gt3Q"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146517,
+      "name": "Unhurried",
+      "url": "https://open.spotify.com/track/3dsnXEyMzIkRJxMZVZnNjE"
+    },
+    {
+      "album": {
         "name": "Unmarked Paths",
         "url": "https://open.spotify.com/album/0niTxPAnzBOJ0OPQqamFzm"
       },
@@ -12944,6 +12998,24 @@
       "duration_ms": 143736,
       "name": "Where did U go?",
       "url": "https://open.spotify.com/track/1xH0TTvm3ELeUAFnRcCqCw"
+    },
+    {
+      "album": {
+        "name": "Where Light Rests",
+        "url": "https://open.spotify.com/album/7FEyTfNO31zDt703ti057C"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140484,
+      "name": "Where Light Rests",
+      "url": "https://open.spotify.com/track/2i6czudI4CkUAZ6MCRxndb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4158935,
+  "num_followers": 4159616,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Los Mas Sueltos Del Reggaeton",
+        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Un Poco Loca (feat. De La Ghetto)",
+      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 182186,
       "name": "Eras Una Ni\u00f1a (feat. Japanese)",
       "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Los Mas Sueltos Del Reggaeton",
-        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Un Poco Loca (feat. De La Ghetto)",
-      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Sol, Playa Y Arena",
-      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 276573,
       "name": "Deja",
       "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "A La Reconquista",
-        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 291658,
       "name": "Quitate Tu Pa Ponerme Yo",
       "url": "https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "A La Reconquista",
+        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "A Ti No",
-      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Drama Queen (Deluxe Version)",
         "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 192306,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "A Ti No",
+      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "\u00c9l No Se Va A Entrar",
-      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "\u00c9l No Se Va A Entrar",
+      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Masacre Musical",
-        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Es Dificil",
-      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "Masacre Musical",
+        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 233840,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
+      "duration_ms": 280680,
+      "name": "Es Dificil",
+      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2391,6 +2375,22 @@
       "duration_ms": 171240,
       "name": "Chambonea",
       "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2887,22 +2887,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Cantinero",
-        "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
-      },
-      "artists": [
-        {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
-        }
-      ],
-      "duration_ms": 221074,
-      "name": "Cantinero",
-      "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Guanabanas Update, Vol. 2",
         "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 229694,
       "name": "Mi Gatita y Yo",
       "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Cantinero",
+        "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "duration_ms": 221074,
+      "name": "Cantinero",
+      "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3211,6 +3211,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "2007 A\u00f1os De Exitos Reggaeton",
+        "url": "https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -3227,22 +3243,6 @@
       "duration_ms": 260200,
       "name": "Tocarte Toa (2008 / Remix)",
       "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "2007 A\u00f1os De Exitos Reggaeton",
-        "url": "https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3547,22 +3547,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
       "artists": [
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         },
         {
-          "name": "Joan",
-          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Gata Fiera (feat. Joan)",
-      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3579,6 +3579,26 @@
       "duration_ms": 199110,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3607,22 +3627,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Reggaeton Diamond Collection",
-        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 199367,
-      "name": "Yo No Soy Tu Marido",
-      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "La Versatilidad de la Calle",
         "url": "https://open.spotify.com/album/5lJFqTZrot5GNYLYspmebk"
       },
@@ -3643,22 +3647,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3731,22 +3731,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Alex Gargolas Greatest Hits",
-        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
-      },
-      "artists": [
-        {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Soy Una Gargola",
-      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "All Summer Long",
         "url": "https://open.spotify.com/album/3yTzMpvST867rWlCx4LDg4"
       },
@@ -3759,6 +3743,22 @@
       "duration_ms": 223186,
       "name": "Tempted to Touch (Old #2)",
       "url": "https://open.spotify.com/track/3hWSIQ6kE8o5dcZ4MV74zZ"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Alex Gargolas Greatest Hits",
+        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Soy Una Gargola",
+      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
     },
     {
       "added_at": "2026-09-23 16:07:56",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 127204,
+  "num_followers": 127208,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAC5IvvcbVfxaHH2QCxcjy6s",
+  "snapshot_id": "auvHAAAAAABWgHtaMvNJbZDntUXxEIuV",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+      "duration_ms": 218066,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Billy May Sessions",
-        "url": "https://open.spotify.com/album/263ABA7g5jinFRqq2KXQsT"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "You'll Never Know",
-      "url": "https://open.spotify.com/track/7J8H9xheQH3hurV0BgBrxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Billy May Sessions",
+        "url": "https://open.spotify.com/album/263ABA7g5jinFRqq2KXQsT"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "You'll Never Know",
+      "url": "https://open.spotify.com/track/7J8H9xheQH3hurV0BgBrxo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BD Music & Cabu Present Nat King Cole",
         "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 189560,
       "name": "\u2019Tis Autumn",
       "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Want To Be Hurt Anymore",
         "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Nat King Cole",
-        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
-      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nat King Cole's 8 Top Pops",
         "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158946,
       "name": "Walkin' My Baby Back Home",
       "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Nat King Cole",
+        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
+      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
     },
     {
       "added_at": null,

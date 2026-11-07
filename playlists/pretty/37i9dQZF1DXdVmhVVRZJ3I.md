@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,597 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,622 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 15 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
 | 16 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 |
 | 17 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
-| 18 | [Pararam](https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam](https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH) | 2:54 |
-| 19 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
+| 18 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
+| 19 | [Pararam](https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam](https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH) | 2:54 |
 | 20 | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK) | 2:58 |
 | 21 | [California Dreamin'](https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [California Dreamin'](https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt) | 2:59 |
 | 22 | [Celebration](https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Celebration](https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn) | 2:53 |

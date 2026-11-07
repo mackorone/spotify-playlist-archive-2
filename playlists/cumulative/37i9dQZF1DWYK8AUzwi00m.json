@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Holiday FM",
+        "url": "https://open.spotify.com/album/52223hvVT4sGSOKjycs7a4"
+      },
+      "artists": [
+        {
+          "name": "Hallucination Orbit",
+          "url": "https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Alone on Christmas",
+      "url": "https://open.spotify.com/track/53OKEBPBDSi7KIciW95GXt"
+    },
+    {
+      "album": {
         "name": "Angels From the Realms of Glory",
         "url": "https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu"
       },
@@ -1193,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "dear santa",
+        "url": "https://open.spotify.com/album/00mAfjFK33PpWWbAKQElmt"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129280,
+      "name": "dear santa",
+      "url": "https://open.spotify.com/track/2905ZizvPx4tLTXU32arLp"
+    },
+    {
+      "album": {
         "name": "Lofi Christmas",
         "url": "https://open.spotify.com/album/5uC1btcQmcIyTZaAfoPlnZ"
       },
@@ -1251,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Deck The Hall",
+        "url": "https://open.spotify.com/album/621zfWt6BTdSX2xljkoRPD"
+      },
+      "artists": [
+        {
+          "name": "Chris Anthony",
+          "url": "https://open.spotify.com/artist/426idHqgmcWv0y5wfMeYKK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/2NEHNIg6ye54F759KxOQtx"
+    },
+    {
+      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/76x5R74QcMi5HErYZk9kU8"
       },
@@ -1298,7 +1352,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 127666,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/4DrPKMGmiIXyhe04JBRFvE"
@@ -3763,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree",
+        "url": "https://open.spotify.com/album/4iC0Hgk8o4I5Y218lT40AS"
+      },
+      "artists": [
+        {
+          "name": "lunarisma",
+          "url": "https://open.spotify.com/artist/4xuOru0IJGd5Y0R4dPaUv9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139672,
+      "name": "O Christmas Tree (Lofi Version)",
+      "url": "https://open.spotify.com/track/1zFy9hH95iBCSO7b4tMral"
+    },
+    {
+      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg"
       },
@@ -4744,7 +4816,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174640,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/60VXtMYlbClIMhHFbrw4wW"
@@ -5092,6 +5164,42 @@
       "duration_ms": 158218,
       "name": "Soaring Reindeer",
       "url": "https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ"
+    },
+    {
+      "album": {
+        "name": "soft snow",
+        "url": "https://open.spotify.com/album/3Dt4o0dyF7qxIy1yA5sWl0"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "soft snow",
+      "url": "https://open.spotify.com/track/1Ez7Jwh7fsdVDrXSoDfH5v"
+    },
+    {
+      "album": {
+        "name": "Spiced Cider",
+        "url": "https://open.spotify.com/album/4NCQKzsgYo2vJxJjpuhtXo"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Spiced Cider",
+      "url": "https://open.spotify.com/track/1gnY6i00HmpEhVjKv8xqN7"
     },
     {
       "album": {

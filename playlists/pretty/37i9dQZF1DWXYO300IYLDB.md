@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,676 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,665 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 75 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 76 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 |
 | 77 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
-| 78 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |
-| 79 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
+| 78 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
+| 79 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |
 | 80 | [そっけない](https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I) | 6:49 |
 | 81 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
-| 82 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
-| 83 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 82 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 83 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
 | 84 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
 | 85 | [サヨナラCOLOR \(feat\. 忌野清志郎\)](https://open.spotify.com/track/2eGvxu3yDYylUCDzbSZk41) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte), [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0), [ナタリー・ワイズ](https://open.spotify.com/artist/3TTu5UlmXN8AGUjlS41ej1), [Kiyoshiro Imawano](https://open.spotify.com/artist/65su2o6jvWfsVRK5uRfvF9) | [サヨナラCOLOR \(feat\. 忌野清志郎\)](https://open.spotify.com/album/5Vh1RJMPCuj0BnibZCtg2Q) | 4:17 |
 | 86 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 89 | [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 |
 | 90 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 91 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
-| 92 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
-| 93 | [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 |
+| 92 | [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 |
+| 93 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 94 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
 | 95 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 |
 | 96 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |

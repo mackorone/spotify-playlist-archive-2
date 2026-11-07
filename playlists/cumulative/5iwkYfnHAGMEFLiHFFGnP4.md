@@ -2,9 +2,9 @@
 
 ### [HITS 2026 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
 
-> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Miley Cyrus
+> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Ashe
 
-175 songs - 9 hr 43 min
+176 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-02-13 | 2026-04-25 |
 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-26 |  |
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-12-17 | 2026-01-15 |
+| [TOO SOON \(feat\. Babyface\)](https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [TOO SOON \(feat\. Babyface\)](https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0) | 2:21 | 2026-11-06 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-04-15 |
 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 | 2026-08-21 |  |
 | [Travelin' Soldier](https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Travelin' Soldier](https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv) | 4:15 | 2025-12-17 | 2026-01-15 |

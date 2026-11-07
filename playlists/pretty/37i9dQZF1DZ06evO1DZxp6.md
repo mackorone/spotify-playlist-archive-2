@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,390 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,394 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
 | 50 | [Tiempos Dorados](https://open.spotify.com/track/1edLQcE6ygKFJLZR3N8a68) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Norteña](https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ) | 3:13 |
 
-Snapshot ID: `aukkAAAAAADdvT2gOeGXgYBmDvQuw6HU`
+Snapshot ID: `auvHAAAAAAACMjCY1E+2HdRDnCKqrDvL`

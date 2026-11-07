@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Jacob Hackworth
 
-4,586 songs - 10 day 6 hr 36 min
+4,587 songs - 10 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3740,6 +3740,7 @@
 | [Takes After You](https://open.spotify.com/track/4xqyXdcLeaqDD5XDBg1BuR) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Takes After You](https://open.spotify.com/album/1wLYS5lFasLJ9By9Khyi8K) | 3:04 | 2023-05-12 | 2023-07-29 |
 | [TAKES ME BACK](https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [TAKES ME BACK](https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw) | 3:09 | 2026-08-11 | 2026-10-24 |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2024-12-07 |
+| [takes one to know one](https://open.spotify.com/track/4eve9NkWGbAEudagF63m9L) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5), [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [takes one to know one](https://open.spotify.com/album/237uxlzjTiCPp37UoZ3JBR) | 3:19 | 2026-11-06 |  |
 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 | 2023-04-21 | 2023-07-01 |
 | [Takin’ The Slow Ride](https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Polaroids](https://open.spotify.com/album/54tGe0uM8bFgZMWdxr8HdI) | 3:08 | 2025-06-06 | 2025-08-16 |
 | [Tale Of Two Towns](https://open.spotify.com/track/1b4oD0Y3xSYZ2QmBNv25v2) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Tale Of Two Towns](https://open.spotify.com/album/7qTz5388DdoerBNJaPwXna) | 4:29 | 2022-09-16 | 2023-01-28 |

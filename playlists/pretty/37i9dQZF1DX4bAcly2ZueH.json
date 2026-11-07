@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55475,
+  "num_followers": 55478,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
+        "name": "Maru",
+        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 167978,
+      "name": "Maru",
+      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Maru",
-        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 167978,
-      "name": "Maru",
-      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Somnolent Nova",
         "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 183157,
       "name": "Somnolent Nova",
       "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 132274,
+      "name": "The Perks of Being a Wallflower",
+      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -295,22 +311,6 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 132274,
-      "name": "The Perks of Being a Wallflower",
-      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Shin",
-        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Shin",
-      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "This is Our First EP",
         "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 212690,
       "name": "School",
       "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Shin",
+        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Shin",
+      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Yura Yura",
-        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
-      },
-      "artists": [
-        {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Yura Yura",
-      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "wave wave wave",
         "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Yura Yura",
+        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
+      },
+      "artists": [
+        {
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Yura Yura",
+      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -731,6 +731,30 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
+        "name": "Chips & Chill",
+        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
         "name": "UP AND DOWN Original Soundtrack",
         "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
       },
@@ -779,22 +803,18 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
       "artists": [
         {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -819,6 +839,26 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
         "name": "Pockets",
         "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
       },
@@ -835,18 +875,18 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
       },
       "artists": [
         {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
         }
       ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -863,22 +903,6 @@
       "duration_ms": 138352,
       "name": "Love",
       "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -959,22 +983,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -987,6 +995,22 @@
       "duration_ms": 272293,
       "name": "Colony",
       "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1063,30 +1087,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Chips & Chill",
-        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "tide sketch",
-        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 130908,
-      "name": "tide sketch",
-      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -1191,22 +1159,34 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Meditation Loop",
-        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
+        "name": "tide sketch",
+        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "Wind Loop Case",
-          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 256551,
-      "name": "Meditation Loop",
-      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
+      "duration_ms": 130908,
+      "name": "tide sketch",
+      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1227,6 +1207,26 @@
       "duration_ms": 306000,
       "name": "cycling break",
       "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Meditation Loop",
+        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Meditation Loop",
+      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 247000,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2026-10-19 02:40:42",

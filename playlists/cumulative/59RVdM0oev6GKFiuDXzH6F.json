@@ -8261,6 +8261,28 @@
     },
     {
       "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/5iVqbADPkYtbGQpPXz3D1v"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        },
+        {
+          "name": "Fubu",
+          "url": "https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/4W0C8JisOjZPgF6QWNdxbF"
+    },
+    {
+      "album": {
         "name": "Gruvv",
         "url": "https://open.spotify.com/album/4WudSkGqtHmIiNmIIGBfON"
       },
@@ -21864,6 +21886,24 @@
       "duration_ms": 206785,
       "name": "THE CARAVAN",
       "url": "https://open.spotify.com/track/6JdqSacEaOod0eWzOSmYaW"
+    },
+    {
+      "album": {
+        "name": "The Clock",
+        "url": "https://open.spotify.com/album/28hIOEIoDLWRBeAmCJeE5q"
+      },
+      "artists": [
+        {
+          "name": "KIRK",
+          "url": "https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294193,
+      "name": "The Clock - Extended",
+      "url": "https://open.spotify.com/track/1plmf2Izb7I43XGbxzXQ2m"
     },
     {
       "album": {

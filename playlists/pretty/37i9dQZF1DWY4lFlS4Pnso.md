@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 
 > The UK and Ireland's biggest playlist\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,954,146 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,953,658 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

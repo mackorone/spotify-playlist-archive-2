@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 999671,
+  "num_followers": 999658,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-10-09 04:02:19",
       "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
-    },
-    {
-      "added_at": "2026-10-09 04:02:19",
-      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2026-10-09 04:02:19",
+      "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2026-10-09 04:02:19",

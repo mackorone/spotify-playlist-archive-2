@@ -9315,6 +9315,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0438 \u044f\u043a \u0440\u043e\u0431\u043e\u0442\u0438",
+        "url": "https://open.spotify.com/album/10fhaVlwhxXM9GwKHSVRgR"
+      },
+      "artists": [
+        {
+          "name": "Anton Kramar",
+          "url": "https://open.spotify.com/artist/64gEF9PqdwiBnxdqNv8fTP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "\u041c\u0438 \u044f\u043a \u0440\u043e\u0431\u043e\u0442\u0438",
+      "url": "https://open.spotify.com/track/3vbV0w9kE7A0jybPyYXOS0"
+    },
+    {
+      "album": {
         "name": "\u0447\u0438 \u0442\u0430\u043c \u0454 \u044f",
         "url": "https://open.spotify.com/album/68QwQ3aJgO7V9NQRxRaqLH"
       },
@@ -11586,7 +11604,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 173724,
       "name": "\u041e\u0431\u0440\u0430\u0437\u0438 \u0443 \u043c'\u044f\u0437\u0438",
       "url": "https://open.spotify.com/track/4MQErkNZP9rBGZdTA6JVDy"
@@ -12946,7 +12964,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 262257,
       "name": "\u041f\u0440\u0438\u0432\u02bc\u044f\u0437\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/3OhHyxONzUBO4C9p8XHDFI"

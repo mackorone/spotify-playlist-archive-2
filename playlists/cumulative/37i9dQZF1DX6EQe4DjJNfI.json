@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 206331,
       "name": "Cartas Na Mesa",
       "url": "https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG"
@@ -4747,7 +4747,7 @@
     },
     {
       "album": {
-        "name": "N\u00c3O VOU PARAR",
+        "name": "n\u00e3o vou parar",
         "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
       },
       "artists": [
@@ -4764,7 +4764,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
+      "name": "n\u00e3o vou parar",
       "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
     },
     {
@@ -6456,6 +6456,28 @@
       "duration_ms": 193200,
       "name": "Sem Nada",
       "url": "https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4"
+    },
+    {
+      "album": {
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
     },
     {
       "album": {

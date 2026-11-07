@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 310 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 310 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 175 | [Papai Não Aguenta \- Ao Vivo](https://open.spotify.com/track/083uhJTSD0n5pTQQrigAgE) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd) | [7550 Dias \(Ao Vivo no Rio de Janeiro, 2021\)](https://open.spotify.com/album/5x1DUCQd3tbEOeodHPJn2B) | 2:27 |
 | 176 | [Petit Gateau](https://open.spotify.com/track/3g8KLca6AqFbS8JpEaAtL8) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 2:57 |
 | 177 | [Beijo Copiado \(Ao Vivo\)](https://open.spotify.com/track/36blJmFwv2kgydOpsmbLL4) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:38 |
-| 178 | [Palmas Pro Meu Ex \- Ao Vivo](https://open.spotify.com/track/60QH6ANPFOfkk7IokOjjig) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:51 |
-| 179 | [Ela Lembra Você](https://open.spotify.com/track/2xCf4jvvFcRszlNymthhBn) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:18 |
+| 178 | [Ela Lembra Você](https://open.spotify.com/track/2xCf4jvvFcRszlNymthhBn) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:18 |
+| 179 | [Palmas Pro Meu Ex \- Ao Vivo](https://open.spotify.com/track/60QH6ANPFOfkk7IokOjjig) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:51 |
 | 180 | [Fica de Boaça \- Ao Vivo](https://open.spotify.com/track/4HQqc55bClZNPaL6PR7VZO) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd), [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi) | [7550 Dias \(Ao Vivo no Rio de Janeiro, 2021\)](https://open.spotify.com/album/5x1DUCQd3tbEOeodHPJn2B) | 2:39 |
 | 181 | [Desliga o 4G](https://open.spotify.com/track/1R5R9bmARvU61lq6wubMUx) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Desliga o 4G](https://open.spotify.com/album/2xdYgBmo25C5qG4IKC7LA8) | 2:10 |
 | 182 | [Deus Me Livre Fofoca \- Ao Vivo](https://open.spotify.com/track/6TY4alyyexgbQGEKylCUkT) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [A Gente Acertou \(Ao Vivo\)](https://open.spotify.com/album/6aUGKhae1Sni6ruLYTCRFy) | 2:33 |
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 253 | [Por Que Foi Embora](https://open.spotify.com/track/38eR4krvao8M74gRZjffkc) | [Rick Rocha](https://open.spotify.com/artist/4feibzRriTTJaeEgsGs7v0) | [Tudo Eu](https://open.spotify.com/album/1CiyVAVMnOwztEPhOgiU8G) | 2:55 |
 | 254 | [Briguinha \- Ao Vivo](https://open.spotify.com/track/3ODi5DWvKAjwbJZUg2QCvl) | [Marty](https://open.spotify.com/artist/5NmMAaV879XJMgyk4joWCn), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Briguinha \(Ao Vivo\)](https://open.spotify.com/album/14HVZu1rVFKKGBFzvBhpUG) | 2:44 |
 | 255 | [Não Passo Vontade](https://open.spotify.com/track/5c7LsNU70OcQEWZZQtlgg0) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Tudo Passa](https://open.spotify.com/album/4DE7S8vof8z7N6ObufyE5O) | 2:26 |
-| 256 | [Superadinha](https://open.spotify.com/track/60TDqLdAB6FhNFUoql9ZLa) | [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG), [Vitor & Henrique](https://open.spotify.com/artist/3KQCrR8IwOqqYxAV3jWQ4c) | [Superadinha](https://open.spotify.com/album/0Y9Dt8RauYDVygx4stPlZL) | 2:37 |
-| 257 | [Deve Haver](https://open.spotify.com/track/2tx7zGElPkD2ylC9zvyVkR) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7p7dGYVjbc9g5eebHDAxuq) | 3:29 |
+| 256 | [Deve Haver](https://open.spotify.com/track/2tx7zGElPkD2ylC9zvyVkR) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7p7dGYVjbc9g5eebHDAxuq) | 3:29 |
+| 257 | [Superadinha](https://open.spotify.com/track/60TDqLdAB6FhNFUoql9ZLa) | [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG), [Vitor & Henrique](https://open.spotify.com/artist/3KQCrR8IwOqqYxAV3jWQ4c) | [Superadinha](https://open.spotify.com/album/0Y9Dt8RauYDVygx4stPlZL) | 2:37 |
 | 258 | [Alvo de Batom](https://open.spotify.com/track/0ZetJcVVBSgaQltYFJDdK4) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Agora É pra Valer](https://open.spotify.com/album/5KFXmJbd4Pi3f6rsvARQPT) | 2:53 |
 | 259 | [Bumbum Terremoto](https://open.spotify.com/track/5EH7d2Z1FumF5XhflCZwrG) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:12 |
 | 260 | [Melhor Rolê do Mundo](https://open.spotify.com/track/0B9VPrWWiwhKUSEN0yIpO2) | [Beto & Breno](https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS) | [Rolê dos Meninos](https://open.spotify.com/album/1JPcP5OHhKaej7WDpgMTp4) | 2:42 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 309 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 310 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Acg5NAAAAACJqgqixsP4a5VM4GPEHzsr`
+Snapshot ID: `Acg+rAAAAADmBLJ6YRDYeguztgPozeYY`

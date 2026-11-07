@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABjoqfHfMs6QBb+s/k4Ih0v",
+  "snapshot_id": "auvHAAAAAABvVpnRSPei2B9gRa53UiFp",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Left",
-        "url": "https://open.spotify.com/album/5sfrVGtldj9CCvDWV1qWcf"
+        "name": "War Without Me",
+        "url": "https://open.spotify.com/album/42MnatGgN4VJBQVIKnp8Vi"
       },
       "artists": [
         {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "Joe Moses",
-          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+          "name": "Keith Turner",
+          "url": "https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh"
         },
         {
           "name": "rjtheweirdo",
           "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
         }
       ],
-      "duration_ms": 319200,
-      "name": "Let Me Go (feat. rjtheweirdo)",
-      "url": "https://open.spotify.com/track/6DSZODqpPJjcHt5p6VWnkv"
+      "duration_ms": 159672,
+      "name": "War Without Me",
+      "url": "https://open.spotify.com/track/3sNethWu4xE0fs3kobPyQI"
     },
     {
       "added_at": null,

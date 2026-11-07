@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Miley, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes
 
-435 songs - 23 hr 57 min
+437 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 | 2024-08-23 |  |
 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2024-06-07 |  |
 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 | 2024-07-26 | 2024-10-10 |
+| [driftwood](https://open.spotify.com/track/324qNZT7YIuKLKuKEmOgKw) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [driftwood](https://open.spotify.com/album/65JBQKdqZWA7VIx00VWSja) | 2:35 | 2026-11-06 |  |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-26 | 2025-02-18 |
 | [Earl Grey Tea](https://open.spotify.com/track/3EL5qpV96RVFOOd6D54d8u) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:47 | 2023-08-28 | 2024-06-15 |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-18 | 2025-09-27 |
@@ -365,6 +366,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-08-28 | 2024-07-27 |
 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 | 2025-09-27 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-09-15 | 2024-06-15 |
+| [Sweet](https://open.spotify.com/track/3D3409tT7P1S5AYzYKy3fA) | [Clara Le Bouar](https://open.spotify.com/artist/5d4Z9gtKIo66PT6hMbmevx) | [Sweet](https://open.spotify.com/album/0Ti3FBh9STE0SZ42QXNb8l) | 4:03 | 2026-11-06 |  |
 | [Sweet awakening](https://open.spotify.com/track/45RSaYVNGZhdpjbqcAukYI) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Sweet awakening](https://open.spotify.com/album/70o5ugYfbITvPVG1mKgSRl) | 2:35 | 2021-12-06 | 2023-08-16 |
 | [Sweet Delusion \- Acoustic](https://open.spotify.com/track/0FcuogpWclfgR8iXilodvO) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion \(Acoustic\)](https://open.spotify.com/album/2umj49RieVZLNZeSovdJSW) | 4:00 | 2024-12-06 | 2025-02-18 |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-06 | 2024-12-14 |

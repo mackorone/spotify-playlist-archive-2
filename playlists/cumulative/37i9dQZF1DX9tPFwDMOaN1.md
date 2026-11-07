@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: RESCENE\)
 
-955 songs - 2 day 1 hr 7 min
+956 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-10-06 | 2023-12-30 |
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-11-13 | 2024-02-10 |
 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-19 | 2025-04-09 |
-| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-04 |  |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-04 | 2026-11-07 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-13 | 2022-04-21 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2022-01-12 | 2022-06-28 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-04 |  |
@@ -369,6 +369,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-30 | 2023-04-25 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/2eOXb8aSpBUQLSk1sTBPEK) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 3:04 | 2025-03-10 | 2025-07-05 |
 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-04-28 | 2026-03-21 |
+| [Happiest](https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Happiest](https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT) | 2:51 | 2026-11-06 |  |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-13 | 2022-03-01 |
 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-06-26 | 2023-09-07 |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2023-07-07 | 2023-09-09 |

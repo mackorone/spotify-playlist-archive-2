@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39922,
+  "num_followers": 39932,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Masuta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        },
+        {
+          "name": "Aboli Girhe",
+          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
+        }
+      ],
+      "duration_ms": 282315,
+      "name": "Waju De Waju De",
+      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Masuta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        },
-        {
-          "name": "Aboli Girhe",
-          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
-        }
-      ],
-      "duration_ms": 282315,
-      "name": "Waju De Waju De",
-      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
       "added_at": "2026-09-24 07:16:44",

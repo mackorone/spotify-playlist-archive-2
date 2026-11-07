@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 153 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 153 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 80 | [Maybach Curtains \(feat\. Nas, John Legend & Rick Ross\)](https://open.spotify.com/track/4KozGhbYbcVPTJN2XhAAng) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:52 |
 | 81 | [Ricky Ricardo](https://open.spotify.com/track/7rzzhTtFSzuvQQw5eWCdwZ) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Ricky Ricardo](https://open.spotify.com/album/2fGu6FNQCdXoIylmV08ain) | 3:33 |
 | 82 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
-| 83 | [Later Tonight](https://open.spotify.com/track/6U2bboROpOSAzSoGBMUJ8V) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:42 |
-| 84 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
+| 83 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
+| 84 | [Later Tonight](https://open.spotify.com/track/6U2bboROpOSAzSoGBMUJ8V) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:42 |
 | 85 | [Gimme Your Number](https://open.spotify.com/track/76NZFxqS6b0xsd16e0LIfF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:37 |
 | 86 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
 | 87 | [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 152 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 153 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Acg5KgAAAAB5fftZE2BHsmq4NxaQNFz6`
+Snapshot ID: `Acg+mAAAAAALbo8vwknvhkM9s4IK3LNJ`

@@ -6,8 +6,24 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAESqkT/l6V/DKszD4ddXmwWszP+gM7",
+  "snapshot_id": "AAAEVoS7nCebqAjUap223DscGprYWRMp",
   "tracks": [
+    {
+      "added_at": "2026-11-06 16:59:32",
+      "album": {
+        "name": "Mr. Crowley (Live From Back To The Beginning)",
+        "url": "https://open.spotify.com/album/1M3kPWRkNtkc9X6gmwiUqs"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 360226,
+      "name": "Mr. Crowley - Live From Back To The Beginning",
+      "url": "https://open.spotify.com/track/5Ip0Rl3Gbn68wJhLMvdJv2"
+    },
     {
       "added_at": "2026-10-23 17:22:05",
       "album": {
@@ -47,6 +63,122 @@
       "duration_ms": 209525,
       "name": "Boots Or Hearts (feat. Owen Riegling) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
       "url": "https://open.spotify.com/track/2bchpzpoxdSU1raVgQcMmE"
+    },
+    {
+      "added_at": "2026-11-06 17:01:12",
+      "album": {
+        "name": "Origins 1971-1978",
+        "url": "https://open.spotify.com/album/2yADEJKwZP4vta8iEKmG8z"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        },
+        {
+          "name": "Mudcrutch",
+          "url": "https://open.spotify.com/artist/2xLqrYZxa9GYSCVn0STgxV"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Depot Street - 2026 Mix",
+      "url": "https://open.spotify.com/track/0yP89Pb6caN3TiLgwjkt2D"
+    },
+    {
+      "added_at": "2026-11-06 17:01:28",
+      "album": {
+        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Calling Dr. Love - Eddie Kramer 2026 Mix",
+      "url": "https://open.spotify.com/track/4Cdj1I5mIl8zsoZ5x0foNs"
+    },
+    {
+      "added_at": "2026-11-06 16:59:25",
+      "album": {
+        "name": "Who Are We Talking To? (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1KJ8n4dVHsQEZyvb1zxvbk"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 338072,
+      "name": "Who Are We Talking To? - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/5FN1BugFvy0yMAlaHDm5uB"
+    },
+    {
+      "added_at": "2026-11-06 17:00:01",
+      "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 336106,
+      "name": "However Much I Booze - Alternate Pete Vocal / Early Mix",
+      "url": "https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL"
+    },
+    {
+      "added_at": "2026-11-06 17:00:14",
+      "album": {
+        "name": "Robbers & Cowards / Complete Cowards",
+        "url": "https://open.spotify.com/album/6GpMaxWeFSKzzoSKfDmgpu"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "She Can Do No Wrong",
+      "url": "https://open.spotify.com/track/3ARBx1XAW5TRkYvHdmJ1Vn"
+    },
+    {
+      "added_at": "2026-11-06 17:00:55",
+      "album": {
+        "name": "The Story Of My Life",
+        "url": "https://open.spotify.com/album/1IehaSqzXLFuiJXhJlkwUk"
+      },
+      "artists": [
+        {
+          "name": "Phil Lynott",
+          "url": "https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "The Story Of My Life - Demo",
+      "url": "https://open.spotify.com/track/0d7hIHWMG7ONEO9J8oEPfu"
+    },
+    {
+      "added_at": "2026-11-06 17:03:25",
+      "album": {
+        "name": "Everybody Scream Tour Live",
+        "url": "https://open.spotify.com/album/1f3QAJG9UzARzT26yvEdRI"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 400586,
+      "name": "Sympathy Magic - Live",
+      "url": "https://open.spotify.com/track/6llbPUVRbIducOUWj3VeXj"
     },
     {
       "added_at": "2026-10-23 17:22:15",

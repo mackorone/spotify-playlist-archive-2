@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,012 likes - 102 songs - 5 hr 22 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,011 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
 | 2 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
-| 3 | [Slip & Slide](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
+| 3 | [Slip & Slide \(feat\. Amira Eldine\)](https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [In The Night Again \(Deluxe\)](https://open.spotify.com/album/498E0MBcz35DTBYKooUZMi) | 2:17 |
 | 4 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
 | 5 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 | 6 | [Currency](https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 3:37 |

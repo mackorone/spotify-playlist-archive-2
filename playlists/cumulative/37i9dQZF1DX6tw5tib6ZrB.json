@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Young Nudy, Megan Thee Stallion, 2 Chainz, Offset, Sampa The Great and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Lil Baby,  GloRilla, Skepta, Jack Harlow, Coi Leray and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -6139,6 +6139,28 @@
     },
     {
       "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -7574,6 +7596,24 @@
       "duration_ms": 104605,
       "name": "MR DND",
       "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
+    },
+    {
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Mr. Do Something",
+      "url": "https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY"
     },
     {
       "album": {
@@ -10949,6 +10989,24 @@
     },
     {
       "album": {
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
+    },
+    {
+      "album": {
         "name": "Just Doin Me",
         "url": "https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf"
       },
@@ -12414,6 +12472,28 @@
       "duration_ms": 205730,
       "name": "TOO FAST",
       "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
+    },
+    {
+      "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"
     },
     {
       "album": {

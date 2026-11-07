@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-762 songs - 2 day 4 hr 35 min
+763 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Don't Let the Sun Go Down on Me \- AC3 Stereo](https://open.spotify.com/track/2MBrOelVRYO5E8Z6Egzz9a) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Let the Sun Go Down on Me \(AC3 Stereo\)](https://open.spotify.com/album/3TfkaIhTk5JlfucwxNbveD) | 5:46 | 2024-01-22 | 2024-02-02 |
 | [Don't Let The Sun Go Down On Me \- Live](https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 5:47 | 2024-01-27 |  |
 | [Don't Let The Sun Go Down On Me \- Remastered 1995](https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:36 | 2022-09-08 | 2024-02-17 |
+| [Don't Look Over Your Shoulder](https://open.spotify.com/track/0tWlzMNxBiEjRDJJ6WSHP7) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Testament](https://open.spotify.com/album/0yyZrtyAaFFywoLamjBuyY) | 3:56 | 2026-11-06 |  |
 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 | 2022-09-08 |  |
 | [Don't Wanna Be No Superstar](https://open.spotify.com/track/0MCsqG6gibolozPxNf6Ra7) | [Jerry Colker](https://open.spotify.com/artist/1zVV7Hswn2HSsaYm2zE88H), [Scott Bakula](https://open.spotify.com/artist/7sCxgzdAcDC9t5AMLK628j) | [3 Guys Naked From The Waist Down \(Original Off Broadway Cast\)](https://open.spotify.com/album/6Hv1NpfEallNubYTUz5bSF) | 1:23 | 2026-09-02 |  |
 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 | 2022-09-08 |  |

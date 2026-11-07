@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,242 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,275 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 71 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 |
 | 72 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 73 | [no self respect!](https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [no self respect!](https://open.spotify.com/album/2cE9NykoNpph3aah241eKp) | 3:01 |
-| 74 | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 |
-| 75 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 76 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
-| 77 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
-| 78 | [In My Face](https://open.spotify.com/track/3rYcRzz27T43kIjxb4hfHw) | [DVYN](https://open.spotify.com/artist/2lNzOGT77XIuh6iRkLnWzw) | [In My Face](https://open.spotify.com/album/59zlUYZSvhuCVykYcKPzTT) | 2:53 |
+| 74 | [In My Face](https://open.spotify.com/track/3rYcRzz27T43kIjxb4hfHw) | [DVYN](https://open.spotify.com/artist/2lNzOGT77XIuh6iRkLnWzw) | [In My Face](https://open.spotify.com/album/59zlUYZSvhuCVykYcKPzTT) | 2:53 |
+| 75 | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 |
+| 76 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
+| 77 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
+| 78 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 79 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
 | 80 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 

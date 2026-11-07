@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> Tate is really a main pop girl emergency✨
+> Tate is the main pop girl emergency✨
 
-1,852 songs - 3 day 21 hr 10 min
+1,853 songs - 3 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,7 +755,7 @@
 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-23 |  |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-03-07 | 2025-09-06 |
 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 | 2026-03-13 | 2026-06-27 |
-| [How do I dream](https://open.spotify.com/track/5RbhZUHxGRdZkpJ7FH0sph) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Private Page Club](https://open.spotify.com/album/0Jfff6qKoOGZKRCkcnEnEp) | 3:15 | 2026-11-06 |  |
+| [How do I dream](https://open.spotify.com/track/5RbhZUHxGRdZkpJ7FH0sph) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Private Page Club](https://open.spotify.com/album/0Jfff6qKoOGZKRCkcnEnEp) | 3:15 | 2026-11-06 | 2026-11-07 |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-08 | 2023-01-28 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-15 | 2022-06-25 |
 | [HOW TO BE A LOVER](https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [HOW TO BE A LOVER](https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62) | 4:26 | 2026-07-10 |  |
@@ -1052,6 +1052,7 @@
 | [Madonna](https://open.spotify.com/track/609uwmngAk830waa8OpT87) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Madonna](https://open.spotify.com/album/4mvbNmdH5BZRIz1ZacBJOF) | 3:05 | 2022-10-14 | 2023-02-25 |
 | [Madonna](https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg) | [Maisi and the Disco](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [Madonna](https://open.spotify.com/album/2LXqQyS3IfDQ08lgsspmP4) | 2:45 | 2026-10-08 |  |
 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-08 | 2026-08-28 |
+| [MAGDALENE](https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK) | [Magdalene](https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c) | [American Heroine](https://open.spotify.com/album/4x9bMp8KgfQURQ7eG5hnzr) | 2:14 | 2026-11-06 |  |
 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 | 2024-06-14 | 2024-08-31 |
 | [Magical Love](https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Magical Love](https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU) | 3:05 | 2022-06-17 | 2022-08-27 |
 | [MAGNETIC](https://open.spotify.com/track/69d48Kbu4YBG3B1Erg4iNg) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [MAGNETIC](https://open.spotify.com/album/5vme92kLr1E7DEd9OjSsEv) | 3:32 | 2026-01-16 | 2026-03-07 |
@@ -1610,7 +1611,7 @@
 | [That Girl](https://open.spotify.com/track/4HrLGzlvQ8iN6P1aOJzjj6) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:01 | 2023-07-14 | 2023-11-04 |
 | [That Girl](https://open.spotify.com/track/7lm4AtFWHNaL5o3aRgVWFr) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 3:01 | 2023-10-27 | 2023-12-09 |
 | [That Song](https://open.spotify.com/track/0wlkFituZp5jCUOjS35UJ1) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [That Song](https://open.spotify.com/album/6r0K1oOph3m0MlqQUQ5Ncy) | 2:41 | 2023-09-08 | 2023-09-16 |
-| [That's My Baby](https://open.spotify.com/track/66dE8r4dqhpyAQAvTeB8z3) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Like We're Lovers \(Deluxe\)](https://open.spotify.com/album/2D5WAE2jHpRr38p4Yer8kO) | 2:18 | 2026-11-06 |  |
+| [That's My Baby](https://open.spotify.com/track/66dE8r4dqhpyAQAvTeB8z3) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Like We're Lovers \(Deluxe\)](https://open.spotify.com/album/2D5WAE2jHpRr38p4Yer8kO) | 2:18 | 2026-11-06 | 2026-11-07 |
 | [That's the thing x](https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [That's the thing x](https://open.spotify.com/album/6m3nu19SylZYD3mVoL8ofF) | 3:51 | 2022-03-25 | 2022-04-23 |
 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 | 2026-04-10 | 2026-10-08 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-02-15 | 2022-04-23 |

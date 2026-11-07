@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,845 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,877 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 42 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 |
 | 43 | [Waiting To Board](https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Waiting To Board](https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl) | 2:18 |
 | 44 | [rest & be thankful](https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [rest & be thankful](https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8) | 2:06 |
-| 45 | [Dozing](https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Dozing](https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg) | 2:26 |
-| 46 | [to reach a person](https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:39 |
+| 45 | [to reach a person](https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:39 |
+| 46 | [Dozing](https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Dozing](https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg) | 2:26 |
 | 47 | [Mountain Onsen](https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Mountain Onsen](https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n) | 2:41 |
 | 48 | [Yu Garden](https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 3:39 |
 | 49 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 53 | [Red Lamps.](https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Red Lamps.](https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi) | 2:11 |
 | 54 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 |
 | 55 | [Sanctuary](https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI) | [Nomak](https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv) | [Calm](https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m) | 4:02 |
-| 56 | [endure pain](https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj) | [samashi](https://open.spotify.com/artist/31VUMUK0O502Uw3YE3BPiV) | [Oldschool Memories](https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq) | 3:54 |
-| 57 | [Summer Breeze](https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1) | [Neverland](https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN) | 2:43 |
+| 56 | [Summer Breeze](https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1) | [Neverland](https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN) | 2:43 |
+| 57 | [endure pain](https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj) | [samashi](https://open.spotify.com/artist/31VUMUK0O502Uw3YE3BPiV) | [Oldschool Memories](https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq) | 3:54 |
 | 58 | [Silk Road](https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Symoo](https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV) | [Tokyo Skyline](https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO) | 2:54 |
 | 59 | [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 |
 | 60 | [Wild Rose](https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5) | [Shao Rong](https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R) | [Orchid](https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv) | 4:39 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 63 | [Yamete](https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1) | [Tosama Beats](https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg) | [Yamete](https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi) | 3:15 |
 | 64 | [Miss Each Other Because of Love](https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 2:47 |
 | 65 | [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 |
-| 66 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 |
-| 67 | [rainy day](https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:41 |
+| 66 | [rainy day](https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:41 |
+| 67 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 |
 | 68 | [Mt Fuji](https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Mt Fuji](https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA) | 1:56 |
-| 69 | [Gold Powder](https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Pukem](https://open.spotify.com/artist/52C0aO6MUWo6a8tRyR8eKV) | [Kintsukuroi](https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i) | 1:17 |
-| 70 | [Death Curse](https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 2:11 |
+| 69 | [Death Curse](https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 2:11 |
+| 70 | [Gold Powder](https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Pukem](https://open.spotify.com/artist/52C0aO6MUWo6a8tRyR8eKV) | [Kintsukuroi](https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i) | 1:17 |
 | 71 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 |
 | 72 | [A Traveler's Tale](https://open.spotify.com/track/2Uy3YqGCfiZ4aIfp9mD5Lx) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [A Traveler's Tale](https://open.spotify.com/album/7ztlWkCDduMuSuDkzbj67Z) | 2:54 |
 | 73 | [Torimichi](https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs) | [Coddneck](https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw) | [Torimichi](https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV) | 4:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 94 | [Water Lily](https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy) | [Asokah](https://open.spotify.com/artist/7hx0fxCukHneK8d9gDMcsT) | [Water Lily](https://open.spotify.com/album/68eNVEgcYZEOKgXa0cHv47) | 1:21 |
 | 95 | [Miso](https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa) | [Shiitaki](https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8) | [Miso](https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6) | 2:09 |
 | 96 | [A Hero Is Born](https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Gaijin II Tale of Rai](https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK) | 3:18 |
-| 97 | [Tailwind](https://open.spotify.com/track/3rQZGlwfrevlb78TY6y87U) | [Cold Glow](https://open.spotify.com/artist/1C6Kb7WSJp2BKP2caUy0qw) | [Forest Floor](https://open.spotify.com/album/00v392qfhp0HVJoP5MhiWD) | 2:36 |
+| 97 | [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 |
 | 98 | [Rising Light](https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:14 |
-| 99 | [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 |
-| 100 | [Escape to Azuchi](https://open.spotify.com/track/6It6PE4gj1vA4Rc1joIj1N) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Escape to Azuchi](https://open.spotify.com/album/0ySeNwPlXwAJtzHPdarLP1) | 2:28 |
+| 99 | [Escape to Azuchi](https://open.spotify.com/track/6It6PE4gj1vA4Rc1joIj1N) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Escape to Azuchi](https://open.spotify.com/album/0ySeNwPlXwAJtzHPdarLP1) | 2:28 |
+| 100 | [Tailwind](https://open.spotify.com/track/3rQZGlwfrevlb78TY6y87U) | [Cold Glow](https://open.spotify.com/artist/1C6Kb7WSJp2BKP2caUy0qw) | [Forest Floor](https://open.spotify.com/album/00v392qfhp0HVJoP5MhiWD) | 2:36 |
 
-Snapshot ID: `AAAAAOHpOeyd4f/wrz1F0TrVhuyQBeM7`
+Snapshot ID: `AAAAALQ56VyqI/FqpD7fb9WagUX5/mNr`

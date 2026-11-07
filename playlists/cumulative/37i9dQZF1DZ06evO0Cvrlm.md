@@ -4,7 +4,7 @@
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-90 songs - 7 hr 23 min
+91 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Waiting for That Day \- Remastered](https://open.spotify.com/track/1y8pNONQUfiCDXWME7IQBa) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:49 | 2023-07-28 | 2023-12-14 |
 | [Wild Is the Wind](https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:02 | 2023-07-28 |  |
 | [You Have Been Loved](https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:30 | 2023-07-28 |  |
-| [You Know That I Want To](https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 4:36 | 2026-08-26 |  |
+| [You Know That I Want To](https://open.spotify.com/track/0uXMyGXoNgEe0w53UJNhfe) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:36 | 2026-11-07 |  |
+| [You Know That I Want To](https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 4:36 | 2026-08-26 | 2026-11-07 |
 | [You've Changed](https://open.spotify.com/track/4c0F3VUb55v26iKGL0e80l) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:25 | 2025-10-26 | 2025-11-19 |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

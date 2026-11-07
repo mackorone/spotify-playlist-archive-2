@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1479865,
+  "num_followers": 1479847,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Thank You for Leaving",
         "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 197985,
       "name": "Thank You for Leaving",
       "url": "https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Backseat Drivin'",
-        "url": "https://open.spotify.com/album/4lVPQp1OOjw0OxYKHZC2eO"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 227456,
-      "name": "Backseat Drivin'",
-      "url": "https://open.spotify.com/track/6v65wlluPMQEiWXFeRf06r"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "snug as a bug",
         "url": "https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Backseat Drivin'",
+        "url": "https://open.spotify.com/album/4lVPQp1OOjw0OxYKHZC2eO"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 227456,
+      "name": "Backseat Drivin'",
+      "url": "https://open.spotify.com/track/6v65wlluPMQEiWXFeRf06r"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 127474,
-      "name": "Love To Walk Away",
-      "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Written into Changes",
         "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
       "artists": [
         {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/5CtlTs95X94cWRqbY1nLuM"
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1507,6 +1491,22 @@
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/5CtlTs95X94cWRqbY1nLuM"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 157027,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "I'm Not Afraid Of Music Anymore",
         "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 177071,
       "name": "Along For The Ride",
       "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Hole In The Ground",
-        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
         }
       ],
-      "duration_ms": 224532,
-      "name": "Hole In The Ground",
-      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+      "duration_ms": 239173,
+      "name": "Terrestrials",
+      "url": "https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Terrestrials",
-        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
       },
       "artists": [
         {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Terrestrials",
-      "url": "https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s"
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "run away girl",
         "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 230552,
       "name": "run away girl",
       "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Vandalist",
         "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     }
   ],
   "unique_name": "it's alt good",

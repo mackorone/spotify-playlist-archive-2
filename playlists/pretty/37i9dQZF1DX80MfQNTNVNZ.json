@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 220707,
+  "num_followers": 220725,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
-        "name": "The Divine Feminine (10th Anniversary)",
-        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Channel 13",
-      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
         "name": "Somewhere Between",
         "url": "https://open.spotify.com/album/2MwfrGfon5UGQ13z0Vh5tW"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 183520,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
-        "name": "In A World We Don't Belong",
-        "url": "https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi"
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         }
       ],
-      "duration_ms": 194648,
-      "name": "Does She Know",
-      "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -487,38 +487,18 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+        "name": "In A World We Don't Belong",
+        "url": "https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
-        "name": "Location Unknown feat. NIKI (10 Years)",
-        "url": "https://open.spotify.com/album/49QKEYpomW6vxriaJM2xYM"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 331866,
-      "name": "Location Unknown - feat. NIKI (10 Years)",
-      "url": "https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT"
+      "duration_ms": 194648,
+      "name": "Does She Know",
+      "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -539,6 +519,26 @@
       "duration_ms": 165818,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
+        "name": "Location Unknown feat. NIKI (10 Years)",
+        "url": "https://open.spotify.com/album/49QKEYpomW6vxriaJM2xYM"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 331866,
+      "name": "Location Unknown - feat. NIKI (10 Years)",
+      "url": "https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
+        "name": "The Last Flower To Bloom",
+        "url": "https://open.spotify.com/album/2vNXPaO874Q179STGjHukd"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 209518,
+      "name": "Sicily",
+      "url": "https://open.spotify.com/track/2kqq6QETCXotvmP0lPxJYG"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
         "name": "Ambiguous Desire (Deluxe)",
         "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
-        "name": "The Last Flower To Bloom",
-        "url": "https://open.spotify.com/album/2vNXPaO874Q179STGjHukd"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 209518,
-      "name": "Sicily",
-      "url": "https://open.spotify.com/track/2kqq6QETCXotvmP0lPxJYG"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
-        "name": "Tyber",
-        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Little Little Voice",
-      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -811,6 +791,26 @@
     {
       "added_at": "2026-10-20 15:29:58",
       "album": {
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Little Little Voice",
+      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -831,6 +831,26 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2026-10-20 15:29:58",
+      "album": {
+        "name": "Lotus Glow",
+        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 192936,
+      "name": "FourSixty - Feat. Aaron Taylor",
+      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2026-10-20 15:29:58",
@@ -867,26 +887,6 @@
       "duration_ms": 229477,
       "name": "There Will Be No Crying",
       "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2026-10-20 15:29:58",
-      "album": {
-        "name": "Lotus Glow",
-        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 192936,
-      "name": "FourSixty - Feat. Aaron Taylor",
-      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2026-10-20 15:29:58",

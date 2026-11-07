@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Linh & Claudio Capéo.
 
-602 songs - 1 day 5 hr 31 min
+603 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [COMME D'HABITUDE](https://open.spotify.com/track/6pN4HLeP58hfmSrp5Utjo2) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [COMME D'HABITUDE](https://open.spotify.com/album/3uBzYZC7VEKEIJanySxiA5) | 2:20 | 2026-07-09 | 2026-09-11 |
 | [Comme je veux](https://open.spotify.com/track/213dBdW61DigIbZYE9Lj9u) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:52 | 2025-05-15 | 2025-06-06 |
 | [Comme les Autres](https://open.spotify.com/track/4jsoRGCNeiSsdxuNi8wIlc) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Première Escale](https://open.spotify.com/album/3YzPMlRk7zWnkCz1lWGQFW) | 4:02 | 2024-06-27 | 2024-10-11 |
-| [Comme toi](https://open.spotify.com/track/6oqXIzTo6OTVe7iDmCWUNr) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme toi](https://open.spotify.com/album/5NeMbVff6WjBQHRBigvGLX) | 2:37 | 2026-09-03 |  |
+| [Comme toi](https://open.spotify.com/track/6oqXIzTo6OTVe7iDmCWUNr) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme toi](https://open.spotify.com/album/5NeMbVff6WjBQHRBigvGLX) | 2:37 | 2026-09-03 | 2026-11-07 |
 | [Comme toutes les filles](https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Comme toutes les filles](https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B) | 2:47 | 2025-10-09 | 2026-02-06 |
 | [Comme un éclair](https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt) | [Antoine Delie](https://open.spotify.com/artist/4oD2dzJ90Zio3UtJ0d4FDN) | [Comme un éclair](https://open.spotify.com/album/7nJu0WVN2Kxu5BSQo4a7Hz) | 3:18 | 2024-06-27 | 2024-08-23 |
 | [Comment fait\-on ?](https://open.spotify.com/track/7e7ITPw4Ap7YL5C3p0AkcJ) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Comment fait\-on ?](https://open.spotify.com/album/1MLgGAiDsRaJQ1dzAGuuEC) | 2:06 | 2025-04-03 | 2025-06-13 |
@@ -120,6 +120,7 @@
 | [Dans tes yeux](https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [II](https://open.spotify.com/album/4bur9otz02TklVA57a7bYO) | 2:54 | 2024-12-05 | 2025-01-10 |
 | [Dans ton téléphone](https://open.spotify.com/track/2yFt80jvLcPcG6irkBNpgy) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3) | 2:37 | 2026-04-30 | 2026-08-28 |
 | [Dans un autre monde](https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Dans un autre monde](https://open.spotify.com/album/5scTVjfrAmCWhFznxEAIRM) | 3:22 | 2025-07-24 | 2025-10-10 |
+| [De justesse](https://open.spotify.com/track/4LFswwlA7EKowHdMIX4tFz) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [De Justesse](https://open.spotify.com/album/7GhFyYaYECGGrxvTK9LIim) | 3:04 | 2026-11-05 |  |
 | [De l'or sur tes doigts](https://open.spotify.com/track/2G6aZJ8ucftHam37rA16ln) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [De l'or sur tes doigts](https://open.spotify.com/album/2xndNSOprEsjyGoemVgo6D) | 3:42 | 2025-04-24 | 2025-07-11 |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2025-01-16 | 2025-04-11 |
 | [Demi\-mot](https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Demi\-mot](https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM) | 3:08 | 2024-12-12 | 2025-03-01 |
@@ -485,6 +486,7 @@
 | [Réparé](https://open.spotify.com/track/726zSugZBNTuOlXQyQbuvd) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Naufragé \- La suite](https://open.spotify.com/album/36HpsUgZ6NVqW52Lh8Ad3v) | 2:45 | 2026-10-15 |  |
 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-27 | 2024-10-04 |
 | [Rêve](https://open.spotify.com/track/6vx7Db8JvhiuX6i36kFOkH) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rêve](https://open.spotify.com/album/1J0EFmYDNoOr7EXXcedTm5) | 2:36 | 2025-10-09 | 2025-11-28 |
+| [Sablier](https://open.spotify.com/track/0IAuNj3z5hpXXnPl0ypBNa) | [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Sablier](https://open.spotify.com/album/3dpqZzjP2CgUUP7TbKDUve) | 3:12 | 2026-11-06 |  |
 | [Sage](https://open.spotify.com/track/7dWF43SRnWnqRNVXTa43lG) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/4kuvu8IkLHyb3yodU8qNZ5) | 2:45 | 2025-09-11 | 2025-10-17 |
 | [SALES GOSSES](https://open.spotify.com/track/1xQTJT3CIkboRAChRaqm9O) | [lowey](https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P) | [SALES GOSSES](https://open.spotify.com/album/5kq4F80Q0hEIyRz2YM7nGh) | 2:23 | 2026-05-07 | 2026-06-26 |
 | [Sans nous](https://open.spotify.com/track/0fyytbMHk9ptjMhQdFgjvh) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans nous](https://open.spotify.com/album/4txBg21DZKbH3E8G38mqQq) | 2:57 | 2026-09-24 |  |
@@ -559,7 +561,6 @@
 | [tout pour toi](https://open.spotify.com/track/0HLGxzEdvtskPHP0H9PPvv) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Elisa Palmire](https://open.spotify.com/artist/3lq3wPMNtvu25QrtFqhluu) | [Tout pour toi](https://open.spotify.com/album/1CqSrchd9eXoY4gHHMOYdP) | 2:56 | 2026-06-18 | 2026-09-18 |
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 | 2025-09-25 | 2026-01-23 |
-| [Track 1](https://open.spotify.com/track/4LFswwlA7EKowHdMIX4tFz) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [De Justesse](https://open.spotify.com/album/7GhFyYaYECGGrxvTK9LIim) | 0:00 | 2026-11-05 |  |
 | [Tricheur](https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Tricheur](https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf) | 2:42 | 2026-09-03 | 2026-10-23 |
 | [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 | 2025-03-28 |
 | [Trop Tard](https://open.spotify.com/track/0OJpglHVxyokxVB7VBmVIk) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [Trop Tard](https://open.spotify.com/album/16SE31kgN4LB3RnCoW4w3B) | 3:21 | 2026-03-12 | 2026-06-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 112902,
+  "num_followers": 112950,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2OkTBkvRjtAnNDZmQEzfW6fLg4",
+  "snapshot_id": "AAAAADL+70TnXnyTe13oIZ+w9wqF7EdW",
   "tracks": [
     {
       "added_at": "2026-08-27 10:33:18",
@@ -889,6 +889,26 @@
       "url": "https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs"
     },
     {
+      "added_at": "2026-11-06 17:53:04",
+      "album": {
+        "name": "Song of First Love (From \"Bhayankara Preeti (Telugu)\")",
+        "url": "https://open.spotify.com/album/4YyXQcZjl8hYM1mAI0EBNv"
+      },
+      "artists": [
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Indu Sanath",
+          "url": "https://open.spotify.com/artist/6uXJN01hJLo1cZPfQOldgi"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Song of First Love (From \"Bhayankara Preeti (Telugu)\")",
+      "url": "https://open.spotify.com/track/6kRdNhQkZHy2H9XIHdqxup"
+    },
+    {
       "added_at": "2026-08-27 10:33:18",
       "album": {
         "name": "Donga Donga (Original Motion Picture Soundtrack)",
@@ -1043,34 +1063,6 @@
       "duration_ms": 197589,
       "name": "Sada Nannu",
       "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
-        "name": "Dear Comrade",
-        "url": "https://open.spotify.com/album/5WkhNq7kpZIdZC5BZysNFy"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Aishwarya Ravichandran",
-          "url": "https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Rehman",
-          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
-        }
-      ],
-      "duration_ms": 260992,
-      "name": "Kadalalle",
-      "url": "https://open.spotify.com/track/3xvfj6ImJKtALvYTQMc2mB"
     }
   ],
   "unique_name": "Mellow Telugu",

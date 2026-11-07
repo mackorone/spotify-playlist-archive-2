@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 270835,
+  "num_followers": 270864,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADwKuKkSrM5bG6MWO36kZoS",
+  "snapshot_id": "auvHAAAAAABV5Hqn2fOfIElN3Vok8tfV",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190331,
-      "name": "Rich Nigga Shit (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190331,
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Raw (Might Just)",
+      "url": "https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Raw (Might Just)",
-      "url": "https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM"
       },
@@ -755,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
+      "duration_ms": 218596,
+      "name": "Droppin Jewels",
+      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 218596,
-      "name": "Droppin Jewels",
-      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Went Thru It",
+      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barter 6",
         "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 202533,
       "name": "With That (feat. Duke)",
       "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Went Thru It",
-      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Jonesboro",
+      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -931,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
       "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Jonesboro",
-      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
+      "duration_ms": 220888,
+      "name": "Just Like Me (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
     },
     {
       "added_at": null,
@@ -963,26 +983,6 @@
       "duration_ms": 174560,
       "name": "Metro Spider (with Young Thug)",
       "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 220888,
-      "name": "Just Like Me (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
     },
     {
       "added_at": null,

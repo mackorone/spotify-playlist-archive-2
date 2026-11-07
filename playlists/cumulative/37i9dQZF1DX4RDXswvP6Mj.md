@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: XLOV\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-960 songs - 2 day 2 hr 26 min
+961 songs - 2 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [ASAP](https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/0Ohrk1nqXmdEpoMoU0Vbkv) | 2:36 | 2025-02-27 | 2025-03-25 |
 | [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-04-18 |
 | [Atlantis](https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 2:58 | 2021-12-29 | 2022-04-21 |
-| [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 | 2026-06-02 |  |
+| [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 | 2026-06-02 | 2026-11-07 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 | 2025-12-23 |
 | [ATTITUDE](https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 始作](https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL) | 3:16 | 2022-10-26 | 2022-10-29 |
 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-02-04 | 2025-12-31 |
@@ -693,6 +693,7 @@
 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 | 2026-04-22 | 2026-09-29 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-03-15 | 2024-05-10 |
 | [Remedy](https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Remedy](https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu) | 3:13 | 2025-07-19 | 2025-08-12 |
+| [Replay](https://open.spotify.com/track/6v6hdmmWLFrjQvQR62oukS) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Replay](https://open.spotify.com/album/3up4AjaCMjuRmzGcNwtnDU) | 2:57 | 2026-11-06 |  |
 | [RESONANCE](https://open.spotify.com/track/20JPjdOTiKAeIQmfiEw9EA) | [NCT 2020](https://open.spotify.com/artist/3IniCa6EijyZ3bsY0eTG3C) | [RESONANCE](https://open.spotify.com/album/6wYyYhNKiJoG0QosSp2qT6) | 5:14 | 2022-01-03 | 2022-07-27 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2022-03-29 | 2022-04-20 |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-12-21 | 2022-07-11 |

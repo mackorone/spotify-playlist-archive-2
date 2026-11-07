@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,696 likes - 133 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,087 likes - 133 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 10 | [Üzülmedin Mi](https://open.spotify.com/track/7d4fDvfyi61LChDFgrUhuw) | [Zerrin Özer](https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm) | [Üzülmedin Mi](https://open.spotify.com/album/2IR8oQENGIVWd3OJOJLiPN) | 2:35 |
 | 11 | [Wake Up](https://open.spotify.com/track/4hY2aKe7OsRJSCsr3umznC) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Wake Up](https://open.spotify.com/album/7d7pI3ehNrqdG83yVgJbJs) | 3:06 |
 | 12 | [Emrindeyim](https://open.spotify.com/track/1DnQAOS8H6PtnhpAFCFa1a) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Emrindeyim](https://open.spotify.com/album/3n8ttoxQVAHmfXERaOC4VI) | 3:19 |
-| 13 | [Why'd You Have To Leave](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
+| 13 | [Why'd You Have To Leave?](https://open.spotify.com/track/1Zkmk5bt3ZDPXZRTkXau8D) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Why'd You Have To Leave?](https://open.spotify.com/album/4SwcMmCbaWgoxMjoS94VaT) | 3:25 |
 | 14 | [Geçti Yıllar](https://open.spotify.com/track/459JjKp0RH7A4k9b3QEVnx) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Geçti Yıllar](https://open.spotify.com/album/3nx5ZHAYdxpvODGtJeY8Vg) | 3:48 |
 | 15 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
 | 16 | [Vursan Ölmem](https://open.spotify.com/track/3LqJnm32VHNSsOxkQHXbJw) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Vursan Ölmem](https://open.spotify.com/album/6f2oDn1SnYrsaK7l6ra0yn) | 2:42 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 57 | [sen&ben](https://open.spotify.com/track/6HvGh3LtcKnxWsnxpoqDPD) | [kaanwein](https://open.spotify.com/artist/3UjYlRGpDMTCc7hpLcjLo3) | [sen&ben](https://open.spotify.com/album/0wokZWx2tK4XUtw3Mzk7mK) | 1:51 |
 | 58 | [Nirvana](https://open.spotify.com/track/0OnKUNlx7JgScBL9r5s92l) | [Koyu](https://open.spotify.com/artist/2Js3e5F10cX7OgQLr0P071) | [Nirvana](https://open.spotify.com/album/0qDDMPOCwHzorqMnGnWKqu) | 2:55 |
 | 59 | [Nerdesin Ey Tanrım](https://open.spotify.com/track/6meX2fieTgDWAjaCGUb7zx) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw), [Devrim Özkan](https://open.spotify.com/artist/2oIEhAnqryRCrpQJtLp2CQ) | [Nerdesin Ey Tanrım](https://open.spotify.com/album/3S16BFquZVjUoCLfQN6hp2) | 3:26 |
-| 60 | [KAFAMDAKİ SESLER](https://open.spotify.com/track/5ueEEDLetCGJo34fonsXJf) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [zenu](https://open.spotify.com/artist/0avt3FunV6iOOd308ngfVM), [Lenom](https://open.spotify.com/artist/7w8onduJj6pU4e92uKAs3C) | [KAFAMDAKİ SESLER](https://open.spotify.com/album/7Kbs9R4TaZsylpHTpy994n) | 2:48 |
+| 60 | [KAFAMDAKİ SESLER](https://open.spotify.com/track/5ueEEDLetCGJo34fonsXJf) | [Lenom](https://open.spotify.com/artist/7w8onduJj6pU4e92uKAs3C), [zenu](https://open.spotify.com/artist/0avt3FunV6iOOd308ngfVM), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [KAFAMDAKİ SESLER](https://open.spotify.com/album/7Kbs9R4TaZsylpHTpy994n) | 2:48 |
 | 61 | [Bu Bağı Alemi \- Live](https://open.spotify.com/track/1fn6eLt7JFCD1tAA7oZALW) | [Ender Balkır](https://open.spotify.com/artist/07kEnIFmiV0WbPG6FqqrU0) | [Bu Bağı Alemi \(Live\)](https://open.spotify.com/album/0McIaYCbilPigyTwZcMMbD) | 4:02 |
 | 62 | [Saygım Yok](https://open.spotify.com/track/1eFcWZsPBriLhUXTqXLM69) | [ZAPOX](https://open.spotify.com/artist/5aHrVKNpTVFWiaGKGaBagi) | [Saygım Yok](https://open.spotify.com/album/6z8UkZHO1ZqlVDyczp5Eev) | 2:12 |
 | 63 | [Brotha](https://open.spotify.com/track/5NtAgITrbF2nc9wITQD2vO) | [Birand](https://open.spotify.com/artist/02DLpTPfY9uEAEvKdz3RBZ), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [Brotha](https://open.spotify.com/album/4DeonbKK02V83xEgycsmAb) | 1:48 |

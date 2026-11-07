@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-291 songs - 15 hr 58 min
+292 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 | 2022-11-08 |
 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 | 2022-12-23 | 2024-04-19 |
 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2024-12-09 |  |
-| [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 | 2022-12-23 | 2026-08-29 |
+| [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 | 2022-12-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Blue Christmas](https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF) | 2:01 | 2024-11-22 | 2024-12-04 |
 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 | 2021-11-12 | 2022-07-18 |
 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 | 2024-12-20 | 2026-11-05 |
@@ -55,7 +55,7 @@
 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 | 2021-11-12 | 2022-07-25 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6Sm0Og9VDRjDWPQnERgPtd) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [A Christmas Gift For You From Moshi Moshi](https://open.spotify.com/album/1U4GkkVM8gk4WzBLxdNfR6) | 2:49 | 2021-11-12 | 2022-07-18 |
 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 | 2024-04-19 |
-| [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 | 2023-10-16 |  |
+| [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 | 2023-10-16 | 2026-11-07 |
 | [Christmas Alone](https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Christmas Alone](https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim) | 3:35 | 2023-12-08 |  |
 | [Christmas Angel](https://open.spotify.com/track/6MBil1JRoxDGcBoAFqrVoW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Christmas Angel](https://open.spotify.com/album/1FlHC4DRyMXDrg3xsaxh8a) | 2:55 | 2025-11-24 | 2025-12-21 |
 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 | 2025-11-29 |
@@ -217,7 +217,7 @@
 | [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 | 2021-11-12 | 2024-11-23 |
 | [Silent Night](https://open.spotify.com/track/0NVk0WwXd7bZG2jpKgFEeS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/2uV3toNhIWZJx63And14NO) | 2:36 | 2022-12-23 | 2023-01-24 |
 | [Silent Night](https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/0uCK9gB2Qc25UJZ23AcWnM) | 2:36 | 2021-11-12 | 2022-07-29 |
-| [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 |  |
+| [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 | 2026-11-07 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-13 | 2026-10-16 |
 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 | 2022-12-23 |  |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2024-12-09 |  |
@@ -297,6 +297,7 @@
 | [Yellow Bike](https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9) | 3:53 | 2022-12-23 | 2024-04-19 |
 | [Yellow Bike](https://open.spotify.com/track/7hfrRIQmymC8Otmm27BQdY) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Yellow Bike](https://open.spotify.com/album/5VIIDEGuRGBQ7Riy3sfATF) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [You Bring the Snow](https://open.spotify.com/track/6tYnZCezrIuV6iCFHt8huM) | [The Crookes](https://open.spotify.com/artist/04weGKj3nAChyEmS9RFF5y) | [You Bring the Snow](https://open.spotify.com/album/3fWksQPLeLUABfbKo9Yeea) | 3:49 | 2021-11-12 | 2022-07-26 |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [You Can’t Always Get What You Want](https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF) | 3:29 | 2026-11-06 |  |
 | [You Won't Love Me by Christmas](https://open.spotify.com/track/52vkZq7gw5OHzlH1u0egjN) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [You Won't Love Me by Christmas](https://open.spotify.com/album/6BKuGp6971tKGYZMRGDo2H) | 3:22 | 2021-11-12 | 2022-07-27 |
 | [Yuletide Moon](https://open.spotify.com/track/3lpNBxNbkzIsxD5zeo9OFX) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [B.Y.O.B\. \(It's Christmas Time\)](https://open.spotify.com/album/3ybajFcm026n3NKmN5vACC) | 4:11 | 2025-12-17 |  |
 

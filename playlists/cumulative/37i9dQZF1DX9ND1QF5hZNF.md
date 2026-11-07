@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-456 songs - 23 hr 21 min
+457 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [In The End](https://open.spotify.com/track/6o90yNNKgLjsLRSqZa7AgD) | [Aden Lou](https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC), [Ted Bear](https://open.spotify.com/artist/6EAniunkALjznZaST9bmiZ) | [In The End](https://open.spotify.com/album/5irMOXfbxY18wZJyAkQibm) | 3:14 | 2025-08-14 | 2026-01-17 |
 | [it felt different](https://open.spotify.com/track/10lN8OKZbEG2OFFY1Jfwog) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [solaene](https://open.spotify.com/artist/3AAaJfj11EA5UDXCOELup1), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [it felt different](https://open.spotify.com/album/1XMpNsY9cDAcTImWSwfOpU) | 3:39 | 2026-05-14 | 2026-06-20 |
 | [It's Alright](https://open.spotify.com/track/6fvD2Rlml96iOUjmgoiIn4) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [It's Alright](https://open.spotify.com/album/3EmfZ9O6qP1BNoMVo8ogqn) | 2:42 | 2025-11-06 | 2026-01-02 |
+| [Its All Done](https://open.spotify.com/track/2yc3mhKVbnYsMgwqMWQGDf) | [TEEMID](https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc) | [Its All Done](https://open.spotify.com/album/5eWoEyFlpen78WdszRJMC0) | 2:24 | 2026-11-05 |  |
 | [J'attends que la nuit](https://open.spotify.com/track/5BNSKMQeldT2crarXj22Oi) | [Bleu nuage](https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2) | [J'attends que la nuit](https://open.spotify.com/album/4G26g6FaTg1iprwntIwoYI) | 3:11 | 2026-01-09 |  |
 | [Je t'attends](https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Shahin Shantiaei](https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL) | [Je t'attends](https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE) | 3:20 | 2025-02-27 |  |
 | [Jungle](https://open.spotify.com/track/5f4ZzMG8zZXYXjBwLmd0aq) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Jungle](https://open.spotify.com/album/5wWAu59EvtfplSILL5S2mi) | 3:04 | 2022-12-20 | 2023-05-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van Leblanco, JoeyAK, Frsh en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,861 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,833 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 22 | [ATM](https://open.spotify.com/track/4IIaPr6b4MUdUwa46RcJ7M) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [ATM](https://open.spotify.com/album/7zLj1F7ChWitBk1pfuOaC8) | 1:47 |
 | 23 | [Mama Sorry](https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85) | [Harun B](https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Mama Sorry](https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u) | 3:00 |
 | 24 | [Purosangue](https://open.spotify.com/track/4EeJ05gxLu2p7EoRtyGqBY) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Bigbelly](https://open.spotify.com/artist/4JTFTkrF0NIFkFhYambgZR) | [Purosangue](https://open.spotify.com/album/2kR9bYxRk5TfaBeBTrnNBx) | 2:37 |
-| 25 | [Patsers & Princessen](https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [Patsers & Princessen](https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk) | 1:58 |
+| 25 | [PATSERS & PRINCESSEN](https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [PATSERS & PRINCESSEN](https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk) | 1:58 |
 | 26 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
 | 27 | [20 Backshot](https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [20 Backshot](https://open.spotify.com/album/32FUI6C5zKeboWI6Bt2hch) | 2:35 |
 | 28 | [Verbrand](https://open.spotify.com/track/6tCvMHxuh5CgLWgosmwbaL) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Verbrand](https://open.spotify.com/album/5Rv9D0iV11zcCRlBwE58rb) | 2:44 |

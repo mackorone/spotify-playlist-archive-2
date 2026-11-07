@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Rex Orange County, The Weeknd, Lafa Pratomo, Isyana Sarasvati, Jason Ranti dan masih banyak lagi dari dalam dan mancanegara.
 
-34,001 songs - 80 day 13 hr 31 min
+34,002 songs - 80 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15429,6 +15429,7 @@
 | [Kemana Ni](https://open.spotify.com/track/3b4cYt5Gnxai9QBuUJUfgV) | [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG), [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P), [Salammusik](https://open.spotify.com/artist/2GNPXIZNyBOs68fdaAeRYN) | [Kemana Ni](https://open.spotify.com/album/4bfV7zIHyQFQo3fFX7sHkk) | 3:42 | 2025-02-06 | 2025-02-14 |
 | [Kemanakah Cinta](https://open.spotify.com/track/71clx8rX1OPSHUpdaH5Bwa) | [Tatjana Saphira](https://open.spotify.com/artist/3HOa5hXtbHiiWZmMVmRatl) | [Kemanakah Cinta](https://open.spotify.com/album/66tvze7d9skLd1IsJHycxZ) | 4:08 | 2023-08-24 | 2023-09-01 |
 | [Kemarau](https://open.spotify.com/track/742fC1ftG7hzpZMWwwrDAM) | [Rachun](https://open.spotify.com/artist/5KAaNL3vpBcW7VgjBkzzxk) | [Kemarau](https://open.spotify.com/album/2MdKNmatnIATLg6SFk4j7d) | 3:46 | 2023-05-11 | 2023-05-19 |
+| [Kemarau dan Sang Penghujan](https://open.spotify.com/track/1vDtG2TEcexMjWNOARd0zv) | [Arah Pulang](https://open.spotify.com/artist/6L4POXPdm6AMOEVNwBBCag) | [Kemarau dan Sang Penghujan](https://open.spotify.com/album/6H7Cbwes174oD46YhJhIXf) | 4:29 | 2026-11-06 |  |
 | [Kemarin](https://open.spotify.com/track/0FYKoqCrIte8iCt3Mn4nd9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Kemarin](https://open.spotify.com/album/47q9YafSyI0EIa8uIDTTNP) | 3:54 | 2022-12-01 | 2022-12-09 |
 | [Kemarin \- From "Kemarin"](https://open.spotify.com/track/7bovdOsZlXeQPZh2JBPuww) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Kemarin \(From "Kemarin"\)](https://open.spotify.com/album/0TLlvtRcA6bEpeF5WCyM1h) | 4:07 | 2020-04-10 | 2020-04-16 |
 | [Kembali](https://open.spotify.com/track/212IXh4olT2VzhkTkR941u) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 4:42 | 2025-05-29 | 2025-06-06 |

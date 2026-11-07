@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Busta Rhymes",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Anderson .Paak & Cordae",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -812,6 +812,32 @@
       "duration_ms": 207333,
       "name": "Ain't Nobody Coming Down To Save You",
       "url": "https://open.spotify.com/track/24tRsIsyPuvBZbjOfbfm74"
+    },
+    {
+      "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Harley Harl",
+          "url": "https://open.spotify.com/artist/76A5AGFCf2dOoi3BlqJBB1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "Ain't So Far",
+      "url": "https://open.spotify.com/track/3bZ3VVv3VvdzNI0hsYTJNH"
     },
     {
       "album": {
@@ -10143,6 +10169,28 @@
     },
     {
       "album": {
+        "name": "Off To The Races",
+        "url": "https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "Kamikaze Drive",
+      "url": "https://open.spotify.com/track/0kvYS4piD9NWnfQnc4zx4m"
+    },
+    {
+      "album": {
         "name": "The Chauncey Hollis Project",
         "url": "https://open.spotify.com/album/6X7sFYw0NJ1hoVPeDo4HUf"
       },
@@ -12915,6 +12963,32 @@
     },
     {
       "album": {
+        "name": "Off To The Races",
+        "url": "https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Night Vision (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/43jJnAZdZjJo82uyPgUV7w"
+    },
+    {
+      "album": {
         "name": "Slant Face Killah",
         "url": "https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ"
       },
@@ -15204,7 +15278,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 206152,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/6ejYa5BRCvtggFmszLmojK"
@@ -18692,7 +18766,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 145483,
       "name": "Talk Ya Shit",
       "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
@@ -19894,7 +19968,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159017,
       "name": "This Thing Of Ours",
       "url": "https://open.spotify.com/track/3f3tSkQZSenHPlwWle2Sx1"

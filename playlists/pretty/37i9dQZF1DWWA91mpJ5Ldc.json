@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137208,
+  "num_followers": 137216,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Xuxu",
         "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -263,26 +263,6 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 217735,
-      "name": "Amei Te Ver",
-      "url": "https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -315,6 +295,26 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 217735,
+      "name": "Amei Te Ver",
+      "url": "https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "ZAM ZAM",
         "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Pra Vida",
-      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Viver (Mais leve que o ar)",
         "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Pra Vida",
+      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -671,6 +671,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Andar Sozinho (feat. J\u00e3o)",
+        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "O Velho Fusca",
         "url": "https://open.spotify.com/album/21HGedzOEu60ECMttwUimn"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 159018,
       "name": "Chinelo de Dedo",
       "url": "https://open.spotify.com/track/5LCckzANfQNAcGvpGI8oUI"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Andar Sozinho (feat. J\u00e3o)",
-        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Andar Sozinho (feat. J\u00e3o)",
-      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
     },
     {
       "added_at": "2025-12-05 19:00:22",

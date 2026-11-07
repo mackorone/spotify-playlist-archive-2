@@ -5539,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "Only Want You",
+        "url": "https://open.spotify.com/album/7jbRB0YJd5U2U03l86Wr6A"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Only Want You",
+      "url": "https://open.spotify.com/track/4ICTiNMlVnqu60ZqZZcLio"
+    },
+    {
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -6126,7 +6144,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 236693,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/7pwTNqKRrJlb0wd476AFO5"

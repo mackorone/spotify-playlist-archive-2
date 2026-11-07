@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌞 featuring Bård Berg
 
-295 songs - 18 hr 31 min
+296 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 | 2025-08-02 |
 | [Acropolis](https://open.spotify.com/track/2hpVQBayFqLoNKO6XKnDGn) | [gabriel](https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2) | [Acropolis](https://open.spotify.com/album/33UdAsiRpjwn3UdauMrT0n) | 2:54 | 2026-08-07 | 2026-10-24 |
 | [All Over](https://open.spotify.com/track/3J5cXnEVsVLcQCE5ImlXhg) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Lewis McCallum](https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn) | [All Over](https://open.spotify.com/album/390p2gSBx7nYnneguRlwn9) | 5:00 | 2026-06-19 |  |
-| [Always Lovin](https://open.spotify.com/track/0Pvh7YW6yVwNWn8pFXk8SZ) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [Always Lovin](https://open.spotify.com/album/3cFKjcFAu2te0pSOmfPXag) | 3:28 | 2026-08-07 |  |
+| [Always Lovin](https://open.spotify.com/track/0Pvh7YW6yVwNWn8pFXk8SZ) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [Always Lovin](https://open.spotify.com/album/3cFKjcFAu2te0pSOmfPXag) | 3:28 | 2026-08-07 | 2026-11-07 |
 | [amour](https://open.spotify.com/track/6WS5k3DHCKlCTT7T0UIbYD) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV), [Rivièra](https://open.spotify.com/artist/1Jh5ihjHbMtd31JlQ1bf45), [muscato](https://open.spotify.com/artist/1F6tBDXjLyv3jmoonckbvR) | [amour](https://open.spotify.com/album/0ZLwCd30zcRdaIW9cj69ta) | 3:00 | 2026-09-18 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 | 2025-11-22 |
 | [as the world turns](https://open.spotify.com/track/2AXSrt5iuhT4iPb6piVIp1) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [as the world turns](https://open.spotify.com/album/3byD2sN44BAjh9PDe6uhP6) | 4:52 | 2026-05-01 |  |
@@ -44,6 +44,7 @@
 | [Brooklyn 9:00am](https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Brooklyn 9:00am](https://open.spotify.com/album/4b7mMlruldC2R7w71vzyTg) | 2:40 | 2025-02-21 | 2026-07-07 |
 | [Burning Bright](https://open.spotify.com/track/3an3SoOUqcElaRlLDakNjD) | [Yasin Hazim](https://open.spotify.com/artist/1zQG3HG2ikVmCzRetpDS5k) | [Burning Bright](https://open.spotify.com/album/0En0bhjGM0FjYRvrenN5Ip) | 4:06 | 2026-09-18 |  |
 | [BUTTER BREAD](https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [BUTTER BREAD](https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0) | 3:34 | 2025-03-28 |  |
+| [Café Confessions](https://open.spotify.com/track/1zPZ2Q97ca6PSvvxezECdQ) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [Café Confessions](https://open.spotify.com/album/3qstbqwD5j9norrNFgRR7V) | 3:06 | 2026-11-06 |  |
 | [calvera](https://open.spotify.com/track/5cpIlNlf4Jc8MhyqYiIzRP) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu), [Apéro](https://open.spotify.com/artist/72zV93lLjsCDg4Zmvgqs68) | [calvera](https://open.spotify.com/album/4LI8Tu5lOkPXT8bKQpEiWQ) | 1:55 | 2025-11-21 | 2026-06-19 |
 | [Calypso](https://open.spotify.com/track/4UahXJRzy7JgPEXXhdnQPU) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Black Sand](https://open.spotify.com/album/7EH8VWCoo1NOnyRhIDZZjC) | 2:34 | 2025-05-23 | 2025-08-16 |
 | [Captain Hosa](https://open.spotify.com/track/2L661S4CnKOauPvNms6uaC) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq) | [Captain Hosa](https://open.spotify.com/album/74zgYgL574rqcXWY9Lgij9) | 3:33 | 2025-12-05 | 2026-02-28 |

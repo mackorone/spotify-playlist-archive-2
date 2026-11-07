@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3620,
+  "num_followers": 3626,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABhyBYXEiaO+4ShNl4oSlvp",
+  "snapshot_id": "auvHAAAAAABoue2KeqYlgnEKdMfPzu95",
   "tracks": [
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "HARD!",
-      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAKE IT UP - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2UEQ0AO6afLtXm4URqzl1m"
       },
@@ -507,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
@@ -516,9 +484,25 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
+      "duration_ms": 118666,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "HARD!",
+      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 90836,
       "name": "IT'S YOURS",
       "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAUTIOUS",
-        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 140450,
-      "name": "CAUTIOUS",
-      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+        "name": "CAUTIOUS",
+        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 146250,
-      "name": "LOW TIDE",
-      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+      "duration_ms": 140450,
+      "name": "CAUTIOUS",
+      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 90000,
       "name": "COLORWAY",
       "url": "https://open.spotify.com/track/5G79sWJahVQQJWqOqtxJuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT"
     },
     {
       "added_at": null,
@@ -708,45 +724,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "OUTTA CONTROL",
-      "url": "https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE LAST TIME",
-        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "THE LAST TIME",
-      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": null,
@@ -771,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUBMISSIVE",
         "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
       },
@@ -799,6 +763,42 @@
       "duration_ms": 132068,
       "name": "MARIPOSA",
       "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE LAST TIME",
+        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "THE LAST TIME",
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 225533,
       "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
       "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUBMISSIVE2",
-        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "IT'S ONLY YOU",
-      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
     },
     {
       "added_at": null,

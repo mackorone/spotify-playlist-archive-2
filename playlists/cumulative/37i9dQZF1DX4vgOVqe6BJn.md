@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-360 songs - 19 hr 45 min
+361 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 | 2023-01-25 | 2024-04-19 |
 | [Choose A Life](https://open.spotify.com/track/1NARnOS0c6P41vyMD0xEyV) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/2Qe5Tps4jsUs0WWDzWa2ZX) | 3:26 | 2023-01-25 | 2023-12-11 |
 | [Choose A Life](https://open.spotify.com/track/206aJvufLWSF3RRJJonlFl) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/17lK7ASdyllINtO0BczUs2) | 3:26 | 2022-09-30 | 2025-09-16 |
+| [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-11-06 |  |
 | [Colors Collide](https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Colors Collide](https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb) | 3:35 | 2026-09-10 |  |
 | [Colors Turn Grey](https://open.spotify.com/track/1X08JgF7RkIT2sLIMHowOb) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:29 | 2025-09-15 | 2026-09-11 |
 | [Colours In My Mind](https://open.spotify.com/track/7DtYIqJmvYjDdBkgXTQInD) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [A Man After God's Own Heart](https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz) | 3:20 | 2025-09-15 | 2026-09-11 |
@@ -252,7 +253,7 @@
 | [People \(with The Knocks\)](https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:44 | 2022-09-22 | 2025-09-16 |
 | [People \(with The Knocks\)](https://open.spotify.com/track/71pm3H94okCkUNqwFQZr8k) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/0LAO0Lz7P7nO3MpRiQZBLL) | 3:44 | 2023-01-25 | 2024-04-19 |
 | [People Need People](https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [People Need People](https://open.spotify.com/album/3zAyNQMIfYDCTpm5PYapi8) | 2:45 | 2025-09-15 | 2026-09-11 |
-| [Pink Limo](https://open.spotify.com/track/1wvaktk88WpnMvfI195XWq) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Pink Limo](https://open.spotify.com/album/7GZQxL6oxF72K2bfDqs5LJ) | 3:33 | 2026-09-10 |  |
+| [Pink Limo](https://open.spotify.com/track/1wvaktk88WpnMvfI195XWq) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Pink Limo](https://open.spotify.com/album/7GZQxL6oxF72K2bfDqs5LJ) | 3:33 | 2026-09-10 | 2026-11-07 |
 | [Platinum](https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp) | 2:42 | 2026-09-10 |  |
 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 | 2022-09-22 | 2025-09-16 |
 | [pond song](https://open.spotify.com/track/7uX75Chj1OWg2rMZNaDIT8) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 2:58 | 2025-09-15 | 2026-09-11 |

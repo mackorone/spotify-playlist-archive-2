@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 436 songs - 22 hr 48 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 441 songs - 23 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -444,5 +444,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 434 | [DOIN BETTER](https://open.spotify.com/track/1LBehFbQVQFEttXb6eaNTg) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [DOIN BETTER](https://open.spotify.com/album/45bsUcyVXWCUNtYSGuIVqg) | 2:15 |
 | 435 | [Ride With Me](https://open.spotify.com/track/7iQ7QJL8FxybDfDx7JJd0N) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Ride With Me](https://open.spotify.com/album/1l2VwfXWL66ueegxf4KpTn) | 3:14 |
 | 436 | [Trou à rats](https://open.spotify.com/track/3NgBSvEHicK5YbWVJm5SpT) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [Trou à rats](https://open.spotify.com/album/2LKZVUYfn2bhRLadPiOa5z) | 2:24 |
+| 437 | [Bluffin](https://open.spotify.com/track/7wF3rjxqVdIT0JHUGidjXT) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb) | [The World Is Ours 2](https://open.spotify.com/album/6AWRtH5hRsSRvpmvWVej9T) | 2:25 |
+| 438 | [419 Grind](https://open.spotify.com/track/0P3Y56mCqaKfgtW26Ftgks) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [419 Grind](https://open.spotify.com/album/6xKZAAiplC9GTKcfoDoE2w) | 3:04 |
+| 439 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 |
+| 440 | [Badali Badala](https://open.spotify.com/track/0ZNdALVJvUZ7ciSdY7yHIP) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Badali Badala](https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP) | 5:03 |
+| 441 | [Walk Different](https://open.spotify.com/track/5dI2QQQGggILTH2M8dMiiy) | [Versifyer](https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp) | [Modern Masterpiece](https://open.spotify.com/album/0g5vBBkc0hSeuYAhU5IKfT) | 2:36 |
 
-Snapshot ID: `AAAezb8nS1GbkU+kCXKzMNonpR1YBSTW`
+Snapshot ID: `AAAe0mT4ypUETT5Ozprg5DWapOgzazQu`

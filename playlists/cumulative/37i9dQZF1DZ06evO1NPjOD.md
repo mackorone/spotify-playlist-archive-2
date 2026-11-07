@@ -4,10 +4,11 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 6 min
+86 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6dPei3RtBHQxYXflFtWB5s) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0XCKnQhtw0K3JUKMNPqlIV) | 0:00 | 2026-11-03 |  |
 | [4 1 Nite](https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA) | [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [4 1 Nite](https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV) | 3:25 | 2026-02-11 |  |
 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 | 2022-10-28 | 2026-11-02 |
 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-05-27 |  |
@@ -60,7 +61,6 @@
 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 | 2022-10-28 |  |
 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 | 2022-10-28 |  |
 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 | 2023-06-11 |  |
-| [Punanni](https://open.spotify.com/track/6dPei3RtBHQxYXflFtWB5s) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Unreleased Lost Files](https://open.spotify.com/album/0XCKnQhtw0K3JUKMNPqlIV) | 2:57 | 2026-11-03 |  |
 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 | 2022-10-28 |  |
 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 | 2022-10-28 | 2025-03-30 |
 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 | 2022-10-28 |  |

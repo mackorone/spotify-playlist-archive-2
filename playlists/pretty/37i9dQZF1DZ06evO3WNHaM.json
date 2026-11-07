@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 518778,
+  "num_followers": 518902,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABBNQYG9/Dd99FLGogaijaq",
+  "snapshot_id": "auvHAAAAAABHf+70ReuUykFjUu5gn4uW",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 172385,
-      "name": "locked club",
-      "url": "https://open.spotify.com/track/3ICYxVhwVsp8FYI3IT2dDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237733,
       "name": "Lotion",
       "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 172385,
+      "name": "locked club",
+      "url": "https://open.spotify.com/track/3ICYxVhwVsp8FYI3IT2dDV"
     },
     {
       "added_at": null,

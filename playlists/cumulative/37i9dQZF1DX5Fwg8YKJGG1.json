@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/1ATg61yi6lFTFNfVHFqZ7x"
+      },
+      "artists": [
+        {
+          "name": "Eternelles",
+          "url": "https://open.spotify.com/artist/0VsrG15EAEp0YkTHs6vL1a"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130487,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/1KTlTIG9YGvun43vKrPx9j"
+    },
+    {
+      "album": {
         "name": "Weihnachten f\u00fcr Kleinkinder",
         "url": "https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE"
       },
@@ -1028,6 +1046,24 @@
       "duration_ms": 149583,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/3mTFPi36pqNJErG78Dh71L"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Comin' to Town",
+        "url": "https://open.spotify.com/album/4YusDvB8gKKcH1uisnuq45"
+      },
+      "artists": [
+        {
+          "name": "Little Koala",
+          "url": "https://open.spotify.com/artist/1gLRBiAgnTX3Fj6I29ULqQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/6MjQJB6v1shsVDiUPes4zA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 283145,
+  "num_followers": 283161,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
+        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 169088,
+      "name": "Paraquedas - Live",
+      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
         "name": "SENTIMENTO (Ao Vivo Em Fortaleza)",
         "url": "https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 189002,
       "name": "Fingindo Maturidade - Ao Vivo",
       "url": "https://open.spotify.com/track/3tU3UAasaDA9OixXGC3O33"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
-        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 169088,
-      "name": "Paraquedas - Live",
-      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
     },
     {
       "added_at": "2026-04-30 22:01:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
         "name": "\u00c0 Vontade",
         "url": "https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 160640,
       "name": "Jenifer",
       "url": "https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
     },
     {
       "added_at": "2026-04-30 22:01:08",

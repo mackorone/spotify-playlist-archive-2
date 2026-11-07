@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8950,
+  "num_followers": 8994,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/5lP3w4pppBEKlKhTKbahvz"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 243393,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6FRp7oWjxIVbFSAjYQjgKv"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "A Very Kacey Christmas",
         "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/5lP3w4pppBEKlKhTKbahvz"
+        "name": "The Sound of Christmas",
+        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         }
       ],
-      "duration_ms": 243393,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6FRp7oWjxIVbFSAjYQjgKv"
+      "duration_ms": 197562,
+      "name": "The Sound Of Christmas",
+      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -143,22 +159,6 @@
       "duration_ms": 215280,
       "name": "December Song",
       "url": "https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "The Sound of Christmas",
-        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 197562,
-      "name": "The Sound Of Christmas",
-      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Every Day Will Be Like A Holiday",
+        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Every Day Will Be Like A Holiday",
+      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "Sings Simple Gifts",
         "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 252388,
       "name": "Merry Christmas Mary Jane",
       "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Every Day Will Be Like A Holiday",
-        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
-      },
-      "artists": [
-        {
-          "name": "The Band Loula",
-          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Every Day Will Be Like A Holiday",
-      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -463,38 +463,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 245922,
-      "name": "River",
-      "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -515,6 +483,38 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 245922,
+      "name": "River",
+      "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Pretty Paper",
+        "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Pretty Paper",
+      "url": "https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "For Christmas",
         "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
       },
@@ -599,22 +619,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "OCMS XMAS",
-        "url": "https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -631,6 +635,22 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "OCMS XMAS",
+        "url": "https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -667,26 +687,34 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Run Run Rudolph",
-        "url": "https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU"
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
       },
       "artists": [
         {
-          "name": "Gabe Lee",
-          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
-        },
-        {
-          "name": "King Margo",
-          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
-        },
-        {
-          "name": "Zoe Cummins",
-          "url": "https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 174841,
-      "name": "Run Run Rudolph",
-      "url": "https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU"
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
+      },
+      "artists": [
+        {
+          "name": "Palmyra",
+          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+        }
+      ],
+      "duration_ms": 194582,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -703,6 +731,22 @@
       "duration_ms": 183933,
       "name": "Christmas Is Coming Soon",
       "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -727,50 +771,26 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Merry Christmas Asshole",
-        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+        "name": "Run Run Rudolph",
+        "url": "https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU"
       },
       "artists": [
         {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 185056,
-      "name": "Merry Christmas Asshole",
-      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
-      },
-      "artists": [
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        },
         {
-          "name": "Palmyra",
-          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
-        }
-      ],
-      "duration_ms": 194582,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
-      },
-      "artists": [
+          "name": "King Margo",
+          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
+        },
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Zoe Cummins",
+          "url": "https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh"
         }
       ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+      "duration_ms": 174841,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -791,22 +811,6 @@
       "duration_ms": 189360,
       "name": "I Heard The Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Send Me Out Like Autumn",
-        "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
-      },
-      "artists": [
-        {
-          "name": "King Margo",
-          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Send Me Out Like Autumn",
-      "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -847,18 +851,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "The Sound of Christmas",
-        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+        "name": "Send Me Out Like Autumn",
+        "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
       },
       "artists": [
         {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+          "name": "King Margo",
+          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
         }
       ],
-      "duration_ms": 278409,
-      "name": "Don't Go Leaving Me (It's Christmas Eve)",
-      "url": "https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN"
+      "duration_ms": 233706,
+      "name": "Send Me Out Like Autumn",
+      "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
     }
   ],
   "unique_name": "Americana Christmas",

@@ -4,7 +4,7 @@
 
 > новинки українського андерґраунду\. обкладинка: ін8ерсія
 
-993 songs - 2 day 3 hr 56 min
+994 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [МИ](https://open.spotify.com/track/1xnMiBFpnr0yvt3sAxorVn) | [Sexy Education](https://open.spotify.com/artist/4kk1HhQAkt2TrH7xEHprfi) | [МИ](https://open.spotify.com/album/7N2XC2zmgGxXHIhHMT6aYN) | 3:04 | 2026-04-16 | 2026-04-24 |
 | [ми просто полетимо](https://open.spotify.com/track/1jEpAJ5fjA6NWPVgGZEE3M) | [fimamaru](https://open.spotify.com/artist/3h2oNmmBzcR7cH3dHzF4zD) | [ми просто полетимо](https://open.spotify.com/album/4Ix465WfCUsTpDqvkvxJRu) | 2:37 | 2025-03-03 | 2025-03-18 |
 | [Ми тут щоб жити](https://open.spotify.com/track/5BeJImIcn815YAHA9Smt4z) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M) | [Ми тут щоб жити](https://open.spotify.com/album/5i6i8MC75FR7ZofwqWczmf) | 2:40 | 2026-01-16 | 2026-07-03 |
+| [Ми як роботи](https://open.spotify.com/track/3vbV0w9kE7A0jybPyYXOS0) | [Anton Kramar](https://open.spotify.com/artist/64gEF9PqdwiBnxdqNv8fTP) | [Ми як роботи](https://open.spotify.com/album/10fhaVlwhxXM9GwKHSVRgR) | 3:25 | 2026-11-05 |  |
 | [могла бути чесніше](https://open.spotify.com/track/2tM8iMFGBgZTB4WuE73Ixp) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [чи там є я](https://open.spotify.com/album/68QwQ3aJgO7V9NQRxRaqLH) | 1:17 | 2025-04-11 | 2025-04-25 |
 | [Може ми](https://open.spotify.com/track/5IvbTuW1s5AQtOFnSXYLg2) | [АЗІЗА](https://open.spotify.com/artist/6enXW3gpJ7z65qvyaCVP0k), [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD) | [Може ми](https://open.spotify.com/album/6sidyuQybTfVCb62aY8PuS) | 2:53 | 2026-10-09 |  |
 | [МОЗОК ДИСКО](https://open.spotify.com/track/5UMxH9psk5dXg3NDqeZLh6) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [МОЗОК ДИСКО](https://open.spotify.com/album/2HtXhgOFTZhbOOmmSfGPM5) | 2:35 | 2026-01-16 |  |
@@ -621,7 +622,7 @@
 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 | 2025-03-03 | 2026-02-28 |
 | [Обман](https://open.spotify.com/track/1CjLeI6z5PnrXZhWXDg7Rh) | [Бульвар Шевченка](https://open.spotify.com/artist/0Zo37K8a2MeRexjZwdt47c) | [Обман](https://open.spotify.com/album/5hcjmv5z0eZGledusfW8Ie) | 2:47 | 2026-01-16 | 2026-02-28 |
 | [оболонь](https://open.spotify.com/track/6N0SXdJ330Ex6neD7Lhfpq) | [коїтус](https://open.spotify.com/artist/1ZLk24uP10zxiiKrFTNXUg) | [самотність](https://open.spotify.com/album/2wsE27W1zg5oNcD2WfVrXM) | 2:57 | 2026-10-15 |  |
-| [Образи у м'язи](https://open.spotify.com/track/4MQErkNZP9rBGZdTA6JVDy) | [Rymma](https://open.spotify.com/artist/3tNMAuJS44PVLMfxIGVB0v) | [Образи у м'язи](https://open.spotify.com/album/4DweLELwhLJgAKA1BKDKkY) | 2:53 | 2026-10-09 |  |
+| [Образи у м'язи](https://open.spotify.com/track/4MQErkNZP9rBGZdTA6JVDy) | [Rymma](https://open.spotify.com/artist/3tNMAuJS44PVLMfxIGVB0v) | [Образи у м'язи](https://open.spotify.com/album/4DweLELwhLJgAKA1BKDKkY) | 2:53 | 2026-10-09 | 2026-11-07 |
 | [Обуглені крила](https://open.spotify.com/track/6USgkpGmdKSfsU7TcS3gDa) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Обуглені крила](https://open.spotify.com/album/2rutoirOs7sG5kLLk9C7DA) | 2:13 | 2026-05-28 | 2026-06-13 |
 | [обіймай\\дощ](https://open.spotify.com/track/1VxTo9fYcDQN6jTSnucLyx) | [атмосферика](https://open.spotify.com/artist/5bGG00q1afGuAmdjyRiXEN) | [обіймай\\дощ](https://open.spotify.com/album/00P02iLfW6aXkfqnYe0Fn2) | 3:10 | 2026-05-14 | 2026-06-16 |
 | [Обійми](https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Обійми](https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE) | 3:27 | 2024-08-23 | 2025-05-31 |
@@ -693,7 +694,7 @@
 | [ППНМ](https://open.spotify.com/track/1EfwHIxobAWOjqkMUCmwy0) | [Забавка і Дмитрик](https://open.spotify.com/artist/1R6ZYj20thiSst62UWoRTI) | [ППНМ](https://open.spotify.com/album/3p4GBSSbceXdEucXZBqwxU) | 2:09 | 2026-07-02 | 2026-07-31 |
 | [правила гри](https://open.spotify.com/track/5xuRHGGJJfkCjxcLnyHDhC) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [правила гри](https://open.spotify.com/album/02H7Fqph6a6M2uhVH8deWs) | 4:19 | 2025-11-20 | 2026-04-17 |
 | [Прекрасний світ](https://open.spotify.com/track/5sQRsXx7qDTWoHAi6vHhJW) | [Leleka i Paporot](https://open.spotify.com/artist/452SnJVAxr0a1MLjRIpbaV) | [Прекрасний світ](https://open.spotify.com/album/0pf5GnB78QBFxl1jZTBnpn) | 4:07 | 2025-03-03 | 2025-06-09 |
-| [Привʼязана](https://open.spotify.com/track/3OhHyxONzUBO4C9p8XHDFI) | [Daryna](https://open.spotify.com/artist/2Nagycqaa3u6LAavjfYbsQ) | [Привʼязана](https://open.spotify.com/album/2aYdqqZsZYvjg3xCL76XVp) | 4:22 | 2026-10-01 | 2026-11-06 |
+| [Привʼязана](https://open.spotify.com/track/3OhHyxONzUBO4C9p8XHDFI) | [Daryna](https://open.spotify.com/artist/2Nagycqaa3u6LAavjfYbsQ) | [Привʼязана](https://open.spotify.com/album/2aYdqqZsZYvjg3xCL76XVp) | 4:22 | 2026-10-01 |  |
 | [привіт\-привіт](https://open.spotify.com/track/78ZKzuZ1r6mBJmA02sDR1E) | [ТИМПАЧЕ](https://open.spotify.com/artist/2Nq0XCT6qH8GOTgaXq2dXV) | [привіт\-привіт](https://open.spotify.com/album/3CnTKG4sM5cKSet4kVr6iD) | 4:08 | 2025-10-23 | 2026-04-03 |
 | [Придніпровськ](https://open.spotify.com/track/4rjsXOJXgTBInjetr8ctZI) | [Yetee](https://open.spotify.com/artist/6678HsZbyY7uZUuc6SNx7c) | [Придніпровськ](https://open.spotify.com/album/6yciBb0g89nKFiE0Y9g3k2) | 3:41 | 2026-10-15 | 2026-11-06 |
 | [Прийду Вночі](https://open.spotify.com/track/67wPFjMjh7ZFNLb9wigvXd) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Прийду Вночі](https://open.spotify.com/album/1hMBPUO5sCiQgkWXTWygo3) | 2:57 | 2025-05-30 | 2025-06-07 |

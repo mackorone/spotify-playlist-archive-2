@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16498,
+  "num_followers": 16496,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABV49RatkxrhnGPSG8iXbha",
+  "snapshot_id": "aup1gAAAAAA2TQMZna0aBWdCANtJlAMO",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
       },
       "artists": [
         {
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 125440,
-      "name": "BIA BIA (feat. Lil Jon)",
-      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
       "artists": [
         {
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
+      "duration_ms": 125440,
+      "name": "BIA BIA (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 149497,
-      "name": "COVER GIRL",
-      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
     },
     {
       "added_at": null,
@@ -883,6 +867,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DADE",
+        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 104415,
+      "name": "DADE",
+      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "moo",
         "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 139680,
       "name": "fine shyt (feat. BIA)",
       "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DADE",
-        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 104415,
-      "name": "DADE",
-      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
     },
     {
       "added_at": null,
@@ -1023,46 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "HARD WAY (feat. Becky G)",
-      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "SAME HANDS (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRING IT ON",
         "url": "https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46"
       },
@@ -1087,6 +1047,46 @@
       "duration_ms": 214838,
       "name": "BRING IT ON",
       "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "SAME HANDS (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     },
     {
       "added_at": null,

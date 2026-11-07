@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Soft edges and slow motion moments 🪴
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305,230 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,108 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 61 | [Dodge](https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Shhugar](https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk) | 3:33 |
 | 62 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
 | 63 | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed) | 3:20 |
-| 64 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:20 |
-| 65 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
+| 64 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
+| 65 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:20 |
 | 66 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
 | 67 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 68 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 77 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
 | 78 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 79 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
-| 80 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
-| 81 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 80 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 81 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
 | 82 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
 | 83 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
 | 84 | [Little Miss Sunshine](https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Little Miss Sunshine](https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v) | 5:15 |
 | 85 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 |
 | 86 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
-| 87 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
-| 88 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
-| 89 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
+| 87 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
+| 88 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
+| 89 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 90 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 91 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
 | 92 | [the minute you're gone](https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the minute you're gone](https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6) | 3:03 |

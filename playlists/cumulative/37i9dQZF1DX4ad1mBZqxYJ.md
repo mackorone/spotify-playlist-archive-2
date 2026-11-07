@@ -4,7 +4,7 @@
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-402 songs - 23 hr 6 min
+405 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-09-26 | 2026-09-19 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-06-06 | 2024-03-06 |
 | [Bombos y Tarolas](https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091) | 4:52 | 2021-12-07 |  |
+| [BOOMERANG](https://open.spotify.com/track/3N5t8zJUQB5tKxpEJ7W8Re) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [BOOMERANG](https://open.spotify.com/album/7yZaztjDNut62lUPQUfcre) | 2:53 | 2026-11-06 |  |
 | [Borracho Gacho](https://open.spotify.com/track/4OzmPHAqniJC1yMuDh9lmC) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq) | 2:45 | 2021-12-07 | 2022-02-11 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2021-12-07 | 2024-03-06 |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2022-06-06 |  |
@@ -212,6 +213,7 @@
 | [Lose Yourself](https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:20 | 2022-09-23 | 2024-02-06 |
 | [Lírica Y Metralla](https://open.spotify.com/track/35nRezEpbqASQor29VGTgW) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 3:20 | 2021-12-07 | 2022-07-09 |
 | [M.F.Q.N\. \(Más Fuerte Que Nunca\)](https://open.spotify.com/track/69T1FbNvdxgRtOTSitz8bI) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [M.F.Q.N\. \(Más Fuerte Que Nunca\)](https://open.spotify.com/album/0B9Z5aFmeOy0O7LZv7EDZ7) | 3:40 | 2022-05-06 | 2022-07-29 |
+| [Mac n Cheese](https://open.spotify.com/track/59FfOGtPpHu9NImxubVwzj) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [SANDRO & MALANDROS](https://open.spotify.com/album/6j5C9dLtEqFR96K0JyEtZF) | 2:35 | 2026-11-06 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-18 | 2024-03-06 |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-05-06 | 2022-11-02 |
 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 | 2021-12-07 | 2022-07-20 |
@@ -238,6 +240,7 @@
 | [Mujer De Fuego](https://open.spotify.com/track/02OPuMueOwMgXsgmfD1kEA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/70JgCMpy5oRmrNSXUWegPY) | 3:17 | 2021-12-07 | 2022-06-06 |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2021-12-07 | 2023-10-27 |
 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-12-07 | 2024-03-06 |
+| [NeNe MaLo](https://open.spotify.com/track/2YtZwNCY5xhMcVZAeWj5Lv) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Dj Hate](https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS) | [NeNe MaLo](https://open.spotify.com/album/3Z5p5jUltJIMieO9WtzFaH) | 2:46 | 2026-11-06 |  |
 | [Niños](https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [Niños](https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9) | 4:14 | 2024-03-05 |  |
 | [No Conoce](https://open.spotify.com/track/00hsimDIZc9gGLQtldbmtA) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [El Redcode](https://open.spotify.com/artist/5uxovH9HP4ly0XfcTSiThR) | [No Conoce](https://open.spotify.com/album/7ej78QlgaUbVEE7DpnNraF) | 3:15 | 2022-06-06 | 2022-07-14 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-06-06 |  |

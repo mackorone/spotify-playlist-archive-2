@@ -1,6 +1,6 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 354192,
+  "num_followers": 354153,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Que Saudade da Gente",
-        "url": "https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 143181,
-      "name": "Que Saudade da Gente",
-      "url": "https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 187578,
       "name": "A Estrela",
       "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Que Saudade da Gente",
+        "url": "https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 143181,
+      "name": "Que Saudade da Gente",
+      "url": "https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Vira a P\u00e1gina",
-        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 125783,
-      "name": "Vira a P\u00e1gina",
-      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Tamborim",
         "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+        "name": "Vira a P\u00e1gina",
+        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+      "duration_ms": 125783,
+      "name": "Vira a P\u00e1gina",
+      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -367,6 +351,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "FRANKFURT",
         "url": "https://open.spotify.com/album/71U9A62SXVGcvbCqrKGJbx"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 192307,
       "name": "FRANKFURT",
       "url": "https://open.spotify.com/track/2L5HhsbheVrLUsPRFMzfXn"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -423,6 +407,22 @@
       "duration_ms": 189473,
       "name": "Dan\u00e7ar Pelada",
       "url": "https://open.spotify.com/track/7gu5xUTfbhrsVncu5iwD7f"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "CARAMELO SALGADO",
         "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 238058,
       "name": "SECA PALHA",
       "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Tar\u00f4",
-        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "Tar\u00f4",
-      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -591,22 +591,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+        "name": "Baby, l\u00e1 onde?",
+        "url": "https://open.spotify.com/album/1KN3NoJYzoeyffdUje6AYn"
       },
       "artists": [
         {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
         },
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Diima",
+          "url": "https://open.spotify.com/artist/3U8tpoAuUtanEur6WCpqFk"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
+      "duration_ms": 206415,
+      "name": "Baby, l\u00e1 onde?",
+      "url": "https://open.spotify.com/track/0wWEfSm8cY7bX1yQzuD6wc"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -623,6 +623,26 @@
       "duration_ms": 148000,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -663,26 +683,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Baby, l\u00e1 onde?",
-        "url": "https://open.spotify.com/album/1KN3NoJYzoeyffdUje6AYn"
-      },
-      "artists": [
-        {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
-        },
-        {
-          "name": "Diima",
-          "url": "https://open.spotify.com/artist/3U8tpoAuUtanEur6WCpqFk"
-        }
-      ],
-      "duration_ms": 206415,
-      "name": "Baby, l\u00e1 onde?",
-      "url": "https://open.spotify.com/track/0wWEfSm8cY7bX1yQzuD6wc"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "=P (Melissa Loss Remix)",
-        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
-      },
-      "artists": [
-        {
-          "name": "loopcinema",
-          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "DANCE!",
-      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "=P (Melissa Loss Remix)",
+        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "DANCE!",
+      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Tento",
+        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tento",
+      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Tento",
-        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tento",
-      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "efeito borboleta: caos",
+        "url": "https://open.spotify.com/album/6HiLYfZopYkN0dnniW2Ok1"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "HOMEM N\u00c3O PENSA",
+      "url": "https://open.spotify.com/track/66vstCDJ5H9tEIgGielOnM"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "Emocionalmente Indispon\u00edvel",
         "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 174250,
       "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
       "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "efeito borboleta: caos",
-        "url": "https://open.spotify.com/album/6HiLYfZopYkN0dnniW2Ok1"
-      },
-      "artists": [
-        {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "HOMEM N\u00c3O PENSA",
-      "url": "https://open.spotify.com/track/66vstCDJ5H9tEIgGielOnM"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Brisa Boa",
-        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00eatu",
-          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Brisa Boa",
-      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "Te Amar Me D\u00e1 Asas",
         "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 195124,
       "name": "Te Amar Me D\u00e1 Asas",
       "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Brisa Boa",
+        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00eatu",
+          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Brisa Boa",
+      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
     },
     {
       "added_at": "2026-11-06 03:00:13",

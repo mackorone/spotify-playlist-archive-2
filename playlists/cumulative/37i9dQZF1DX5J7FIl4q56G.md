@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: thrown
 
-12,877 songs - 35 day 13 hr 8 min
+12,878 songs - 35 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12686,6 +12686,7 @@
 | [Wounded Healer](https://open.spotify.com/track/2xotp9YY1i6vRboB8DEeHJ) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Wounded Healer](https://open.spotify.com/album/6FW1bLFlir4Z9bkv98q3uO) | 4:46 | 2026-06-12 | 2026-07-04 |
 | [Wounds](https://open.spotify.com/track/0QaUBQhT0qtoaXve6VDp8R) | [Sun Eater](https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M) | [Wounds](https://open.spotify.com/album/6rx4neBhpTqLpAVNLRwzSs) | 3:47 | 2026-03-27 | 2026-04-11 |
 | [Wounds](https://open.spotify.com/track/1IJNnRKqwV58jwqNwHk2rO) | [The Hero and a Monster](https://open.spotify.com/artist/7eQGtfOGKRndQcXCO1Xos6), [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [Wounds](https://open.spotify.com/album/40Ebmpklopu1HP0c5kV7u2) | 4:22 | 2023-01-06 | 2023-01-14 |
+| [Wounds I've Made](https://open.spotify.com/track/3QArCpwGziiqcEbZjDJFmU) | [Burn Eternal](https://open.spotify.com/artist/0H3ztvIwkQsfcwg6CqNsWF) | [Wounds I've Made](https://open.spotify.com/album/7mOLETfqFnra270N0Vzte0) | 3:41 | 2026-11-07 |  |
 | [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 | 2024-06-07 | 2024-06-15 |
 | [Wounds Will Heal](https://open.spotify.com/track/4wAVTeE6nP81nnrHRGqDxW) | [Body Prison](https://open.spotify.com/artist/4OW2g2KiFJtqvdwxCemioL) | [Wounds Will Heal](https://open.spotify.com/album/1OJUEVWT8IQbmSjpQJx0oZ) | 4:38 | 2025-02-14 | 2025-02-22 |
 | [WRAITH](https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw) | 3:19 | 2022-11-18 | 2022-11-26 |

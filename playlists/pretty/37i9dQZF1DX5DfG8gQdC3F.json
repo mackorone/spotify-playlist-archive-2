@@ -1,6 +1,6 @@
 {
   "description": "The latest from Jessie Reyez, Lil Baby, Rex Orange County, Slayyyter, Jack Harlow, and more.",
-  "num_followers": 599288,
+  "num_followers": 599774,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -523,17 +523,21 @@
     {
       "added_at": "2026-11-06 05:01:16",
       "album": {
-        "name": "Adiye",
+        "name": "Adiye (feat. Sukshinder Shinda)",
         "url": "https://open.spotify.com/album/4aekFFAlTIXhha5IqnkSY3"
       },
       "artists": [
         {
           "name": "Tesher",
           "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Sukshinder Shinda",
+          "url": "https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18"
         }
       ],
       "duration_ms": 179612,
-      "name": "Adiye",
+      "name": "Adiye (feat. Sukshinder Shinda)",
       "url": "https://open.spotify.com/track/6kIAnanJ5AiCCEgkLu0cdc"
     },
     {
@@ -764,8 +768,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "duration_ms": 157440,
@@ -1544,8 +1548,8 @@
           "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         },
         {
-          "name": "Oc\u00e1tvio Cabuata",
-          "url": "https://open.spotify.com/artist/21dZ2negaw5kiWvlS662Fm"
+          "name": "Oct\u00e1vio Cabuata",
+          "url": "https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ"
         }
       ],
       "duration_ms": 176000,
@@ -1640,7 +1644,7 @@
           "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
         }
       ],
-      "duration_ms": 187537,
+      "duration_ms": 187500,
       "name": "Diamonds In The Face",
       "url": "https://open.spotify.com/track/4KnKE0OZbgADiCfaCoqEi8"
     },

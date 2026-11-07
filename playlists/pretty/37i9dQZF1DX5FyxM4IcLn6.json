@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165227,
+  "num_followers": 165219,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 182767,
-      "name": "SOMEBODY LOVES ME",
-      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Caetano e Beth\u00e2nia Ao Vivo",
         "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 195739,
       "name": "Alegria, Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "As Alive As You Need Me To Be",
-        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "As Alive As You Need Me To Be",
-      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Cowboys And Dreamers",
         "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "\u00bfY ahora qu\u00e9?",
+        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Reconstruction",
         "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 202013,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "\u00bfY ahora qu\u00e9?",
-        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
     },
     {
       "added_at": "2025-11-12 17:50:29",

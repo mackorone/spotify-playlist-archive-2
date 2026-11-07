@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,855 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,853 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 41 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 42 | [Chocolate](https://open.spotify.com/track/2rbfCOgXMPoBLBrK2wLX5K) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [하지 말라면 더 하고 19 Part.1](https://open.spotify.com/album/4cxgsDqjK7r3JB0DIgJWaj) | 3:16 |
 | 43 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
-| 44 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
-| 45 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |
+| 44 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |
+| 45 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 | 46 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
-| 47 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
-| 48 | [Cherry Blossom](https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things We Dream: Vol.1](https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP) | 3:16 |
+| 47 | [Cherry Blossom](https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things We Dream: Vol.1](https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP) | 3:16 |
+| 48 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
 | 49 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
 | 50 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 51 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 65 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ \(ASTRO\)](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 66 | [I Feel Special](https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7) | 3:58 |
 | 67 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
-| 68 | [Spring Is Coming](https://open.spotify.com/track/6vynzyxPosrpgoggNVZ5au) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/03YiXxgdowSpg8M7ED3AfG) | 3:15 |
-| 69 | [유채꽃](https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:18 |
+| 68 | [유채꽃](https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:18 |
+| 69 | [Spring Is Coming](https://open.spotify.com/track/6vynzyxPosrpgoggNVZ5au) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/03YiXxgdowSpg8M7ED3AfG) | 3:15 |
 | 70 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [HyeJu](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 71 | [Love Story](https://open.spotify.com/track/3fTsOMpID9fwiu2SPBy5Kd) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Strange Hero \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4WRhl8GSpgADqxn7XZjL7Z) | 3:19 |
 | 72 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |

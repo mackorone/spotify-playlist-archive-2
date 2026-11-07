@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 117176,
       "name": "Blades",
       "url": "https://open.spotify.com/track/7Bqkuj2wPcgfdolI8NEUhf"
@@ -6455,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "Here's To Hoping",
+        "url": "https://open.spotify.com/album/42TNnGq619UQ7JylVz6txS"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Here's To Hoping",
+      "url": "https://open.spotify.com/track/5JQDB5eMEVO0rY3Wh3ybuJ"
+    },
+    {
+      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA"
       },
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 108131,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/6XB0vj0AS5gXXjMs1JIi5I"
@@ -17582,6 +17600,28 @@
       "duration_ms": 161600,
       "name": "Twinkles",
       "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
+    },
+    {
+      "album": {
+        "name": "Two Blunts",
+        "url": "https://open.spotify.com/album/0j7zvUJx5UobU827iQVbY3"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Kristoffer Eikrem",
+          "url": "https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137111,
+      "name": "Two Blunts",
+      "url": "https://open.spotify.com/track/6TwvkqDhUM2vWuE8CzMDQg"
     },
     {
       "album": {

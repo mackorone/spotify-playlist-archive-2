@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "album": {
         "name": "Colors Collide",
         "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
       },
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 213813,
       "name": "Pink Limo",
       "url": "https://open.spotify.com/track/1wvaktk88WpnMvfI195XWq"

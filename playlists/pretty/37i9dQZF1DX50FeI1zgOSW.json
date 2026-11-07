@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Smith Asher",
-  "num_followers": 21713,
+  "num_followers": 21714,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkgKYsBGkt+SbNoJMnTkejBLCxR",
+  "snapshot_id": "AAAAAMD8xSYAQoPEBmvrbTp+N5MYmQix",
   "tracks": [
     {
       "added_at": "2026-09-28 12:39:28",
@@ -119,6 +119,26 @@
       "duration_ms": 208666,
       "name": "Venmathiye",
       "url": "https://open.spotify.com/track/5VjrTq3Q4fZ5MWXCVavRQ7"
+    },
+    {
+      "added_at": "2026-11-06 12:15:42",
+      "album": {
+        "name": "Dumpapa",
+        "url": "https://open.spotify.com/album/1X1Edptqqxvy2p5UIBkRRE"
+      },
+      "artists": [
+        {
+          "name": "Partha",
+          "url": "https://open.spotify.com/artist/7jbBk3iWfr9uFMAMMFaOQi"
+        },
+        {
+          "name": "Ashlay JC",
+          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Dumpapa",
+      "url": "https://open.spotify.com/track/29hRTF2McBiRPU5Vp1EpPU"
     },
     {
       "added_at": "2026-07-16 15:08:35",

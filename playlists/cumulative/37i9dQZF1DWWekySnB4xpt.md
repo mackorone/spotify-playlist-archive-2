@@ -2,9 +2,9 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Foto: Motherflowers
+> Representando la cultura con orgullo\. Representing with pride! Foto: Lasso
 
-236 songs - 13 hr 41 min
+237 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 | 2024-06-14 | 2025-10-25 |
 | [Bom Bom](https://open.spotify.com/track/6IB6NjSuX9ZCGSAhW0ASgb) | [Los Cadillac's](https://open.spotify.com/artist/44clbgZfF4GkBAyduMPE2W) | [Bom Bom](https://open.spotify.com/album/28YRm0YkztgAFcP02iy8d3) | 3:27 | 2021-12-17 |  |
 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 | 2021-12-17 |  |
+| [Borracho Otra Vez](https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Objetos Frágiles en Ambientes Hostiles](https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP) | 2:47 | 2026-11-06 |  |
 | [BRUJA](https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH) | 2:51 | 2026-10-23 |  |
 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2021-12-17 | 2023-09-23 |
 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 | 2021-12-17 |  |
@@ -159,7 +160,7 @@
 | [NINA](https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j) | 4:59 | 2023-11-21 | 2024-04-19 |
 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 | 2023-09-22 | 2026-02-28 |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2021-12-17 |  |
-| [No Escuches Esta Canción](https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [No Escuches Esta Canción](https://open.spotify.com/album/5X3VP73kaBFCmaVxEzxcCI) | 3:11 | 2024-06-14 |  |
+| [No Escuches Esta Canción](https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [No Escuches Esta Canción](https://open.spotify.com/album/5X3VP73kaBFCmaVxEzxcCI) | 3:11 | 2024-06-14 | 2026-11-07 |
 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 | 2024-04-12 |  |
 | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/track/5EjfGgOtvmbmsgXoONmsY5) | [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/album/4dQ6HJnfubQmA1UgOWWgE0) | 3:56 | 2021-12-17 |  |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-01 | 2026-09-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 179 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020 likes - 179 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 49 | [Ballin'](https://open.spotify.com/track/4Z8iklsCvNnWP0zB9XPyta) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3JMlMEVOpqa3HoO9dzUN2s) | 3:12 |
 | 50 | [Right Now](https://open.spotify.com/track/2IchEsujchRlSelGhqXytE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3JMlMEVOpqa3HoO9dzUN2s) | 4:03 |
 | 51 | [Welcome to the Party](https://open.spotify.com/track/1PTkPOrtayEuKIpAmGsaVn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3JMlMEVOpqa3HoO9dzUN2s) | 1:54 |
-| 52 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 |
-| 53 | [Only U](https://open.spotify.com/track/6bCAmtLDh5jc4dR2pmsoFP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 2:55 |
+| 52 | [Only U](https://open.spotify.com/track/6bCAmtLDh5jc4dR2pmsoFP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 2:55 |
+| 53 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 |
 | 54 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ) | 1:58 |
 | 55 | [DEEPER](https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 2:52 |
 | 56 | [GREEDY](https://open.spotify.com/track/2OdAJDoTADwoBXnmoEiMc6) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ) | 6:26 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 129 | [Rain \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5XPNicWoJnVfrwjQnIs1p6) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:33 |
 | 130 | [Down for Life \(feat\. PARTYNEXTDOOR, Future, Travis Scott, Rick Ross & Kodak Black\)](https://open.spotify.com/track/1YsFOm6hFKqSLgu9RTpQB8) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 5:00 |
 | 131 | [LOW BATTERY](https://open.spotify.com/track/1UYF4kjmVv3znBlZQf2Frj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o) | 4:31 |
-| 132 | [Bad Intentions](https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:14 |
-| 133 | [Transparency](https://open.spotify.com/track/3HdaKs7NqROb5WuNbnJcGs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:50 |
+| 132 | [Transparency](https://open.spotify.com/track/3HdaKs7NqROb5WuNbnJcGs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:50 |
+| 133 | [Bad Intentions](https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:14 |
 | 134 | [No Shame \(Future feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2txxneWmDggnj8J0IlA4ZF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [SUPERFLY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C0Vs4XobImmqpr6kIasde) | 3:54 |
 | 135 | [Nothing Easy to Please](https://open.spotify.com/track/0U3ass1gB2Fr7s2Muhlwdg) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/08crc8qLTApNP1QrXFFh1c) | 4:23 |
 | 136 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 178 | [Truth For You](https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [Detrooklyn.](https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb) | 2:36 |
 | 179 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Acg5NAAAAAA2eiKTawwADJXuG/Zv6cs8`
+Snapshot ID: `Acg+mAAAAAAwozK+stfy+2k6y8J0qv5e`

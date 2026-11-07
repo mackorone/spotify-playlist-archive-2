@@ -2,7 +2,7 @@
 
 ### [ТОП ПОП 2026](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: SadSvit & FIЇNKA
+> Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Gunna Chorna
 
 691 songs - 1 day 11 hr 13 min
 
@@ -351,7 +351,7 @@
 | [WABI\-SABI](https://open.spotify.com/track/4qfdQi2OvycXL1Rv56X1sx) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Julia Sanina](https://open.spotify.com/artist/0efc3nE6FItdogB7HGWlst) | [WABI\-SABI](https://open.spotify.com/album/0fW7LaqsDDHLEFcAgpkqRC) | 2:22 | 2024-09-27 | 2024-10-05 |
 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 | 2025-05-01 | 2025-05-16 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-27 | 2024-12-20 |
-| [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 | 2025-05-29 | 2026-11-06 |
+| [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 | 2025-05-29 |  |
 | [WalKing Through the Code](https://open.spotify.com/track/5HvBmP9H49s6pofgBZJlbw) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [WalKing Through the Code](https://open.spotify.com/album/750gd5HjiOQXXpCzvN1y7D) | 3:45 | 2025-02-20 | 2025-04-04 |
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-15 | 2026-01-23 |
 | [Warrior](https://open.spotify.com/track/7l18AWN3ri1RlZAijyZaAu) | [Olya Polyakova](https://open.spotify.com/artist/5hpfP3fMcBFgQyTEpo19tl), [The Fourth Choir](https://open.spotify.com/artist/5taVVXabvK7X90KZqGA5X5) | [Warrior](https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls) | 3:15 | 2025-10-16 | 2025-10-24 |
@@ -390,7 +390,7 @@
 | [Без тебе](https://open.spotify.com/track/5e8CxJdVcbjaFNqHUUwgFA) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [19](https://open.spotify.com/album/3SjMRTptUNIozqMhKnH0uH) | 2:14 | 2024-11-14 | 2024-11-22 |
 | [бреши мені](https://open.spotify.com/track/2fdfulGJzLu33pqUpTkNFM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [сьогодні або ніколи](https://open.spotify.com/album/6VJLcdcWIHWNGtnUbuzuvY) | 2:42 | 2024-12-19 | 2025-01-17 |
 | [Бувай](https://open.spotify.com/track/5TZ9sclFWADZJGqPCqfvlj) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Сад Закоханих Лілій](https://open.spotify.com/album/0ehui3qhR0asT3RwQeM8ig) | 3:06 | 2025-12-04 | 2025-12-12 |
-| [Буревій](https://open.spotify.com/track/26AzQxgDdOcRL0vIn4JICT) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Буревій](https://open.spotify.com/album/0UDpSs14Qz4Tlov6nnMewA) | 2:58 | 2026-10-15 |  |
+| [Буревій](https://open.spotify.com/track/26AzQxgDdOcRL0vIn4JICT) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Буревій](https://open.spotify.com/album/0UDpSs14Qz4Tlov6nnMewA) | 2:58 | 2026-10-15 | 2026-11-07 |
 | [бути живим](https://open.spotify.com/track/03rhiuCU57eSopRCdiFcSF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [бути живим](https://open.spotify.com/album/0srhfNva5gIWJxceeKVlNe) | 2:20 | 2026-05-28 | 2026-06-12 |
 | [бути оптимістом](https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [бути оптимістом](https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es) | 3:00 | 2026-02-20 | 2026-02-27 |
 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 | 2025-04-04 | 2025-04-25 |

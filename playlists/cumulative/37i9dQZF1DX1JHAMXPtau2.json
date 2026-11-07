@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/6VdRmjzeaXitNgNozFXks1"
+      },
+      "artists": [
+        {
+          "name": "Ray Zakai",
+          "url": "https://open.spotify.com/artist/10cx72FvQ8yb3BdplEVaW4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144302,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/68r8TtCRuJXgH7QNTBHip9"
+    },
+    {
+      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S"
       },
@@ -286,10 +304,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 122597,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays",
+        "url": "https://open.spotify.com/album/5TmzO6sqC7TgII0LkIHyDQ"
+      },
+      "artists": [
+        {
+          "name": "Trilune",
+          "url": "https://open.spotify.com/artist/4JOH4Mu3hWTstqu7ESRJm4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154459,
+      "name": "Happy Holidays",
+      "url": "https://open.spotify.com/track/4MbiA7FcHLv7Ag65FD1S0K"
     },
     {
       "album": {
@@ -383,6 +419,24 @@
     },
     {
       "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/4IpcuV2yZNt4kWiwgwAJ5A"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134555,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/2ioguoFCOE58pRKNGMefjP"
+    },
+    {
+      "album": {
         "name": "Christmas In New York",
         "url": "https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW"
       },
@@ -394,7 +448,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218926,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb"
@@ -470,6 +524,24 @@
       "duration_ms": 104637,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki"
+    },
+    {
+      "album": {
+        "name": "This Time of Year",
+        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108959,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
     },
     {
       "album": {
@@ -779,6 +851,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/2NUdN3lW2hk36jWM29TV3f"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153739,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/1q2XwPvKpt7ujJ9LoC1cbo"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/5vH0m4Rmvn4kx15Z5GdL14"
       },
@@ -952,7 +1042,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 130134,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6B0B31rzHq9nESGo2FOA2o"
@@ -970,7 +1060,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154482,
       "name": "Wonderful Christmastime - Cover",
       "url": "https://open.spotify.com/track/0G6XzAzphUDLsdmm89LgAk"

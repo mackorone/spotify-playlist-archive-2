@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 87181,
+  "num_followers": 87207,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
+      },
+      "artists": [
+        {
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 162912,
       "name": "Baba",
       "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Ore Agbako",
-        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
-      },
-      "artists": [
-        {
-          "name": "Double Gee2x",
-          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Ore Agbako",
-      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "Big Drop (feat. Zaylevelten)",
         "url": "https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140400,
       "name": "Big Drop (feat. Zaylevelten)",
       "url": "https://open.spotify.com/track/4las0h0JOVTrmluFS6ulMW"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 195692,
       "name": "BITCH & MONEY",
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "GAOU LA (feat. 6uff)",
         "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 147169,
       "name": "GAOU LA (feat. 6uff)",
       "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     }
   ],
   "unique_name": "Naija Bars ",

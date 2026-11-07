@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 140 songs - 8 hr 19 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 141 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 138 | [Demolition](https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:19 |
 | 139 | [Happy For You](https://open.spotify.com/track/0ERpsAgUU0VLdTsQB8EtU5) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:48 |
 | 140 | [Mimesis](https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:51 |
+| 141 | [WALLFLOWER](https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:58 |
 
-Snapshot ID: `AAAA/iID2Vfv+36itXeUtwX4QnswnQbw`
+Snapshot ID: `AAAA/x6V/RDxFodRM31mQKVADo4CKNdD`

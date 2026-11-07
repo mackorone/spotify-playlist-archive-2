@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,094 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,128 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kia Boy](https://open.spotify.com/track/6rwNXIJCL0Dizz2vAzTUCy) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:05 |
+| 1 | [Good Time Boy](https://open.spotify.com/track/7t9Vlxh55VXgIHoid3RAx7) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:50 |
 | 2 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
 | 3 | [High Priced Shoes](https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:41 |
 | 4 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
-| 5 | [Good Time Boy](https://open.spotify.com/track/7t9Vlxh55VXgIHoid3RAx7) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:50 |
+| 5 | [Kia Boy](https://open.spotify.com/track/6rwNXIJCL0Dizz2vAzTUCy) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:05 |
 | 6 | [Squad Goals](https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:20 |
 | 7 | [Pain Salesmen \(with Ren\)](https://open.spotify.com/track/6LcCM904i2ATZcyatWGRsT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Pain Salesmen \(with Ren\)](https://open.spotify.com/album/57PLyxgQHkm56xk3nssS4h) | 3:19 |
 | 8 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 44 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
 | 45 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 |
 
-Snapshot ID: `aukkAAAAAAA1oU3pOfvuak0Nzd3sGf9x`
+Snapshot ID: `aup1gAAAAAAtosCZy1uL4sESo7aLoln2`

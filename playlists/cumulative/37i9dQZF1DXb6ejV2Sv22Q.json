@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  luvKMI en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Ervin River en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 148363,
       "name": "ati!",
       "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
@@ -4233,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "FANCY",
+        "url": "https://open.spotify.com/album/5cJWI1PAGROd4hi61QWcjH"
+      },
+      "artists": [
+        {
+          "name": "Seb Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206961,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/47T0vQ1ycxnOGrVJZNMm0e"
+    },
+    {
+      "album": {
         "name": "FATAL FANTASSY",
         "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
       },
@@ -5191,6 +5209,24 @@
     },
     {
       "album": {
+        "name": "QUIMERA I",
+        "url": "https://open.spotify.com/album/0FxtMLo3w7A8v2wiPDTTKI"
+      },
+      "artists": [
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238310,
+      "name": "huequitos",
+      "url": "https://open.spotify.com/track/79m3Q1lwJ7r2XpOjLO5Uje"
+    },
+    {
+      "album": {
         "name": "Huesos",
         "url": "https://open.spotify.com/album/5KcJnwPnHanlAXIloOnrRX"
       },
@@ -6090,7 +6126,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
@@ -7653,6 +7689,28 @@
     },
     {
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/6KHzGISouPZNUZsBkriDBU"
+      },
+      "artists": [
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "Zain Cervantes",
+          "url": "https://open.spotify.com/artist/360Vdg3tIZkV5Btrx3BqPb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/7hX6i055V0yLKRxuTLGdnP"
+    },
+    {
+      "album": {
         "name": "MOMENTO",
         "url": "https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA"
       },
@@ -7748,6 +7806,24 @@
       "duration_ms": 350488,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+    },
+    {
+      "album": {
+        "name": "mors egoni",
+        "url": "https://open.spotify.com/album/2EFjjAP6Jw9GtNCcWdQrOq"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "mors egoni",
+      "url": "https://open.spotify.com/track/1jobMeZkfq114vfva6pX5n"
     },
     {
       "album": {
@@ -8656,7 +8732,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 175374,
       "name": "Nueva York",
       "url": "https://open.spotify.com/track/2dQi0W4G6L8YiYVsnxaiLc"
@@ -11434,7 +11510,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198400,
       "name": "ST. TROPEZ!",
       "url": "https://open.spotify.com/track/7vQVVuBPua49LymUH8oFuh"
@@ -12398,7 +12474,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181764,
       "name": "TU NOMBRE",
       "url": "https://open.spotify.com/track/6vPFwlO9P19FI44Q2p8wXO"

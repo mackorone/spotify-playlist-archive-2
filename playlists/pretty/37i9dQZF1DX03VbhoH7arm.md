@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Jão
+> Grandes hits do BR e do 🌎 / Foto: LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,563,866 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,563,797 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 |
-| 2 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
-| 3 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
-| 4 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 5 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
-| 6 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
-| 7 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 |
-| 8 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
-| 9 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
-| 10 | [CUERPO \(TUMBAO\) \(feat\. Maluma\)](https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:08 |
-| 11 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
+| 1 | [Bi Festinha](https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Bi Festinha](https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN) | 2:28 |
+| 2 | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 |
+| 3 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
+| 4 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
+| 5 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
+| 6 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
+| 7 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
+| 8 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 |
+| 9 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
+| 10 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
+| 11 | [CUERPO \(TUMBAO\) \(feat\. Maluma\)](https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:08 |
 | 12 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
 | 13 | [Sal Grosso](https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [KBrum](https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:31 |
 | 14 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 
-Snapshot ID: `AAAAAEF1iaymLB7kq8NnR9l1+pJzYWvH`
+Snapshot ID: `AAAAAKBLPLrGOw+lspT5wvYQ9RiHPUfY`

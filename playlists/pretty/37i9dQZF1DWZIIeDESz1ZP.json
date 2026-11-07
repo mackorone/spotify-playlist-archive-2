@@ -1,15 +1,31 @@
 {
   "description": "Slow down and enjoy. Music videos only available on Premium.",
-  "num_followers": 183,
+  "num_followers": 206,
   "original_name": "En Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+yuH3Mz3BTq9W88Ftoti3NRav6",
+  "snapshot_id": "AAAAAKPZp3Bg1X8WQqsc98B7uyYdaKAR",
   "tracks": [
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "CATIRA",
+        "url": "https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "CATIRA",
+      "url": "https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Para Cuando Sean Mayores",
         "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Me Lo Merezco (Live From Los \u00c1ngeles)",
         "url": "https://open.spotify.com/album/2qnCxHMQku9nCrOQZyuwb0"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/4IEmRObLMwgK7oFpSgaRS5"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
@@ -57,7 +73,23 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 176768,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Rels B - Spotify Live Room",
         "url": "https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "Las Cosas Cambian",
+        "url": "https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 156170,
+      "name": "Las Cosas Cambian",
+      "url": "https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "LEJOS",
         "url": "https://open.spotify.com/album/434f2GTmix3G9KBL469TUV"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
@@ -109,7 +157,23 @@
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "De Cero",
+        "url": "https://open.spotify.com/album/33X8MSFhcmZfQyvL9YhMkK"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 170503,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/4VPaf34uvnDpfsYsNJU5FP"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Ola <3",
         "url": "https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc"
@@ -129,7 +193,7 @@
       "url": "https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "INTER\u00c9S HACIA TI",
         "url": "https://open.spotify.com/album/3zBzy1qhmnXOz8astqS3ri"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/2NVrPOo4REC8eO77OJuIhb"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "TOTOTO (+4)",
         "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
@@ -161,7 +225,7 @@
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Beso a Beso",
         "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
@@ -177,7 +241,23 @@
       "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/4eArbt7UHM2HaBuFvcSYZn"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/1zkDITnmXQ5VRMcRQE9cR8"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "No Tengo Remedio",
         "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
@@ -193,7 +273,7 @@
       "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "La Semana",
         "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
@@ -213,7 +293,7 @@
       "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/1ZDGbhCdCMCXAv3lYONIui"
@@ -233,7 +313,7 @@
       "url": "https://open.spotify.com/track/525T9rlpX3m3LHEtyVuIFN"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "FREE SPIRITS",
         "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
@@ -249,7 +329,23 @@
       "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "cosas malas de m\u00ed",
+        "url": "https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "cosas malas de m\u00ed",
+      "url": "https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Qui\u00e9reme as\u00ed",
         "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
@@ -265,23 +361,7 @@
       "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
-      "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him) (Official Music Video)",
-        "url": "https://open.spotify.com/album/6NppnAgSsLeb7NwlcWn4et"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him) (Official Music Video)",
-      "url": "https://open.spotify.com/track/0WaevUgW1inPeqVw0N3ACz"
-    },
-    {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "deditos cruzados",
         "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "CANDELA",
         "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
@@ -337,7 +417,7 @@
       "url": "https://open.spotify.com/track/1MKyy1oUeivAmXyO8BKJjd"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "LINEAS PARALELAS",
         "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
@@ -357,23 +437,7 @@
       "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0jKsxe18Mv6fi3fjQjwioU"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3T0H2QTPtioQryfUaiRfez"
-    },
-    {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
@@ -389,7 +453,7 @@
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
@@ -409,7 +473,7 @@
       "url": "https://open.spotify.com/track/0sVAsg0GP4JZHKn1Ohsiw0"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "BABIECA!",
         "url": "https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e"
@@ -425,7 +489,23 @@
       "url": "https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
+      "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him) (Official Music Video)",
+        "url": "https://open.spotify.com/album/6NppnAgSsLeb7NwlcWn4et"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him) (Official Music Video)",
+      "url": "https://open.spotify.com/track/0WaevUgW1inPeqVw0N3ACz"
+    },
+    {
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "Instrucciones Para Ser Feliz",
         "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "dame luz",
         "url": "https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg"
@@ -485,7 +565,7 @@
       "url": "https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "in this body",
         "url": "https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW"
@@ -501,7 +581,7 @@
       "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
     },
     {
-      "added_at": "2026-10-14 19:46:24",
+      "added_at": "2026-11-06 05:00:18",
       "album": {
         "name": "PUERTA ABIERTA",
         "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
@@ -515,22 +595,6 @@
       "duration_ms": 185728,
       "name": "A La Ni\u00f1a Que Fui",
       "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
-    },
-    {
-      "added_at": "2026-10-14 19:46:24",
-      "album": {
-        "name": "LA MENTIRA",
-        "url": "https://open.spotify.com/album/2tkALcfwiliE3kyOlVMWYQ"
-      },
-      "artists": [
-        {
-          "name": "Abrildefresa",
-          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
-        }
-      ],
-      "duration_ms": 181248,
-      "name": "LA MENTIRA",
-      "url": "https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz"
     }
   ],
   "unique_name": "En Casa",

@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABT6lpRho7thmgYwVXFKFm1",
+  "snapshot_id": "auvHAAAAAAD3UgJ2ESjhS8+rvyyboNjT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toma Tapa",
-        "url": "https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp"
-      },
-      "artists": [
-        {
-          "name": "DJ Cost",
-          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Toma Tapa",
-      "url": "https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn"
-    },
     {
       "added_at": null,
       "album": {
@@ -239,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/7i0jFr54qXDGJsHjmqEoMS"
-      },
-      "artists": [
-        {
-          "name": "O Muriel",
-          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 137458,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/5mBBGPIndZSNb2Dnfn7k3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAILE",
         "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
       },
@@ -279,6 +239,26 @@
       "duration_ms": 115859,
       "name": "Se T\u00e1 Solteira",
       "url": "https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/7i0jFr54qXDGJsHjmqEoMS"
+      },
+      "artists": [
+        {
+          "name": "O Muriel",
+          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 137458,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/5mBBGPIndZSNb2Dnfn7k3R"
     },
     {
       "added_at": null,
@@ -419,6 +399,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Vai Querer",
+      "url": "https://open.spotify.com/track/1lFMBxJwh0BkKylITdYsh8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Vou Mostrar o Meu Talento",
         "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
       },
@@ -443,30 +447,6 @@
       "duration_ms": 162461,
       "name": "Eu Vou Mostrar o Meu Talento",
       "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Vai Querer",
-      "url": "https://open.spotify.com/track/1lFMBxJwh0BkKylITdYsh8"
     },
     {
       "added_at": null,
@@ -519,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ouvir Voc\u00ea (Remix)",
-        "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 273777,
-      "name": "Ouvir Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Errei Eu Fui Muleque",
         "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
       },
@@ -579,6 +527,38 @@
       "duration_ms": 180803,
       "name": "Eu Errei Eu Fui Muleque",
       "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ouvir Voc\u00ea (Remix)",
+        "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 273777,
+      "name": "Ouvir Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
     },
     {
       "added_at": null,
@@ -663,26 +643,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Safada Gostosa",
-        "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
+        "name": "Se T\u00e1 Solteira (Breaking Beattz Remix)",
+        "url": "https://open.spotify.com/album/7FBFI5vvR2FB1M6df6khkM"
       },
       "artists": [
         {
-          "name": "DJ ABAYOMI",
-          "url": "https://open.spotify.com/artist/2Wf0Gz4zVtlWYHAUsNmXte"
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
         }
       ],
-      "duration_ms": 121850,
-      "name": "Safada Gostosa",
-      "url": "https://open.spotify.com/track/30WGmP9ckeTdCBbDz1OaE0"
+      "duration_ms": 176250,
+      "name": "Se T\u00e1 Solteira - Breaking Beattz Remix",
+      "url": "https://open.spotify.com/track/4kbSJZw0uFzBAECxQLE4x9"
     },
     {
       "added_at": null,
@@ -715,30 +699,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se T\u00e1 Solteira (Breaking Beattz Remix)",
-        "url": "https://open.spotify.com/album/7FBFI5vvR2FB1M6df6khkM"
+        "name": "Safada Gostosa",
+        "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
       },
       "artists": [
         {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "DJ ABAYOMI",
+          "url": "https://open.spotify.com/artist/2Wf0Gz4zVtlWYHAUsNmXte"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Se T\u00e1 Solteira - Breaking Beattz Remix",
-      "url": "https://open.spotify.com/track/4kbSJZw0uFzBAECxQLE4x9"
+      "duration_ms": 121850,
+      "name": "Safada Gostosa",
+      "url": "https://open.spotify.com/track/30WGmP9ckeTdCBbDz1OaE0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,
@@ -767,30 +771,6 @@
       "duration_ms": 136615,
       "name": "Proibido",
       "url": "https://open.spotify.com/track/3F9y4nfxXCkt8KFr3DuC1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,
@@ -915,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -939,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segue O Baile",
         "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 159428,
       "name": "Tropa Das On\u00e7a",
       "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janeiro",
+        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janeiro",
-        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Janeiro",
-      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segue O Baile",
         "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
       },
@@ -1087,30 +1067,6 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -1155,22 +1111,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
       "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -1191,6 +1151,26 @@
       "duration_ms": 156500,
       "name": "Sem Calcinha",
       "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
     },
     {
       "added_at": null,
@@ -1219,26 +1199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ajoelhou",
-        "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp"
       },
       "artists": [
         {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Ajoelhou",
-      "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
+      "duration_ms": 103384,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn"
     },
     {
       "added_at": null,
@@ -1259,6 +1235,30 @@
       "duration_ms": 155889,
       "name": "Ranger Preta",
       "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ajoelhou",
+        "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Ajoelhou",
+      "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

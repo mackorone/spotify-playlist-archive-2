@@ -4,7 +4,7 @@
 
 > 
 
-8,924 songs - 22 day 17 hr 5 min
+8,925 songs - 22 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2555,7 +2555,7 @@
 | [Glow Map](https://open.spotify.com/track/3WnixSJsUpmegeHzL6cIDG) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER 765 MILLION ALLSTARS BEST](https://open.spotify.com/album/4Rlwi09Ll3pt0HLTC9nDOQ) | 4:31 | 2025-09-28 |  |
 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 | 2025-01-03 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2024-12-30 |  |
-| [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 | 2025-01-15 |  |
+| [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 | 2025-01-15 | 2026-11-07 |
 | [GO](https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 4:15 | 2024-12-10 |  |
 | [GO CRY GO](https://open.spotify.com/track/2T76CjX2V1GQjwhGjSr1Wv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Hello New World](https://open.spotify.com/album/5byvOpwxEqYXDvKlFKvWL9) | 3:39 | 2025-01-15 |  |
 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2c44NyHXDy1lIfuoSOufVi) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:30 | 2025-01-03 |  |
@@ -4291,7 +4291,7 @@
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2025-01-04 |  |
 | [Mechanical JUNGLE](https://open.spotify.com/track/5MoXYnnOV4r3dOWMvRWLpG) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 2:02 | 2025-03-08 |  |
 | [Mechanical JUNGLE Hard Arrange](https://open.spotify.com/track/7LmiGQUwO4z8a0VcbECscQ) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 2:10 | 2025-03-08 | 2025-07-20 |
-| [Meet Me in Amsterdam](https://open.spotify.com/track/0tAdX9n0DuQC5XHmwn5ufT) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Meet Me in Amsterdam](https://open.spotify.com/album/6rpH4eVlYD1cdp7lu93ZzM) | 5:01 | 2025-04-28 |  |
+| [Meet Me in Amsterdam](https://open.spotify.com/track/0tAdX9n0DuQC5XHmwn5ufT) | [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Meet Me in Amsterdam](https://open.spotify.com/album/6rpH4eVlYD1cdp7lu93ZzM) | 5:01 | 2025-04-28 |  |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2025-01-03 |  |
 | [Meeting](https://open.spotify.com/track/2zW4QiN3Sn1xQ82SannglM) | [코요태](https://open.spotify.com/artist/09K8LntCAQg6fCaY0TqhGp) | [Pure Love](https://open.spotify.com/album/185LBdaMNRioSE3YXXvoc9) | 3:33 | 2025-01-15 |  |
 | [Meeting and Passing](https://open.spotify.com/track/1I6yJHDlv72qo8c8vaOAt9) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage, Vol\. 4 \(Original Game Soundtrack\)](https://open.spotify.com/album/5oy9fXcCXxZZVd0r2ABIJ2) | 1:59 | 2025-11-29 |  |
@@ -4450,6 +4450,7 @@
 | [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:15 | 2025-01-15 |  |
 | [moonlight boy](https://open.spotify.com/track/3QLaYOmG5rEvIgIJ90nhXd) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:00 | 2024-12-14 |  |
 | [Moonlight in Mondstadt](https://open.spotify.com/track/0ZHraW0fHE8br6Hw1ekRXy) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 0:49 | 2025-03-23 |  |
+| [Moonlight Romance](https://open.spotify.com/track/104PUNFxgHGWOJYhrX9g7l) | [DENKI SAMA](https://open.spotify.com/artist/7cOgKUhsVErFDX8SkQVInK) | [Moonlight Romance](https://open.spotify.com/album/73PtSNtuWEri2YOraGnktf) | 3:34 | 2026-11-07 |  |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2025-01-15 |  |
 | [Moonlike Smile](https://open.spotify.com/track/6YRo85ddnfPtHAqLuaBsdv) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Zach Huang](https://open.spotify.com/artist/5gg5XQREXbryWpPF2pZWto) | [Genshin Impact \- Vortex of Legends \(Original Game Soundtrack\)](https://open.spotify.com/album/4sZmCbnqGhDr9oOl2h0J8T) | 1:17 | 2025-07-28 |  |
 | [Moonlit Night in Sumeru](https://open.spotify.com/track/3lDaALpIklUsJxK45BWUJA) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:07 | 2025-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,910 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,913 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 9 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 10 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
 | 11 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
-| 12 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
-| 13 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 |
+| 12 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 |
+| 13 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 14 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 |
-| 15 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
-| 16 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
+| 15 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
+| 16 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
 | 17 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 18 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 |
 | 19 | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 |

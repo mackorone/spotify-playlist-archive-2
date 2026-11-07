@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con ARIA VEGA en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Manuel Turizo y J Balvin en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -1606,6 +1606,28 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
     },
     {
       "album": {
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 127740,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
@@ -3714,6 +3736,28 @@
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
     },
     {
       "album": {
@@ -5280,7 +5324,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 190875,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
@@ -13273,6 +13317,24 @@
     },
     {
       "album": {
+        "name": "Objetos Fr\u00e1giles en Ambientes Hostiles",
+        "url": "https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181253,
+      "name": "p0rn0graf\u00eda",
+      "url": "https://open.spotify.com/track/0jpSR8X5SnHG1781UL8s3J"
+    },
+    {
+      "album": {
         "name": "PA K",
         "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
       },
@@ -13332,7 +13394,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
@@ -15846,7 +15908,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 170812,
       "name": "SI SE ACABA EL MUNDO",
       "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
@@ -16412,6 +16474,24 @@
       "duration_ms": 173922,
       "name": "Su\u00e9ltame",
       "url": "https://open.spotify.com/track/36zb2vo54sfaNplPbw9AMD"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lvame Otra Vez (5020 RCRDS Sessions)",
+        "url": "https://open.spotify.com/album/3qIyDgMRmvUqVLp0GPW5Bq"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "S\u00e1lvame Otra Vez",
+      "url": "https://open.spotify.com/track/7LD6DXkMe24BCYjpVb71rG"
     },
     {
       "album": {
@@ -18856,7 +18936,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 264366,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/0Vvwifdi7bGbM88EMBz6HM"
@@ -19046,6 +19126,36 @@
       "duration_ms": 196636,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/4ABGOCwOysdL74tz812KTc"
+    },
+    {
+      "album": {
+        "name": "YaYa - Spotify Singles",
+        "url": "https://open.spotify.com/album/0wllvtRNhE7cLQ4Kz6wUow"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Lil Silvio",
+          "url": "https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "YaYa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3FQvfX18sQAvsS9yBoOtLS"
     },
     {
       "album": {

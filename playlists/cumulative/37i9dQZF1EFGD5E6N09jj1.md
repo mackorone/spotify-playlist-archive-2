@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 15 hr 13 min
+284 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Phases](https://open.spotify.com/track/3GMw3vcTaYduNJSVAllpmv) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Phases](https://open.spotify.com/album/4ZcqmRuESWo0DRwDUo9sQ0) | 3:23 | 2023-12-30 |  |
 | [Pillow Fight](https://open.spotify.com/track/13wsMvFl0r263J1EGq0JuT) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:47 | 2023-12-30 |  |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2023-12-30 |  |
+| [playboy bunny](https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT) | [xcx99](https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK) | [playboy bunny](https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB) | 1:55 | 2026-11-06 |  |
 | [Porsche \(feat\. MØ\)](https://open.spotify.com/track/5cAokEuetqzaLMxhtQl4h2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:26 | 2023-12-30 |  |
 | [Red Balloon \- Bonus Track](https://open.spotify.com/track/1v1sLPvoolEgdbYe2PeV2g) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:28 | 2023-12-30 |  |
 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 | 2024-08-07 |  |

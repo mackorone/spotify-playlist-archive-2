@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,934 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,962 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 39 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 40 | [Into The Dark](https://open.spotify.com/track/38ftLCfarof2vlj8ETIH0s) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Into The Dark](https://open.spotify.com/album/3PzNHCsrWowJAsTZnqZSRD) | 3:27 |
 | 41 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
-| 42 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |
-| 43 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 42 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 43 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |
 | 44 | [The Simple Life](https://open.spotify.com/track/072Jqz7VTPV8m99hhaKToi) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K), [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [The Simple Life](https://open.spotify.com/album/107TV5duwQmGHrzgC7ZP8y) | 3:54 |
 | 45 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
 | 46 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |

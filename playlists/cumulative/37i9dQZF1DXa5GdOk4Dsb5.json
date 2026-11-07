@@ -4172,7 +4172,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 167812,
       "name": "Matcha Latte",
       "url": "https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY"
@@ -6502,6 +6502,24 @@
       "duration_ms": 188266,
       "name": "Se\u00f1or Locutor",
       "url": "https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estoy Yo",
+        "url": "https://open.spotify.com/album/3S1shMfIc0bd3UZhMg3BsT"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7nNKHNOXGzXAHNTs2LcIPg"
     },
     {
       "album": {

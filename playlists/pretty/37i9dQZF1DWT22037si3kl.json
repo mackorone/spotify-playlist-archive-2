@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Klisman",
-  "num_followers": 151474,
+  "num_followers": 151467,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-11-05 23:33:38",
       "album": {
+        "name": "N\u00e3o toca na lace",
+        "url": "https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9"
+      },
+      "artists": [
+        {
+          "name": "Kisha zO",
+          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
+        },
+        {
+          "name": "LINS",
+          "url": "https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT"
+        }
+      ],
+      "duration_ms": 132771,
+      "name": "N\u00e3o toca na lace",
+      "url": "https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO"
+    },
+    {
+      "added_at": "2026-11-05 23:33:38",
+      "album": {
         "name": "SP",
         "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
-    },
-    {
-      "added_at": "2026-11-05 23:33:38",
-      "album": {
-        "name": "N\u00e3o toca na lace",
-        "url": "https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9"
-      },
-      "artists": [
-        {
-          "name": "Kisha zO",
-          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
-        },
-        {
-          "name": "LINS",
-          "url": "https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT"
-        }
-      ],
-      "duration_ms": 132771,
-      "name": "N\u00e3o toca na lace",
-      "url": "https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO"
     },
     {
       "added_at": "2026-11-05 23:33:38",

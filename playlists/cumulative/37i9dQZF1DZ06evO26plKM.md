@@ -4,11 +4,12 @@
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 11 min
+61 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bird of Sorrow](https://open.spotify.com/track/6FNDJvNoycZg6wvQSTJejG) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Rhythm And Repose \(Deluxe Edition\)](https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal) | 5:50 | 2026-08-01 |  |
+| [Bottle of Smoke](https://open.spotify.com/track/6zhlcfLSxjOxLR80xHAKJP) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [Bottle of Smoke](https://open.spotify.com/album/0Pn5FzzU5r98Wg0dTKD4T3) | 2:44 | 2026-11-07 |  |
 | [Didn't He Ramble \(Funkhaus Version\)](https://open.spotify.com/track/52mNViayZN6tYChVWmaX01) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 5:23 | 2026-08-01 | 2026-10-22 |
 | [Don't Settle \(Funkhaus Version\)](https://open.spotify.com/track/4bRMhJtSuS55q7M0mkuhxu) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 6:06 | 2026-08-01 | 2026-08-27 |
 | [Drive All Night](https://open.spotify.com/track/2GmJP1FWraZ6XQaKUTkUSP) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Drive All Night](https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z) | 8:36 | 2026-08-01 |  |
@@ -30,7 +31,7 @@
 | [Lay Me Down](https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [For the Birds](https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl) | 3:11 | 2026-08-01 |  |
 | [Lay Me Down \| Ring of Fire](https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Set List \(Live\)](https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u) | 4:06 | 2026-08-01 | 2026-08-27 |
 | [Leave](https://open.spotify.com/track/6nh6zDSvONACUF6M2st4iH) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 2:46 | 2026-08-01 |  |
-| [Leave A Light \(Funkhaus Version\)](https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:18 | 2026-08-01 |  |
+| [Leave A Light \(Funkhaus Version\)](https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:18 | 2026-08-01 | 2026-11-07 |
 | [Lies](https://open.spotify.com/track/0lkEvsJLWu7HjurNUnMYqt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 3:59 | 2026-08-01 |  |
 | [Love Don't Leave Me Waiting](https://open.spotify.com/track/46Y60rjFW7VNqbwhNjh42o) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Rhythm And Repose \(Deluxe Edition\)](https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal) | 4:17 | 2026-08-01 |  |
 | [Low Rising](https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX) | 4:47 | 2026-08-01 |  |

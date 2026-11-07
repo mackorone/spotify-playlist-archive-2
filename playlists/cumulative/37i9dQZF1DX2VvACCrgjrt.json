@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 172153,
       "name": "Back n Forth",
       "url": "https://open.spotify.com/track/07dAUa9SSFAVAD440AWm5y"
@@ -5992,7 +5992,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 215625,
       "name": "Colosseum",
       "url": "https://open.spotify.com/track/5FGX9pvjn4kW48ac3EZnA3"
@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
@@ -7866,6 +7866,28 @@
       "duration_ms": 140952,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/7L3NYao37P4sjsxBRiADzg"
+    },
+    {
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/64XgUxxy83ZcTzuf75gE8N"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Nico Falla",
+          "url": "https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/22BktUJyyOgzTV0b1uRNnE"
     },
     {
       "album": {
@@ -11578,7 +11600,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157850,
       "name": "Go Dancing",
       "url": "https://open.spotify.com/track/6AiMUf607Ccb9klrQhGPjK"
@@ -14282,7 +14304,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183692,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
@@ -16406,7 +16428,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174222,
       "name": "LONDON DUB",
       "url": "https://open.spotify.com/track/0YYeftSxhDGnUGY31pCTsk"
@@ -16608,7 +16630,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 191477,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8"
@@ -17368,7 +17390,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 156069,
       "name": "MilliON Me",
       "url": "https://open.spotify.com/track/08AXTbBi7NgjAFoovjulPd"
@@ -17964,7 +17986,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 138181,
       "name": "Move It 2 The Drum",
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
@@ -18558,7 +18580,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 201480,
       "name": "Nada De Novo",
       "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
@@ -19432,7 +19454,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 154545,
       "name": "No More Parties in LA",
       "url": "https://open.spotify.com/track/5gcbic8XZPpOCSLc2sk5Q8"
@@ -20276,6 +20298,28 @@
       "duration_ms": 150447,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/7G8lvdGUbHeTudy8tJnWJa"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174633,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1r8mAgBcehfph9VjPymw34"
     },
     {
       "album": {
@@ -21188,6 +21232,24 @@
       "duration_ms": 201500,
       "name": "Percolate",
       "url": "https://open.spotify.com/track/1gWJZZoUzScXlKgXEKuxFr"
+    },
+    {
+      "album": {
+        "name": "PERSONA",
+        "url": "https://open.spotify.com/album/5dXusKH5SkOq7tRcgHbTje"
+      },
+      "artists": [
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155653,
+      "name": "PERSONA",
+      "url": "https://open.spotify.com/track/2B2eWo7ovuJBJtAFWchyZq"
     },
     {
       "album": {
@@ -26324,7 +26386,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 196363,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
@@ -27402,7 +27464,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166406,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/0oEivQjCbab3EDYHOIsLko"
@@ -27788,6 +27850,24 @@
       "duration_ms": 197841,
       "name": "The Power",
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
+    },
+    {
+      "album": {
+        "name": "The Return of the OG",
+        "url": "https://open.spotify.com/album/0TDzwSBrbIZ3ytK74AIwQ1"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "The Return of the OG",
+      "url": "https://open.spotify.com/track/1M7Sq0l10P9H4aJ7vaqorv"
     },
     {
       "album": {
@@ -28507,6 +28587,24 @@
     },
     {
       "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/6GVrOMqcslwCa368K3b17V"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/1JRTgiMw0aZzHcd9eIWNYi"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP"
       },
@@ -28631,6 +28729,24 @@
     },
     {
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/5JHDX5z4UqWW4Tqf2dyydV"
+      },
+      "artists": [
+        {
+          "name": "Valentina Soto",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/2yRkOH3pZCCRucPaDrOrBc"
+    },
+    {
+      "album": {
         "name": "Trippy (Kage VIP)",
         "url": "https://open.spotify.com/album/6Bg6GQuQ9ZiZ43Deuf5Air"
       },
@@ -28704,7 +28820,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 108398,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"

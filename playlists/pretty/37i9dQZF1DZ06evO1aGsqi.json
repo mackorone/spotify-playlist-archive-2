@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16649,
+  "num_followers": 16648,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABJ0BXdANJSEKvCrPKoda48",
+  "snapshot_id": "auvHAAAAAAC/na+LhZrNYLIXYno71gfq",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
+        "name": "Everything, Everything (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Smokestack Twins",
-      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
+      "duration_ms": 114600,
+      "name": "Truths (From \"Everything, Everything\" Score)",
+      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
     },
     {
       "added_at": null,
@@ -396,25 +392,29 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Groves",
-      "url": "https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe"
+      "duration_ms": 181106,
+      "name": "Manhattan Project",
+      "url": "https://open.spotify.com/track/4yX2SVMLL3MV9kIYqS8B76"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Everything, Everything (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
+        "name": "Sinners (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 114600,
-      "name": "Truths (From \"Everything, Everything\" Score)",
-      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
+      "duration_ms": 208613,
+      "name": "Smokestack Twins",
+      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 235570,
       "name": "BETRAYAL",
       "url": "https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 480945,
+      "name": "RAINY NIGHT IN TALLINN",
+      "url": "https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG"
     }
   ],
   "unique_name": "This Is Ludwig G\u00f6ransson",

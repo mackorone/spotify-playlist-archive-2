@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 103129,
+  "num_followers": 103113,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "40 %",
+        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
+      },
+      "artists": [
+        {
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "40 %",
+      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Ti Sesi Ti Sela",
         "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 173113,
       "name": "Ti Sesi Ti Sela",
       "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "40 %",
-        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
-      },
-      "artists": [
-        {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "40 %",
-      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "LAKAY",
-        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
-      },
-      "artists": [
-        {
-          "name": "Jeff Pierre",
-          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
-        },
-        {
-          "name": "AlCol",
-          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "LAKAY",
-      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "LAKAY",
+        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pierre",
+          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+        },
+        {
+          "name": "AlCol",
+          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "LAKAY",
+      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "MARRAKECH",
         "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 141528,
       "name": "MARRAKECH",
       "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1603,6 +1583,26 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "PA KRIYE",
         "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Sol\u00e8y Midi",
+        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
+      },
+      "artists": [
+        {
+          "name": "Talie",
+          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
+        },
+        {
+          "name": "David Chavannes",
+          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
+        }
+      ],
+      "duration_ms": 229205,
+      "name": "Sol\u00e8y Midi",
+      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 197999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Sol\u00e8y Midi",
-        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
-      },
-      "artists": [
-        {
-          "name": "Talie",
-          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
-        },
-        {
-          "name": "David Chavannes",
-          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
-        }
-      ],
-      "duration_ms": 229205,
-      "name": "Sol\u00e8y Midi",
-      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
     },
     {
       "added_at": "2025-07-25 04:00:50",

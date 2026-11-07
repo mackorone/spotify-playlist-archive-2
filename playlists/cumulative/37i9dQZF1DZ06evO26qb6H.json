@@ -105,6 +105,40 @@
     },
     {
       "album": {
+        "name": "FUTURA",
+        "url": "https://open.spotify.com/album/5L5plTcOV25Kn2P3UoKWQv"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Yin Kalle",
+          "url": "https://open.spotify.com/artist/3yeIPSXgA3NRNwNaHy4EZW"
+        },
+        {
+          "name": "Haiyti",
+          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
+        },
+        {
+          "name": "Lent",
+          "url": "https://open.spotify.com/artist/16T2NXQozERhuZW6g47OgC"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Abischnitt",
+      "url": "https://open.spotify.com/track/4J5l4eayhjWpG7USkENPhj"
+    },
+    {
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
       },

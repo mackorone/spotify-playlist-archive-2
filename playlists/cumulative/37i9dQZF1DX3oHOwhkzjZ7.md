@@ -4,7 +4,7 @@
 
 > New videos from your favorite rock & alternative artists.
 
-75 songs - 4 hr 17 min
+79 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,15 @@
 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 | 2026-10-23 |  |
 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 | 2026-10-23 |  |
 | [February Theory](https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [February Theory](https://open.spotify.com/album/6Z3xax7xkuVUyP0ab201J6) | 3:20 | 2026-10-23 |  |
+| [FLEX YOUR HEAD](https://open.spotify.com/track/06jzbRVyrfg1pwLf9OWMTd) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [I DON'T WANNA SAY GOODBYE](https://open.spotify.com/album/44isyyACYz1jWZshEBSBAc) | 1:19 | 2026-11-07 |  |
 | [Gasoline](https://open.spotify.com/track/75cizOCN0zzolG0PY5IS4U) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/7bKoVLBzZXgoavrlx8H8Eg) | 3:01 | 2026-10-23 |  |
+| [Glowing Buzz](https://open.spotify.com/track/0xuXdd6ZbkK678e3DohQAP) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Precious](https://open.spotify.com/album/4qzGA7IumMUT0t33JtebFB) | 2:54 | 2026-11-07 |  |
 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-10-23 |  |
 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 | 2026-10-23 |  |
 | [I Kinda Like That](https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [I Kinda Like That](https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x) | 2:39 | 2026-10-23 |  |
 | [I know](https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I know](https://open.spotify.com/album/4vDMbZZODUPVWD6LsZg5h7) | 3:21 | 2026-10-23 |  |
-| [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/1wXuAjr27fa5gPg7KhHrVW) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [I DON'T WANNA SAY GOODBYE](https://open.spotify.com/album/44isyyACYz1jWZshEBSBAc) | 2:02 | 2026-10-23 |  |
+| [I Spend My Time Crying](https://open.spotify.com/track/6bvcSEgoD9I42gqqi0UjyM) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [The Holy Cross Tigers](https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr) | 2:57 | 2026-11-07 |  |
+| [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/1wXuAjr27fa5gPg7KhHrVW) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [I DON'T WANNA SAY GOODBYE](https://open.spotify.com/album/44isyyACYz1jWZshEBSBAc) | 2:02 | 2026-10-23 | 2026-11-07 |
 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-10-23 |  |
 | [Jealous Lover](https://open.spotify.com/track/1XNnPznoORAP2t1rFKnBhj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 3:49 | 2026-10-23 |  |
 | [Kick Me](https://open.spotify.com/track/4NZnpMt6Bhw6FzwA5ya6RE) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Kick Me](https://open.spotify.com/album/2WbhdwBkbf80akeqd7BvCQ) | 2:05 | 2026-10-23 |  |
@@ -58,6 +61,7 @@
 | [Roar Of The Heliac Goat](https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Roar Of The Heliac Goat](https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5) | 4:36 | 2026-10-23 |  |
 | [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-10-23 |  |
 | [Shut Out](https://open.spotify.com/track/5zGTcOcS7yjmJlZi47XiGU) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Hush](https://open.spotify.com/album/0eNoVhh3gT8bc67J72EQLF) | 3:57 | 2026-10-23 |  |
+| [Sit With](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 4:38 | 2026-11-07 |  |
 | [Smoking In Bed](https://open.spotify.com/track/71JHNo27wn8FhFnJsWgy4E) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Smoking In Bed](https://open.spotify.com/album/54Y3v3gyEaQNTTAcV2M0HJ) | 3:24 | 2026-10-23 |  |
 | [SO COOL](https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [GODBREATH](https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt) | 2:22 | 2026-10-23 |  |
 | [Someone Out There Loves You \- Live from Hoboken](https://open.spotify.com/track/0FlbG2EqlvXmFLyPAD0wGC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U) | 3:28 | 2026-10-23 |  |

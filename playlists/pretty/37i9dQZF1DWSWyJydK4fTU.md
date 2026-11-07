@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,682 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,630 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 52 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
 | 53 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
 | 54 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
-| 55 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |
-| 56 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 57 | [Gute Zeiten](https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Gute Zeiten](https://open.spotify.com/album/54TXKHyEbffRqRNqCKet7w) | 2:01 |
-| 58 | [Cry Baby](https://open.spotify.com/track/33lxj47LkkTn3hVHN0wgwZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cry Baby](https://open.spotify.com/album/1faiHpRU4FKgWT3nFSc25D) | 3:23 |
-| 59 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
-| 60 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
+| 55 | [Gute Zeiten](https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Gute Zeiten](https://open.spotify.com/album/54TXKHyEbffRqRNqCKet7w) | 2:01 |
+| 56 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |
+| 57 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
+| 58 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
+| 59 | [Cry Baby](https://open.spotify.com/track/33lxj47LkkTn3hVHN0wgwZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cry Baby](https://open.spotify.com/album/1faiHpRU4FKgWT3nFSc25D) | 3:23 |
+| 60 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 
 Snapshot ID: `AAAAANvrUfWcrJwDmAJYGjXHoflnlkPs`

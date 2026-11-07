@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 25013,
+  "num_followers": 25019,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 244810,
+      "name": "Heaven is a Home\u2026",
+      "url": "https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
         "name": "No Tengo Remedio",
         "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 244810,
-      "name": "Heaven is a Home\u2026",
-      "url": "https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
       },
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
-        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
-      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "De Sue\u00f1o en Sue\u00f1o",
         "url": "https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 163809,
       "name": "De Sue\u00f1o en Sue\u00f1o",
       "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
+        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
+      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "PREGUNTAS A LAS 11:11",
-        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "\u00bfTrato Hecho?",
-      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "Como Ella Ya No Hay",
         "url": "https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 220000,
       "name": "Como Ella Ya No Hay",
       "url": "https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "escrita",
-        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "m\u00e1s y menos",
-      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     },
     {
       "added_at": "2026-10-15 20:43:14",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-15 20:43:14",
       "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
-    },
-    {
-      "added_at": "2026-10-15 20:43:14",
-      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
+    },
+    {
+      "added_at": "2026-10-15 20:43:14",
+      "album": {
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2026-10-15 20:43:14",

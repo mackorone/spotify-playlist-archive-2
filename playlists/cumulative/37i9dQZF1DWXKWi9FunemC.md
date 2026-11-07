@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-540 songs - 1 day 9 hr 40 min
+541 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Living Water](https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Living Water](https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se) | 3:33 | 2026-07-29 |  |
 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 | 2026-07-29 |  |
 | [Looking Down](https://open.spotify.com/track/7klzGbf2WFUbgbPqBrLk0G) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Looking Down](https://open.spotify.com/album/5ggdoBEQwcMETb6puPq0CH) | 2:59 | 2026-07-29 |  |
+| [LOST OR FOUND](https://open.spotify.com/track/5UTzGCg9YFd4dnUtF1nwFT) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [Rashid Saint\-Fleur](https://open.spotify.com/artist/61UpX29ka8i1TPCwhoh3Lr) | [LOST OR FOUND](https://open.spotify.com/album/15dRyd4xRHHTNlS1SezYjX) | 2:31 | 2026-07-29 |  |
 | [Love Is](https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [Love Is](https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX) | 4:42 | 2020-08-31 | 2024-08-03 |
 | [Love Together](https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH) | 4:14 | 2020-08-31 | 2023-07-29 |
 | [Love Together](https://open.spotify.com/track/5zfHzOElny9FesLftcnDoj) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/7jMUzNnJXrJwfQK1puksoE) | 4:14 | 2020-08-31 | 2022-07-25 |
@@ -446,7 +447,7 @@
 | [The Hallway](https://open.spotify.com/track/7clIwUuQT6pKmx0GsulInQ) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [The Waiting](https://open.spotify.com/album/0Fr1J6gbNMkPYzfDcGO8G0) | 4:06 | 2026-07-29 |  |
 | [the healing song](https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 4:20 | 2024-06-23 | 2024-08-03 |
 | [The Invitation](https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [The Invitation](https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW) | 3:32 | 2025-08-06 | 2026-07-30 |
-| [The Lies](https://open.spotify.com/track/5pGzwbj0BxqYXi4qsAB16V) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Lies](https://open.spotify.com/album/2zqmP0kE7bZigBfjvmeXnF) | 3:28 | 2026-07-29 |  |
+| [The Lies](https://open.spotify.com/track/5pGzwbj0BxqYXi4qsAB16V) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Lies](https://open.spotify.com/album/2zqmP0kE7bZigBfjvmeXnF) | 3:28 | 2026-07-29 | 2026-11-07 |
 | [The Lord Is My Shepherd](https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Valerie Guerra](https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw) | [Jesus](https://open.spotify.com/album/4jMmHLhkvQToncD10srcty) | 3:24 | 2025-08-06 | 2026-07-30 |
 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 | 2023-07-28 | 2024-06-24 |
 | [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 | 2026-04-17 | 2026-07-30 |

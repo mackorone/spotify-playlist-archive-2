@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 189905,
+  "num_followers": 189914,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Cari Amori Miei",
-        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
-      },
-      "artists": [
-        {
-          "name": "Gianni Togni",
-          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
-        }
-      ],
-      "duration_ms": 287466,
-      "name": "Giulia",
-      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Splende",
         "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211093,
       "name": "Una finestra tra le stelle",
       "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cari Amori Miei",
+        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
+      },
+      "artists": [
+        {
+          "name": "Gianni Togni",
+          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
+        }
+      ],
+      "duration_ms": 287466,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Stilelibero",
-        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Fuoco nel fuoco",
-      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 218092,
       "name": "Il mondo prima di te",
       "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Fuoco nel fuoco",
+      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cip!",
         "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 230746,
       "name": "Per due che come noi",
       "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Il primo amore",
+        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "duration_ms": 201974,
+      "name": "Il primo amore",
+      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Oh, Vita!",
         "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 209657,
       "name": "Alba",
       "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Il primo amore",
-        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Yanomi",
-          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "Il primo amore",
-      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Il Primo Bacio Sulla Luna",
-        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Le Sei E Ventisei",
-      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Atlantico",
         "url": "https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 227466,
       "name": "Hola (I Say) (feat. Tom Walker)",
       "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Il Primo Bacio Sulla Luna",
+        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Le Sei E Ventisei",
+      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2026-04-21 16:02:40",

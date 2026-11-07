@@ -4025,6 +4025,32 @@
     },
     {
       "album": {
+        "name": "PEKORITAS Vol.1 (DELUXE)",
+        "url": "https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "DENNA BB",
+          "url": "https://open.spotify.com/artist/0lHj2ErDP3Ou4xgSvZZLXD"
+        },
+        {
+          "name": "Porrilaporri",
+          "url": "https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "CAZADORA - DELUXE",
+      "url": "https://open.spotify.com/track/4mcmbH713JVpGOfGE4cKDK"
+    },
+    {
+      "album": {
         "name": "Ceniza",
         "url": "https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM"
       },
@@ -4596,6 +4622,28 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
+    },
+    {
+      "album": {
+        "name": "Chulalai",
+        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213313,
+      "name": "Chulalai",
+      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
     },
     {
       "album": {
@@ -16011,6 +16059,28 @@
     },
     {
       "album": {
+        "name": "NeNe MaLo",
+        "url": "https://open.spotify.com/album/3Z5p5jUltJIMieO9WtzFaH"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "NeNe MaLo",
+      "url": "https://open.spotify.com/track/2YtZwNCY5xhMcVZAeWj5Lv"
+    },
+    {
+      "album": {
         "name": "Netflix and Chill",
         "url": "https://open.spotify.com/album/6vVSLf4DTywrY9r8dtgnEc"
       },
@@ -16730,7 +16800,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166007,
       "name": "Nostalgia .0016 Alucinar",
       "url": "https://open.spotify.com/track/3WVKwWFbuCBKTOoFkOIviY"
@@ -16752,7 +16822,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 203000,
       "name": "Nostalgia .0017 Tu Vanidad",
       "url": "https://open.spotify.com/track/3o6AV5LvXGR8ts05F8j4NY"
@@ -19092,6 +19162,28 @@
       "duration_ms": 178474,
       "name": "Plastic Bombastic",
       "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
+    },
+    {
+      "album": {
+        "name": "ARCHIVO.WAVY",
+        "url": "https://open.spotify.com/album/7fuZvtQVwiVV5IqS80S9rn"
+      },
+      "artists": [
+        {
+          "name": "Ivy Wavy",
+          "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
+        },
+        {
+          "name": "Emex",
+          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173170,
+      "name": "PLASTIKA",
+      "url": "https://open.spotify.com/track/1RyCDtZZX23BrCfSAEFdeK"
     },
     {
       "album": {
@@ -21540,7 +21632,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181283,
       "name": "R\u00e1pido a lo Flash",
       "url": "https://open.spotify.com/track/5yXAU5pNqlO7uLL8RASlUR"
@@ -26678,7 +26770,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 137528,
       "name": "Y dice 12345",
       "url": "https://open.spotify.com/track/6BdgLdXRw9DcC2o1RcPsDh"

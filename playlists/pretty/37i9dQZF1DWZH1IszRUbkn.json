@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2593,
+  "num_followers": 2594,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Bichos",
-      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175328,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 103613,
       "name": "El Zapatero",
       "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175328,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 122680,
       "name": "Manos Divertidas",
       "url": "https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 184231,
-      "name": "Garabato Colorado",
-      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 129493,
       "name": "El Sapo Pepe Y La Rana Juana",
       "url": "https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 184231,
+      "name": "Garabato Colorado",
+      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "31 Minutos, Ratoncitos",
-        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
-      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 164293,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/5aVUxd9e4u8GXqnX39LaDS"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "31 Minutos, Ratoncitos",
+        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
+      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

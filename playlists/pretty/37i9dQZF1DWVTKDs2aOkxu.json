@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Cover: Rex Orange County",
-  "num_followers": 1924571,
+  "num_followers": 1924453,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOw4yfuBsQW8WQ18Rd/HBZx3D0mR",
+  "snapshot_id": "AAAAACo5ADs1pm1PiPu0bVgB2NdbW24o",
   "tracks": [
     {
       "added_at": "2026-11-06 00:01:11",
@@ -235,6 +235,22 @@
       "duration_ms": 159618,
       "name": "FERAL CHILD ;-0",
       "url": "https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW"
+    },
+    {
+      "added_at": "2026-11-06 13:34:13",
+      "album": {
+        "name": "Don\u2019t Worry Dynamite",
+        "url": "https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "duration_ms": 167628,
+      "name": "Don\u2019t Worry Dynamite",
+      "url": "https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn"
     },
     {
       "added_at": "2026-11-06 00:01:11",
@@ -1155,22 +1171,6 @@
       "duration_ms": 245643,
       "name": "Wet Paint",
       "url": "https://open.spotify.com/track/2zQlb1LG6RITfwi2xb73cS"
-    },
-    {
-      "added_at": "2026-11-06 00:01:11",
-      "album": {
-        "name": "Dream Fatigue",
-        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6"
     },
     {
       "added_at": "2026-11-06 00:01:11",

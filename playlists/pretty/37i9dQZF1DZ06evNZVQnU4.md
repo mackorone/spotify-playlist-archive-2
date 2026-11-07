@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 
 > This is Olivia Dean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,107 likes - 42 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,630 likes - 42 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 2 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 3 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 |
-| 4 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
-| 5 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 |
+| 4 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 |
+| 5 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 6 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 7 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 |
 | 8 | [Ok Love You Bye](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:34 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 | 24 | [Cross My Mind](https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:50 |
 | 25 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
 | 26 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 |
-| 27 | [Password Change](https://open.spotify.com/track/2dAjnPDSiIBTwAaj3MCGVg) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Password Change](https://open.spotify.com/album/1IcCGmnKMvofe9bNSwrw8V) | 3:26 |
-| 28 | [Dangerously Easy](https://open.spotify.com/track/1o0ChtApxdxNqI6vaOK8JK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:43 |
+| 27 | [Dangerously Easy](https://open.spotify.com/track/1o0ChtApxdxNqI6vaOK8JK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:43 |
+| 28 | [Password Change](https://open.spotify.com/track/2dAjnPDSiIBTwAaj3MCGVg) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Password Change](https://open.spotify.com/album/1IcCGmnKMvofe9bNSwrw8V) | 3:26 |
 | 29 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 |
 | 30 | [White Trainers \- Demo](https://open.spotify.com/track/5BphTivyMeNAnGneEMzPkS) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:42 |
-| 31 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
-| 32 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 |
+| 31 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 |
+| 32 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
 | 33 | [Fall Again](https://open.spotify.com/track/5zj2SeupnlWgrRnyMJOwT2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:51 |
 | 34 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 |
 | 35 | [The Harder They Come \- From The Original BBC Series "This Town"](https://open.spotify.com/track/0MSjS42GIlJQMHB7igvIIW) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Harder They Come \(From The Original BBC Series "This Town"\)](https://open.spotify.com/album/6hS6AEXgB9opXrL6bLnkA3) | 3:49 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 | 41 | [Millionaire \- Live From KOKO](https://open.spotify.com/track/4yiw2H1JYSXJ74dJKycyZU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ladies Room](https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL) | 4:00 |
 | 42 | [Homerton](https://open.spotify.com/track/1E8ZZzvgrMwm8qUi5IjOHt) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 2:49 |
 
-Snapshot ID: `aukkAAAAAADSZdsk95lv+cQ5MSHgQhZN`
+Snapshot ID: `auvHAAAAAAAr6SnYODTmalA3w1SKQc/B`

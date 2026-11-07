@@ -1,6 +1,6 @@
 {
   "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
-  "num_followers": 34513,
+  "num_followers": 34518,
   "original_name": "Fall Spirit",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
-      },
-      "artists": [
-        {
-          "name": "Drakeford",
-          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
-    },
-    {
-      "added_at": "2025-11-16 03:48:58",
-      "album": {
         "name": "Revival In My Mind",
         "url": "https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 281748,
       "name": "In The Ether",
       "url": "https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea"
+    },
+    {
+      "added_at": "2025-11-16 03:48:58",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+      },
+      "artists": [
+        {
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
     },
     {
       "added_at": "2025-11-16 03:48:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "With Me (Live At Big Fish Recording Studio)",
-        "url": "https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "With Me - Live At Big Fish Recording Studio",
-      "url": "https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt"
-    },
-    {
-      "added_at": "2025-11-16 03:48:58",
-      "album": {
         "name": "The Trinity Acoustic Sessions, Vol. 3 (Reawaken Hymns)",
         "url": "https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 193000,
       "name": "What A Friend We Have In Jesus - Acoustic",
       "url": "https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE"
+    },
+    {
+      "added_at": "2025-11-16 03:48:58",
+      "album": {
+        "name": "With Me (Live At Big Fish Recording Studio)",
+        "url": "https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 170832,
+      "name": "With Me - Live At Big Fish Recording Studio",
+      "url": "https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt"
     },
     {
       "added_at": "2025-11-16 03:48:58",

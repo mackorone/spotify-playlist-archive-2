@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: NAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,442 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,422 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 |
 | 78 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 79 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
-| 80 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
-| 81 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 |
+| 80 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 |
+| 81 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
 | 82 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 83 | [wHIP](https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:48 |
 | 84 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |

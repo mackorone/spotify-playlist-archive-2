@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-624 songs - 1 day 15 hr 8 min
+628 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 | 2026-10-24 |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 | 2025-09-12 |
 | [Curl Up Under A Blanket](https://open.spotify.com/track/3OHVucBb5b3ieHsal27V0R) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Curl Up Under A Blanket](https://open.spotify.com/album/310nH9AFrmNd80gZC7SIZ9) | 3:43 | 2024-10-07 |  |
+| [Dahlias After Dark](https://open.spotify.com/track/6XyVleG3e5pTyaiKEHopbG) | [Crescent Avenue Trio](https://open.spotify.com/artist/0VQSUHOrcrJzGRTEWJsYEC) | [Dahlias After Dark](https://open.spotify.com/album/1D9qahAAGr0JzjKqvViroP) | 4:06 | 2026-11-06 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 | 2025-11-04 |
 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-07 | 2022-09-30 |
 | [Den Sista Jäntan](https://open.spotify.com/track/2M6NkmakYOWKuD2vF8ZZkc) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Den Sista Jäntan](https://open.spotify.com/album/4tOmvPraeKKbNAcCw0mEUL) | 3:29 | 2024-11-05 | 2025-09-12 |
@@ -374,6 +375,7 @@
 | [Moonflower](https://open.spotify.com/track/3greL6Mj3t6woOW2M4Uz0i) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Moonflower](https://open.spotify.com/album/78b64x7dRmnKP7GpnHE8Su) | 3:04 | 2023-06-15 | 2026-03-18 |
 | [Moonlight Becomes You](https://open.spotify.com/track/5LiPlVQBNeG9hLMRav1ux7) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moonlight Becomes You](https://open.spotify.com/album/3Vcvd1QVURzVd2VRKg7Hy2) | 3:03 | 2024-02-09 | 2026-03-18 |
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-17 | 2025-10-01 |
+| [Moonsilver](https://open.spotify.com/track/22bMEJyDWYA6AluGC6ICnw) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Moonsilver](https://open.spotify.com/album/3M3nICS7HLOyBl7e2IbfJM) | 3:21 | 2026-11-06 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 | 2025-10-01 |
 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-05-11 | 2024-09-28 |
@@ -510,6 +512,7 @@
 | [Swaying Shadows](https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Swaying Shadows](https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L) | 3:20 | 2024-03-22 | 2025-10-01 |
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-06 | 2023-09-22 |
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 | 2025-09-12 |
+| [Take me home](https://open.spotify.com/track/4SkhHVUXibix9W6NR3kZRF) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Take me home](https://open.spotify.com/album/5PMgOmb0jHyhJp24FFqIpC) | 3:35 | 2026-11-06 |  |
 | [Take Your Time](https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Take Your Time](https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN) | 4:38 | 2023-12-08 | 2024-09-14 |
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-22 |  |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 | 2025-09-12 |
@@ -613,6 +616,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2025-09-12 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 | 2025-10-01 |
 | [Witness of Love](https://open.spotify.com/track/7zqAzOXMRtmlf0GQBtRDqJ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Witness of Love](https://open.spotify.com/album/0lm16gI9rh80rchWJ7jaDL) | 3:20 | 2022-08-11 | 2025-10-01 |
+| [Woodrose](https://open.spotify.com/track/7Iaf7XU2sBmCjsu2yFFdGN) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Woodrose](https://open.spotify.com/album/1EvDqMfBiX8T3iLspk7OqZ) | 2:39 | 2026-11-06 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-11-24 | 2024-11-26 |
 | [Yellow Leaves](https://open.spotify.com/track/1hFSmCBEIQDDT61MASBKJU) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Yellow Leaves](https://open.spotify.com/album/4zGEufTsfC4N20XqkdmeeV) | 4:05 | 2023-12-15 | 2024-10-08 |

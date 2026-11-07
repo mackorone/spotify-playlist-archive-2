@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1461789,
+  "num_followers": 1461699,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "At\u00e9lier",
         "url": "https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE"
       },
@@ -235,6 +251,26 @@
       "duration_ms": 181880,
       "name": "At\u00e9lier",
       "url": "https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "duration_ms": 121833,
+      "name": "Cove",
+      "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -263,42 +299,6 @@
       "duration_ms": 147747,
       "name": "Flute Echoes",
       "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
-      },
-      "artists": [
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        },
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        }
-      ],
-      "duration_ms": 121833,
-      "name": "Cove",
-      "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
-      },
-      "artists": [
-        {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 154320,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "soul of the sky",
-        "url": "https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV"
-      },
-      "artists": [
-        {
-          "name": "Nitsua",
-          "url": "https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ"
-        },
-        {
-          "name": "Linn Mori",
-          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
-        }
-      ],
-      "duration_ms": 182022,
-      "name": "Safe ground (homage of luz by haruka nakamura)",
-      "url": "https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "soul of the sky",
+        "url": "https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV"
+      },
+      "artists": [
+        {
+          "name": "Nitsua",
+          "url": "https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ"
+        },
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        }
+      ],
+      "duration_ms": 182022,
+      "name": "Safe ground (homage of luz by haruka nakamura)",
+      "url": "https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "ZENSORIUM",
         "url": "https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP"
       },
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Tender Rose (Mr. K\u00e4fer Remix)",
-        "url": "https://open.spotify.com/album/4xSiUPonw1Cdn5n8nRkj73"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 170508,
-      "name": "Tender Rose (Mr. K\u00e4fer Remix)",
-      "url": "https://open.spotify.com/track/6x9shM2o8AeiTnHbPTkVtN"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Romantic Rain",
         "url": "https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS"
       },
@@ -1423,22 +1403,6 @@
       "duration_ms": 170782,
       "name": "Romantic Rain",
       "url": "https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1459,6 +1423,42 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+        "url": "https://open.spotify.com/album/4xSiUPonw1Cdn5n8nRkj73"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 170508,
+      "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+      "url": "https://open.spotify.com/track/6x9shM2o8AeiTnHbPTkVtN"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1495,18 +1495,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
       },
       "artists": [
         {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
     }
   ],
   "unique_name": "Mellow Beats",

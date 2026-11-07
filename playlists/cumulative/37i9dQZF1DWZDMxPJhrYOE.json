@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 144451,
       "name": "Circadian Rhythm",
       "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
@@ -9924,6 +9924,24 @@
       "duration_ms": 207023,
       "name": "have to.",
       "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "album": {

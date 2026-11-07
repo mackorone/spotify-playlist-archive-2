@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Zulia & Hamilton ",
+  "description": "Just vibes. Cover: Hamilton & Sech ",
   "name": "Vibras",
   "tracks": [
     {
@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
+    },
+    {
+      "album": {
         "name": "ASALTO",
         "url": "https://open.spotify.com/album/5oEA7ihiHM6Vbik2H9R9qO"
       },
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 201290,
       "name": "Baby",
       "url": "https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy"
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 166165,
       "name": "BURBUJITA",
       "url": "https://open.spotify.com/track/78JgkrplqPjkJhQrYo5LTK"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157241,
       "name": "Chalala",
       "url": "https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab"
@@ -3088,6 +3110,28 @@
       "duration_ms": 219130,
       "name": "Conoce",
       "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
+    },
+    {
+      "album": {
+        "name": "CONQUISTADOR",
+        "url": "https://open.spotify.com/album/05ldh5xRe6Ryslklr0WE8E"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "CONQUISTADOR",
+      "url": "https://open.spotify.com/track/0hdRWFJXgO7Kul4UjycbHe"
     },
     {
       "album": {
@@ -5738,6 +5782,24 @@
       "duration_ms": 183335,
       "name": "FARDOS",
       "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
+    },
+    {
+      "album": {
+        "name": "Far\u00e1ndula",
+        "url": "https://open.spotify.com/album/64VuVR50w7Nr9NVQ9b72Mw"
+      },
+      "artists": [
+        {
+          "name": "Poiison",
+          "url": "https://open.spotify.com/artist/6Prl5LNyVQkrzhiYmA9T1s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Far\u00e1ndula",
+      "url": "https://open.spotify.com/track/07pdLVfQ80iCcnlwxmguiO"
     },
     {
       "album": {
@@ -8813,6 +8875,24 @@
     },
     {
       "album": {
+        "name": "Gabinet3",
+        "url": "https://open.spotify.com/album/572RpM9qTS05DDI8uhwH2w"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138609,
+      "name": "Mangue",
+      "url": "https://open.spotify.com/track/0xr0PuRnq0BF7gUzHIcork"
+    },
+    {
+      "album": {
         "name": "Manos Rotas",
         "url": "https://open.spotify.com/album/7KKBibFuDeAKYrB79gPcHu"
       },
@@ -9082,7 +9162,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177313,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
@@ -9754,7 +9834,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168996,
       "name": "MIRI",
       "url": "https://open.spotify.com/track/1y7kb1VHAEUDXeBCHrCEos"
@@ -11316,6 +11396,24 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+    },
+    {
+      "album": {
+        "name": "ocean park",
+        "url": "https://open.spotify.com/album/7Dnl4xgsggSuk9zCsGZO1C"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "ocean park",
+      "url": "https://open.spotify.com/track/0O3eYz5ZFNJYQuCBFJxArx"
     },
     {
       "album": {
@@ -13272,7 +13370,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147692,
       "name": "Rial",
       "url": "https://open.spotify.com/track/2wbYhkwk2cpVRNoH4cxREv"
@@ -13684,6 +13782,28 @@
       "duration_ms": 104411,
       "name": "Sera Inutil",
       "url": "https://open.spotify.com/track/3rfa1waFuNsnayIws1swq3"
+    },
+    {
+      "album": {
+        "name": "SESSION 01 RESPLANDOR/\u00c9XTASIS",
+        "url": "https://open.spotify.com/album/6xpjK9qhrKVIeE1mQScifl"
+      },
+      "artists": [
+        {
+          "name": "Undergold",
+          "url": "https://open.spotify.com/artist/6w5oRCEaMR4OTlGUUU7ClD"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "SESSION 01 RESPLANDOR/\u00c9XTASIS",
+      "url": "https://open.spotify.com/track/0UupRiPS5YH7IOjSXhs7jo"
     },
     {
       "album": {

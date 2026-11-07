@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52917,
+  "num_followers": 52921,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABJ+BrqinMJxGrP2I/+s9ao",
+  "snapshot_id": "auvHAAAAAADoDOO0T+v5ssg2LgqIHW4Z",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Legendary Modern Recordings",
+        "url": "https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Boogie Chillen'",
+      "url": "https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 205400,
       "name": "It Serve You Right To Suffer - The Avener Rework",
       "url": "https://open.spotify.com/track/5qldrHWBMRfFSFESOpZHkh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Legendary Modern Recordings",
-        "url": "https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Boogie Chillen'",
-      "url": "https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serve You Right To Suffer (2025 Remaster)",
         "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of John Lee Hooker 1965 To 1974",
+        "url": "https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Motor City Is Burning",
+      "url": "https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R"
     },
     {
       "added_at": null,
@@ -515,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of John Lee Hooker 1965 To 1974",
-        "url": "https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 169466,
-      "name": "The Motor City Is Burning",
-      "url": "https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R"
+      "duration_ms": 296733,
+      "name": "Ali D'Oro",
+      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
       "added_at": null,
@@ -603,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Ali D'Oro",
-      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half A Stranger Vol 1",
         "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 183706,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out - feat. Canned Heat",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+      "duration_ms": 153293,
+      "name": "My Own Blues",
+      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
       "added_at": null,
@@ -847,6 +843,26 @@
       "duration_ms": 233266,
       "name": "You Know, I Know",
       "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out - feat. Canned Heat",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 331493,
       "name": "I'm Bad Like Jesse James - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Beer And Chicken",
-        "url": "https://open.spotify.com/album/1MIaKSLBaOAHsPliPEcnut"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 325106,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/5kcBIsJ9XsVruGUfkssgjF"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

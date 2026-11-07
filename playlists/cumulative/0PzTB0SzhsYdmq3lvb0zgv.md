@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-615 songs - 1 day 10 hr 16 min
+618 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2026-02-19 |  |
 | [Days Like These](https://open.spotify.com/track/0aPgAvLQZNqfLDMrXv0IPE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:41 | 2026-03-20 | 2026-09-10 |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2025-07-18 | 2025-08-23 |
+| [Death Of Me](https://open.spotify.com/track/0NTi0CxSSwIwvgfzBNzbIx) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne), [Ben Johnson](https://open.spotify.com/artist/44jxp31HvTqIB0Bv3tHOEm) | [Death Of Me](https://open.spotify.com/album/4wobIvQ0xVLYL1m2Xxp5vT) | 3:19 | 2026-11-06 |  |
 | [Deep \(In the Plans We Made\)](https://open.spotify.com/track/5A2YuFwiUUtLNDX022x8oo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [If You Go There, I Hope You Find It](https://open.spotify.com/album/7vULyg3RtEXYxsOulFZQ41) | 4:32 | 2026-01-23 | 2026-02-20 |
 | [Devour Me](https://open.spotify.com/track/6pnMlIhyMoE2syCCYY4oee) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:10 | 2026-07-24 |  |
 | [DIAMONDS FOR YOUR PAIN](https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 1:28 | 2025-07-18 | 2026-02-19 |
@@ -154,6 +155,7 @@
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-04-03 |  |
 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 | 2025-07-18 | 2025-08-23 |
 | [Eldest Daughter](https://open.spotify.com/track/5XhaIFhtZeqcExorrYSVDM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 4:06 | 2025-10-31 | 2026-02-20 |
+| [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 | 2026-11-06 |  |
 | [Embers](https://open.spotify.com/track/7KgBD9s7Jl2rs1Gs4OQMM8) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Embers](https://open.spotify.com/album/0VIa7h8DSdt4iQQmr8C94z) | 4:15 | 2025-07-18 | 2026-02-13 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-09 |  |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-30 | 2026-02-20 |
@@ -418,6 +420,7 @@
 | [Part Two \- Wouldn't It Make A Lovely Photograph](https://open.spotify.com/track/6OnN5AfKogPnQpEIbItvyX) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Ouroboros](https://open.spotify.com/album/4JVl5HHiI2SEgqvqTrBYyK) | 3:58 | 2026-02-19 | 2026-09-10 |
 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-07 | 2026-02-13 |
 | [Peaceful Place](https://open.spotify.com/track/7g4JvjIMwC4gi6gBPKOqnz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:15 | 2025-07-18 | 2026-07-18 |
+| [Penelope](https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:54 | 2026-11-06 |  |
 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 | 2026-01-16 | 2026-02-19 |
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2025-07-18 | 2026-02-13 |
 | [Pined For You My Whole Life](https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Pined For You My Whole Life](https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey) | 3:18 | 2025-07-18 | 2025-11-01 |

@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Halle",
-  "num_followers": 233667,
+  "description": "New music from your favorite women.  Cover: Honey Bxby",
+  "num_followers": 233689,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfJuXR03mmyViyAxPm0hV0mp0XE",
+  "snapshot_id": "AAAAACvHJBMGXRs/CuIjmJH0sc/6ukAy",
   "tracks": [
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Care For Me",
+        "url": "https://open.spotify.com/album/5FGi5bv38kh0Y7TFHEeglg"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Care For Me",
+      "url": "https://open.spotify.com/track/2EzboMQm7LEKWnbmkcORG8"
+    },
     {
       "added_at": "2026-10-23 04:02:18",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
     },
     {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
+    },
+    {
       "added_at": "2026-10-23 04:02:18",
       "album": {
         "name": "the 5 stages of heartbreak",
@@ -43,6 +75,58 @@
       "duration_ms": 181769,
       "name": "the 5 stages of heartbreak",
       "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "U, Me & My Ego (Deluxe)",
+        "url": "https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 169032,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/2ZtS6jrq87jwWcqu07971k"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4xphD56uE6hbDlrIWW9gHd"
+    },
+    {
+      "added_at": "2026-09-18 07:05:18",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -61,20 +145,36 @@
       "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
     },
     {
-      "added_at": "2026-09-18 07:05:18",
+      "added_at": "2026-11-06 18:35:09",
       "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+      "duration_ms": 132480,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Don't Stare At The Flame",
+        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 159803,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
     },
     {
       "added_at": "2026-10-30 04:42:29",
@@ -123,6 +223,70 @@
       "duration_ms": 224690,
       "name": "SO MUCH, SO MUCH",
       "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "A LITTLE VENGEANCE (is more human than no vengeance at all)",
+        "url": "https://open.spotify.com/album/3finUPTcL6mUIReFK2TxA8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 170020,
+      "name": "GO 2 WAR",
+      "url": "https://open.spotify.com/track/4MOPyeRAt2S2VobQjA47f3"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Love, Maybe?",
+        "url": "https://open.spotify.com/album/5q18O0moNVTImQ8Dk8v6QH"
+      },
+      "artists": [
+        {
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
+        }
+      ],
+      "duration_ms": 161786,
+      "name": "Saint Lucia",
+      "url": "https://open.spotify.com/track/0P5aRx1Mw1NiionI0zwb0l"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/0DW4WdocDOIzM5JFpeCvi1"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        }
+      ],
+      "duration_ms": 150042,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/6zf6GWfLn1529q6QZKaNPq"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Soul Food (Deluxe)",
+        "url": "https://open.spotify.com/album/3SNfyHOdyhJ2upQQL8XGER"
+      },
+      "artists": [
+        {
+          "name": "Miranda Rae",
+          "url": "https://open.spotify.com/artist/04CM97hjzZvlzAOOHzh59o"
+        }
+      ],
+      "duration_ms": 193056,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/2FCQRQEttBSLBKSR2nh3bE"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -217,20 +381,20 @@
       "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
     },
     {
-      "added_at": "2026-10-23 04:02:18",
+      "added_at": "2026-11-06 18:35:09",
       "album": {
-        "name": "SOVEREIGN LAND",
-        "url": "https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU"
+        "name": "Catch Me (Before It's Too Late) [Instrumentals]",
+        "url": "https://open.spotify.com/album/4qVAvdN0uyLv1UsWBgMdFH"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe"
+      "duration_ms": 160869,
+      "name": "Catch Me (Before It's Too Late) - Acoustic Instrumental",
+      "url": "https://open.spotify.com/track/2LnZgJfzEULE4jbbT12DI1"
     },
     {
       "added_at": "2026-10-23 04:02:18",
@@ -267,6 +431,22 @@
       "duration_ms": 212131,
       "name": "options",
       "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "SOFT RAGE",
+        "url": "https://open.spotify.com/album/3X9AcAij9uIa7nu0lZfhWc"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "duration_ms": 229230,
+      "name": "Money Sexy",
+      "url": "https://open.spotify.com/track/6cKUjwFe38Sg8vMbxLCeLd"
     },
     {
       "added_at": "2026-10-09 07:24:45",

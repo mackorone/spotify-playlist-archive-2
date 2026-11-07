@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 300169,
+  "num_followers": 300182,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 124200,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+      "duration_ms": 124200,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "Sixteen Tons",
         "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 155007,
       "name": "The Shot Gun Boogie",
       "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Indian Love Call",
-      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "It's A Great Life",
         "url": "https://open.spotify.com/album/5Zw1AvstPCXlfbSJRA6Gl3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 154213,
       "name": "I Miss You Already",
       "url": "https://open.spotify.com/track/0v7phnneFRXoB7ECffugXv"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Indian Love Call",
+      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
     },
     {
       "added_at": "2026-02-17 04:48:24",

@@ -1,13 +1,73 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 93960,
+  "num_followers": 94028,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyg23o7pVXiUMH4bTHPOQzptsFA",
+  "snapshot_id": "AAAAAALabm1ZB/tEwdRdTmRUxvyhqM+M",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Gimme A Beat",
+        "url": "https://open.spotify.com/album/0sftpsszaUp9L2EP3THRjP"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 183581,
+      "name": "Gimme A Beat",
+      "url": "https://open.spotify.com/track/4guJccRQ3OYLW9MU88h434"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Rinse & Repeat (Again)",
+        "url": "https://open.spotify.com/album/6Be8HD5xgudGGLvAdZsLfP"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Rinse & Repeat (Again)",
+      "url": "https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY"
+    },
     {
       "added_at": "2026-10-23 04:03:24",
       "album": {
@@ -23,6 +83,66 @@
       "duration_ms": 178238,
       "name": "Zoolander",
       "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 185423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+    },
+    {
+      "added_at": "2026-10-02 04:01:31",
+      "album": {
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "So Fly (feat. Riton)",
+        "url": "https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Kid Enigma",
+          "url": "https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        }
+      ],
+      "duration_ms": 126412,
+      "name": "So Fly (feat. Riton)",
+      "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {
       "added_at": "2026-10-09 04:01:48",
@@ -61,42 +181,6 @@
       "url": "https://open.spotify.com/track/0C9gQPONf0dK64fRDP2x95"
     },
     {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "LEILAH",
-          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
-        }
-      ],
-      "duration_ms": 185423,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
-    },
-    {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
-    },
-    {
       "added_at": "2026-10-23 04:03:24",
       "album": {
         "name": "PEOPLE IN THE PLACE",
@@ -121,20 +205,40 @@
       "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
     },
     {
-      "added_at": "2026-10-30 04:00:46",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Scope / Backseat",
-        "url": "https://open.spotify.com/album/7h77uhxf7JBzvpMqdcTPLn"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/7AB5BnMFawAINR4XcJ9HPW"
       },
       "artists": [
         {
-          "name": "BAGGI",
-          "url": "https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom"
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        },
+        {
+          "name": "ANY ZEE",
+          "url": "https://open.spotify.com/artist/0VUSbfrFrqCtemSb2GOEfe"
         }
       ],
-      "duration_ms": 173023,
-      "name": "Scope",
-      "url": "https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb"
+      "duration_ms": 155905,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ChJoX2SoQp4RiyN4NbQnq"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "The Sound Of House",
+        "url": "https://open.spotify.com/album/6PTh17gWSQd8PA9wGh5t1H"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "duration_ms": 178191,
+      "name": "The Sound Of House",
+      "url": "https://open.spotify.com/track/3npZu2cvQSzSN31ouiNOyJ"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -157,6 +261,22 @@
       "url": "https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci"
     },
     {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Clean Slate",
+        "url": "https://open.spotify.com/album/7CsBrQjQXzvMkLm9UKHJpM"
+      },
+      "artists": [
+        {
+          "name": "Scarlett O'Malley",
+          "url": "https://open.spotify.com/artist/3M9nSw4sBZae8JV6uEefMq"
+        }
+      ],
+      "duration_ms": 326923,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/12BxkOwEGp9yWvsDw3Qezc"
+    },
+    {
       "added_at": "2026-10-09 04:01:48",
       "album": {
         "name": "Keep Me Hype",
@@ -173,36 +293,68 @@
       "url": "https://open.spotify.com/track/3J5dFmwhCWcHUWN4mgYbGc"
     },
     {
-      "added_at": "2026-10-02 04:01:31",
+      "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Marido Dansa EP",
-        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/6omQLKu1IE7ajyM9nLNcG0"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
         }
       ],
-      "duration_ms": 154153,
-      "name": "Marido Dansa",
-      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+      "duration_ms": 186268,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/5IjxSVuw5fsajmTlBd99ME"
     },
     {
       "added_at": "2026-10-23 04:03:24",
       "album": {
-        "name": "The Sound Of House",
-        "url": "https://open.spotify.com/album/6PTh17gWSQd8PA9wGh5t1H"
+        "name": "Freakiness",
+        "url": "https://open.spotify.com/album/27NK8WVKUNA3LbDW02reN6"
       },
       "artists": [
         {
-          "name": "JAYC",
-          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
         }
       ],
-      "duration_ms": 178191,
-      "name": "The Sound Of House",
-      "url": "https://open.spotify.com/track/3npZu2cvQSzSN31ouiNOyJ"
+      "duration_ms": 211127,
+      "name": "Freakiness",
+      "url": "https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "IN2U",
+        "url": "https://open.spotify.com/album/4ZkGxPp27hwTlGHeW8Jv4j"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 229111,
+      "name": "IN2U",
+      "url": "https://open.spotify.com/track/7ud3HNsw8PRO1YWuniYJLW"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Rockin' With The Best",
+        "url": "https://open.spotify.com/album/5lyZzcX01gsKfy4ZfwvGWV"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Rockin' With The Best",
+      "url": "https://open.spotify.com/track/5beDh4JJBRdw6TlsHIuYGA"
     },
     {
       "added_at": "2026-10-02 04:01:31",
@@ -219,6 +371,62 @@
       "duration_ms": 202123,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
+    },
+    {
+      "added_at": "2026-10-30 04:00:46",
+      "album": {
+        "name": "Scope / Backseat",
+        "url": "https://open.spotify.com/album/7h77uhxf7JBzvpMqdcTPLn"
+      },
+      "artists": [
+        {
+          "name": "BAGGI",
+          "url": "https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Scope",
+      "url": "https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/5kMz2ErPxOupInqPrc2Ba6"
+      },
+      "artists": [
+        {
+          "name": "Mason Talbot",
+          "url": "https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0Z7wtardwyNMEWZR8PSUGg"
+    },
+    {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/40Tzxy7sMneJM04BGJ1Rqd"
+      },
+      "artists": [
+        {
+          "name": "Scott Steer",
+          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        },
+        {
+          "name": "HG",
+          "url": "https://open.spotify.com/artist/5ngr80dDwlJ5nrWvPCRhOL"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3G1xNbUCCKUhCSBFkjWFaA"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -239,22 +447,6 @@
       "duration_ms": 227368,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/556v7tfoew5CLbq8vIm3S7"
-    },
-    {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Freakiness",
-        "url": "https://open.spotify.com/album/27NK8WVKUNA3LbDW02reN6"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        }
-      ],
-      "duration_ms": 211127,
-      "name": "Freakiness",
-      "url": "https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq"
     },
     {
       "added_at": "2026-10-09 04:01:48",

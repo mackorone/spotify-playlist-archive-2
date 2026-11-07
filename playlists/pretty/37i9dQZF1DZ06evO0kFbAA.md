@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,793 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,829 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 14 | [O Grande Amor](https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:27 |
 | 15 | [Who Could Care?](https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 4:46 |
 | 16 | [If Ever I Would Leave You](https://open.spotify.com/track/5oTTjuVsncAETARz6yDmiJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz For Lovers](https://open.spotify.com/album/4gfH6Bco0I18IEHqXClxdG) | 2:13 |
-| 17 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 |
+| 17 | [Saudade Vem Correndo](https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 3:39 |
 | 18 | [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 |
-| 19 | [Saudade Vem Correndo](https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 3:39 |
+| 19 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 |
 | 20 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 |
 | 21 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 22 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 49 | [Manha De Carnaval \(Morning of Carnaval\)](https://open.spotify.com/track/54Qk897P1MR7fPh1hYzCKl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/6cxMl748yPkmJk1WNDaNgw) | 5:47 |
 | 50 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 
-Snapshot ID: `aukkAAAAAADvxmU0is0wWaqM92fqJru8`
+Snapshot ID: `auvHAAAAAADzbBrywVfK8vm04IOo3SUh`

@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 158114,
       "name": "1 de Abril",
       "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 205091,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s"
@@ -4359,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210949,
+      "name": "BDSM",
+      "url": "https://open.spotify.com/track/2fgvhhgLdIcBB3vRaVko1A"
+    },
+    {
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -4842,6 +4860,24 @@
       "duration_ms": 220306,
       "name": "Better Than Revenge (Taylor's Version)",
       "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228405,
+      "name": "Bicarbonato",
+      "url": "https://open.spotify.com/track/4MUSXsqSaLqI3p1PtxONdY"
     },
     {
       "album": {
@@ -6796,7 +6832,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 216000,
       "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
@@ -7180,6 +7216,24 @@
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1WGmyxoPCfOrk7uT2z3Zuu"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "Cavalo De Troia",
+      "url": "https://open.spotify.com/track/6vICzp7gTewurjaRV5ubNW"
     },
     {
       "album": {
@@ -8833,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167858,
+      "name": "CR7",
+      "url": "https://open.spotify.com/track/7dg3JBafoISze8RxBFmiG2"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
       },
@@ -8918,6 +8990,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194035,
+      "name": "Cromossoma",
+      "url": "https://open.spotify.com/track/63MtXcxsFdUndullVSPeaU"
     },
     {
       "album": {
@@ -9186,7 +9276,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -9582,6 +9672,24 @@
       "duration_ms": 104400,
       "name": "De Madrug\u00e1",
       "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267564,
+      "name": "De Onde Eu Vim",
+      "url": "https://open.spotify.com/track/33yqbPuXE2ld03pt7mlkkY"
     },
     {
       "album": {
@@ -11029,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169380,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/7CGZzzDvRoQUoiUp8WtLJk"
+    },
+    {
+      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
       },
@@ -12399,6 +12525,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204895,
+      "name": "Enquanto Eu Puder",
+      "url": "https://open.spotify.com/track/22po07GSVRt99ReIYESf47"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -12971,6 +13115,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211809,
+      "name": "Eu Pr\u00f3prio Contra Mim",
+      "url": "https://open.spotify.com/track/15HjKW0ZWZ8D7PetkMJ9KV"
+    },
+    {
+      "album": {
         "name": "Mi Ma Bo",
         "url": "https://open.spotify.com/album/7hWEuLDn8rfkgATHkzkYNx"
       },
@@ -13280,7 +13442,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -13772,7 +13934,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -14616,7 +14778,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157814,
       "name": "Flash (Minha Mente) \ud83d\udca0",
       "url": "https://open.spotify.com/track/4mTwKZPVhgWs6olQWxtUEG"
@@ -16361,6 +16523,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204195,
+      "name": "Gra\u00e7as a Deus",
+      "url": "https://open.spotify.com/track/0CWtCehACf622OilM8rR2p"
+    },
+    {
+      "album": {
         "name": "Gra\u00e7as a Deus",
         "url": "https://open.spotify.com/album/5AKUkiFMNtrtHoN4tmuVpb"
       },
@@ -16372,7 +16552,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 204195,
       "name": "Gra\u00e7as a Deus",
       "url": "https://open.spotify.com/track/4jbGAIetgUMoUjKTt5QUFR"
@@ -16508,7 +16688,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 433846,
       "name": "GRWM",
       "url": "https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx"
@@ -18676,7 +18856,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168000,
       "name": "Icey",
       "url": "https://open.spotify.com/track/3Sn6Wib3xaSfPejHjgXVe7"
@@ -19294,7 +19474,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -19348,10 +19528,28 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 222257,
       "name": "Isaltino",
       "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Isaltino",
+      "url": "https://open.spotify.com/track/60JLAo6EBNUxHIHkBQlNDt"
     },
     {
       "album": {
@@ -23613,6 +23811,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/5WVPSLObsRboOHfDaDetr5"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -25992,7 +26208,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -27204,7 +27420,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -28795,6 +29011,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251228,
+      "name": "Onde \u00c9 Que Tu Tavas",
+      "url": "https://open.spotify.com/track/67lcgaRtMO0eSaMlq7lO4a"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -29156,6 +29390,24 @@
       "duration_ms": 354045,
       "name": "Origami (feat. Gson)",
       "url": "https://open.spotify.com/track/2ppvtZ6U2NK5Z9VYKrIzAN"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222011,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/4i1nF2wifa3dqPFnIIeeVd"
     },
     {
       "album": {
@@ -29906,7 +30158,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 228923,
       "name": "Pau Pra Toda Obra",
       "url": "https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa"
@@ -30522,7 +30774,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 133563,
       "name": "Pe\u00e3o Todo Tatuado",
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
@@ -31516,7 +31768,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 162461,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l"
@@ -31939,6 +32191,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256605,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/4MPZOOjk5SvNt0ZJ9Cl4Fg"
+    },
+    {
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -32161,6 +32431,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155676,
+      "name": "P\u00e1ginas",
+      "url": "https://open.spotify.com/track/7gfX1hXWpsgpcqf1MsDCwL"
+    },
+    {
+      "album": {
         "name": "P\u00e9 na Areia",
         "url": "https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY"
       },
@@ -32266,7 +32554,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/4WUChWgQYcObDAFZTzehns"
@@ -32718,7 +33006,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -34049,6 +34337,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170087,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/6rG8S8xF6kmHS5zS0ColJC"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -34212,6 +34518,24 @@
       "duration_ms": 211875,
       "name": "Saloia",
       "url": "https://open.spotify.com/track/6n0jihDYFApFTZIICTHxvO"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253343,
+      "name": "Salvador Dal\u00ed",
+      "url": "https://open.spotify.com/track/4JodHGrLil6jPRpRfsEUh5"
     },
     {
       "album": {
@@ -35827,6 +36151,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208162,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/1Gur62EVdZOoYF49NRpB3H"
+    },
+    {
+      "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
       },
@@ -36191,6 +36533,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157094,
+      "name": "Sic\u00e1rio",
+      "url": "https://open.spotify.com/track/2hsVEUdk2qG7t9nkL2NTW8"
+    },
+    {
+      "album": {
         "name": "Sic\u00e1rio",
         "url": "https://open.spotify.com/album/2EXS6DOMdjJfaTcPdwHmA9"
       },
@@ -36202,7 +36562,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157094,
       "name": "Sic\u00e1rio",
       "url": "https://open.spotify.com/track/41smtvBlYFfq0PPMZ1psdP"
@@ -37014,7 +37374,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160993,
       "name": "SOU GRANDE NO AMOR",
       "url": "https://open.spotify.com/track/3ODDkzwIsHPRxTmtjP4DCs"
@@ -37724,7 +38084,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -37868,7 +38228,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -38756,7 +39116,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 189106,
       "name": "Tas no Ponto",
       "url": "https://open.spotify.com/track/63v7dOuj1AIvZrKh5n53aM"
@@ -39650,7 +40010,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -42393,6 +42753,42 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355000,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/67oa6pgVsVCg8A3qpRiqk0"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208799,
+      "name": "Veni, Vidi, Vici",
+      "url": "https://open.spotify.com/track/2bXe9PzPvDl62JesWX3D2t"
+    },
+    {
+      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -42430,6 +42826,24 @@
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183143,
+      "name": "Vice-versa",
+      "url": "https://open.spotify.com/track/4nawq8igY81xihFd5jabcO"
     },
     {
       "album": {
@@ -42534,6 +42948,24 @@
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149549,
+      "name": "Vida Loka",
+      "url": "https://open.spotify.com/track/2J6QDCcopQ5MMTY3PVr4j4"
     },
     {
       "album": {
@@ -44868,6 +45300,24 @@
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220223,
+      "name": "\u00c1gua Fria",
+      "url": "https://open.spotify.com/track/2zMCyUCPlvA2v7unZSSdVl"
     },
     {
       "album": {

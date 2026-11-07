@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Darren Styles & TOZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,721 likes - 110 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,962 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,18 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Move With The One](https://open.spotify.com/track/2MiwNiDqpQjeWa4Ajc0eLT) | [Project One](https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Move With The One](https://open.spotify.com/album/3r2qyOLYjPvP0hHz3qeDsD) | 2:53 |
 | 96 | [Runaway \(U & I\)](https://open.spotify.com/track/2GU0nAkkzivhIbTEpebuXo) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Runaway \(U & I\)](https://open.spotify.com/album/3GiRVHT6OamD78C6zwIzWh) | 2:51 |
 | 97 | [Funked Up](https://open.spotify.com/track/6MZOvJg1lacY1OWFksZq3u) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Funked Up](https://open.spotify.com/album/5IgxCQWvJ8Wclxbvj9f5Co) | 2:03 |
-| 98 | [Stand Together \(Sana Duri 2026 OST\)](https://open.spotify.com/track/6GThRS72eYSer29ymwzO1N) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Stand Together \(Sana Duri 2026 OST\)](https://open.spotify.com/album/1nEITZjfk5jK1fsJoBK6m6) | 3:56 |
-| 99 | [Good Old Days](https://open.spotify.com/track/5qHxitw2vWH96ayqw55f1t) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Good Old Days](https://open.spotify.com/album/4yBDQ3F928ttYAeJ72jany) | 3:18 |
-| 100 | [GOTTA STAY](https://open.spotify.com/track/7HnqIGNAMy1UcTyGNmk32y) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [GOTTA STAY](https://open.spotify.com/album/1U5QU4p95GHbLjY10NTZH7) | 2:59 |
-| 101 | [Never Coming Down](https://open.spotify.com/track/4TwKJPjpGOdSJoKAznlJ36) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Never Coming Down](https://open.spotify.com/album/54jYZZtZmfmkSD39VUBvdr) | 3:40 |
-| 102 | [Outro](https://open.spotify.com/track/3aLD3844R0K4Z9FafTFam0) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Sogma](https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Outro](https://open.spotify.com/album/5msSxh4iUntJp93zZKhpbO) | 2:12 |
-| 103 | [Step Into The Madness \- Into The Madness 2026 Anthem](https://open.spotify.com/track/0IteHALo6bvrcqibNMCvjO) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Step Into The Madness \(Into The Madness 2026 Anthem\)](https://open.spotify.com/album/1gEUGLLv9TZicXVny5zdRR) | 4:04 |
-| 104 | [Dream On](https://open.spotify.com/track/4OD6nkCMmThfZpFKEVCVnp) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Dream On](https://open.spotify.com/album/78oEZ5l5cg2lEhvaNtuzrb) | 3:11 |
-| 105 | [Like Me \- Radio Edit](https://open.spotify.com/track/5Wu0VkKJ5h8VJ1462CBnKX) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [99PRBLMZ](https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF) | [Like Me](https://open.spotify.com/album/6XGFmdEQ6Gkem2mGc4uMMe) | 2:32 |
-| 106 | [Sacred Flame](https://open.spotify.com/track/4datqpKSJ97DZg5DE1Z3E9) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Sacred Flame](https://open.spotify.com/album/7C7T3HwCZ5HAu9Mas1M25G) | 4:06 |
-| 107 | [OUR LIFE](https://open.spotify.com/track/6T3g1ngzklTzkaV7bqY5Wk) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7), [Teal](https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A) | [OUR LIFE](https://open.spotify.com/album/57H9KQhn1yPFtahgEPY4rx) | 3:30 |
-| 108 | [ASCENSION](https://open.spotify.com/track/2rtR2wsOh4WwBP1rSyy6Lx) | [BMBERJCK](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [ASCENSION](https://open.spotify.com/album/6PIG58g2taF1KcO5inQlFv) | 3:43 |
-| 109 | [Vibrate](https://open.spotify.com/track/1VyeF4Ll3DO6kSbx5cZN06) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Vibrate](https://open.spotify.com/album/72OHEFsOMrn5i48864Wssm) | 2:52 |
-| 110 | [Pump This Party](https://open.spotify.com/track/7EECoeGtYFyDHRTJ1qAlPD) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Pump This Party](https://open.spotify.com/album/5TSg4h8NEMvntbqkKfPURu) | 2:51 |
+| 98 | [GOTTA STAY](https://open.spotify.com/track/7HnqIGNAMy1UcTyGNmk32y) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [GOTTA STAY](https://open.spotify.com/album/1U5QU4p95GHbLjY10NTZH7) | 2:59 |
+| 99 | [Outro](https://open.spotify.com/track/3aLD3844R0K4Z9FafTFam0) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Sogma](https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Outro](https://open.spotify.com/album/5msSxh4iUntJp93zZKhpbO) | 2:12 |
+| 100 | [Like Me \- Radio Edit](https://open.spotify.com/track/5Wu0VkKJ5h8VJ1462CBnKX) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [99PRBLMZ](https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF) | [Like Me](https://open.spotify.com/album/6XGFmdEQ6Gkem2mGc4uMMe) | 2:32 |
 
-Snapshot ID: `AAAAAGS408dtX5U6yiPTXfZSBNaeyaJz`
+Snapshot ID: `AAAAAHxKJSoihavsamHaNHISQ7TA5Ql6`

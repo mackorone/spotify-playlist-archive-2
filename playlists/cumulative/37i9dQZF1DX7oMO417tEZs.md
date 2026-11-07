@@ -4,7 +4,7 @@
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Jashim
 
-2,096 songs - 4 day 17 hr 18 min
+2,097 songs - 4 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,6 +1341,7 @@
 | [Oj & prosecco](https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW) | [Oj & prosecco](https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh) | 3:39 | 2023-03-10 | 2023-08-12 |
 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-02 | 2024-11-16 |
 | [okay w/ that](https://open.spotify.com/track/1b1RqfCsTuJYIxNIUFcGas) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [okay w/ that](https://open.spotify.com/album/3VzAJcNdx0ofZSukjkKSVJ) | 2:17 | 2023-04-21 | 2023-05-13 |
+| [Okunkun](https://open.spotify.com/track/670gVLukaZ1JePJ77sRnLS) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/7Kc2EBtp2CdqXNsEWyBFj8) | 2:39 | 2026-11-06 |  |
 | [Old Life](https://open.spotify.com/track/3Sw3JIOSE6E7InuGDZdaC0) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Old Life](https://open.spotify.com/album/2NOsAyyRvKwWgWWHEPGc4N) | 3:00 | 2024-09-06 | 2024-09-28 |
 | [Old Me](https://open.spotify.com/track/0vW65Y1nsA8Xt2zBkP9CKV) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [Old Me](https://open.spotify.com/album/2cR9SULauHTerEClMTC27V) | 3:26 | 2022-05-06 | 2022-06-04 |
 | [Old money bitch](https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Old money bitch](https://open.spotify.com/album/7lQ4aPxo9J75gfmHeFuS38) | 4:05 | 2023-08-18 | 2023-12-16 |

@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> grumpy on the cover :\)
+> petra on the cover :\)
 
-959 songs - 2 day 10 hr 3 min
+963 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,8 @@
 | [How to Forget](https://open.spotify.com/track/0F1J3RNup9k1kbkezKy0Eb) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 4:01 | 2026-05-08 | 2026-10-09 |
 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 | 2023-10-06 | 2024-03-09 |
 | [Human Angel](https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Follow The Light](https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y) | 2:59 | 2026-10-16 |  |
+| [Hummingbird](https://open.spotify.com/track/5CSjni72zJWAEn5gNQI719) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E) | [Hummingbird](https://open.spotify.com/album/3IHW8uJvyPgoaGxBao08zj) | 3:59 | 2026-11-06 |  |
+| [I Am God](https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [I Am God](https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP) | 3:03 | 2026-11-06 |  |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-06 | 2024-04-27 |
 | [I Bought You A Star](https://open.spotify.com/track/71qJx5tf3MlEIdzWPKigur) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [I Bought You A Star](https://open.spotify.com/album/13vkqYXmrCevp8aHh505ZF) | 3:00 | 2026-08-28 |  |
 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 | 2023-11-10 | 2023-12-09 |
@@ -803,6 +805,7 @@
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 | 2025-03-13 |
 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 | 2025-11-21 | 2026-06-20 |
 | [Tethered](https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Tethered](https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo) | 3:23 | 2026-03-27 | 2026-07-25 |
+| [Texas in Flaming Tongues](https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 4:03 | 2026-11-06 |  |
 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-10-06 | 2023-11-18 |
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-18 | 2025-09-13 |
 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 | 2026-07-17 |  |
@@ -837,6 +840,7 @@
 | [The Way Love Goes](https://open.spotify.com/track/1o9KFXJkF6jBpIvd4rthsi) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 1:56 | 2025-10-10 | 2026-07-11 |
 | [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 | 2024-10-16 | 2025-02-01 |
 | [The Whale](https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [D.A\. Crimson](https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW) | [The Whale](https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z) | 3:25 | 2026-09-04 |  |
+| [The Wheel \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/2CogABm63uPyd2qAo259RW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Wheel](https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ) | 3:07 | 2026-11-06 |  |
 | [there they go](https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [there they go](https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF) | 2:13 | 2023-10-20 | 2024-03-16 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-11 | 2025-09-13 |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-18 | 2024-12-07 |

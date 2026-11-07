@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 11128,
+  "num_followers": 11131,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADhiD7xPLDkZXTetqqRfmFe",
+  "snapshot_id": "auvHAAAAAAAAEt+NLK/RjpEfFbMKG+w/",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "Alfredo Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/0zrStlbIlkeFt1fNjXI1kk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 156060,
       "name": "Pachanga en el Infierno",
       "url": "https://open.spotify.com/track/5qWNCBn3Y0f36URNDAmOfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "Alfredo Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/0zrStlbIlkeFt1fNjXI1kk"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Culiacan (En Vivo Desde Culiacan)",
-        "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "El HR - En Vivo Desde Culiacan",
-      "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Tiempo",
         "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 236373,
       "name": "El Vaso Derrama",
       "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Culiacan (En Vivo Desde Culiacan)",
+        "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "El HR - En Vivo Desde Culiacan",
+      "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre de 14 A\u00f1os",
-        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 239381,
-      "name": "Las Tempestades",
-      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -383,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre de 14 A\u00f1os",
+        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 239381,
+      "name": "Las Tempestades",
+      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Estilo",
         "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "D\u00e9jame Vac\u00edo",
-      "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 182626,
       "name": "El Peinado",
       "url": "https://open.spotify.com/track/1AV3hkXXZnZE5BhZtjjVDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "D\u00e9jame Vac\u00edo",
+      "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
     },
     {
       "added_at": null,
@@ -451,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 146580,
+      "name": "Cuanto Tienes Cuanto Vales",
+      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "El Hueso Del Perron",
+      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -467,6 +499,22 @@
       "duration_ms": 216850,
       "name": "La Clave 7 - En Vivo",
       "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL Maz Poderoso",
+        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
     },
     {
       "added_at": null,
@@ -507,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL Maz Poderoso",
-        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 146580,
-      "name": "Cuanto Tienes Cuanto Vales",
-      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 185906,
       "name": "Los Dos Jefes",
       "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Se Equivoc\u00f3 El Pistolero",
-      "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Se Equivoc\u00f3 El Pistolero",
+      "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Estilo",
         "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 186803,
       "name": "Que No Se Apague la Lumbre",
       "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "El Hueso Del Perron",
-      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 145402,
-      "name": "Dejame",
-      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -711,26 +691,6 @@
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 147330,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
     },
     {
       "added_at": null,
@@ -755,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
+        }
+      ],
+      "duration_ms": 147330,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Enemigo P\u00fablico",
         "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 168613,
       "name": "La Puerta Del Infierno",
       "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "duration_ms": 145402,
+      "name": "Dejame",
+      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "El Mes De Enero",
+      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hombre de Ley",
         "url": "https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 198832,
       "name": "Hombre de Ley",
       "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "El Mes De Enero",
-      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+      },
+      "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 189687,
+      "name": "El Plebe del Dos de Oro",
+      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 219729,
       "name": "O Me Voy o Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/0x7DTzSh4juWJbgDyqCkAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' Destapar La Hielera (En Vivo)",
-        "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 249556,
-      "name": "Renunciaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5QeX0Wp11Fmu4jsJhAOGcR"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

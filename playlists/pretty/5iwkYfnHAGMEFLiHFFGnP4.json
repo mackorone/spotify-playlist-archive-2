@@ -1,12 +1,12 @@
 {
-  "description": "HITS 2026 \ud83d\udd25 All of today's top chart hits and hot new releases from around the world. Hit \u2661 to hear the biggest new songs first! Cover: Miley Cyrus",
-  "num_followers": 650614,
+  "description": "HITS 2026 \ud83d\udd25 All of today's top chart hits and hot new releases from around the world. Hit \u2661 to hear the biggest new songs first! Cover: Ashe",
+  "num_followers": 650677,
   "original_name": "HITS 2026 - Today's Top Songs",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAbL1HPSrwx4x6rqfZ273EIfodCiglW",
+  "snapshot_id": "AAAbNKZ0OdCXBl7AjenUoFj57FLAPnus",
   "tracks": [
     {
       "added_at": "2026-11-02 16:21:57",
@@ -127,6 +127,26 @@
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-11-06 20:55:22",
+      "album": {
+        "name": "TOO SOON (feat. Babyface)",
+        "url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ"
     },
     {
       "added_at": "2026-11-02 16:21:57",

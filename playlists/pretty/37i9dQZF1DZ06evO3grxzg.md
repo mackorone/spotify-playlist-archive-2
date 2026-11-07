@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,256 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,241 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 36 | [El Cielo En Brazos De Papá](https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:07 |
 | 37 | [Late Mi Corazón \- Version Pop](https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 4:02 |
 | 38 | [María Belem](https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:10 |
-| 39 | [Esa Es Mi Mamita Linda](https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Después de mucho de no hablar](https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF) | 2:37 |
+| 39 | [A Coro \- En Vivo](https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 5:12 |
 | 40 | [¿Que Se Sentirá Tener Mamá?](https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:57 |
 | 41 | [Pablo Y Andrea](https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 2:45 |
-| 42 | [A Coro \- En Vivo](https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 5:12 |
-| 43 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 |
+| 42 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 |
+| 43 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 |
 | 44 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
 | 45 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
-| 46 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 |
-| 47 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
+| 46 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
+| 47 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
+| 48 | [No Bailes Sola](https://open.spotify.com/track/7JO9jOf7cyP6ii9LaekOsl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bailotea en pijama](https://open.spotify.com/album/5saOZMArTYyH9hVwpR4Rcd) | 3:02 |
+| 49 | [1TRAGO](https://open.spotify.com/track/0S7A2bKpipgJ7uVrIjOYBy) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HOLA 2024](https://open.spotify.com/album/3D8npaARfn8ymXZMXTBFuy) | 3:21 |
+| 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/4FRPlHTb9rhzMBlBgr25hg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Posesión Vol\. 3](https://open.spotify.com/album/7pnbazVEcFl7y2tRKrLmFc) | 3:54 |
 
-Snapshot ID: `aukkAAAAAAAB7JxbmXJ7nrk8e/1jX6ex`
+Snapshot ID: `auvHAAAAAAAwjUsnT8yGyJEB30TOyM2h`

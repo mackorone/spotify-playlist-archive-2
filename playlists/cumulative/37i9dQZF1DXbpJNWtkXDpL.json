@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
@@ -6628,6 +6628,24 @@
       "duration_ms": 217120,
       "name": "Morra",
       "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
+    },
+    {
+      "album": {
+        "name": "mors egoni",
+        "url": "https://open.spotify.com/album/2EFjjAP6Jw9GtNCcWdQrOq"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "mors egoni",
+      "url": "https://open.spotify.com/track/1jobMeZkfq114vfva6pX5n"
     },
     {
       "album": {

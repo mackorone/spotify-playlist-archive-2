@@ -4,7 +4,7 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Anakin Larios
 
-269 songs - 13 hr 58 min
+272 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,8 @@
 | [Cuánto Me Cuesta](https://open.spotify.com/track/7sxzoyrlPBbEEG4h747Fun) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Cuánto Me Cuesta](https://open.spotify.com/album/4TTCYumokzbNBYvpnioap7) | 4:00 | 2026-08-14 |  |
 | [Cómo Te Va?](https://open.spotify.com/track/6wnqKE9Tjp6aAZSJNRvx5e) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:35 | 2026-08-14 |  |
 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 | 2026-01-09 |  |
+| [DE EUROPA A JAPÓN](https://open.spotify.com/track/4JesElQ9Btxf3UpzMu7ffR) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [DE EUROPA A JAPÓN](https://open.spotify.com/album/1p0VbOLs2H9dFZZOxQmbGu) | 2:50 | 2026-11-06 |  |
+| [De Noche](https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO) | [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [De Noche](https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx) | 2:59 | 2026-11-06 |  |
 | [Debí besarte](https://open.spotify.com/track/6RaMjuTijuazx36Wi1YCks) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Debí besarte](https://open.spotify.com/album/0535FyRchIZALTjbkaBOhV) | 3:44 | 2026-08-14 |  |
 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 | 2026-04-03 |  |
 | [Desbloquéame Del Wha](https://open.spotify.com/track/4GeUQzRRSgEqUyTXXcFkd7) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 2:59 | 2026-02-06 | 2026-03-07 |
@@ -193,6 +195,7 @@
 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 | 2025-05-27 | 2026-04-04 |
 | [PLANETA](https://open.spotify.com/track/2OUOsr0nL8AlpkTybFu6RB) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | ["Estoy Bien"](https://open.spotify.com/album/1dE7V9UJxX6jpK1hNAyLyT) | 3:29 | 2026-01-09 | 2026-10-03 |
 | [PLÁTICA CON CUPIDO](https://open.spotify.com/track/48PzmwnVp7aWPyAoZPvpn7) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:24 | 2025-08-08 | 2026-09-05 |
+| [Poligamia](https://open.spotify.com/track/72DzJlTE05EiB6U7rYvDrr) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Poligamia](https://open.spotify.com/album/1QWdgyDjAN9p0Oh8aGaE0z) | 2:48 | 2026-11-06 |  |
 | [Polvito](https://open.spotify.com/track/6Ue52TJAdl5BHt389OOjlm) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Polvito](https://open.spotify.com/album/0LROhRL0IfDHtFMxwUKNuY) | 2:50 | 2024-03-15 | 2024-05-18 |
 | [Por Amarte Así](https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:22 | 2026-09-04 |  |
 | [Por antigüedad](https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Por antigüedad](https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn) | 2:29 | 2026-10-23 |  |

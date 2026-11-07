@@ -678,7 +678,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 139600,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198208,
       "name": "silver second",
       "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
@@ -5404,6 +5404,24 @@
       "duration_ms": 229000,
       "name": "You Bring the Snow",
       "url": "https://open.spotify.com/track/6tYnZCezrIuV6iCFHt8huM"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Always Get What You Want",
+        "url": "https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209457,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY"
     },
     {
       "album": {

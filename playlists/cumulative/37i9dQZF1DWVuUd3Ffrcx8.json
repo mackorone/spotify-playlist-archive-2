@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 159700,
       "name": "Cry Ugly",
       "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
@@ -13572,7 +13572,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
@@ -14547,6 +14547,32 @@
     },
     {
       "album": {
+        "name": "WHO KILLED EL?",
+        "url": "https://open.spotify.com/album/5JGlvqlmuZ9wQeaVJkrJ80"
+      },
+      "artists": [
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        },
+        {
+          "name": "The Social Reject Choir",
+          "url": "https://open.spotify.com/artist/2Frm8WwIz4pk6tPyjUxBIT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246417,
+      "name": "Sing This Song For Me (feat. Jagwar Twin & The Social Reject Choir)",
+      "url": "https://open.spotify.com/track/3sa489oo3ZM0tUzA0CtEFQ"
+    },
+    {
+      "album": {
         "name": "Artificial Paradise - Deluxe",
         "url": "https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg"
       },
@@ -14962,6 +14988,24 @@
       "duration_ms": 151609,
       "name": "Someday, Somewhere",
       "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
+    },
+    {
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
       "album": {

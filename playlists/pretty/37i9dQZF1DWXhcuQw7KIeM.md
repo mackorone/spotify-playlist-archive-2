@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,010 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,091 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 35 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 |
 | 36 | [Avalon](https://open.spotify.com/track/3tjdZcAXVu6tqmKBtshy4G) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 2:01 |
 | 37 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
-| 38 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
-| 39 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
+| 38 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
+| 39 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
 | 40 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
 | 41 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 |
 | 42 | [Hibjørnen](https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 3:02 |

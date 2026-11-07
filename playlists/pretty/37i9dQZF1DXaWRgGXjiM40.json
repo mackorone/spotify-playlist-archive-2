@@ -1,35 +1,31 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945043,
+  "num_followers": 945001,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUAZLFNyr+8xLdI7dUKCMM/S/tr",
+  "snapshot_id": "AAAAAG0m8l5NWeYPhPhdB3f7I+Bc5LPd",
   "tracks": [
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
-        "name": "Eu Te Seguro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
+        "name": "P\u00f3s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv"
       },
       "artists": [
         {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
         }
       ],
-      "duration_ms": 148561,
-      "name": "Eu Te Seguro - Ao Vivo",
-      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
+      "duration_ms": 175577,
+      "name": "P\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "N\u00e1rnia",
         "url": "https://open.spotify.com/album/7euZX5kvIZjHs8BkHkqRrU"
@@ -49,7 +45,27 @@
       "url": "https://open.spotify.com/track/40OYPA2hNTttrCZwaYWeV7"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Eu Te Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "Eu Te Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Eu Duvido (Ao Vivo)",
         "url": "https://open.spotify.com/album/5AXeDo14SQnBuv28Ayiekr"
@@ -69,7 +85,23 @@
       "url": "https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Cantos Da Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kIZDe54B7J0XISVkCsysa"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Trem Lindo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ey6lA7gjGLhfnp2lOjAhw"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Como. Sempre Feito. Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
@@ -85,39 +117,7 @@
       "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "P\u00f3s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 175577,
-      "name": "P\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161862,
-      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe"
@@ -133,7 +133,23 @@
       "url": "https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "O Melhor De Mim (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/58b5pvh1FcryAJOb0FAHoz"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/7meq91abCS4XbydTUSKn7K"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Tem Moda Pra Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
@@ -221,7 +221,23 @@
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Como. Sempre Feito. Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
@@ -237,23 +253,23 @@
       "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
-        "name": "Sertanejinho do Tel\u00f3, Vol. 2",
-        "url": "https://open.spotify.com/album/7kxt3hDfsza2kVWUSjn13o"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
       "artists": [
         {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 298853,
-      "name": "Magia e Mist\u00e9rio / Fui Fiel",
-      "url": "https://open.spotify.com/track/2ERvdaiyTzpfiWYRzntMg1"
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Tem Moda Pra Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
@@ -273,23 +289,23 @@
       "url": "https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+        "name": "Sertanejinho do Tel\u00f3, Vol. 2",
+        "url": "https://open.spotify.com/album/7kxt3hDfsza2kVWUSjn13o"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Eu, Voc\u00ea, O Mar e Ela",
-      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
+      "duration_ms": 298853,
+      "name": "Magia e Mist\u00e9rio / Fui Fiel",
+      "url": "https://open.spotify.com/track/2ERvdaiyTzpfiWYRzntMg1"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "10 Anos (Ao Vivo | Deluxe)",
         "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Kaldeir\u00e3o PeB - Composi\u00e7\u00f5es (Vol. 1)",
         "url": "https://open.spotify.com/album/45tmzDjPAuIEfIoK74DDy8"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/4kBuG8k71r7tUnWqWofdCN"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Querosene e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Live In London - At The Royal Albert Hall (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/3UStHHOyFXetR5621bKJBz"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
         "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
@@ -453,27 +469,7 @@
       "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Lauana Prado",
-        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Live-M\u00f3vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
@@ -493,7 +489,27 @@
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Lauana Prado",
+        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Graveto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Mural Dos Sonhos",
         "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
@@ -529,23 +545,7 @@
       "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Flor e \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
         "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
@@ -561,7 +561,23 @@
       "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Flor e \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
@@ -593,10 +609,10 @@
       "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
-        "name": "Princesa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH"
+        "name": "PENSAMENTOS INTRUSIVOS",
+        "url": "https://open.spotify.com/album/2Iqe5EdCaswtGkjy5R7Web"
       },
       "artists": [
         {
@@ -604,16 +620,16 @@
           "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         },
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
         }
       ],
-      "duration_ms": 208917,
-      "name": "Princesa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8"
+      "duration_ms": 149903,
+      "name": "tem sentimento",
+      "url": "https://open.spotify.com/track/6xYzvSt8htoqxDI8yFeorV"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Resenha Piri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
@@ -681,7 +697,27 @@
       "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Princesa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Princesa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
@@ -701,7 +737,7 @@
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Um Novo Sonho (Deluxe)",
         "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
@@ -717,7 +753,7 @@
       "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Tchau Brigado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
@@ -773,7 +809,39 @@
       "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 214087,
+      "name": "boa mem\u00f3ria - ao vivo",
+      "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
+    },
+    {
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
@@ -793,39 +861,7 @@
       "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
     },
     {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 214087,
-      "name": "boa mem\u00f3ria - ao vivo",
-      "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
+      "added_at": "2026-11-06 13:30:23",
       "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
@@ -843,42 +879,6 @@
       "duration_ms": 162464,
       "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
       "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Decretos Reais - Lado B (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MZMUWbSinDtVuQO10QWhv"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 194378,
-      "name": "Sens\u00edvel Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/6agrXatmdga1PcztVqUJVq"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

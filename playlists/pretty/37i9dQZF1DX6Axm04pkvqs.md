@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,741 likes - 80 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,781 likes - 80 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 40 | [House of Prayer \(feat\. Jayna Cullens\)](https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T) | [Eddie James](https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq), [Jayna Cullens](https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0) | [Shift \(Awakening\)](https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz) | 7:59 |
 | 41 | [Holy Ghost \(Live\)](https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 7:08 |
 | 42 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 |
-| 43 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
-| 44 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
+| 43 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
+| 44 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
 | 45 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
 | 46 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |
 | 47 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 75 | [The King Is Here](https://open.spotify.com/track/7LZmlyEeqZMjHVRhV5RGt0) | [Embassy Worship](https://open.spotify.com/artist/4cBoYKMseEZPCZhYGtl6d4), [Psalmist Raine](https://open.spotify.com/artist/3uwJ062m79j5I0qr6U4NWY) | [Possess the Land](https://open.spotify.com/album/7qvk6ymjfvruRmR40VoXih) | 8:45 |
 | 76 | [Seek Him](https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0) | [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Seek Him](https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6) | 4:39 |
 | 77 | [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 |
-| 78 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 |
-| 79 | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9) | [Sheba osher](https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92) | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO) | 3:21 |
+| 78 | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9) | [Sheba osher](https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92) | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO) | 3:21 |
+| 79 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 |
 | 80 | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48) | 47:10 |
 
 Snapshot ID: `AAAAAGonym7n60bV0XmUxiIw3V6O5OMB`

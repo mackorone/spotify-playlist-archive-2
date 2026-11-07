@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. Los Estramb\u00f3ticos en portada.",
+  "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -332,6 +332,24 @@
       "duration_ms": 326233,
       "name": "Al\u00e1rmala de Tos (Live)",
       "url": "https://open.spotify.com/track/3A8yRKaoylbnQFqLASe95U"
+    },
+    {
+      "album": {
+        "name": "Amame",
+        "url": "https://open.spotify.com/album/71CTEB4q4PmeMAQMOplBhd"
+      },
+      "artists": [
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252805,
+      "name": "Amame",
+      "url": "https://open.spotify.com/track/3B5ZYfCLDIk0Cy8ZvYmkGe"
     },
     {
       "album": {
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 225018,
       "name": "Don`t Worry Be Happy",
       "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 198823,
       "name": "El Color de tus Ojos",
       "url": "https://open.spotify.com/track/6Cx6IG27uQ0pb4HryzN3VV"
@@ -2104,6 +2122,28 @@
       "duration_ms": 188772,
       "name": "El Mosquito",
       "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "album": {
+        "name": "El Noa Noa",
+        "url": "https://open.spotify.com/album/7xnbpk68Ce4n0mrz6Bk1ol"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        },
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/50LU52gDwAHLVRzpFiZyQ0"
     },
     {
       "album": {
@@ -2640,7 +2680,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
@@ -7212,6 +7252,24 @@
       "duration_ms": 155726,
       "name": "Somos de Aqu\u00ed y de All\u00e1",
       "url": "https://open.spotify.com/track/3rr9eyzXc0M8NuqvYZ67y8"
+    },
+    {
+      "album": {
+        "name": "Somos El Poder",
+        "url": "https://open.spotify.com/album/2csKKgxknYialip62wT5Tr"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177015,
+      "name": "Somos El Poder",
+      "url": "https://open.spotify.com/track/2scMbcsixVtq2FExIxXAMp"
     },
     {
       "album": {

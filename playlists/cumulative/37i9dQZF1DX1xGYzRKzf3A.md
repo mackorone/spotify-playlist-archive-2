@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-480 songs - 1 day 3 hr 55 min
+481 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Rolex](https://open.spotify.com/track/6FDj6jrShgkIgt6opfqCnO) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Poesías de mi Odisea](https://open.spotify.com/album/72acy3W2vjDOFAj76co0up) | 3:09 | 2025-11-09 | 2026-06-09 |
 | [Sal Y Agua](https://open.spotify.com/track/3ySiLPf1YPmIPvtxRRoXIY) | [Vallenatos De La Cumbia](https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX) | [Por El Mundo](https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx) | 3:08 | 2023-06-16 | 2025-05-11 |
 | [Satanás](https://open.spotify.com/track/1WTj5coQWGLLnn5yHSfUuR) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Fantasía Tropical 666](https://open.spotify.com/album/2zPHGcZtNe2qPWGOpBA9dv) | 3:17 | 2023-06-16 | 2024-07-03 |
+| [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 | 2026-06-08 |  |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-06-16 | 2025-11-10 |
 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 | 2023-06-16 |  |
 | [Se Nos Murió el Amor](https://open.spotify.com/track/5ijOMu6ML6oI8pOi5YedLq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Vive Cumbia](https://open.spotify.com/album/4rJYfaZvpbKxuzALlHJfhZ) | 3:38 | 2025-11-09 | 2026-06-09 |
@@ -432,7 +433,7 @@
 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 | 2023-06-16 |  |
 | [Te Ame](https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:32 | 2023-06-16 | 2024-07-03 |
 | [Te Amo](https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Bordada a Mano](https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB) | 2:55 | 2025-06-17 |  |
-| [Te Aprovechas](https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [20 Kilates 20 Éxitos](https://open.spotify.com/album/3slelG6vLz4PIyjlO4Q8su) | 3:06 | 2026-06-08 |  |
+| [Te Aprovechas](https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [20 Kilates 20 Éxitos](https://open.spotify.com/album/3slelG6vLz4PIyjlO4Q8su) | 3:06 | 2026-06-08 | 2026-11-07 |
 | [Te Están Matando los Años](https://open.spotify.com/track/3o6WfL7wMC52XvoJI6fGLE) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Vuelven los Clásicos de Balneario \(Vol\. 4\)](https://open.spotify.com/album/6EkZ3nDkAXow1mwEzBwPof) | 3:34 | 2023-11-08 | 2025-06-18 |
 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2025-06-17 | 2026-07-09 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56) | 3:13 | 2025-11-09 | 2026-06-09 |

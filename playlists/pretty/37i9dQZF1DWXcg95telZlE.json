@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 544413,
+  "num_followers": 544559,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+      "duration_ms": 147880,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 147880,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Born to Late",
         "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 139000,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "C'est Si Bon",
         "url": "https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 206826,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/5IIybI1oiOCY3DRUrpQ7zA"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Very Best of the Spaniels",
         "url": "https://open.spotify.com/album/1EmuK9fr4cSt3hys4l1Uha"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 160373,
       "name": "Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",
       "url": "https://open.spotify.com/track/50meIWPMuhYgQSXfSsUvtI"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 196920,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+        "name": "Since I Don't Have You",
+        "url": "https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
         }
       ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
+      "duration_ms": 160573,
+      "name": "Since I Don't Have You",
+      "url": "https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Since I Don't Have You",
-        "url": "https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
       },
       "artists": [
         {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD"
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Backline Volume 57",
         "url": "https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 183573,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
     }
   ],
   "unique_name": "Soft 50s",

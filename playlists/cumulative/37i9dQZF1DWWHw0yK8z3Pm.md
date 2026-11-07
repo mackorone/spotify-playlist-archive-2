@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Rayland Baxter
+> Fearless sounds at the crossroads of country and folk\. Cover: The Dead South
 
-796 songs - 2 day 0 hr 17 min
+798 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Burn Away](https://open.spotify.com/track/2f4e4a0ddIZ91CJ8ESjoV7) | [Cal Buckley](https://open.spotify.com/artist/18xvkpqAKICbkw8MvRecqQ) | [Burn Away](https://open.spotify.com/album/0vbjTFTkiPJSaJBeSCumJF) | 3:03 | 2025-10-06 | 2026-01-18 |
 | [Burn Me Once \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:20 | 2023-12-08 | 2025-10-18 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2023-08-04 | 2025-10-18 |
+| [Butter My Lover](https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Butter My Lover](https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie) | 3:05 | 2026-11-06 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-04-21 | 2024-06-08 |
 | [C'mon Let's Go](https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Country](https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf) | 5:06 | 2024-04-19 | 2024-05-11 |
 | [Cahokia](https://open.spotify.com/track/4X2YGP2EomALNCQbOdzYx2) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Cahokia](https://open.spotify.com/album/6XlIY7UOhFEnkvRq2f798h) | 4:32 | 2026-08-28 | 2026-11-02 |
@@ -448,6 +449,7 @@
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
 | [Lover I'm Gonna Miss You](https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [May Erlewine](https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW) | [Lover I'm Gonna Miss You](https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF) | 3:51 | 2026-03-06 | 2026-04-14 |
+| [Lovers](https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Lovers](https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi) | 4:22 | 2026-11-06 |  |
 | [Loving You Like That](https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Loving You Like That](https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH) | 4:25 | 2026-08-14 |  |
 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 | 2024-01-05 | 2024-06-08 |
 | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-25 | 2026-10-03 |
@@ -645,7 +647,7 @@
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 | 2025-10-18 |
 | [Something In The Way](https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Something In The Way](https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy) | 5:02 | 2025-08-22 |  |
 | [South Dakota Wild One](https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [Ways & Means](https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94) | 3:23 | 2023-04-21 | 2024-05-24 |
-| [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 | 2024-07-26 |  |
+| [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 | 2024-07-26 | 2026-11-07 |
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 | 2023-04-22 |
 | [Space and Time](https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:42 | 2023-09-08 | 2025-10-18 |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2022-07-22 | 2023-08-26 |
@@ -747,7 +749,7 @@
 | [War Cry](https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [War Cry](https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8) | 1:35 | 2024-10-25 | 2025-11-07 |
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 | 2023-04-22 |
 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 | 2023-04-21 | 2025-10-18 |
-| [We Both Care](https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [We Both Care](https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe) | 3:37 | 2026-10-16 |  |
+| [We Both Care](https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [We Both Care](https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe) | 3:37 | 2026-10-16 | 2026-11-07 |
 | [we could use a little more](https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [we could use a little more](https://open.spotify.com/album/4OoBAByMLtXKP2J1wjf89f) | 3:32 | 2026-03-20 | 2026-05-09 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |

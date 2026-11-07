@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2934062,
+  "num_followers": 2934017,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAAAIjaWubQwvRKdzzGOQfq/C",
+  "snapshot_id": "auvHAAAAAACOC8D9Toz7fh44Ncyr2Skl",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 78680,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riot",
-        "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 78680,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 129720,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "vice city",
         "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 220708,
       "name": "vice city",
       "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 129720,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Looking for a Star",
-      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 108034,
       "name": "Guardian angel",
       "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "Looking for a Star",
+      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 76973,
       "name": "difference (interlude)",
       "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo"
     },
     {
       "added_at": null,

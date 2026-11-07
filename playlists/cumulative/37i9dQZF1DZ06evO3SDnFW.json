@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "You Can\u2019t Always Get What You Want",
+        "url": "https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209457,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY"
+    },
+    {
+      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },

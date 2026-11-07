@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 74916,
+  "num_followers": 74921,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABtHNRjyJYHyACTrHdrAGSr",
+  "snapshot_id": "aup1gAAAAABZkVkQFJxwWVibhVFKeG91",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 232773,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/6AvVOWpkcjSQQ11jB6BFQH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
     },
     {
       "added_at": null,
@@ -731,18 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+      "duration_ms": 252600,
+      "name": "La Ra\u00edz de Mi Tierra",
+      "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
     },
     {
       "added_at": null,
@@ -767,26 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 252600,
-      "name": "La Ra\u00edz de Mi Tierra",
-      "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cantina",
         "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     }
   ],
   "unique_name": "This Is Lila Downs",

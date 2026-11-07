@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5kf41Q0Se9CfPBlTLmt5Kc"
+      },
+      "artists": [
+        {
+          "name": "Davis Cook",
+          "url": "https://open.spotify.com/artist/5mriuNvLdhgaCHSg5dC3mF"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163482,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0aJOtADXFfjUWYnPnMFNyo"
+    },
+    {
+      "album": {
         "name": "Everything You Hate",
         "url": "https://open.spotify.com/album/2jfJpru4kTLGk6Yj827us9"
       },

@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/28uSS7PuTrqM943jMsbzHr"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        },
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172246,
+      "name": "10,000 Flowers",
+      "url": "https://open.spotify.com/track/49lEbksmIPM7wTCmMO87my"
+    },
+    {
+      "album": {
         "name": "125",
         "url": "https://open.spotify.com/album/2uiWJVUb0qpKUbqXU4cMig"
       },
@@ -1656,6 +1678,28 @@
       "duration_ms": 231232,
       "name": "Aurora - Justin Hawkes Remix",
       "url": "https://open.spotify.com/track/1D3aOZY8DLQ5faOuMAgW30"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/1uBLxl7S1C1qFycJZN8yhT"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Rakjay",
+          "url": "https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/53oWYKd4JECrSqgp0ZLK7z"
     },
     {
       "album": {
@@ -4464,6 +4508,28 @@
       "duration_ms": 180409,
       "name": "CAVE (with Tove Lo)",
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+    },
+    {
+      "album": {
+        "name": "CAVITIES",
+        "url": "https://open.spotify.com/album/2WCAzIt1R3aqCeKqwwPFZC"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "CAVITIES",
+      "url": "https://open.spotify.com/track/2Bbpq1foFri3qn8KkQSPq2"
     },
     {
       "album": {
@@ -10159,6 +10225,28 @@
     },
     {
       "album": {
+        "name": "Forget Your Name",
+        "url": "https://open.spotify.com/album/6JLsJAAlF3kdAMwqkCpqxj"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Forget Your Name",
+      "url": "https://open.spotify.com/track/0fQsJwl7nuBdAzfTzlPfgF"
+    },
+    {
+      "album": {
         "name": "Forte",
         "url": "https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz"
       },
@@ -11470,7 +11558,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 155493,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4DB3WKwPy7POy94JYZ5Jrs"
@@ -11586,7 +11674,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 157741,
       "name": "GUNMAN",
       "url": "https://open.spotify.com/track/3neNtifqx7HaNP5gmUQpiL"
@@ -13978,7 +14066,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 180339,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/3jfBMg8uje6vAYTxdK0Jqt"
@@ -14186,6 +14274,24 @@
       "duration_ms": 239441,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
+    },
+    {
+      "album": {
+        "name": "In Ur Arms",
+        "url": "https://open.spotify.com/album/2B7DSd0aBnpPBiiEECDIgm"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224349,
+      "name": "In Ur Arms",
+      "url": "https://open.spotify.com/track/68SGA10js9ZvDIDQb3YsLU"
     },
     {
       "album": {
@@ -17687,6 +17793,28 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Ceebo",
+          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Alts)",
         "url": "https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828"
       },
@@ -18002,7 +18130,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 147826,
       "name": "Mind",
       "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
@@ -18718,7 +18846,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 168000,
       "name": "NEEDU2NEEDME",
       "url": "https://open.spotify.com/track/5qtU96Z2JVHIvU0fLMiNE3"
@@ -21660,7 +21788,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 257926,
       "name": "PUNCH",
       "url": "https://open.spotify.com/track/7gZss68Fd1NkvrQ1EfuJED"
@@ -25300,7 +25428,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 246857,
       "name": "SOLD MY SOUL (Visages Remix)",
       "url": "https://open.spotify.com/track/15hsxVP6IPOAmwak6xkCEI"
@@ -30240,7 +30368,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218651,
       "name": "WAITING FOR YOU",
       "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
@@ -30925,6 +31053,32 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/2RBO7mIvZAUXR7OeSRoze3"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        },
+        {
+          "name": "aura aura",
+          "url": "https://open.spotify.com/artist/2ZHtL8b72qNmJDikUyaxTc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3igNT4yc9j0clzejHU2c8d"
+    },
+    {
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI"
       },
@@ -31236,6 +31390,24 @@
       "duration_ms": 181231,
       "name": "what is life?",
       "url": "https://open.spotify.com/track/4nBTt4n122lScgQwHzKVCV"
+    },
+    {
+      "album": {
+        "name": "STORM STRIKE",
+        "url": "https://open.spotify.com/album/3HWE08vnCQAfnqayVBK3wg"
+      },
+      "artists": [
+        {
+          "name": "Fresh Stuff",
+          "url": "https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "What U Did",
+      "url": "https://open.spotify.com/track/4bvBabUxo2KCSxkjjzEPk0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 121533,
+  "num_followers": 121557,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
+        "name": "Tell 'Em Why",
+        "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "duration_ms": 166989,
+      "name": "Tell 'Em Why",
+      "url": "https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj"
+    },
+    {
+      "added_at": "2026-08-28 04:01:54",
+      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 221573,
       "name": "Bottoms Up - Remix",
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
-    },
-    {
-      "added_at": "2026-08-28 04:01:54",
-      "album": {
-        "name": "Tell 'Em Why",
-        "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 166989,
-      "name": "Tell 'Em Why",
-      "url": "https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj"
     },
     {
       "added_at": "2026-08-28 04:01:54",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
-        "name": "The Devil Don't Sleep",
-        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 187760,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2026-08-28 04:01:54",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "The Devil Don't Sleep",
+        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 187760,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
     },
     {
       "added_at": "2026-08-28 04:01:54",

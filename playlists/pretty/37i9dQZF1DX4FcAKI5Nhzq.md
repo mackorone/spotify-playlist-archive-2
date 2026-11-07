@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: TWS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,341 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,323 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 32 | [Please Summer!](https://open.spotify.com/track/2D5IrHXQhnltOsi0gE9YqV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Please Summer!](https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG) | 3:49 |
 | 33 | [love me not \(feat\. Wonstein\)](https://open.spotify.com/track/5wwLEmOTkShwvkzu621069) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [love me not \(feat\. Wonstein\)](https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos) | 2:30 |
 | 34 | [CHERRY PIE](https://open.spotify.com/track/233xgksBgzpEwH9tKiAzz9) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [CHERRY PIE](https://open.spotify.com/album/6r9J12vrlqV47LJcXlYgi2) | 2:37 |
-| 35 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
+| 35 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:47 |
 | 36 | [Stay With Me](https://open.spotify.com/track/21xVKf7NUrDgdTYOUzccLb) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Spooky in Love, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6xIxTlvItWujotSChL0V7K) | 3:20 |
 | 37 | [세상에 뿌려진 사랑만큼](https://open.spotify.com/track/7E6tf3BZ4WlooNJDkuwr8L) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [사랑이 온다 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/0FbqeBZdnrQGdxbAkfmN5A) | 4:08 |
 | 38 | [Born Stunner](https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Born Stunner>](https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh) | 2:30 |

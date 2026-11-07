@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,438 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,454 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 53 | [Disfruto](https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Sindicato Del Ritmo](https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX) | 4:10 |
 | 54 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 55 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
-| 56 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
-| 57 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
+| 56 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
+| 57 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
 | 58 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
 | 59 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
 | 60 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 69 | [Justo Así](https://open.spotify.com/track/2pRtM6i9NqT8I02Tyhexpr) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Las Canciones Más Hermosas Son para Ti](https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C) | 2:23 |
 | 70 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 |
 | 71 | [Te Vi Partir](https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Te Vi Partir](https://open.spotify.com/album/6sRBpHJRwbwEEN8LceDyX9) | 3:10 |
-| 72 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
-| 73 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
+| 72 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
+| 73 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
 | 74 | [Cuenta Regresiva](https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Cuenta Regresiva](https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL) | 3:13 |
 | 75 | [Se Me Olvidó](https://open.spotify.com/track/0pLAITuQmy20vFVydGtt6O) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:47 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Basinga Basinga Balaaleee!",
-  "num_followers": 695320,
+  "num_followers": 695764,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEEZPDXv+mZZOXH6gtWpFMkxsC8D",
+  "snapshot_id": "AAAAAGBgiPkWtzWbRZp+2dJh4XQYqCIS",
   "tracks": [
     {
       "added_at": "2026-09-22 11:32:42",
@@ -77,20 +77,104 @@
       "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
     },
     {
-      "added_at": "2026-11-02 13:05:50",
+      "added_at": "2026-11-06 17:59:19",
       "album": {
-        "name": "Ninne Pelladatha",
-        "url": "https://open.spotify.com/album/541GRaOEn6UBptC1WlX8E1"
+        "name": "Dorothy (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7wm83yZgkOEpkHhEsiAKTq"
       },
       "artists": [
         {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Yeto Vellipoyindi",
-      "url": "https://open.spotify.com/track/0pFU6YAwMxz6w4z51oMUI3"
+      "duration_ms": 299333,
+      "name": "Muthyapu Ginjalu",
+      "url": "https://open.spotify.com/track/31WUtPxby1BK1RCWftWaRc"
+    },
+    {
+      "added_at": "2026-09-22 11:32:42",
+      "album": {
+        "name": "Singari [From \"Dude (Telugu)\"]",
+        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
+    },
+    {
+      "added_at": "2026-11-06 18:02:03",
+      "album": {
+        "name": "Bangula",
+        "url": "https://open.spotify.com/album/7mWQAQn4dw3ibaxtftbUvp"
+      },
+      "artists": [
+        {
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Bangula",
+      "url": "https://open.spotify.com/track/0wpOd4w1bNa7hjk1OpgqET"
+    },
+    {
+      "added_at": "2026-11-06 17:59:19",
+      "album": {
+        "name": "Binde Meeda Bindhe Vetti (Dj Song)",
+        "url": "https://open.spotify.com/album/2YwNArW56u6bPT7cBHRcAR"
+      },
+      "artists": [
+        {
+          "name": "Srinidhi Nerella",
+          "url": "https://open.spotify.com/artist/1m9l2bsj6oYndpc8LF4lUn"
+        },
+        {
+          "name": "Nagavva chunchu",
+          "url": "https://open.spotify.com/artist/6IlysKkSufCASwFwGTApJB"
+        }
+      ],
+      "duration_ms": 197769,
+      "name": "Binde Meeda Bindhe Vetti - Dj Song",
+      "url": "https://open.spotify.com/track/5nVgd5Nqf4Cw7sk7ywO3ID"
+    },
+    {
+      "added_at": "2026-11-03 09:35:09",
+      "album": {
+        "name": "Jim Jim Tara (From \"Parnashala\")",
+        "url": "https://open.spotify.com/album/1uZEwgQKdPteNOK9aHtH5c"
+      },
+      "artists": [
+        {
+          "name": "Vinay Sasidhar",
+          "url": "https://open.spotify.com/artist/0fqX1tl6Cu4BPK0oiY5IcB"
+        },
+        {
+          "name": "Gokula Lakshmi Devi",
+          "url": "https://open.spotify.com/artist/18C26zSSOv5hAHbWeX5TSn"
+        }
+      ],
+      "duration_ms": 174771,
+      "name": "Jim Jim Tara (From \"Parnashala\")",
+      "url": "https://open.spotify.com/track/1kMM3S1fiekhwI0NnBuf5C"
     },
     {
       "added_at": "2026-09-02 08:41:33",
@@ -117,10 +201,10 @@
       "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
     },
     {
-      "added_at": "2026-09-22 11:32:42",
+      "added_at": "2026-11-03 09:35:09",
       "album": {
-        "name": "Singari [From \"Dude (Telugu)\"]",
-        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
+        "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
+        "url": "https://open.spotify.com/album/0kI1K8IHdTzxzXgbqAv5Oo"
       },
       "artists": [
         {
@@ -128,13 +212,17 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Singari - From \"Dude (Telugu)\"",
-      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
+      "duration_ms": 236081,
+      "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
+      "url": "https://open.spotify.com/track/49lNkTFmQPV69oiogQgGlI"
     },
     {
       "added_at": "2026-11-03 09:35:09",
@@ -177,82 +265,10 @@
       "url": "https://open.spotify.com/track/1biH2ZQQwNHHDkvZEmCjNS"
     },
     {
-      "added_at": "2026-10-22 11:03:39",
+      "added_at": "2026-11-06 17:59:19",
       "album": {
-        "name": "Maala (From \"Aadarsha Kutumbam - AK47\")",
-        "url": "https://open.spotify.com/album/4v8it27k9bwWkaSX8PEOhq"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 244123,
-      "name": "Maala (From \"Aadarsha Kutumbam - AK47\")",
-      "url": "https://open.spotify.com/track/0DmjjMsET99g6DktU25Y9u"
-    },
-    {
-      "added_at": "2026-11-03 09:35:09",
-      "album": {
-        "name": "Jim Jim Tara (From \"Parnashala\")",
-        "url": "https://open.spotify.com/album/1uZEwgQKdPteNOK9aHtH5c"
-      },
-      "artists": [
-        {
-          "name": "Vinay Sasidhar",
-          "url": "https://open.spotify.com/artist/0fqX1tl6Cu4BPK0oiY5IcB"
-        },
-        {
-          "name": "Gokula Lakshmi Devi",
-          "url": "https://open.spotify.com/artist/18C26zSSOv5hAHbWeX5TSn"
-        }
-      ],
-      "duration_ms": 174771,
-      "name": "Jim Jim Tara (From \"Parnashala\")",
-      "url": "https://open.spotify.com/track/1kMM3S1fiekhwI0NnBuf5C"
-    },
-    {
-      "added_at": "2026-11-03 09:35:09",
-      "album": {
-        "name": "Bhaja Govindam (From \"Reality\")",
-        "url": "https://open.spotify.com/album/0rV7whKU9DJsKa0p6nfMYU"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
-        },
-        {
-          "name": "Sanare",
-          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
-        }
-      ],
-      "duration_ms": 172978,
-      "name": "Bhaja Govindam (From \"Reality\")",
-      "url": "https://open.spotify.com/track/5NfvFbrm8whp2386MmyYpK"
-    },
-    {
-      "added_at": "2026-11-03 09:35:09",
-      "album": {
-        "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
-        "url": "https://open.spotify.com/album/0kI1K8IHdTzxzXgbqAv5Oo"
+        "name": "Boom Boom [From \"Dude (Telugu)\"]",
+        "url": "https://open.spotify.com/album/1dzO7HhLbZEGRYuvNrJGvB"
       },
       "artists": [
         {
@@ -260,17 +276,65 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+          "name": "Bhumi",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
         },
         {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Sanapati Bharadwaj Patrudu",
+          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
         }
       ],
-      "duration_ms": 236081,
-      "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
-      "url": "https://open.spotify.com/track/49lNkTFmQPV69oiogQgGlI"
+      "duration_ms": 240032,
+      "name": "Boom Boom - From \"Dude (Telugu)\"",
+      "url": "https://open.spotify.com/track/1AEqas5WNUEEquskAuswn3"
+    },
+    {
+      "added_at": "2026-11-06 17:59:19",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/1OvVwAKJtoUrpumzZfUDYz"
+      },
+      "artists": [
+        {
+          "name": "Shakthikanth Karthick",
+          "url": "https://open.spotify.com/artist/6riFF3Iw8FPGnfzPcIVDmr"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 273181,
+      "name": "Oosupodu",
+      "url": "https://open.spotify.com/track/6pG9X3nTo02BbtPXfOkd3u"
+    },
+    {
+      "added_at": "2026-11-06 17:59:19",
+      "album": {
+        "name": "Ruku Ruku Rukmini (From \"Alias Rukmini\")",
+        "url": "https://open.spotify.com/album/11bNVzRRkaes7vnCYqDMLC"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "duration_ms": 227569,
+      "name": "Ruku Ruku Rukmini (From \"Alias Rukmini\")",
+      "url": "https://open.spotify.com/track/1I1MMjsWoJG82rwvy9RbZr"
     },
     {
       "added_at": "2026-02-25 10:32:25",
@@ -323,90 +387,6 @@
       "duration_ms": 228048,
       "name": "Hellallallo (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
-    },
-    {
-      "added_at": "2026-10-22 11:03:39",
-      "album": {
-        "name": "Prati Roju Pandaage",
-        "url": "https://open.spotify.com/album/1tAj9gHVXoISeDQlZHFYQU"
-      },
-      "artists": [
-        {
-          "name": "Hari Teja",
-          "url": "https://open.spotify.com/artist/2Y1QISfKRP3jhGGACnzKzB"
-        },
-        {
-          "name": "Satya Yamini",
-          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 238806,
-      "name": "Oo Baava",
-      "url": "https://open.spotify.com/track/34cDx0tWoQNFL4HY2yVsxf"
-    },
-    {
-      "added_at": "2026-09-16 11:10:28",
-      "album": {
-        "name": "Mirapakay",
-        "url": "https://open.spotify.com/album/380smKj84hUe7VrSC6oSyl"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 284782,
-      "name": "Dhinaku Dhin Jiya",
-      "url": "https://open.spotify.com/track/1QpG2abn4lfZUYWiBrxMYU"
-    },
-    {
-      "added_at": "2026-10-22 11:03:39",
-      "album": {
-        "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
-        "url": "https://open.spotify.com/album/3xN4ol2Gbu9D1AeVA8ewib"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
-      "url": "https://open.spotify.com/track/4vUyAxDYK5ZdpHNU2gh3HI"
     },
     {
       "added_at": "2026-10-16 06:25:10",

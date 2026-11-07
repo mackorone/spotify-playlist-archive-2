@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-460 songs - 1 day 2 hr 33 min
+461 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Not Drinking Anymore](https://open.spotify.com/track/4oiNNzI9HIylMF43MpJidg) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Not Drinking Anymore](https://open.spotify.com/album/5OaWbqgtoNMDubbCYnkUuU) | 4:06 | 2026-02-13 | 2026-03-28 |
 | [nothing but air](https://open.spotify.com/track/0mgZnJzLIMsRL0di2TrPiM) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [nothing but air](https://open.spotify.com/album/3sppZ5tEw0ztbiD9jLIRtM) | 3:52 | 2025-12-11 | 2026-02-14 |
 | [NWANNE](https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [TV DREAMS](https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD) | 4:09 | 2025-08-15 | 2025-10-14 |
+| [Nyana Ka Maria](https://open.spotify.com/track/3dOITBtVd1MuoTvh8NNluh) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Ipasi \(Deluxe\)](https://open.spotify.com/album/2ZJQF9AldQ1TK2WqeDQUxx) | 4:20 | 2026-11-06 |  |
 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 | 2024-02-23 |  |
 | [Ocean Blue](https://open.spotify.com/track/2X6pF8CDfXxYmgzPJqqOLY) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Ocean Blue](https://open.spotify.com/album/3AVr9YPktzwJVjTFoBJpVL) | 3:05 | 2025-08-28 | 2025-12-12 |
 | [Oceans](https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6) | [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Oceans](https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq) | 3:19 | 2025-08-28 | 2025-09-20 |
@@ -302,7 +303,7 @@
 | [PETER AND JESUS](https://open.spotify.com/track/0fyEtqKrSAAoSO0isqyFc4) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [PETER AND JESUS](https://open.spotify.com/album/0KSx0TO3RHggizzeLtDagf) | 2:07 | 2025-08-28 | 2026-01-04 |
 | [Polished Masks](https://open.spotify.com/track/4ost2G6dIe7SQpbPrqSDOh) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [TWO II](https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83) | 3:38 | 2023-06-16 | 2024-03-29 |
 | [Porcelain Moon](https://open.spotify.com/track/1pnvK9r4V8ktJC9jFagiZs) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Porcelain Moon](https://open.spotify.com/album/3lYjJhcfPkusexhUBcUA6P) | 3:59 | 2025-09-19 | 2025-12-05 |
-| [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 | 2026-02-26 |  |
+| [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 | 2026-02-26 | 2026-11-07 |
 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 | 2026-02-13 |  |
 | [PRAY](https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [PRAY](https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB) | 2:45 | 2024-03-15 | 2025-05-16 |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 | 2024-02-02 |

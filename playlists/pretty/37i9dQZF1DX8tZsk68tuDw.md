@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,806,980 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,806,755 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 19 | [Gimme A Beat](https://open.spotify.com/track/4guJccRQ3OYLW9MU88h434) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Gimme A Beat](https://open.spotify.com/album/0sftpsszaUp9L2EP3THRjP) | 3:03 |
 | 20 | [Back To The Start](https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Did It](https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au) | 3:12 |
 | 21 | [Moaning](https://open.spotify.com/track/4LNrbE2jNLlvzIeCmEmklg) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Moaning](https://open.spotify.com/album/5btxgzMmAjCueii6ZtT2R8) | 3:12 |
-| 22 | [So Fly](https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [So Fly](https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A) | 2:06 |
+| 22 | [So Fly \(feat\. Riton\)](https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [So Fly \(feat\. Riton\)](https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A) | 2:06 |
 | 23 | [When We're Dancing](https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [When We're Dancing](https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx) | 3:25 |
 | 24 | [Out of Sight, Out of Mind](https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ) | 3:03 |
 | 25 | [Disappear \(feat\. Sissa\)](https://open.spotify.com/track/219b8va1KpTSrCxI7djbDF) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Sissa](https://open.spotify.com/artist/4bP00ULIcJnMrt76uXWnGY) | [Disappear \(feat\. Sissa\)](https://open.spotify.com/album/66yalpzTWCGkwHUYBK36zZ) | 3:08 |

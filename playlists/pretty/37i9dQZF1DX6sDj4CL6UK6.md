@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,301 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,309 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 42 | [Symmetries](https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Symmetries](https://open.spotify.com/album/2qVKoJDlyCSpPh90SB5HEK) | 3:35 |
 | 43 | [The Other Side](https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [The Other Side](https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG) | 3:20 |
 | 44 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 |
-| 45 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
-| 46 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
+| 45 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
+| 46 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
 | 47 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
 | 48 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
 | 49 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |

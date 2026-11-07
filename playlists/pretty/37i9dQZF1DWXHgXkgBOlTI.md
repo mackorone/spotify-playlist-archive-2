@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,629 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,638 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 40 | [What's Going On](https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa) | [本田竹曠](https://open.spotify.com/artist/4s7Fk4GSE20zLzyTq05gUo), [今村裕司](https://open.spotify.com/artist/6wM0OcxPKVdZmVpnpMs91g) | [What's Going On](https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y) | 4:41 |
 | 41 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
 | 42 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
-| 43 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
-| 44 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
+| 43 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
+| 44 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
 | 45 | [Cross View \- from "UNTITLED" 2026 Take](https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Cross View \(from "UNTITLED" 2026 Take\)](https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U) | 4:46 |
 | 46 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 | 47 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
-| 48 | [Six As One](https://open.spotify.com/track/1eZPE692vJ6f6QSXIxBk0j) | [TRUE VACANCES](https://open.spotify.com/artist/3qv4DY6NavWy8kQH3Jmngn) | [Six As One](https://open.spotify.com/album/7BjLEOtf0fPrC0ELeM0UJW) | 3:32 |
-| 49 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
+| 48 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
+| 49 | [Six As One](https://open.spotify.com/track/1eZPE692vJ6f6QSXIxBk0j) | [TRUE VACANCES](https://open.spotify.com/artist/3qv4DY6NavWy8kQH3Jmngn) | [Six As One](https://open.spotify.com/album/7BjLEOtf0fPrC0ELeM0UJW) | 3:32 |
 | 50 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 
 Snapshot ID: `AAAAAEkdHk77uhIcZLYFcq26RA8QLNUJ`

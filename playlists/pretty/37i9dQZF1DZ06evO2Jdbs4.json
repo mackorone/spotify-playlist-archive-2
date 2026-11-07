@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 33605,
+  "num_followers": 33818,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADEhpxrleBXbJagEHlWl5c3",
+  "snapshot_id": "auvHAAAAAAD9ebbSL1gue/fMZvDRXtAL",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "url": "https://open.spotify.com/album/61FdszsvhMuHPpzz6T3v58"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 189440,
+      "duration_ms": 191826,
       "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
+      "url": "https://open.spotify.com/track/0CCzxwSQZcI1qEyhxm5iI7"
     },
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
       "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Separarnos",
-      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/0QB1e0Kp9vJZrCwp6GAI6B"
     },
     {
       "added_at": null,
@@ -227,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
       "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/0QB1e0Kp9vJZrCwp6GAI6B"
+      "duration_ms": 178920,
+      "name": "Separarnos",
+      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
     },
     {
       "added_at": null,
@@ -255,6 +255,54 @@
       "duration_ms": 254440,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Montame",
+        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "M\u00f3ntame",
+      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
     },
     {
       "added_at": null,
@@ -279,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Montame",
-        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
+        "name": "En Vivo Desde Las Vegas",
+        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
       },
       "artists": [
         {
@@ -288,61 +336,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 204026,
-      "name": "M\u00f3ntame",
-      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
-      },
-      "artists": [
-        {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Las Vegas",
-        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
       "artists": [
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
+      "duration_ms": 217129,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
@@ -492,25 +492,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Un Golpe De Suerte",
-      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
     },
     {
       "added_at": null,
@@ -527,22 +511,6 @@
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
     },
     {
       "added_at": null,
@@ -567,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
-        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Guardianes Del Amor De Arturo Rodriguez",
-          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
         }
       ],
-      "duration_ms": 216345,
-      "name": "Amor Se Escribe Con Llanto - En Vivo",
-      "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+      "duration_ms": 236466,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
     },
     {
       "added_at": null,
@@ -607,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando En Ti",
-        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/61FdszsvhMuHPpzz6T3v58"
       },
       "artists": [
         {
@@ -616,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 211706,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
+      "duration_ms": 206906,
+      "name": "Un Golpe De Suerte",
+      "url": "https://open.spotify.com/track/5uZwoQBisgDx8DgfRZDiuL"
     },
     {
       "added_at": null,
@@ -643,6 +607,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
+        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+        }
+      ],
+      "duration_ms": 216345,
+      "name": "Amor Se Escribe Con Llanto - En Vivo",
+      "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00edas de Ayer",
         "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Siempre Pensando En Ti",
+        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y"
+      "duration_ms": 211706,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
     },
     {
       "added_at": null,
@@ -715,6 +715,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
+        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
+      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Cuando Me Dejes De Amar",
+      "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -743,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
-        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
@@ -752,13 +788,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
-      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+      "duration_ms": 194874,
+      "name": "Separarnos - En Vivo",
+      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
     },
     {
       "added_at": null,
@@ -779,78 +815,6 @@
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
-      },
-      "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Cuando Me Dejes De Amar",
-      "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "Separarnos - En Vivo",
-      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
     },
     {
       "added_at": null,
@@ -876,7 +840,7 @@
       "added_at": null,
       "album": {
         "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "url": "https://open.spotify.com/album/61FdszsvhMuHPpzz6T3v58"
       },
       "artists": [
         {
@@ -884,9 +848,45 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
+      "duration_ms": 239733,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/7zovfxjmPrGXgU85dTvqdA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+      },
+      "artists": [
+        {
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 194021,
+      "name": "Si No Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

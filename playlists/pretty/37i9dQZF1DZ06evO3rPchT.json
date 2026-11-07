@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 89028,
+  "num_followers": 89041,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAABOtYTjnioi2wdrChcYwJTv",
+  "snapshot_id": "auvHAAAAAAAB3o+loP+XV0gXKMEFNsru",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238496,
+      "name": "Come Back As A Redneck (feat. HARDY)",
+      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238496,
-      "name": "Come Back As A Redneck (feat. HARDY)",
-      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
     },
     {
       "added_at": null,
@@ -315,22 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Women",
-        "url": "https://open.spotify.com/album/4FoXl09p5HGAdf9UdTCo67"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 171789,
-      "name": "All My Women",
-      "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
+      "duration_ms": 195326,
+      "name": "In The Bible",
+      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
     },
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+        "name": "All My Women",
+        "url": "https://open.spotify.com/album/4FoXl09p5HGAdf9UdTCo67"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible",
-      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
+      "duration_ms": 171789,
+      "name": "All My Women",
+      "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 218718,
       "name": "TRUCK",
       "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,
@@ -555,6 +555,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Shiflett",
+          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
+        }
+      ],
+      "duration_ms": 189153,
+      "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
+      "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
@@ -591,34 +619,6 @@
       "duration_ms": 272712,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Chris Shiflett",
-          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
-        }
-      ],
-      "duration_ms": 189153,
-      "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
-      "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/6mgte0B9tIUdIKAtzVrUXf"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 227830,
+      "name": "Hell (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/1nJMxZnnD8haVM4LdUnbI8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -696,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 217270,
-      "name": "Take The Country And Run",
-      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
+      "duration_ms": 204910,
+      "name": "Country In Me",
+      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
     },
     {
       "added_at": null,
@@ -764,29 +784,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 204910,
-      "name": "Country In Me",
-      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sides",
-        "url": "https://open.spotify.com/album/6mgte0B9tIUdIKAtzVrUXf"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 227830,
-      "name": "Hell (feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/1nJMxZnnD8haVM4LdUnbI8"
+      "duration_ms": 217270,
+      "name": "Take The Country And Run",
+      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/6mgte0B9tIUdIKAtzVrUXf"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 207198,
+      "name": "King Of The Hill",
+      "url": "https://open.spotify.com/track/6GOI97KYsgdbxky3VvD3yp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
@@ -835,6 +851,22 @@
       "duration_ms": 238030,
       "name": "Country Country",
       "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 203674,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
     },
     {
       "added_at": null,
@@ -867,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 203674,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -911,34 +927,6 @@
       "duration_ms": 179645,
       "name": "Luckiest Man Alive",
       "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Something A Lil' Stronger (HARDY feat. Mitchell Tenpenny, Jon Langston)",
-      "url": "https://open.spotify.com/track/4OEJLmKZYopHZIJ121oWLv"
     },
     {
       "added_at": null,

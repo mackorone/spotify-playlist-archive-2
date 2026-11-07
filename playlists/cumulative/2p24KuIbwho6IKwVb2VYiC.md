@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: TyriqueOrDie
 
-435 songs - 22 hr 37 min
+436 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 | 2024-10-25 | 2026-06-06 |
 | [Ave Maria](https://open.spotify.com/track/7qvpvsGfQmNoJrIqu5UzbP) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t) | [Ave Maria](https://open.spotify.com/album/3ZaVNrw2b4IfEfCyF7uSMC) | 2:49 | 2023-11-17 | 2024-02-27 |
 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 | 2025-05-30 | 2026-06-06 |
+| [Back To Me](https://open.spotify.com/track/5827H06h5sSvil7BDsuKjk) | [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Back To Me](https://open.spotify.com/album/22IXMd2pjHvkJLjpagTBV7) | 2:57 | 2026-11-06 |  |
 | [Background Noise](https://open.spotify.com/track/3zeuhnui45bIw0rZCCZuTu) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Background Noise](https://open.spotify.com/album/1odNMIiB2KXSD0ZbE9SsAY) | 2:57 | 2023-11-10 | 2024-05-04 |
 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 | 2025-03-28 | 2025-06-07 |
 | [Bass Dhol](https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Bass Dhol](https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu) | 3:38 | 2026-02-13 |  |

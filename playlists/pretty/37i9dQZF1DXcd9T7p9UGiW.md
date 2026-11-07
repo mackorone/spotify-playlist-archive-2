@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,205 likes - 72 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,209 likes - 72 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pray](https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Pray](https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP) | 3:56 |
 | 2 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:30 |
-| 3 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/album/3AMytGAfYyeuhPdR9iWRhb) | 2:51 |
+| 3 | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Aloe Vera \(feat\. Asake\)](https://open.spotify.com/album/3AMytGAfYyeuhPdR9iWRhb) | 2:51 |
 | 4 | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X) | 2:39 |
 | 5 | [Voodoo](https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz) | [Chisway](https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [斯丹曼簇](https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9) | [Voodoo](https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P) | 3:11 |
 | 6 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |

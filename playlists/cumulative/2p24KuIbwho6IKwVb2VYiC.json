@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/22IXMd2pjHvkJLjpagTBV7"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8R",
+          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
+        },
+        {
+          "name": "XYSM",
+          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5827H06h5sSvil7BDsuKjk"
+    },
+    {
+      "album": {
         "name": "Background Noise",
         "url": "https://open.spotify.com/album/1odNMIiB2KXSD0ZbE9SsAY"
       },

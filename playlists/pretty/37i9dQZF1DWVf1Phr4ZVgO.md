@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,968 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,091 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 62 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
 | 63 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 64 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |
-| 65 | [What A Difference A Day Made](https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B) | 5:09 |
-| 66 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
+| 65 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
+| 66 | [What A Difference A Day Made](https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B) | 5:09 |
 | 67 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
 | 68 | [Stormy Weather](https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:10 |
 | 69 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 |

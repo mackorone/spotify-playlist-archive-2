@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,719 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 18 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 19 | [Vertigo](https://open.spotify.com/track/6etXgNf9H0d1FMb0U823yO) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 2:58 |
 | 20 | [Pretending](https://open.spotify.com/track/1XFxLlYuWdebo6hgczaVDu) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:35 |
-| 21 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 22 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 |
+| 21 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 |
+| 22 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 23 | [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 |
 | 24 | [Zombie!](https://open.spotify.com/track/6sDeF4lLQHWfGOqBzV3whw) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 2:57 |
 | 25 | [Favourite Idiot](https://open.spotify.com/track/28cnoaz5QC9u0ZY2xSZiCL) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:29 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 33 | [The Way It Was](https://open.spotify.com/track/6qfCB4EzLd4K5XZgV1RQ3k) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:27 |
 | 34 | [Now What?](https://open.spotify.com/track/4aGmuQteLbBpqU08Jpd36t) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:13 |
 | 35 | [Inevitable](https://open.spotify.com/track/6xgTRrS1aeZxnm1bYBarjU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This? \- EP](https://open.spotify.com/album/0Nnu6aOmXPA1ERmNx0I86J) | 3:31 |
-| 36 | [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 |
+| 36 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 |
 | 37 | [Weird Time](https://open.spotify.com/track/0qqFZUbcTpL4A13UMQBjti) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:34 |
 | 38 | [Thirty](https://open.spotify.com/track/7Mds3ACnquh8j0R6F24Fo4) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:05 |
-| 39 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 |
+| 39 | [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 |
 
-Snapshot ID: `aukkAAAAAABdGVIovZWfL1ozxBoJqquc`
+Snapshot ID: `aup1gAAAAAAHw4iYZJdj2bauJvjKIaSB`

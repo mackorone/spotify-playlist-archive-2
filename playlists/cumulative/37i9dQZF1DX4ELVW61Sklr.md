@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-191 songs - 12 hr 8 min
+192 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-11-25 |  |
 | [All I Want For Christmas Is You \(feat\. Stokley\)](https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:22 | 2021-12-15 |  |
+| [All Year](https://open.spotify.com/track/1DIGUdzGAtVbt3VaHi9BdI) | [DAY26](https://open.spotify.com/artist/7dpKVB4mK3ufNdZOpMKtrd) | [All Year](https://open.spotify.com/album/4PhT6JCk4DuIkDe27Z6qmk) | 3:30 | 2026-11-06 |  |
 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 | 2022-11-25 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 | 2021-12-15 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1lWBgerKZ76ruJf1N8k7wh) | [Timothy Bloom](https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI), [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI) | [Christmas Time on the Black Hand Side](https://open.spotify.com/album/4NdBLXkRMlGdZMugmm6NeI) | 2:59 | 2021-12-15 | 2022-07-24 |
@@ -119,7 +120,7 @@
 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 | 2021-12-15 | 2023-12-09 |
 | [O Come](https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:08 | 2021-12-15 | 2023-11-11 |
 | [O Come](https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Leanne Palmore](https://open.spotify.com/artist/0bdS6SH2MU4DeXusRn0dxc) | [A Timeless Christmas](https://open.spotify.com/album/1fTjNHtdfcWAKLVqQAL5rs) | 5:08 | 2021-12-15 | 2022-07-29 |
-| [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 | 2021-12-15 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 | 2021-12-15 | 2026-11-07 |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 | 2021-12-15 |  |
 | [On My Mama \(Christmas Medley\)](https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 3:43 | 2024-12-13 |  |
 | [Peppermint Tea](https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Peppermint Tea](https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW) | 3:09 | 2022-12-02 | 2025-11-24 |

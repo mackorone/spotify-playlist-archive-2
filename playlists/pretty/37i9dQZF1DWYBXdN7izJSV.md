@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,575 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,574 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 29 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 30 | [Birmingham](https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [O' Be Joyful](https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J) | 4:00 |
 | 31 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
-| 32 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
-| 33 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
+| 32 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
+| 33 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
 | 34 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
 | 35 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
 | 36 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 41 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
 | 42 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 43 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
-| 44 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
-| 45 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
+| 44 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
+| 45 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
 | 46 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
 | 47 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 48 | [Radio King](https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg) | [Golden Smog](https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj) | [Down By The Old Mainstream](https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY) | 3:09 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 63 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 64 | [Moonshiner](https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Uncle Tupelo 89/93: An Anthology](https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG) | 4:23 |
 | 65 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
-| 66 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
+| 66 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
 | 67 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
-| 68 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
+| 68 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
 | 69 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 70 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
 | 71 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |

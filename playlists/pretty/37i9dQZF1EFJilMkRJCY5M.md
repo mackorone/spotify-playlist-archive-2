@@ -139,9 +139,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 129 | [Sippin' Pretty](https://open.spotify.com/track/5g8Pl87A83zwUNERnANa9d) | [Foxx Worthee](https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx) | [Sippin' Pretty](https://open.spotify.com/album/5Eg90CtsejtELTiBg4sCjA) | 3:10 |
 | 130 | [Wild Thoughts](https://open.spotify.com/track/70ctzwkMLshvTvIJNZDfCW) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Electric West](https://open.spotify.com/album/2C2EYk2ylxnziZozbXgMLh) | 3:16 |
 | 131 | [All for Nothing](https://open.spotify.com/track/1bNiYAH8XGajKV2QB0r82A) | [Faith Hopkins](https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W) | [All for Nothing](https://open.spotify.com/album/7I4biCiz4l1K1JEeLcEWAT) | 3:05 |
-| 132 | [Oh, What A Feeling!](https://open.spotify.com/track/1B6hPYhFN2uwsewEEgrqzR) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Oh, What A Feeling!](https://open.spotify.com/album/30ScrCPw6r5rYByoybZP02) | 3:04 |
-| 133 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
-| 134 | [Let Myself Go There](https://open.spotify.com/track/1gPIQKPHjCPGY3kReO2akr) | [Aniston Pate](https://open.spotify.com/artist/6qyJDLUmQQzIqPvNOv8UUq) | [Let Myself Go There](https://open.spotify.com/album/5V2R1bnOouM4ptzSBqbAw6) | 3:34 |
+| 132 | [Let Myself Go There](https://open.spotify.com/track/1gPIQKPHjCPGY3kReO2akr) | [Aniston Pate](https://open.spotify.com/artist/6qyJDLUmQQzIqPvNOv8UUq) | [Let Myself Go There](https://open.spotify.com/album/5V2R1bnOouM4ptzSBqbAw6) | 3:34 |
+| 133 | [Oh, What A Feeling!](https://open.spotify.com/track/1B6hPYhFN2uwsewEEgrqzR) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Oh, What A Feeling!](https://open.spotify.com/album/30ScrCPw6r5rYByoybZP02) | 3:04 |
+| 134 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
 | 135 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 |
 | 136 | [After All](https://open.spotify.com/track/1PsuxNvU5dAt7TtN2Ky4Sy) | [Not Adam](https://open.spotify.com/artist/0impVW0rLWXEr0WMKJ5sla), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [After All](https://open.spotify.com/album/1thsBCdIOYJi7bLtkCBXtL) | 4:41 |
 | 137 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 144 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 145 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `Acg5PgAAAABqqSHzMs0wRcN0KwObYgNl`
+Snapshot ID: `Acg+tgAAAAAVdFe7Ks7Q/etbw8RXixHg`

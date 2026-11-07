@@ -4,7 +4,7 @@
 
 > 2023
 
-144 songs - 8 hr 31 min
+145 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Vanilla](https://open.spotify.com/track/78cn5IFJkDRa60DMaiitPs) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Vanilla](https://open.spotify.com/album/2PHZpaTOwRSdbUYRGFp92t) | 2:37 | 2023-09-01 |  |
 | [Vibrate](https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [How To Steal The World](https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc) | 4:08 | 2023-09-01 |  |
 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 | 2024-10-30 |  |
+| [WALLFLOWER](https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:58 | 2026-11-06 |  |
 | [WELLLL](https://open.spotify.com/track/4ItvsNSOAAoSCvgxTVZtKx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:38 | 2025-04-23 |  |
 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 | 2026-06-09 |  |
 | [What Will You Do \(When The Money Goes\)?](https://open.spotify.com/track/1gnVTNttw3HN7tMYeU2dEh) | [Milburn](https://open.spotify.com/artist/1KlihEB7FggW8e9cMbPXAz) | [These Are The Facts](https://open.spotify.com/album/2vS6cs06CitxnzkWSfOLHg) | 3:53 | 2025-08-24 |  |

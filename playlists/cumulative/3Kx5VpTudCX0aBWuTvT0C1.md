@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-215 songs - 12 hr 30 min
+216 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 | 2026-08-24 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 | 2026-03-15 |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 | 2025-12-09 |
+| [Sexy Freak'aLicious](https://open.spotify.com/track/5AdkvB7z14eMGTTj2b49My) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Sexy Freak'aLicious](https://open.spotify.com/album/4OFIAf8r7kkF2MvFkexxDq) | 3:07 | 2026-11-06 |  |
 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 | 2026-07-04 |  |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2026-02-01 |  |
 | [Sixteen](https://open.spotify.com/track/5EhFJlJRwpP5WLYcslNRFG) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Sixteen](https://open.spotify.com/album/0p2nPv9Es0lM55owbWi4b4) | 2:42 | 2026-06-02 |  |

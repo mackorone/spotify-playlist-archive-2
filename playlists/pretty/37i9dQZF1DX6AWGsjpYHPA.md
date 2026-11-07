@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,596 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,628 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 20 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 21 | [I Won't Hurt You](https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 2:24 |
 | 22 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
-| 23 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
-| 24 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 23 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 24 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 25 | [Good Things Will Come After the Pressure](https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Chapter 1](https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe) | 4:06 |
 | 26 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 27 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 59 | [I'm Back For More](https://open.spotify.com/track/1Fg71dcYDegFwGLfjy00ks) | [Leo's Sunshipp](https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF) | [We Need Each Other](https://open.spotify.com/album/2gwtUQfKm4CBPWbdTx5kWD) | 5:05 |
 | 60 | [Be Loved](https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0) | [Kuzco](https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q) | [Be Loved](https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG) | 4:13 |
 | 61 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
-| 62 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
-| 63 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
+| 62 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
+| 63 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
 | 64 | [Diego](https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego](https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq) | 2:48 |
 | 65 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 |
 | 66 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 69 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 70 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 71 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
-| 72 | [Check up Your Head](https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90) | [Mukhtar Ramadan Idii](https://open.spotify.com/artist/4mt9SVke7R8iOlXMdNcX7B) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 5:50 |
-| 73 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
-| 74 | [Girl](https://open.spotify.com/track/7o1s0OJBJj2PvBTVNBMM3P) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 4:01 |
+| 72 | [Girl](https://open.spotify.com/track/7o1s0OJBJj2PvBTVNBMM3P) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 4:01 |
+| 73 | [Check up Your Head](https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90) | [Mukhtar Ramadan Idii](https://open.spotify.com/artist/4mt9SVke7R8iOlXMdNcX7B) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 5:50 |
+| 74 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
 | 75 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 |
 
 Snapshot ID: `AAAAAE5X2IYpLCPtE2+ZIHLuLHj88pyY`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Aubree Archibeck of Bethel Music & Martin Smith",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: 7 Hills Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2948,6 +2948,24 @@
       "duration_ms": 385066,
       "name": "Broken Into Beautiful - Live",
       "url": "https://open.spotify.com/track/6AFDiYC7mHnPXSt4B9NoSs"
+    },
+    {
+      "album": {
+        "name": "Broken Open",
+        "url": "https://open.spotify.com/album/0Qdr7zFdjkjbS4RFHTOzA6"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303848,
+      "name": "Broken Open",
+      "url": "https://open.spotify.com/track/4EcSwYIk617aD70u3NGFxw"
     },
     {
       "album": {
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 248722,
       "name": "God Did It (Dios Lo Hizo) - Live",
       "url": "https://open.spotify.com/track/4YHP0zDlIbDHeXOmiUOOmh"
@@ -18158,7 +18176,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 398558,
       "name": "Stories - Break Open",
       "url": "https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW"
@@ -18582,7 +18600,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 248592,
       "name": "Take It To The Throne",
       "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
@@ -19551,6 +19569,28 @@
     },
     {
       "album": {
+        "name": "The Drought Is Over (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/5VUNF7l8IgVKMURg4QLfOo"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323249,
+      "name": "The Drought Is Over - Live from LO Conference",
+      "url": "https://open.spotify.com/track/2EXb4Ehj689iuhkUgc4Pan"
+    },
+    {
+      "album": {
         "name": "The Earth Sings Worthy (Live)",
         "url": "https://open.spotify.com/album/1pLCp06fDlsbHhXEZjqIy6"
       },
@@ -19654,6 +19694,28 @@
       "duration_ms": 298830,
       "name": "The God We Love (Nicene Creed) - Live",
       "url": "https://open.spotify.com/track/2LU91DsCfLhZo1omJBOHqe"
+    },
+    {
+      "album": {
+        "name": "The Gospel Is Enough",
+        "url": "https://open.spotify.com/album/2vR1erVUB5AmLCPcsqWMoX"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Zoe Faye",
+          "url": "https://open.spotify.com/artist/57JLyCYs0Kuhlq091ma0vk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369321,
+      "name": "The Gospel Is Enough",
+      "url": "https://open.spotify.com/track/08g2CZrvXHLZCJ51maeeC7"
     },
     {
       "album": {

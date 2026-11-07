@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [America’s Unknown Celebrity Chef](https://open.spotify.com/episode/6k5U1EudZ2ITExq7NBMclq) | [Sidedoor](https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd) | [Sidedoor](https://open.spotify.com/album/1XSjN7lgDlwMzHy43gMANd) | 33:00 | 2020-06-16 |  |
+| [America’s Unknown Celebrity Chef](https://open.spotify.com/episode/6k5U1EudZ2ITExq7NBMclq) | [Sidedoor](https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd) | [Sidedoor](https://open.spotify.com/album/1XSjN7lgDlwMzHy43gMANd) | 32:36 | 2020-06-16 |  |
 | [Black vegans; and Gwyneth Paltrow’s vagina scented candle](https://open.spotify.com/episode/3xkofujSiSCwhJxo5b51PT) | [Bleav in The Spice Rack](https://open.spotify.com/show/5mRVZYcdU03oY9RCU0CQxO) | [Bleav in The Spice Rack](https://open.spotify.com/album/5mRVZYcdU03oY9RCU0CQxO) | 33:40 | 2020-07-31 |  |
 | [Black\-Owned Food Businesses: The Past, Present, and Future](https://open.spotify.com/episode/3Pw1vCapxT84wUqjPidcJr) | [Meat + Three](https://open.spotify.com/show/4szKQfuX0KSV9iO8UE7Hil) | [Meat + Three](https://open.spotify.com/album/4szKQfuX0KSV9iO8UE7Hil) | 23:50 | 2020-07-31 |  |
 | [Chronicling centuries of black cookbooks, Toni Tipton\-Martin brings these recipes to the page in Jubilee](https://open.spotify.com/episode/48PMfPMV8iVgqKGJ6OUBpl) | [Salt & Spine](https://open.spotify.com/show/1UfofPPEAGqPxviLm0sfWN) | [Salt & Spine](https://open.spotify.com/album/1UfofPPEAGqPxviLm0sfWN) | 51:59 | 2020-06-16 |  |

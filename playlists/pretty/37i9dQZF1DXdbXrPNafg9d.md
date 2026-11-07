@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The BEST new music every Friday, by INDIE EDITORS Cover: Rockie Rode
+> The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,588 likes - 223 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,669 likes - 223 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 222 | [Anxiety \(feat\. Orion Sun\)](https://open.spotify.com/track/6WzECd80D8AJduH1l3xnme) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Anxiety](https://open.spotify.com/album/6073rZEKZ3yqdTTfikQ9oV) | 1:41 |
 | 223 | [Heart Motion Foto](https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [I Wrote You A Letter](https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704) | 2:54 |
 
-Snapshot ID: `AAAAAG0yl8kG0KPfWWVCHU0MaUaLTepR`
+Snapshot ID: `AAAAAIkglT5jrRbdAvFhO8njUVmfZFga`

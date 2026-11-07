@@ -9640,8 +9640,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Something Else",
-          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
         }
       ],
       "date_added": "2026-11-05",
@@ -10194,6 +10194,14 @@
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Lex Luger",
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
         }
       ],
       "date_added": "2026-11-05",
@@ -30364,16 +30372,16 @@
           "url": "https://open.spotify.com/artist/13Vc4T3fAC4pMqUALfJsQy"
         },
         {
+          "name": "Sia_TheBee",
+          "url": "https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB"
+        },
+        {
           "name": "Chopa rsa",
           "url": "https://open.spotify.com/artist/0S8XZDwCDG5qP6x7EAvMqk"
         },
         {
           "name": "Nichole rsa",
           "url": "https://open.spotify.com/artist/11DgvAJuF2XPxqRxlBLV3o"
-        },
-        {
-          "name": "Sia_TheBee",
-          "url": "https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB"
         }
       ],
       "date_added": "2026-11-05",
@@ -44836,6 +44844,40 @@
       "duration_ms": 179733,
       "name": "Circle Back",
       "url": "https://open.spotify.com/track/50eAbKUiXIJx902MuwA5JU"
+    },
+    {
+      "album": {
+        "name": "Coolest in the City",
+        "url": "https://open.spotify.com/album/0jw5Y8ILN4znjO3dImDgCe"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Lemaza",
+          "url": "https://open.spotify.com/artist/4e8OCfGcar5TTk3HaA3FCR"
+        },
+        {
+          "name": "Magwe ZA",
+          "url": "https://open.spotify.com/artist/4lLXmWtzqElrCJdec2azf8"
+        },
+        {
+          "name": "Don Deeya",
+          "url": "https://open.spotify.com/artist/1hwmVIeG7usUT8C55hctdm"
+        },
+        {
+          "name": "Thesiix",
+          "url": "https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376753,
+      "name": "Circle Bigger",
+      "url": "https://open.spotify.com/track/5UaewVkts3dz159XWVIsuK"
     },
     {
       "album": {
@@ -65357,6 +65399,28 @@
     },
     {
       "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
+    },
+    {
+      "album": {
         "name": "Ema o Tsamaye",
         "url": "https://open.spotify.com/album/1HGQKiErgVKeRsAlnSG2kk"
       },
@@ -67872,6 +67936,24 @@
       "duration_ms": 210196,
       "name": "Ete Mete",
       "url": "https://open.spotify.com/track/2DfcfM8VvmsXiSdan3Gvw4"
+    },
+    {
+      "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F"
     },
     {
       "album": {
@@ -192153,6 +192235,28 @@
     },
     {
       "album": {
+        "name": "CATALYST",
+        "url": "https://open.spotify.com/album/4PKeqaq4gG30Q4I2Rd9B8m"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "Playtime",
+      "url": "https://open.spotify.com/track/2roMAjSYH4LosdF1VtvCjy"
+    },
+    {
+      "album": {
         "name": "Please Be Good",
         "url": "https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar"
       },
@@ -201578,6 +201682,24 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
     },
     {
       "album": {

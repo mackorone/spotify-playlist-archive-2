@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,154 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,179 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 61 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 |
 | 62 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
 | 63 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
-| 64 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 |
-| 65 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
+| 64 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
+| 65 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 |
 | 66 | [No Typo](https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Typo](https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW) | 1:43 |
 | 67 | [ISLAND GIRLS](https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [OUT OF SIGHT \- OUT OF MIND: VOLUME 1](https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP) | 2:52 |
 | 68 | [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 |

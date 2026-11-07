@@ -410,7 +410,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
@@ -656,6 +656,24 @@
       "duration_ms": 160293,
       "name": "Christmas Don't Be Late",
       "url": "https://open.spotify.com/track/3kGFPy5aDF9UI2riRHoNdU"
+    },
+    {
+      "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160991,
+      "name": "christmas dream",
+      "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
     },
     {
       "album": {
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 99179,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 267093,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0jn7VR6QOuB5C5s57SFICf"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157586,
       "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/19LwRHfT9YVd8OWcIWzsHK"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 101102,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 293269,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/4zRFZPjthYPd5TjBzRPKqg"
@@ -2081,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "It's Always Christmas With You",
+        "url": "https://open.spotify.com/album/3HuYpJQ5F7eneK3CWGbXSB"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221568,
+      "name": "It\u2019s Always Christmas With You",
+      "url": "https://open.spotify.com/track/2SzCyHPryooDmTKM3l4MMq"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu"
       },
@@ -2352,7 +2388,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2"
@@ -2392,6 +2428,24 @@
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/7HuThzVZqpdfCSGZAfZbiS"
+    },
+    {
+      "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2swCYtIv012xM6YSXBPA6r"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/6nmOU90Z6Palq65FEn2mog"
     },
     {
       "album": {
@@ -2442,7 +2496,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205146,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw"
@@ -2539,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "O come all ye faithful",
+        "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "O come all ye faithful",
+      "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
+    },
+    {
+      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
       },
@@ -2550,7 +2622,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 160415,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr"
@@ -2968,7 +3040,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 345133,
       "name": "Santa Claus Blues",
       "url": "https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH"
@@ -3523,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "The Christmas I Fell For You",
+        "url": "https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184303,
+      "name": "The Christmas I Fell For You",
+      "url": "https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej"
+    },
+    {
+      "album": {
         "name": "A Joyful Holiday",
         "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
       },
@@ -3642,10 +3732,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 150694,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
+      },
+      "artists": [
+        {
+          "name": "Plethora Trio",
+          "url": "https://open.spotify.com/artist/2H3fT1t2R1w5U2wjfUIFh2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117756,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
     },
     {
       "album": {
@@ -3946,7 +4054,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 280933,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
@@ -4052,7 +4160,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 174759,
       "name": "Toyland",
       "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
@@ -4344,7 +4452,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 193586,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw"
@@ -4370,6 +4478,28 @@
       "duration_ms": 194613,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
+    },
+    {
+      "album": {
+        "name": "With or Without Snow",
+        "url": "https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178113,
+      "name": "With or Without Snow",
+      "url": "https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR"
     },
     {
       "album": {
@@ -4402,7 +4532,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168666,
       "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
       "url": "https://open.spotify.com/track/2ruEhydzvd72btuYoXX1oV"

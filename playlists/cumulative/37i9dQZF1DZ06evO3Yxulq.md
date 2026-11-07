@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-141 songs - 13 hr 51 min
+142 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2022-09-14 | 2023-02-20 |
 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 | 2022-09-14 | 2024-05-01 |
 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 | 2024-05-01 |  |
-| [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 | 2022-09-14 |  |
+| [Lugar Secreto \- Español](https://open.spotify.com/track/0mJxb98thoClBaW9zYbwjI) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/0NJ5jBArwJMxahJkSMM6Eq) | 5:34 | 2026-11-07 |  |
+| [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 | 2022-09-14 | 2026-11-07 |
 | [Magnifico](https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:08 | 2024-11-16 |  |
 | [Magnifico](https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:08 | 2022-09-14 | 2024-09-28 |
 | [Me Amaste A Mí](https://open.spotify.com/track/2VLuMpiWXCudSSuQUFUDWc) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:44 | 2022-09-14 | 2024-04-19 |

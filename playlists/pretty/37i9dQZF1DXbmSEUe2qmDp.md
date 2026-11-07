@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,907 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,913 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 68 | [Cadeado No Dedo](https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0) | [Ruan e Davi](https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID) | [Cadeado No Dedo](https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R) | 2:05 |
 | 69 | [Primeiro Rolê \- Ao Vivo](https://open.spotify.com/track/0kMvs53wPbOmPP1XVmba54) | [Samuel Sorocabinha](https://open.spotify.com/artist/4pqqR2FvlfZ4XkcIDEi9hm), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Primeiro Rolê \(Ao Vivo\)](https://open.spotify.com/album/6yEMAMQe67D0czjHDX3jzZ) | 2:52 |
 | 70 | [Como Foi Que Eu Te Perdi \- Que Que É Isso?, Ao Vivo](https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3) | [Murilo e Romario](https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T) | [Como Foi Que Eu Te Perdi \(Que Que É Isso?, Ao Vivo\)](https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF) | 2:26 |
-| 71 | [Deus Abençoe O Rolê \- Ao Vivo](https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69) | [Renato & Giovanelli](https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg) | [Deus Abençoe O Rolê \(Ao Vivo\)](https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1) | 3:13 |
-| 72 | [Ninguém Vira Amor \- Ao Vivo](https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy) | [Yuri e Gustavo](https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U), [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD) | [Ninguém Vira Amor \(Ao Vivo\)](https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh) | 2:56 |
+| 71 | [Ninguém Vira Amor \- Ao Vivo](https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy) | [Yuri e Gustavo](https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U), [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD) | [Ninguém Vira Amor \(Ao Vivo\)](https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh) | 2:56 |
+| 72 | [Deus Abençoe O Rolê \- Ao Vivo](https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69) | [Renato & Giovanelli](https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg) | [Deus Abençoe O Rolê \(Ao Vivo\)](https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1) | 3:13 |
 | 73 | [Você é Você](https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq) | [Você é Você](https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0) | 2:51 |
 | 74 | [Coisas Esotéricas / Não Vou Mais Chorar \- Ao Vivo](https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG) | [Melissa e Milena](https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw) | [Coisas Esotéricas / Não Vou Mais Chorar \(Ao Vivo\)](https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2) | 3:26 |
 | 75 | [Ninguém Me Avisou \- Ao Vivo](https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie) | [Júlia Mariano](https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy) | [No 12 & Sem Freio, Vol\. 5 \(Ao Vivo\)](https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I) | 2:56 |

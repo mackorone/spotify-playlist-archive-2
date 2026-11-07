@@ -4,7 +4,7 @@
 
 > Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
-157 songs - 7 hr 53 min
+158 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Someday](https://open.spotify.com/track/4rvZZMhlETbQivpUwazE9o) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 3:12 | 2024-04-19 |  |
 | [Someone's Waiting for You](https://open.spotify.com/track/0blhkKtintSIhZmR0dHsQo) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:22 | 2024-04-19 |  |
 | [Something There](https://open.spotify.com/track/1Yg8ETHSNnku6esEuznNm9) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:21 | 2024-04-19 |  |
+| [Special Spice](https://open.spotify.com/track/1eOllJ1dAlPKmM9nUfWmhJ) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: A Day at the Parks](https://open.spotify.com/album/58PVPZMGDlHjNrpbHIiLDF) | 3:57 | 2026-11-06 |  |
 | [Speechless](https://open.spotify.com/track/5xAm3DM3XkDXEWU7Es5AI9) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Self\-Care Day](https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ) | 3:10 | 2024-04-19 | 2026-04-24 |
 | [Stay Awake](https://open.spotify.com/track/0jh9Or3bRBoF487GEvEaCH) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 1:53 | 2024-04-19 | 2026-04-24 |
 | [Steal The Show](https://open.spotify.com/track/2J6K7qWVn2hXFWnH1blfrj) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Pixar](https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O) | 2:56 | 2024-08-15 |  |

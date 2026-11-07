@@ -2763,24 +2763,6 @@
     },
     {
       "album": {
-        "name": "Classic Christmas",
-        "url": "https://open.spotify.com/album/40db1dU3H6We95TkzEmbCP"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "date_added": "2026-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 98500,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/67mEvPm9yHq9XUKPwxy9ph"
-    },
-    {
-      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -2796,6 +2778,24 @@
       "duration_ms": 149920,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7H0ABcbcZLjVD83SgeU19l"
+    },
+    {
+      "album": {
+        "name": "Classic Christmas",
+        "url": "https://open.spotify.com/album/40db1dU3H6We95TkzEmbCP"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98500,
+      "name": "White Christmas - 1949 Version",
+      "url": "https://open.spotify.com/track/67mEvPm9yHq9XUKPwxy9ph"
     },
     {
       "album": {

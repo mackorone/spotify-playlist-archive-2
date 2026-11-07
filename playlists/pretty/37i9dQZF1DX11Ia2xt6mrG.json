@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75173,
+  "num_followers": 75185,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "SUSTANCIAS EN MI CORAZON",
-        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
+        "name": "Silence After You",
+        "url": "https://open.spotify.com/album/2PxOgFvT9zQiV9InDN1HL1"
       },
       "artists": [
         {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "BELCAST",
+          "url": "https://open.spotify.com/artist/4fSRUQ3o9t33hv8MFyGo7Z"
+        },
+        {
+          "name": "Velabeats",
+          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
         }
       ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
+      "duration_ms": 275625,
+      "name": "Silence After You",
+      "url": "https://open.spotify.com/track/1Nsia6EMyJzRK5kPB1xisj"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -443,26 +447,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Silence After You",
-        "url": "https://open.spotify.com/album/2PxOgFvT9zQiV9InDN1HL1"
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
         },
         {
-          "name": "BELCAST",
-          "url": "https://open.spotify.com/artist/4fSRUQ3o9t33hv8MFyGo7Z"
-        },
-        {
-          "name": "Velabeats",
-          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 275625,
-      "name": "Silence After You",
-      "url": "https://open.spotify.com/track/1Nsia6EMyJzRK5kPB1xisj"
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Que Calor",
-        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 194645,
       "name": "Quemando Papel",
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 269880,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 269880,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "ESTAMOS READY",
         "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 214846,
       "name": "ESTAMOS READY",
       "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-10-23 06:00:41",

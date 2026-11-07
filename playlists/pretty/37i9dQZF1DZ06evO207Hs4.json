@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43849,
+  "num_followers": 43845,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aukkAAAAAADXlFFsBSahE/Qi6Ywsg+Ki",
+  "snapshot_id": "aup1gAAAAACz5prejgybd+L6JagLuq42",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "We All Are One",
-      "url": "https://open.spotify.com/track/7n3mgZL0LF13ZViWYifLLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War a Africa",
         "url": "https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX"
       },
@@ -223,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Struggling Man",
-        "url": "https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw"
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
       "artists": [
         {
@@ -232,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 314440,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ"
+      "duration_ms": 271426,
+      "name": "We All Are One",
+      "url": "https://open.spotify.com/track/7n3mgZL0LF13ZViWYifLLy"
     },
     {
       "added_at": null,
@@ -255,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+        "name": "Struggling Man",
+        "url": "https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw"
       },
       "artists": [
         {
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 290866,
-      "name": "Sunshine in the Music",
-      "url": "https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9"
+      "duration_ms": 314440,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 294800,
       "name": "Now and Forever",
       "url": "https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 290866,
+      "name": "Sunshine in the Music",
+      "url": "https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Roots Woman",
-      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Thanx",
         "url": "https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 261866,
       "name": "Lonely Streets",
       "url": "https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Roots Woman",
+      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Roots Radical",
-      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Power And The Glory",
         "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 238306,
       "name": "Love Solution",
       "url": "https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The EMI Years 1973-'75",
-        "url": "https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 172520,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb"
+      "duration_ms": 220733,
+      "name": "Treat the Youths Right",
+      "url": "https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
+        "name": "The EMI Years 1973-'75",
+        "url": "https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Treat the Youths Right",
-      "url": "https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr"
+      "duration_ms": 172520,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7 X 7 Seven Times To Rise Seven Times To Fall",
+        "url": "https://open.spotify.com/album/6LX24tQeRPPb9aIZu3sMZC"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 330080,
+      "name": "7 X 7 Seven Times To Rise Seven Times To Fall",
+      "url": "https://open.spotify.com/track/2GygAhrGmVoub7xzhDh6nA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The EMI Years 1973-'75",
         "url": "https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 166720,
       "name": "On My Life",
       "url": "https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Struggling Man",
-        "url": "https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Better Days Are Coming",
-      "url": "https://open.spotify.com/track/6QQ0g7WvIUyXygp5kcPWrJ"
     }
   ],
   "unique_name": "This Is Jimmy Cliff",

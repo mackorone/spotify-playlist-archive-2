@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w7X2R.md) - [plain]
 
 > This is rjtheweirdo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 13 songs - 37 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 13 songs - 35 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w7X2R.md) - [plain]
 | 6 | [At Least She's Beautiful](https://open.spotify.com/track/0ezWTkgpXlVuxkwyLFOkf8) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:36 |
 | 7 | [Tricks Are For Kids \- R&B ONLY SESSIONS](https://open.spotify.com/track/4qoevvvgdBvLY7BnK8BHqX) | [R&B ONLY](https://open.spotify.com/artist/48zrLqRRtFQ7jAeWNs1j7F), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids \- R&B ONLY SESSIONS](https://open.spotify.com/album/4ZhCMvtcCk18y1BJHtM1kS) | 2:08 |
 | 8 | [ketchup](https://open.spotify.com/track/5CClLYNxzroYGFERtiqPPX) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [ketchup](https://open.spotify.com/album/2sMPQOC4wpJ27WTdh1hcDG) | 3:28 |
-| 9 | [Let Me Go \(feat\. rjtheweirdo\)](https://open.spotify.com/track/6DSZODqpPJjcHt5p6VWnkv) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Never Left](https://open.spotify.com/album/5sfrVGtldj9CCvDWV1qWcf) | 5:19 |
+| 9 | [War Without Me](https://open.spotify.com/track/3sNethWu4xE0fs3kobPyQI) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [War Without Me](https://open.spotify.com/album/42MnatGgN4VJBQVIKnp8Vi) | 2:39 |
 | 10 | [Catchabody](https://open.spotify.com/track/16vGnsL61LARux3T9hqBjJ) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 3:01 |
 | 11 | [Loud Silence](https://open.spotify.com/track/7oy8nSUaWx7hMBl2xSDAc9) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:49 |
 | 12 | [Same Ole Dreams](https://open.spotify.com/track/6hCzYVmRGvPCpCAh3AdMXS) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:44 |
 | 13 | [Know Now](https://open.spotify.com/track/6WItNAzTTmewC6v4Ineux7) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:31 |
 
-Snapshot ID: `aukkAAAAAABjoqfHfMs6QBb+s/k4Ih0v`
+Snapshot ID: `auvHAAAAAABvVpnRSPei2B9gRa53UiFp`

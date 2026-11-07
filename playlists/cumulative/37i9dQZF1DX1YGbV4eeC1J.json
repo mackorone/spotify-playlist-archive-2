@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 183000,
       "name": "Keki",
       "url": "https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW"
@@ -3545,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "Miti",
+        "url": "https://open.spotify.com/album/6pWI3mM97WmJrWhtFjIK7A"
+      },
+      "artists": [
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Miti",
+      "url": "https://open.spotify.com/track/693Nupdv9SutEUk1R7IhcL"
+    },
+    {
+      "album": {
         "name": "Morning Call",
         "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
       },
@@ -3726,7 +3748,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 218666,
       "name": "Mr & Mrs",
       "url": "https://open.spotify.com/track/23amY54YH5JjEHl07h52e9"
@@ -5205,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "Nitunzie",
+        "url": "https://open.spotify.com/album/3GEOy0Mq9AhToUconXseU3"
+      },
+      "artists": [
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201108,
+      "name": "Nitunzie",
+      "url": "https://open.spotify.com/track/4oilg7qbwH4SRiSQOzHTrx"
+    },
+    {
+      "album": {
         "name": "Njeve",
         "url": "https://open.spotify.com/album/0E0crvIU728RRRK5b3821K"
       },
@@ -5688,7 +5728,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 248999,
       "name": "Raha",
       "url": "https://open.spotify.com/track/3ElRHHyivDOcADDlZFBXF8"
@@ -5820,6 +5860,24 @@
       "duration_ms": 206604,
       "name": "Romeo (feat. Zuchu)",
       "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
+    },
+    {
+      "album": {
+        "name": "Safari Ya Mapenzi",
+        "url": "https://open.spotify.com/album/25LfFjU2Pjym1ts45Vbt0G"
+      },
+      "artists": [
+        {
+          "name": "Keteh",
+          "url": "https://open.spotify.com/artist/2X3LiAuXEGf8R9Poe6MtFy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224810,
+      "name": "Safari Ya Mapenzi",
+      "url": "https://open.spotify.com/track/3NwRu8k7BhOD8gNwymNuxW"
     },
     {
       "album": {

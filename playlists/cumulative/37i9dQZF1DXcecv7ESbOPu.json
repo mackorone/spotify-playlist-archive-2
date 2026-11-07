@@ -57724,7 +57724,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-07",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3euSjq80NLhMubWCmg63fE"
@@ -405272,13 +405272,17 @@
         {
           "name": "MK",
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
         }
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137015,
-      "name": "Slip & Slide",
+      "name": "Slip & Slide (feat. Amira Eldine)",
       "url": "https://open.spotify.com/track/4DxrSCPIzrWHGF5UiyH8ei"
     },
     {
@@ -494338,6 +494342,24 @@
       "duration_ms": 174750,
       "name": "washing off the blood",
       "url": "https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL"
+    },
+    {
+      "album": {
+        "name": "washing skin",
+        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "washing skin",
+      "url": "https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ"
     },
     {
       "album": {
