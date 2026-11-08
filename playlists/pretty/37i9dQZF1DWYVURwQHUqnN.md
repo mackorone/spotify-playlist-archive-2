@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking x Alonzo x TK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,832 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,759 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 35 | [Sponsor](https://open.spotify.com/track/2eFdz9mNw2D2SrZDDcD4sm) | [Skima](https://open.spotify.com/artist/5r2YHdPg2immGqpgMbA3ov) | [Sponsor](https://open.spotify.com/album/40ygXfAn1eeUBqFYm4uml5) | 2:32 |
 | 36 | [Fendi Gang](https://open.spotify.com/track/683LQJzTRemt1ZhCYxixwx) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Fendi Gang](https://open.spotify.com/album/2a3O5qqfu691nrTKSMVz4g) | 2:57 |
 | 37 | [Qui voilà](https://open.spotify.com/track/2J8xAUP0VsrCVwUhj8Df7r) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Qui voilà](https://open.spotify.com/album/2I8gHJIl2wQDlwnqZo61lh) | 2:21 |
-| 38 | [AFFECTION](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
+| 38 | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
 | 39 | [Mona Lisa](https://open.spotify.com/track/2lRWlgpdWlAM8zNigwuaSi) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Mona Lisa](https://open.spotify.com/album/1elVXHi7M5yNuxrvMeO97E) | 2:30 |
 | 40 | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu) | 2:52 |
 | 41 | [Trop Fraiche](https://open.spotify.com/track/3hIKqZ803uCNrimYU2ERiL) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [Trop Fraiche](https://open.spotify.com/album/7GBneKI6IR3latK2CdK7Vr) | 3:17 |

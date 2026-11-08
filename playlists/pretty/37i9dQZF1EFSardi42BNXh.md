@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 27 | [Games \- The Punk AF Matt Squire Mix](https://open.spotify.com/track/712WvUxCO6Boj4Rl919hRG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [Games \(The Punk AF Matt Squire Mix\)](https://open.spotify.com/album/5Zn9eH8IXs4bK10nfBoJQF) | 3:31 |
 | 28 | [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 |
 | 29 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4SwltcKHPkCVrvBSOrO0Er) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:48 |
-| 30 | [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 |
+| 30 | [Knowing](https://open.spotify.com/track/6LJTobbyqecn5sv5etHXmF) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/6in86iHqiZ56fQgVh1kc4V) | 3:40 |
 | 31 | [Broken Record](https://open.spotify.com/track/1wLlBbOu8hXNKMVSbUYAxE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:06 |
 | 32 | [Small](https://open.spotify.com/track/1OssFHKP8AZlj1ouoQ9vcN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:47 |
 | 33 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/7lti7VdGyzUC8qTlVnslwR) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 44 | [I Don't Know Who I Am Without You](https://open.spotify.com/track/5XJeDFUpl3q8Tz5o3E7vyn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 4:35 |
 | 45 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
 | 46 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 |
-| 47 | [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 |
+| 47 | [I Love Being Wrong](https://open.spotify.com/track/46Pi2IHMuKYaFZVikS6ay7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/5G8m67z7SBgjE9nM7LY1t0) | 4:50 |
 | 48 | [Easy As Pie](https://open.spotify.com/track/3jNHVejMUqdi3kRcNHJLs2) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/5a3jaoVV1yMQObEXlwhNvO) | 1:59 |
-| 49 | [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 |
+| 49 | [Clean Up Song](https://open.spotify.com/track/4gty1wMlAX8aerA5fIOxll) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/30fawzaKexjGIXj9AdR96O) | 2:45 |
 | 50 | [Something to Lose](https://open.spotify.com/track/2o3zplckwvV9EkG3b1IQv7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/6RIbr9d7RF12xrmB5CUlFs) | 3:25 |
 | 51 | [Grow](https://open.spotify.com/track/531cqVAvnZvwHk6EMbsjPR) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/2E3kLPOrCJXhfEAOHicVyY) | 3:11 |
 | 52 | [My Body's My Buddy \- Instrumental](https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy \(gender neutral version\)](https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr) | 3:28 |
 
-Snapshot ID: `Acg+tgAAAACQs5vAt0+t71MTM7Ufxj2k`
+Snapshot ID: `AchELgAAAAACWmwTPmATslZ9nC2q+OTi`

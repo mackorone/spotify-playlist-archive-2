@@ -4,7 +4,7 @@
 
 > Let's DIVE into IVE!
 
-106 songs - 5 hr 33 min
+110 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,8 @@
 | [Force \(ANYUJIN Solo\)](https://open.spotify.com/track/10AmXt6EfyzuSC4CCsji9O) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:24 | 2026-03-03 |  |
 | [GAEUL](https://open.spotify.com/track/0aPQJWekgEyHwC50rjd9Nc) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:05 | 2026-10-19 |  |
 | [Girls Girls Girls](https://open.spotify.com/track/4fOAYaOQ2F5dC9O8u4GVyt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 2:42 | 2026-11-05 |  |
+| [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/1LNVt5WZB1NptvoYtEuVdP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/1bRRWo28YjVC8g0DB7o3Wa) | 2:53 | 2026-11-07 |  |
+| [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2tnWViGQOt0ihV62kdNaDx) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/34g0AEXpzDZATP3vPXuKK2) | 2:56 | 2026-11-07 |  |
 | [Glow Motion](https://open.spotify.com/track/0egnEp0o8eFEP77NLid6lr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:01 | 2026-11-05 |  |
 | [GOTCHA \(Baddest Eros\)](https://open.spotify.com/track/2Y7IdLEr2vSFN3Fc1BBjwQ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:31 | 2025-09-01 |  |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-10 | 2024-04-19 |
@@ -66,6 +68,8 @@
 | [LIZ](https://open.spotify.com/track/5xJeJ7eG9glqR9S8BppmQ7) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:04 | 2026-10-19 |  |
 | [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 | 2026-10-19 | 2026-11-05 |
 | [Looks Can Kill](https://open.spotify.com/track/4F8LBvCz9jVbwIpsy2WLos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:15 | 2026-11-05 |  |
+| [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/5aQzVYFjWBEEyvjgpMelKe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/5YkXc7OMSimiCVBTOgq9nK) | 3:45 | 2026-11-07 |  |
+| [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2TU3bAfxfJvOUQbpoYNzch) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/0oexICyu99OSoyH9W7vEJC) | 3:47 | 2026-11-07 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-04-10 |  |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-04-10 |  |
 | [Midnight Kiss](https://open.spotify.com/track/3GX5tB0kmvz4CT5lsBVnk6) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:44 | 2025-09-01 |  |

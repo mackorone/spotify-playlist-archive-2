@@ -4,13 +4,14 @@
 
 > This is rjtheweirdo\. The essential tracks, all in one playlist.
 
-14 songs - 40 min 32 sec
+15 songs - 43 min 15 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [At Least She's Beautiful](https://open.spotify.com/track/0ezWTkgpXlVuxkwyLFOkf8) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:36 | 2026-11-04 |  |
 | [Captive](https://open.spotify.com/track/3Z5aUCmBxsUnBBlszJhdR8) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Captive](https://open.spotify.com/album/5zcZIz4OX7oWLS9wpeMMbR) | 2:27 | 2026-11-04 |  |
 | [Catchabody](https://open.spotify.com/track/16vGnsL61LARux3T9hqBjJ) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 3:01 | 2026-11-04 |  |
+| [Grain of Salt](https://open.spotify.com/track/2vPqCuX4GFFAJiGj9JQMG0) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Grain of Salt](https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv) | 2:42 | 2026-11-08 |  |
 | [ketchup](https://open.spotify.com/track/5CClLYNxzroYGFERtiqPPX) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [ketchup](https://open.spotify.com/album/2sMPQOC4wpJ27WTdh1hcDG) | 3:28 | 2026-11-04 |  |
 | [Know Now](https://open.spotify.com/track/6WItNAzTTmewC6v4Ineux7) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:31 | 2026-11-04 |  |
 | [Let Me Go \(feat\. rjtheweirdo\)](https://open.spotify.com/track/6DSZODqpPJjcHt5p6VWnkv) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Never Left](https://open.spotify.com/album/5sfrVGtldj9CCvDWV1qWcf) | 5:19 | 2026-11-04 | 2026-11-07 |

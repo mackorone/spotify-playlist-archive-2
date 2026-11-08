@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 100675,
+  "num_followers": 100689,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAC8M7wJVcNWEXMQsqMwJOFK",
+  "snapshot_id": "au0YgAAAAABasA85pxlk0moo0gVRqE7a",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 225195,
-      "name": "Easy Runaway",
-      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+      "duration_ms": 225195,
+      "name": "Easy Runaway",
+      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
     },
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Local Motion",
-        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
       },
       "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Warning (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+        "name": "Local Motion",
+        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
       "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
+      "duration_ms": 232160,
+      "name": "Warning (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restless Soul",
-        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
       },
       "artists": [
-        {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 256878,
-      "name": "Restless Soul",
-      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
+      "duration_ms": 359506,
+      "name": "Livin' It",
+      "url": "https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+        "name": "Restless Soul",
+        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
       },
       "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 359506,
-      "name": "Livin' It",
-      "url": "https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO"
+      "duration_ms": 256878,
+      "name": "Restless Soul",
+      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 288040,
+      "name": "Vibes Alive",
+      "url": "https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacred Sound",
         "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 216476,
       "name": "Give Thanks (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 288040,
-      "name": "Vibes Alive",
-      "url": "https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR"
     },
     {
       "added_at": null,

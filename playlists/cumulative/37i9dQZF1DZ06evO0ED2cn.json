@@ -340,10 +340,28 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 251973,
       "name": "Our Magic",
       "url": "https://open.spotify.com/track/0gu4p4NA29AzwbH1m23xsg"
+    },
+    {
+      "album": {
+        "name": "Listen!!",
+        "url": "https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251973,
+      "name": "Our MAGIC",
+      "url": "https://open.spotify.com/track/4DciuSUF1bihdDilux3vrl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35651,
+  "num_followers": 35650,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAC1gwgTM+roJw5mpcvZkfAK",
+  "snapshot_id": "au0YgAAAAAARYHJeP9HbYaJQOiDZddTg",
   "tracks": [
     {
       "added_at": null,
@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Glorious Day - Live",
-      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Thing Remains",
         "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 239613,
       "name": "One Thing Remains",
       "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
     },
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 258509,
+      "name": "Just That Good",
+      "url": "https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -267,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/3pTB9klLSJ2QZWxRZFfd56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
@@ -287,26 +327,6 @@
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 470046,
-      "name": "I've Witnessed It - Live From Passion 2023",
-      "url": "https://open.spotify.com/track/3pTB9klLSJ2QZWxRZFfd56"
     },
     {
       "added_at": null,
@@ -563,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
-      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 309093,
       "name": "Behold The Lamb - Live",
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
+      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
     },
     {
       "added_at": null,
@@ -647,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 278203,
-      "name": "Follow - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Our Love Is Loud (Live)",
         "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 291626,
       "name": "Here I Am To Worship - Live",
       "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 278203,
+      "name": "Follow - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 629368,
-      "name": "Holy Forever - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From LIFT: Creative Conference",
         "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 546588,
       "name": "Breathe / Holy And Anointed One - Live From LIFT: Creative Conference",
       "url": "https://open.spotify.com/track/6E1vgN82hE3aK4sE8PJ3RZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 629368,
+      "name": "Holy Forever - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
     },
     {
       "added_at": null,
@@ -835,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
       "artists": [
         {
@@ -848,9 +868,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 284386,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
+      "duration_ms": 268853,
+      "name": "Awesome Is The Lord Most High",
+      "url": "https://open.spotify.com/track/66knRxw7curkSwborNv7B0"
     },
     {
       "added_at": null,
@@ -875,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
       "artists": [
         {
@@ -888,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Awesome Is The Lord Most High",
-      "url": "https://open.spotify.com/track/66knRxw7curkSwborNv7B0"
+      "duration_ms": 284386,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
     },
     {
       "added_at": null,
@@ -1039,26 +1059,6 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just That Good",
-        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 264402,
-      "name": "It Really Is Amazing Grace",
-      "url": "https://open.spotify.com/track/55MundXRxaGomWrgRPC8Za"
     }
   ],
   "unique_name": "This Is Passion",

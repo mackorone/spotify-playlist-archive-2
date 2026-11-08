@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343813,
+  "num_followers": 343818,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAA8/pc0Llj5u+vZ2flgOjeQ",
+  "snapshot_id": "au0YgAAAAABBQtLvODd4s/5NdjfrlW2p",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/4OVMATxRz2l2A90vNtD9vc"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1fUOwm18y5rk7etl5mA5a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/4OVMATxRz2l2A90vNtD9vc"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1fUOwm18y5rk7etl5mA5a8"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enlisted",
         "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 280647,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Don\u2019t Die",
         "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 181933,
       "name": "Dreams Don\u2019t Die",
       "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
     },
     {
       "added_at": null,

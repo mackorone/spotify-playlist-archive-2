@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-370 songs - 22 hr 36 min
+371 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [I'm Gone](https://open.spotify.com/track/2tfmel8uAeKKZSHCSMP1P2) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 4:54 | 2024-10-18 |  |
 | [I'm Gone](https://open.spotify.com/track/6j3R9CbSYNBkflCyfTTVPC) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob) | 4:54 | 2023-12-13 | 2024-10-19 |
 | [I'M ON](https://open.spotify.com/track/0FyRrCNUbl5Gy5HOuJW0aX) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:25 | 2024-06-15 |  |
-| [I'm Single](https://open.spotify.com/track/2PD75SFUXxkcbIL4dg0Xgu) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/7iO3PKNc5oEIdW6tirp8JW) | 2:41 | 2023-12-13 |  |
+| [I'm Single](https://open.spotify.com/track/2PD75SFUXxkcbIL4dg0Xgu) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/7iO3PKNc5oEIdW6tirp8JW) | 2:41 | 2023-12-13 | 2026-11-08 |
+| [I'm Single](https://open.spotify.com/track/5BEaV6rsT1CrnjtSGyHaH0) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/3tpPLuMsQLnYQL8pXlcHoV) | 2:41 | 2026-11-07 |  |
 | [I'm Single](https://open.spotify.com/track/3C9UV0uRiF3DAKe1tCWIdU) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I Am Not A Human Being](https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO) | 5:33 | 2023-12-13 |  |
 | [Immigration To The Trap](https://open.spotify.com/track/5bePAvg3OIBTCmWB9j430m) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 1:53 | 2023-12-13 |  |
 | [Interlude](https://open.spotify.com/track/46rwzQddRNFojL5gLXPaYB) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [The Longest Interlude](https://open.spotify.com/album/7pec82DONDwfIeTXJAnFys) | 2:01 | 2023-12-13 |  |

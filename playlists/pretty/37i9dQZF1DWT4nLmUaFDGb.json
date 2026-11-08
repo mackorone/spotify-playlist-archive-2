@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 747268,
+  "num_followers": 747539,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Standards (Deluxe)",
         "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 299213,
       "name": "Be Still My Heart",
       "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Singin' In The Rain",
-        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Singin\u2019 In The Rain",
-      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 211664,
       "name": "There's a Lull in My Life",
       "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Singin' In The Rain",
+        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Singin\u2019 In The Rain",
+      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Lonely Waltz",
-        "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
-      },
-      "artists": [
-        {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Lonely Waltz",
-      "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Autumn Breeze",
-        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+        "name": "Lonely Waltz",
+        "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
       },
       "artists": [
         {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
         },
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+      "duration_ms": 194973,
+      "name": "Lonely Waltz",
+      "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1583,6 +1563,26 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "The Moon, the Stars and You",
-        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "The Moon's a Harsh Mistress",
-      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "You Are There",
         "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 345176,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "The Moon, the Stars and You",
+        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "The Moon's a Harsh Mistress",
+      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
-      },
-      "artists": [
-        {
-          "name": "mystery tea.",
-          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
-        }
-      ],
-      "duration_ms": 236367,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Reaching For The Sky",
         "url": "https://open.spotify.com/album/3Tzs2RDjic6cxCMMUz2406"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 406735,
       "name": "Reaching For The Sky",
       "url": "https://open.spotify.com/track/6I8GMAR15VdiU0H1KcuHY1"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
+      },
+      "artists": [
+        {
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
+        }
+      ],
+      "duration_ms": 236367,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2026-11-06 10:21:02",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Neto Pe\u00f1a en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Faruz Feet en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 197647,
       "name": "Antipolicia",
       "url": "https://open.spotify.com/track/2C00SRhnAByxvJOOBWpHvh"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 198318,
       "name": "Carros Robados",
       "url": "https://open.spotify.com/track/244SksTm9u1eRI2AjK1F7L"
@@ -6528,7 +6528,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 216006,
       "name": "Dropshop",
       "url": "https://open.spotify.com/track/0hEVpSQBKfJwkiMVULBJsc"
@@ -8736,6 +8736,24 @@
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ"
+    },
+    {
+      "album": {
+        "name": "Fumando",
+        "url": "https://open.spotify.com/album/2yZPLO3LFLRKCQSpx3KREH"
+      },
+      "artists": [
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154468,
+      "name": "Fumando",
+      "url": "https://open.spotify.com/track/4LK15gMihJCqj6ZlOVWxHO"
     },
     {
       "album": {
@@ -11566,6 +11584,54 @@
       "duration_ms": 237433,
       "name": "Les Falta Humildad",
       "url": "https://open.spotify.com/track/2GSgNWitHFn989HSZVz3lP"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/18zG7iZk57oLfdZlodqibk"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Ley de Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/1Yg81WpyVNtNwbmIIljGdR"
+    },
+    {
+      "album": {
+        "name": "Deadpol",
+        "url": "https://open.spotify.com/album/3eiCAYmSApFv5lAN89XWFz"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        },
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        },
+        {
+          "name": "Tm Zaiko",
+          "url": "https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252467,
+      "name": "Ley del Calent\u00f3n",
+      "url": "https://open.spotify.com/track/0hMKglvWw42WIuh75fQ3o6"
     },
     {
       "album": {
@@ -15431,6 +15497,28 @@
     },
     {
       "album": {
+        "name": "Pa Esto Nac\u00ed",
+        "url": "https://open.spotify.com/album/1h6iSL9Q8hGLyMtz1PTITu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205100,
+      "name": "Pa Esto Nac\u00ed",
+      "url": "https://open.spotify.com/track/5PPxraVWlBkq71KNtEHVI7"
+    },
+    {
+      "album": {
         "name": "Pa Mis Enemigos",
         "url": "https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ"
       },
@@ -17003,6 +17091,32 @@
     },
     {
       "album": {
+        "name": "Proceso",
+        "url": "https://open.spotify.com/album/00FZYNcP230AmhdLv1SJNA"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/5gDp77vDBzGgId5KVS3ycs"
+        },
+        {
+          "name": "The Phronetic",
+          "url": "https://open.spotify.com/artist/5eT2QrOMAyULipOMCj3fav"
+        },
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Proceso",
+      "url": "https://open.spotify.com/track/4kopOICDXyqKWbZFuDaFo9"
+    },
+    {
+      "album": {
         "name": "Prohibida",
         "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
       },
@@ -18344,7 +18458,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 240266,
       "name": "Sangre",
       "url": "https://open.spotify.com/track/0SbtHpjUTA4kQ3oEQFipKU"
@@ -21435,6 +21549,24 @@
     },
     {
       "album": {
+        "name": "Va a Pasar",
+        "url": "https://open.spotify.com/album/6CMDHVHh6E83waIZWM4EUs"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Va a Pasar",
+      "url": "https://open.spotify.com/track/6OtN5mXadNRLvGbBD3ouUc"
+    },
+    {
+      "album": {
         "name": "Vago$ Cypher",
         "url": "https://open.spotify.com/album/4SroHbQ9MXMJR70IgdUEWA"
       },
@@ -21784,7 +21916,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 288600,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/0SyDRPzPv52sBChIRHy2JL"
@@ -22710,7 +22842,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 252500,
       "name": "\u00bfQu\u00e9 Pensabas?",
       "url": "https://open.spotify.com/track/3tQodihinytFxj1wrvZ0QW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > untitled halo <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,933 likes - 158 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,876 likes - 158 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,235 songs - 5 day 2 hr 13 min
+2,236 songs - 5 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1007,7 +1007,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-08-07 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-19 | 2025-12-28 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
-| [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-08 | 2026-07-13 |
+| [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-08 |  |
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-09-02 | 2025-09-04 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-12 | 2026-03-23 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-03 |
@@ -1915,7 +1915,7 @@
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-01 | 2023-04-23 |
 | [The Adult I Dreamed Of](https://open.spotify.com/track/67bXdWqZFre6lPaBIaZHlO) | [머무르](https://open.spotify.com/artist/4C3iHuAHTUbOigoE9lmhdx) | [The Adult I Dreamed Of](https://open.spotify.com/album/6vs89WCj0Cr5YAAqQhwlWs) | 3:27 | 2026-10-07 |  |
 | [The Answer Is Yes](https://open.spotify.com/track/0PnZs6LXLZ0YZt65wivF8w) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu) | 2:36 | 2026-11-04 | 2026-11-06 |
-| [The Answer Is Yes](https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:36 | 2026-10-13 |  |
+| [The Answer Is Yes](https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:36 | 2026-10-13 | 2026-11-08 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2024-11-02 |
 | [The Breakup Anthem](https://open.spotify.com/track/2EpIKv03Cc0Irmw0atbkl6) | [Ebstar](https://open.spotify.com/artist/4mH71Zjiq36Q3SI7IZIBQK), [VMHP](https://open.spotify.com/artist/0aJrfz6zrfSiZQjYsryD8Z) | [ECHOES OF LOVE I \(Deluxe Version\)](https://open.spotify.com/album/6lJzDeHVkGbsLAYG5SohwR) | 3:06 | 2024-06-15 | 2024-06-17 |
 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-26 | 2026-03-22 |
@@ -2182,6 +2182,7 @@
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-28 |
 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2024-03-25 | 2025-08-25 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-11-05 |
+| [You're Under Arrest](https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [You're Under Arrest \(Remixes\)](https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd) | 3:01 | 2026-11-07 |  |
 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 | 2024-07-12 | 2024-07-15 |
 | [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-04 | 2024-07-13 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-21 | 2023-03-25 |
@@ -2195,7 +2196,7 @@
 | [yours](https://open.spotify.com/track/2bU2EvhMM4Z1M1CLJlnZH1) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/0jHd7ZpKA9tjCWcGq8jAHF) | 2:45 | 2023-01-12 | 2023-01-21 |
 | [yours](https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6) | 2:45 | 2025-05-02 |  |
 | [Yours \- Instrumental](https://open.spotify.com/track/1oyVMDi8RlgPsRyZXPNNKk) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-10 | 2021-11-11 |
-| [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 | 2026-10-27 |  |
+| [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 | 2026-10-27 | 2026-11-08 |
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-03 | 2022-12-11 |
 | [Zankokuna Tenshino Teeze \(Korean Ver.\)](https://open.spotify.com/track/1JXTGQBCf19wY5LxLZI8ay) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [J\-POP REMAKE Vol.2](https://open.spotify.com/album/3FdJHJm5wtnULcepfXBSR2) | 3:13 | 2026-08-01 | 2026-08-05 |
 | [ZEN](https://open.spotify.com/track/2chbuybiy6aDDBC985tJcP) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:21 | 2025-03-08 | 2025-03-16 |

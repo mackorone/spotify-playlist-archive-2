@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1300058,
+  "num_followers": 1300124,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Someone to Watch Over Me",
-        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Someone to Watch Over Me",
+        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/5kQiYlpc7FF4zUKCsVUNpG"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 233120,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-09-25 08:21:10",

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83c\udf00 featuring Andruss & Juos",
-  "num_followers": 123313,
+  "num_followers": 123332,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1543,18 +1543,38 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
       "artists": [
         {
           "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Junior Black",
+          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
         }
       ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+      "duration_ms": 117667,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1639,38 +1659,18 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
       "artists": [
         {
           "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "Junior Black",
-          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
         }
       ],
-      "duration_ms": 117667,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-10-30 04:00:47",

@@ -1,13 +1,29 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 71970,
+  "num_followers": 72003,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACdnyfPXgJlISn7r8VEOLFa",
+  "snapshot_id": "au0YgAAAAAA/P9TfcGgUy2fEIQn7XSfL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ex de Verdad",
+        "url": "https://open.spotify.com/album/4hD0pkPksY2fzoBCWcQrG3"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 187722,
+      "name": "Ex de Verdad",
+      "url": "https://open.spotify.com/track/1lumdrQ8SWVfnHwrWLaSHw"
+    },
     {
       "added_at": null,
       "album": {
@@ -839,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi pareja en turno",
         "url": "https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI"
       },
@@ -855,22 +887,6 @@
       "duration_ms": 187008,
       "name": "Mi pareja en turno",
       "url": "https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -911,26 +927,6 @@
       "duration_ms": 172760,
       "name": "Me Dejaron Como 100pre",
       "url": "https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo - En Vivo",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
     }
   ],
   "unique_name": "This Is La Receta",

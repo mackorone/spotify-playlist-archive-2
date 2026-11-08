@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 121213,
       "name": "\u3054\u3042\u3044\u3055\u3064",
       "url": "https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ"
@@ -3522,6 +3522,24 @@
       "duration_ms": 162000,
       "name": "\u6557\u8005",
       "url": "https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6"
+    },
+    {
+      "album": {
+        "name": "NHK\u30c9\u30ad\u30e5\u30e1\u30f3\u30bf\u30ea\u30fc\u300c\u4eac\u90fd\u3000\u3088\u307f\u304c\u3048\u308b\u9ec4\u91d1\u7a7a\u9593\uff5e\u5999\u5fc3\u5bfa\u5929\u7403\u9662\u969c\u58c1\u753b\uff5e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1c8HbjkilOvBXL0FEaVtet"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99960,
+      "name": "\u6642\u3092\u9061\u308b",
+      "url": "https://open.spotify.com/track/30MmK3WDRCsmP6MAc09ShK"
     },
     {
       "album": {

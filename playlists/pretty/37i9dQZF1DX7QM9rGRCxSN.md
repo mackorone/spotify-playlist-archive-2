@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,536 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,537 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 22 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
 | 23 | [Ya no hay más](https://open.spotify.com/track/42zkb6cGrZQubw2uz8dBKK) | [Temporal](https://open.spotify.com/artist/5BJOL2IhayFvlggz5PteYw), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Ya no hay más](https://open.spotify.com/album/4tm3JmX8uqBXxuEYigY1kf) | 2:23 |
 | 24 | [Guerra de Novios](https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Nada Bueno Termina Bien](https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb) | 2:33 |
-| 25 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
-| 26 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
-| 27 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
-| 28 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
+| 25 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
+| 26 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
+| 27 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
+| 28 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
 | 29 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
 | 30 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 31 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 47 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |
 | 48 | [Ave](https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU) | [Dejaré que me apuñales](https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ) | [Jardines Próximos](https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa) | 2:52 |
 | 49 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
-| 50 | [Distancia](https://open.spotify.com/track/29vqSzrC0V0ijDgUXaTRvO) | [Noviembre](https://open.spotify.com/artist/1TBXWZ5eZnsNUet0Qvd64H) | [Donde El Mar Retrocede](https://open.spotify.com/album/3rO0Be3ICRW93VTAHwZhHT) | 3:23 |
+| 50 | [Un Sueño de Verano](https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Bronson EP](https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4) | 4:06 |
 
 Snapshot ID: `AAAAAPxaqADXi1m7JGFRzt8TraJ2zXVH`

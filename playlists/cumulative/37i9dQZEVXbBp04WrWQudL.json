@@ -46,7 +46,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 288277,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1TWkoUyRM98lnoAzRUAuSg"
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Babyglock",
+        "url": "https://open.spotify.com/album/46l5QHXU8Oqme4uNER7KRV"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Babyglock",
+      "url": "https://open.spotify.com/track/2gRa4A0bPcpTPMTcLrxUcr"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/7yYMssiAqkt52ZuqSuxUS6"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 213258,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
@@ -814,6 +832,24 @@
       "duration_ms": 134089,
       "name": "Bloody Paradise",
       "url": "https://open.spotify.com/track/1hJIR5Lv4RgJWM2EhK1id1"
+    },
+    {
+      "album": {
+        "name": "Bloody Paradise (Live Performance Video)",
+        "url": "https://open.spotify.com/album/6pGkOenB2MFJYgFtGinSFF"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134708,
+      "name": "Bloody Paradise - Live Performance Video",
+      "url": "https://open.spotify.com/track/1Za75BFx09Q0eRStKhfuET"
     },
     {
       "album": {
@@ -894,7 +930,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 235068,
       "name": "Body - Remix",
       "url": "https://open.spotify.com/track/3RRRvlp0ykqbeAvDQLVIUW"
@@ -912,7 +948,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 162048,
       "name": "BODYPAINTING",
       "url": "https://open.spotify.com/track/0E0ppoTPc2mSg5g32GFzK9"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 148192,
       "name": "CATWOMAN",
       "url": "https://open.spotify.com/track/38WQqhfpWgfcd3Osm8Ckxk"
@@ -1118,7 +1154,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 160665,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/7MCIZJtr5gGdnDICN4PMY6"
@@ -1140,6 +1176,28 @@
       "duration_ms": 421269,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
+    },
+    {
+      "album": {
+        "name": "Chulalai",
+        "url": "https://open.spotify.com/album/1Y0UNRiMSv3SkWYfPMjv8K"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237504,
+      "name": "Chulalai",
+      "url": "https://open.spotify.com/track/0N66Xoa0j5xLNbUB8FWqIB"
     },
     {
       "album": {
@@ -1308,7 +1366,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 256405,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/4mdY2FqawYKEUgGL14fJHD"
@@ -1901,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Eu Me Rendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/231TBH19O3bLffsgVktGHq"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168618,
+      "name": "Eu Me Rendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0HkmCvXToLG4iztBmWs7DV"
+    },
+    {
+      "album": {
         "name": "Eu Te Seguro (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ndsggmv65NuQmDEGkS9a"
       },
@@ -2392,7 +2468,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 4348693,
       "name": "Groove Armada - Live at Portola Music Festival 2026",
       "url": "https://open.spotify.com/track/6rd3MctxNvnAJi7sihwAGS"
@@ -2494,6 +2570,24 @@
       "duration_ms": 173802,
       "name": "Heavy Is the Crown - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/6mFuP7fdCLuKhWvDBiHYaz"
+    },
+    {
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/6xQeDMC7oG5SAhe5ypVyq8"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279104,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/2ZigyRVmfZQNlKwxeRzQQt"
     },
     {
       "album": {
@@ -3422,7 +3516,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -3680,6 +3774,28 @@
       "duration_ms": 198425,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/1yDEde77H60RnzDMH28dd1"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/07tXwI0YbRYcDBr3R99Swn"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269205,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/3MJgG2A5AAKjNJiTLtH4KY"
     },
     {
       "album": {
@@ -4408,7 +4524,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -4614,7 +4730,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 189769,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
@@ -5324,7 +5440,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 236766,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
@@ -5368,10 +5484,28 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 158708,
       "name": "Taco El Flaco",
       "url": "https://open.spotify.com/track/6hFmk7rNYuVb2eqyRzt6eA"
+    },
+    {
+      "album": {
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/0SiEXbxSydiP9ZoLVGzzGR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187711,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/5ILgxqmRS3ST1nXlAFnAr2"
     },
     {
       "album": {
@@ -5718,6 +5852,28 @@
       "duration_ms": 170816,
       "name": "tuffluv - A COLORS SHOW",
       "url": "https://open.spotify.com/track/32HI5hcfBeWNY4hIIClvXM"
+    },
+    {
+      "album": {
+        "name": "TUSSI",
+        "url": "https://open.spotify.com/album/742Ua43uogYVYA3L0mR81D"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217130,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/63C9AMVLyFjd8dHyPIvsy6"
     },
     {
       "album": {

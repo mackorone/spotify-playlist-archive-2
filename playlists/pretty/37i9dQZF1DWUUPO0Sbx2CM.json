@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241543,
+  "num_followers": 241574,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC8aghY/b6t3PDNqseNQJqQjR9ug",
+  "snapshot_id": "AAAAAFriXYIUfJ8WNyl2rkZipIBQeTxk",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:37",
@@ -131,26 +131,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
-      },
-      "artists": [
-        {
-          "name": "Nofsky",
-          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "God Is Love",
         "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 222721,
       "name": "God Is Love",
       "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
+      },
+      "artists": [
+        {
+          "name": "Nofsky",
+          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "SUCH A BLESSING",
+        "url": "https://open.spotify.com/album/0MJZEOl92wS6cQj1RjD3vq"
+      },
+      "artists": [
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        },
+        {
+          "name": "HAGEN",
+          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
+        }
+      ],
+      "duration_ms": 182459,
+      "name": "SUCH A BLESSING",
+      "url": "https://open.spotify.com/track/2Yiw3f6eckXcZUzbwo2Wks"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "oxygen (H3nry Thr!ll Version)",
         "url": "https://open.spotify.com/album/0rSbx6nUiWRtbmm0YR8oPa"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 175653,
       "name": "Every Move I Make",
       "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "SUCH A BLESSING",
-        "url": "https://open.spotify.com/album/0MJZEOl92wS6cQj1RjD3vq"
-      },
-      "artists": [
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        },
-        {
-          "name": "HAGEN",
-          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
-        }
-      ],
-      "duration_ms": 182459,
-      "name": "SUCH A BLESSING",
-      "url": "https://open.spotify.com/track/2Yiw3f6eckXcZUzbwo2Wks"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Perfect Duet",
         "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 219418,
       "name": "Perfect Duet",
       "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
       },
       "artists": [
         {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
+      "duration_ms": 131250,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1351,6 +1335,22 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Save Me (Illingworth Remix)",
         "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 220952,
       "name": "Save Me (Illingworth Remix)",
       "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Fall on Me (House Remix)",
         "url": "https://open.spotify.com/album/2HQQLzKrlKy0T6Z9VGciS7"
       },
@@ -1587,22 +1571,6 @@
       "duration_ms": 394371,
       "name": "Fall on Me - House Remix",
       "url": "https://open.spotify.com/track/1YIqGBIku5uVh8SsnpuaAW"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Manna (Vitor Maia Remix)",
-        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
-      },
-      "artists": [
-        {
-          "name": "URBAN YOUTH WORSHIP",
-          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Manna - Vitor Maia Remix",
-      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1627,6 +1595,38 @@
       "duration_ms": 164000,
       "name": "GRACE OF GOD - GOSPEL AMAPIANO",
       "url": "https://open.spotify.com/track/6wWkqH634OUM6Hm2bwDtli"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Manna (Vitor Maia Remix)",
+        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+      },
+      "artists": [
+        {
+          "name": "URBAN YOUTH WORSHIP",
+          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Manna - Vitor Maia Remix",
+      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
+      },
+      "artists": [
+        {
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     },
     {
       "added_at": "2026-10-30 04:00:37",

@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 59 min
+107 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Kapitel 4.4 & Kapitel 5.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/5hMl0n8DL41e7jRaI5fTVR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:40 | 2023-03-20 | 2023-03-22 |
 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 | 2023-03-26 | 2023-04-02 |
 | [Kapitel 5.3 & Kapitel 6.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/43ol5y74hLh1p3VPJnagBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:16 | 2023-03-24 | 2023-03-30 |
-| [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 | 2024-02-10 |  |
+| [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 | 2024-02-10 | 2026-11-08 |
 | [Kintsugi](https://open.spotify.com/track/0qMdf5PiE1CDLriElfp6Mr) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:08 | 2024-07-05 | 2024-08-14 |
 | [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 | 2023-03-19 |  |
 | [La Mujer Perfecta](https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p) | 3:38 | 2023-12-13 | 2026-10-25 |
@@ -77,6 +77,7 @@
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2023-04-01 | 2024-01-24 |
 | [No Te Olvido](https://open.spotify.com/track/02fOTpdqf477rKRoH4LeiD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:04 | 2023-03-19 |  |
 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 | 2023-03-19 | 2026-07-19 |
+| [Nunca Quise](https://open.spotify.com/track/2BhwCJbyd6CyEECopyCVrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Nunca Quise](https://open.spotify.com/album/6KoFjnSO09GemPs4l7KBOK) | 3:28 | 2026-11-08 |  |
 | [Otra Liza \(Con KURT\)](https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [1997](https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e) | 3:34 | 2023-03-19 | 2026-03-18 |
 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 | 2024-07-01 | 2024-10-09 |
 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 | 2023-04-22 | 2024-07-01 |

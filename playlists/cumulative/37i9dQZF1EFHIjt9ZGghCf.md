@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 19 hr 40 min
+187 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [I Need A Ghost](https://open.spotify.com/track/0qQZ7uixVxEkXUsfyg5Ipg) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 3:39 | 2024-06-11 | 2024-07-14 |
 | [I Need A Ghost](https://open.spotify.com/track/5tQMnCLmd2mma6JdDgVXV4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 3:39 | 2024-07-13 |  |
 | [I Thank God \(feat\. Dante Bowe, Maryanne Joshua George & Aaron Moses\)](https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 7:45 | 2024-06-11 |  |
+| [I Thank God,Glorious Day](https://open.spotify.com/track/0Ej3sVrFtpiB6OzEfun6Kw) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe), [Elijah Seawright](https://open.spotify.com/artist/1A90CC1zNSUWOFiHM4mBRS) | [Blind Love](https://open.spotify.com/album/2wcgUiwUMAvg8sUa3BSTqg) | 6:36 | 2026-11-07 |  |
 | [i wanna know you](https://open.spotify.com/track/4ON1IsKkma29GDlB3mxOHO) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 3:38 | 2024-06-11 | 2024-07-13 |
 | [i wanna know you](https://open.spotify.com/track/63kpls0IOhujK5BG0lv0GY) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:38 | 2024-07-12 |  |
 | [I'm Gonna Worship \(feat\. Dante Bowe\)](https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 11:47 | 2024-06-11 |  |

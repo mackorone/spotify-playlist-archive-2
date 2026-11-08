@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73953,
+  "num_followers": 73956,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
-      },
-      "artists": [
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237247,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Innocent Eyes",
+        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
-      },
-      "artists": [
-        {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 192466,
       "name": "Better in Blak",
       "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Lessons To Be Learned (Special Edition)",
-        "url": "https://open.spotify.com/album/00fdw3tBe9l8qRBIm6Y1Ei"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Cilmi",
-          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Sweet About Me",
-      "url": "https://open.spotify.com/track/6LTjAQf9JGZoVuLHJGUUlm"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "That's What I'm Talking About",
         "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 201773,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Lessons To Be Learned (Special Edition)",
+        "url": "https://open.spotify.com/album/00fdw3tBe9l8qRBIm6Y1Ei"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Sweet About Me",
+      "url": "https://open.spotify.com/track/6LTjAQf9JGZoVuLHJGUUlm"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Somewhere Over The Radio",
-        "url": "https://open.spotify.com/album/4hXYUtljaHhnvkzUIkDDq6"
+        "name": "Neon Nights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE"
       },
       "artists": [
         {
-          "name": "Deadstar",
-          "url": "https://open.spotify.com/artist/1SyEBlvc4XJL7C41bDlt3R"
+          "name": "Dannii Minogue",
+          "url": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
         }
       ],
-      "duration_ms": 264866,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/2nIVheVpEYNABxmWsltzX1"
+      "duration_ms": 219999,
+      "name": "I Begin to Wonder",
+      "url": "https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV"
     }
   ],
   "unique_name": "Aussie Pop Classics",

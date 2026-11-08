@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 366176,
+  "num_followers": 366183,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "At Last - Single Version",
+      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 167773,
       "name": "Chapel Of Love",
       "url": "https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "Where Did Our Love Go: 40th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Where Did Our Love Go - Stereo Version",
-      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+        "name": "Where Did Our Love Go: 40th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 182400,
-      "name": "At Last - Single Version",
-      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
+      "duration_ms": 151440,
+      "name": "Where Did Our Love Go - Stereo Version",
+      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1075,6 +1075,26 @@
       "duration_ms": 162960,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/7oYTK1C0Clz6MZiETSpFTS"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1271,26 +1291,6 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
     },
     {
       "added_at": "2024-06-03 14:49:59",

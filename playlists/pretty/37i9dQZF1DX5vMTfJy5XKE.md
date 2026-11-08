@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,805 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,967 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 26 | [I Love Christmas](https://open.spotify.com/track/5YbgUS6JZLajQ8TsZDLZdu) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Love Christmas](https://open.spotify.com/album/2GUpcLmWTs9mV7S6R6q3XM) | 2:47 |
 | 27 | [christmas dream](https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [christmas dream](https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN) | 2:40 |
 | 28 | [secret santa](https://open.spotify.com/track/0UH0HzKyrD4XpKuPbHGgDJ) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [wrapped](https://open.spotify.com/album/5YRVpljGiwjcVGQCblftzO) | 2:18 |
-| 29 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2JNrk9JNai4tC5N8x6JfVm) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4om4UUxiO3yaMVUMAYBxNa) | 3:48 |
+| 29 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2JNrk9JNai4tC5N8x6JfVm) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4om4UUxiO3yaMVUMAYBxNa) | 3:48 |
 | 30 | [Mistletoe Missing You](https://open.spotify.com/track/74LFJsJho6pLfcMGH9Wji7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Mistletoe Missing You](https://open.spotify.com/album/5IHZsNP50Ose5fEFeO4kSn) | 3:44 |
 | 31 | [Corpus Christi Christmas](https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD) | [Presley Haile](https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH) | [Merry Christmas Y'all](https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh) | 3:11 |
 | 32 | [Here It Is](https://open.spotify.com/track/0cWu20JAhNQuDZfGYHYwRJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Here It Is](https://open.spotify.com/album/5tKN8zmzKcgXop8C8BkwtJ) | 2:49 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 37 | [Beautiful Star of Bethlehem \(feat\. Brandi Carlile and Steve Martin\)](https://open.spotify.com/track/6nQ439xZFwXKl07syymw2k) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Beautiful Star of Bethlehem \(feat\. Brandi Carlile and Steve Martin\)](https://open.spotify.com/album/5uZnaQHTcvXacWK1HSlXsg) | 4:24 |
 | 38 | [Mistletoe And You](https://open.spotify.com/track/7lKDH6LhP1dfcy86uTM6cz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [A Very Merry g00semas](https://open.spotify.com/album/2AaSW3HnsUYC7BYKPBgeNe) | 3:41 |
 | 39 | [Christmas Eve](https://open.spotify.com/track/59CPbSDbDElKWOhVVru91K) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Christmas Eve](https://open.spotify.com/album/0rsnBk9bcn9dWGkrHXJUO8) | 2:36 |
-| 40 | [The King Has Come](https://open.spotify.com/track/5Zv3O6p3PoOXa8ewPWx6e3) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [To All A Good Night \(The King Has Come\) \[Deluxe\]](https://open.spotify.com/album/73VTZ6Pk4AnHIVrGzS5rUB) | 3:18 |
+| 40 | [The King Has Come](https://open.spotify.com/track/5Zv3O6p3PoOXa8ewPWx6e3) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [To All A Good Night \(The King Has Come\)](https://open.spotify.com/album/73VTZ6Pk4AnHIVrGzS5rUB) | 3:18 |
 | 41 | [Sleigh Ride](https://open.spotify.com/track/3MWgjnvfMfw6LC4sr3Ac19) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Lauren Daigle with The Preservation Hall Jazz Band Christmas](https://open.spotify.com/album/6MQXSvAGhWBNusg1kdY6g8) | 2:42 |
 | 42 | [Let It Snow! Let It Snow! Let It Snow! \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1GXnG9vkH3eMUGNapFd2U3) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Let It Snow! Let It Snow! Let It Snow! \(feat\. Meghan Trainor\)](https://open.spotify.com/album/0oBqA7UCiAUM9chjGyKlnM) | 2:24 |
 | 43 | [Christmas in New England](https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Christmas in New England](https://open.spotify.com/album/2lOq547LxWZumv19kK2Aw4) | 4:04 |

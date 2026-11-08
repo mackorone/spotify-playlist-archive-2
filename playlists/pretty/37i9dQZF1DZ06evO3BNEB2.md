@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,349 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,355 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 31 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 32 | [Bounce It \(feat\. Wale & Trey Songz\)](https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Stay Trippy](https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND) | 4:20 |
 | 33 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
-| 34 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
-| 35 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 34 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 35 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
 | 36 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [Rini](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 |
 | 37 | [You Don't Know \(feat\. Wale\)](https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:05 |
 | 38 | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
 | 50 | [Chillin](https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:24 |
 
-Snapshot ID: `auvHAAAAAAAEEjzHg1ZbyghSe+btmjgY`
+Snapshot ID: `au0YgAAAAAAt1dG9GtqoEuVKXVr0dH0A`

@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-202 songs - 11 hr 15 min
+203 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Rambley Review](https://open.spotify.com/track/6l1v42VTPQJxtqcZ5uWvqR) | [RecD](https://open.spotify.com/artist/6cqXqS5Iemewz8MolkBTdY), [Jakeneutron](https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD), [OtterBoyVA](https://open.spotify.com/artist/3VbB6AbCIBTjy7tS2ha410) | [Indigo Park, Chapter 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu) | 3:19 | 2024-05-25 |  |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-11-08 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-10-10 |  |
+| [Ringleader](https://open.spotify.com/track/3s0gi0dDs9Y7ceuyVmgodB) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN) | [Helluva Boss: Season Three, Part 1 \(Original Soundtrack\)](https://open.spotify.com/album/5C07gFgdGSmtRTFBu3Ntrd) | 4:01 | 2026-11-08 |  |
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-07-01 |  |
 | [Sandblast](https://open.spotify.com/track/2Tk7xzMFslWAoYS2e224Qv) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Shell Shock](https://open.spotify.com/album/3cHnaWENKeSULiRCGgDv26) | 5:27 | 2018-12-23 |  |
 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 | 2026-10-04 |  |

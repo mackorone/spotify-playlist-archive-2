@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,844 songs - 6 day 21 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,846 songs - 6 day 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2852,5 +2852,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2842 | [Zombie Nights](https://open.spotify.com/track/0288JkqxUx9XvSCGi6VY6n) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 3:04 |
 | 2843 | [CUZI CUZA](https://open.spotify.com/track/6aXv5WqoioUtSEhNaMz1YR) | [Marzolacalle](https://open.spotify.com/artist/0fchOo1IypYVgPb2vBylOG) | [PERDIDO](https://open.spotify.com/album/3UqgzhRNoam8ZAWWsRA8ku) | 4:43 |
 | 2844 | [Boomer Kuwanger Mega Man X \- Vocal Version](https://open.spotify.com/track/1vv0RLtYrQozIMAZSkzAkd) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Boomer Kuwanger Mega Man X \(Vocal Version\)](https://open.spotify.com/album/6VCUGPV74XvE8V0EYVIg7y) | 3:51 |
+| 2845 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
+| 2846 | [I Hate That I Like The Chase](https://open.spotify.com/track/2k5KCAysWqUDzYXVHB4VXm) | [Arden Bird](https://open.spotify.com/artist/4l9k8pAHsXspm1CE2d30RT) | [I Hate That I Like The Chase](https://open.spotify.com/album/3YX8NVwvGn4wok9eZ5KG2q) | 3:40 |
 
-Snapshot ID: `AAAMEKqxVTl4lPBv2itoPe2JAOsG52sh`
+Snapshot ID: `AAAMEgsYyJyO/xX8H7OJbJw76S5T7rNz`

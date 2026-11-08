@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-190 songs - 12 hr 25 min
+191 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/5SWhZ7Xn6t7TowUp77vaUz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 3:57 | 2025-03-27 | 2026-05-11 |
 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 | 2022-09-17 | 2026-07-24 |
 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:59 | 2025-03-27 | 2026-05-11 |
-| [We Will Rock You](https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:01 | 2026-07-24 |  |
+| [We Will Rock You](https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:01 | 2026-07-24 | 2026-11-08 |
+| [We Will Rock You \- Live in Budapest](https://open.spotify.com/track/3xMqosY15KQ5a27roaDeCH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Budapest](https://open.spotify.com/album/7hN4ZwRmINuCyG5H4cjKXb) | 3:02 | 2026-11-08 |  |
 | [We Will Rock You \- Megan Thee Stallion Version](https://open.spotify.com/track/03NOVazYlKC9MReaZiBlyS) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [We Will Rock You \- Megan Thee Stallion Version](https://open.spotify.com/album/37G9lvayot5zbiEr0Ooa8e) | 1:43 | 2024-09-08 | 2024-10-05 |
 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 | 2022-09-17 | 2026-07-24 |
 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 | 2025-03-27 | 2026-05-11 |

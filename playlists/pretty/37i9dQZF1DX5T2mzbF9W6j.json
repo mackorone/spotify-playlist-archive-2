@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113041,
+  "num_followers": 113046,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "love witch",
+        "url": "https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv"
+      },
+      "artists": [
+        {
+          "name": "Kasia Babis",
+          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
+        }
+      ],
+      "duration_ms": 178819,
+      "name": "love witch",
+      "url": "https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "YEYEYO (the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122)",
         "url": "https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 147840,
       "name": "YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122",
       "url": "https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "love witch",
-        "url": "https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv"
-      },
-      "artists": [
-        {
-          "name": "Kasia Babis",
-          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "love witch",
-      "url": "https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9"
     },
     {
       "added_at": "2026-10-02 15:28:11",

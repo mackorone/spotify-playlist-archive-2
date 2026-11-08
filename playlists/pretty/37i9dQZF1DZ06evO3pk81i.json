@@ -1,13 +1,33 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10684,
+  "num_followers": 10691,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAAAmyw9gLQa1nAajqGd+8usb",
+  "snapshot_id": "au0YgAAAAADM3z7W00bL9BIMVa/kEZyg",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mu\u00f1equita",
+        "url": "https://open.spotify.com/album/2A9fNiRubhkZAHbbcXMXnz"
+      },
+      "artists": [
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/4udQRTCT3vuWMcmaj4d0kp"
+    },
     {
       "added_at": null,
       "album": {
@@ -75,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 142695,
-      "name": "CUANDO PIENSO EN TI",
-      "url": "https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -103,6 +107,22 @@
       "duration_ms": 148821,
       "name": "QUIERO QUE SEAS T\u00da",
       "url": "https://open.spotify.com/track/17zEyidYyN0gGmJKTiEBTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 142695,
+      "name": "CUANDO PIENSO EN TI",
+      "url": "https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7"
     },
     {
       "added_at": null,
@@ -143,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acordar\u00e1s De M\u00ed",
-        "url": "https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Te Acordar\u00e1s De M\u00ed",
-      "url": "https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -179,6 +179,26 @@
       "duration_ms": 149457,
       "name": "CHEYENNE",
       "url": "https://open.spotify.com/track/716faZsCF8J3qHpkIsB8DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Acordar\u00e1s De M\u00ed",
+        "url": "https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Te Acordar\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR"
     },
     {
       "added_at": null,
@@ -219,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 172322,
+      "name": "HOY",
+      "url": "https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -235,22 +271,6 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 172322,
-      "name": "HOY",
-      "url": "https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC"
     },
     {
       "added_at": null,
@@ -291,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 167260,
+      "name": "ME MUERO",
+      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -307,22 +343,6 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 167260,
-      "name": "ME MUERO",
-      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
     },
     {
       "added_at": null,
@@ -367,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 144981,
-      "name": "No Hay Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -395,6 +399,22 @@
       "duration_ms": 176470,
       "name": "MEJOR SIN TI",
       "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
     },
     {
       "added_at": null,
@@ -431,6 +451,26 @@
       "duration_ms": 201898,
       "name": "Con Una Mirada",
       "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 150424,
+      "name": "Ni\u00f1a Fresa",
+      "url": "https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH"
     },
     {
       "added_at": null,
@@ -483,26 +523,6 @@
       "duration_ms": 159188,
       "name": "Prada",
       "url": "https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Morales El Jilguero",
-          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 150424,
-      "name": "Ni\u00f1a Fresa",
-      "url": "https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH"
     },
     {
       "added_at": null,

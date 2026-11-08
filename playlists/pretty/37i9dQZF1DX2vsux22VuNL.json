@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 288608,
+  "num_followers": 288601,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,34 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "Azul Piscina",
         "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
       },
@@ -463,34 +491,6 @@
       "duration_ms": 233468,
       "name": "Rua 39",
       "url": "https://open.spotify.com/track/07bayNoPDwf8uvNq5WxbyU"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "Duas Vezes",
-        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
-      },
-      "artists": [
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        },
-        {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Duas Vezes",
-      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -587,22 +587,18 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
       "artists": [
         {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -631,18 +627,22 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
         }
       ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "Curiosidadista",
         "url": "https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 172235,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "Versos e Voos",
         "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 154285,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "COMO ELA VEM",
-        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
-      },
-      "artists": [
-        {
-          "name": "FERMI",
-          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
-        }
-      ],
-      "duration_ms": 145151,
-      "name": "COMO ELA VEM",
-      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
+        "name": "COMO ELA VEM",
+        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
+      },
+      "artists": [
+        {
+          "name": "FERMI",
+          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
+        }
+      ],
+      "duration_ms": 145151,
+      "name": "COMO ELA VEM",
+      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "Naquele Pique",
         "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 190735,
       "name": "Naquele Pique",
       "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "insisto em voc\u00ea",
+        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "Tirado",
+          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
+        }
+      ],
+      "duration_ms": 135420,
+      "name": "insisto em voc\u00ea",
+      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "Da Cabe\u00e7a Aos P\u00e9s",
         "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 131252,
       "name": "Da Cabe\u00e7a Aos P\u00e9s",
       "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "insisto em voc\u00ea",
-        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "Tirado",
-          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
-        }
-      ],
-      "duration_ms": 135420,
-      "name": "insisto em voc\u00ea",
-      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
     },
     {
       "added_at": "2026-11-06 03:00:21",

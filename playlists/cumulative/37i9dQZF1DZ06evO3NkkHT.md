@@ -4,7 +4,7 @@
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-90 songs - 3 hr 51 min
+91 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Climate](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 | 2025-09-04 | 2026-11-01 |
 | [Cold \(feat\. Post Malone\)](https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 3:08 | 2025-11-23 |  |
 | [Comes & Goes \(feat\. Tommy Newport\)](https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:01 | 2025-09-04 | 2025-11-23 |
-| [CRACCED](https://open.spotify.com/track/5nSaQklwqScpU3D43kiTJm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:32 | 2026-11-04 |  |
+| [CRACCED](https://open.spotify.com/track/5nSaQklwqScpU3D43kiTJm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:32 | 2026-11-04 | 2026-11-08 |
 | [DA FUCC \(feat\. Ro$ama\)](https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:29 | 2026-11-02 |  |
 | [DOPEMAN](https://open.spotify.com/track/6lTxBTBNE8NCLfSs5LflhJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:01 | 2026-04-03 | 2026-07-18 |
 | [Dream](https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:58 | 2025-12-22 |  |
@@ -78,6 +78,7 @@
 | [NO LIMIT \(feat\. Leon Thomas\)](https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:27 | 2026-11-02 |  |
 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 | 2025-09-04 | 2026-06-29 |
 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7fhLrdNbOB040rUZWR9XWs) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:29 | 2026-07-18 |  |
+| [ONE](https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:39 | 2026-11-08 |  |
 | [Picc ah Side](https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:47 | 2026-09-24 |  |
 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 | 2025-09-04 |  |
 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 | 2026-02-11 |  |

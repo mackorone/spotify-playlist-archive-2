@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,753 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,871 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 25 | [Only over You \- 2016 Remaster](https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:09 |
 | 26 | [I Don't Want to Know \- 2004 Remaster](https://open.spotify.com/track/6mGTiazKYI1BHT2uc9wTUL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:16 |
 | 27 | [Tusk \- 2015 Remaster](https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 3:37 |
-| 28 | [Peacekeeper](https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:10 |
-| 29 | [Monday Morning](https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 2:47 |
+| 28 | [Monday Morning](https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 2:47 |
+| 29 | [Peacekeeper](https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:10 |
 | 30 | [No Questions Asked](https://open.spotify.com/track/356134ums8iF3GNIrheeYX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:40 |
 | 31 | [Albatross](https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 3:10 |
 | 32 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [Landslide \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:28 |
 | 50 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 
-Snapshot ID: `auvHAAAAAAD8fwhOwMtDQ1DOpY9OOpvh`
+Snapshot ID: `au0YgAAAAACP41vPct623zsbWZL6eWOv`

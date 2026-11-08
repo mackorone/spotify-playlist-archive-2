@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482913,
+  "num_followers": 482920,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        },
-        {
-          "name": "Gian & Giovani",
-          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Hoje Eu Tentei (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZFXjzSEu7QUTil6V4OxIs"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 207907,
       "name": "Hoje Eu Tentei - Ao Vivo",
       "url": "https://open.spotify.com/track/5GptceQdY7ZSQ91jha8M2t"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        },
+        {
+          "name": "Gian & Giovani",
+          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
-      },
-      "artists": [
-        {
-          "name": "Elis Justi",
-          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
-        }
-      ],
-      "duration_ms": 165822,
-      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Nem Tira A Roupa (Ao Vivo)",
         "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
       },
@@ -791,18 +775,38 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "No Rancho, Vol. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
+        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
+      },
+      "artists": [
+        {
+          "name": "Elis Justi",
+          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
+        }
+      ],
+      "duration_ms": 165822,
+      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Brincadeira Gostosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jnWJyosYXVTCHeX2hGg7j"
       },
       "artists": [
         {
           "name": "Ana Karla",
           "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 162837,
-      "name": "N\u00e3o Tenho Advogado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
+      "duration_ms": 174698,
+      "name": "Brincadeira Gostosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -887,22 +891,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Brincadeira Gostosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3jnWJyosYXVTCHeX2hGg7j"
+        "name": "No Rancho, Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
       },
       "artists": [
         {
           "name": "Ana Karla",
           "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 174698,
-      "name": "Brincadeira Gostosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
+      "duration_ms": 162837,
+      "name": "N\u00e3o Tenho Advogado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Esquec\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 198794,
       "name": "Esquec\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Mais 18",
+        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+      },
+      "artists": [
+        {
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Mais 18",
+      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Filha da Rua",
         "url": "https://open.spotify.com/album/7H5tgRMNbMs7aZrLsjjDvp"
       },
@@ -1039,22 +1059,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Mais 18",
-        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+        "name": "Mulher Sabe, Mulher Sente",
+        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
       },
       "artists": [
         {
-          "name": "Jayne Martins",
-          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
-        },
-        {
-          "name": "Lucca e Mateus",
-          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+          "name": "Gabi Fernandes",
+          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Mais 18",
-      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+      "duration_ms": 166470,
+      "name": "Mulher Sabe, Mulher Sente",
+      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1095,22 +1111,6 @@
       "duration_ms": 149848,
       "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "Mulher Sabe, Mulher Sente",
-        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
-      },
-      "artists": [
-        {
-          "name": "Gabi Fernandes",
-          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
-        }
-      ],
-      "duration_ms": 166470,
-      "name": "Mulher Sabe, Mulher Sente",
-      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
     },
     {
       "added_at": "2026-10-09 16:52:15",

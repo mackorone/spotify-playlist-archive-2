@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 237586,
       "name": "Cinta Terakhir",
       "url": "https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM"
@@ -7786,7 +7786,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 261048,
       "name": "Mangu",
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
@@ -8724,7 +8724,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 352584,
       "name": "Negoro Angin",
       "url": "https://open.spotify.com/track/0RMd2sfxpmlZ9cP8XqP4LM"
@@ -9578,6 +9578,24 @@
       "duration_ms": 339000,
       "name": "Peradaban",
       "url": "https://open.spotify.com/track/4YxEeCKhUl1DawPzsxCPbq"
+    },
+    {
+      "album": {
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266805,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk"
     },
     {
       "album": {

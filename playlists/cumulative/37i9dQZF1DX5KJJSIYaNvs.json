@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 228631,
       "name": "Churaaiyaan - From \"Call Me Bae\"",
       "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
@@ -11794,6 +11794,24 @@
       "duration_ms": 210000,
       "name": "O Re Dariya",
       "url": "https://open.spotify.com/track/0P3jnA2UvdKSkbnDBQBVw9"
+    },
+    {
+      "album": {
+        "name": "O Re Sawariya (From \"Laagi Chhoote Na\")",
+        "url": "https://open.spotify.com/album/1JzvpWAB9CyyixNsgoAEvn"
+      },
+      "artists": [
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194171,
+      "name": "O Re Sawariya (From \"Laagi Chhoote Na\")",
+      "url": "https://open.spotify.com/track/6PhXG9hkBKkZ1zQQFJkt5l"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 64353,
+  "num_followers": 64360,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
-        "name": "Give Up The Fear",
-        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Give Up The Fear",
-      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Give Up The Fear",
+      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
     },
     {
       "added_at": "2026-03-17 14:32:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
-        "name": "Endless Night",
-        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 207900,
-      "name": "Endless Night",
-      "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
         "name": "New Boy in Town",
         "url": "https://open.spotify.com/album/0Jy0LqxobKL1owsE4nc80f"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 151179,
       "name": "New Boy in Town",
       "url": "https://open.spotify.com/track/7cxFy7OiNo6TvpJ5suytkL"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 207900,
+      "name": "Endless Night",
+      "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
     }
   ],
   "unique_name": "Certi: R&B",

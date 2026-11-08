@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 90174,
+  "num_followers": 90185,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAA7tZxKOJi/4gDT71Mfwd/Q",
+  "snapshot_id": "au0YgAAAAADTSz5WAGq9zU4mC/Zh7Xxo",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Aquiles el de Tijuana (En Vivo)",
+      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Aquiles el de Tijuana (En Vivo)",
-      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 139668,
-      "name": "Cuando Andaba Recio (El Cholo)",
-      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -867,6 +847,22 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -927,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Aroma a Alcohol",
         "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 171146,
       "name": "Con Aroma A Alcohol - Version Banda",
       "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "added_at": null,

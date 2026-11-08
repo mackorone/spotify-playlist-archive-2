@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,618 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,663 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 86 | [Walk To Work](https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters Inc Original Soundtrack](https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff) | 3:30 |
 | 87 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:05 |
 | 88 | [The Feeling Of Love](https://open.spotify.com/track/4lFk0O1MprjoBYo128ZEtP) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liasions Dangereuses](https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO) | 7:18 |
-| 89 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
-| 90 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
+| 89 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
+| 90 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
 | 91 | [Strollin' Blues](https://open.spotify.com/track/27xTnEVDEdrApTssEUt6sk) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Touch of Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00OG2RuNBudzvhJ4XfCZcz) | 2:40 |
 | 92 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 | 93 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |

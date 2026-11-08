@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Jashim
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,849 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,864 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

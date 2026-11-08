@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 308241,
+  "num_followers": 308274,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2026-07-09 17:06:41",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2026-07-09 17:06:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
-    },
-    {
-      "added_at": "2026-07-09 17:06:41",
-      "album": {
         "name": "Bon Jovi Greatest Hits",
         "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 353106,
       "name": "Always",
       "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
+    },
+    {
+      "added_at": "2026-07-09 17:06:41",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
     },
     {
       "added_at": "2026-07-09 17:06:41",

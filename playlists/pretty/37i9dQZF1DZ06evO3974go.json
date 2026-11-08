@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABraxlkt9KrTbEvD/VbffO9",
+  "snapshot_id": "au0YgAAAAADhU7+aVwnE6Jf6Sd60RPgF",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 243983,
+      "name": "Tell Em",
+      "url": "https://open.spotify.com/track/1EqTGC1pfGHm4zCxgxPmL3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 224261,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 243983,
-      "name": "Tell Em",
-      "url": "https://open.spotify.com/track/1EqTGC1pfGHm4zCxgxPmL3"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "Milk Marie",
+      "url": "https://open.spotify.com/track/7ufefyIYQ1CozJ6umgLr9u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Touch Down 2 Cause Hell",
         "url": "https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 267586,
       "name": "Like a Man (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "Milk Marie",
-      "url": "https://open.spotify.com/track/7ufefyIYQ1CozJ6umgLr9u"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 191532,
-      "name": "Word Around Town (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Be Worried",
         "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
       },
@@ -503,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIA : Going In Afterlife",
-        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
       "artists": [
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         },
         {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 176386,
-      "name": "Widebody",
-      "url": "https://open.spotify.com/track/6QxRfr4cpfGogzHBycDa9A"
+      "duration_ms": 191532,
+      "name": "Word Around Town (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
     },
     {
       "added_at": null,
@@ -654,11 +634,15 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
         }
       ],
-      "duration_ms": 129160,
-      "name": "Cougar",
-      "url": "https://open.spotify.com/track/5JQUNxujckTWaqNlEvo3gf"
+      "duration_ms": 176386,
+      "name": "Widebody",
+      "url": "https://open.spotify.com/track/6QxRfr4cpfGogzHBycDa9A"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 129160,
+      "name": "Cougar",
+      "url": "https://open.spotify.com/track/5JQUNxujckTWaqNlEvo3gf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Sayin' (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 202200,
       "name": "I'm Sayin' (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIA : Going In Afterlife",
-        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "GIA",
-      "url": "https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "GIA",
+      "url": "https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIA : Going In Afterlife",
-        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+        "name": "Fillmoelanta da Trap",
+        "url": "https://open.spotify.com/album/2lGyLeSvCxfdKR4ObFO6Mn"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 124520,
-      "name": "Pallbearer",
-      "url": "https://open.spotify.com/track/2YSSQfTGBEaAJM1Si39x1O"
+      "duration_ms": 350563,
+      "name": "Flava",
+      "url": "https://open.spotify.com/track/6PQsXh5Isrqriem73VCNLZ"
     },
     {
       "added_at": null,
@@ -831,6 +835,38 @@
       "duration_ms": 276080,
       "name": "Never Made Love (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 124520,
+      "name": "Pallbearer",
+      "url": "https://open.spotify.com/track/2YSSQfTGBEaAJM1Si39x1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
     },
     {
       "added_at": null,
@@ -880,45 +916,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 154946,
-      "name": "Magic Stick",
-      "url": "https://open.spotify.com/track/2uM4rkWEVmCXyu1xsqKx7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fillmoelanta da Trap",
-        "url": "https://open.spotify.com/album/2lGyLeSvCxfdKR4ObFO6Mn"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 350563,
-      "name": "Flava",
-      "url": "https://open.spotify.com/track/6PQsXh5Isrqriem73VCNLZ"
+      "duration_ms": 209413,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/6Bfhk96nvGIPjaZWqNmAUi"
     },
     {
       "added_at": null,

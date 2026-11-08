@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,852 likes - 124 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,868 likes - 124 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 7 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
 | 8 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 |
 | 9 | [Mozart Romance Variation \(After Piano Concerto No\. 20, K\. 466: II\. Romance\)](https://open.spotify.com/track/2rwPn9ique4d3X3qYb9gDA) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Mozart Romance Variation \(After Piano Concerto No\. 20, K\. 466: II\. Romance\)](https://open.spotify.com/album/7tNgEgRXdmVWqYRKZ90Tc4) | 1:46 |
-| 10 | [Cinema Paradiso \- Symphonic](https://open.spotify.com/track/10oscnPKtlQcFOdDousYKG) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Cinema Paradiso \(Symphonic\)](https://open.spotify.com/album/5CgnI2Bh9ZzqAUV7CNKDPM) | 4:21 |
+| 10 | [Cinema Paradiso \(From "Cinema Paradiso"\) \- Symphonic](https://open.spotify.com/track/10oscnPKtlQcFOdDousYKG) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Cinema Paradiso \(From "Cinema Paradiso"\) \[Symphonic\]](https://open.spotify.com/album/5CgnI2Bh9ZzqAUV7CNKDPM) | 4:21 |
 | 11 | [The Poetry of Earth \(Geophony\) \- Edit](https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Poetry of Earth \(Geophony\)](https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja) | 3:39 |
 | 12 | [Noctilucent](https://open.spotify.com/track/3sdCoYRGhiUJmd02vVp8xe) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:24 |
 | 13 | [Bylur](https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 4:11 |

@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 206630,
       "name": "Agapo Simeni",
       "url": "https://open.spotify.com/track/1ANPH4P1vGm6ACBtlXjMXv"
@@ -10660,6 +10660,24 @@
       "duration_ms": 150449,
       "name": "Brush Em (feat. Rah Swish)",
       "url": "https://open.spotify.com/track/3MmvQKMKdN3UhVS3eGzJIW"
+    },
+    {
+      "album": {
+        "name": "BTF",
+        "url": "https://open.spotify.com/album/46MhiVqO9KAeaagW2qanjt"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "BTF",
+      "url": "https://open.spotify.com/track/2rvf9qEEw2CCR5juZU1TGN"
     },
     {
       "album": {
@@ -23298,7 +23316,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 169846,
       "name": "GEN Z",
       "url": "https://open.spotify.com/track/4MNXP9RbzehazE3ZwyWrKJ"
@@ -26712,7 +26730,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -29186,7 +29204,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -43609,6 +43627,28 @@
     },
     {
       "album": {
+        "name": "OLA",
+        "url": "https://open.spotify.com/album/592UOi281fiNmo0RGtvKGM"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159660,
+      "name": "OLA",
+      "url": "https://open.spotify.com/track/10HdOwmrZ9IrX9vYIfXNKZ"
+    },
+    {
+      "album": {
         "name": "GET LOVED OR DIE TRYIN'",
         "url": "https://open.spotify.com/album/6IstDixCQr93dLlc1Ql76H"
       },
@@ -57195,6 +57235,32 @@
     },
     {
       "album": {
+        "name": "SUVS",
+        "url": "https://open.spotify.com/album/2KE8q640Y4z16ZWE2xfD9R"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Quervo",
+          "url": "https://open.spotify.com/artist/4SEFbvxDiWfU8ucxo1kymr"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "SUVS",
+      "url": "https://open.spotify.com/track/6YfzIZmyRO420cwXoq8sUF"
+    },
+    {
+      "album": {
         "name": "TOPBOY 2",
         "url": "https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK"
       },
@@ -57680,6 +57746,28 @@
       "duration_ms": 248000,
       "name": "TA PAIDIA TIS EKSORIAS",
       "url": "https://open.spotify.com/track/7emgWeDNbrWDHzIqq0qAAw"
+    },
+    {
+      "album": {
+        "name": "Ta Paidia Tis Skonis",
+        "url": "https://open.spotify.com/album/1ckk4AfCu0eToYn4HW96pX"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165017,
+      "name": "Ta Paidia Tis Skonis",
+      "url": "https://open.spotify.com/track/2TrY7JObDgtkXxsZbUuvHr"
     },
     {
       "album": {
@@ -59020,6 +59108,24 @@
       "duration_ms": 282115,
       "name": "Tha Ta Katafero",
       "url": "https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL"
+    },
+    {
+      "album": {
+        "name": "Tha To Ksanakana",
+        "url": "https://open.spotify.com/album/2pwFXfNczdgMbmpQ8NFFFw"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "Tha To Ksanakana",
+      "url": "https://open.spotify.com/track/5Q2NvgoOY0cJFhbLW8VZQF"
     },
     {
       "album": {
@@ -63742,7 +63848,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 166809,
       "name": "VIVA LA MUERTE",
       "url": "https://open.spotify.com/track/3Q4UCQRdDsQ2KnctjBCiXx"
@@ -65626,7 +65732,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 159310,
       "name": "XERIA KATHARA",
       "url": "https://open.spotify.com/track/1WXeoUtGzzfv22TOINnM8e"

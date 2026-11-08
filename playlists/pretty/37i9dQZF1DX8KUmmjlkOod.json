@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 392207,
+  "num_followers": 392206,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Y Volo Volo",
+      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
         "name": "Positiva Vibraci\u00f3n",
         "url": "https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 245653,
       "name": "Me Enamor\u00e9 De Una Zamba",
       "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Y Volo Volo",
-      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1203,38 +1203,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/6vLAptPmtCI03BUdWAEkiO"
-      },
-      "artists": [
-        {
-          "name": "Los Fatales",
-          "url": "https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "Comadre Compadre",
-      "url": "https://open.spotify.com/track/0gyOk3i4LF5nJlk3a98D6V"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "La Vida Vale La Pena",
-        "url": "https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B"
-      },
-      "artists": [
-        {
-          "name": "Sergio Denis",
-          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Nada Har\u00e1 Cambiar Mi Amor Por Ti",
-      "url": "https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Big Yuyo",
         "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 209666,
       "name": "Mi Resistencia",
       "url": "https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Un Poco Loco",
+        "url": "https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc"
+      },
+      "artists": [
+        {
+          "name": "Sergio Denis",
+          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/6vLAptPmtCI03BUdWAEkiO"
+      },
+      "artists": [
+        {
+          "name": "Los Fatales",
+          "url": "https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Comadre Compadre",
+      "url": "https://open.spotify.com/track/0gyOk3i4LF5nJlk3a98D6V"
     },
     {
       "added_at": "2024-06-12 23:23:10",

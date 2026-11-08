@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Adriatique, L2B, Slayyyter, JENNIE & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,243 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,248 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 44 | [Wird schon wieder leichter](https://open.spotify.com/track/5P3xFJrPQG29gG4HKEA7iK) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Wird schon wieder leichter](https://open.spotify.com/album/6oXNf3oENxxG5Y1gQa0UTo) | 2:47 |
 | 45 | [I Got To Go](https://open.spotify.com/track/5y6LpMt3LoFmUC6KLAP2PU) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [I Got To Go](https://open.spotify.com/album/6BEvznZwyIeAZAJ6JaIaJv) | 2:55 |
 | 46 | [Parijat und Frangipani](https://open.spotify.com/track/0uORXPMJVnVFIusztiUCll) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Stoff](https://open.spotify.com/album/2nEJRG1vQK0W71Kkg6IXqR) | 2:45 |
-| 47 | [NUMÉRO DE SÉRIE](https://open.spotify.com/track/1mCWUxMiLd9bWmoV4zISy8) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [NUMÉRO DE SÉRIE](https://open.spotify.com/album/4Sd6AEyPW1fQzRh0zSkffD) | 2:27 |
+| 47 | [NUMÉRO DE SÉRIE \(feat\. Ziak\)](https://open.spotify.com/track/1mCWUxMiLd9bWmoV4zISy8) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [NUMÉRO DE SÉRIE \(feat\. Ziak\)](https://open.spotify.com/album/4Sd6AEyPW1fQzRh0zSkffD) | 2:27 |
 | 48 | [The Wheel \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/2CogABm63uPyd2qAo259RW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Wheel](https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ) | 3:07 |
 | 49 | [Alles anders](https://open.spotify.com/track/3Wqp1uFqEP2yhdj7OnpvGG) | [Jennifer Rostock](https://open.spotify.com/artist/6Sh3owUrsFjZ4qCjtpPV7G) | [Alles anders](https://open.spotify.com/album/7pdRLve7bt6o9dvi4paqz0) | 3:31 |
 | 50 | [Wenn das Liebe ist](https://open.spotify.com/track/19GL1hN4fmnx2APmFOYsYg) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [Wenn das Liebe ist](https://open.spotify.com/album/6CQHeqUFIrMKRZFWbmvcOj) | 2:36 |

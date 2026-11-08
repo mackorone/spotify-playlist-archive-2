@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125919,
+  "num_followers": 125930,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAZtarA0u9s+9qfhp6OsHud",
+  "snapshot_id": "au0YgAAAAAAqZ4vNsEMHQOy0M9fxLaso",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uninvited (Live at Newport Folk)",
-        "url": "https://open.spotify.com/album/0vnpFlDtL4MvrVU8OP5dUf"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 311346,
-      "name": "Uninvited - Live at Newport Folk",
-      "url": "https://open.spotify.com/track/6SoNwpuHbn8YmTZhaLpQEe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uninvited (Live at Newport Folk)",
+        "url": "https://open.spotify.com/album/0vnpFlDtL4MvrVU8OP5dUf"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 311346,
+      "name": "Uninvited - Live at Newport Folk",
+      "url": "https://open.spotify.com/track/6SoNwpuHbn8YmTZhaLpQEe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself (Commentary Album)",
         "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 260065,
       "name": "Human",
       "url": "https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 191661,
-      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
-      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself (Commentary Album)",
         "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
       },
@@ -611,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -643,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brandy Clark",
-        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Dear Insecurity (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself (Commentary Album)",
         "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 257760,
       "name": "Returning To Myself",
       "url": "https://open.spotify.com/track/0KpVSAG8azclR4J9DUQMvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 191661,
+      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
+      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
     },
     {
       "added_at": null,

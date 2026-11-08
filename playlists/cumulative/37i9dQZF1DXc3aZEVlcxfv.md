@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-703 songs - 1 day 23 hr 38 min
+704 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 | 2025-02-28 |
 | [I Belong To You](https://open.spotify.com/track/0HYbFSop3uvZQgXknmUZN8) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [I Belong To You](https://open.spotify.com/album/7JE5drBI1kooLs1BB9meYN) | 5:22 | 2024-11-29 | 2025-03-21 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-11-14 |
-| [I Dey Grateful](https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [I Dey Grateful](https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu) | 2:53 | 2026-08-21 |  |
+| [I Dey Grateful](https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [I Dey Grateful](https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu) | 2:53 | 2026-08-21 | 2026-11-08 |
 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 | 2024-09-27 | 2025-02-28 |
 | [I have seen the Lord](https://open.spotify.com/track/5phuO9FZlluunDrD6EJuCu) | [Femi Ogebule](https://open.spotify.com/artist/0eKCZj4LYXRaOqPyZ6aWDI), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [I have seen the Lord](https://open.spotify.com/album/4IkmbN3xR3MSP0raPbTvRx) | 5:07 | 2025-04-11 | 2025-05-30 |
 | [I have seen the Lord's goodness](https://open.spotify.com/track/7jtaeMPp7sdgXBBmjIbnz3) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [I have seen the Lord's goodness](https://open.spotify.com/album/3C19JJubUUZbtIElmB5RUI) | 3:21 | 2025-10-03 | 2026-03-20 |
@@ -582,6 +582,7 @@
 | [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 | 2026-02-27 |
 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-18 | 2025-10-31 |
 | [Supa II](https://open.spotify.com/track/1uZo8bWMrVGFxk0N09512a) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Supa II](https://open.spotify.com/album/1aioY88IJoUr5GxBJR0I7a) | 2:01 | 2025-01-03 | 2025-02-21 |
+| [Super Power](https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Super Power](https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU) | 2:47 | 2026-11-06 |  |
 | [Surely](https://open.spotify.com/track/4h3nTUfOMq29veNoWzG9OC) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Artisan](https://open.spotify.com/album/1wAfgl8G6lRRQttdwnbF8v) | 1:54 | 2025-11-21 | 2025-11-28 |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-30 | 2025-03-07 |
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-06-13 |

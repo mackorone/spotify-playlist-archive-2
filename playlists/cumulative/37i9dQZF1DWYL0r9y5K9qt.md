@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: HANA
 
-157 songs - 8 hr 1 min
+158 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,10 @@
 | [Let Go](https://open.spotify.com/track/7Bnk4aT8KhSeE1bOrQngpx) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [Let Go](https://open.spotify.com/album/73PIrL8rN2gr5tvVHmHXC7) | 3:22 | 2026-03-26 | 2026-04-10 |
 | [Lifestyle](https://open.spotify.com/track/5ui8Gewy9y3sCBtuyWqj4t) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:55 | 2026-03-05 | 2026-03-27 |
 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 | 2026-03-05 |  |
+| [Looks Can Kill](https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:15 | 2026-11-06 |  |
 | [loser](https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [loser](https://open.spotify.com/album/0TEipdEWfi3EOhxY6WtASj) | 3:11 | 2026-10-12 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7) | 3:36 | 2026-08-13 | 2026-09-12 |
-| [LUCID DREAM](https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LUCID DREAM](https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1) | 3:27 | 2026-05-29 |  |
+| [LUCID DREAM](https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LUCID DREAM](https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1) | 3:27 | 2026-05-29 | 2026-11-08 |
 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 | 2026-09-11 |  |
 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 | 2026-03-05 |  |
 | [Make U Blush](https://open.spotify.com/track/037MAvYyO35gv4vODbE3nC) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Make U Blush](https://open.spotify.com/album/2E1EA0B96Lc76J71FHmGsZ) | 3:19 | 2026-06-18 | 2026-07-11 |

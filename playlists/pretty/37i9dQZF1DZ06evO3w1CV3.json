@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 36838,
+  "num_followers": 36842,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADRVsZe75fPqT8c0lscFUzi",
+  "snapshot_id": "au0YgAAAAAB+w/ZRwDDWK/iI1RRluJQz",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You & Me Song",
-        "url": "https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7"
+        "name": "London Mine",
+        "url": "https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 171860,
-      "name": "You & Me Song",
-      "url": "https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS"
+      "duration_ms": 223304,
+      "name": "London Mine",
+      "url": "https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "London Mine",
-        "url": "https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt"
+        "name": "You & Me Song",
+        "url": "https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 223304,
-      "name": "London Mine",
-      "url": "https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai"
+      "duration_ms": 171860,
+      "name": "You & Me Song",
+      "url": "https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS"
     },
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Your Heart",
-        "url": "https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY"
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/56evPTmSOUt4bS3nmn9VNZ"
       },
       "artists": [
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 214193,
-      "name": "Fade Your Heart",
-      "url": "https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN"
+      "duration_ms": 224600,
+      "name": "Feet Don't Fail Me Now (Joy Crookes) - slowed down",
+      "url": "https://open.spotify.com/track/0wBIpIZk2GRPj0QS5irJ4j"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/56evPTmSOUt4bS3nmn9VNZ"
+        "name": "Fade Your Heart",
+        "url": "https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY"
       },
       "artists": [
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Feet Don't Fail Me Now (Joy Crookes) - slowed down",
-      "url": "https://open.spotify.com/track/0wBIpIZk2GRPj0QS5irJ4j"
+      "duration_ms": 214193,
+      "name": "Fade Your Heart",
+      "url": "https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 255026,
+  "num_followers": 255043,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAAAod8mdCRB0kGUCKBqr9iSH",
+  "snapshot_id": "au0YgAAAAACGX91JdpnNHkWih2/4zQ+v",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "PRIVATE",
-      "url": "https://open.spotify.com/track/2NxsPbmbLr6Dw7yYnMGJdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEFORE I FORGET (DELUXE)",
         "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
       },
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
       "artists": [
         {
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 164933,
+      "name": "PRIVATE",
+      "url": "https://open.spotify.com/track/2NxsPbmbLr6Dw7yYnMGJdo"
     },
     {
       "added_at": null,
@@ -419,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 159613,
-      "name": "JULY",
-      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": null,
@@ -447,6 +431,42 @@
       "duration_ms": 203266,
       "name": "QUIT YOU",
       "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "JULY",
+      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face Card (The Kid LAROI Remix)",
+        "url": "https://open.spotify.com/album/7yeUtECMpr2lzo00a2mscy"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Face Card - The Kid LAROI Remix",
+      "url": "https://open.spotify.com/track/5DD7mEinRs7bMr6YvbyRXb"
     },
     {
       "added_at": null,
@@ -503,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face Card (The Kid LAROI Remix)",
-        "url": "https://open.spotify.com/album/7yeUtECMpr2lzo00a2mscy"
+        "name": "Diva (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
       "artists": [
         {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        },
-        {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 151533,
-      "name": "Face Card - The Kid LAROI Remix",
-      "url": "https://open.spotify.com/track/5DD7mEinRs7bMr6YvbyRXb"
+      "duration_ms": 172004,
+      "name": "Diva (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
     },
     {
       "added_at": null,
@@ -543,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 172004,
-      "name": "Diva (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 177746,
       "name": "NEVER CAME BACK",
       "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": null,

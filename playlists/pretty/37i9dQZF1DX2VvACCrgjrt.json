@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310656,
+  "num_followers": 1310638,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1113,6 +1113,26 @@
       "url": "https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "duration_ms": 200353,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
       "added_at": "2026-08-28 04:01:56",
       "album": {
         "name": "Plain Jane",
@@ -1159,26 +1179,6 @@
       "duration_ms": 196363,
       "name": "Blas\u00e9 (Bryce Alakai Remix)",
       "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Jack August",
-          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1365,26 +1365,6 @@
       "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "TWINKLE",
@@ -1409,6 +1389,26 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Rock My World",
@@ -1427,6 +1427,30 @@
       "duration_ms": 198750,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-10-30 04:00:32",
+      "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1451,6 +1475,46 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-10-09 04:02:30",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Ribguga",
+          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1495,70 +1559,6 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
-    },
-    {
-      "added_at": "2026-10-30 04:00:32",
-      "album": {
-        "name": "Off Your Mind (feat. Last Lights)",
-        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Last Lights",
-          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Off Your Mind (feat. Last Lights)",
-      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
-    },
-    {
-      "added_at": "2026-10-09 04:02:30",
-      "album": {
-        "name": "No Rush",
-        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "Ribguga",
-          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "No Rush",
-      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Rhythm Has Control",
-        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Rhythm Has Control",
-      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "No Enemies (feat. Namasenda)",
@@ -1975,6 +1955,26 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Rhythm Has Control",
+        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Rhythm Has Control",
+      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -2109,6 +2109,22 @@
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -2127,22 +2143,6 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
-      },
-      "artists": [
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -2197,38 +2197,6 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Never Crash",
-        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Never Crash",
-      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "N9",
@@ -2253,6 +2221,38 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Never Crash",
+        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Never Crash",
+      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
+    },
+    {
       "added_at": "2026-09-25 04:02:01",
       "album": {
         "name": "Keep The Heat",
@@ -2269,24 +2269,24 @@
       "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         },
         {
-          "name": "Pessto",
-          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
         }
       ],
-      "duration_ms": 199042,
-      "name": "True",
-      "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2309,24 +2309,24 @@
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-09-18 04:02:27",
       "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+        "name": "True",
+        "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+          "name": "Pessto",
+          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
         }
       ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+      "duration_ms": 199042,
+      "name": "True",
+      "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -2385,26 +2385,6 @@
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "MilliON Me",
-        "url": "https://open.spotify.com/album/1RPbhHFqhrpq6kDnov57C4"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "MilliON Me",
-      "url": "https://open.spotify.com/track/08AXTbBi7NgjAFoovjulPd"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Count On You",
@@ -2423,6 +2403,26 @@
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "MilliON Me",
+        "url": "https://open.spotify.com/album/1RPbhHFqhrpq6kDnov57C4"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "MilliON Me",
+      "url": "https://open.spotify.com/track/08AXTbBi7NgjAFoovjulPd"
     }
   ],
   "unique_name": "Nasty Bits",

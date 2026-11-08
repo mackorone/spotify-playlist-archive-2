@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: HAAN, SHIRT)",
-  "num_followers": 1095912,
+  "num_followers": 1095902,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2026-11-05 06:43:53",
+      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
-    },
-    {
-      "added_at": "2026-11-05 06:43:53",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2026-11-05 06:43:53",
@@ -823,8 +823,8 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+      "duration_ms": 195013,
+      "name": "Nerves",
+      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
     },
     {
       "added_at": "2026-11-05 06:43:53",
@@ -915,8 +915,8 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Nerves",
-      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2026-11-05 06:43:53",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2026-11-05 06:43:53",
       "album": {
-        "name": "HAWWAH",
-        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
       "artists": [
         {
-          "name": "dodree",
-          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
         }
       ],
-      "duration_ms": 173000,
-      "name": "HAWWAH",
-      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     }
   ],
   "unique_name": "TrenChill K-R&B",

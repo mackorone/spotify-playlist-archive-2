@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,991,065 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991,081 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
-| 2 | [Don't Stop Me Now](https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:29 |
-| 3 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:06 |
-| 4 | [Another One Bites The Dust](https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 3:34 |
-| 5 | [Bohemian Rhapsody](https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 5:54 |
-| 6 | [We Will Rock You](https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:01 |
+| 2 | [We Will Rock You \- Live in Budapest](https://open.spotify.com/track/3xMqosY15KQ5a27roaDeCH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Budapest](https://open.spotify.com/album/7hN4ZwRmINuCyG5H4cjKXb) | 3:02 |
+| 3 | [Don't Stop Me Now](https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:29 |
+| 4 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:06 |
+| 5 | [Another One Bites The Dust](https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 3:34 |
+| 6 | [Bohemian Rhapsody](https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 5:54 |
 | 7 | [Radio Ga Ga](https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC) | 5:49 |
 | 8 | [Crazy Little Thing Called Love](https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 2:48 |
 | 9 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 33 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
 | 34 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:46 |
 | 35 | [You Don't Fool Me](https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 5:24 |
-| 36 | [Crazy Little Thing Called Love \- Live in Budapest](https://open.spotify.com/track/1C96D0D01TZiQ6TpY23DvH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Crazy Little Thing Called Love \(Live in Budapest\)](https://open.spotify.com/album/0N8uGniH4WDCxnwsbkermz) | 4:52 |
-| 37 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
+| 36 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
+| 37 | [Crazy Little Thing Called Love \- Live in Budapest](https://open.spotify.com/track/1C96D0D01TZiQ6TpY23DvH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Crazy Little Thing Called Love \(Live in Budapest\)](https://open.spotify.com/album/0N8uGniH4WDCxnwsbkermz) | 4:52 |
 | 38 | [Breakthru](https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:08 |
 | 39 | [Play The Game](https://open.spotify.com/track/00h2sYTI0EIgvUVlicRDdx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:31 |
 | 40 | ['39](https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [One Year Of Love](https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:27 |
 | 50 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
 
-Snapshot ID: `auvHAAAAAAA6pJyfObAQohkZcEVYWnCg`
+Snapshot ID: `au0YgAAAAACoUbGB4Pbf1Em9r4IGxm2S`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Param Benning
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,041 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,069 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Naina](https://open.spotify.com/track/5EqyXR0G8fgX6TmfUmEToY) | [Param Benning](https://open.spotify.com/artist/15f8GUVa7R8SrhImceV5GU), [DJ Jeevan Music](https://open.spotify.com/artist/5gcimwNDCQGGvIkAmxB5Q7) | [Naina](https://open.spotify.com/album/2002JksO2XmoJvRFwgJfaq) | 2:53 |
 | 2 | [Lost In You](https://open.spotify.com/track/0IBPXM0A7IZBWP4xDE9fSY) | [Dil Raaz](https://open.spotify.com/artist/3yeefYKwB5zmXYl4LvK5PS) | [Lost In You](https://open.spotify.com/album/4p5qYbET10GzwMWZi7BEUq) | 2:40 |
 | 3 | [AKHIYAAN](https://open.spotify.com/track/1Ov19VuNn1Y10wIXCxC2S0) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL), [Gagan](https://open.spotify.com/artist/3H2cKYZogqsNAmb9XnswI8), [Shaan](https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e), [Perfecto](https://open.spotify.com/artist/3DmYc1JLNpW8rg9xjVuhfY) | [AKHIYAAN](https://open.spotify.com/album/5W7UnSHWKq8xGUFL8m8Qmk) | 2:40 |
-| 4 | [Half Moon](https://open.spotify.com/track/7kkDj427RyTyq8LNAQ1cLR) | [Deep Likhari](https://open.spotify.com/artist/1UT9brdirbMROIoZb2MP2F), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Half Moon](https://open.spotify.com/album/577xfYjsPyIFmI8zakbiwc) | 3:19 |
+| 4 | [Half Moon](https://open.spotify.com/track/7kkDj427RyTyq8LNAQ1cLR) | [Deep Likhari](https://open.spotify.com/artist/5Y6IMCU2oBd9GpVmqWz1yY), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Half Moon](https://open.spotify.com/album/577xfYjsPyIFmI8zakbiwc) | 3:19 |
 | 5 | [Thodi 'Ala Til](https://open.spotify.com/track/7EWQWehYa9mAGDANkGcfe8) | [Jot Jamsher](https://open.spotify.com/artist/5ziUnPezHP9uUPzRuWnV0m), [Biswal Rohan](https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY), [Ezik](https://open.spotify.com/artist/7c1sHSqT9tGmIlCnEkVWR9) | [Thodi 'Ala Til](https://open.spotify.com/album/3TtOCORhB5DVND8VEJZnkR) | 2:21 |
 | 6 | [By Your Side \(RnB Version\)](https://open.spotify.com/track/1fEKy7jUP5LDwiCvksZEBy) | [Spiffy](https://open.spotify.com/artist/4PhwTiT4POJ2RTJ6x4isjb), [SNXZZI](https://open.spotify.com/artist/1TQy4uxRgiinxebqYP67oI) | [By Your Side \(RnB Version\)](https://open.spotify.com/album/26u6anodKNqI1DI0pUn9I5) | 2:33 |
 | 7 | [Mutteyaare](https://open.spotify.com/track/13ZQtZ79xJkrilGYRB7JlH) | [SHIVXM](https://open.spotify.com/artist/4MkqbBBhsHyIGE9nByWUAa), [Vishayy](https://open.spotify.com/artist/3NrVaAaxMScesxhXUkbtnp) | [Mutteyaare](https://open.spotify.com/album/5wLp7c65KDvhLND0QWaGz0) | 2:36 |

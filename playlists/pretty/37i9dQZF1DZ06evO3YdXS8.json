@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 646110,
+  "num_followers": 646122,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAChEtbAP/iXhX1+W/nHu4nU",
+  "snapshot_id": "au0YgAAAAABGd5/D1qux3vbrtogJAu12",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Hits: Todos Mis Exitos",
-        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 170333,
-      "name": "No Debes Jugar - Remastered",
-      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
+      "duration_ms": 171638,
+      "name": "No Debes Jugar - Remastered 2026",
+      "url": "https://open.spotify.com/track/7KNKAcTwtrFneIV4eKRR9U"
     },
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 292792,
-      "name": "IRREEMPLAZABLE (COMO LA FLOR) (feat. Selena)",
-      "url": "https://open.spotify.com/track/1nOXyslmAm5yNd247Y5tnw"
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     },
     {
       "added_at": null,
@@ -287,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Techno Cumbia 2012",
-      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
+      "duration_ms": 292792,
+      "name": "IRREEMPLAZABLE (COMO LA FLOR) (feat. Selena)",
+      "url": "https://open.spotify.com/track/1nOXyslmAm5yNd247Y5tnw"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 290773,
       "name": "I Could Fall In Love",
       "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
     },
     {
       "added_at": null,

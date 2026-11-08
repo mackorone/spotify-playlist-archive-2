@@ -19055,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "Lothario",
+        "url": "https://open.spotify.com/album/4SZLprY6m0S8Jxz9TvyRNo"
+      },
+      "artists": [
+        {
+          "name": "Sheezzy Raww",
+          "url": "https://open.spotify.com/artist/2mCZPLVUOVhfwMMquWJ3VK"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Chance Me",
+      "url": "https://open.spotify.com/track/6a0TtmV9xLXmmBP8MmPTBM"
+    },
+    {
+      "album": {
         "name": "Chance Thing",
         "url": "https://open.spotify.com/album/3QoMIroBQZiiAR9SKmyyF7"
       },

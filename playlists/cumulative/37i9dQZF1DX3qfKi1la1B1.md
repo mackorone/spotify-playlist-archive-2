@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-545 songs - 1 day 10 hr 41 min
+546 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 | 2026-01-23 |  |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2025-05-16 | 2025-09-19 |
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-01 | 2022-12-14 |
-| [No Other](https://open.spotify.com/track/5ykKgXjoriGkSfhhQH1smq) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI) | 3:43 | 2026-11-06 |  |
+| [No Other](https://open.spotify.com/track/5ykKgXjoriGkSfhhQH1smq) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI) | 3:43 | 2026-11-06 | 2026-11-08 |
 | [nostalgia](https://open.spotify.com/track/29bRdPxTr1RbPW9IaRs69w) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [nostalgia](https://open.spotify.com/album/30y7B6m0KDXs9VD9SrZjyh) | 2:54 | 2022-10-20 | 2022-11-30 |
 | [Note of Mothership](https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Note of Mothership](https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf) | 2:58 | 2026-07-09 | 2026-11-07 |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2025-06-06 |
@@ -498,6 +498,7 @@
 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 | 2024-09-25 | 2025-01-25 |
 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2022-11-17 | 2023-01-18 |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-23 |  |
+| [Way back to You](https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Way back to You](https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP) | 2:01 | 2026-11-06 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-24 | 2026-05-08 |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-10-20 | 2023-01-26 |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-07-04 | 2024-01-11 |

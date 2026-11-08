@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-798 songs - 2 day 1 hr 59 min
+799 songs - 2 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2022-02-25 |
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2023-07-30 | 2026-11-06 |
 | [Cinderella](https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Langkah Baru](https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR) | 3:32 | 2024-01-18 | 2024-03-08 |
-| [Cinta Terakhir](https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Selalu Ada](https://open.spotify.com/album/1WuTbzN9znyO2Bs0HpeaDq) | 3:57 | 2026-02-02 |  |
+| [Cinta Terakhir](https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Selalu Ada](https://open.spotify.com/album/1WuTbzN9znyO2Bs0HpeaDq) | 3:57 | 2026-02-02 | 2026-11-08 |
 | [Cinta Terlarang](https://open.spotify.com/track/3pF1OGQdqegfytyVY0dBeA) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Yes I Am](https://open.spotify.com/album/0WDn4CBLLfrAwiCcRZZmgu) | 4:41 | 2026-11-02 | 2026-11-06 |
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-01-31 | 2023-06-07 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-22 | 2024-02-25 |
@@ -421,7 +421,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-30 | 2024-05-27 |
 | [Makna Cinta](https://open.spotify.com/track/7B3zHfPqcLgV3DHcjQP2OM) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Makna Cinta](https://open.spotify.com/album/1JM15q9f61oK0xO7G9onVn) | 3:25 | 2021-03-27\* | 2021-05-03 |
 | [MALU MALU](https://open.spotify.com/track/4nx5dujfgjriMeQg1OWMsp) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [MALU MALU](https://open.spotify.com/album/2ugCJ3D1fto6d0KcvNQVXJ) | 3:25 | 2026-03-12 | 2026-04-07 |
-| [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-13 |  |
+| [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-13 | 2026-11-08 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-22 | 2024-10-25 |
 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 | 2026-03-20 | 2026-10-02 |
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2024-08-14 | 2024-10-16 |
@@ -470,7 +470,7 @@
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/6N3O7WIEHSHssbw5HVh5nx) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Hati dan Perasaan](https://open.spotify.com/album/0DrZHy9hdQBge6NPOgDqtk) | 3:29 | 2026-08-29 | 2026-10-02 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-26 | 2021-11-21 |
 | [Negoro Angin](https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Negoro Angin](https://open.spotify.com/album/473skY7alrmJfasO5CIeDm) | 5:12 | 2026-10-18 |  |
-| [Negoro Angin](https://open.spotify.com/track/0RMd2sfxpmlZ9cP8XqP4LM) | [Muslih Fvnky](https://open.spotify.com/artist/0IMAJ9BK0WcEm3CYyBSBW8) | [Negoro Angin](https://open.spotify.com/album/1bogPbnsyAUjFKuaUgIhPM) | 5:52 | 2026-10-23 | 2026-10-30 |
+| [Negoro Angin](https://open.spotify.com/track/0RMd2sfxpmlZ9cP8XqP4LM) | [Muslih Fvnky](https://open.spotify.com/artist/0IMAJ9BK0WcEm3CYyBSBW8) | [Negoro Angin](https://open.spotify.com/album/1bogPbnsyAUjFKuaUgIhPM) | 5:52 | 2026-10-23 |  |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-12-02 | 2024-09-08 |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-07 | 2023-12-03 |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-11 | 2023-09-06 |
@@ -514,6 +514,7 @@
 | [Penyangkalan](https://open.spotify.com/track/5BEaISZ1DicXxN6DJ5kdtg) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 2](https://open.spotify.com/album/2unc5XA0Ukwit4IDDWPQno) | 4:00 | 2025-12-12 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-19 | 2023-05-06 |
 | [Peradaban](https://open.spotify.com/track/4YxEeCKhUl1DawPzsxCPbq) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Peradaban](https://open.spotify.com/album/3xlryrSJ3mQ3eY4CGd9ow5) | 5:39 | 2025-08-30 | 2025-09-11 |
+| [Percuma](https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Percuma](https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H) | 4:26 | 2026-11-07 |  |
 | [Peri Cintaku](https://open.spotify.com/track/1ZBZ8jvJbeIWaP7oJheEgq) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 4:19 | 2022-07-30 | 2022-10-09 |
 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 | 2022-04-09 | 2022-07-31 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |

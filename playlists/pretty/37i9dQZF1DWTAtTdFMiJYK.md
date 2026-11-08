@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,706 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,768 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 12 | [Taare](https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK) | [Farak](https://open.spotify.com/artist/1gbYkP3zeoGen1itU6pO9a), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh), [Saswat Balan](https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz) | [Deewar Ke Uss Paar](https://open.spotify.com/album/5pf8fOWonD7NQ3ChzyHNkc) | 2:34 |
 | 13 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 14 | [Punchiri](https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ) | [Eechuu](https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx), [Suhas](https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO), [Chris Wayne](https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc) | [Punchiri](https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY) | 2:43 |
-| 15 | [sun saawariya](https://open.spotify.com/track/0dnsJ8W8k4ncYstIsrz5pY) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Yaani Karnawat](https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8) | [sun saawariya](https://open.spotify.com/album/6TsxNWUu5OwoS11OORzoWy) | 2:39 |
-| 16 | [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 |
+| 15 | [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 |
+| 16 | [sun saawariya](https://open.spotify.com/track/0dnsJ8W8k4ncYstIsrz5pY) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Yaani Karnawat](https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8) | [sun saawariya](https://open.spotify.com/album/6TsxNWUu5OwoS11OORzoWy) | 2:39 |
 | 17 | [Zulfe](https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Zulfe](https://open.spotify.com/album/46guavxrNdZddtM3XouUli) | 2:39 |
 | 18 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 |
 | 19 | [Theher Ja](https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Theher Ja](https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9) | 4:09 |

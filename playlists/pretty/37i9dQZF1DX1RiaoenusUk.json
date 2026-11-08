@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35640,
+  "num_followers": 35651,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Can't Fight The Funk",
+      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "Angelitos",
         "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 143157,
       "name": "Angelitos",
       "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Can't Fight The Funk",
-      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209546,
       "name": "Tal para Cual",
       "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 259880,
       "name": "Bienvenidos al Presente",
       "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Vos No",
-        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 220752,
-      "name": "Vos No",
-      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Vos No",
+        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 220752,
+      "name": "Vos No",
+      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Espacios",
-        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        },
-        {
-          "name": "Dinast\u00eda",
-          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Afromama Jams",
         "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 183651,
       "name": "Afromama Jams",
       "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Espacios",
+        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        },
+        {
+          "name": "Dinast\u00eda",
+          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1463,6 +1463,38 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1479,18 +1511,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
       "artists": [
         {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1519,38 +1551,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1563,54 +1563,6 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Que Me Pasa",
-        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
-      },
-      "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Que Me Pasa",
-      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "El Efecto Calma",
-        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 246085,
-      "name": "El Efecto Calma",
-      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1631,22 +1583,50 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Polvo C\u00f3smico (Remix)",
-        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
       "artists": [
         {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
         }
       ],
-      "duration_ms": 207888,
-      "name": "Polvo C\u00f3smico - Remix",
-      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "El Efecto Calma",
+        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 246085,
+      "name": "El Efecto Calma",
+      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Que Me Pasa",
+        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
+      },
+      "artists": [
+        {
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Que Me Pasa",
+      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1663,6 +1643,26 @@
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Polvo C\u00f3smico (Remix)",
+        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
+      },
+      "artists": [
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "Polvo C\u00f3smico - Remix",
+      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
     }
   ],
   "unique_name": "Nota Funk",

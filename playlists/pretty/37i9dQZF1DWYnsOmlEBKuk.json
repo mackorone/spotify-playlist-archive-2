@@ -1,6 +1,6 @@
 {
   "description": "Ruido blanco para ayudar a los beb\u00e9s a dormir.",
-  "num_followers": 205388,
+  "num_followers": 205540,
   "original_name": "Ruido Blanco para Beb\u00e9s",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Dreams & Calmness",
-        "url": "https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39"
-      },
-      "artists": [
-        {
-          "name": "X.L.T",
-          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
-        }
-      ],
-      "duration_ms": 159027,
-      "name": "Dreams & Calmness",
-      "url": "https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise Trace",
         "url": "https://open.spotify.com/album/3lghFmCHZt7CPEUp5dx7gS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 161000,
       "name": "Bruits Abstraits",
       "url": "https://open.spotify.com/track/7cadBE0k9GVZMyu9YGq5Wn"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Dreams & Calmness",
+        "url": "https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39"
+      },
+      "artists": [
+        {
+          "name": "X.L.T",
+          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
+        }
+      ],
+      "duration_ms": 159027,
+      "name": "Dreams & Calmness",
+      "url": "https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Straight White Noise",
-        "url": "https://open.spotify.com/album/3igppBcDGx4QJCyojtIuRh"
-      },
-      "artists": [
-        {
-          "name": "Utmost-@mos",
-          "url": "https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n"
-        }
-      ],
-      "duration_ms": 177285,
-      "name": "Straight White Noise",
-      "url": "https://open.spotify.com/track/2DydQvon83guPBVvU5Xkyt"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Cloud Dreamscape",
         "url": "https://open.spotify.com/album/16jIj4vPU3lKtKHzL5Gi9F"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184636,
       "name": "White Cloud Dreamscape",
       "url": "https://open.spotify.com/track/0NNcVrT5UMYukfgMhP41UU"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Straight White Noise",
+        "url": "https://open.spotify.com/album/3igppBcDGx4QJCyojtIuRh"
+      },
+      "artists": [
+        {
+          "name": "Utmost-@mos",
+          "url": "https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n"
+        }
+      ],
+      "duration_ms": 177285,
+      "name": "Straight White Noise",
+      "url": "https://open.spotify.com/track/2DydQvon83guPBVvU5Xkyt"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Sleep",
-        "url": "https://open.spotify.com/album/6Sh8wGLvcJKy6ydUx1gcub"
-      },
-      "artists": [
-        {
-          "name": "Amba Naturale",
-          "url": "https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2"
-        }
-      ],
-      "duration_ms": 147491,
-      "name": "White Noise Sleep",
-      "url": "https://open.spotify.com/track/7HUWop5lXtuoPZqNk0m0mX"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "Sleep Line Noise",
         "url": "https://open.spotify.com/album/4vfS8yVVlZMkVXIiONIQWd"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 128126,
       "name": "Pure White Noise",
       "url": "https://open.spotify.com/track/7Fl8xrLFDKNI5QjUWFFFnH"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "White Noise Sleep",
+        "url": "https://open.spotify.com/album/6Sh8wGLvcJKy6ydUx1gcub"
+      },
+      "artists": [
+        {
+          "name": "Amba Naturale",
+          "url": "https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2"
+        }
+      ],
+      "duration_ms": 147491,
+      "name": "White Noise Sleep",
+      "url": "https://open.spotify.com/track/7HUWop5lXtuoPZqNk0m0mX"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Vitt Brus",
-        "url": "https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT"
-      },
-      "artists": [
-        {
-          "name": "Akvavit",
-          "url": "https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Ljudet av en skugga",
-      "url": "https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise Healing Energies",
         "url": "https://open.spotify.com/album/3m9IYueKuKljNp9NvqQWs2"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Calm Layers of White",
-        "url": "https://open.spotify.com/album/6UvEUZLbnamASMxrEHy5ai"
+        "name": "Vitt Brus",
+        "url": "https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT"
       },
       "artists": [
         {
-          "name": "Gentle Reprieve",
-          "url": "https://open.spotify.com/artist/5FT39nxeIROmOP871COIO4"
+          "name": "Akvavit",
+          "url": "https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Calm Layers of White",
-      "url": "https://open.spotify.com/track/6dnZGCuXlfNTJHaYqcwJTn"
+      "duration_ms": 164354,
+      "name": "Ljudet av en skugga",
+      "url": "https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -967,6 +951,22 @@
       "duration_ms": 162557,
       "name": "Delicate White Noise",
       "url": "https://open.spotify.com/track/6sUY8p4taLXxhqoo3JbOhR"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Calm Layers of White",
+        "url": "https://open.spotify.com/album/6UvEUZLbnamASMxrEHy5ai"
+      },
+      "artists": [
+        {
+          "name": "Gentle Reprieve",
+          "url": "https://open.spotify.com/artist/5FT39nxeIROmOP871COIO4"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Calm Layers of White",
+      "url": "https://open.spotify.com/track/6dnZGCuXlfNTJHaYqcwJTn"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "The Deep White Noise",
-        "url": "https://open.spotify.com/album/4ReLyNKP6q9McH4V9nu7z3"
-      },
-      "artists": [
-        {
-          "name": "Universal Waves",
-          "url": "https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8"
-        }
-      ],
-      "duration_ms": 192153,
-      "name": "The Dark White Noise",
-      "url": "https://open.spotify.com/track/0Se7OnifRxYPVsimoV1Yyb"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "Buzzing",
         "url": "https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 171000,
       "name": "Buzzing",
       "url": "https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "The Deep White Noise",
+        "url": "https://open.spotify.com/album/4ReLyNKP6q9McH4V9nu7z3"
+      },
+      "artists": [
+        {
+          "name": "Universal Waves",
+          "url": "https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8"
+        }
+      ],
+      "duration_ms": 192153,
+      "name": "The Dark White Noise",
+      "url": "https://open.spotify.com/track/0Se7OnifRxYPVsimoV1Yyb"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise warms the Night",
-        "url": "https://open.spotify.com/album/1ECUAqLyinBsBbqi3yD6aK"
-      },
-      "artists": [
-        {
-          "name": "Xiskko",
-          "url": "https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg"
-        }
-      ],
-      "duration_ms": 342540,
-      "name": "White Noise warms the Night",
-      "url": "https://open.spotify.com/track/3RtmvRvYqnpTNcMb3c1rMH"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "Sleepy Stream",
         "url": "https://open.spotify.com/album/3Tph9JVGBEKSQ46sTBRglJ"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 174903,
       "name": "White Haze",
       "url": "https://open.spotify.com/track/2FL3hIfryGKeLJkykSlyhZ"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "White Noise warms the Night",
+        "url": "https://open.spotify.com/album/1ECUAqLyinBsBbqi3yD6aK"
+      },
+      "artists": [
+        {
+          "name": "Xiskko",
+          "url": "https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg"
+        }
+      ],
+      "duration_ms": 342540,
+      "name": "White Noise warms the Night",
+      "url": "https://open.spotify.com/track/3RtmvRvYqnpTNcMb3c1rMH"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Meditation Escape",
-        "url": "https://open.spotify.com/album/0sKMea0kODeBpoaCmFVVLK"
-      },
-      "artists": [
-        {
-          "name": "Faible Et Lente",
-          "url": "https://open.spotify.com/artist/1Hwi4HepkRbADl1q6nznXk"
-        }
-      ],
-      "duration_ms": 122559,
-      "name": "Relaxation Symphony",
-      "url": "https://open.spotify.com/track/3Zq97Al83BfRicHxTM3l2Q"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "The White Noise of the Ocean",
         "url": "https://open.spotify.com/album/7kpoTZnyOtYjqNwD9p1n9f"
       },
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Oblivious Noise",
-        "url": "https://open.spotify.com/album/4pdI1rB7U4PNUlTzP9zzhK"
+        "name": "White Noise Meditation Escape",
+        "url": "https://open.spotify.com/album/0sKMea0kODeBpoaCmFVVLK"
       },
       "artists": [
         {
-          "name": "Deep Horizon Waves",
-          "url": "https://open.spotify.com/artist/5aw5WfeOV5ThlwFcfaK9JO"
+          "name": "Faible Et Lente",
+          "url": "https://open.spotify.com/artist/1Hwi4HepkRbADl1q6nznXk"
         }
       ],
-      "duration_ms": 124087,
-      "name": "Pause The Noise",
-      "url": "https://open.spotify.com/track/0mDQqx2jS7Da0kok7oUiiJ"
+      "duration_ms": 122559,
+      "name": "Relaxation Symphony",
+      "url": "https://open.spotify.com/track/3Zq97Al83BfRicHxTM3l2Q"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2007,6 +1991,22 @@
       "duration_ms": 120372,
       "name": "The White Noise of the Night",
       "url": "https://open.spotify.com/track/6Va5Qu4OHm859mW0PU68Q5"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Oblivious Noise",
+        "url": "https://open.spotify.com/album/4pdI1rB7U4PNUlTzP9zzhK"
+      },
+      "artists": [
+        {
+          "name": "Deep Horizon Waves",
+          "url": "https://open.spotify.com/artist/5aw5WfeOV5ThlwFcfaK9JO"
+        }
+      ],
+      "duration_ms": 124087,
+      "name": "Pause The Noise",
+      "url": "https://open.spotify.com/track/0mDQqx2jS7Da0kok7oUiiJ"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Sounds For Sleep",
-        "url": "https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd"
-      },
-      "artists": [
-        {
-          "name": "Dream Boxx",
-          "url": "https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf"
-        }
-      ],
-      "duration_ms": 171641,
-      "name": "Extraordinary White Noise",
-      "url": "https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise in the Distance",
         "url": "https://open.spotify.com/album/0tA37GEuagiV2sOkCly8Pm"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 139691,
       "name": "White Noise in the Distance",
       "url": "https://open.spotify.com/track/3PdfDCIdYkjvm9tIxIEleN"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "White Noise Sounds For Sleep",
+        "url": "https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd"
+      },
+      "artists": [
+        {
+          "name": "Dream Boxx",
+          "url": "https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf"
+        }
+      ],
+      "duration_ms": 171641,
+      "name": "Extraordinary White Noise",
+      "url": "https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "The White Noise of the Night",
-        "url": "https://open.spotify.com/album/1ENrd16wIuMGEYmwgqBrtH"
-      },
-      "artists": [
-        {
-          "name": "FX Soundtrap",
-          "url": "https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "White Noise and the Shadows",
-      "url": "https://open.spotify.com/track/4tN7dfYZz9cclvnmCG1gUZ"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise in the Distance",
         "url": "https://open.spotify.com/album/0tA37GEuagiV2sOkCly8Pm"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 135233,
       "name": "The White Noise of the Waves",
       "url": "https://open.spotify.com/track/6cjaNyCJ5EanutZrA6IZtg"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "The White Noise of the Night",
+        "url": "https://open.spotify.com/album/1ENrd16wIuMGEYmwgqBrtH"
+      },
+      "artists": [
+        {
+          "name": "FX Soundtrap",
+          "url": "https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "White Noise and the Shadows",
+      "url": "https://open.spotify.com/track/4tN7dfYZz9cclvnmCG1gUZ"
     },
     {
       "added_at": "2026-03-24 16:45:11",

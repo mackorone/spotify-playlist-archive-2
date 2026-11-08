@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,565 likes - 46 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,567 likes - 46 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 7 | [Te Pierdo Y Te Pienso](https://open.spotify.com/track/0OEmCXtYoiZrlzYcjlTm7Z) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:56 |
 | 8 | [Te Sorprenderás](https://open.spotify.com/track/1scX9xCsjlD02BxIv1cGe9) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:48 |
 | 9 | [Regálame Una Noche](https://open.spotify.com/track/4v62HiR0HR8tw7E02EPkKS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:08 |
-| 10 | [Me Matará El Sentimiento](https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:00 |
+| 10 | [Despues de Ti](https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 3:25 |
 | 11 | [Perdóname La Vida](https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:52 |
 | 12 | [Ahora Que Te Vas](https://open.spotify.com/track/4LBbfm0Y51pEQJuRqpMsUF) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 5:05 |
-| 13 | [Despues de Ti](https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 3:25 |
+| 13 | [Me Matará El Sentimiento](https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:00 |
 | 14 | [Ven Y Dime](https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:03 |
 | 15 | [Primavera Azul](https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:27 |
 | 16 | [Mi Dulce Amor](https://open.spotify.com/track/1cfPm4pUffGbFCIyXxBHpH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:06 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 45 | [Te Quiero Como Eres](https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Orgullo Vallenato](https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA) | 4:43 |
 | 46 | [Si La Ves](https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:39 |
 
-Snapshot ID: `aup1gAAAAAArbUB3hAFdC4znZc5C0Ls/`
+Snapshot ID: `au0YgAAAAACYMawxWS3Rt1BMohG74BOG`

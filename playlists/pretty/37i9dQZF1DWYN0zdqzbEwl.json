@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4255846,
+  "num_followers": 4255795,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
-        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "La Lola",
-      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 230693,
       "name": "Pobre so\u00f1ador",
       "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "La Lola",
+      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Esa noche",
-      "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
         "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 292266,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/5wCUdBsdubZ3ZFoJoRsMrY"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Esa noche",
+      "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
     },
     {
       "added_at": "2026-05-19 14:18:22",

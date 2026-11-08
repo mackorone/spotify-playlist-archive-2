@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Jack Harlow, Ruben, Sval, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,825 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,815 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 5 | [Shock Treatment](https://open.spotify.com/track/1415LHNNQk0H9QxA1czv9q) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [I Thought We Were the Same](https://open.spotify.com/album/0hKPCLMN5IS0x6WnvaE9fw) | 3:00 |
 | 6 | [Hopeless Romantic](https://open.spotify.com/track/6XQtlqis3yzBJ3bRZwia9g) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Hopeless Romantic](https://open.spotify.com/album/2r2IBXgBiDBdk6hstZMRFB) | 2:17 |
 | 7 | [Jeg har aldri elsket ham](https://open.spotify.com/track/0Dc0z7ZptrJEM6YA8S5uDv) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Jeg har aldri elsket ham](https://open.spotify.com/album/3D2fGENoVFHeTOKk8LItws) | 2:26 |
-| 8 | [Banens beste på bar](https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW) | [Sebb Ottesen](https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ) | [Banens beste på bar](https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM) | 3:22 |
+| 8 | [Banens beste på bar \(Fast inventar\)](https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW) | [Sebb Ottesen](https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ) | [Banens beste på bar](https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM) | 3:23 |
 | 9 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
 | 10 | [You Can't Always Get What You Want](https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [You Can’t Always Get What You Want](https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF) | 3:29 |
 | 11 | [Drøm](https://open.spotify.com/track/5eEnFtXlr1zBrtrTtgogIB) | [KLØBB](https://open.spotify.com/artist/0864rBD4uWfkqvq3DENWIa), [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Drøm](https://open.spotify.com/album/6lKga4wNtwaNjPAYPJBxEl) | 8:53 |

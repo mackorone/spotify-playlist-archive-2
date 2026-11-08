@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🔊 Tech house operators, featuring Bruno Furlan
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,836 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,902 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ritmo](https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Ritmo](https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz) | 2:52 |
+| 1 | [Don't Call Me \(feat\. EVALINA\)](https://open.spotify.com/track/2T8WhPKsCxZeylhcxL5z3Y) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Don't Call Me \(feat\. EVALINA\)](https://open.spotify.com/album/3NX89CyKXrb3lhJXnbMbbt) | 2:34 |
 | 2 | [When We're Dancing](https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [When We're Dancing](https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx) | 3:25 |
-| 3 | [Hot Girl Walk](https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t), [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Hot Girl Walk](https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp) | 2:47 |
-| 4 | [Don't Call Me \(feat\. EVALINA\)](https://open.spotify.com/track/2T8WhPKsCxZeylhcxL5z3Y) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Don't Call Me \(feat\. EVALINA\)](https://open.spotify.com/album/3NX89CyKXrb3lhJXnbMbbt) | 2:34 |
+| 3 | [Ritmo](https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Ritmo](https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz) | 2:52 |
+| 4 | [Hot Girl Walk](https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t), [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Hot Girl Walk](https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp) | 2:47 |
 | 5 | [Out of Sight, Out of Mind](https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ) | 3:03 |
 | 6 | [Hypnotize](https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Hypnotize](https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR) | 3:15 |
 | 7 | [Keep Cool](https://open.spotify.com/track/2uZ762bCjzqyki5tdW5LqG) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Keep Cool](https://open.spotify.com/album/4uWySvnt9kdErGSqoDfRGu) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 99 | [TCFS](https://open.spotify.com/track/4V3SzxQdZxMgxj2Db6OHoT) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [TCFS](https://open.spotify.com/album/0292ICJLqncZerKgvuT7cw) | 3:16 |
 | 100 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 |
 
-Snapshot ID: `AAAAADKKDGkCfUe97NeJddlnX0Oc4Hre`
+Snapshot ID: `AAAAAOcyZmjrDjPNCQyJhEPCKDHjWF86`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 145 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 145 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 7 | [LOBSTER](https://open.spotify.com/track/06X1jf46YLupZP2dWHgmqX) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [LOBSTER](https://open.spotify.com/album/1hOfmAqTU8E3wQtb4sPyVn) | 2:20 |
 | 8 | [Das ist Bonez 💀](https://open.spotify.com/track/6tJxEvSIBU46PrbcK5TDnM) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:23 |
 | 9 | [Tränen](https://open.spotify.com/track/653cdEL1j2MkpBYDUDuVz1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Tränen](https://open.spotify.com/album/2ky9BhNZIjorR4hQUCxF7b) | 2:34 |
-| 10 | [Unerlaubtes Fahren](https://open.spotify.com/track/4wiqWPFnkb3Y0ZOvpA0vFn) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:44 |
-| 11 | [Regentage](https://open.spotify.com/track/5PzxDjckViRSIthxbO66VT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:58 |
+| 10 | [Regentage](https://open.spotify.com/track/5PzxDjckViRSIthxbO66VT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:58 |
+| 11 | [Unerlaubtes Fahren](https://open.spotify.com/track/4wiqWPFnkb3Y0ZOvpA0vFn) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:44 |
 | 12 | [Theorie und Praxis](https://open.spotify.com/track/3PTdT1lrROgSRZzHknt8x6) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:35 |
 | 13 | [Loser ABC](https://open.spotify.com/track/6lc1ISzO4g21uq6FVDpVYv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:41 |
 | 14 | [GANGSIGNS](https://open.spotify.com/track/56RnsXj3ZH5VAElAo9H1ot) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [GANGSIGNS](https://open.spotify.com/album/1nOnATUcB6S7E6AHqQzFH8) | 1:48 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 81 | [Too Many](https://open.spotify.com/track/7lU5Ai0Zqrq9Kone1nfKVq) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 2:48 |
 | 82 | [Hoch](https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [Ich falle in Frieden \(Deluxe\)](https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI) | 2:46 |
 | 83 | [PREMIUM CHAYA](https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:29 |
-| 84 | [Oxygen](https://open.spotify.com/track/1ldGKrswcYHf1dVrIQEhqF) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 1:40 |
-| 85 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 84 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 85 | [Oxygen](https://open.spotify.com/track/1ldGKrswcYHf1dVrIQEhqF) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 1:40 |
 | 86 | [Manie](https://open.spotify.com/track/3iTZSWuyt8q63NYYef57TH) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:20 |
 | 87 | [Promille](https://open.spotify.com/track/2LFXpDsnWZcqEBCtWAXZvl) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:28 |
 | 88 | [@ MICH NICHT](https://open.spotify.com/track/0577wNwjGF5MdVmN1cJgMj) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:03 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 91 | [Vibration](https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:23 |
 | 92 | [PINKE CUPS](https://open.spotify.com/track/4NEhe2iMl5aTV56ybgi874) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 1:44 |
 | 93 | [STOP](https://open.spotify.com/track/10wN7VGTQH6EyFTtc6Jquk) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:05 |
-| 94 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
-| 95 | [GERMAN DREAM](https://open.spotify.com/track/1dI7p6eKrifseIDC0isY7L) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:36 |
+| 94 | [GERMAN DREAM](https://open.spotify.com/track/1dI7p6eKrifseIDC0isY7L) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:36 |
+| 95 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
 | 96 | [Song 2](https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:20 |
 | 97 | [GRILL ROYAL](https://open.spotify.com/track/7jJR5j9jZd8ELDph3B26gT) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 2:15 |
 | 98 | [Motte](https://open.spotify.com/track/2GMODpP7Gm5vI1upzdRnCz) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:17 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 112 | [WARTE MAL](https://open.spotify.com/track/2J2tlbDEMw0k0j2aikKXIo) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:19 |
 | 113 | [gesagtgetan](https://open.spotify.com/track/5D2Zqr3n0uR8m17JNRwnAi) | [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Gesagt Getan](https://open.spotify.com/album/0IeJq03H8GLnjmnQYX9CIB) | 1:59 |
 | 114 | [prelude allein](https://open.spotify.com/track/5cuNuLsvZ8gQNFtAwxqYGe) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 1:45 |
-| 115 | [Wäre ich](https://open.spotify.com/track/5BQqQI7Zt6fmyBG4nJ99px) | [9inebro](https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Kompass](https://open.spotify.com/album/7aoyG2OQE7gRPpzFhqvjbJ) | 2:44 |
-| 116 | [HOLY](https://open.spotify.com/track/75jIs0vO8I6O77joRVg86N) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 3:53 |
+| 115 | [HOLY](https://open.spotify.com/track/75jIs0vO8I6O77joRVg86N) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 3:53 |
+| 116 | [Wäre ich](https://open.spotify.com/track/5BQqQI7Zt6fmyBG4nJ99px) | [9inebro](https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Kompass](https://open.spotify.com/album/7aoyG2OQE7gRPpzFhqvjbJ) | 2:44 |
 | 117 | [1 Leben lang](https://open.spotify.com/track/6eesOIdqCyLWF7j8iSUOKS) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [1 Leben lang](https://open.spotify.com/album/6EZ4IsdnEBIPCHiiE8nTxI) | 2:18 |
 | 118 | [BLU RAY](https://open.spotify.com/track/3eI25pZPGVisbHUcGc8zqq) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 3:42 |
 | 119 | [TAGTRAUM](https://open.spotify.com/track/5AP18jFPVYivF6m24upp8L) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:35 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 144 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 145 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `Acg+mAAAAAAK+GB80CF9KhL2RK7Sk85P`
+Snapshot ID: `AchEGgAAAABjh/Sf7185t2CE9+PQElSd`

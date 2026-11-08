@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,156 likes - 96 songs - 5 hr 30 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,156 likes - 98 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 94 | [Akimbo](https://open.spotify.com/track/6SnG8fNedJViw0U6fx5qRg) | [Donnie Ace](https://open.spotify.com/artist/2NzFb0RWC4MP4kfN7wdg6v) | [Akimbo](https://open.spotify.com/album/7LUxUe1g421Ja7tlTIOrda) | 2:46 |
 | 95 | [Marasma](https://open.spotify.com/track/7CnaE1l3dfIPMam9dcXUN8) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Marasma](https://open.spotify.com/album/1ZFtstJ9coZI7JfePRCTlI) | 2:32 |
 | 96 | [Pathological](https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Pathological](https://open.spotify.com/album/7ECaU37wnfC5WRrrd17FPN) | 3:25 |
+| 97 | [Vortex](https://open.spotify.com/track/1fZGj47vPETglpLgbdmOt9) | [Pacific Sunsets](https://open.spotify.com/artist/7gm630ZR1NLY8fFD52XjIZ) | [New Earth](https://open.spotify.com/album/3k8N0sZrWStJ1wV0x0lwcQ) | 3:20 |
+| 98 | [Boy](https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Goodbye Nordhamn](https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t) | 4:34 |
 
-Snapshot ID: `AAAQRB27K/JDScfgkg3+tVGB7Sbv/Uhj`
+Snapshot ID: `AAAQRqFb2ORR0auYuKdAl8FbuiRYQMgt`

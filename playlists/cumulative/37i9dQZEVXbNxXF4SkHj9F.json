@@ -19374,7 +19374,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 276920,
       "name": "Joy, Sorrow, A Beautiful Heart",
       "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
@@ -37066,7 +37066,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 156000,
       "name": "The Answer Is Yes",
       "url": "https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN"
@@ -42329,6 +42329,24 @@
     },
     {
       "album": {
+        "name": "You're Under Arrest (Remixes)",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
+    },
+    {
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
       },
@@ -42606,7 +42624,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 181911,
       "name": "You\u2019re Under Arrest",
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"

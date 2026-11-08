@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 416339,
+  "num_followers": 416328,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Human Emotion",
+        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
+      },
+      "artists": [
+        {
+          "name": "Small Forward",
+          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Human Emotion",
+      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Human Emotion",
-        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
-      },
-      "artists": [
-        {
-          "name": "Small Forward",
-          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Human Emotion",
-      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Speaking With Trees",
         "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
       },
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Star Nation",
         "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1635,6 +1619,22 @@
       "duration_ms": 197373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1835,22 +1819,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mouth (feat. Luke Krutzke)",
-        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        },
-        {
-          "name": "Luke Krutzke",
-          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
         }
       ],
-      "duration_ms": 236032,
-      "name": "Mouth (feat. Luke Krutzke)",
-      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1871,18 +1867,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+        "name": "Mouth (feat. Luke Krutzke)",
+        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        },
+        {
+          "name": "Luke Krutzke",
+          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
         }
       ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+      "duration_ms": 236032,
+      "name": "Mouth (feat. Luke Krutzke)",
+      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Bummer Year",
+        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Bummer Year",
+      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Coast is Waiting",
         "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 283922,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Bummer Year",
-        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Bummer Year",
-      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Standing On The Moon",
-        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 299536,
-      "name": "Standing On The Moon",
-      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+        "name": "Standing On The Moon",
+        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 299536,
+      "name": "Standing On The Moon",
+      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2295,6 +2279,22 @@
       "duration_ms": 174156,
       "name": "Greatest Weapon",
       "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Moontalk",
-        "url": "https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 191435,
-      "name": "Moontalk",
-      "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Forever Had to End",
         "url": "https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 222560,
       "name": "Forever Had to End",
       "url": "https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Moontalk",
+        "url": "https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 191435,
+      "name": "Moontalk",
+      "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
     },
     {
       "added_at": "2025-02-07 05:00:36",

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1540033,
+  "num_followers": 1539882,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -35,6 +35,26 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Suzuki (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 111655,
+      "name": "Suzuki (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "OLIVIA LA FLAKA",
         "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2"
       },
@@ -59,26 +79,6 @@
       "duration_ms": 336000,
       "name": "OLIVIA LA FLAKA",
       "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Suzuki (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 111655,
-      "name": "Suzuki (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 184793,
-      "name": "BANDERA BLANCA",
-      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Palomitas en la muela",
         "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 173547,
       "name": "Palomitas en la muela",
       "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 184793,
+      "name": "BANDERA BLANCA",
+      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "DR. STRANGE",
-        "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
-      },
-      "artists": [
-        {
-          "name": "Anakin Larios",
-          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
-        },
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 163909,
-      "name": "DR. STRANGE",
-      "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "INTELIGENCIA ARTESANAL",
         "url": "https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 136446,
       "name": "IBUPROFENO",
       "url": "https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "DR. STRANGE",
+        "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "DR. STRANGE",
+      "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "CALLA\u00cdTO SAFARI",
+        "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
+      },
+      "artists": [
+        {
+          "name": "LOS MENOR3S",
+          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
+        }
+      ],
+      "duration_ms": 176074,
+      "name": "calla\u00edto safari",
+      "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "CALLA\u00cdTO SAFARI",
-        "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
-      },
-      "artists": [
-        {
-          "name": "LOS MENOR3S",
-          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
-        }
-      ],
-      "duration_ms": 176074,
-      "name": "calla\u00edto safari",
-      "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Qui\u00e9reme as\u00ed",
+        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 211611,
+      "name": "Qui\u00e9reme as\u00ed",
+      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Qui\u00e9reme as\u00ed",
-        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 211611,
-      "name": "Qui\u00e9reme as\u00ed",
-      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
     },
     {
       "added_at": "2026-10-21 21:02:34",

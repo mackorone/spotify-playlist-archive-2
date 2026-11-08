@@ -1,6 +1,6 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1426739,
+  "num_followers": 1426597,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Cartas Sobre a Mesa",
         "url": "https://open.spotify.com/album/4zhkOGD25y5jkRcZG3kLD7"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 314146,
       "name": "Cartas Sobre a Mesa",
       "url": "https://open.spotify.com/track/7IF3waZCSl2q2ao7Jyu1Ze"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "Matchola - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 172779,
-      "name": "BARRIL DOBRADO - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -1263,6 +1263,34 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "ALIBABA",
+        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "ALIBABA",
+      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1579,34 +1607,6 @@
       "duration_ms": 127438,
       "name": "67",
       "url": "https://open.spotify.com/track/7aJIYxk3Fn3Hxx4NYxhekl"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "ALIBABA",
-        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
-      },
-      "artists": [
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
-        }
-      ],
-      "duration_ms": 160203,
-      "name": "ALIBABA",
-      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
     }
   ],
   "unique_name": "creme",

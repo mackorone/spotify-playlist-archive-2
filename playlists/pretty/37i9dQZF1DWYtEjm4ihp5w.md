@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,673 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,819 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 2 | [Sabor](https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Sabor](https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU) | 3:48 |
 | 3 | [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 |
 | 4 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
-| 5 | [Capitaine](https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Capitaine](https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV) | 2:57 |
-| 6 | [9OWA](https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [THUGCLUB x 9OWA](https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc) | 2:35 |
-| 7 | [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 |
-| 8 | [Zone De Confort](https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Zone De Confort](https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us) | 3:04 |
-| 9 | [10 JANVIER](https://open.spotify.com/track/0HX2NuShIsmSyHmlVl9pwK) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [ELEMENTS](https://open.spotify.com/album/3iEFRyxaPao392F11XQHHn) | 2:50 |
-| 10 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
-| 11 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
-| 12 | [MOWSEBA](https://open.spotify.com/track/1PTyqUycMW8ysyUrliyWIa) | [Moovd](https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR) | [MOWSEBA](https://open.spotify.com/album/4AEid32Pc11t4ESIZbjnh5) | 2:07 |
-| 13 | [RLX](https://open.spotify.com/track/6QOW7pugKU5qa1Z08LUxKC) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [RLX](https://open.spotify.com/album/72xOrxM6KZaVIwLDUHgDkz) | 2:53 |
-| 14 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
-| 15 | [flou](https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC) | [Jbiina](https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [flou](https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX) | 2:09 |
-| 16 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 |
-| 17 | [ALTER EGO](https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [KAIZEN](https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt) | 2:52 |
-| 18 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
-| 19 | [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 |
-| 20 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
-| 21 | [J'en ai marre](https://open.spotify.com/track/2RL4lGgnvpJzZg4lfTvrPo) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [J'en ai marre](https://open.spotify.com/album/6g5QAGRcNpbBohDuirDkIx) | 3:36 |
+| 5 | [J'en ai marre](https://open.spotify.com/track/2RL4lGgnvpJzZg4lfTvrPo) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [J'en ai marre](https://open.spotify.com/album/6g5QAGRcNpbBohDuirDkIx) | 3:36 |
+| 6 | [Capitaine](https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Capitaine](https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV) | 2:57 |
+| 7 | [9OWA](https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [THUGCLUB x 9OWA](https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc) | 2:35 |
+| 8 | [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 |
+| 9 | [MOWSEBA](https://open.spotify.com/track/1PTyqUycMW8ysyUrliyWIa) | [Moovd](https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR) | [MOWSEBA](https://open.spotify.com/album/4AEid32Pc11t4ESIZbjnh5) | 2:07 |
+| 10 | [Zone De Confort](https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Zone De Confort](https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us) | 3:04 |
+| 11 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
+| 12 | [10 JANVIER](https://open.spotify.com/track/0HX2NuShIsmSyHmlVl9pwK) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [ELEMENTS](https://open.spotify.com/album/3iEFRyxaPao392F11XQHHn) | 2:50 |
+| 13 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
+| 14 | [RLX](https://open.spotify.com/track/6QOW7pugKU5qa1Z08LUxKC) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [RLX](https://open.spotify.com/album/72xOrxM6KZaVIwLDUHgDkz) | 2:53 |
+| 15 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
+| 16 | [flou](https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC) | [Jbiina](https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [flou](https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX) | 2:09 |
+| 17 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 |
+| 18 | [ALTER EGO](https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [KAIZEN](https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt) | 2:52 |
+| 19 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
+| 20 | [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 |
+| 21 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
 | 22 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:53 |
 | 23 | [Lhouma](https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lhouma](https://open.spotify.com/album/4dlbre35ZWgCEqdgdAt70S) | 3:32 |
 | 24 | [SAMEDI \(feat\. Shaw\)](https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [OTAGE](https://open.spotify.com/track/09CMjY5ObC4G9NNyGH7Upc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:13 |
 | 50 | [CVP](https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:47 |
 
-Snapshot ID: `AAAAAAbPDB6POvexICNLZOWPxSMbID0Z`
+Snapshot ID: `AAAAAFib8lOKyvIpHwovfGikEF9CZ5hR`

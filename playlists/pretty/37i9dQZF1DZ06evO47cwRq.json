@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 3208117,
+  "num_followers": 3208454,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADwYriaGHbc/mY5HT8/9dEB",
+  "snapshot_id": "au0YgAAAAACBC8eww9DvCYW8r9d68AJb",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 228606,
-      "name": "Cut the Bridge",
-      "url": "https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq"
+      "duration_ms": 185414,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 185414,
-      "name": "Stained",
-      "url": "https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF"
+      "duration_ms": 228606,
+      "name": "Cut the Bridge",
+      "url": "https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq"
     },
     {
       "added_at": null,

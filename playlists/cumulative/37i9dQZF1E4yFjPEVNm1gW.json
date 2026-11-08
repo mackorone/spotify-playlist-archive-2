@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Ken Carson, Autumn! and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1089,6 +1089,32 @@
     },
     {
       "album": {
+        "name": "Chrome Hearts and Shades",
+        "url": "https://open.spotify.com/album/4XKS5pjTol2aeVV3LG6POW"
+      },
+      "artists": [
+        {
+          "name": "reconboy",
+          "url": "https://open.spotify.com/artist/5SvXB9Z6VVh4cJ1Cvw5ozb"
+        },
+        {
+          "name": "GoodFinesse",
+          "url": "https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Chrome Hearts and Shades",
+      "url": "https://open.spotify.com/track/6S7N2tNRzBGNipnqHshbiJ"
+    },
+    {
+      "album": {
         "name": "ME MILLIONTH DOLLAR // CLARINET",
         "url": "https://open.spotify.com/album/5UAziaXOwMZJaPtPOMFGLO"
       },
@@ -1220,7 +1246,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1804,7 +1830,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
@@ -2570,7 +2596,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 115356,
       "name": "havin",
       "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
@@ -4498,7 +4524,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"

@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 200717,
+  "num_followers": 200728,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Christmas Is\u2026",
-        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
+        "name": "It Snowed",
+        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Christmas Is",
-      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
+      "duration_ms": 163724,
+      "name": "It Snowed",
+      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "Christmas Is\u2026",
+        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Christmas Is",
+      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
         "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "Ella & Louis Christmas",
         "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 164080,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -635,6 +651,26 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "Christmas Wish (Deluxe)",
         "url": "https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA"
       },
@@ -663,26 +699,6 @@
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "All That Glitters",
-        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -739,6 +755,26 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "Rudolph, the Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        },
+        {
+          "name": "Matthew Barber",
+          "url": "https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Rudolph, the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -767,26 +803,6 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "Rudolph, the Red-Nosed Reindeer",
-        "url": "https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        },
-        {
-          "name": "Matthew Barber",
-          "url": "https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Rudolph, the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "It's The Most Wonderful Time of the Year",
         "url": "https://open.spotify.com/album/49adamlPmuWjWr5553WIJo"
       },
@@ -971,34 +971,18 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "It Snowed",
-        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 163724,
-      "name": "It Snowed",
-      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -1023,22 +1007,18 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 159973,
-      "name": "Jingle Bells (feat. The Puppini Sisters)",
-      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -1071,6 +1051,26 @@
       "duration_ms": 173915,
       "name": "Santa, Won't You Listen to Me",
       "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Jingle Bells (feat. The Puppini Sisters)",
+      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
     },
     {
       "added_at": "2026-11-06 15:11:17",

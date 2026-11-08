@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 605859,
+  "num_followers": 605866,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,30 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Be Right",
+        "url": "https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
+        },
+        {
+          "name": "Ritmo",
+          "url": "https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT"
+        },
+        {
+          "name": "Asgard",
+          "url": "https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e"
+        }
+      ],
+      "duration_ms": 500281,
+      "name": "Be Right - Asgard Remix",
+      "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "He.art (Omiki & Terra Remix)",
         "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
       },
@@ -419,30 +443,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Be Right",
-        "url": "https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x"
-      },
-      "artists": [
-        {
-          "name": "Liquid Soul",
-          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
-        },
-        {
-          "name": "Ritmo",
-          "url": "https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT"
-        },
-        {
-          "name": "Asgard",
-          "url": "https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e"
-        }
-      ],
-      "duration_ms": 500281,
-      "name": "Be Right - Asgard Remix",
-      "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Aware",
         "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
       },
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
-        }
-      ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/30uZ7QkSe3RiIuNCiRCLWk"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 203250,
       "name": "Something",
       "url": "https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 159642,
       "name": "You Make Me Feel - Radio Version",
       "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Stoned (Zanon Remix)",
-        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
-      },
-      "artists": [
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        },
-        {
-          "name": "Zanon",
-          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
-        }
-      ],
-      "duration_ms": 334647,
-      "name": "Stoned - Zanon Remix",
-      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 201739,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
+        "name": "Stoned (Zanon Remix)",
+        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+        }
+      ],
+      "duration_ms": 334647,
+      "name": "Stoned - Zanon Remix",
+      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Nova Sinfonia",
-        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
+        "name": "Dont Blame Me",
+        "url": "https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS"
       },
       "artists": [
         {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Interactive Noise",
+          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
         }
       ],
-      "duration_ms": 268591,
-      "name": "Nova Sinfonia",
-      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
+      "duration_ms": 310375,
+      "name": "Dont Blame Me",
+      "url": "https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Dont Blame Me",
-        "url": "https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS"
+        "name": "Nova Sinfonia",
+        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
       },
       "artists": [
         {
-          "name": "Interactive Noise",
-          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         }
       ],
-      "duration_ms": 310375,
-      "name": "Dont Blame Me",
-      "url": "https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH"
+      "duration_ms": 268591,
+      "name": "Nova Sinfonia",
+      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Speak from the heart",
+        "url": "https://open.spotify.com/album/2XDVcWTls6hHqcdPuKU3ks"
+      },
+      "artists": [
+        {
+          "name": "Special M",
+          "url": "https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX"
+        }
+      ],
+      "duration_ms": 445714,
+      "name": "Speak from the heart",
+      "url": "https://open.spotify.com/track/1GP9Xys1uOqkjPnAGhWNvu"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 480000,
       "name": "Ancient Aum",
       "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Speak from the heart",
-        "url": "https://open.spotify.com/album/2XDVcWTls6hHqcdPuKU3ks"
-      },
-      "artists": [
-        {
-          "name": "Special M",
-          "url": "https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX"
-        }
-      ],
-      "duration_ms": 445714,
-      "name": "Speak from the heart",
-      "url": "https://open.spotify.com/track/1GP9Xys1uOqkjPnAGhWNvu"
     },
     {
       "added_at": "2026-07-17 04:01:12",

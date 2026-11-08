@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 266429,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
@@ -590,6 +590,24 @@
       "duration_ms": 763311,
       "name": "Under The Lilac Sky",
       "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+    },
+    {
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393181,
+      "name": "You Are Irresistible",
+      "url": "https://open.spotify.com/track/4cfuLhycHlmb4kVpeplFn5"
     },
     {
       "album": {

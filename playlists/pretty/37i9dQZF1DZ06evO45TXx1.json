@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAp9QBDapS9Avs7qV3vqOYH",
+  "snapshot_id": "au0YgAAAAAAHlC67NTpYIFPYGIlr2My3",
   "tracks": [
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 129850,
+      "name": "O Que Ce Tem Pra Nois",
+      "url": "https://open.spotify.com/track/21olh61tUqiwlUqGdExgoh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX"
       },
@@ -1048,13 +1068,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
         }
       ],
-      "duration_ms": 129850,
-      "name": "O Que Ce Tem Pra Nois",
-      "url": "https://open.spotify.com/track/21olh61tUqiwlUqGdExgoh"
+      "duration_ms": 165000,
+      "name": "Tipo de Mulher",
+      "url": "https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ"
     },
     {
       "added_at": null,
@@ -1156,21 +1180,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
         },
         {
-          "name": "\u00cdndio",
-          "url": "https://open.spotify.com/artist/0ugd51XpRpHmc8bgfF9Fdr"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 151888,
-      "name": "N\u00e3o Saio de Casa",
-      "url": "https://open.spotify.com/track/2dJOFLmcklO5NoaDafjFdd"
+      "duration_ms": 128181,
+      "name": "Tira Meu Nome da Boca",
+      "url": "https://open.spotify.com/track/2qQ4MOfz8ncY43DdtNMOAj"
     },
     {
       "added_at": null,
@@ -1219,26 +1239,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+        "name": "Sucessagem",
+        "url": "https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Mulambo",
+          "url": "https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu"
         },
         {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "ykymani",
+          "url": "https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 179824,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+      "duration_ms": 147428,
+      "name": "Sucessagem",
+      "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
     },
     {
       "added_at": null,
@@ -1252,41 +1272,21 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "\u00cdndio",
+          "url": "https://open.spotify.com/artist/0ugd51XpRpHmc8bgfF9Fdr"
+        },
+        {
           "name": "Mello Santana",
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Tipo de Mulher",
-      "url": "https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Vitin.wav",
-          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
-        },
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7"
+      "duration_ms": 151888,
+      "name": "N\u00e3o Saio de Casa",
+      "url": "https://open.spotify.com/track/2dJOFLmcklO5NoaDafjFdd"
     }
   ],
   "unique_name": "This Is Mc Luanna",

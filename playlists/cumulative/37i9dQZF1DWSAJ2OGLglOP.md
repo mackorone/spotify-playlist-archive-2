@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-446 songs - 1 day 1 hr 54 min
+447 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [カミサマキドリ feat\. Takuya Yamanaka \- from THE ORAL CIGARETTES](https://open.spotify.com/track/6JjhSZPjSrY1DmpltRHXkb) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Takuya Yamanaka](https://open.spotify.com/artist/3qH6madqYWx3wuUUDv5EMC) | [HERO](https://open.spotify.com/album/0SD61FTKmzJoNMjFGANQaB) | 3:11 | 2024-01-18 | 2024-02-09 |
 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 | 2026-07-02 |  |
 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-12 | 2026-03-10 |
+| [グッドバイ](https://open.spotify.com/track/5rj2Zjt567Q4NARoZ5p5s5) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SPARK](https://open.spotify.com/album/349JZi1uPUHXQPMpAK3UCn) | 3:13 | 2026-10-20 |  |
 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-15 | 2026-10-14 |
 | [シャケナベイベー](https://open.spotify.com/track/0zlZVdP0ddhqjaGcDVd8oo) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [シャケナベイベー](https://open.spotify.com/album/30c7gFtuKisqereIsvHXzF) | 2:38 | 2026-04-27 |  |
 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 | 2026-10-14 |  |
@@ -381,7 +382,7 @@
 | [バースデイ](https://open.spotify.com/track/5RyHS1kkpiw7hWyrooGdTB) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [バースデイ](https://open.spotify.com/album/07DakPiqYu36m2fBskg1k2) | 4:37 | 2026-10-14 |  |
 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 | 2025-11-11 | 2026-01-15 |
 | [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 | 2026-04-27 | 2026-10-14 |
-| [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 | 2025-01-13 |  |
+| [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 | 2025-01-13 | 2026-11-08 |
 | [ベルガモット](https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ベルガモット](https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn) | 3:16 | 2025-02-21 | 2025-06-13 |
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-04 | 2024-12-26 |
 | [マスク・ド・カメロ](https://open.spotify.com/track/5D17xGgrwh9FbcJRacdizW) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [果実](https://open.spotify.com/album/6YoHhoMbFXNGaI1aL9sBMr) | 3:53 | 2026-10-14 |  |

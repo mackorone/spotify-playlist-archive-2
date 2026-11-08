@@ -22254,7 +22254,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
@@ -22944,6 +22944,28 @@
       "duration_ms": 236040,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3lBKeGFrV9zZRnGzNklsGF"
+    },
+    {
+      "album": {
+        "name": "Your Shadow at Morning (Four Tet Rework)",
+        "url": "https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577500,
+      "name": "Your Shadow at Morning - Four Tet Rework",
+      "url": "https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2"
     },
     {
       "album": {

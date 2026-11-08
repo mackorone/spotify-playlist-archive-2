@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 45 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 |
 | 46 | [Salvador](https://open.spotify.com/track/2dsnEM8ahQjuVmS8miG9jS) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Salvador](https://open.spotify.com/album/4VhygJCt8Zj9h4RDL3Y47v) | 2:59 |
 | 47 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 |
-| 48 | [Discovering You](https://open.spotify.com/track/3exJk2UsZJz4SFAIXoDt4i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 2:32 |
-| 49 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 |
-| 50 | [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 |
+| 48 | [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 |
+| 49 | [Discovering You](https://open.spotify.com/track/3exJk2UsZJz4SFAIXoDt4i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 2:32 |
+| 50 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 |
 | 51 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
 | 52 | [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 |
 | 53 | [me\-a\-holic](https://open.spotify.com/track/6IiBIiix2651uaENtpobXj) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [me\-a\-holic](https://open.spotify.com/album/6gSc7eE8OemBQLlS2vJhbB) | 2:08 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 141 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 142 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 
-Snapshot ID: `Acg+tgAAAAA0wKOcivBEkacPhhIjTWEi`
+Snapshot ID: `AchELgAAAACsMhPVJ5kiUk2xTLAv2HLj`

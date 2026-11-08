@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 166606,
+  "num_followers": 166607,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 253106,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 162794,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 162794,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 157910,
       "name": "Be On My Way (Full)",
       "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "walk but in a garden",
-        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
       "artists": [
         {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
         },
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "oze",
+          "url": "https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL"
         }
       ],
-      "duration_ms": 112500,
-      "name": "walk but in a garden (with mxmtoon)",
-      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+      "duration_ms": 169687,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "walk but in a garden",
+        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "walk but in a garden (with mxmtoon)",
+      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "oze",
-          "url": "https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
     },
     {
       "added_at": "2026-02-09 02:11:35",

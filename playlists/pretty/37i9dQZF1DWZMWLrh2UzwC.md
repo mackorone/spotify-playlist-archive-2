@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from The Weeknd, Rex Orange County, XG, Ajai, Mawi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,450 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,452 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 51 | [Elok](https://open.spotify.com/track/4jKXHDt2mPihniDL3v8vJb) | [Axtin](https://open.spotify.com/artist/5cXYBacWlfemTc0222wlA7), [Luna Shereena](https://open.spotify.com/artist/1zsNNWcXbgsr1e93tXGNb2) | [Elok](https://open.spotify.com/album/0hMo6pBscBn5EWsqskCHtz) | 3:08 |
 | 52 | [NPD](https://open.spotify.com/track/2hL8coQjFCysiBWo7P32j2) | [SOMA](https://open.spotify.com/artist/3Fj985AaeC80YfBloaAksX) | [NPD](https://open.spotify.com/album/40UMMyDYcOFfkp4uvg7KRb) | 4:42 |
 | 53 | [TERUSKANLAH](https://open.spotify.com/track/48K8bzCt0U25s6CwlOiZ82) | [HAZREEN AMREENA](https://open.spotify.com/artist/6mZpjjbvpX5ilfqJAE2HdO) | [TERUSKANLAH](https://open.spotify.com/album/51BpxuKaV5NCe1EsesMx8R) | 3:48 |
-| 54 | [DHUM](https://open.spotify.com/track/4FDGJeMa6nWphoacETrm1f) | [Shayze Nyne](https://open.spotify.com/artist/3bXzJOaE1aHQoBWT70tM2W), [$ino](https://open.spotify.com/artist/3s7a7QyH0xEJi53nt17JN7) | [DHUM](https://open.spotify.com/album/1z4dNgWjPNQygBZ96t99K4) | 2:02 |
+| 54 | [DHUM](https://open.spotify.com/track/4FDGJeMa6nWphoacETrm1f) | [Shayze Nyne](https://open.spotify.com/artist/3bXzJOaE1aHQoBWT70tM2W), [$ino](https://open.spotify.com/artist/4UEFdBpRuVAfI72Y1b08Pa) | [DHUM](https://open.spotify.com/album/1z4dNgWjPNQygBZ96t99K4) | 2:02 |
 | 55 | [Orang Ketiga](https://open.spotify.com/track/5zAJISYL8RkgrGhdM2on4D) | [Dayah Bakar](https://open.spotify.com/artist/0qsauVmMkAGQNRImN6iFQ6) | [Orang Ketiga](https://open.spotify.com/album/7A95QwDDxwjKoAGtve7m4z) | 3:54 |
 | 56 | [Bagaikan Bintang](https://open.spotify.com/track/3Q4Tj5e2isOjbnR0RBm6p5) | [FUAD](https://open.spotify.com/artist/0sFxcrZPKTFoOL4LCAL7NW) | [Bagaikan Bintang](https://open.spotify.com/album/7GQNDbYwDO77JDudnh3dTt) | 3:54 |
 | 57 | [Damba Syurga](https://open.spotify.com/track/5ue55Q31JOKd5fl2OqO4qN) | [Naufal Isa](https://open.spotify.com/artist/0WqO2jv2i37S7b16jHODQW) | [Damba Syurga](https://open.spotify.com/album/5d4cEP8A1VmRbaO1jwE8s6) | 3:40 |

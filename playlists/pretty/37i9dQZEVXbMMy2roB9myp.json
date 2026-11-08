@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Argentina.",
-  "num_followers": 1707566,
+  "num_followers": 1707632,
   "original_name": "Top 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MoFewAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MoKrkAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -33,23 +49,7 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 290372,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Las mas bonitas son p#tas",
         "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
@@ -65,111 +65,7 @@
       "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 170473,
-      "name": "Sudaca",
-      "url": "https://open.spotify.com/track/4R2wF2C8MnMXVMNUYSHAjK"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "BODYPAINTING",
-        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153059,
-      "name": "BODYPAINTING",
-      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "De Lejitos - Remix",
-      "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 207414,
-      "name": "Super Gotenks",
-      "url": "https://open.spotify.com/track/3qB8UZzYKzTP0oMnyEqTqM"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        },
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 237211,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/4i3dmWB6d7zD8DayTWneXr"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "BAILAR O MORIR",
         "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
@@ -193,27 +89,43 @@
       "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 211128,
-      "name": "Diabla Soy Tu Fan\u00e1tico",
-      "url": "https://open.spotify.com/track/0f4YrRYaEWQvAFDv8Y6N9b"
+      "duration_ms": 153059,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "De Lejitos - Remix",
+      "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "BAILAR O MORIR",
         "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
@@ -237,23 +149,79 @@
       "url": "https://open.spotify.com/track/4nyj108v7ibkjDfhB3Fpot"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
         }
       ],
-      "duration_ms": 264946,
-      "name": "POR SI MA\u00d1ANA NO ESTOY",
-      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
+      "duration_ms": 170473,
+      "name": "Sudaca",
+      "url": "https://open.spotify.com/track/4R2wF2C8MnMXVMNUYSHAjK"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "SE\u00d1ORA",
+      "url": "https://open.spotify.com/track/28UHGAvWXgP3aTYM1y37fu"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 156126,
+      "name": "MIGAJAS",
+      "url": "https://open.spotify.com/track/3chpdbsrGsNug2Kalhj3Fz"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
@@ -281,7 +249,7 @@
       "url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "PERRA",
         "url": "https://open.spotify.com/album/3v7GytozWQfABUcQ09OqFB"
@@ -297,75 +265,23 @@
       "url": "https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
       },
       "artists": [
         {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 144761,
-      "name": "SE\u00d1ORA",
-      "url": "https://open.spotify.com/track/28UHGAvWXgP3aTYM1y37fu"
+      "duration_ms": 264946,
+      "name": "POR SI MA\u00d1ANA NO ESTOY",
+      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 140548,
-      "name": "V\u00edspera",
-      "url": "https://open.spotify.com/track/7N3NoT166lN0auVAfvYRCL"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "MIGAJAS",
-      "url": "https://open.spotify.com/track/3chpdbsrGsNug2Kalhj3Fz"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "A Veces Solo Me Divierto",
         "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
@@ -384,144 +300,12 @@
           "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
         }
       ],
-      "duration_ms": 178448,
-      "name": "Tan Mal",
-      "url": "https://open.spotify.com/track/2F4GNERX7FUFezO8BUsz1J"
+      "duration_ms": 237211,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/4i3dmWB6d7zD8DayTWneXr"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "ZIZI",
-        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "ZIZI",
-      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "mhtresuno",
-          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
-        },
-        {
-          "name": "JuicyNise",
-          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Trabajador",
-      "url": "https://open.spotify.com/track/5iA1Xzc5CmfAHFdoRFDnUj"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 126055,
-      "name": "Hablan de M\u00ed",
-      "url": "https://open.spotify.com/track/1JyfyBmP6MVMr0VZ9pkGVG"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 153183,
-      "name": "Madara",
-      "url": "https://open.spotify.com/track/6MyuMepTqLFaO09DLMHbZI"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "VAMO A VEL",
-        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "VAMO A VEL",
-      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 144587,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/6YzMqol6LAbtUAkTgNRAbM"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "BAILAR O MORIR",
         "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
@@ -545,7 +329,191 @@
       "url": "https://open.spotify.com/track/5U5d9poWyuvMMQEIWneQJd"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 177188,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/4F6rGLPjFU1V3RkCs26g9o"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 207414,
+      "name": "Super Gotenks",
+      "url": "https://open.spotify.com/track/3qB8UZzYKzTP0oMnyEqTqM"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "T\u00da SIN YO",
+        "url": "https://open.spotify.com/album/0nXSt89ulEI3AjZOrDIdLk"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "T\u00da SIN YO",
+      "url": "https://open.spotify.com/track/5AfQY75NZq66n15hw9TNVC"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 211128,
+      "name": "Diabla Soy Tu Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/0f4YrRYaEWQvAFDv8Y6N9b"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 143648,
+      "name": "VIVO DEL POP",
+      "url": "https://open.spotify.com/track/2y6fujem5GThiVehsSrq61"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 202864,
+      "name": "HIPERLOVE",
+      "url": "https://open.spotify.com/track/4GeIIbntO4sdQDixxBV2Za"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
@@ -561,7 +529,67 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "EL ALBA\u00d1IL CUMBIERO (El Lauti) / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS 2",
+        "url": "https://open.spotify.com/album/03spml1FtksoXJmgX37WaQ"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "El Lauti",
+          "url": "https://open.spotify.com/artist/5mLpWP9gHfet60QwUS1Yvc"
+        }
+      ],
+      "duration_ms": 150372,
+      "name": "Quien Dice",
+      "url": "https://open.spotify.com/track/7cyzzNn9ERB8j8JICJwPb8"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Estoy Pa' Ti",
+        "url": "https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 190702,
+      "name": "Estoy Pa' Ti",
+      "url": "https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Yo Solo Quer\u00eda Divertirme",
+        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "duration_ms": 139578,
+      "name": "Pu\u00f1aladas",
+      "url": "https://open.spotify.com/track/1hdrRqaR0GFpWrH3omUHaL"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -593,7 +621,95 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 148816,
+      "name": "GANAR",
+      "url": "https://open.spotify.com/track/4jsq03PPlw3YOPPuF3R2Uo"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Dime T\u00fa (En Vivo Movistar Arena)",
+        "url": "https://open.spotify.com/album/28cKC8oR6wDuF7vHUdIjbA"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 205017,
+      "name": "Dime T\u00fa - En Vivo Movistar Arena",
+      "url": "https://open.spotify.com/track/17mLGhXo1haXl1GRiCa7HL"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 161058,
+      "name": "PIEL",
+      "url": "https://open.spotify.com/track/5rCJzZHrBys15Mgu6aUpBJ"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 140548,
+      "name": "V\u00edspera",
+      "url": "https://open.spotify.com/track/7N3NoT166lN0auVAfvYRCL"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
@@ -609,107 +725,27 @@
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "Estoy Pa' Ti",
-        "url": "https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu"
+        "name": "JUANO DSKT | DJ TAO Sessions #33",
+        "url": "https://open.spotify.com/album/1ohGDiotByBf0TtgROxe0b"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 190702,
-      "name": "Estoy Pa' Ti",
-      "url": "https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "EL BAIFO",
-        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Nueva L\u00ednea",
-          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
+          "name": "JUANO DSKT",
+          "url": "https://open.spotify.com/artist/5Oid3U6vpAXrJCHhfzJG5W"
         }
       ],
-      "duration_ms": 207734,
-      "name": "AL GOLPITO",
-      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
+      "duration_ms": 122025,
+      "name": "JUANO DSKT | DJ TAO Sessions #33",
+      "url": "https://open.spotify.com/track/1Duh9NgioM4719EMtrgReJ"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Yo Solo Quer\u00eda Divertirme",
-        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42"
-      },
-      "artists": [
-        {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "Tote",
-          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
-        }
-      ],
-      "duration_ms": 139578,
-      "name": "Pu\u00f1aladas",
-      "url": "https://open.spotify.com/track/1hdrRqaR0GFpWrH3omUHaL"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/4F6rGLPjFU1V3RkCs26g9o"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "A Veces Solo Me Divierto",
-        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "Fumo y Espero",
-      "url": "https://open.spotify.com/track/0qsHnOjCRa8tn5YZkPxhBG"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/7t5KtTBuGjwdzbxr2c00p6"
@@ -741,151 +777,7 @@
       "url": "https://open.spotify.com/track/6RRnUWV7wemVRFZjPRQo66"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "EL ALBA\u00d1IL CUMBIERO (El Lauti) / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS 2",
-        "url": "https://open.spotify.com/album/03spml1FtksoXJmgX37WaQ"
-      },
-      "artists": [
-        {
-          "name": "La Juntada De Los Artistas",
-          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
-        },
-        {
-          "name": "El Lauti",
-          "url": "https://open.spotify.com/artist/5mLpWP9gHfet60QwUS1Yvc"
-        }
-      ],
-      "duration_ms": 150372,
-      "name": "Quien Dice",
-      "url": "https://open.spotify.com/track/7cyzzNn9ERB8j8JICJwPb8"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/34xv7nHn0WPSBABH4L3okX"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Obsesionario en La Mayor",
-      "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 143648,
-      "name": "VIVO DEL POP",
-      "url": "https://open.spotify.com/track/2y6fujem5GThiVehsSrq61"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 202864,
-      "name": "HIPERLOVE",
-      "url": "https://open.spotify.com/track/4GeIIbntO4sdQDixxBV2Za"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 235336,
-      "name": "VeLD\u00c1",
-      "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "JUANO DSKT | DJ TAO Sessions #33",
-        "url": "https://open.spotify.com/album/1ohGDiotByBf0TtgROxe0b"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "JUANO DSKT",
-          "url": "https://open.spotify.com/artist/5Oid3U6vpAXrJCHhfzJG5W"
-        }
-      ],
-      "duration_ms": 122025,
-      "name": "JUANO DSKT | DJ TAO Sessions #33",
-      "url": "https://open.spotify.com/track/1Duh9NgioM4719EMtrgReJ"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "TAPA LA CARA",
         "url": "https://open.spotify.com/album/3ALiOmVFZ2TZbngtuaTk3A"
@@ -901,107 +793,27 @@
       "url": "https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
       },
       "artists": [
         {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         },
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Nueva L\u00ednea",
+          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
         }
       ],
-      "duration_ms": 148816,
-      "name": "GANAR",
-      "url": "https://open.spotify.com/track/4jsq03PPlw3YOPPuF3R2Uo"
+      "duration_ms": 207734,
+      "name": "AL GOLPITO",
+      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "FOREVER TU GANTEL",
-      "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 161058,
-      "name": "PIEL",
-      "url": "https://open.spotify.com/track/5rCJzZHrBys15Mgu6aUpBJ"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
-      "album": {
-        "name": "Destinologia",
-        "url": "https://open.spotify.com/album/6IIjQgKIAwlt26FgnXxuVr"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "La Melod\u00eda de Dios",
-      "url": "https://open.spotify.com/track/5LSekxO6PIDHqMDfekNltw"
-    },
-    {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
         "name": "Tu Vecino Nos Conoce",
         "url": "https://open.spotify.com/album/6yRF4SxmoJJnRc3mJW8iXr"
@@ -1029,20 +841,236 @@
       "url": "https://open.spotify.com/track/4FIDq6NTwNBOTx9L8lRYkY"
     },
     {
-      "added_at": "2026-11-06 13:59:00",
+      "added_at": "2026-11-07 13:47:06",
       "album": {
-        "name": "UWAIE (versi\u00f3n cumbia)",
-        "url": "https://open.spotify.com/album/6moCUeXsvkwxc97b3OEyPb"
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 162947,
-      "name": "UWAIE - versi\u00f3n cumbia",
-      "url": "https://open.spotify.com/track/6UO9DhCUq4ZbQz7PXwelFV"
+      "duration_ms": 126055,
+      "name": "Hablan de M\u00ed",
+      "url": "https://open.spotify.com/track/1JyfyBmP6MVMr0VZ9pkGVG"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "HELECHO",
+      "url": "https://open.spotify.com/track/5Wa1f9dOrInRywNk4bhxtr"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 178448,
+      "name": "Tan Mal",
+      "url": "https://open.spotify.com/track/2F4GNERX7FUFezO8BUsz1J"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/34xv7nHn0WPSBABH4L3okX"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Obsesionario en La Mayor",
+      "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "PARADIXE (REMIX)",
+        "url": "https://open.spotify.com/album/7yhY69RjFONtW48pts3gjl"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 260268,
+      "name": "PARADIXE - REMIX",
+      "url": "https://open.spotify.com/track/18YYddH2JVaiAGJ3y5BFh0"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 153183,
+      "name": "Madara",
+      "url": "https://open.spotify.com/track/6MyuMepTqLFaO09DLMHbZI"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 235336,
+      "name": "VeLD\u00c1",
+      "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 144587,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/6YzMqol6LAbtUAkTgNRAbM"
+    },
+    {
+      "added_at": "2026-11-07 13:47:06",
+      "album": {
+        "name": "A Veces Solo Me Divierto",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "JuicyNise",
+          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Trabajador",
+      "url": "https://open.spotify.com/track/5iA1Xzc5CmfAHFdoRFDnUj"
     }
   ],
   "unique_name": "Top 50 - Argentina",

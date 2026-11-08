@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,081 songs - 2 day 3 hr 59 min
+1,082 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Lock It In](https://open.spotify.com/track/3ESQpYDPXBBv8yEJPzrl35) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Softies Vibe](https://open.spotify.com/album/6bpneNjbmsbu4X1u5gr1vc) | 3:06 | 2026-10-23 |  |
 | [Lockdown](https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lockdown](https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv) | 2:34 | 2025-02-21 | 2025-06-23 |
 | [Lockdown 2.0 \(feat\. Camidoh\)](https://open.spotify.com/track/1yp4jq7tC4Cbn95nqD8BDW) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Lockdown 2.0 \(feat\. Camidoh\)](https://open.spotify.com/album/6bpLXPcJRimfApziC8WZkv) | 3:06 | 2024-02-09 | 2024-02-23 |
+| [Locked In](https://open.spotify.com/track/0il40iEmUHWiLvMV6RUc67) | [Lovince Mckenzie](https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Locked In](https://open.spotify.com/album/7kaCLt55rFhgJCgVUyJQv7) | 3:17 | 2026-10-23 |  |
 | [Loco Loco](https://open.spotify.com/track/16jmt6nFV5S8whyypCbBha) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Loco Loco](https://open.spotify.com/album/3noxXVYkuHhHKu56sDY80h) | 3:14 | 2023-10-13 | 2023-10-27 |
 | [Loju \(feat\. Wizkid\)](https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Loju \(feat\. Wizkid\)](https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8) | 2:54 | 2023-06-30 | 2024-05-24 |
 | [Lokation](https://open.spotify.com/track/2WNIVszX0QnQfWWfDqqyKI) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:26 | 2023-09-09 | 2023-09-15 |
@@ -806,7 +807,7 @@
 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 | 2025-08-08 | 2025-08-26 |
 | [PINO \(feat\. Babyboy AV\)](https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:32 | 2026-08-21 |  |
 | [Pity Me](https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Pity Me](https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW) | 2:09 | 2024-10-14 | 2025-03-08 |
-| [Pity My Soul](https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Pity My Soul](https://open.spotify.com/album/7KH2FKeF3Py5WuZ93qf3Hz) | 2:21 | 2026-05-22 |  |
+| [Pity My Soul](https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Pity My Soul](https://open.spotify.com/album/7KH2FKeF3Py5WuZ93qf3Hz) | 2:21 | 2026-05-22 | 2026-11-08 |
 | [Police](https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Police](https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6) | 2:46 | 2025-04-11 | 2026-04-03 |
 | [POLO](https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [POLO](https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B) | 2:26 | 2024-03-01 | 2024-05-24 |
 | [PON MY MIND](https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [PON MY MIND](https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw) | 1:40 | 2024-10-04 | 2025-03-08 |

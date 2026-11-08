@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-130 songs - 5 hr 53 min
+131 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,10 +118,11 @@
 | [Sex So Good \(feat\. Coi Leray\)](https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:32 | 2023-07-16 | 2024-06-09 |
 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 | 2022-10-28 |  |
 | [Spend It \(with Saucy Santana\)](https://open.spotify.com/track/3blQ6aLNUmmY9FIzZiA8iL) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:11 | 2024-05-17 | 2024-05-18 |
+| [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 | 2026-11-08 |  |
 | [Still Dreaming](https://open.spotify.com/track/32Wu9hVKhPEvHZ5ahrL1fZ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:29 | 2023-09-15 | 2024-01-05 |
 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 | 2022-10-28 |  |
 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 | 2022-10-28 | 2023-06-26 |
-| [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 | 2022-10-28 |  |
+| [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 | 2022-10-28 | 2026-11-08 |
 | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L) | 3:10 | 2024-06-09 |  |
 | [Too Far](https://open.spotify.com/track/6lpbM8WjqszGSjmrbXhKm9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/2xMpbBZGVWtjkoaMZKhkyO) | 2:22 | 2023-12-31 | 2024-01-03 |
 | [Tricks For You](https://open.spotify.com/track/7IT85m2v2RUSyjdSdz4NWG) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tricks For You](https://open.spotify.com/album/2BtgTsvhDdtOU34K1XmZWu) | 2:28 | 2025-06-02 | 2025-09-29 |

@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-136 songs - 9 hr 52 min
+137 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [If You See Her, Say Hello](https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:47 | 2022-09-24 | 2026-08-27 |
 | [In My Time of Dyin'](https://open.spotify.com/track/0udZHhCi7p1YzMlvI4fXoK) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:41 | 2026-04-20 | 2026-07-27 |
 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:59 | 2022-09-24 |  |
-| [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:32 | 2022-09-24 |  |
+| [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:32 | 2022-09-24 | 2026-11-08 |
+| [It Ain't Me Babe \- Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976](https://open.spotify.com/track/2aodPasboeQom5Co8U8TIe) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th](https://open.spotify.com/album/0Ad99OHFX3OjhZ410joegz) | 4:17 | 2026-11-08 |  |
 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 4:09 | 2024-06-07 |  |
 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:13 | 2022-09-24 |  |
 | [It's All Over Now, Baby Blue \- Live at The Forum, Inglewood, CA \- February 14, 1974 \(Afternoon\)](https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [It's All Over Now, Baby Blue \[Live at The Forum, Inglewood, CA \- February 14, 1974 \(Afternoon\)\]](https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk) | 4:26 | 2024-08-18 | 2024-09-26 |

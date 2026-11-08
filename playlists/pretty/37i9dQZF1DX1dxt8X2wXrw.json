@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 83668,
+  "num_followers": 83665,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
+        "name": "WANTCHU",
+        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 199896,
+      "name": "WANTCHU",
+      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
-        "name": "WANTCHU",
-        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 199896,
-      "name": "WANTCHU",
-      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "FLAMES",
-        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 180727,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Blue Desert",
         "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 173825,
       "name": "Falling Down a Well",
       "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "FLAMES",
+        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "When I Get Drunk (I Want You Boy)",
-        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "When I Get Drunk (I Want You Boy)",
-      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166849,
       "name": "breath away",
       "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "have to.",
-        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+        "name": "Ain't I Good For You",
+        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 207023,
-      "name": "have to.",
-      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+      "duration_ms": 161805,
+      "name": "Ain't I Good For You",
+      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     }
   ],
   "unique_name": "crush",

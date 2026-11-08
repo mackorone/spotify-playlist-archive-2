@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/05IkWPjeS75WWmqfVNnYXz"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 140400,
       "name": "All My Frens R Rainbowz, but I'm Still Dead Inside!!!",
       "url": "https://open.spotify.com/track/7DVzWeTKujkJyfh1BJaucX"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "ASS UP!",
       "url": "https://open.spotify.com/track/0hDQWnn8DjagrS2NatbURe"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 109594,
       "name": "choke it out!",
       "url": "https://open.spotify.com/track/2JRa1gDVltWcmd7R9kvRR5"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -3980,7 +3980,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 197052,
       "name": "Kill me and Eat me",
       "url": "https://open.spotify.com/track/08xEDWvXPiSctq4aOFrtxh"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 138946,
       "name": "L37 17 0u7",
       "url": "https://open.spotify.com/track/59Bil4Qr68rk3Rz6HS5pLo"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 169662,
       "name": "losercore",
       "url": "https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n"
@@ -4648,6 +4648,24 @@
       "duration_ms": 119263,
       "name": "MISSED THE PUNCHLINE",
       "url": "https://open.spotify.com/track/1HbGRQ40XkiuquznuDQfNV"
+    },
+    {
+      "album": {
+        "name": "Missed the Punchline",
+        "url": "https://open.spotify.com/album/2xFAwLdotlRSuzDFt82OWC"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119263,
+      "name": "Missed the Punchline",
+      "url": "https://open.spotify.com/track/1JKmlUaSp5IxdtfOZCzNq7"
     },
     {
       "album": {
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 161495,
       "name": "pretty or dead",
       "url": "https://open.spotify.com/track/3SZDYeFROCCcqnS7JSAguv"
@@ -5776,7 +5794,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5874,7 +5892,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
@@ -6984,7 +7002,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"

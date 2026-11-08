@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 209594,
+  "num_followers": 209622,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "If This Is It",
-        "url": "https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq"
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 237487,
-      "name": "Quakin'",
-      "url": "https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO"
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -247,22 +251,18 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+      "duration_ms": 237487,
+      "name": "Quakin'",
+      "url": "https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
       },
       "artists": [
         {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 316576,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "The Sunset Violent",
-        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
         }
       ],
-      "duration_ms": 277285,
-      "name": "Fishbrain",
-      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "Hiriku",
         "url": "https://open.spotify.com/album/5iCpQEhgW3yZNO7Dm2Ztxg"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 294666,
       "name": "Out There",
       "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "thieves",
         "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
@@ -1251,6 +1251,26 @@
       "duration_ms": 178616,
       "name": "thieves",
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "There is only love and fear",
+        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
+      },
+      "artists": [
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Dawn blessings",
+      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "Vallahi Yok / Kirik Cam",
         "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "Rave Echoes",
         "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 272762,
       "name": "Rave Predator",
       "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "Modern Meta Physic",
         "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 321509,
       "name": "Art Today",
       "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "The Apple Drop",
         "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "RPG",
         "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2026-11-05 23:09:18",

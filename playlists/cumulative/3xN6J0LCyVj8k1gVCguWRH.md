@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,700 songs - 15 day 15 hr 5 min
+6,701 songs - 15 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Champagne Cry](https://open.spotify.com/track/69DoAXNOhV2QyiTN88aSEV) | [TMG FRE$H](https://open.spotify.com/artist/5fzIcsEcoQWuHF1Sg5NCaP), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Champagne Cry](https://open.spotify.com/album/2vd7JfS5DJqF5wDd7paRRA) | 2:43 | 2020-07-18 | 2020-08-02 |
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-11-27 | 2024-12-09 |
 | [Champagne!](https://open.spotify.com/track/3S6RHHGyuD5WyusvFu6GGZ) | [Cillë](https://open.spotify.com/artist/2JvvTHZGW7UtOjyeu7cn6t) | [Champagne!](https://open.spotify.com/album/50txUGfs3mSajBQPn7ksX4) | 2:38 | 2023-06-30 | 2023-07-22 |
+| [Chance Me](https://open.spotify.com/track/6a0TtmV9xLXmmBP8MmPTBM) | [Sheezzy Raww](https://open.spotify.com/artist/2mCZPLVUOVhfwMMquWJ3VK) | [Lothario](https://open.spotify.com/album/4SZLprY6m0S8Jxz9TvyRNo) | 3:09 | 2026-11-07 |  |
 | [Chance Thing](https://open.spotify.com/track/5HIfLo3RuGLOInEQY472Yf) | [Meryn](https://open.spotify.com/artist/2dBrtYc8IGsaLK0kgzhvKz) | [Chance Thing](https://open.spotify.com/album/3QoMIroBQZiiAR9SKmyyF7) | 3:19 | 2024-02-17 | 2024-02-28 |
 | [Chances](https://open.spotify.com/track/4FXRVxvHtiF3DwsqE1jIGP) | [F1 of FMG](https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W) | [Chances](https://open.spotify.com/album/5xrKsmZbP2sYWH5Xug8WfM) | 2:59 | 2022-02-13 | 2022-03-01 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2026-01-31 | 2026-07-31 |

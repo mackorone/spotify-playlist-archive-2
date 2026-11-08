@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-233 songs - 12 hr 9 min
+234 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 | 2025-03-06 | 2025-06-27 |
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 | 2024-12-13 |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 | 2026-11-07 |
-| [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 |  |
+| [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 | 2026-11-08 |
 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 | 2025-04-13 |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 | 2024-11-22 |
 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 | 2024-09-12 | 2025-03-07 |
@@ -230,6 +230,7 @@
 | [YOUNGER ME](https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [YOUNGER ME](https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX) | 3:06 | 2024-07-11 | 2024-09-06 |
 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 | 2025-05-26 | 2026-05-05 |
 | [Zaklamp](https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Gesprekken Met Mezelf](https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK) | 3:57 | 2024-12-12 | 2025-02-28 |
+| [Zaterdag \(Akoestisch\)](https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Zaterdag](https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv) | 3:03 | 2026-11-05 |  |
 | [Zeg Me / Dime](https://open.spotify.com/track/6L5bROkrSJaTmy1bbv18YY) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Zeg Me / Dime](https://open.spotify.com/album/1u5uvEXJEhGQWYsiqT6QAp) | 3:25 | 2025-12-18 |  |
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 | 2025-01-09 |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 | 2025-04-17 |

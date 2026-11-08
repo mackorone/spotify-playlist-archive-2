@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63434,
+  "num_followers": 63432,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAD8Fj/h5Gu9/z9B0q4KsmEP",
+  "snapshot_id": "au0YgAAAAACjxWg2F8MRYEDJyE9BaETx",
   "tracks": [
     {
       "added_at": null,
@@ -32,7 +32,7 @@
       "added_at": null,
       "album": {
         "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC"
+        "url": "https://open.spotify.com/album/7AIUPdLnNJ93UZhRxb0pAH"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW"
+      "url": "https://open.spotify.com/track/5uaTNy6sdRXMI43EEmJLcR"
     },
     {
       "added_at": null,
@@ -67,26 +67,6 @@
       "duration_ms": 357160,
       "name": "A B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6TtZzrhOHkkTe8lpfV1WOI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Basta Uma Palavra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1tP8XPThhADgiDrGhwMF5P"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 453930,
-      "name": "Teu Toque - Ao Vivo",
-      "url": "https://open.spotify.com/track/4joufqWt6hm8LUmfMwWCOL"
     },
     {
       "added_at": null,
@@ -147,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+        "name": "Basta Uma Palavra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6NwYR7EMWNeQogoWeWmxXa"
       },
       "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 334400,
-      "name": "Filho Do Deus Vivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
+      "duration_ms": 453930,
+      "name": "Teu Toque - Ao Vivo",
+      "url": "https://open.spotify.com/track/1C1Vy9x3lZa3ZlUWl5bNMr"
     },
     {
       "added_at": null,
@@ -199,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Teu Amor N\u00e3o Falha Ao Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1pz77U8fDCqVTaZHZf656X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
       },
@@ -219,114 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Teu Amor N\u00e3o Falha Ao Vivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1pz77U8fDCqVTaZHZf656X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        },
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        },
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Brun\u00e3o Morada",
-          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
-          "name": "Gabriel Barreto",
-          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
-        },
-        {
-          "name": "Helena Tannure",
-          "url": "https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5"
-        },
-        {
-          "name": "Isaque",
-          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
-        },
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        },
-        {
-          "name": "Jo\u00e3o L\u00facio Tannure",
-          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
-        },
-        {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
-        },
-        {
-          "name": "Mariana Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
-        },
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        },
-        {
-          "name": "Nena Lacerda",
-          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 384876,
-      "name": "Preciso de Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
       },
@@ -343,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01lDWwLeB7DIPzikVrVo3L"
       },
       "artists": [
         {
@@ -352,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 546346,
-      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+      "duration_ms": 307533,
+      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
+      "url": "https://open.spotify.com/track/0QBWlYqFAWI5z1p6SMqa3d"
     },
     {
       "added_at": null,
@@ -379,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01lDWwLeB7DIPzikVrVo3L"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
-      "url": "https://open.spotify.com/track/0QBWlYqFAWI5z1p6SMqa3d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -411,6 +287,38 @@
       "duration_ms": 305076,
       "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Filho Do Deus Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eIjkjzroymfYRNeNCUKGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01lDWwLeB7DIPzikVrVo3L"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 471733,
+      "name": "Que Se Abram os C\u00e9us - Ao Vivo",
+      "url": "https://open.spotify.com/track/50bY9ZKpBpkLbAJPoJkOCT"
     },
     {
       "added_at": null,
@@ -439,42 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413965,
-      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01lDWwLeB7DIPzikVrVo3L"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 471733,
-      "name": "Que Se Abram os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/50bY9ZKpBpkLbAJPoJkOCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maravilhado (Ao Vivo)",
         "url": "https://open.spotify.com/album/70YbvyI6iBtFhEAsGtD2ZG"
       },
@@ -487,22 +359,6 @@
       "duration_ms": 454587,
       "name": "Maravilhado - Ao Vivo",
       "url": "https://open.spotify.com/track/7ErB1HaW19ulPCNX3YoE4f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4gz1MKtgxPgDSTn0VtUeAh"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/43bAXuBiK9mjjzxQMT5TRR"
     },
     {
       "added_at": null,
@@ -531,26 +387,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gloria A Deus",
-        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
+        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
       },
       "artists": [
         {
-          "name": "Gateway Worship Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
-        },
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 379803,
-      "name": "Maravilhado",
-      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+      "duration_ms": 413965,
+      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4gz1MKtgxPgDSTn0VtUeAh"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/43bAXuBiK9mjjzxQMT5TRR"
     },
     {
       "added_at": null,
@@ -579,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gloria A Deus",
+        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 379803,
+      "name": "Maravilhado",
+      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pardal (Ao Vivo)",
         "url": "https://open.spotify.com/album/0p9wsS6LiLS0a163eLC6PE"
       },
@@ -599,6 +491,26 @@
       "duration_ms": 415099,
       "name": "Pardal - Ao Vivo",
       "url": "https://open.spotify.com/track/711MiEjzzZ99okCm3m4Ogf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KND26Pkj1XgCBKhKU9coH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/06jRcTQyd3QIYA0psw5yQc"
     },
     {
       "added_at": null,
@@ -683,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KND26Pkj1XgCBKhKU9coH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/06jRcTQyd3QIYA0psw5yQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Rei",
         "url": "https://open.spotify.com/album/1IN28y3send51GKeLuJnEs"
       },
@@ -739,6 +631,98 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5z7MRPtkoIttXElp2LVxsQ"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        },
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/67sp2HPtDwMJPrziwkk7j1"
+        },
+        {
+          "name": "Helena Tannure",
+          "url": "https://open.spotify.com/artist/39KjnIg0klnFqQwuYenYnn"
+        },
+        {
+          "name": "Isaque",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        },
+        {
+          "name": "Jo\u00e3o L\u00facio Tannure",
+          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Mariana Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 384876,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kfF8X9VCsYHOYkbTOSAVD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/2rjke7YMI8dwuldfIgrvAz"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abre os Selos (Ao Vivo)",
         "url": "https://open.spotify.com/album/07v04MgOyAk8ydF6OlKF4q"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 474701,
       "name": "Abre os Selos - Ao Vivo",
       "url": "https://open.spotify.com/track/15hr5UqjR9bNPqbpgVZt1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4tuKbqfTVivrDonA6vRnQ6"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 546347,
+      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5DEtCwkwwTrQsVwODTqyoh"
     },
     {
       "added_at": null,
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3eSLP9NMWsPGWuuA2VdDlP"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 438280,
-      "name": "O Senhor \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1Qv8DqnK0l1TIxlGX0aMDE"
     },
     {
       "added_at": null,
@@ -863,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3eSLP9NMWsPGWuuA2VdDlP"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1Qv8DqnK0l1TIxlGX0aMDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 511929,
-      "name": "Rio - Ao Vivo",
-      "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
       },
@@ -907,6 +859,22 @@
       "duration_ms": 272840,
       "name": "Me Esvaziar - Ao Vivo",
       "url": "https://open.spotify.com/track/3Q1gs1DPIasox473EGBjsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 790360,
+      "name": "Em Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVJKhH37X59z49GwroBA1"
     },
     {
       "added_at": null,
@@ -927,50 +895,6 @@
       "duration_ms": 352037,
       "name": "N\u00e3o Temerei Jamais - Ao Vivo",
       "url": "https://open.spotify.com/track/6Sdrwq8zngkVO1ChdJeZhu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TDIE68zeCLRsSFMSzhveu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu e a Minha Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Flavia Arrais",
-          "url": "https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "Filho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP"
     },
     {
       "added_at": null,
@@ -1036,25 +960,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 790360,
-      "name": "Em Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dVJKhH37X59z49GwroBA1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/1QIa4JiZIn84v5TNYPp5bJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/0J3kUqeJ8rhQL5bYEOnsHQ"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TDIE68zeCLRsSFMSzhveu"
     },
     {
       "added_at": null,
@@ -1075,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/1QIa4JiZIn84v5TNYPp5bJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/0J3kUqeJ8rhQL5bYEOnsHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
         "url": "https://open.spotify.com/album/1kkvUahrxuRBRu7MshHShM"
       },
@@ -1087,6 +1011,74 @@
       "duration_ms": 489268,
       "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
       "url": "https://open.spotify.com/track/3hSSQgao46g2QfGpIZutkU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/447U3YczGxze6rB1tAcARb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6eas3ZN0grIi7CZG1PcCpC"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nEYSqKKS2TpQtjR6ZGwMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
+        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 897720,
+      "name": "Enche Este Lugar - Ao Vivo em Curitiba",
+      "url": "https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6n2hi8eE4YQ9fs9vkZm5Io"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 539614,
+      "name": "Tu \u00c9s Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jD3glgtQJZhaZxXuDieIA"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

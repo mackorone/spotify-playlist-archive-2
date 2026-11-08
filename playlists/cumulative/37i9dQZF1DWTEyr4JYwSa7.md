@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-385 songs - 20 hr 58 min
+386 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,8 +220,9 @@
 | [Mémoire de l'essentiel](https://open.spotify.com/track/5Sg3AaC8NsXnGnNXZLF8Jc) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Mémoire de l'essentiel](https://open.spotify.com/album/32YZqNNCKaDTrmCYaq7yKe) | 3:43 | 2021-12-17 | 2022-07-28 |
 | [Neiges \- 50ᵉ anniversaire](https://open.spotify.com/track/35s4bGiNTmxOcGwE9Hig1m) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Neiges \(50ᵉ anniversaire\)](https://open.spotify.com/album/12veMAOLkjETeLYIziClbr) | 10:00 | 2025-11-21 |  |
 | [Nikaui \(Nipaiamianan\)](https://open.spotify.com/track/7oWgPFNQoe7lqrmGSmgOTq) | [Yan Riverin](https://open.spotify.com/artist/7b4rO8os5umSduj2lp07z6) | [Nikaui \(Nipaiamianan\)](https://open.spotify.com/album/5azARElDOCTUJOU0ghkAcR) | 4:27 | 2025-12-12 | 2026-08-11 |
+| [Noel, Once Again](https://open.spotify.com/track/3DNvE8WmKcdRiCw4MQ84kR) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Noel, Once Again](https://open.spotify.com/album/750nLSC0fUi9Ls3wCO37B6) | 2:43 | 2025-12-12 |  |
 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 | 2024-11-22 |  |
-| [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-17 |  |
+| [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-17 | 2026-11-08 |
 | [Noël \(au coin de Portage et Main\)](https://open.spotify.com/track/6vhaBKypqRYJWYjUonnxYj) | [Chic Gamine](https://open.spotify.com/artist/6GMElLPm8xlZbjP7HQkrpq) | [Christmas Vol.1](https://open.spotify.com/album/1sx4KP3bzJcEPOI1Rv6FNN) | 3:31 | 2021-12-17 | 2022-07-29 |
 | [Noël amoureux](https://open.spotify.com/track/3SrvyFBB7BEBJ69vJJjC1V) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:20 | 2021-12-17 | 2022-07-29 |
 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 | 2021-12-17 |  |

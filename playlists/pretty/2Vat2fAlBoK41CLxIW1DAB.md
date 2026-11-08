@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,583 likes - 1,212 songs - 3 day 3 hr 51 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,583 likes - 1,222 songs - 3 day 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1220,5 +1220,15 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1210 | [Don't Tempt Me](https://open.spotify.com/track/7dwS9xjpn7TzHfyUf1KqSE) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [Don't Tempt Me](https://open.spotify.com/album/6im8rAFKvrhUxPPv2AHIPr) | 3:10 |
 | 1211 | [MAL](https://open.spotify.com/track/5vLGtYoF8DhWu6rSEalowb) | [Edu](https://open.spotify.com/artist/76nbbX7WqJH7FyhCzPwUn2) | [MAL](https://open.spotify.com/album/4l8b2ojV1jjyzQy5sLTSs2) | 2:40 |
 | 1212 | [Take me Back To '99](https://open.spotify.com/track/5ph7WFL3o7RXWcbXFr6FVs) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Take Me Back to '99](https://open.spotify.com/album/0RQcGfhSAhIMf9cWBiK9a6) | 2:28 |
+| 1213 | [Nordic](https://open.spotify.com/track/4DRZI5gTXdusREOhMvFcCC) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 1:55 |
+| 1214 | [Every vote you fake \- Mean Sting Version](https://open.spotify.com/track/59QUVubVe1FAJXg6vDiij9) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [Every vote you fake \(Mean Sting Version\)](https://open.spotify.com/album/0sp0UZIYaArT1zgnkzJVg7) | 3:03 |
+| 1215 | [Don't Count On Me](https://open.spotify.com/track/3kVdhVxmzNjX0JGoklTyLJ) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Don't Count On Me](https://open.spotify.com/album/5sGpj8Y0eFEdR3uKIsaN0t) | 2:50 |
+| 1216 | [The Best I Ever Had](https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [The Best I Ever Had](https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU) | 4:05 |
+| 1217 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
+| 1218 | [Vertigo](https://open.spotify.com/track/2fqSnuyNxOxzgVlkCUvQk5) | [Facelift](https://open.spotify.com/artist/5MTbMQ5wxmfJWIRkYN2Kqb) | [Vertigo](https://open.spotify.com/album/7ghqCLpvIqTsnEEATQZDVm) | 2:37 |
+| 1219 | [Fall Back](https://open.spotify.com/track/4I56da45OggAdYs8ElWqjv) | [Sabah](https://open.spotify.com/artist/5v46QhxgxBQ2NBVPsIF3Xn) | [Fall Back](https://open.spotify.com/album/5PtpcQd3UwL2bN8iebhRO5) | 2:56 |
+| 1220 | [Пікселі](https://open.spotify.com/track/6A8MLzefn25kCLdmg1CCYS) | [Existential \[T\]Error](https://open.spotify.com/artist/1vh75V9b1AibNe4uh1tPcc) | [Пікселі](https://open.spotify.com/album/7ceP3tO65ZeQqtXBzqEfqQ) | 4:38 |
+| 1221 | [Boomer Kuwanger Mega Man X \- Vocal Version](https://open.spotify.com/track/1vv0RLtYrQozIMAZSkzAkd) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Boomer Kuwanger Mega Man X \(Vocal Version\)](https://open.spotify.com/album/6VCUGPV74XvE8V0EYVIg7y) | 3:51 |
+| 1222 | [Just A Daughter](https://open.spotify.com/track/6HNOGAFCD3icgEHsRsR6fH) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 4:12 |
 
-Snapshot ID: `AAAE6jzcgPlzOODpWi5DZV1NYZLttADJ`
+Snapshot ID: `AAAE9HtMHp2igrJ5cJCyTnJ1k6G8WJjn`

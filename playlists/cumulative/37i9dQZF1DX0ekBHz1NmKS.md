@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,420 songs - 5 day 5 hr 26 min
+2,421 songs - 5 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-07-04 |
 | [Ett silverhjärtas sista slag](https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Tom Goren](https://open.spotify.com/artist/5UFbFMAL2ERkRDUurGOyQJ) | [Ett silverhjärtas sista slag](https://open.spotify.com/album/6SdycG80NCL5vcnCOMbWS8) | 3:39 | 2024-03-07 | 2024-04-17 |
 | [Ett varv till](https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ett varv till](https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00) | 2:57 | 2026-01-22 | 2026-04-21 |
-| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 | 2026-10-23 |
+| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 |  |
 | [Ettor och nollor](https://open.spotify.com/track/32C06bOmyNPPW1kER79Q8e) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Pandemi, Palestina & Heartache](https://open.spotify.com/album/6lIra1LwEsGHs827ruYdwP) | 3:46 | 2025-02-14 | 2025-05-30 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-02 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
@@ -1411,6 +1411,7 @@
 | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 | 2024-02-08 | 2024-04-05 |
 | [Mint Condition](https://open.spotify.com/track/4NdP6vAQZMx2LNzvszOGxx) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Mint Condition](https://open.spotify.com/album/0T286uB0xqD29h3vF4SvqV) | 2:22 | 2026-08-13 | 2026-10-05 |
 | [Miracle](https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Miracle](https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa) | 3:05 | 2026-08-20 |  |
+| [Mirage](https://open.spotify.com/track/5MA0AMoM38Nx7tNZFdUYUA) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Mirage](https://open.spotify.com/album/15gJrLyeeKaxlJblYF1Yzl) | 2:50 | 2026-11-05 |  |
 | [Mirakel](https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Mirakel](https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I) | 4:38 | 2026-08-27 | 2026-11-06 |
 | [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 | 2024-01-26 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
@@ -1547,7 +1548,7 @@
 | [Ocean In Me](https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Ocean In Me](https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg) | 2:58 | 2024-01-04 | 2024-03-08 |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-11-17 |
 | [Och blir en del av mig inuti](https://open.spotify.com/track/2pJewvGTgUrbHNHfN3Wg0S) | [Sara Thuresson](https://open.spotify.com/artist/3nYlkEt5H6K6uCoL7VBuq9) | [Och blir en del av mig inuti](https://open.spotify.com/album/29ZQuXmHQXcUSUjMIhg6K6) | 3:00 | 2024-02-08 | 2024-02-16 |
-| [Off My Mind](https://open.spotify.com/track/4qMVitILFfuxq1EolLLH0s) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [In the Margins, In Shades of Pale Blue](https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU) | 3:31 | 2026-08-20 |  |
+| [Off My Mind](https://open.spotify.com/track/4qMVitILFfuxq1EolLLH0s) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [In the Margins, In Shades of Pale Blue](https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU) | 3:31 | 2026-08-20 | 2026-11-08 |
 | [offerkofta](https://open.spotify.com/track/7eqPyJGjws3itT8h1nxGUS) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [offerkofta / kompispris](https://open.spotify.com/album/3wzTLSTlyPYrfHlPcVmBX1) | 3:00 | 2026-10-01 |  |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
 | [Oh love](https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Oh love](https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67) | 4:16 | 2024-04-04 | 2024-05-10 |
@@ -2165,7 +2166,7 @@
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 | 2024-01-26 |
 | [trött på det](https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [trött på det](https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz) | 2:24 | 2024-01-25 | 2024-03-15 |
 | [tsm <3 \(pantamera!!\)](https://open.spotify.com/track/2TfMaAeUJHRbkBlkWcXYzG) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [tsm <3 \(pantamera!!\)](https://open.spotify.com/album/5sWvww2pt3kTYU8d4HP6NV) | 2:21 | 2024-03-28 | 2024-05-03 |
-| [Tuff Brud](https://open.spotify.com/track/3vGm3VIYPPwutGcbpN3SsI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Tuff Brud](https://open.spotify.com/album/58dL9W1zuLlbxk5QNtheQQ) | 3:18 | 2026-05-07 |  |
+| [Tuff Brud](https://open.spotify.com/track/3vGm3VIYPPwutGcbpN3SsI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Tuff Brud](https://open.spotify.com/album/58dL9W1zuLlbxk5QNtheQQ) | 3:18 | 2026-05-07 | 2026-11-08 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-11-10 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-05-16 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |

@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2934,
+  "num_followers": 2941,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Private Lives",
-        "url": "https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185117,
-      "name": "Private Lives",
-      "url": "https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "no self respect!",
         "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 181828,
       "name": "no self respect!",
       "url": "https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Private Lives",
+        "url": "https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185117,
+      "name": "Private Lives",
+      "url": "https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "hold me, don't hold back!",
+        "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 142068,
+      "name": "hold me!",
+      "url": "https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "ECSTASY SURROUNDS ME (Remixes)",
         "url": "https://open.spotify.com/album/4OacwFQiqFB3a7ol1l5MOz"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 461538,
       "name": "ECSTASY SURROUNDS ME - Deetron Remix",
       "url": "https://open.spotify.com/track/1KYGi1WeQubvsZyWrcDwGk"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "hold me, don't hold back!",
-        "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 142068,
-      "name": "hold me!",
-      "url": "https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "the afterparty",
-        "url": "https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 167820,
-      "name": "angela the traveller",
-      "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "THIS IS A BREAKUP ALBUM",
         "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 205533,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "the afterparty",
+        "url": "https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 167820,
+      "name": "angela the traveller",
+      "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Ladylike",
+        "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 178374,
+      "name": "Ladylike",
+      "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Numbskull",
         "url": "https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 152166,
       "name": "Atypical",
       "url": "https://open.spotify.com/track/3xFP682GYjttVzx4gL79T5"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Ladylike",
-        "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
-      },
-      "artists": [
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 178374,
-      "name": "Ladylike",
-      "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
     },
     {
       "added_at": "2026-11-01 04:01:35",

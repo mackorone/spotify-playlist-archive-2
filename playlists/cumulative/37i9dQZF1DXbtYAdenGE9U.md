@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-211 songs - 15 hr 18 min
+212 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Café Del Mar \- Marco V Remix Radio Edit](https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:06 | 2022-04-13 | 2023-08-12 |
 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar \(The Anthems Edits\)](https://open.spotify.com/album/0LHBQ8so2kllbgWjfBk7tY) | 3:49 | 2023-08-11 | 2024-04-19 |
 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 | 2023-03-10 |  |
-| [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 | 2024-07-23 |  |
+| [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 | 2024-07-23 | 2026-11-08 |
 | [Carte Blanche](https://open.spotify.com/track/5obzwJeaeJttOXseEFLCj4) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Armada Music \- Trance Legacy](https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L) | 3:25 | 2023-12-27 | 2024-01-12 |
 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 | 2022-12-28 |  |
 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 | 2023-03-10 |  |
@@ -55,6 +55,7 @@
 | [Coming On Strong](https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong \(ReOrder Remix\)](https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3) | 3:19 | 2023-03-10 | 2024-04-19 |
 | [Coming On Strong \- Extended Mix](https://open.spotify.com/track/6skndzzfHsQkitrXf4JdTM) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Worldwide Trance Sounds, Vol\. 6](https://open.spotify.com/album/3FjwQeCMWDGDxxtVEDdD9p) | 8:00 | 2022-04-13 | 2022-11-13 |
 | [Communication](https://open.spotify.com/track/7g4v49q8u3b8oVZ9EqPsT1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Armada Music \- Trance Legacy](https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L) | 3:19 | 2023-12-27 | 2024-01-12 |
+| [Communication \- Album Mix](https://open.spotify.com/track/0W0tn4jpmnwnPZxO8nyhS7) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [76](https://open.spotify.com/album/7ClBu0VWY3bhVcuJKX4RHK) | 4:16 | 2024-07-23 |  |
 | [Concrete Angel](https://open.spotify.com/track/3qKkpIAtpmcKalGQ0wvFWs) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 | 2023-12-27 | 2024-01-12 |
 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 | 2023-03-10 | 2024-04-19 |
 | [Cry](https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Cry](https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm) | 4:17 | 2023-08-11 | 2024-04-19 |

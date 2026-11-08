@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, Autoimmune, The Inklings and more",
+  "description": "With Sanguine, The Inklings, M\u00e4rvel and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 389397,
       "name": "1924",
       "url": "https://open.spotify.com/track/5pH57FgscVNhsx1PxNdqSH"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 247073,
       "name": "Adj\u00f8",
       "url": "https://open.spotify.com/track/6KDEqsx3lb25sDcJ4C8Wzp"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 287000,
       "name": "Airtist",
       "url": "https://open.spotify.com/track/76HgbSQumiQIbzbSWEmLtR"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 185304,
       "name": "Alla Helgons Blodiga Natt",
       "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 157866,
       "name": "Before the Cock Crows",
       "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 242853,
       "name": "Bitch Slap Rapper",
       "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 230912,
       "name": "Cool Ade",
       "url": "https://open.spotify.com/track/1r5Euk8Scmv9OhA6xMLr2m"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -4274,7 +4274,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 231808,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 274924,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
@@ -5788,6 +5788,24 @@
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
+    },
+    {
+      "album": {
+        "name": "Grave of God",
+        "url": "https://open.spotify.com/album/2mHxwDXe3Xq7jnAScRxg86"
+      },
+      "artists": [
+        {
+          "name": "Grave of God",
+          "url": "https://open.spotify.com/artist/0vjvu0IhcALM0gQxFhhQ8m"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120463,
+      "name": "Fade and Burn",
+      "url": "https://open.spotify.com/track/4rcBlkiUrkEcmtqerD3D6P"
     },
     {
       "album": {
@@ -7108,7 +7126,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "Got No Time",
       "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
@@ -8331,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Bring Me Trouble",
+        "url": "https://open.spotify.com/album/3rBLLwm4lwLvy1gUpXLtHE"
+      },
+      "artists": [
+        {
+          "name": "Marc Blackwell",
+          "url": "https://open.spotify.com/artist/1vpTFq78b5v0ZEvzfQzZ9p"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "I Gotta Stay",
+      "url": "https://open.spotify.com/track/6r6gvGwfdWG8my9Z7XAou3"
+    },
+    {
+      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/7bkNPHOMe3mYzMm5eDZx7C"
       },
@@ -8396,7 +8432,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 211598,
       "name": "I Own Ya",
       "url": "https://open.spotify.com/track/57vCsCkZQpbAp2Mp73wgam"
@@ -8940,7 +8976,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -9626,7 +9662,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -9662,7 +9698,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 162480,
       "name": "Kj\u00f8re P\u00e5",
       "url": "https://open.spotify.com/track/2ypRfeS5B0JDSgMtTO86ZA"
@@ -10958,7 +10994,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 199578,
       "name": "Mamma Africa",
       "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
@@ -11066,7 +11102,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11618,7 +11654,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Mitt hjerte er r\u00e5tt",
       "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
@@ -11716,7 +11752,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 237426,
       "name": "Modern Pussy",
       "url": "https://open.spotify.com/track/4OiTjIBEeEp6qCqG1YbTIS"
@@ -11914,7 +11950,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 250500,
       "name": "Mother Earth",
       "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
@@ -12462,7 +12498,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -12762,7 +12798,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 107000,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3X9JyeZzLbsTeLDzP1WcNL"
@@ -13246,7 +13282,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 214013,
       "name": "On Her Own",
       "url": "https://open.spotify.com/track/2Ka5ivvoPaZ3aGh1bWcJZw"
@@ -14782,7 +14818,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 292586,
       "name": "Revolutionary Youth",
       "url": "https://open.spotify.com/track/2EKUMgSHUL7rH7BfzJaues"
@@ -15734,7 +15770,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -16191,6 +16227,24 @@
     },
     {
       "album": {
+        "name": "Some Good News",
+        "url": "https://open.spotify.com/album/2fCxUNX84KIu4qmEnPoQdn"
+      },
+      "artists": [
+        {
+          "name": "Dan Eckberg",
+          "url": "https://open.spotify.com/artist/0mnCZhzxUnX5GYMksbVi95"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219957,
+      "name": "Some Good News",
+      "url": "https://open.spotify.com/track/3FHFyL7tXNAmsyCJJ6eZUi"
+    },
+    {
+      "album": {
         "name": "Someone To Blame",
         "url": "https://open.spotify.com/album/1PghgUb347VXpcruyD2j9h"
       },
@@ -16634,7 +16688,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 223190,
       "name": "Stirring The Well",
       "url": "https://open.spotify.com/track/0x19iWenVzDAvA7rRkWDq4"
@@ -16656,7 +16710,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -16714,7 +16768,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -21092,7 +21146,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 217636,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"
@@ -21452,7 +21506,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 210426,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5OmSe0hZtAj7kCiHWE0YMZ"

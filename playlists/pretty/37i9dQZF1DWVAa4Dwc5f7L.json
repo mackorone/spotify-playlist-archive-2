@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 396102,
+  "num_followers": 396105,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,18 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
-        "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
+        "name": "Mujer De Fuego",
+        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "El Cata",
-          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 195240,
-      "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
-      "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
+      "duration_ms": 267533,
+      "name": "Muchacho malo",
+      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -619,18 +611,26 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Mujer De Fuego",
-        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
+        "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
+        "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "El Cata",
+          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
         }
       ],
-      "duration_ms": 267533,
-      "name": "Muchacho malo",
-      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
+      "duration_ms": 195240,
+      "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
+      "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
+        "name": "La Makina... A Mil",
+        "url": "https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn"
+      },
+      "artists": [
+        {
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+        }
+      ],
+      "duration_ms": 250893,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
         "name": "MENOS EL CORA",
         "url": "https://open.spotify.com/album/3ggwOSfz4pqKjwiENI5o0D"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 210000,
       "name": "MENOS EL CORA",
       "url": "https://open.spotify.com/track/4tNvWqucaZTrdp5ZmAsGhv"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
-        "name": "La Makina... A Mil",
-        "url": "https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 250893,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
         "name": "Loma de Cayenas",
         "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 225868,
       "name": "Loma de Cayenas",
       "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
+        "name": "Merengue De Amor Vol.1",
+        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Que Cara M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 210965,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
-        "name": "Merengue De Amor Vol.1",
-        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Que Cara M\u00e1s Bonita",
-      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
     },
     {
       "added_at": "2026-11-06 05:00:20",

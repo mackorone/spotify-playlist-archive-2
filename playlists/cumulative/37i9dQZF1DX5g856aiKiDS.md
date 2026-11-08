@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-452 songs - 1 day 0 hr 52 min
+453 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [DALLA](https://open.spotify.com/track/0BE13JCAlf4OYlWzlXNitY) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [DALLA](https://open.spotify.com/album/5GlGTxGBX3amAqGEjZAD7l) | 2:56 | 2022-04-12 | 2022-04-21 |
 | [Day alone 혼자가 편해](https://open.spotify.com/track/7m36n39z9ADfvrUUPJXot8) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Day alone 혼자가 편해](https://open.spotify.com/album/38NNuKdQgSX9MN5KECEcdJ) | 3:10 | 2022-04-12 | 2022-04-21 |
 | [DAYDREAM](https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 3:43 | 2022-04-21 | 2022-07-25 |
-| [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-22 |  |
+| [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-22 | 2026-11-08 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-21 | 2022-07-27 |
 | [Dear Day](https://open.spotify.com/track/0AHPzmxZ6NH1PRpDLlXnyo) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Dear Day](https://open.spotify.com/album/5tc2pEYvxlIXiShZkKyLd8) | 2:57 | 2025-05-12 | 2025-06-10 |
 | [Dear Day](https://open.spotify.com/track/4HSeE6SBFmmJexcjgyZbrI) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [LOVE](https://open.spotify.com/album/652TLKJWluUQlikBi55rKb) | 2:57 | 2026-03-30 | 2026-04-06 |
@@ -148,6 +148,7 @@
 | [GREEN](https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [GREEN](https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J) | 2:54 | 2022-08-12 | 2022-10-06 |
 | [Half of Sunday](https://open.spotify.com/track/3ytD48qvFh6odzVcOzpeiS) | [Lee O Neul](https://open.spotify.com/artist/2FL8mim5b0Dd0LUkPE9c6t) | [Half of Sunday \(Lee O Neul X Forest Notes\)](https://open.spotify.com/album/1xrvpicIES6aRreMzdIRog) | 2:38 | 2025-09-16 | 2025-11-07 |
 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 | 2022-07-08 | 2022-07-23 |
+| [Happiest](https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Happiest](https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT) | 2:51 | 2026-11-06 |  |
 | [Happy New Year](https://open.spotify.com/track/4eNbLN9Hara5j8WgE6SOo3) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happy New Year](https://open.spotify.com/album/2OPxnNNxWaSmTWxQVsIWz6) | 2:48 | 2022-05-11 | 2022-06-22 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2022-04-12 | 2022-07-29 |
 | [HEARTBREAK AVENUE](https://open.spotify.com/track/3zt0IkmADxQkNTDsbQ8urv) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 3:16 | 2025-07-21 | 2025-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 1060648,
+  "num_followers": 1060673,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Blurring The Edges",
-        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
-      },
-      "artists": [
-        {
-          "name": "Meredith Brooks",
-          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Blurring The Edges",
+        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+      },
+      "artists": [
+        {
+          "name": "Meredith Brooks",
+          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "Woodface",
         "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Jennifer Paige",
-        "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Paige",
-          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
         "name": "The Cross Of Changes",
         "url": "https://open.spotify.com/album/1t4hf9yHMQBoTz2CxTBJKj"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
+        "name": "Jennifer Paige",
+        "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
-    },
-    {
-      "added_at": "2026-01-02 14:18:08",
-      "album": {
-        "name": "Supposed Former Infatuation Junkie",
-        "url": "https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Thank U",
-      "url": "https://open.spotify.com/track/3CVDronuSnhguSUguPoseM"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1135,6 +1119,22 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+    },
+    {
+      "added_at": "2026-01-02 14:18:08",
+      "album": {
+        "name": "Supposed Former Infatuation Junkie",
+        "url": "https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/3CVDronuSnhguSUguPoseM"
     },
     {
       "added_at": "2026-01-02 14:18:08",
@@ -1323,8 +1323,8 @@
     {
       "added_at": "2026-01-02 14:18:08",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
       "artists": [
         {
@@ -1332,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
         }
       ],
-      "duration_ms": 291333,
-      "name": "No More \"I Love You's\"",
-      "url": "https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD"
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     }
   ],
   "unique_name": "Easy 90s",

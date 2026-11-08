@@ -4,7 +4,7 @@
 
 > pop that \*hits different\* featuring lennon stella
 
-799 songs - 1 day 19 hr 3 min
+800 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2023-03-16 | 2023-10-23 |
 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2025-03-13 | 2026-01-30 |
 | [Me And You](https://open.spotify.com/track/7wtMm8fvr484PuKheXoCwa) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Me And You](https://open.spotify.com/album/3kxzzOzZn99FTyBgTq2bFz) | 3:20 | 2025-07-10 | 2025-08-12 |
-| [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-27 |  |
+| [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-27 | 2026-11-08 |
 | [Michelle Obama](https://open.spotify.com/track/4H6QjtFXqdMCp1GvkGpzxC) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Michelle Obama](https://open.spotify.com/album/531LqMUQR26C1LLfnrsV9E) | 3:31 | 2024-11-14 | 2024-12-06 |
 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 | 2025-07-24 | 2025-09-23 |
 | [million times](https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [million times](https://open.spotify.com/album/6qbhyEtynN54ogfCjJBEtf) | 3:02 | 2025-03-27 | 2025-04-11 |
@@ -664,6 +664,7 @@
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-06-18 | 2024-10-15 |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2024-06-18 | 2024-10-25 |
 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-05-22 | 2026-02-01 |
+| [take me home \(4 christmas\)](https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [take me home \(4 christmas\)](https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B) | 2:57 | 2026-11-05 |  |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-03-28 | 2024-04-05 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2024-07-10 |
 | [Taking It Easy](https://open.spotify.com/track/1Qm6oqgMJZQSlAIBgo16xJ) | [Meila](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [Taking It Easy](https://open.spotify.com/album/0mSdps1rVEgwr0PtYGA9vr) | 3:59 | 2025-05-29 | 2025-06-13 |

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192251,
+  "num_followers": 192253,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 202200,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Sem Ponto e Sem V\u00edrgula",
-        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
       "artists": [
         {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 201532,
-      "name": "Sem Ponto e Sem V\u00edrgula",
-      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-11-06 16:01:03",

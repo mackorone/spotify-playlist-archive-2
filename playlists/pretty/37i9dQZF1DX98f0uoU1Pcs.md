@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,188 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,177 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 30 | [Skint](https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW) | [The Dead Bolts](https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K) | [Skint](https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc) | 3:42 |
 | 31 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 |
 | 32 | [Jeans](https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Jeans](https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5) | 3:27 |
-| 33 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
-| 34 | [Tongue](https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 2:28 |
+| 33 | [Tongue](https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 2:28 |
+| 34 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
 | 35 | [You’ll Never Fix Me](https://open.spotify.com/track/3CDNh6dWpYjSgOeykhT71M) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 3:23 |
 | 36 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
 | 37 | [New Self](https://open.spotify.com/track/3sG9piWq8U1TELm4aGDZgq) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [New Self](https://open.spotify.com/album/29iBRlzAcmRmKRvw7onM0j) | 2:37 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 40 | [The Radiator](https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [The Radiator](https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW) | 3:38 |
 | 41 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 42 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 |
-| 43 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
-| 44 | [Hit My Head All Day](https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 6:03 |
+| 43 | [Hit My Head All Day](https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 6:03 |
+| 44 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 45 | [Riding](https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I) | 3:53 |
 | 46 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 47 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 80 | [Mind's a Lie](https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mind's a Lie](https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn) | 4:46 |
 | 81 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
 | 82 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
-| 83 | [Who's Gonna Love You Now?](https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Who's Gonna Love You Now?](https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW) | 2:55 |
-| 84 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 83 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 84 | [Who's Gonna Love You Now?](https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Who's Gonna Love You Now?](https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW) | 2:55 |
 | 85 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 | 86 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
 | 87 | [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 89 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
 | 90 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 91 | [Trickle Down](https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb) | 2:47 |
-| 92 | [Castaways](https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Slippers 08](https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf) | 1:48 |
-| 93 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 |
+| 92 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 |
+| 93 | [Castaways](https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Slippers 08](https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf) | 1:48 |
 | 94 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 95 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
 | 96 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
 | 97 | [Won't Wait](https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Glass and Bones](https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O) | 3:47 |
 | 98 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
 | 99 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
-| 100 | [I Love My Wife](https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu) | [Touchdown Jesus](https://open.spotify.com/artist/4m2cmezyP3GrxPbHdNSgjM) | [It's All Feast Or Famine](https://open.spotify.com/album/3DjQPilg3Hxgx88B6bWmfd) | 3:44 |
+| 100 | [Worst Kept Secret](https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Worst Kept Secret](https://open.spotify.com/album/0vooFeuwJvhHSWVGAJHnrj) | 4:18 |
 
 Snapshot ID: `AAAAAGbdknKhya7WoYLWZyy4q5DndbB2`

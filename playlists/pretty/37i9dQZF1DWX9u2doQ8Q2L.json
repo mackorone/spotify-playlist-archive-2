@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 393635,
+  "num_followers": 393622,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "BE:ST",
-        "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
-    },
-    {
-      "added_at": "2026-11-04 05:03:26",
-      "album": {
         "name": "Burning Flower",
         "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 177898,
       "name": "Burning Flower",
       "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
+    },
+    {
+      "added_at": "2026-11-04 05:03:26",
+      "album": {
+        "name": "BE:ST",
+        "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
     },
     {
       "added_at": "2026-11-04 05:03:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 230524,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
-    },
-    {
-      "added_at": "2026-11-04 05:03:26",
-      "album": {
         "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
         "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "GUM&DROP",
-        "url": "https://open.spotify.com/album/1UrRVoRFsslGvbiUDUvtIQ"
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
       },
       "artists": [
         {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 171796,
-      "name": "GUM&DROP",
-      "url": "https://open.spotify.com/track/52mNHkd1oWF0LVKy549iOO"
+      "duration_ms": 230524,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
     },
     {
       "added_at": "2026-11-04 05:03:26",
@@ -871,6 +855,22 @@
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
+    },
+    {
+      "added_at": "2026-11-04 05:03:26",
+      "album": {
+        "name": "GUM&DROP",
+        "url": "https://open.spotify.com/album/1UrRVoRFsslGvbiUDUvtIQ"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 171796,
+      "name": "GUM&DROP",
+      "url": "https://open.spotify.com/track/52mNHkd1oWF0LVKy549iOO"
     },
     {
       "added_at": "2026-11-04 05:03:26",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "Ghost Avenue",
-        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 173606,
-      "name": "Ghost Avenue",
-      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
-    },
-    {
-      "added_at": "2026-11-04 05:03:26",
-      "album": {
-        "name": "\u58f0",
-        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 263983,
-      "name": "\u58f0",
-      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
-    },
-    {
-      "added_at": "2026-11-04 05:03:26",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2026-11-04 05:03:26",
+      "album": {
+        "name": "\u58f0",
+        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 263983,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
+    },
+    {
+      "added_at": "2026-11-04 05:03:26",
+      "album": {
+        "name": "Ghost Avenue",
+        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 173606,
+      "name": "Ghost Avenue",
+      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
     },
     {
       "added_at": "2026-11-04 05:03:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
-    },
-    {
-      "added_at": "2026-11-04 05:03:26",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2026-11-04 05:03:26",
+      "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2026-11-04 05:03:26",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-11-04 05:03:26",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+        "name": "GALA",
+        "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
+      "duration_ms": 227175,
+      "name": "GALA",
+      "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
     }
   ],
   "unique_name": "Tokyo Rising",

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "like what we had",
+        "url": "https://open.spotify.com/album/2Hb34cEMAQ4ETac0trJeM5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181516,
+      "name": "like what we had",
+      "url": "https://open.spotify.com/track/3hRuxKgiYU1oO7u70coAu9"
+    },
+    {
+      "album": {
         "name": "lips (Original Music from The L Word: Generation Q)",
         "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
       },

@@ -121703,6 +121703,24 @@
     },
     {
       "album": {
+        "name": "ANTENNA",
+        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343253,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM"
+    },
+    {
+      "album": {
         "name": "Full Metal Panic Fumoffu Original Soundtrack Album",
         "url": "https://open.spotify.com/album/6bgrmKnuW7mLZXl4FAKsM9"
       },
@@ -125080,7 +125098,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 144369,
       "name": "Strawberry Kush",
       "url": "https://open.spotify.com/track/0rNfyVTVLk6kIjLSKQmwXl"
@@ -128374,7 +128392,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/5Qb5Crn9sefQ27M2lKahPM"
@@ -159884,6 +159902,32 @@
       "duration_ms": 198000,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "album": {
+        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u8a18\u61b6",
+        "url": "https://open.spotify.com/album/2EFbQ9zEh7J4urd5UblpPZ"
+      },
+      "artists": [
+        {
+          "name": "Aya Hirano",
+          "url": "https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj"
+        },
+        {
+          "name": "\u8305\u539f\u5b9f\u91cc",
+          "url": "https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ"
+        },
+        {
+          "name": "\u5f8c\u85e4\u9091\u5b50",
+          "url": "https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/2LjozKhOvVNAsir4E4WnKK"
     },
     {
       "album": {

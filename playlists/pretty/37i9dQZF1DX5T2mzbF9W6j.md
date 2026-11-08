@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,041 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,046 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 51 | [Kochanie!](https://open.spotify.com/track/4P8CXaK6JujCRu45IaZu5x) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Kochanie!](https://open.spotify.com/album/0qu9Ob1sWLmUYcUfwA81KT) | 2:52 |
 | 52 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 53 | [Nie wszystko złoto, co się świeci](https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Nie wszystko złoto, co się świeci](https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G) | 3:01 |
-| 54 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
-| 55 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
+| 54 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
+| 55 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
 | 56 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
 | 57 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
 | 58 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |

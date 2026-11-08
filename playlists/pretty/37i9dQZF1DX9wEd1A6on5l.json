@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 122874,
+  "num_followers": 122912,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
         "name": "IKEBE 3000",
         "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 197288,
       "name": "IKEBE 3000",
       "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "SWAGUU",
-        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 158589,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
         "name": "Back Outside",
         "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 211090,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 167433,
-      "name": "Tap Am",
-      "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
         "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
         "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 159272,
       "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
       "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 167433,
+      "name": "Tap Am",
+      "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
         "name": "ZUKO!",
         "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+        "name": "Burukutu",
+        "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+      "duration_ms": 311150,
+      "name": "Burukutu",
+      "url": "https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -563,22 +579,6 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
         "name": "Dantata",
         "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "Burukutu",
-        "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7"
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 311150,
-      "name": "Burukutu",
-      "url": "https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz"
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
+        "name": "Bere Mole",
+        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "duration_ms": 113206,
+      "name": "Bere Mole",
+      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 130285,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
-        "name": "Bere Mole",
-        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
-        }
-      ],
-      "duration_ms": 113206,
-      "name": "Bere Mole",
-      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
     },
     {
       "added_at": "2026-11-02 11:40:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-11-02 11:40:06",
       "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
-    },
-    {
-      "added_at": "2026-11-02 11:40:06",
-      "album": {
         "name": "SPEND SPEND",
         "url": "https://open.spotify.com/album/219vDdqxGAxrmzxc8z6rjJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 156428,
       "name": "SPEND SPEND",
       "url": "https://open.spotify.com/track/7i1weP95VcDDoYvUSvRuzd"
+    },
+    {
+      "added_at": "2026-11-02 11:40:06",
+      "album": {
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-11-02 11:40:06",

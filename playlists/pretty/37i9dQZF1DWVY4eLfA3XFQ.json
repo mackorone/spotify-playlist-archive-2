@@ -1,28 +1,32 @@
 {
   "description": "50% techno, 50% house \ud83d\udd0a Tech house operators, featuring Bruno Furlan",
-  "num_followers": 719836,
+  "num_followers": 719902,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKKDGkCfUe97NeJddlnX0Oc4Hre",
+  "snapshot_id": "AAAAAOcyZmjrDjPNCQyJhEPCKDHjWF86",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:58",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz"
+        "name": "Don't Call Me (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/3NX89CyKXrb3lhJXnbMbbt"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
         }
       ],
-      "duration_ms": 172615,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9"
+      "duration_ms": 154615,
+      "name": "Don't Call Me (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/2T8WhPKsCxZeylhcxL5z3Y"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -49,6 +53,22 @@
       "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
     },
     {
+      "added_at": "2026-11-06 05:00:58",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9"
+    },
+    {
       "added_at": "2026-10-02 04:03:08",
       "album": {
         "name": "Hot Girl Walk",
@@ -67,26 +87,6 @@
       "duration_ms": 167441,
       "name": "Hot Girl Walk",
       "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
-    },
-    {
-      "added_at": "2026-11-06 05:00:58",
-      "album": {
-        "name": "Don't Call Me (feat. EVALINA)",
-        "url": "https://open.spotify.com/album/3NX89CyKXrb3lhJXnbMbbt"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "EVALINA",
-          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Don't Call Me (feat. EVALINA)",
-      "url": "https://open.spotify.com/track/2T8WhPKsCxZeylhcxL5z3Y"
     },
     {
       "added_at": "2026-10-16 04:01:00",

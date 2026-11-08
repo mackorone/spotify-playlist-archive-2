@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
-  "num_followers": 870719,
+  "num_followers": 870655,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 108669,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 222827,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 108669,
-      "name": "No Brakes",
-      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
         "name": "FT.",
         "url": "https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201290,
       "name": "Picante",
       "url": "https://open.spotify.com/track/2OieKfzEmyyTKZyBUsZAg4"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
-        "name": "ADRENOCHROME",
-        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "HACKING THE GATE",
-      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
         "name": "HORSEPOWER",
         "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
+        "name": "ADRENOCHROME",
+        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "HACKING THE GATE",
+      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 190285,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1271,6 +1255,38 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
         "name": "Again? Fuck.",
         "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 171000,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
         "name": "TTY",
         "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 226985,
       "name": "TTY",
       "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
-        "name": "GOIN' ALL THE WAY",
-        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "GOIN' ALL THE WAY",
-      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
         "name": "Greyscale",
         "url": "https://open.spotify.com/album/2pL7bw5G3JkcR5ckIaidOC"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 186400,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
+        "name": "GOIN' ALL THE WAY",
+        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "GOIN' ALL THE WAY",
+      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
     },
     {
       "added_at": "2026-11-06 22:27:25",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-11-06 22:27:25",
       "album": {
-        "name": "IMPACT",
-        "url": "https://open.spotify.com/album/3CNOAtLbMwzPs7VbofWCUd"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/0G37Jdh5sH1pf0QoPjz2Hd"
-    },
-    {
-      "added_at": "2026-11-06 22:27:25",
-      "album": {
         "name": "UH OH!",
         "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 238344,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
+    },
+    {
+      "added_at": "2026-11-06 22:27:25",
+      "album": {
+        "name": "IMPACT",
+        "url": "https://open.spotify.com/album/3CNOAtLbMwzPs7VbofWCUd"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/0G37Jdh5sH1pf0QoPjz2Hd"
     },
     {
       "added_at": "2026-11-06 22:27:25",

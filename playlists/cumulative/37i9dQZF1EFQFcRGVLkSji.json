@@ -816,6 +816,24 @@
     {
       "album": {
         "name": "Divided",
+        "url": "https://open.spotify.com/album/3Zmw5s7NtMOBX30vJsyx8a"
+      },
+      "artists": [
+        {
+          "name": "Warner Meadows",
+          "url": "https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Divided",
+      "url": "https://open.spotify.com/track/6CiH7QQKjQsikyq7kZt9nB"
+    },
+    {
+      "album": {
+        "name": "Divided",
         "url": "https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr"
       },
       "artists": [
@@ -826,7 +844,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 104000,
       "name": "Divided",
       "url": "https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG"

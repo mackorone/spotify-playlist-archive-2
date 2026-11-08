@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Grupo MM, Chuyin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,532 likes - 119 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,616 likes - 119 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 35 | [Cheers](https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [La Formula](https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd) | 2:51 |
 | 36 | [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 |
 | 37 | [Los Billetes](https://open.spotify.com/track/0ZWWmCuwFAQ4RxCwGbQMB0) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Los Billetes](https://open.spotify.com/album/6166mye5jEBuhkC3SKYYe9) | 2:20 |
-| 38 | [El Genio](https://open.spotify.com/track/3vl4qPZBt0lnUguH0aBgi8) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [El Genio](https://open.spotify.com/album/227rHLLsgOjGb89iaHiKNe) | 2:43 |
+| 38 | [El Genio \- En Vivo](https://open.spotify.com/track/3vl4qPZBt0lnUguH0aBgi8) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [El Genio \(En Vivo\)](https://open.spotify.com/album/227rHLLsgOjGb89iaHiKNe) | 2:43 |
 | 39 | [V2](https://open.spotify.com/track/5aR2nStSG3vJ80cnrDi5m3) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [V2](https://open.spotify.com/album/1UeuWR9jjyTpiM7Gv70rI6) | 2:37 |
 | 40 | [Me Consulto El Padrino](https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Me Consulto El Padrino](https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH) | 2:55 |
 | 41 | [Gente Tan Mitotera](https://open.spotify.com/track/2wPE8iMR1KzUuTYlhrqabl) | [Adrián Beltrán](https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA) | [Gente Tan Mitotera](https://open.spotify.com/album/7pWuvduNIhBge9K8kGbo0s) | 3:39 |

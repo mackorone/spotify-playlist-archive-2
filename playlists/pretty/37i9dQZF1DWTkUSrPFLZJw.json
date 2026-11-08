@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24795,
+  "num_followers": 24809,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Dont Come Too Close II",
         "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 186932,
       "name": "Dont Come Too Close II",
       "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Darkest Style",
         "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+      "duration_ms": 137727,
+      "name": "Eye Open",
+      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -683,22 +699,6 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Eye Open",
-      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -927,22 +927,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+        "name": "Bienvenue",
+        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
       "artists": [
         {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         },
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
+      "duration_ms": 176000,
+      "name": "Bienvenue",
+      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
     }
   ],
   "unique_name": "Soloku ",

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 263365,
+  "num_followers": 263414,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACKK993NRxCXNRtp9FD8ByU",
+  "snapshot_id": "au0YgAAAAADrQWOqmGGMejOPGdEUVTo5",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Compas",
+        "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Burbuja de Amor",
+      "url": "https://open.spotify.com/track/1SrihVjSmP9pvBheOR9grI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Compas",
-        "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Burbuja de Amor",
-      "url": "https://open.spotify.com/track/1SrihVjSmP9pvBheOR9grI"
     },
     {
       "added_at": null,
@@ -791,30 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/7rcOaimWZ7e8SckSji7AS7"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 306009,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3YqMl48AweMFNABrtIYb52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
     },
     {
       "added_at": null,
@@ -1063,30 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rel\u00e1mpago",
-        "url": "https://open.spotify.com/album/2kJ4KDFb73xmne0ctWSwmZ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 182100,
-      "name": "Rel\u00e1mpago",
-      "url": "https://open.spotify.com/track/0NLXQIZmQ66xNv4H5yEt9g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Maletas",
         "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 187000,
       "name": "Lentito",
       "url": "https://open.spotify.com/track/7cXxp6xKPHhMUlPyAcwNVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rel\u00e1mpago",
+        "url": "https://open.spotify.com/album/2kJ4KDFb73xmne0ctWSwmZ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "Rel\u00e1mpago",
+      "url": "https://open.spotify.com/track/0NLXQIZmQ66xNv4H5yEt9g"
     },
     {
       "added_at": null,

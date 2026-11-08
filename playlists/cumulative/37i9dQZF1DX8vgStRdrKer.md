@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-900 songs - 3 day 7 hr 47 min
+901 songs - 3 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Holy Father](https://open.spotify.com/track/7nhZSxv9wUFsqLRBPAIFRn) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Holy Father](https://open.spotify.com/album/3rXdQN1aKdsSEEZjBwbxDA) | 6:34 | 2026-05-22 | 2026-06-07 |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
 | [Holy Ghost](https://open.spotify.com/track/7qMtGAM3HregKdmlxslezQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [Holy Ghost](https://open.spotify.com/album/1PdYsNFHkhnqtpmDUmt5Hb) | 2:51 | 2025-07-18 | 2025-10-03 |
-| [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 | 2025-11-28 |  |
+| [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 | 2025-11-28 | 2026-11-08 |
 | [Holy Ghost Help Me Pray \- Live](https://open.spotify.com/track/3gLseUrjaS7SyMinAyuE1l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Holy Ghost Help Me Pray \(Live\)](https://open.spotify.com/album/5gMjpCYEzyy2FwOGR4Zb27) | 10:56 | 2025-10-24 | 2025-12-12 |
 | [Holy Holy Holy](https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Holy Holy Holy](https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA) | 12:08 | 2026-07-03 | 2026-07-16 |
 | [Holy Lion \- Live](https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Holy Lion](https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP) | 8:36 | 2026-04-03 | 2026-05-22 |
@@ -895,6 +895,7 @@
 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-09-06 |
 | [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 | 2026-05-22 |
 | [You Are Worthy](https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy](https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn) | 7:20 | 2026-07-03 | 2026-07-29 |
+| [You Are Worthy \- Live](https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [We Feel Heaven \(Live\)](https://open.spotify.com/album/2sc99XQsr6JpXx1Iv2pNAn) | 6:09 | 2026-10-30 |  |
 | [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 | 2026-09-25 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-09-15 | 2024-03-16 |
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-07-25 |

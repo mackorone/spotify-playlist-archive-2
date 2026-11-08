@@ -4,7 +4,7 @@
 
 > This is Arushi Jain\. The essential tracks, all in one playlist.
 
-31 songs - 3 hr 24 min
+32 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Farida](https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:59 | 2026-03-04 |  |
 | [Hum Honge Kaamyab / We Shall Overcome](https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [We Shall Overcome / Hum Honge Kaamyaab](https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z) | 5:32 | 2026-03-04 |  |
 | [I Feel Incomplete Without Sound](https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 11:38 | 2026-03-04 |  |
-| [I Surrender](https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:26 | 2026-04-11 |  |
+| [I Surrender](https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:26 | 2026-04-11 | 2026-11-08 |
 | [Imagine An Orchestra](https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 3:27 | 2026-03-04 |  |
 | [Infinite Delight](https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 6:11 | 2026-03-04 | 2026-10-12 |
 | [Is It Love?](https://open.spotify.com/track/1IbaY2RFLJvbWuSr14IEoe) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 9:06 | 2026-03-04 |  |
@@ -38,6 +38,7 @@
 | [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 | 2026-03-04 |  |
 | [The Sun Swirls Within You](https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 9:54 | 2026-03-04 |  |
 | [Under The Lilac Sky](https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 12:43 | 2026-03-04 |  |
+| [You Are Irresistible](https://open.spotify.com/track/4cfuLhycHlmb4kVpeplFn5) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 6:33 | 2026-11-08 |  |
 | [Zid](https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Zid](https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg) | 7:04 | 2026-03-04 |  |
 
 \*This playlist was first scraped on 2026-03-04. Prior content cannot be recovered.

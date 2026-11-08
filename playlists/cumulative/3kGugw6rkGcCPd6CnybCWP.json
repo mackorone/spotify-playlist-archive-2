@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Nordhamn",
+        "url": "https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t"
+      },
+      "artists": [
+        {
+          "name": "NE\u00d8V",
+          "url": "https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn"
+    },
+    {
+      "album": {
         "name": "Bring Back the Feeling",
         "url": "https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9"
       },
@@ -9120,6 +9138,24 @@
       "duration_ms": 195538,
       "name": "Vitanova",
       "url": "https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH"
+    },
+    {
+      "album": {
+        "name": "New Earth",
+        "url": "https://open.spotify.com/album/3k8N0sZrWStJ1wV0x0lwcQ"
+      },
+      "artists": [
+        {
+          "name": "Pacific Sunsets",
+          "url": "https://open.spotify.com/artist/7gm630ZR1NLY8fFD52XjIZ"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/1fZGj47vPETglpLgbdmOt9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: daine
 
-4,138 songs - 9 day 12 hr 48 min
+4,139 songs - 9 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [Feet](https://open.spotify.com/track/454NLXY4WwWj6vkhcQLkvE) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Feet](https://open.spotify.com/album/67ng9BqYRD1F3Wo9QEYaTu) | 3:05 | 2025-09-05 | 2025-10-11 |
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-13 | 2024-12-07 |
 | [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 | 2023-08-11 | 2023-09-23 |
+| [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 | 2026-11-07 |  |
 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 | 2023-01-20 | 2023-02-25 |
 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2024-11-29 | 2025-02-08 |
 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-22 | 2024-01-13 |

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Simone Mendes
+> O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,054,828 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,054,979 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
-| 2 | [Pós \- Ao Vivo](https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Pós \(Ao Vivo\)](https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv) | 2:55 |
-| 3 | [Imagina Você,](https://open.spotify.com/track/47tqclPTpDulUapzDeuN3w) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Onde Tudo Começa,](https://open.spotify.com/album/19xRmHjdqso76RByiG81me) | 3:18 |
-| 4 | [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 |
-| 5 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
-| 6 | [Primavera](https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Primavera](https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe) | 4:00 |
+| 1 | [Primavera](https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Primavera](https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe) | 4:00 |
+| 2 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
+| 3 | [Pós \- Ao Vivo](https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Pós \(Ao Vivo\)](https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv) | 2:55 |
+| 4 | [Imagina Você,](https://open.spotify.com/track/47tqclPTpDulUapzDeuN3w) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Onde Tudo Começa,](https://open.spotify.com/album/19xRmHjdqso76RByiG81me) | 3:18 |
+| 5 | [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 |
+| 6 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
 | 7 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão \(Verão\) \- Vol\. 02 \[Ao Vivo\]](https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW) | 2:50 |
 | 8 | [Oi, Tudo Bem? \- Ao Vivo](https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol\. 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB) | 3:07 |
 | 9 | [Flash \- Ao Vivo](https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS) | [Lucas & Higor](https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8) | [Explodiuu BB \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Amnésia \- Ao Vivo](https://open.spotify.com/track/1DYbj7SoFq9VKe83d1JIZt) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Impulso \(Ao Vivo\)](https://open.spotify.com/album/7HIETAJyLMywY7JBGnlTYS) | 2:46 |
 | 50 | [Todo Mundo Menos Eu \- Ao Vivo](https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Todo Mundo Menos Eu \(Ao Vivo\)](https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK) | 2:06 |
 
-Snapshot ID: `AAAAAIt4RrP9KEEXhDFYHrWDoKKc7US5`
+Snapshot ID: `AAAAAM/O7va/b+B2sHPmx3slIUzIr/sp`

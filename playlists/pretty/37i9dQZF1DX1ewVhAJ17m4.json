@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604555,
+  "num_followers": 604560,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Back To One",
         "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 199000,
       "name": "Back To One",
       "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Stare at the Sun",
-        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
-      },
-      "artists": [
-        {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "You Should See Me Now",
         "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Stare at the Sun",
+        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Big Couch",
+        "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
+      },
+      "artists": [
+        {
+          "name": "Set Your Goals",
+          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Big Couch",
+      "url": "https://open.spotify.com/track/3UqJCXXBjkGMEsTpMvyFnW"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Big Couch",
-        "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
+        "name": "Vodka Soda",
+        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
       },
       "artists": [
         {
-          "name": "Set Your Goals",
-          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Big Couch",
-      "url": "https://open.spotify.com/track/3UqJCXXBjkGMEsTpMvyFnW"
+      "duration_ms": 193714,
+      "name": "Vodka Soda",
+      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -891,22 +907,6 @@
       "duration_ms": 191010,
       "name": "Burn Me Out",
       "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Vodka Soda",
-        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Vodka Soda",
-      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 223416,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Probable Claws",
         "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 197600,
       "name": "Cooler",
       "url": "https://open.spotify.com/track/7eKabJnGgkzWctW0F237Fr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 223416,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Hard Call",
+        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Hard Call",
+      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Still There\u2019s a Glow",
         "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 167142,
       "name": "That's So True",
       "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Hard Call",
-        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
-      },
-      "artists": [
-        {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Hard Call",
-      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Ray Hawthorne Can't Be Trusted",
-        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
-      },
-      "artists": [
-        {
-          "name": "Ray Hawthorne",
-          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
-        }
-      ],
-      "duration_ms": 178119,
-      "name": "Bummer",
-      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "LET'S DO SOMETHING STUPID!",
         "url": "https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Ray Hawthorne Can't Be Trusted",
+        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
+      },
+      "artists": [
+        {
+          "name": "Ray Hawthorne",
+          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+        }
+      ],
+      "duration_ms": 178119,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Pain In My Chest",
-        "url": "https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 222700,
-      "name": "Pain In My Chest",
-      "url": "https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Pain In My Chest",
+        "url": "https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 222700,
+      "name": "Pain In My Chest",
+      "url": "https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Take What You Want",
         "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 146703,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "me against me",
-        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 223229,
-      "name": "me against me",
-      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 183375,
       "name": "Someone You Need",
       "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "me against me",
+        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 223229,
+      "name": "me against me",
+      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Hate My Mom",
-      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Fields Behind The House",
         "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
       },
       "artists": [
         {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1647,6 +1631,22 @@
       "duration_ms": 166800,
       "name": "One Zero Zero",
       "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/2MSwYhP12GYM8zETFwUiOP"
+        "name": "The Opposite of Luck",
+        "url": "https://open.spotify.com/album/4G770FQ0qYG6aoBUcYF2dh"
       },
       "artists": [
         {
-          "name": "Beauty School",
-          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+          "name": "Goalkeeper",
+          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
         }
       ],
-      "duration_ms": 231042,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/2S4TKNuAVR0nZDsEwOU7Ff"
+      "duration_ms": 157610,
+      "name": "The Opposite of Luck",
+      "url": "https://open.spotify.com/track/56fk5nFh3D3XPX9QzQaPHh"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "The Opposite of Luck",
-        "url": "https://open.spotify.com/album/4G770FQ0qYG6aoBUcYF2dh"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/2MSwYhP12GYM8zETFwUiOP"
       },
       "artists": [
         {
-          "name": "Goalkeeper",
-          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
         }
       ],
-      "duration_ms": 157610,
-      "name": "The Opposite of Luck",
-      "url": "https://open.spotify.com/track/56fk5nFh3D3XPX9QzQaPHh"
+      "duration_ms": 231042,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2S4TKNuAVR0nZDsEwOU7Ff"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "When I'm Feeling Down",
-        "url": "https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur"
+        "name": "Here in This Crazy",
+        "url": "https://open.spotify.com/album/04NVpBsdEGpCwmhbfvV2l5"
       },
       "artists": [
         {
-          "name": "Beauty School",
-          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+          "name": "I Hate Kate",
+          "url": "https://open.spotify.com/artist/35AoyOxoAjV1IlfGOH2MKc"
         }
       ],
-      "duration_ms": 200265,
-      "name": "When I'm Feeling Down",
-      "url": "https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i"
+      "duration_ms": 221756,
+      "name": "Here in This Crazy",
+      "url": "https://open.spotify.com/track/148KOFeRMqre2RdKYPxnHr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Here in This Crazy",
-        "url": "https://open.spotify.com/album/04NVpBsdEGpCwmhbfvV2l5"
+        "name": "When I'm Feeling Down",
+        "url": "https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur"
       },
       "artists": [
         {
-          "name": "I Hate Kate",
-          "url": "https://open.spotify.com/artist/35AoyOxoAjV1IlfGOH2MKc"
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
         }
       ],
-      "duration_ms": 221756,
-      "name": "Here in This Crazy",
-      "url": "https://open.spotify.com/track/148KOFeRMqre2RdKYPxnHr"
+      "duration_ms": 200265,
+      "name": "When I'm Feeling Down",
+      "url": "https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -2055,26 +2055,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
-        "url": "https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2"
+        "name": "The Preacher",
+        "url": "https://open.spotify.com/album/2YyhwLGGvX6MS21ACX7jCL"
       },
       "artists": [
         {
-          "name": "Riley!",
-          "url": "https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps"
-        },
-        {
-          "name": "Tades Sanville",
-          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Super Whatevr",
+          "url": "https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu"
         }
       ],
-      "duration_ms": 222460,
-      "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
-      "url": "https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9"
+      "duration_ms": 175490,
+      "name": "The Preacher",
+      "url": "https://open.spotify.com/track/25Qkn1Kz6aEIdtSw09zVfp"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

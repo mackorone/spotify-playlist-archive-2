@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2469,
+  "num_followers": 2470,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAD5vgzply1rJGTomUomb+Br",
+  "snapshot_id": "au0YgAAAAAC8Kp3V8CarodD1zJ3sMw0X",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 198356,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+      "duration_ms": 198356,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Royal Blood
 
-2,428 songs - 5 day 21 hr 54 min
+2,429 songs - 5 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-13 | 2023-04-21 |
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-06-22 | 2023-06-30 |
 | [Cryogen](https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Cryogen](https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f) | 5:01 | 2026-04-23 | 2026-08-22 |
+| [Currency](https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 3:37 | 2026-11-05 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-04 |
 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 | 2026-05-23 | 2026-06-26 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
@@ -1735,7 +1736,7 @@
 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-08-28 | 2025-09-12 |
 | [Rollercoaster](https://open.spotify.com/track/0zGnH3NbrPSP22g87xOKxZ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Rollercoaster](https://open.spotify.com/album/4RFfpRkcYY9Y8liNLyWPoR) | 4:33 | 2026-10-08 |  |
 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 | 2026-08-13 | 2026-08-21 |
-| [Romance Is A Desert](https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Romance Is A Desert](https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND) | 2:55 | 2026-09-17 |  |
+| [Romance Is A Desert](https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Romance Is A Desert](https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND) | 2:55 | 2026-09-17 | 2026-11-08 |
 | [Romeo](https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Romeo](https://open.spotify.com/album/3Bsx6OjdZj362VILxymjhR) | 4:00 | 2026-03-26 | 2026-04-03 |
 | [Rose](https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:25 | 2026-11-05 |  |
 | [Roses n Poses](https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy) | 3:30 | 2026-03-12 | 2026-03-27 |

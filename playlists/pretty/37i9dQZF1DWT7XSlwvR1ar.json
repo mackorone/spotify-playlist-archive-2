@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2114342,
+  "num_followers": 2114297,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "I'm Not Bothered By The Rain",
+        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
+      },
+      "artists": [
+        {
+          "name": "Eric McEntee",
+          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
+        }
+      ],
+      "duration_ms": 225867,
+      "name": "I'm Not Bothered By The Rain",
+      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "I'm Not Bothered By The Rain",
-        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
-      },
-      "artists": [
-        {
-          "name": "Eric McEntee",
-          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
-        }
-      ],
-      "duration_ms": 225867,
-      "name": "I'm Not Bothered By The Rain",
-      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
       },
       "artists": [
         {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+          "name": "Hazel Veil",
+          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
         }
       ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
+      "duration_ms": 181000,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
       },
       "artists": [
         {
-          "name": "Hazel Veil",
-          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Before You Leave",
-      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Missing Home",
-        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Missing Home",
-      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Missing Home",
+        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "About A House",
-        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
-      },
-      "artists": [
-        {
-          "name": "Curiosity Shop",
-          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
-        }
-      ],
-      "duration_ms": 204745,
-      "name": "About A House",
-      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 240360,
       "name": "Ocean Bed",
       "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "MEGA",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Long Limbs",
         "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 196885,
       "name": "Long Limbs",
       "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "MEGA",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "How Low",
-        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "How Low",
-      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "How Low",
+        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "How Low",
+      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Keep On Dreamin'",
         "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 258079,
       "name": "Becoming All Alone",
       "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 286320,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
     }
   ],
   "unique_name": "Totally Stress Free",

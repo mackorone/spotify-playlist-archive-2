@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 270864,
+  "num_followers": 270885,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABV5Hqn2fOfIElN3Vok8tfV",
+  "snapshot_id": "au0YgAAAAAD1e7TMABEpam8lX32h0vLX",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Relationship (feat. Future)",
-      "url": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Season 2",
         "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
       },
@@ -427,26 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
       },
       "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 278000,
-      "name": "It's Up (feat. Young Thug & 21 Savage)",
-      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+      "duration_ms": 215306,
+      "name": "Relationship (feat. Future)",
+      "url": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
     },
     {
       "added_at": null,
@@ -471,6 +447,30 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Her Nothing",
+        "url": "https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 224078,
+      "name": "Tell Her Nothing",
+      "url": "https://open.spotify.com/track/5NIFj42IEueGwtG3AfGbcI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Her Nothing",
-        "url": "https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 224078,
-      "name": "Tell Her Nothing",
-      "url": "https://open.spotify.com/track/5NIFj42IEueGwtG3AfGbcI"
     },
     {
       "added_at": null,

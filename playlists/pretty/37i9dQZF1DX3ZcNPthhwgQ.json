@@ -1,6 +1,6 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 259140,
+  "num_followers": 259181,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,22 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "La Formula",
-        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
       },
       "artists": [
         {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 158250,
-      "name": "La Formula",
-      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
+      "duration_ms": 187087,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -511,22 +515,18 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 187087,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
+        "name": "Amor De Antes",
+        "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Amor De Antes",
+      "url": "https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
-        "name": "Que Te Quieran Bonito",
-        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 162211,
-      "name": "Que Te Quieran Bonito",
-      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -739,6 +739,42 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 237759,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
         "name": "LA CITA FRESITA 2",
         "url": "https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA"
       },
@@ -759,42 +795,6 @@
       "duration_ms": 175023,
       "name": "LA CITA FRESITA 2",
       "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
-        "name": "Amor De Antes",
-        "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Amor De Antes",
-      "url": "https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
-        "name": "Noches Sin Fin",
-        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 237759,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 253884,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "TATTOO",
-        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 167955,
-      "name": "TATTOO",
-      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
         "name": "Por Esos Ojos",
         "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 188064,
       "name": "Por Esos Ojos",
       "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 167955,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
-      },
-      "artists": [
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "added_at": "2026-11-06 20:56:02",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-11-06 20:56:02",
       "album": {
-        "name": "Arriba la Compa\u00f1ia",
-        "url": "https://open.spotify.com/album/3d70plHlmkOQV6gLG6e9nC"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 179470,
-      "name": "Pa' Mi Nom\u00e1s",
-      "url": "https://open.spotify.com/track/0gU7cC1HVCtQQ4o1m2WR57"
-    },
-    {
-      "added_at": "2026-11-06 20:56:02",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 172500,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b"
+    },
+    {
+      "added_at": "2026-11-06 20:56:02",
+      "album": {
+        "name": "Arriba la Compa\u00f1ia",
+        "url": "https://open.spotify.com/album/3d70plHlmkOQV6gLG6e9nC"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 179470,
+      "name": "Pa' Mi Nom\u00e1s",
+      "url": "https://open.spotify.com/track/0gU7cC1HVCtQQ4o1m2WR57"
     },
     {
       "added_at": "2026-11-06 20:56:02",

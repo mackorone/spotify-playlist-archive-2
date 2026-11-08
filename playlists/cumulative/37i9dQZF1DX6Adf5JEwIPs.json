@@ -11263,24 +11263,6 @@
     },
     {
       "album": {
-        "name": "Las Que Me Gustan a M\u00ed Vol. 2",
-        "url": "https://open.spotify.com/album/1bh5ugHMWzL5mmIrgGb7aV"
-      },
-      "artists": [
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199163,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/7yLjXB9oVjrD9yq08J3NaC"
-    },
-    {
-      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/7KqsUq0R6CkjiYLhuQLeoB"
       },
@@ -11372,6 +11354,24 @@
       "duration_ms": 194281,
       "name": "Amor - Cover",
       "url": "https://open.spotify.com/track/7vObhMIqXv6IQuidv2qVny"
+    },
+    {
+      "album": {
+        "name": "Las Que Me Gustan a M\u00ed Vol. 2",
+        "url": "https://open.spotify.com/album/1bh5ugHMWzL5mmIrgGb7aV"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199163,
+      "name": "Amor - En Vivo",
+      "url": "https://open.spotify.com/track/7yLjXB9oVjrD9yq08J3NaC"
     },
     {
       "album": {

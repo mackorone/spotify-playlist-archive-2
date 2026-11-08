@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,962 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,984 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 37 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 38 | [Seal The Deal](https://open.spotify.com/track/3KaMkTX5m126lYdEj5Dw3X) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Seal The Deal](https://open.spotify.com/album/5Is6E5PlqwrxdkYnSVZECQ) | 4:30 |
 | 39 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
-| 40 | [Into The Dark](https://open.spotify.com/track/38ftLCfarof2vlj8ETIH0s) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Into The Dark](https://open.spotify.com/album/3PzNHCsrWowJAsTZnqZSRD) | 3:27 |
-| 41 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
+| 40 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
+| 41 | [Into The Dark](https://open.spotify.com/track/38ftLCfarof2vlj8ETIH0s) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Into The Dark](https://open.spotify.com/album/3PzNHCsrWowJAsTZnqZSRD) | 3:27 |
 | 42 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
 | 43 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |
 | 44 | [The Simple Life](https://open.spotify.com/track/072Jqz7VTPV8m99hhaKToi) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K), [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [The Simple Life](https://open.spotify.com/album/107TV5duwQmGHrzgC7ZP8y) | 3:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Slayyyter, JEREMIAS, Marlon Hoffstadt, JENNIE & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,526 likes - 73 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,462 likes - 73 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

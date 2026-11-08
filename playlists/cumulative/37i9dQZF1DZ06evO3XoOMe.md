@@ -4,7 +4,7 @@
 
 > This is Chxrry\. The essential tracks, all in one playlist.
 
-26 songs - 1 hr 13 min
+30 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 | 2026-06-16 | 2026-07-25 |
 | [Badness](https://open.spotify.com/track/3TxgHlJngpKLYAQUq2IQ5W) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:49 | 2026-06-16 | 2026-06-29 |
 | [Bible](https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:53 | 2026-06-16 |  |
+| [Big Shot](https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 2:49 | 2026-11-08 |  |
 | [Blockstar](https://open.spotify.com/track/21kF1UzbKfKTNIiRjTgTCT) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:23 | 2026-06-16 | 2026-10-16 |
 | [Boring](https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:17 | 2026-06-16 |  |
 | [Bottles & Lights](https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bottles & Lights](https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6) | 3:25 | 2026-06-16 | 2026-07-19 |
@@ -22,11 +23,14 @@
 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 | 2026-06-16 |  |
 | [Do it Again](https://open.spotify.com/track/5xRbBn3nl20OjhZK7IQYky) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 1:49 | 2026-06-16 |  |
 | [Favorite Girl \(feat\. Offset\)](https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:03 | 2026-06-16 |  |
+| [Friends Don’t Kiss](https://open.spotify.com/track/1pCYlDSeENT9YLASf55hW3) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 3:13 | 2026-11-08 |  |
 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2026-06-16 |  |
 | [Hall of Fame](https://open.spotify.com/track/4IzjE27aZz4uYc9DruS2oo) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:11 | 2026-06-16 |  |
 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 | 2026-06-16 |  |
+| [Like A Man](https://open.spotify.com/track/7H6YwOwTGRMWfMZ7f2ne6w) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 3:30 | 2026-11-08 |  |
 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 | 2026-06-16 |  |
 | [Never Had This \(feat\. Vory\)](https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:53 | 2026-06-24 |  |
+| [Phone](https://open.spotify.com/track/5LyVFdEm2utqL9o9sjsiAf) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 2:17 | 2026-11-08 |  |
 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 | 2026-06-16 |  |
 | [Ride 4 Me](https://open.spotify.com/track/7k8b7rSMp7MMfaLcKt4XVs) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:29 | 2026-06-16 |  |
 | [The Falls](https://open.spotify.com/track/1RM9s6AbvAwESHrOZxU3Vq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:50 | 2026-06-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 471629,
+  "num_followers": 471700,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
-      },
-      "artists": [
-        {
-          "name": "M.L.R. Karthikeyan",
-          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 264514,
-      "name": "Gudilo Badilo Madilo",
-      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Bengal Tiger",
         "url": "https://open.spotify.com/album/6CaNSmTfjpECxwCDAkvmNu"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 236512,
       "name": "Chupulatho Deepala",
       "url": "https://open.spotify.com/track/2PlHPw8TVj7EqGE64ylc1i"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+      },
+      "artists": [
+        {
+          "name": "M.L.R. Karthikeyan",
+          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "duration_ms": 264514,
+      "name": "Gudilo Badilo Madilo",
+      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
       "added_at": "2025-01-20 06:56:34",
@@ -833,30 +833,6 @@
       "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
-        "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
-      "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -883,6 +859,30 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
+        "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
+      "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -1843,18 +1843,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+        "name": "Aa Aaa",
+        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
       },
       "artists": [
         {
-          "name": "Padmalatha Sniggy",
-          "url": "https://open.spotify.com/artist/7euN4DTRrzhKdldLOQEN7m"
+          "name": "Ramya",
+          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Shivani",
+          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
         }
       ],
-      "duration_ms": 200772,
-      "name": "Choosa Choosa",
-      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
+      "duration_ms": 241301,
+      "name": "Rang de",
+      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1871,6 +1879,42 @@
       "duration_ms": 266715,
       "name": "Inkem Inkem Inkem Kaavaale",
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha Sniggy",
+          "url": "https://open.spotify.com/artist/7euN4DTRrzhKdldLOQEN7m"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "Choosa Choosa",
+      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Shivam",
+        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "duration_ms": 239372,
+      "name": "Andamaina Lokam",
+      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1905,6 +1949,22 @@
       "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
     },
     {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Raahu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 242412,
+      "name": "Emo Emo",
+      "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
+    },
+    {
       "added_at": "2024-09-03 05:17:37",
       "album": {
         "name": "RRR",
@@ -1931,26 +1991,6 @@
       "duration_ms": 214399,
       "name": "Naatu Naatu",
       "url": "https://open.spotify.com/track/3XrGwVHapc5DYK75ZBKmuE"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Shivam",
-        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        }
-      ],
-      "duration_ms": 239372,
-      "name": "Andamaina Lokam",
-      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1991,6 +2031,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Srimanthudu",
+        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Jatha Kalise",
+      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Nenu Sailaja",
         "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
       },
@@ -2027,26 +2087,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Srimanthudu",
-        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Jatha Kalise",
-      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Malli Malli Idi Rani Roju",
         "url": "https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7"
       },
@@ -2063,22 +2103,6 @@
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 219818,
-      "name": "Samajavaragamana",
-      "url": "https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2123,30 +2147,6 @@
       "duration_ms": 308601,
       "name": "Chal Chalo Chalo",
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Aa Aaa",
-        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
-      },
-      "artists": [
-        {
-          "name": "Ramya",
-          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Shivani",
-          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
-        }
-      ],
-      "duration_ms": 241301,
-      "name": "Rang de",
-      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
       "added_at": "2023-08-07 09:11:28",

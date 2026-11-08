@@ -560,10 +560,28 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 204421,
       "name": "DI TUTTI",
       "url": "https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK"
+    },
+    {
+      "album": {
+        "name": "DI TUTTI",
+        "url": "https://open.spotify.com/album/1Etl1vl4pefeaC4QDJ90dn"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204421,
+      "name": "DI TUTTI",
+      "url": "https://open.spotify.com/track/5U7g5IuvHiJnpHawn5xXgI"
     },
     {
       "album": {
@@ -622,6 +640,24 @@
     {
       "album": {
         "name": "ESTREMO",
+        "url": "https://open.spotify.com/album/6D3qG5DjMocLkP88CEZ0go"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "ESTREMO",
+      "url": "https://open.spotify.com/track/5Y9Ujn5bVLwOhhJYeHfdFh"
+    },
+    {
+      "album": {
+        "name": "ESTREMO",
         "url": "https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu"
       },
       "artists": [
@@ -632,7 +668,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 173437,
       "name": "ESTREMO",
       "url": "https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82"

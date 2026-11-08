@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 50 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 800 songs - 2 day 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -798,16 +798,15 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 788 | [Mark](https://open.spotify.com/track/6BsTlSVCXUdFtRIfrEgNOb) | [Oodelally](https://open.spotify.com/artist/7piVtviIq966XiLLF3luGJ) | [TURN IT DOWN THE NOISE](https://open.spotify.com/album/40djNW271r1VC244DH7Wdf) | 3:03 |
 | 789 | [The Big Picture](https://open.spotify.com/track/3iaik43VOtFnqtExDXi6Dq) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground](https://open.spotify.com/album/0qPgTNLl3ojenY9bE4nzqm) | 8:41 |
 | 790 | [raindrops \(an angel cried\)](https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 0:37 |
-| 791 | [Bird](https://open.spotify.com/track/5LtqJkOoeaAjN2vwLXldcC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr) | 3:22 |
-| 792 | [Goodbye to All That](https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [A Mile South of Heaven](https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7) | 3:19 |
-| 793 | [Bluebirds](https://open.spotify.com/track/1HaGgJJTNySCxWwFvroTBK) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends of Mine](https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5) | 2:08 |
-| 794 | [NO QUITTER](https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [CITIZEN'S ARREST](https://open.spotify.com/album/6X8fv6u0sNuubwuev2M1eg) | 1:58 |
-| 795 | [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 |
-| 796 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
-| 797 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
-| 798 | [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 |
-| 799 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
-| 800 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
-| 801 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
+| 791 | [Goodbye to All That](https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [A Mile South of Heaven](https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7) | 3:19 |
+| 792 | [Bluebirds](https://open.spotify.com/track/1HaGgJJTNySCxWwFvroTBK) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends of Mine](https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5) | 2:08 |
+| 793 | [NO QUITTER](https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [CITIZEN'S ARREST](https://open.spotify.com/album/6X8fv6u0sNuubwuev2M1eg) | 1:58 |
+| 794 | [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 |
+| 795 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
+| 796 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
+| 797 | [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 |
+| 798 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
+| 799 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
+| 800 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
 
-Snapshot ID: `AAAJ6CZ+u3H2jAR9mujF5phazbWvkPOj`
+Snapshot ID: `AAAJ6tbICLwoO3/PHmRmHEPwUBOEfdql`

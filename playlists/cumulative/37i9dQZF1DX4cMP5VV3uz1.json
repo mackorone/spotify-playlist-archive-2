@@ -5389,6 +5389,28 @@
     },
     {
       "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/4JxobKXGhfWKTHatiRpcbr"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200228,
+      "name": "Get A Grip",
+      "url": "https://open.spotify.com/track/53INI5w9kp0jEe6SXZVPAC"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/5PA5PWxiO5ts6xLgQ5fnNB"
       },
@@ -6458,7 +6480,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 253793,
       "name": "Holy Moly - VIP",
       "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
@@ -12628,7 +12650,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 168000,
       "name": "SHATTER",
       "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
@@ -12752,6 +12774,28 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6GhfHWkYe7cZtSFUjXhVn5"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Silver Linings",
+      "url": "https://open.spotify.com/track/5tVbtsefMvCYlNiZ32LGHb"
     },
     {
       "album": {

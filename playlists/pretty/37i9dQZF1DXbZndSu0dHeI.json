@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233991,
+  "num_followers": 233985,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Planting Tomatoes",
-        "url": "https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 215948,
-      "name": "Planting Tomatoes",
-      "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Planting Tomatoes",
+        "url": "https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 215948,
+      "name": "Planting Tomatoes",
+      "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Sabbath Deep Cuts",
-        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
-      },
-      "artists": [
-        {
-          "name": "Jake Whiskin",
-          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Sabbath Deep Cuts",
-      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Mechanical Bull",
@@ -1203,6 +1187,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Sabbath Deep Cuts",
+        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Sabbath Deep Cuts",
+      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "So Unimportant",
-        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
       },
       "artists": [
         {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
         }
       ],
-      "duration_ms": 263320,
-      "name": "So Unimportant",
-      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1347,6 +1343,26 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "So Unimportant",
+        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 263320,
+      "name": "So Unimportant",
+      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 151306,
       "name": "energizer",
       "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Memory Be a Blade",
@@ -1487,6 +1471,22 @@
       "duration_ms": 234546,
       "name": "Minnie",
       "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
         "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-06-18 23:01:00",

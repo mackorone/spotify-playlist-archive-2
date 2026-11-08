@@ -5125,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Butt Rock Billionaire",
+        "url": "https://open.spotify.com/album/6zQV8XTQkXbvQmyz88EnPT"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187705,
+      "name": "Champagne Crazy",
+      "url": "https://open.spotify.com/track/12IKBbZU9UW2NGyOC4KxfP"
+    },
+    {
+      "album": {
         "name": "Death Valley Paradise",
         "url": "https://open.spotify.com/album/64YWR8ekaKvFbFc3cSzkbe"
       },
@@ -6296,6 +6314,24 @@
       "duration_ms": 219678,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf"
+    },
+    {
+      "album": {
+        "name": "Cruella",
+        "url": "https://open.spotify.com/album/00R5o0EkxAnsmYxHQcs4oU"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222427,
+      "name": "Cruella",
+      "url": "https://open.spotify.com/track/6euLgwOjqK9VStkm4B4gzt"
     },
     {
       "album": {
@@ -7932,7 +7968,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 192000,
       "name": "Digital Hell",
       "url": "https://open.spotify.com/track/5T86WkjtNukA0HZGwg4XPq"
@@ -16632,7 +16668,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 95374,
       "name": "It's The Limit",
       "url": "https://open.spotify.com/track/1JYJLWSpTndpYnBhX7EVpq"
@@ -22924,6 +22960,32 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/2sm8BNEcIYsSmOuXp3PjDE"
+      },
+      "artists": [
+        {
+          "name": "Ninth Key",
+          "url": "https://open.spotify.com/artist/4lcvro3hYRhGU6BtcNIIYx"
+        },
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5FHfW2GHN1PKQRpszig8lM"
     },
     {
       "album": {
@@ -31666,7 +31728,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 253528,
       "name": "The Lost Kids",
       "url": "https://open.spotify.com/track/2y74jukzD8BysvzZ0zDHQA"

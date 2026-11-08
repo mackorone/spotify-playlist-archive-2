@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,101 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,104 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 59 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 |
 | 60 | [slow dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [slow dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 |
 | 61 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
-| 62 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 |
-| 63 | [Voyage](https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR) | [Karet Safar](https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9) | [Safra](https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau) | 3:32 |
+| 62 | [Voyage](https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR) | [Karet Safar](https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9) | [Safra](https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau) | 3:32 |
+| 63 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 |
 | 64 | [DOPAMINE](https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [DOPAMINE](https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA) | 2:14 |
 | 65 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
 | 66 | [Tuna](https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Tuna](https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs) | 2:45 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 98 | [Nyctophilia](https://open.spotify.com/track/1XBbWRDkbUNl9We8ZebYmp) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 4:02 |
 | 99 | [Soukura \(Boddhi Satva Ancestral Soul Remix\)](https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Soukura \- EP](https://open.spotify.com/album/5uIKH8R1wPDKABSt6AOv73) | 5:20 |
 | 100 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
-| 101 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 |
-| 102 | [Superman](https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA) | [Jindi](https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr) | [Superman](https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn) | 2:58 |
+| 101 | [Superman](https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA) | [Jindi](https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr) | [Superman](https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn) | 2:58 |
+| 102 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 |
 | 103 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 104 | [Seen Hazeen](https://open.spotify.com/track/1pVbuaeIrIZvMRIfWrxCgI) | [Wad Almzad](https://open.spotify.com/artist/1ImJWnNy3cEfCbAhJlxVBR) | [Seen Hazeen](https://open.spotify.com/album/0EtjjZE27YxQvOlOHQelJB) | 2:57 |
 | 105 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 |

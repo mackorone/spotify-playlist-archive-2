@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-552 songs - 1 day 11 hr 29 min
+553 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Teachers](https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe) | 5:18 | 2026-06-12 | 2026-10-16 |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-07-20 |
 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-03 | 2026-09-25 |
+| [Texas in Flaming Tongues](https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 4:03 | 2026-11-06 |  |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-14 | 2024-08-01 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-14 | 2025-10-24 |
 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 | 2026-01-12 |  |
@@ -533,7 +534,7 @@
 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 | 2026-06-25 |  |
 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-25 |  |
 | [Voyager](https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Voyager](https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy) | 4:07 | 2026-06-25 |  |
-| [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 | 2026-04-30 |  |
+| [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 | 2026-04-30 | 2026-11-08 |
 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-18 |  |
 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 | 2024-06-14 | 2024-11-15 |
 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-17 | 2025-05-24 |

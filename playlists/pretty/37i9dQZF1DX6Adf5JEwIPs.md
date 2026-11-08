@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juanchito, Gerardo Coronel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,682 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,684 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [El error de mi vida](https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El error de mi vida](https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct) | 3:10 |
 | 24 | [MI YO](https://open.spotify.com/track/7LtzHOIK1yS2tdGwVtTHsr) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [MI YO](https://open.spotify.com/album/6muk7rBF635TNGmuAe6u6u) | 4:09 |
 | 25 | [James Bond](https://open.spotify.com/track/0SW1ITS7oRxBv46PTNSwws) | [Fernando Angulo](https://open.spotify.com/artist/1ARqeqp1DnGrwyRICpnOZY), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [James Bond](https://open.spotify.com/album/3XxslGTQgQ2QSJ4ZS4ExrP) | 3:19 |
-| 26 | [Amor](https://open.spotify.com/track/7yLjXB9oVjrD9yq08J3NaC) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Las Que Me Gustan a Mí Vol\. 2](https://open.spotify.com/album/1bh5ugHMWzL5mmIrgGb7aV) | 3:19 |
+| 26 | [Amor \- En Vivo](https://open.spotify.com/track/7yLjXB9oVjrD9yq08J3NaC) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Las Que Me Gustan a Mí Vol\. 2](https://open.spotify.com/album/1bh5ugHMWzL5mmIrgGb7aV) | 3:19 |
 | 27 | [Y Se Logro](https://open.spotify.com/track/2c6kUOPQfCjVWcC9FctYNF) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Y Se Logro](https://open.spotify.com/album/3SFVEshPdEFhSQOb1Wd84t) | 2:27 |
 | 28 | [Hombre Fino](https://open.spotify.com/track/1CuiV3l0UfTTRRViPwAm3r) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Corridos Finos](https://open.spotify.com/album/1QeHQEgRN7m6BAiN2Psbjn) | 3:21 |
 | 29 | [CAMPANITAS DE CLASE AZUL](https://open.spotify.com/track/2fTbb6GnwNH2lUym0oARLS) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [PARA LA GUERRA LOS GUERREROS](https://open.spotify.com/album/6rMN1lpFYuYNPfg9watZZ7) | 2:00 |

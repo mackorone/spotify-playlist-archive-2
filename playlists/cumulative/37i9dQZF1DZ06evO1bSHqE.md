@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 12 min
+87 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,9 +59,10 @@
 | [Me Against The Music \(feat\. Madonna\) \[Peter Rauhofer Radio Mix\] \- 2022 Remaster](https://open.spotify.com/track/3rnORZS0WziFgOg3lPAWEH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peter Rauhofer](https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v) | [Finally Enough Love: 50 Number Ones](https://open.spotify.com/album/5WWD7T6lI2JV1oyABrFq10) | 3:42 | 2026-08-26 | 2026-08-27 |
 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 | 2023-07-28 | 2025-02-28 |
 | [Mood Ring \(By Demand\)](https://open.spotify.com/track/6NKjfTR7VV2oJnCeKVPNSw) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:50 | 2024-06-15 | 2024-06-16 |
+| [My Big Secret](https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 4:31 | 2026-11-08 |  |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2023-12-13 | 2025-04-04 |
 | [My Prerogative](https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Greatest Hits: My Prerogative](https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI) | 3:33 | 2023-07-28 |  |
-| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 |  |
+| [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2023-07-28 | 2026-11-08 |
 | [Ooh Ooh Baby](https://open.spotify.com/track/68rqXl8LTdwEd2u0QMkWvi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:28 | 2024-03-31 | 2024-07-20 |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2023-07-28 |  |
 | [Outrageous](https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:21 | 2023-07-28 |  |

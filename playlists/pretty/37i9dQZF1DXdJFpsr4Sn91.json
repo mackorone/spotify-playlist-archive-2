@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59353,
+  "num_followers": 59346,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
+        "name": "HULIGAANI (feat. Trebla)",
+        "url": "https://open.spotify.com/album/6RhZBIyjMVOKzBpdHHId1Z"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        },
+        {
+          "name": "Trebla",
+          "url": "https://open.spotify.com/artist/7ywfrzA0DtUdgXJLrjeVBE"
+        }
+      ],
+      "duration_ms": 182128,
+      "name": "HULIGAANI (feat. Trebla)",
+      "url": "https://open.spotify.com/track/5rofcEhyrWzr3TOAjMLhGN"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
         "name": "Gelateria",
         "url": "https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 185086,
       "name": "Herkkisten liiga",
       "url": "https://open.spotify.com/track/7vVfrEznUhDS3o4CND3QNb"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
-        "name": "HULIGAANI (feat. Trebla)",
-        "url": "https://open.spotify.com/album/6RhZBIyjMVOKzBpdHHId1Z"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        },
-        {
-          "name": "Trebla",
-          "url": "https://open.spotify.com/artist/7ywfrzA0DtUdgXJLrjeVBE"
-        }
-      ],
-      "duration_ms": 182128,
-      "name": "HULIGAANI (feat. Trebla)",
-      "url": "https://open.spotify.com/track/5rofcEhyrWzr3TOAjMLhGN"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Holtiton",
-        "url": "https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl"
-      },
-      "artists": [
-        {
-          "name": "Nenerchy",
-          "url": "https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy"
-        }
-      ],
-      "duration_ms": 187607,
-      "name": "Holtiton",
-      "url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "en tunne",
         "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Holtiton",
+        "url": "https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl"
+      },
+      "artists": [
+        {
+          "name": "Nenerchy",
+          "url": "https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy"
+        }
+      ],
+      "duration_ms": 187607,
+      "name": "Holtiton",
+      "url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Mielikuvitusta",
-        "url": "https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F"
-      },
-      "artists": [
-        {
-          "name": "Aali",
-          "url": "https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf"
-        }
-      ],
-      "duration_ms": 236943,
-      "name": "Mielikuvitusta",
-      "url": "https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "BRATZIT",
         "url": "https://open.spotify.com/album/2S610BWMRzl23pejgTQoXC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 141101,
       "name": "BRATZIT",
       "url": "https://open.spotify.com/track/5vDouridCzcpAacDJWOabI"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Mielikuvitusta",
+        "url": "https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F"
+      },
+      "artists": [
+        {
+          "name": "Aali",
+          "url": "https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf"
+        }
+      ],
+      "duration_ms": 236943,
+      "name": "Mielikuvitusta",
+      "url": "https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Dancing Alone",
-        "url": "https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Nelson",
-          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Dancing Alone",
-      "url": "https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "Hei Supermario (feat. Samuell)",
         "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Nelson",
+          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
         "name": "Mun syd\u00e4n on mun",
         "url": "https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr"
       },
@@ -679,38 +679,6 @@
       "duration_ms": 205900,
       "name": "Mun syd\u00e4n on mun",
       "url": "https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
-        "name": "Sulle, rakkaus",
-        "url": "https://open.spotify.com/album/06xUWCAjMi7Xn8Bveiekvz"
-      },
-      "artists": [
-        {
-          "name": "Rosi",
-          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Sulle, rakkaus",
-      "url": "https://open.spotify.com/track/4aL0Z1Nmu7jQoVdMXf4x4R"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
-        "name": "Parasta ja paskinta",
-        "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 142329,
-      "name": "Joutsenet",
-      "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -731,6 +699,38 @@
       "duration_ms": 177269,
       "name": "Veljiks kasvetaan",
       "url": "https://open.spotify.com/track/5Ww2z2pju4uG3rXc6YJ82N"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Parasta ja paskinta",
+        "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 142329,
+      "name": "Joutsenet",
+      "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Sulle, rakkaus",
+        "url": "https://open.spotify.com/album/06xUWCAjMi7Xn8Bveiekvz"
+      },
+      "artists": [
+        {
+          "name": "Rosi",
+          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Sulle, rakkaus",
+      "url": "https://open.spotify.com/track/4aL0Z1Nmu7jQoVdMXf4x4R"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Tytt\u00f6 vaihtopenkill\u00e4",
-        "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
-      },
-      "artists": [
-        {
-          "name": "martta",
-          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Tytt\u00f6 vaihtopenkill\u00e4",
-      "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
-    },
-    {
-      "added_at": "2026-11-05 22:00:15",
-      "album": {
         "name": "Tuskasta Taidetta",
         "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 211525,
       "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
       "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
+    },
+    {
+      "added_at": "2026-11-05 22:00:15",
+      "album": {
+        "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+        "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
+      },
+      "artists": [
+        {
+          "name": "martta",
+          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+      "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
     },
     {
       "added_at": "2026-11-05 22:00:15",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-11-05 22:00:15",
       "album": {
-        "name": "Vinojen t\u00e4htien alla",
-        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
+        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
       },
       "artists": [
         {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+          "name": "viola",
+          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Vinojen t\u00e4htien alla",
-      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
+      "duration_ms": 205000,
+      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
     }
   ],
   "unique_name": "Nousussa",

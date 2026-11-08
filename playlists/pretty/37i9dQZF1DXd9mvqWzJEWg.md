@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,585 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,618 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 46 | [Iyobisi](https://open.spotify.com/track/7zojPQCAffyBpPMRJhO8J2) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [JnrScabha](https://open.spotify.com/artist/61gMpjSOP5Bb8LqT2RpVTf), [Senarh](https://open.spotify.com/artist/4DKQzNgfbzTyNJtOtvAhbn) | [Iyobisi](https://open.spotify.com/album/7enb6Mzmoiuq58VjKbLGYq) | 4:16 |
 | 47 | [Thela Wayeka](https://open.spotify.com/track/7vw1Dp8hFjMhGdGJBUTFbE) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Rhass](https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F), [Woza Sjax](https://open.spotify.com/artist/3qUB99K5nzTvZ0xutpZ5jm) | [Langa](https://open.spotify.com/album/4zpFyM6SQc2rSu9aUAsjLu) | 5:41 |
 | 48 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 |
-| 49 | [Gqom industry](https://open.spotify.com/track/2I5gX9ItztL04cna3F3ZcM) | [Static Que](https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ), [Licious](https://open.spotify.com/artist/5CBC06FD1wKSlSExfXzD9M) | [Gqom after Gqom](https://open.spotify.com/album/42i6smnnPvXWpzrlslwDR3) | 5:26 |
+| 49 | [Gqom industry](https://open.spotify.com/track/2I5gX9ItztL04cna3F3ZcM) | [Static Que](https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ), [Licious](https://open.spotify.com/artist/1eXKsTy9Ljj32WsCSI7d0n) | [Gqom after Gqom](https://open.spotify.com/album/42i6smnnPvXWpzrlslwDR3) | 5:26 |
 | 50 | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/track/5cZ8gcUyakIIOOLwYZdrjW) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/album/6pKmKLwY30wQl7h6xLung4) | 4:34 |
 | 51 | [Stop & Go](https://open.spotify.com/track/6j1kyjxp9doRSHS9Q5Sn8u) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [London Drop 3](https://open.spotify.com/album/5nfRkDURjazpINpQAeae92) | 5:40 |
 | 52 | [Selize Lashona](https://open.spotify.com/track/71d6xWrBzxHKOmIogae071) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Real Nkosana](https://open.spotify.com/artist/0ZD2WrzCjaZz1WehWLMQaz), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Camp Yakithi](https://open.spotify.com/album/3872TJczDV5DJtfvQK6Vkt) | 8:08 |

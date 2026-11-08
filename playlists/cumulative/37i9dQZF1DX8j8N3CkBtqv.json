@@ -8413,6 +8413,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/2ZtS6jrq87jwWcqu07971k"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4xphD56uE6hbDlrIWW9gHd"
+    },
+    {
+      "album": {
         "name": "Doob Doob-Doob Raha (From \"Phir Se Rock & Roll\")",
         "url": "https://open.spotify.com/album/0v7MKFW2Jb55ELqN5iE2Gf"
       },
@@ -8932,6 +8950,24 @@
       "duration_ms": 225882,
       "name": "Ek Martaba Phir",
       "url": "https://open.spotify.com/track/17xdCJ7oawMWo84d9oxztl"
+    },
+    {
+      "album": {
+        "name": "Ek Raat",
+        "url": "https://open.spotify.com/album/3RgJqadOR0by6TFp7lTrHe"
+      },
+      "artists": [
+        {
+          "name": "Moses Koul",
+          "url": "https://open.spotify.com/artist/2kvK8K0Vhnx3LXQxBP4lLn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181161,
+      "name": "Ek Raat",
+      "url": "https://open.spotify.com/track/6mK67owD4ucavQWowZSXGC"
     },
     {
       "album": {
@@ -25860,7 +25896,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 269013,
       "name": "Rihaa",
       "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"
@@ -27610,7 +27646,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 198000,
       "name": "Sansein Kaha",
       "url": "https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r"

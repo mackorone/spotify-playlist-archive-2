@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105551,
+  "num_followers": 105557,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "new trick",
-        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "new trick",
-      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 195285,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
+        "name": "Sex & Drugs",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sex & Drugs",
+      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
         "name": "PANGEA",
         "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "Sex & Drugs",
-        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sex & Drugs",
-      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -755,18 +771,18 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+      "duration_ms": 261427,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -783,22 +799,6 @@
       "duration_ms": 178334,
       "name": "WALLFLOWER",
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Chuck Timely & The Hourglass",
-        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 261427,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
-        "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
-      "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180890,
       "name": "missing person",
       "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+        "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+      "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
         "name": "August 26",
         "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "Pay That Toll",
-        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Pay That Toll",
-      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 197760,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "Pay That Toll",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Pay That Toll",
+      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 291530,
-      "name": "Constant Companion",
-      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "Har Du M\u00e6rket Dig Selv?",
-        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 190248,
-      "name": "Har Du M\u00e6rket Dig Selv?",
-      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
+      "duration_ms": 291530,
+      "name": "Constant Companion",
+      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
+        "name": "Har Du M\u00e6rket Dig Selv?",
+        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "Har Du M\u00e6rket Dig Selv?",
+      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
         "name": "SO GOOD",
         "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
@@ -1091,6 +1107,22 @@
       "duration_ms": 222316,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Someone to Hold (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1147,22 +1179,54 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
-        "name": "SAVNER ET MENNESKE",
-        "url": "https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF"
+        "name": "YAP.",
+        "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
       },
       "artists": [
         {
           "name": "Marstein",
           "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 205515,
-      "name": "SAVNER ET MENNESKE",
-      "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
+      "duration_ms": 171797,
+      "name": "FORMIDABEL",
+      "url": "https://open.spotify.com/track/2PTABhzpf5o3gI8H6rAZoV"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1203,6 +1267,46 @@
     {
       "added_at": "2026-11-05 23:01:23",
       "album": {
+        "name": "SAVNER ET MENNESKE",
+        "url": "https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 205515,
+      "name": "SAVNER ET MENNESKE",
+      "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 187592,
+      "name": "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
         "name": "Hvem er det der gr\u00e6der nu?",
         "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
       },
@@ -1231,22 +1335,6 @@
       "duration_ms": 141315,
       "name": "Pillow Fight",
       "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "YAP.",
-        "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 171797,
-      "name": "FORMIDABEL",
-      "url": "https://open.spotify.com/track/2PTABhzpf5o3gI8H6rAZoV"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1283,6 +1371,38 @@
       "duration_ms": 218000,
       "name": "If you wanna come down",
       "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "washing skin",
+        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "washing skin",
+      "url": "https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ"
+    },
+    {
+      "added_at": "2026-11-05 23:01:23",
+      "album": {
+        "name": "Britney (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 271253,
+      "name": "My Big Secret",
+      "url": "https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle"
     },
     {
       "added_at": "2026-11-05 23:01:23",
@@ -1343,134 +1463,6 @@
       "duration_ms": 192449,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Thomas Helmig",
-          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-      "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Lighter (feat. Gilli)",
-        "url": "https://open.spotify.com/album/6SWJQIXybUPfmjzxwzXPdi"
-      },
-      "artists": [
-        {
-          "name": "Lord Siva",
-          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 152201,
-      "name": "Lighter (feat. Gilli)",
-      "url": "https://open.spotify.com/track/1VcwyFJ80YEgfmKYwEtQLJ"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Danser Med Minder",
-        "url": "https://open.spotify.com/album/4OKdAIuWuRcuOzbBTRzmxJ"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 218388,
-      "name": "Danser Med Minder",
-      "url": "https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 214335,
-      "name": "He Likes Boys",
-      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Te Ske",
-        "url": "https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "AEL",
-          "url": "https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN"
-        }
-      ],
-      "duration_ms": 152030,
-      "name": "Te Ske",
-      "url": "https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0"
-    },
-    {
-      "added_at": "2026-11-05 23:01:23",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 162757,
-      "name": "Blod",
-      "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
     }
   ],
   "unique_name": "De nye",

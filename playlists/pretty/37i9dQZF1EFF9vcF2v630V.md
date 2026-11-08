@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 70 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 71 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
 | 72 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 73 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
-| 74 | [Better&Better](https://open.spotify.com/track/66pMYpqQfrPHUN2a2i2Xmk) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Better&Better](https://open.spotify.com/album/4TuCKQHAUQEIChrCJ0QEcD) | 2:24 |
+| 73 | [Better&Better](https://open.spotify.com/track/66pMYpqQfrPHUN2a2i2Xmk) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Better&Better](https://open.spotify.com/album/4TuCKQHAUQEIChrCJ0QEcD) | 2:24 |
+| 74 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 75 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
 | 76 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 | 77 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `Acg+rAAAAAAI973iIx4Cevm2WNTVdpk+`
+Snapshot ID: `AchETAAAAAAB8zfBQ+F4RuFlTHMt9wSr`

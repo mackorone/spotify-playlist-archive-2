@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,496 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,502 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 40 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 41 | [jaded \(feat\. BIA\)](https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [moo](https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat) | 3:07 |
 | 42 | [fine shyt \(feat\. BIA\)](https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:19 |
-| 43 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
-| 44 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
+| 43 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
+| 44 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 45 | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE) | 2:48 |
 | 46 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
-| 47 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
-| 48 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
-| 49 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
+| 47 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
+| 48 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
+| 49 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 |
 | 50 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 
-Snapshot ID: `aup1gAAAAAA2TQMZna0aBWdCANtJlAMO`
+Snapshot ID: `au0YgAAAAAA4hfMcH3l69EthLuajigun`

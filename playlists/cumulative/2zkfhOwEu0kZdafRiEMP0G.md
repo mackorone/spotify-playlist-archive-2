@@ -4,7 +4,7 @@
 
 > 
 
-152 songs - 10 hr 41 min
+153 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2025-09-26 |  |
 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 | 2026-11-06 |  |
 | [An Alien in Love](https://open.spotify.com/track/67wot02aG1ayPZ2gb7YVoF) | [Yesable](https://open.spotify.com/artist/6sQcE03UfjGq6W1FuciTSb) | [Love Cheque](https://open.spotify.com/album/4Zk91IlxYLc11UNNkMDR3b) | 3:20 | 2026-03-30 | 2026-05-03 |
-| [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 | 2026-10-08 |  |
+| [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 | 2026-10-08 | 2026-11-08 |
 | [Ascensionism](https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 7:08 | 2025-07-13 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-30 | 2026-09-11 |
 | [Ballad of a Badman](https://open.spotify.com/track/2PLOCIYlFr8XxNsz0Lgs4l) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 4:14 | 2026-03-30 | 2026-05-03 |
@@ -27,6 +27,7 @@
 | [Caraphernelia](https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:28 | 2026-07-24 | 2026-10-08 |
 | [Carry On](https://open.spotify.com/track/3GSMJpuz3rFU8WtCws1rv5) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Carry On](https://open.spotify.com/album/1y4gZwFijhkj8DjqzkBZwI) | 4:54 | 2026-03-30 |  |
 | [Cause Of Death](https://open.spotify.com/track/1JMrmmvPZvwdKOnti8wbmC) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:03 | 2026-02-13 |  |
+| [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2026-11-07 |  |
 | [Come What May](https://open.spotify.com/track/0Ab8W397VjR2ZNVkItDjSO) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Karen Olivo](https://open.spotify.com/artist/01hcqBKMrPmHtg3RBJsxaP), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:16 | 2026-03-30 | 2026-10-08 |
 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2026-03-30 | 2026-09-11 |
 | [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 | 2026-10-21 |  |

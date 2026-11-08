@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-436 songs - 1 day 7 hr 28 min
+437 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Motionless Wings](https://open.spotify.com/track/6l7YuElJh8Ru2yWNnr5iHd) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 4](https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o) | 6:33 | 2024-11-30 | 2024-12-15 |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 | 2026-01-06 |
+| [Muzzle from Texture42](https://open.spotify.com/track/3lDLyS91kxtPd4nX0lv4fT) | [Koji Nakamura](https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N) | [Muzzle from Texture42](https://open.spotify.com/album/6Q95zydbqaRTfkvtUb5iKk) | 3:05 | 2026-10-20 |  |
 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 | 2025-01-14 |
 | [MYTH](https://open.spotify.com/track/3l28Bwzdujv0CbhHoqDHe5) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MYTH](https://open.spotify.com/album/1ZQSNmIoHHBDqU5Nb9I0sN) | 1:27 | 2026-02-10 | 2026-02-22 |
 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 | 2025-07-03 |  |
@@ -318,7 +319,7 @@
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-03 | 2026-11-07 |
 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 | 2023-01-06 | 2025-04-06 |
 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 | 2025-03-21 | 2025-07-04 |
-| [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 |  |
+| [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 | 2026-11-08 |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-15 |  |
 | [Silhouette](https://open.spotify.com/track/5mmSEWXyuJ007o2qrEFBPx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Silhouette](https://open.spotify.com/album/4TfcaVrckQEVRfLi8yOtXn) | 3:16 | 2024-06-07 | 2025-01-25 |
 | [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 | 2025-12-02 | 2026-10-24 |

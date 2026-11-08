@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,253 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,275 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 | 33 | [The Healer](https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 3:59 |
 | 34 | [Woo](https://open.spotify.com/track/7fRPY74Uk27yrTj1oYUFAj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 3:14 |
 | 35 | [On Me](https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 3:43 |
-| 36 | [No More Trouble](https://open.spotify.com/track/6zi8kGpTadjpsLCO4jvMsH) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 4:51 |
+| 36 | [No More Trouble](https://open.spotify.com/track/6zi8kGpTadjpsLCO4jvMsH) | [Bob Marley](https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 4:51 |
 | 37 | [Soldier](https://open.spotify.com/track/5rI0lmvmena4CW3C4zwZ4v) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:03 |
 | 38 | [Poetry](https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:48 |
 | 39 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
 | 40 | [Honey](https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:20 |
 
-Snapshot ID: `auvHAAAAAAA7A0yZU3xOvgdBfVway1Ad`
+Snapshot ID: `au0YgAAAAAAB/bvuK8EZYbADAy/aeJfE`

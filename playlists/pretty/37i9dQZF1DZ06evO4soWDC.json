@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAACU777IxQqQNgUiuMH0ZXmG",
+  "snapshot_id": "au0YgAAAAAC1WGkXvOp5tXm8vDFyFrhj",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 186270,
-      "name": "Collisions",
-      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
+      "duration_ms": 214959,
+      "name": "Got to Give",
+      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 214959,
-      "name": "Got to Give",
-      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 246347,
-      "name": "Never the Right Time",
-      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose Threads",
-        "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 180229,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 191395,
       "name": "Yossarian",
       "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 180229,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
     },
     {
       "added_at": null,

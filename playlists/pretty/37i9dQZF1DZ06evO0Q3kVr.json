@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADaDCF90hSBCxqqPjKxipTI",
+  "snapshot_id": "au0YgAAAAAD6UF92nJHJlyTgP51XIBk5",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 241826,
-      "name": "El Vigilante",
-      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
+      "duration_ms": 237609,
+      "name": "Trascendencia",
+      "url": "https://open.spotify.com/track/1Y89NWpT8TVJFeDT8ffPoM"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 237609,
-      "name": "Trascendencia",
-      "url": "https://open.spotify.com/track/1Y89NWpT8TVJFeDT8ffPoM"
+      "duration_ms": 241826,
+      "name": "El Vigilante",
+      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
       "duration_ms": 227760,
       "name": "Al Diablo Con Mi Suerte",
       "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Hipotecados",
-      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+      "duration_ms": 174773,
+      "name": "Rateros Con Placa",
+      "url": "https://open.spotify.com/track/5xQdOG1KuPAK6Ku1NFm7Il"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Rateros Con Placa",
-      "url": "https://open.spotify.com/track/5xQdOG1KuPAK6Ku1NFm7Il"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 312633,
-      "name": "Una Leyenda Viviente",
-      "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
+      "duration_ms": 385560,
+      "name": "Hipotecados",
+      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 236193,
       "name": "Pandillero, Pt. 1",
       "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 312633,
+      "name": "Una Leyenda Viviente",
+      "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -628,25 +644,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Guerrillero",
-      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 213623,
-      "name": "Pandillero, Pt. 2",
-      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
+      "duration_ms": 217426,
+      "name": "Mi Amigo Manuel",
+      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
       "duration_ms": 432960,
       "name": "Jes\u00fas de Nazaret",
       "url": "https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 213623,
+      "name": "Pandillero, Pt. 2",
+      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
     },
     {
       "added_at": null,
@@ -692,25 +708,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Mi Amigo Manuel",
-      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
-        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "Tlaltelolco 68",
-      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
+      "duration_ms": 221226,
+      "name": "Genoma Humano",
+      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 318893,
+      "name": "Tlaltelolco 68",
+      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reyes De La Noche",
         "url": "https://open.spotify.com/album/4hGvyK2FVhx4xo8zzVoabc"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 258298,
       "name": "Reyes De La Noche",
       "url": "https://open.spotify.com/track/0IK9DXfp9pc3ZeyDpHzAHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Genoma Humano",
-      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 129393,
-      "name": "Presentaci\u00f3n",
-      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
+      "duration_ms": 223946,
+      "name": "Culpable e Inocente",
+      "url": "https://open.spotify.com/track/6ujwJKvULwqg2PBBPYKjaQ"
     }
   ],
   "unique_name": "This Is Banda Bostik",

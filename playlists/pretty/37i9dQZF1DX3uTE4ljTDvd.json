@@ -79,22 +79,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Plano Melhor",
-        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Plano Melhor",
-      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Santo dos Santos",
         "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 278268,
       "name": "Santo dos Santos",
       "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Plano Melhor",
+        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "Plano Melhor",
+      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -275,6 +275,26 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 359352,
       "name": "Ele Vem",
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Clame a Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Algo Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
       },
@@ -671,38 +671,6 @@
       "duration_ms": 310746,
       "name": "Algo Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
-      },
-      "artists": [
-        {
-          "name": "Casa Aberta",
-          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Eterno",
-      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -723,8 +691,8 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
       },
       "artists": [
         {
@@ -732,9 +700,41 @@
           "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Aberta",
+          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
-      },
-      "artists": [
-        {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Tu \u00c9s Real",
         "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 302769,
       "name": "Tu \u00c9s Real",
       "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2026-03-02 15:12:51",

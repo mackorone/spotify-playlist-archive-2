@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3626,
+  "num_followers": 3629,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABoue2KeqYlgnEKdMfPzu95",
+  "snapshot_id": "au0YgAAAAADfJpiNk3e5xtJSUu50eAiZ",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "FMU!",
-      "url": "https://open.spotify.com/track/3Izei1L5dRVIS7tgpEMG7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COLORWAY",
         "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 97826,
       "name": "EXCITED!",
       "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "FMU!",
+      "url": "https://open.spotify.com/track/3Izei1L5dRVIS7tgpEMG7x"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 167111,
       "name": "HARD!",
       "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOVE ON DIGITAL",
         "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
@@ -555,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 100122,
-      "name": "LOVE!",
-      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+      "duration_ms": 101232,
+      "name": "AMBR\u00c9'S INTERLUDE",
+      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
     },
     {
       "added_at": null,
@@ -595,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 101232,
-      "name": "AMBR\u00c9'S INTERLUDE",
-      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LOW TIDE",
-      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wHIMSY!",
         "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 186285,
       "name": "NOTHING IS REAL",
       "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "OUTTA CONTROL",
-      "url": "https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUBMISSIVE2",
         "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 118095,
       "name": "LIFE BEEN LIFIN'",
       "url": "https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "MARIPOSA",
-      "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE LAST TIME",
         "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "MARIPOSA",
+      "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SATIN",
         "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSEBLEED",
-        "url": "https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141415,
-      "name": "NOSEBLEED",
-      "url": "https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUBMISSIVE2",
         "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 148800,
       "name": "IT'S ONLY YOU",
       "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141415,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84"
     },
     {
       "added_at": null,

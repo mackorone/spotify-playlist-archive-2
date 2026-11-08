@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 441406,
+  "num_followers": 441405,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACllm6tlUm05kByeAf94CeB",
+  "snapshot_id": "au0YgAAAAAAl4geZGX56cko9moM1co/n",
   "tracks": [
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 216677,
-      "name": "RAW SHIT (feat. Migos)",
-      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Excuse My French (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 272693,
       "name": "Moses",
       "url": "https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 216677,
+      "name": "RAW SHIT (feat. Migos)",
+      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
     },
     {
       "added_at": null,

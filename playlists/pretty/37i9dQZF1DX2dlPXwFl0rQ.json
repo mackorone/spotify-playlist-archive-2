@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 12376,
+  "num_followers": 12394,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
         "name": "Llorar Por Ella",
         "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 168203,
       "name": "Llorar Por Ella",
       "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Gotitas Saladas",
-        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "Gotitas Saladas",
-      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 177973,
       "name": "Yo Sin Tu Amor",
       "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Todo Todo",
         "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 194066,
       "name": "Todo Todo",
       "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 203276,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 203276,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
+        "name": "Pudimos Ser",
+        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Pudimos Ser",
+      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
-        "name": "Pudimos Ser",
-        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Pudimos Ser",
-      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 166121,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Retumbando En El Cora",
         "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 130833,
       "name": "Retumbando En El Cora",
       "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 166121,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 153665,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2026-10-16 18:41:53",

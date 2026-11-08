@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,134 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,150 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 48 | [Burn](https://open.spotify.com/track/6GEsX9hkY1PnmXKVwHWfG8) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Burn](https://open.spotify.com/album/1b5a25IOKqULsVhZilxxd1) | 3:10 |
 | 49 | [UNGOWAM](https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [UNGOWAM](https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK) | 3:13 |
 | 50 | [I’m On Fire \(feat\. The Cavemen.\)](https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:38 |
-| 51 | [Car Park Cult](https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Car Park Cult](https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5) | 3:56 |
-| 52 | [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 |
+| 51 | [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 |
+| 52 | [Car Park Cult](https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Car Park Cult](https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5) | 3:56 |
 | 53 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 54 | [Wayside Lover](https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Wayside Lover](https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj) | 4:11 |
 | 55 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 62 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
 | 63 | [Mediocre Man](https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Mediocre Man](https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn) | 3:05 |
 | 64 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
-| 65 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
-| 66 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
+| 65 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
+| 66 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
 | 67 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
 | 68 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 | 69 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |

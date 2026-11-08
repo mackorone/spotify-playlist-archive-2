@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 276194,
+  "num_followers": 276206,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Amorcito Enfermito",
-      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Amorcito Enfermito",
+      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 308000,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -975,30 +975,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "LAS BURBUJAS DEL JACUZZI",
-        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 156917,
-      "name": "LAS BURBUJAS DEL JACUZZI",
-      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -1031,6 +1007,30 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "LAS BURBUJAS DEL JACUZZI",
+        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 156917,
+      "name": "LAS BURBUJAS DEL JACUZZI",
+      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Bachata A Su Tiempo",
         "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 244960,
       "name": "Ese Hombre Soy Yo",
       "url": "https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "La Historia de Mi Vida: El Final, Vol. 1",
-        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
       "artists": [
         {
           "name": "Anthony Santos",
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Bellas",
-      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+        "name": "La Historia de Mi Vida: El Final, Vol. 1",
+        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
       "artists": [
         {
           "name": "Anthony Santos",
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+      "duration_ms": 243500,
+      "name": "Bellas",
+      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
     },
     {
       "added_at": "2024-08-23 04:59:00",

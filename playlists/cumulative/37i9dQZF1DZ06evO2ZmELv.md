@@ -4,13 +4,13 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 47 min
+89 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acuerdate de Mi](https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-09-25 | 2026-08-03 |
 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:29 | 2023-03-10 |  |
-| [Adios Madre Querida \- En Vivo](https://open.spotify.com/track/2WpnSBSuhytZxhpqy4nrpp) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:38 | 2024-11-25 |  |
+| [Adios Madre Querida \- En Vivo](https://open.spotify.com/track/2WpnSBSuhytZxhpqy4nrpp) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:38 | 2024-11-25 | 2026-11-08 |
 | [Al Ver Que Te Vas \- En Vivo](https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 | 2024-05-21 |  |
 | [Amor Eterno \- En Vivo](https://open.spotify.com/track/16loNWG2dOSZp0763GLxhd) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:56 | 2026-05-09 | 2026-05-10 |
 | [Amor Ranchero](https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Herencia de Reyes](https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa) | 3:18 | 2023-03-10 | 2026-08-03 |
@@ -94,6 +94,7 @@
 | [Tu Regalo Se Quedó en el Arbolito](https://open.spotify.com/track/3uHTqXrx6TaVobKU6Imn1T) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Tu Regalo Se Quedó en el Arbolito](https://open.spotify.com/album/5ETTQhTpIYMNFeEf4lzTTt) | 4:51 | 2025-12-13 |  |
 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 | 2023-03-10 | 2026-11-01 |
 | [Un Mundo Raro \- Versión Banda En Vivo](https://open.spotify.com/track/3DVa2De5SqGSs9Nj3vQMx3) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:58 | 2024-10-09 | 2025-02-27 |
+| [Una Tarde](https://open.spotify.com/track/2acEAfht3XgOOmxBdOHBvD) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Una Tarde](https://open.spotify.com/album/2a5aOHZ5142R89CwrFZzwv) | 3:10 | 2026-11-08 |  |
 | [Vuela Paloma](https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Vuela Paloma](https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS) | 4:25 | 2025-05-11 |  |
 | [Ya No Recuerdo](https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Ya No Recuerdo](https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ) | 3:01 | 2023-03-10 |  |
 

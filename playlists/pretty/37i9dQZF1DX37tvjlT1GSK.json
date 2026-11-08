@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Los Terricolas, Tony Garcia",
-  "num_followers": 821297,
+  "num_followers": 821317,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
+        "name": "YA ESTUVO BUENO",
+        "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 173588,
+      "name": "YA ESTUVO BUENO",
+      "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
-        "name": "YA ESTUVO BUENO",
-        "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 173588,
-      "name": "YA ESTUVO BUENO",
-      "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Hombre Afortunado",
         "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202573,
       "name": "Qui\u00e9n Te Entiende",
       "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
-        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 140983,
-      "name": "Me Acostumbre A Lo Bueno",
-      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Formula One",
         "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 185179,
       "name": "Formula One",
       "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
+        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 140983,
+      "name": "Me Acostumbre A Lo Bueno",
+      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "MI PROPIO JEFE",
-        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "MI PROPIO JEFE",
-      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/49FioVijez4ufouOFO0GOu"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 187440,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "MI PROPIO JEFE",
+        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "MI PROPIO JEFE",
+      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "Ya No Regreses",
-        "url": "https://open.spotify.com/album/1K2vyn9zRYRLXImeLuDe3L"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 180526,
-      "name": "Ya No Regreses",
-      "url": "https://open.spotify.com/track/0epL8uV1kkMnUGlKxGT4yH"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "Ya No Regreses",
+        "url": "https://open.spotify.com/album/1K2vyn9zRYRLXImeLuDe3L"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 180526,
+      "name": "Ya No Regreses",
+      "url": "https://open.spotify.com/track/0epL8uV1kkMnUGlKxGT4yH"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "MIAMI PENTHOUSE",
-        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 174137,
-      "name": "MIAMI PENTHOUSE",
-      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Con Aroma a Alcohol",
         "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 208000,
       "name": "Tres Veladoras",
       "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "MIAMI PENTHOUSE",
+        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 174137,
+      "name": "MIAMI PENTHOUSE",
+      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
     },
     {
       "added_at": "2026-10-09 04:00:19",

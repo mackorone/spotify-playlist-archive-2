@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109117,
+  "num_followers": 109109,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Failed Voice Notes",
-        "url": "https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 193732,
-      "name": "FVN 07: Afraid I'll Change",
-      "url": "https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
       },
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+        "name": "Failed Voice Notes",
+        "url": "https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe"
       },
       "artists": [
         {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+      "duration_ms": 193732,
+      "name": "FVN 07: Afraid I'll Change",
+      "url": "https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Sexy Back",
-        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
-      },
-      "artists": [
-        {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sexy Back",
-      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Leave This City",
         "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "NOT THAT DEEP",
-        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
+        "name": "Sexy Back",
+        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
       },
       "artists": [
         {
-          "name": "somecallmewale",
-          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
         }
       ],
-      "duration_ms": 240295,
-      "name": "NOT THAT DEEP",
-      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
+      "duration_ms": 144000,
+      "name": "Sexy Back",
+      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1163,6 +1147,22 @@
       "duration_ms": 178714,
       "name": "THOUGHTS",
       "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
+      },
+      "artists": [
+        {
+          "name": "somecallmewale",
+          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "NOT THAT DEEP",
+      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
     },
     {
       "added_at": "2025-10-10 12:01:08",

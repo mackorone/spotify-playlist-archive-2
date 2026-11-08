@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz vocals and smooth instrumentals to soundtrack your dinner - perfect for cooking, hosting a dinner party, or a relaxed evening at home.",
-  "num_followers": 96160,
+  "num_followers": 96225,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Words Can't Describe",
-      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Graceful Rhapsody",
         "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Words Can't Describe",
+      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Journeying",
-        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "Journeying",
-      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Leapin' And Lopin'",
         "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 402799,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "duration_ms": 231130,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "At Least I Know",
-        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 368388,
-      "name": "Lonely Streets",
-      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 291319,
       "name": "Beautiful Sunrise",
       "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "At Least I Know",
+        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 368388,
+      "name": "Lonely Streets",
+      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -435,38 +435,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Passing Time",
-        "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
-      },
-      "artists": [
-        {
-          "name": "Sean Murphy",
-          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Passing Time",
-      "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -499,18 +467,34 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+      "duration_ms": 179161,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Passing Time",
+        "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
+      },
+      "artists": [
+        {
+          "name": "Sean Murphy",
+          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -527,6 +511,22 @@
       "duration_ms": 241226,
       "name": "Gee Baby, Ain't I Good To You",
       "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
       "artists": [
         {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 214236,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
+      "duration_ms": 167293,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -807,34 +807,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
         }
       ],
-      "duration_ms": 167293,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "When I Fall In Love - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/7EwtqSo6cs173LRg7paAfK"
+      "duration_ms": 214236,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -867,6 +851,22 @@
       "duration_ms": 190040,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/6GkriQILiLxQqhvAfXYpmB"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "When I Fall In Love - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/7EwtqSo6cs173LRg7paAfK"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Davies",
-          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
         "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 254400,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 303240,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/2huX3nzw7aXCaaXiO9kbmu"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Smarter Than Advertised",
-        "url": "https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR"
-      },
-      "artists": [
-        {
-          "name": "Kendrettes",
-          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
-        }
-      ],
-      "duration_ms": 200907,
-      "name": "Smarter Than Advertised",
-      "url": "https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 202228,
       "name": "Can't Get out of This Mood",
       "url": "https://open.spotify.com/track/3ddbXEt3W1UZUd2AOi2HhF"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Smarter Than Advertised",
+        "url": "https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR"
+      },
+      "artists": [
+        {
+          "name": "Kendrettes",
+          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
+        }
+      ],
+      "duration_ms": 200907,
+      "name": "Smarter Than Advertised",
+      "url": "https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "I Sing This Song for You",
+      "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "I Sing This Song for You",
-      "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Satin Doll",
-      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
+      "duration_ms": 320920,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -2016,9 +2016,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 320920,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+      "duration_ms": 209160,
+      "name": "Satin Doll",
+      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
     },
     {
       "added_at": "2026-07-20 13:57:14",

@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-5,648 songs - 13 day 2 hr 47 min
+5,649 songs - 13 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4273,6 +4273,7 @@
 | [Self\-Fulfilling Prophecy](https://open.spotify.com/track/56O5GqkosVYzRr3X6Mzruw) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Negative Spiral](https://open.spotify.com/album/3oAUeN3lV41l31zH1X0aMF) | 3:10 | 2024-04-05 | 2024-05-04 |
 | [Sell My Soul](https://open.spotify.com/track/6zHP39snHhnIAJVax30Xqh) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Carry The Fire EP](https://open.spotify.com/album/4qzMoea80W9VXwCfxC5QjW) | 3:51 | 2024-06-14 | 2024-07-13 |
 | [Sell My Soul \- VIP](https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Sell My Soul \(VIP\)](https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N) | 2:56 | 2025-10-24 | 2025-11-29 |
+| [sensation](https://open.spotify.com/track/2jEu2FWdj5vxkOVTqGtXlN) | [yerbby](https://open.spotify.com/artist/7byplsH3a05Rz2CPjwINHF), [lostageless](https://open.spotify.com/artist/5X7LQl3tw4RQ26KxesuX4g) | [sensation](https://open.spotify.com/album/6LNWArEtT5BGcwOwTrNVKL) | 4:37 | 2026-11-07 |  |
 | [SENSES](https://open.spotify.com/track/3I406pRSaK309FbEsMcdzT) | [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT), [Rausch](https://open.spotify.com/artist/53M8zRE55wOzANi1CY9rtR) | [SENSES](https://open.spotify.com/album/2kGuzjkVUfYqmYlOUb1t5m) | 3:04 | 2026-09-11 | 2026-10-10 |
 | [Sensory](https://open.spotify.com/track/3IyPYus8ipUwHhNg4ukH2p) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm) | [XTC](https://open.spotify.com/album/77M2jO3hJyh7elt1KYDJSV) | 2:57 | 2025-05-16 | 2025-06-14 |
 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 | 2026-10-02 | 2026-10-31 |

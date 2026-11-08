@@ -841,6 +841,40 @@
     },
     {
       "album": {
+        "name": "Gai Tama 2.0",
+        "url": "https://open.spotify.com/album/5tm1fcQH4ZhIOzStaZxdb3"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        },
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "Stylish Dj",
+          "url": "https://open.spotify.com/artist/43enULBVMaMoSANiya1Tsb"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226928,
+      "name": "G\u00e2i Tama 2.0",
+      "url": "https://open.spotify.com/track/5ENYpipjcVBQN0sFveWmJa"
+    },
+    {
+      "album": {
         "name": "Reunited",
         "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
       },
@@ -1640,7 +1674,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 367288,
       "name": "Mngani Wami",
       "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"

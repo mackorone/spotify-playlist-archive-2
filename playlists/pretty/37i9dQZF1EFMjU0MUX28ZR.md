@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 116 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 208 likes - 116 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 75 | [Lighting the flame](https://open.spotify.com/track/4ERY8Oze799EPY81W2sUYL) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:22 |
 | 76 | [Planetary](https://open.spotify.com/track/1QMG95ifE5bmg3tC39WaYv) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f), [Argonaut&Wasp](https://open.spotify.com/artist/4egKcLg1EUyoap62usMj60) | [Planetary](https://open.spotify.com/album/0y2FFwmkhex0NlkVHIbZYE) | 4:55 |
 | 77 | [Nothing But Love](https://open.spotify.com/track/6w8hzcNgqAxCzzPd796PAg) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 3:52 |
-| 78 | [loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 |
-| 79 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
+| 78 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
+| 79 | [loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 |
 | 80 | [Nail Gun](https://open.spotify.com/track/7CyrYDA2C74KHD6sFNmud1) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:07 |
 | 81 | [Teddy Bear](https://open.spotify.com/track/3iV7EY5EfDEtueI3sUGjon) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Teddy Bear](https://open.spotify.com/album/2tMxvr0VuZGMwCXqn4n8K6) | 2:59 |
 | 82 | [NEVER LOVED ANYONE BEFORE](https://open.spotify.com/track/4Ww8tuLk8Uc49Z6nCCdGVj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:54 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 115 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 116 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Acg+mAAAAADRl5/RodC2DCwWL1hOrVJP`
+Snapshot ID: `AchEGgAAAACXwEzwCKVfsv+ZK7HaaoVE`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADRn6D/PZvzmvigaOx/c4As",
+  "snapshot_id": "au0YgAAAAADeuNv1UEsJZWljPSzgT3NI",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Shit",
-        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 100444,
-      "name": "Pop Shit",
-      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fashion week",
         "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gameboi",
+        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gameboi",
-        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Gameboi",
-      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
+      "duration_ms": 100444,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACIAS (Remix)",
-        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 146377,
-      "name": "GRACIAS - Remix",
-      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 73846,
       "name": "dnd",
       "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACIAS (Remix)",
+        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 146377,
+      "name": "GRACIAS - Remix",
+      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
     },
     {
       "added_at": null,

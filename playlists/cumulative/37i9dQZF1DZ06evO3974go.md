@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 31 min
+96 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 | 2024-09-07 | 2026-10-15 |
 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 | 2024-09-07 | 2026-01-03 |
 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 | 2024-09-07 | 2026-10-18 |
+| [Gave You Everything](https://open.spotify.com/track/6Bfhk96nvGIPjaZWqNmAUi) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 3:29 | 2026-11-08 |  |
 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 | 2024-09-07 |  |
 | [Ghetto](https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Downtown: Life Under The Gun](https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB) | 5:13 | 2024-09-07 |  |
 | [GIA](https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:08 | 2026-10-25 |  |
@@ -57,7 +58,7 @@
 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 | 2024-09-07 |  |
 | [Like a Man \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Touch Down 2 Cause Hell](https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N) | 4:27 | 2024-09-07 |  |
 | [Love Me](https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 3:34 | 2025-05-19 |  |
-| [Magic Stick](https://open.spotify.com/track/2uM4rkWEVmCXyu1xsqKx7E) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:34 | 2026-10-20 |  |
+| [Magic Stick](https://open.spotify.com/track/2uM4rkWEVmCXyu1xsqKx7E) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:34 | 2026-10-20 | 2026-11-08 |
 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 | 2024-09-07 |  |
 | [MF Boss \- feat\. Rich Homie Quan](https://open.spotify.com/track/2yaYhL85vQBstNn9a6yZPH) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [MF Boss \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/20fzeoh4EnQ1rndANRSPba) | 2:34 | 2025-01-28 | 2025-03-20 |
 | [Milk Marie](https://open.spotify.com/track/7ufefyIYQ1CozJ6umgLr9u) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 3:13 | 2024-09-07 |  |

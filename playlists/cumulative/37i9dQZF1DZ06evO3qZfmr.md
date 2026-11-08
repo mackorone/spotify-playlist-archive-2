@@ -4,7 +4,7 @@
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 12 min
+76 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-01-18 | 2026-03-21 |
 | [Wish I Didn't \- MOONLGHT Remix](https://open.spotify.com/track/3xKulMqNGVrkQfKJlJqw1g) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't \(MOONLGHT Remix\)](https://open.spotify.com/album/5Y0mGEtp3Nar9lRwuuhQKg) | 2:29 | 2026-05-25 | 2026-07-22 |
 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 | 2023-09-15 |  |
+| [You for Me \- Smoky Mountain Demo](https://open.spotify.com/track/4dxPIzzrYDqrfAlaiCFaVI) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [You for Me \(Smoky Mountain Demo\)](https://open.spotify.com/album/0ApKQYf6MjrLI4WN5Wf7iY) | 3:18 | 2026-11-08 |  |
 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-11 |  |
 
 \*This playlist was first scraped on 2023-09-16. Prior content cannot be recovered.

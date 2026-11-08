@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 425695,
+  "num_followers": 425665,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Quiero Mejor",
+        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "Quiero Mejor",
+      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "M\u00e9ritos Y Merecimientos",
         "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Quiero Mejor",
-        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "Quiero Mejor",
-      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "El lado B",
-        "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
-      },
-      "artists": [
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Viaje Tropical - El lado B",
-      "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "El lado B",
+        "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "Viaje Tropical - El lado B",
+      "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Modelo Para Armar",
+        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Las Cosas Tienen Movimiento",
+      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1087,18 +1119,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1131,38 +1163,6 @@
       "duration_ms": 195346,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Modelo Para Armar",
-        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Baglietto",
-          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
-        }
-      ],
-      "duration_ms": 260906,
-      "name": "Las Cosas Tienen Movimiento",
-      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
         }
       ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Mi manera de querer",
-        "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "[PAULA] Compilaci\u00f3n VOL 1.",
         "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 66666,
       "name": "Lo que elegiste.",
       "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Mi manera de querer",
+        "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
     },
     {
       "added_at": "2026-10-13 18:55:37",

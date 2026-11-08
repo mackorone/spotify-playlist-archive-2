@@ -950,10 +950,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 212963,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
+    },
+    {
+      "album": {
+        "name": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th",
+        "url": "https://open.spotify.com/album/0Ad99OHFX3OjhZ410joegz"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257117,
+      "name": "It Ain't Me Babe - Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976",
+      "url": "https://open.spotify.com/track/2aodPasboeQom5Co8U8TIe"
     },
     {
       "album": {

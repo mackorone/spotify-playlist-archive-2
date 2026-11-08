@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 10 hr 1 min
+212 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Different](https://open.spotify.com/track/3vRVnRwfuK1leTPcVtNp6h) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Different](https://open.spotify.com/album/0JeuTRnHiyYPbWagWQq0Qr) | 2:17 | 2025-06-01 |  |
 | [Disclosure](https://open.spotify.com/track/3tRfmb7TerFE7XsQBVGl8l) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print](https://open.spotify.com/album/6ccDPGKd4UC3rWOokj2DCs) | 3:00 | 2025-06-01 | 2025-11-23 |
 | [Disclosure](https://open.spotify.com/track/7nLhXCZc7aR1Bc3rREHC3m) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Disclosure](https://open.spotify.com/album/4nbJddRiMv9TKreAvK9Oel) | 3:00 | 2025-11-22 |  |
-| [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 | 2025-06-01 |  |
+| [Divided](https://open.spotify.com/track/6CiH7QQKjQsikyq7kZt9nB) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/3Zmw5s7NtMOBX30vJsyx8a) | 1:44 | 2026-11-07 |  |
+| [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 | 2025-06-01 | 2026-11-08 |
 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 | 2026-01-21 |  |
 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 | 2025-10-29 |  |
 | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV) | 2:46 | 2026-09-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 410132,
+  "num_followers": 410308,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Una L\u00e1grima No Basta",
-        "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "S\u00e9 Que Te Amo",
-      "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Por El Amor",
         "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 229653,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Una L\u00e1grima No Basta",
+        "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "S\u00e9 Que Te Amo",
+      "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Tu Amor Secreto",
         "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 214293,
       "name": "Tu Traici\u00f3n",
       "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -251,8 +251,8 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
+        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
+      "duration_ms": 239693,
+      "name": "Deja Una Rosa En Tu Balc\u00f3n",
+      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -335,8 +335,8 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Deja Una Rosa En Tu Balc\u00f3n",
-      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Y Seguimos Con Duranguense",
-        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Si La Quieres",
-      "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 210800,
       "name": "Rosas Rojas",
       "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Y Seguimos Con Duranguense",
+        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177093,
       "name": "Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "En Tiempo de Amor",
+        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292773,
+      "name": "Te Va a Doler",
+      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "En Tiempo de Amor",
-        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292773,
-      "name": "Te Va a Doler",
-      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
     },
     {
       "added_at": "2026-09-21 17:58:20",

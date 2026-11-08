@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 240040,
       "name": "Blanc Poney",
       "url": "https://open.spotify.com/track/0NaDCnQc8DRHqYmMcICgWX"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 194639,
       "name": "Conformity Cutter",
       "url": "https://open.spotify.com/track/4BCeAjoCxbaerQU7WnaN6b"
@@ -5163,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/1p5NI6fP2VaY7QrKjHXhlB"
+      },
+      "artists": [
+        {
+          "name": "John Errol",
+          "url": "https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216612,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3o3dThOUzRojFClYeG4GWB"
+    },
+    {
+      "album": {
         "name": "Hannah Lew",
         "url": "https://open.spotify.com/album/3VS2ynZeyCbzkM4N616Jkw"
       },
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 191680,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/1IoHHeNV6GM0PMllV0FwZk"
@@ -5550,6 +5568,24 @@
       "duration_ms": 224000,
       "name": "Dear Omen",
       "url": "https://open.spotify.com/track/6LGCPGq4boclEXSCld7zWI"
+    },
+    {
+      "album": {
+        "name": "HEAVY DARKWAVE",
+        "url": "https://open.spotify.com/album/58DAU9aICtpwYmS2OcMGLW"
+      },
+      "artists": [
+        {
+          "name": "Meldamor",
+          "url": "https://open.spotify.com/artist/20XdcZT7DIATLCVOpQpT4A"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239575,
+      "name": "Death Dealers",
+      "url": "https://open.spotify.com/track/5CYuSSFbVcEP4zXz54Ac0a"
     },
     {
       "album": {
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 167008,
       "name": "dreadful game",
       "url": "https://open.spotify.com/track/0tsH0PDMF8Xq3XBIKjAZvr"
@@ -7138,7 +7174,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Energy Redirected",
       "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
@@ -8361,6 +8397,28 @@
     },
     {
       "album": {
+        "name": "Forever Songs (Causeway's Cosmix)",
+        "url": "https://open.spotify.com/album/17xvJTpPGhyHVLTEQrao15"
+      },
+      "artists": [
+        {
+          "name": "The Julies",
+          "url": "https://open.spotify.com/artist/39TjpeRcKdR13572B3XHPm"
+        },
+        {
+          "name": "Causeway",
+          "url": "https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334500,
+      "name": "Forever Songs - Causeway's Cosmix",
+      "url": "https://open.spotify.com/track/169Z27EMgUktrbJkZHQ4OG"
+    },
+    {
+      "album": {
         "name": "give and take",
         "url": "https://open.spotify.com/album/6WHPWP1m7363k2z6vaipKm"
       },
@@ -8550,7 +8608,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -9278,7 +9336,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -11708,7 +11766,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -12314,7 +12372,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 356178,
       "name": "Kelay Olam Chasdo",
       "url": "https://open.spotify.com/track/2eIn0ee5wtUcUwKkDWLL7Y"
@@ -13040,7 +13098,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -13794,6 +13852,32 @@
       "duration_ms": 239999,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/7j5qzEXOt6rdGIxrufMeWp"
+    },
+    {
+      "album": {
+        "name": "Man With The X-Ray Eyes",
+        "url": "https://open.spotify.com/album/2CbnlQklYuF4j1sXIv7NwP"
+      },
+      "artists": [
+        {
+          "name": "King Flux",
+          "url": "https://open.spotify.com/artist/3kvUsb1sb0fMtFhyrSY0pu"
+        },
+        {
+          "name": "Richie Stotts",
+          "url": "https://open.spotify.com/artist/2laIEMK5eYXYWnKxU4iMPd"
+        },
+        {
+          "name": "Albert Bouchard",
+          "url": "https://open.spotify.com/artist/5ElpY2NuZ3Oq6Zp07qHJYV"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307078,
+      "name": "Man With The X-Ray Eyes",
+      "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
     },
     {
       "album": {
@@ -18542,7 +18626,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -19000,7 +19084,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 324878,
       "name": "shrew",
       "url": "https://open.spotify.com/track/1cTr2KL6Jrr0LwxnSVkwXV"
@@ -20144,7 +20228,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 199906,
       "name": "St. Vitus' Dance",
       "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
@@ -22196,7 +22280,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -23120,7 +23204,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -23834,7 +23918,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -25272,7 +25356,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"
@@ -25746,7 +25830,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

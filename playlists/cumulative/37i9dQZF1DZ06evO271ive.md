@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-149 songs - 6 hr 52 min
+150 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV) | 2:24 | 2026-09-05 | 2026-11-04 |
 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 | 2025-09-27 | 2026-03-21 |
 | [It Bitches](https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:49 | 2026-04-20 | 2026-08-03 |
-| [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 | 2024-08-13 |  |
+| [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 | 2024-08-13 | 2026-11-08 |
 | [I’m The Shit](https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:31 | 2023-12-13 | 2025-05-31 |
+| [Jiggly Bow Bow \(with Sexyy Red\)](https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Jiggly Bow Bow \(with Sexyy Red\)](https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6) | 2:44 | 2026-11-08 |  |
 | [Lick Me \(feat\. Lil Baby\)](https://open.spotify.com/track/383h4yNZkZWrLVac64JZ78) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:28 | 2024-05-26 | 2024-05-27 |
 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-11-10 |  |
 | [Mad at Me](https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:39 | 2023-11-10 |  |

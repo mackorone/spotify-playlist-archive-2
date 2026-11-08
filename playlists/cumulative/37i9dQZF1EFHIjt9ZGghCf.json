@@ -1711,6 +1711,36 @@
     },
     {
       "album": {
+        "name": "Blind Love",
+        "url": "https://open.spotify.com/album/2wcgUiwUMAvg8sUa3BSTqg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Chaquanna Iman",
+          "url": "https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe"
+        },
+        {
+          "name": "Elijah Seawright",
+          "url": "https://open.spotify.com/artist/1A90CC1zNSUWOFiHM4mBRS"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396986,
+      "name": "I Thank God,Glorious Day",
+      "url": "https://open.spotify.com/track/0Ej3sVrFtpiB6OzEfun6Kw"
+    },
+    {
+      "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
       },

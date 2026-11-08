@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Feel\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-675 songs - 1 day 19 hr 58 min
+676 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [BREATHE](https://open.spotify.com/track/7iXL8WCagyp9aoWTWF1Tn8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk) | 4:48 | 2021-12-20 | 2022-07-29 |
 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-04-30 | 2026-10-11 |
 | [Bruising](https://open.spotify.com/track/1fA5Eiu5GgHvJN5YogiAIa) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 2:43 | 2021-12-20 | 2022-07-26 |
-| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 |  |
+| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 | 2026-11-08 |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-04-27 | 2022-07-04 |
 | [By Your Side](https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Poong, the Joseon Psychiatrist OST Part.1](https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI) | 3:52 | 2022-08-12 | 2022-10-25 |
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-09-12 |  |
@@ -124,6 +124,7 @@
 | [Daehan Is Alive: Rewritten](https://open.spotify.com/track/65moWQURj0CjPbu0kECpzR) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Daehan Is Alive: Rewritten](https://open.spotify.com/album/2cMnLoQZ0uix1E9m34EuuH) | 3:18 | 2026-03-03 | 2026-05-01 |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-02-27 |  |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
+| [Days Gone](https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Days Gone](https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7) | 3:42 | 2026-11-03 |  |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 |  |
 | [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 | 2024-01-17 | 2024-10-31 |
 | [Dear](https://open.spotify.com/track/5xUDsNJKebll4g40mGcnPl) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear](https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5) | 5:19 | 2021-12-20 | 2022-07-28 |
@@ -491,7 +492,7 @@
 | [Stars](https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Shine](https://open.spotify.com/album/41OYa62HOJVT8pEczl84vJ) | 3:20 | 2024-12-05 | 2025-02-07 |
 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 | 2021-12-20 | 2024-08-14 |
 | [Stay](https://open.spotify.com/track/4GJe5QQxmtHsJa3AvZroal) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:18 | 2022-05-31 | 2022-06-15 |
-| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 | 2026-09-28 |
+| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 |  |
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-04 | 2026-04-02 |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
@@ -504,7 +505,7 @@
 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 | 2024-05-21 |
 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 | 2025-02-10 |
 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 | 2026-04-23 |
-| [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 | 2026-07-24 |  |
+| [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 | 2026-07-24 | 2026-11-08 |
 | [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 | 2024-07-17 |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SunFlower](https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [SunFlower](https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1) | 3:39 | 2026-03-24 | 2026-05-11 |

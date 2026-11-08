@@ -3093,6 +3093,28 @@
     },
     {
       "album": {
+        "name": "Helluva Boss: Season Three, Part 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5C07gFgdGSmtRTFBu3Ntrd"
+      },
+      "artists": [
+        {
+          "name": "Helluva Boss",
+          "url": "https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241142,
+      "name": "Ringleader",
+      "url": "https://open.spotify.com/track/3s0gi0dDs9Y7ceuyVmgodB"
+    },
+    {
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
       },

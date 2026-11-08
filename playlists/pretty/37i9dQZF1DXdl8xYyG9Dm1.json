@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233179,
+  "num_followers": 233209,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
+        "name": "Bere Mole",
+        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "duration_ms": 113206,
+      "name": "Bere Mole",
+      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
         "name": "IRON ORE II",
         "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 150588,
       "name": "Turbulent Fellow",
       "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
-        "name": "Bere Mole",
-        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
-        }
-      ],
-      "duration_ms": 113206,
-      "name": "Bere Mole",
-      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
     },
     {
       "added_at": "2026-11-06 00:01:52",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
-        "name": "ISALE EKO",
-        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 140160,
-      "name": "ISALE EKO",
-      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-11-06 00:01:52",
@@ -587,26 +591,6 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
         "name": "SWAGGA",
         "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190270,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
+        "name": "ISALE EKO",
+        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "ISALE EKO",
+      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
     },
     {
       "added_at": "2026-11-06 00:01:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 184682,
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
     },
     {
       "added_at": "2026-11-06 00:01:52",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2026-11-06 00:01:52",
       "album": {
+        "name": "Phumela",
+        "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        }
+      ],
+      "duration_ms": 180927,
+      "name": "Phumela",
+      "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
+    },
+    {
+      "added_at": "2026-11-06 00:01:52",
+      "album": {
         "name": "TAI CHI",
         "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
       },
@@ -1319,34 +1343,6 @@
       "duration_ms": 260375,
       "name": "Tontonte",
       "url": "https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT"
-    },
-    {
-      "added_at": "2026-11-06 00:01:52",
-      "album": {
-        "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
-        "url": "https://open.spotify.com/album/28pficBKrjRzddaQThdPo6"
-      },
-      "artists": [
-        {
-          "name": "Chocolate City",
-          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
-        },
-        {
-          "name": "Jesse Jagz",
-          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
-        },
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 265652,
-      "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
-      "url": "https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO"
     }
   ],
   "unique_name": "Afro Bars ",

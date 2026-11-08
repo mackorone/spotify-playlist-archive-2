@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 136121,
+  "num_followers": 136126,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACoTsIoQI7Bi0iK0K36nf7l",
+  "snapshot_id": "au0YgAAAAACAUO8G/6mc1sSaNQAmkYfw",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIAJANTE",
-        "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
+        "name": "Futttura Live",
+        "url": "https://open.spotify.com/album/2mtbTvzjwh4Dokr8igvQBZ"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 208859,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92"
+      "duration_ms": 259619,
+      "name": "Su\u00e9ltate el pelo + 22 - live",
+      "url": "https://open.spotify.com/track/1aw4UkgTiKz2IEWSirsik2"
     },
     {
       "added_at": null,
@@ -319,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Futttura Live",
-        "url": "https://open.spotify.com/album/2mtbTvzjwh4Dokr8igvQBZ"
+        "name": "VIAJANTE",
+        "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 259619,
-      "name": "Su\u00e9ltate el pelo + 22 - live",
-      "url": "https://open.spotify.com/track/1aw4UkgTiKz2IEWSirsik2"
+      "duration_ms": 208859,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 397733,
+  "num_followers": 397701,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "When I Write The Song",
-        "url": "https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 248053,
-      "name": "Two First Names",
-      "url": "https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Hard Land",
         "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 227583,
       "name": "Ghosts of the Panhandle Wind",
       "url": "https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "When I Write The Song",
+        "url": "https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "duration_ms": 248053,
+      "name": "Two First Names",
+      "url": "https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-08-07 04:01:44",

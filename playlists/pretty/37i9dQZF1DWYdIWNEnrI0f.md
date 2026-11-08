@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,633 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,654 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 10 | [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 |
 | 11 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 |
 | 12 | [Sanctuary](https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Sanctuary](https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy) | 2:19 |
-| 13 | [Kurokami](https://open.spotify.com/track/1sQP8aR3mzSVOhVdIQEhaB) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Beauty](https://open.spotify.com/album/2xcLsKxQjmoGzRs0JVEWC0) | 2:35 |
-| 14 | [Everything](https://open.spotify.com/track/1UlwVFnl6JaQBL0tujTFJ8) | [7SEEDS](https://open.spotify.com/artist/4bwydHxnOMEoHGZhgXaSR1), [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [FLIP & DRAW II](https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd) | 2:34 |
+| 13 | [Everything](https://open.spotify.com/track/1UlwVFnl6JaQBL0tujTFJ8) | [7SEEDS](https://open.spotify.com/artist/4bwydHxnOMEoHGZhgXaSR1), [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [FLIP & DRAW II](https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd) | 2:34 |
+| 14 | [Kurokami](https://open.spotify.com/track/1sQP8aR3mzSVOhVdIQEhaB) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Beauty](https://open.spotify.com/album/2xcLsKxQjmoGzRs0JVEWC0) | 2:35 |
 | 15 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 |
 | 16 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 |
 | 17 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 39 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 |
 | 40 | [For a While](https://open.spotify.com/track/3ceTmI36BzFxm6zbI0bfnn) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Tones](https://open.spotify.com/album/5GQMwiF23cqZ5Fk3gQ76zp) | 2:48 |
 | 41 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
-| 42 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
-| 43 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
+| 42 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
+| 43 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
 | 44 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 |
 | 45 | [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 |
 | 46 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |

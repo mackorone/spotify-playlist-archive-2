@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Jvson
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,169 likes - 98 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,186 likes - 98 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Gbayin Gbope / Korin Iyin \(Medley\)](https://open.spotify.com/track/1ZTwvEivl97wmdyXnHa1GA) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [Gbayin Gbope / Korin Iyin \(Medley\)](https://open.spotify.com/album/4bMoUYGl6GRydOfKrDqZts) | 12:16 |
 | 5 | [The God I Serve](https://open.spotify.com/track/2l5XjV9XFznKawVv6a85RD) | [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [The God I Serve](https://open.spotify.com/album/6lYK1Usmuz5UduUmEeAAT0) | 3:39 |
 | 6 | [Purpose](https://open.spotify.com/track/1U1iRzEJvSs4ho04sMsgCk) | [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [To Salvage a Flower](https://open.spotify.com/album/3c1zsUQfMrPD2Z4rSkjaXL) | 3:40 |
-| 7 | [The King Has Come](https://open.spotify.com/track/5Zv3O6p3PoOXa8ewPWx6e3) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [To All A Good Night \(The King Has Come\) \[Deluxe\]](https://open.spotify.com/album/73VTZ6Pk4AnHIVrGzS5rUB) | 3:18 |
+| 7 | [The King Has Come](https://open.spotify.com/track/5Zv3O6p3PoOXa8ewPWx6e3) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [To All A Good Night \(The King Has Come\)](https://open.spotify.com/album/73VTZ6Pk4AnHIVrGzS5rUB) | 3:18 |
 | 8 | [BOUNDLESS LOVE](https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [LAMB](https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn) | 2:48 |
 | 9 | [Size Kuwe \- Live](https://open.spotify.com/track/0cR1wFA3TEP8Hi9RUcs0hA) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Sindi Ntombela](https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U) | [Size Kuwe \(Live\)](https://open.spotify.com/album/3IN6LEwTuhVZkE8DMx7lur) | 8:49 |
 | 10 | [Elohim Adonai](https://open.spotify.com/track/0ZMglvm7PYZUw0RbwKfBnL) | [Aderoju Tojola](https://open.spotify.com/artist/0CCMdfxDLJ3ntsUN2qq7vs) | [Elohim Adonai](https://open.spotify.com/album/0RDPsoxIm2lqTyebb4G77X) | 4:41 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 25 | [House Of The Lord](https://open.spotify.com/track/7HHBbeQoCaiqnKdnbNk9gi) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [House Of The Lord](https://open.spotify.com/album/714KbWg7JpcVZfq6ukjQRw) | 4:44 |
 | 26 | [Grateful](https://open.spotify.com/track/0DVZEuscIw7Gqma9h5fXGt) | [Lilian Nneji](https://open.spotify.com/artist/2Ay5bXW6SZOV8sOkqkfNpa) | [Highly Favoured](https://open.spotify.com/album/7g86ABeBB7MIBuNXKtWXqy) | 6:32 |
 | 27 | [You are the reason](https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Still](https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy) | 2:24 |
-| 28 | [Worship Medley I](https://open.spotify.com/track/12SbxBWiYdlqeU0kCmIvQG) | [Pastor Oba Victor](https://open.spotify.com/artist/0Nz3Qef4um9KvkhySwsgZW) | [Worship Medley I](https://open.spotify.com/album/0ophuJCbFI87T672aJ60Lf) | 9:52 |
+| 28 | [Worship Medley I](https://open.spotify.com/track/12SbxBWiYdlqeU0kCmIvQG) | [Pastor Victor Oba](https://open.spotify.com/artist/6yT2c5yTCI4giutIWuxVM9) | [Worship Medley I](https://open.spotify.com/album/0ophuJCbFI87T672aJ60Lf) | 9:52 |
 | 29 | [TAKE CONTROL](https://open.spotify.com/track/2nW8b9iS0bw0VqmaIURQqV) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [TAKE CONTROL](https://open.spotify.com/album/1SZxFCuTBWqxmDf1tFfbM1) | 7:20 |
 | 30 | [Time And Time Again](https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Time And Time Again](https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK) | 3:39 |
 | 31 | [Mon cœur t'aime](https://open.spotify.com/track/15c6kpSldNDdBjh6DM0CZM) | [Jessy karson](https://open.spotify.com/artist/5VCnHviToDLretvOgZ7PIO), [L'or Mbongo\-Lemba](https://open.spotify.com/artist/5jgdiKXB5fFvoQv2wUyFET) | [Mon cœur t'aime](https://open.spotify.com/album/4aXkji2hfZAos9kaZyt3ce) | 1:56 |

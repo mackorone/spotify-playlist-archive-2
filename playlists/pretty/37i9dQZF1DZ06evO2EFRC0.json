@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98922,
+  "num_followers": 98927,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAC9LuY2l9QsambgMZVW4Kmd",
+  "snapshot_id": "au0YgAAAAABZjHz8IrOnXxhzrx/Yy9JN",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 380342,
-      "name": "Ex\u00e1ltate",
-      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+      "duration_ms": 236042,
+      "name": "De Gloria en Gloria",
+      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 236042,
-      "name": "De Gloria en Gloria",
-      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Ll\u00e9name Se\u00f1or",
-      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volver\u00e1 (En Vivo)",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -628,9 +612,29 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 650657,
-      "name": "Hermoso Eres",
-      "url": "https://open.spotify.com/track/3TbInL4DEBxLRExpqtHDw8"
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como \u00c9l",
+        "url": "https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 696819,
+      "name": "Medley (Tu Amor Por M\u00ed / Hermoso Eres / Tu Mirada / Mi Socorro / Ex\u00e1ltate / Tu Fidelidad)",
+      "url": "https://open.spotify.com/track/2zaPPT0WRBl0J9r4EOH9Rq"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como \u00c9l",
-        "url": "https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
-        {
-          "name": "Harold y Elena",
-          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 696819,
-      "name": "Medley (Tu Amor Por M\u00ed / Hermoso Eres / Tu Mirada / Mi Socorro / Ex\u00e1ltate / Tu Fidelidad)",
-      "url": "https://open.spotify.com/track/2zaPPT0WRBl0J9r4EOH9Rq"
+      "duration_ms": 650657,
+      "name": "Hermoso Eres",
+      "url": "https://open.spotify.com/track/3TbInL4DEBxLRExpqtHDw8"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "A Dios Sea la Gloria",
-      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mill\u00f3n (Kelly Spyker)",
         "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 141924,
       "name": "Maravilloso Dios",
       "url": "https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "A Dios Sea la Gloria",
+      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
     }
   ],
   "unique_name": "This Is Marcos Witt",

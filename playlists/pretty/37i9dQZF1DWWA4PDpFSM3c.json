@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 112950,
+  "num_followers": 112985,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -509,30 +509,6 @@
       "url": "https://open.spotify.com/track/4dSs0v5rU0KCoZkSiuWZvl"
     },
     {
-      "added_at": "2026-09-23 15:40:51",
-      "album": {
-        "name": "The Paradise (Telugu)",
-        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Madhushree",
-          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Uyyalo Uyyalo (Female)",
-      "url": "https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1"
-    },
-    {
       "added_at": "2026-08-27 10:33:18",
       "album": {
         "name": "Baahubali - The Beginning (Telugu)",
@@ -563,6 +539,30 @@
       "duration_ms": 327563,
       "name": "Dhivara",
       "url": "https://open.spotify.com/track/1qRyggIuIDRiq87rJziifv"
+    },
+    {
+      "added_at": "2026-09-23 15:40:51",
+      "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Uyyalo Uyyalo (Female)",
+      "url": "https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1"
     },
     {
       "added_at": "2026-08-27 10:33:18",

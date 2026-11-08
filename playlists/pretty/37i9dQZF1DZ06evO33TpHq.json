@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 67756,
+  "num_followers": 67767,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABYSqPdB4IEqTt5ZeG25N99",
+  "snapshot_id": "au0YgAAAAAA1u8MWvXfYgOHKFTIhOuUW",
   "tracks": [
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Miri Mesika",
-          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
-        }
-      ],
-      "duration_ms": 208183,
-      "name": "Why God - My God",
-      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 258946,
       "name": "Isn't He Good",
       "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+        }
+      ],
+      "duration_ms": 208183,
+      "name": "Why God - My God",
+      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven & Earth",
-        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "Heaven Song",
-      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Then Christ Came (feat. Phil Wickham)",
         "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven & Earth",
+        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "Heaven Song",
+      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
     },
     {
       "added_at": null,

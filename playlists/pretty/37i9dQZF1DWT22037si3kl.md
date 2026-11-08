@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,467 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,470 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 30 | [OURO ROSE](https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [NUNK MAIS QUEBRADO](https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv) | 1:50 |
 | 31 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
 | 32 | [DE ONDE ELE VEM?](https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [Linguagem De Rua](https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH) | 2:08 |
-| 33 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
-| 34 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
+| 33 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
+| 34 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
 | 35 | [Clarividente](https://open.spotify.com/track/3WcUbTs2HA8pQaVL2KswiN) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Clarividente](https://open.spotify.com/album/4QreYs6OFrZ5SPgVnXAcw2) | 2:20 |
 | 36 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |
 | 37 | [Mr\. Lupa Freestyle](https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Mr\. Lupa Freestyle](https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 20th anniversary of Taylor Swift's debut album on 2000s Country!",
-  "num_followers": 1011927,
+  "num_followers": 1012058,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Cocky",
         "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 298960,
       "name": "Picture (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Suds in the Bucket",
-      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 235426,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Suds in the Bucket",
+      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Man With A Memory",
         "url": "https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 230360,
       "name": "Brokenheartsville",
       "url": "https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 266902,
-      "name": "She's Everything",
-      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "I Hope You Dance",
         "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Time Well Wasted",
+        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 266902,
+      "name": "She's Everything",
+      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Long Black Train",
         "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1271,6 +1255,22 @@
       "duration_ms": 183306,
       "name": "Don't Think I Don't Think About It",
       "url": "https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Ain't Nothing 'Bout You",
+      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 248800,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 217733,
       "name": "My Next Thirty Years",
       "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
+      },
+      "artists": [
+        {
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 230280,
       "name": "Who Says You Can't Go Home",
       "url": "https://open.spotify.com/track/5439qJTu5mVH9aeriwp03u"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
-      },
-      "artists": [
-        {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Rascal Flatts",
-        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Prayin' For Daylight",
-      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 210933,
       "name": "Good Morning Beautiful",
       "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Rascal Flatts",
+        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Prayin' For Daylight",
+      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
     },
     {
       "added_at": "2026-10-24 04:00:14",

@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 19 min
+110 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [MERECES MEJOR](https://open.spotify.com/track/6qHThD6xA2MvjYqc82Ss1P) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 1:58 | 2026-07-20 | 2026-08-27 |
 | [MI REINA](https://open.spotify.com/track/41MwyBZkYH8KDszAEk3I4s) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:40 | 2026-07-20 | 2026-08-21 |
 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 | 2025-04-13 |  |
+| [Muñequita](https://open.spotify.com/track/4udQRTCT3vuWMcmaj4d0kp) | [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Muñequita](https://open.spotify.com/album/2A9fNiRubhkZAHbbcXMXnz) | 3:02 | 2026-11-08 |  |
 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 | 2024-08-08 | 2026-07-19 |
 | [Navidad Sin Ti](https://open.spotify.com/track/5qaM8rYlu7voKAa0bFUduE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Navidad Sin Ti](https://open.spotify.com/album/2kia1Ru6fCsASqBjYRpmQ9) | 2:59 | 2025-12-21 | 2026-01-18 |
 | [Niña Buena](https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 4:20 | 2024-08-08 | 2025-08-24 |

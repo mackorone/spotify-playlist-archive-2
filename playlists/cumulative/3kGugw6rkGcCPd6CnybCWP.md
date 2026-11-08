@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-541 songs - 1 day 7 hr 20 min
+543 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
 | [Bored](https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya) | [Duvin](https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7) | [Bored](https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj) | 3:52 | 2026-05-08 | 2026-07-24 |
+| [Boy](https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Goodbye Nordhamn](https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t) | 4:34 | 2026-11-07 |  |
 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 | 2026-07-04 | 2026-08-18 |
 | [Bring The Light](https://open.spotify.com/track/3jGNfsL25ex9OXlBlz6GNR) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Bring The Light](https://open.spotify.com/album/2ppC36tqivjAk4cd9C7dC0) | 3:15 | 2026-05-10 | 2026-07-24 |
 | [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 | 2026-04-24 | 2026-07-02 |
@@ -507,6 +508,7 @@
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-11-02 | 2026-01-15 |
 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 | 2026-05-07 | 2026-07-24 |
 | [Vitanova](https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 3:15 | 2026-08-28 |  |
+| [Vortex](https://open.spotify.com/track/1fZGj47vPETglpLgbdmOt9) | [Pacific Sunsets](https://open.spotify.com/artist/7gm630ZR1NLY8fFD52XjIZ) | [New Earth](https://open.spotify.com/album/3k8N0sZrWStJ1wV0x0lwcQ) | 3:20 | 2026-11-07 |  |
 | [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 | 2026-04-15 | 2026-07-01 |
 | [wakingup](https://open.spotify.com/track/61IzD2tH1liMWYuvxleKUm) | [aerial.aiff](https://open.spotify.com/artist/56xvmBfz3DGvEjJKVi3JWg) | [wakingup](https://open.spotify.com/album/5r0O467KLIqvvKlufXYYI0) | 1:38 | 2025-11-04 | 2026-01-17 |
 | [Walking a Wire](https://open.spotify.com/track/0DNXuf1n2DDVipLfvZ9oXN) | [Of Titans and Men](https://open.spotify.com/artist/7eCtNRHtwr5dZclVL5czVu) | [Walking a Wire](https://open.spotify.com/album/1YoCAYE9hnp8hY1gZhAbm5) | 3:26 | 2026-06-06 | 2026-08-18 |

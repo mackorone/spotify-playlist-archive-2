@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2085478,
+  "num_followers": 2085220,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "German Cars",
         "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Rolling On",
-        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 176748,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Palindrome Hunches",
         "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 220866,
       "name": "Digging Shelters",
       "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Rolling On",
+        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 176748,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 178240,
       "name": "New Paint - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Indefinitely",
         "url": "https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS"
       },
@@ -1719,38 +1735,6 @@
       "duration_ms": 218805,
       "name": "Indefinitely",
       "url": "https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1783,6 +1767,22 @@
       "duration_ms": 167022,
       "name": "I Miss Strangers - Acoustic",
       "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Hearts On Fire",
+        "url": "https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Hearts On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 226033,
       "name": "Day Plan",
       "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Hearts On Fire",
-        "url": "https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reid",
-          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
-        }
-      ],
-      "duration_ms": 219811,
-      "name": "Hearts On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f"
     },
     {
       "added_at": "2026-01-09 13:51:16",

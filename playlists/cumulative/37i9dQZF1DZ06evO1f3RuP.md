@@ -4,11 +4,12 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 23 min
+56 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16](https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq) | 2:24 | 2025-11-20 |  |
+| [16](https://open.spotify.com/track/0l4KQtyqJVPrbE5xJeYhwG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1BDcSQxnRjIqba01dpoHbg) | 2:24 | 2026-11-08 |  |
+| [16](https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq) | 2:24 | 2025-11-20 | 2026-11-08 |
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2025-11-20 |  |
 | [all of that](https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:09 | 2025-11-29 |  |
 | [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 | 2025-11-20 | 2025-11-29 |

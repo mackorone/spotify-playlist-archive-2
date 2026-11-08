@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,266 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,299 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 49 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 |
 | 50 | [Stars Fell On Alabama](https://open.spotify.com/track/79Jl7eZTa96MDDlOF92A4t) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/1ywi5zQMqngyRWrmPUB0um) | 6:14 |
 | 51 | [The Touch Of Your Lips \- Remastered](https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 4:54 |
-| 52 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
+| 52 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
 | 53 | [Summer In Central Park \- Remastered](https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 4:41 |
 | 54 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 |
 | 55 | [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 |

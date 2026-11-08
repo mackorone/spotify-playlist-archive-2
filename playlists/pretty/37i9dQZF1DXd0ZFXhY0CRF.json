@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 813265,
+  "num_followers": 813276,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "MOLLY",
-        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 272507,
-      "name": "MOLLY",
-      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Pretenders",
         "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 272507,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 201187,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "HEARTLESS",
-        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "HEARTLESS",
-      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
     },
     {
       "added_at": "2026-05-01 18:02:47",

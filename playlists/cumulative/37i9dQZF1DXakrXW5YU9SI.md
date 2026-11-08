@@ -4,7 +4,7 @@
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-1,158 songs - 2 day 16 hr 57 min
+1,159 songs - 2 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Ego Death At A Bachelorette Party](https://open.spotify.com/track/4mqtl1tLjbB214FAV66b0I) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:19 | 2025-09-15 | 2025-11-11 |
 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 | 2025-10-03 | 2025-12-06 |
 | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Michał Bajor](https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1) | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf) | 3:40 | 2025-01-24 | 2025-02-22 |
+| [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 | 2026-11-06 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-09-12 |  |
 | [End of the World](https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:10 | 2025-05-31 | 2025-09-16 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-18 | 2025-06-01 |
@@ -903,7 +904,7 @@
 | [Stumilowy las](https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Stumilowy las](https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd) | 4:42 | 2026-06-09 | 2026-09-11 |
 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 | 2026-04-10 |  |
 | [Stój](https://open.spotify.com/track/2gUWtzU7l87TY2ScTJyBzn) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Stój](https://open.spotify.com/album/5zdlebZzMuE3v4K1aDotFB) | 3:41 | 2025-02-07 | 2025-03-29 |
-| [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 | 2026-10-02 |  |
+| [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 | 2026-10-02 | 2026-11-08 |
 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-05-23 | 2025-09-16 |
 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 | 2026-09-10 |  |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-07-05 | 2024-07-12 |

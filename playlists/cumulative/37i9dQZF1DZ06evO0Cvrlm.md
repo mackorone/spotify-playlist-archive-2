@@ -4,7 +4,7 @@
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-91 songs - 7 hr 28 min
+92 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [I Can't Make You Love Me \- Studio Version](https://open.spotify.com/track/2w4a4ur2uRf530cbzyTlWo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:20 | 2023-07-28 | 2024-01-28 |
 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [ARETHA](https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H) | 4:01 | 2023-07-28 |  |
 | [I Want Your Sex \(feat\. Mosimann \- Edit\)](https://open.spotify.com/track/7CqCpB9EOCgiHzQz13Bgna) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [I Want Your Sex \(feat\. Mosimann\)](https://open.spotify.com/album/3zA1mcrko4SXGlPW3DDgqS) | 3:00 | 2026-07-12 | 2026-08-26 |
-| [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 | 2023-07-28 |  |
+| [I Want Your Sex \- Live in Paris, 1988](https://open.spotify.com/track/58DmbLiWwFABLti9yktZmI) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Faith Tour](https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu) | 4:44 | 2026-11-08 |  |
+| [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 | 2023-07-28 | 2026-11-08 |
 | [I Want Your Sex \- Rhythm 1 \- Lust](https://open.spotify.com/track/5kiOZ0ey8yeeQB3X7iYDcN) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [I Want Your Sex](https://open.spotify.com/album/4tx01vn62FAbTMXXkTGV96) | 4:46 | 2026-03-27 | 2026-04-24 |
 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 | 2023-12-31 |  |
 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 | 2023-07-28 |  |

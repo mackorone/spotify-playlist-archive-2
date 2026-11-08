@@ -2017,6 +2017,36 @@
     },
     {
       "album": {
+        "name": "The Classical Reverie",
+        "url": "https://open.spotify.com/album/05TStnGtJVGDSeaoQB8lGN"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "A Farewell to the Grand Palace",
+      "url": "https://open.spotify.com/track/5sFQigfiwPthFIN7CDLIuG"
+    },
+    {
+      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },
@@ -2400,7 +2430,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 428570,
       "name": "A man from the future",
       "url": "https://open.spotify.com/track/5zUdFy3giiWAj1KaO4ztP8"
@@ -10497,6 +10527,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n de L\u00e1grimas y Amores",
+        "url": "https://open.spotify.com/album/3ys7D9FNGCECqx5klEqCd8"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/3lzkDW1KjEbDIEalZTkMl3"
+    },
+    {
+      "album": {
         "name": "Grotesco",
         "url": "https://open.spotify.com/album/5v32ucDQbynBw3cTiS3Q8v"
       },
@@ -10754,7 +10802,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 209006,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/1epDbg7j0XIU4PBiG0WWRU"
@@ -17067,6 +17115,28 @@
     },
     {
       "album": {
+        "name": "ALL IS BEAUTIFUL... BECAUSE WE'RE DOOMED: CIRCULARITY",
+        "url": "https://open.spotify.com/album/39S9wKzm5lrOxPHApfo41O"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205961,
+      "name": "DEAD SILENT",
+      "url": "https://open.spotify.com/track/1FdHuhg8xcm4sVHc6xl2hd"
+    },
+    {
+      "album": {
         "name": "DEAD SILENT",
         "url": "https://open.spotify.com/album/2P1sxAoxUcj4AvcrUwYvxH"
       },
@@ -17082,7 +17152,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 205961,
       "name": "DEAD SILENT",
       "url": "https://open.spotify.com/track/3JJr1Ws0CybwNYxfY5SgH5"
@@ -23060,7 +23130,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 342600,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/2EJa8t1E8fx0p1vrDLJDDA"
@@ -25094,7 +25164,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 208833,
       "name": "Fireside Song - 2026 Mix",
       "url": "https://open.spotify.com/track/6KstNXlgE2a9PFoU18bt9H"
@@ -29258,7 +29328,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 132003,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1D7VjjCe0paE4mM3oslLAu"
@@ -40033,6 +40103,24 @@
     },
     {
       "album": {
+        "name": "How's It Goin'",
+        "url": "https://open.spotify.com/album/3VfqAkrYHu1f6PhHxjaYtD"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Lake Ontario",
+      "url": "https://open.spotify.com/track/3ILmmYqSGH5fy5jFgQUS0v"
+    },
+    {
+      "album": {
         "name": "Lake Ontario",
         "url": "https://open.spotify.com/album/6z0y7JVqs7hL7hm8ZQbHJU"
       },
@@ -40044,7 +40132,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 178352,
       "name": "Lake Ontario",
       "url": "https://open.spotify.com/track/5oCTpUSu18fKYHfRIsgX6d"
@@ -40890,7 +40978,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 82000,
       "name": "Les Sylphides: 1. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5WdAyOZNDUwx2o3aBMANxl"
@@ -43344,7 +43432,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 298760,
       "name": "Lost In Your Eyes",
       "url": "https://open.spotify.com/track/0MS0GHiOMtj51vJrv12YPJ"
@@ -44734,7 +44822,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 167253,
       "name": "Makin' Love - Outtake",
       "url": "https://open.spotify.com/track/3qSlX0NSLUOl85vAiGRu8S"
@@ -47380,10 +47468,32 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 304318,
       "name": "Morning Shall Come",
       "url": "https://open.spotify.com/track/3ShqLr9VYtMiKpV0D4qgau"
+    },
+    {
+      "album": {
+        "name": "Morning Shall Come",
+        "url": "https://open.spotify.com/album/1iv3SQYHsMDkTzpTQukmOd"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304318,
+      "name": "Morning Shall Come",
+      "url": "https://open.spotify.com/track/6dwEUTQ8cwx6EDfJqGwK90"
     },
     {
       "album": {
@@ -48132,7 +48242,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 241613,
       "name": "my Vertigo",
       "url": "https://open.spotify.com/track/1EZ4YWomZB5o2YHpbyI4Sd"
@@ -49907,6 +50017,32 @@
     },
     {
       "album": {
+        "name": "NO TE ABURRAS DE M\u00cd (En Vivo)",
+        "url": "https://open.spotify.com/album/1iIHYwu40aYTduy7XQIp3J"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Coro H\u00e9cate",
+          "url": "https://open.spotify.com/artist/5aktB8IdRm6jjWpEBLnIwO"
+        },
+        {
+          "name": "Cuarteto Austral",
+          "url": "https://open.spotify.com/artist/3Ogsb61khql9jjbn0wWBK0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "NO TE ABURRAS DE M\u00cd - En Vivo",
+      "url": "https://open.spotify.com/track/3Opu8BL6v4zkGBsQsfyMgJ"
+    },
+    {
+      "album": {
         "name": "No Te Pases",
         "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
       },
@@ -50182,7 +50318,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 395000,
       "name": "Nocturne No. 18 in E, Op. 62 No. 2",
       "url": "https://open.spotify.com/track/4feyXGNvCHbo0n2D01h9C2"
@@ -51047,7 +51183,7 @@
     },
     {
       "album": {
-        "name": "Obsessed x",
+        "name": "Obsessed",
         "url": "https://open.spotify.com/album/6YG28dpEYwU2KugYYxWGgu"
       },
       "artists": [
@@ -51064,7 +51200,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208624,
-      "name": "Obsessed x",
+      "name": "Obsessed",
       "url": "https://open.spotify.com/track/6hZPwHN4aiLTmT02tplA1K"
     },
     {
@@ -54524,7 +54660,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 824000,
       "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: I. Allegro con brio",
       "url": "https://open.spotify.com/track/0VMrhPYpeGjTdDLTPFobUS"
@@ -54584,7 +54720,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 468000,
       "name": "Piano Concerto No. 23 in A Major, K. 488: III. Allegro assai",
       "url": "https://open.spotify.com/track/3Kt9CbEjesZT5ZihPeMd30"
@@ -58544,7 +58680,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 302293,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0Qh4PraEit9OIQunsKU6Rh"
@@ -60648,10 +60784,32 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 287268,
       "name": "Sadness Will Reign",
       "url": "https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj"
+    },
+    {
+      "album": {
+        "name": "In the Shadow of Your Shadow",
+        "url": "https://open.spotify.com/album/2jo7MOpWqcaorbFYvAhmZL"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287268,
+      "name": "Sadness Will Reign",
+      "url": "https://open.spotify.com/track/25zZRrNIIPeKPXXOd76HWu"
     },
     {
       "album": {
@@ -61056,7 +61214,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 244533,
       "name": "Santa Claus Is Coming To Town - Single Version",
       "url": "https://open.spotify.com/track/1nQuQg7mk8s6px0W7ZWIgE"
@@ -62360,7 +62518,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 159758,
       "name": "Serenade in C Major, K. 648 \"A Very Little Night Music\" (Version for Orchestra): I. Marche (Reprise) - World Premiere Recording",
       "url": "https://open.spotify.com/track/2WxyOiLMd0mMSnsxxML8Dd"
@@ -66538,7 +66696,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 300439,
       "name": "SPIN (from \"Jojo's Bizarre Adventure: Steel Ball Run\") - Spanish Version",
       "url": "https://open.spotify.com/track/3kMWARv2G9FCFnrH76Hzu7"
@@ -69246,7 +69404,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 361106,
       "name": "Symphony No. 1 in C Major, Op. 21: 4. Finale (Adagio - Allegro molto e vivace)",
       "url": "https://open.spotify.com/track/3nKYwvQ3lxoSvzjcQCKV2Q"
@@ -69584,6 +69742,24 @@
       "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Take Me - Extended Outtake",
+      "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
     },
     {
       "album": {
@@ -70884,6 +71060,28 @@
       "duration_ms": 216540,
       "name": "The Artist In The Ambulance (Lofi)",
       "url": "https://open.spotify.com/track/3JDP3UD4Ynz8mfTZDc0rRs"
+    },
+    {
+      "album": {
+        "name": "Origins 1971-1978",
+        "url": "https://open.spotify.com/album/2yADEJKwZP4vta8iEKmG8z"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        },
+        {
+          "name": "Mudcrutch",
+          "url": "https://open.spotify.com/artist/2xLqrYZxa9GYSCVn0STgxV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241546,
+      "name": "The Ballad of Harry, Neil and Tillie",
+      "url": "https://open.spotify.com/track/0vbxbn8IIL1ejUOtVQt1mI"
     },
     {
       "album": {
@@ -72229,6 +72427,36 @@
     },
     {
       "album": {
+        "name": "The Classical Reverie",
+        "url": "https://open.spotify.com/album/05TStnGtJVGDSeaoQB8lGN"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Imperial Garden Nocturne",
+      "url": "https://open.spotify.com/track/0HWXSNpF9gsZSyF40ws5O5"
+    },
+    {
+      "album": {
         "name": "IMPOSSIBLE DREAM",
         "url": "https://open.spotify.com/album/32NeEr5asvCJHfXz6mKzyH"
       },
@@ -72512,6 +72740,24 @@
       "duration_ms": 286167,
       "name": "The Last Remnant",
       "url": "https://open.spotify.com/track/4KPoIuoi3CGWeDcHv290mg"
+    },
+    {
+      "album": {
+        "name": "The Open Door (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7e6bE6fK6VLwgFpGlEhJmH"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247854,
+      "name": "The Last Song I'm Wasting On You - Remastered 2026",
+      "url": "https://open.spotify.com/track/0s2OT471HQP5qASpIiAicB"
     },
     {
       "album": {
@@ -82224,7 +82470,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 155360,
       "name": "What Christmas Means To Me (with Stevie Wonder)",
       "url": "https://open.spotify.com/track/7onIoGQBYoF5iOwKnCiMek"
@@ -86152,7 +86398,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 300020,
       "name": "\u042d\u0442\u043e \u041e\u043d",
       "url": "https://open.spotify.com/track/6YRmFEqvQT2XWnXzJIajR6"

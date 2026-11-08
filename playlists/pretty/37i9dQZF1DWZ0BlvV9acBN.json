@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148606,
+  "num_followers": 148591,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 244566,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
         "name": "A Est\u00e1tua",
         "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 244566,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -591,26 +591,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Rodolfo Abrantes + Orquestra Sinf\u00f4nica de Santa Catarina (Ao Vivo em Florian\u00f3polis)",
-        "url": "https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n"
+        "name": "DESMANCHOU",
+        "url": "https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR"
       },
       "artists": [
         {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        },
-        {
-          "name": "Victor Pradella",
-          "url": "https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR"
-        },
-        {
-          "name": "OSSCA",
-          "url": "https://open.spotify.com/artist/3CHuHOiTf1vYcdHsiOeNd4"
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
         }
       ],
-      "duration_ms": 576682,
-      "name": "Isaias 9 - Ao Vivo em Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk"
+      "duration_ms": 252745,
+      "name": "DESMANCHOU",
+      "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -631,18 +623,26 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "DESMANCHOU",
-        "url": "https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR"
+        "name": "Rodolfo Abrantes + Orquestra Sinf\u00f4nica de Santa Catarina (Ao Vivo em Florian\u00f3polis)",
+        "url": "https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n"
       },
       "artists": [
         {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        },
+        {
+          "name": "Victor Pradella",
+          "url": "https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR"
+        },
+        {
+          "name": "OSSCA",
+          "url": "https://open.spotify.com/artist/3CHuHOiTf1vYcdHsiOeNd4"
         }
       ],
-      "duration_ms": 252745,
-      "name": "DESMANCHOU",
-      "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
+      "duration_ms": 576682,
+      "name": "Isaias 9 - Ao Vivo em Florian\u00f3polis",
+      "url": "https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+        "name": "Boom!",
+        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
       },
       "artists": [
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
         }
       ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+      "duration_ms": 182976,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Boom!",
-        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 182976,
-      "name": "Boom!",
-      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
+        "name": "S\u00f3 na Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 258282,
+      "name": "S\u00f3 na Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
         "name": "Minha Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
-        "name": "S\u00f3 na Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 258282,
-      "name": "S\u00f3 na Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
     },
     {
       "added_at": "2026-10-23 03:01:25",

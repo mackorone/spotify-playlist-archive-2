@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 610859,
+  "num_followers": 610941,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,34 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -423,34 +439,18 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 297485,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "HECHO A MANO",
+        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "FULL ICE (prod. ORODEMBOW)",
+      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Pininfarina (Remix)",
         "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 260787,
       "name": "Pininfarina - Remix",
       "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "HECHO A MANO",
-        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "FULL ICE (prod. ORODEMBOW)",
-      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Buf\u00f3n",
-        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Buf\u00f3n",
-      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Antezana 247 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 216056,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Buf\u00f3n",
+        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Buf\u00f3n",
+      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sigo Fresh",
+      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Dillom: Bzrp Music Sessions, Vol. 9/66",
         "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
       },
@@ -1695,26 +1715,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sigo Fresh",
-      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
       },
@@ -1735,6 +1735,26 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 188779,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1763,22 +1783,18 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         }
       ],
-      "duration_ms": 188779,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd"
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1803,22 +1819,6 @@
       "duration_ms": 219924,
       "name": "Piso",
       "url": "https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2026-08-11 14:10:49",

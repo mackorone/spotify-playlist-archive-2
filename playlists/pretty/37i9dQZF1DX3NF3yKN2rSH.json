@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55888,
+  "num_followers": 55886,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "My Very OWN Easter - EP",
-        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 467130,
-      "name": "The Blood Will Never Lose Its Power",
-      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "My Very OWN Easter - EP",
+        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 467130,
+      "name": "The Blood Will Never Lose Its Power",
+      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
     },
     {
       "added_at": "2026-04-04 06:06:32",

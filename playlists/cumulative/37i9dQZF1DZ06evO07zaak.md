@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-89 songs - 8 hr 17 min
+90 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:42 | 2022-09-17 |  |
 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 | 2022-09-17 | 2022-10-02 |
 | [Set the Controls for the Heart of the Sun \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4Ik6MZgx9KiJpslsXJBn1j) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 10:29 | 2025-05-10 | 2025-05-31 |
-| [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:18 | 2022-09-17 |  |
+| [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:18 | 2022-09-17 | 2026-11-08 |
+| [Sheep \- Original Radio Edit](https://open.spotify.com/track/6eC8MIqBDErjqTYq0ZoX74) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Sheep \(Original Radio Edit\)](https://open.spotify.com/album/2K835MGTE0IaJv6d0SGV0D) | 4:23 | 2026-11-08 |  |
 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:32 | 2022-09-17 |  |
 | [Shine On You Crazy Diamond \- Pts\. 1\-9, New Stereo Mix](https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Shine On You Crazy Diamond \(Pts\. 1\-9, New Stereo Mix\)](https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh) | 25:25 | 2025-11-20 | 2025-12-18 |
 | [Side 1, Pt\. 2: It's What We Do](https://open.spotify.com/track/6jEbXVZywyaJnEiBI3GsrH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0yU7VItpGPmPcvKmwLg0JT) | 6:21 | 2026-08-26 | 2026-08-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 511665,
+  "num_followers": 511700,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAB5HRE1+hacJiuy8YvliWoU",
+  "snapshot_id": "au0YgAAAAAApuESI+ohoCShwy7yB2DAO",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verve Remixed 2",
-        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
       },
       "artists": [
         {
@@ -268,13 +268,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Jaffa",
-          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         }
       ],
-      "duration_ms": 297920,
-      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
-      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verve Remixed // Nina Simone",
-        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
+        "name": "Verve Remixed 2",
+        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
       },
       "artists": [
         {
@@ -304,13 +304,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Jaffa",
+          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
         }
       ],
-      "duration_ms": 242029,
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
+      "duration_ms": 297920,
+      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
+      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
     },
     {
       "added_at": null,

@@ -1,13 +1,45 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167122,
+  "num_followers": 167134,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAADqMFnDDjP28tRQ91STaIzw",
+  "snapshot_id": "au0YgAAAAACbVB2DcqLzqH0rZ8jFjyYs",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Ch\u00e1 - Novos Sabores",
+        "url": "https://open.spotify.com/album/1IKPLyJ8iAAPv9pUnsbt4P"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Prod.Nifour",
+          "url": "https://open.spotify.com/artist/71NQK8ufY5t7SeiMAhPB9I"
+        },
+        {
+          "name": "Davs",
+          "url": "https://open.spotify.com/artist/7EfREyiCcXcJli6FbcgjwX"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "O CH\u00c1 (SABOR BREGA)",
+      "url": "https://open.spotify.com/track/7xWiuQ4Tq49NRrI3GG8Waf"
+    },
     {
       "added_at": null,
       "album": {
@@ -119,22 +151,6 @@
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Ch\u00e1",
-        "url": "https://open.spotify.com/album/4etfAgNsZTQRpUMTt8xsYa"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 180645,
-      "name": "O Ch\u00e1",
-      "url": "https://open.spotify.com/track/5aKNe2iEwZGPafAKZBDKHp"
     },
     {
       "added_at": null,

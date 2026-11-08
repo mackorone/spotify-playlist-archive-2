@@ -747,26 +747,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "LIVE FAST DIE SKRT",
         "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 227234,
       "name": "You're So Fine",
       "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "Harmless Banger Kit",
         "url": "https://open.spotify.com/album/37Mdut0GkpHf4G4BoJDIAB"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 219823,
       "name": "AMAZING (feat. Sik-K)",
       "url": "https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "HBK",
         "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 185888,
       "name": "Hongdae Rapper",
       "url": "https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "FREAK LIKE ME",
-        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "FREAK LIKE ME",
-      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
-      },
-      "artists": [
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "SO GONE",
-      "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "SO GONE",
+      "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "Star*",
-        "url": "https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF"
-      },
-      "artists": [
-        {
-          "name": "Marv",
-          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Star*",
-      "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "MY MAN (Remix)",
         "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 220000,
       "name": "MY MAN - Remix",
       "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "Star*",
+        "url": "https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Star*",
+      "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "All Day (Better Days X Kim Seungmin, Layone)",
+        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "sonogram",
         "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 176371,
       "name": "BUZZIN (Feat. Coogie, GRAY)",
       "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "All Day (Better Days X Kim Seungmin, Layone)",
-        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1995,22 +1995,18 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7"
+        "name": "SOUL BABY",
+        "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
       },
       "artists": [
         {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
         }
       ],
-      "duration_ms": 171961,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk"
+      "duration_ms": 151500,
+      "name": "On the Weekend",
+      "url": "https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

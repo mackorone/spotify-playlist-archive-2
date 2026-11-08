@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Simone Mendes
+> O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
 
 431 songs - 20 hr 13 min
 

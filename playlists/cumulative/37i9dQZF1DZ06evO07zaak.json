@@ -1028,10 +1028,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 618933,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1"
+    },
+    {
+      "album": {
+        "name": "Sheep (Original Radio Edit)",
+        "url": "https://open.spotify.com/album/2K835MGTE0IaJv6d0SGV0D"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263293,
+      "name": "Sheep - Original Radio Edit",
+      "url": "https://open.spotify.com/track/6eC8MIqBDErjqTYq0ZoX74"
     },
     {
       "album": {

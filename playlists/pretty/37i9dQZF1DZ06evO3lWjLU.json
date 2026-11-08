@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 340550,
+  "num_followers": 340600,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACpMXSDE9szwTE+BgAiYnOp",
+  "snapshot_id": "au0YgAAAAAAR9uN4XG89BsnFnjWi+mQP",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epa Wei",
-        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Epa Wei",
-      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponme En Tu Boca",
         "url": "https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 184877,
       "name": "Ponme En Tu Boca",
       "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epa Wei",
+        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Epa Wei",
+      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
     },
     {
       "added_at": null,

@@ -29345,6 +29345,32 @@
     },
     {
       "album": {
+        "name": "Same Blue Sky",
+        "url": "https://open.spotify.com/album/0NlBGj8WYHVrINNJtlBC1m"
+      },
+      "artists": [
+        {
+          "name": "Venteris",
+          "url": "https://open.spotify.com/artist/2pKmFxy1mDDIbBmZtKeQiu"
+        },
+        {
+          "name": "Valery Lua",
+          "url": "https://open.spotify.com/artist/0vNfKnAkh1mgDe9aTm25H2"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Same Blue Sky",
+      "url": "https://open.spotify.com/track/3K7ptCepMFRFynzTjyE3n9"
+    },
+    {
+      "album": {
         "name": "Same Room",
         "url": "https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD"
       },

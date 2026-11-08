@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 2 hr 55 min
+60 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Breakdown](https://open.spotify.com/track/2pNHoMwNO51wMCi7XcGqdb) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:38 | 2026-07-28 |  |
 | [Broken Record](https://open.spotify.com/track/1wLlBbOu8hXNKMVSbUYAxE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:06 | 2026-06-28 |  |
 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/7lti7VdGyzUC8qTlVnslwR) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 | 2023-12-30 |  |
-| [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 | 2026-07-28 |  |
+| [Clean Up Song](https://open.spotify.com/track/4gty1wMlAX8aerA5fIOxll) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/30fawzaKexjGIXj9AdR96O) | 2:45 | 2026-11-07 |  |
+| [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 | 2026-07-28 | 2026-11-08 |
 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 | 2023-12-30 |  |
 | [Dream](https://open.spotify.com/track/6fQPfycZ0rU13R4Cu6gz8S) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Dream](https://open.spotify.com/album/4KIybFkyj4jtLHRFqtCxGG) | 3:24 | 2023-12-30 |  |
 | [Easy As Pie](https://open.spotify.com/track/3jNHVejMUqdi3kRcNHJLs2) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/5a3jaoVV1yMQObEXlwhNvO) | 1:59 | 2026-10-30 |  |
@@ -32,14 +33,16 @@
 | [I Don't Know Who I Am Without You](https://open.spotify.com/track/5XJeDFUpl3q8Tz5o3E7vyn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 4:35 | 2026-07-28 |  |
 | [I Like \(the idea of\) You](https://open.spotify.com/track/62XsUDISgorMOl0wEyTmjF) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:48 | 2023-12-30 |  |
 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 | 2023-12-30 |  |
-| [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 | 2026-08-20 |  |
+| [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 | 2026-08-20 | 2026-11-08 |
+| [I Love Being Wrong](https://open.spotify.com/track/46Pi2IHMuKYaFZVikS6ay7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/5G8m67z7SBgjE9nM7LY1t0) | 4:50 | 2026-11-07 |  |
 | [Interlude III](https://open.spotify.com/track/2gKFOjYqtJpSsIXdRxZQfH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:49 | 2023-12-30 |  |
 | [Just Right](https://open.spotify.com/track/66dqk0qO4EXnMPINSLKf6O) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Sunshine \(Just Right\) \- Geometry Dash](https://open.spotify.com/album/74shlt8UzFHfaZsjKmyHrZ) | 3:22 | 2026-05-18 | 2026-06-29 |
 | [Just Right](https://open.spotify.com/track/6KlYPhqlhONvLlJspJjbYT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:22 | 2026-06-28 |  |
 | [Just Right \- Sunshine Geometry Dash \(Jakki Remix\)](https://open.spotify.com/track/5ASZJOSI35MKa9XZw8Xmj0) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jakki](https://open.spotify.com/artist/2llvExQgjFVtvFbiaGcfUh) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:36 | 2026-07-28 |  |
 | [Kitchen Song](https://open.spotify.com/track/1OYA4DbZ6IOtSVuKb0VFVQ) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:35 | 2026-08-20 |  |
 | [Kitchen Song \- voice memo](https://open.spotify.com/track/25uEOYFHsFKBeqJQStNMkx) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:43 | 2026-08-20 |  |
-| [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 | 2026-07-28 |  |
+| [Knowing](https://open.spotify.com/track/6LJTobbyqecn5sv5etHXmF) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/6in86iHqiZ56fQgVh1kc4V) | 3:40 | 2026-11-07 |  |
+| [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 | 2026-07-28 | 2026-11-08 |
 | [Like You Used To](https://open.spotify.com/track/0011BdwcmGqa32l56KOgsS) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:40 | 2026-06-28 |  |
 | [Make Me A Robot](https://open.spotify.com/track/7H1qbyVlnjkwTSKb6Kovs4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:57 | 2026-06-28 |  |
 | [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2026-08-20 |  |

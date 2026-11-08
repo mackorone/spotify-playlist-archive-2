@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44172,
+  "num_followers": 44177,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "One More Dance",
-        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 230347,
-      "name": "One More Dance",
-      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Party Time (feat. Aatig)",
         "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 230347,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Tell Your Friends You Love Them",
-      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Till It's Over",
         "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
       },
@@ -775,22 +759,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+      "duration_ms": 133761,
+      "name": "Tell Your Friends You Love Them",
+      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -807,6 +787,26 @@
       "duration_ms": 234285,
       "name": "Center Peace",
       "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Round The Block",
+        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "Round The Block",
+      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -831,22 +831,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Round The Block",
-        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
         },
         {
-          "name": "Jane",
-          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 162673,
-      "name": "Round The Block",
-      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "pull u right thru",
-        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 217864,
-      "name": "pull u right thru",
-      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "JOY (Light In The Dark)",
         "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 296045,
       "name": "JOY (Light In The Dark)",
       "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "pull u right thru",
+        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 217864,
+      "name": "pull u right thru",
+      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Decoding Birdsong",
         "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 205560,
       "name": "The First Five Minutes of Magnolia",
       "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
       "artists": [
         {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 285882,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
+      "duration_ms": 151763,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1259,22 +1275,6 @@
       "duration_ms": 195263,
       "name": "Another Planet (feat. Pollena)",
       "url": "https://open.spotify.com/track/2ukTDvCXtV43vG9v9JDp7k"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 151763,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
     },
     {
       "added_at": "2026-11-04 09:14:06",

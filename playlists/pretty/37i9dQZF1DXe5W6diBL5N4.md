@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: HANRORO\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,688 likes - 160 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,723 likes - 160 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 4 | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 |
 | 5 | [Sing This Song For Me \(feat\. Jagwar Twin & The Social Reject Choir\)](https://open.spotify.com/track/3sa489oo3ZM0tUzA0CtEFQ) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria), [The Social Reject Choir](https://open.spotify.com/artist/2Frm8WwIz4pk6tPyjUxBIT) | [WHO KILLED EL?](https://open.spotify.com/album/5JGlvqlmuZ9wQeaVJkrJ80) | 4:06 |
 | 6 | [CINNAMON](https://open.spotify.com/track/6ed7K8DZr0OmFC4vKamgB5) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [Home](https://open.spotify.com/album/6lAQ1Jt2vLDMrwGwe3h8IA) | 2:48 |
-| 7 | [DND \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/6wVxhx89dCYtAzV9c5m06Y) | [WISS](https://open.spotify.com/artist/579F7SPmEVqRFolMLOyhNu), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [DND \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/album/5ncKoflbgWuVNepy8ZaUzV) | 2:23 |
+| 7 | [DND \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/6wVxhx89dCYtAzV9c5m06Y) | [WISS](https://open.spotify.com/artist/2N4mHlrLMIpq7wA7hMOD3j), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [DND \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/album/5ncKoflbgWuVNepy8ZaUzV) | 2:23 |
 | 8 | [Calling back](https://open.spotify.com/track/5kyLl24iTiAP2oFwKiR2ff) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Calling back](https://open.spotify.com/album/533hkArJ8h4EfsIUN59qft) | 3:53 |
 | 9 | [TiNG TiNG](https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [TiNG TiNG](https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn) | 2:29 |
 | 10 | [Slow Jam](https://open.spotify.com/track/3u6sEC67Q2DMVQ7bwlmqcD) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Slow Jam](https://open.spotify.com/album/2FbCvk2jhFevJjmhQm6D9V) | 3:11 |

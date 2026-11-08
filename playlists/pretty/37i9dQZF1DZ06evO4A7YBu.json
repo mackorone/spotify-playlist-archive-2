@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 43906,
+  "num_followers": 43908,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACy9WUrXLRJgrEYYI+PZBLD",
+  "snapshot_id": "au0YgAAAAAB0iSqmbq3eW+BsLFd4PuBN",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 255333,
       "name": "Hypure",
       "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 164346,
-      "name": "Chroma-Matic",
-      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Otsego Undead",
-      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
+      "duration_ms": 164346,
+      "name": "Chroma-Matic",
+      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Worth Dyin For",
-      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
+      "duration_ms": 209800,
+      "name": "Otsego Undead",
+      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beneath...Between...Beyond...",
-        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+      "duration_ms": 206506,
+      "name": "Worth Dyin For",
+      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Beneath...Between...Beyond...",
+        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 236066,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
+      "duration_ms": 166133,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beneath...Between...Beyond...",
-        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Anything but This",
-      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
+      "duration_ms": 236066,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 243343,
       "name": "Terrible Lie - Bonus Track",
       "url": "https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beneath...Between...Beyond...",
+        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Anything but This",
+      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
     },
     {
       "added_at": null,

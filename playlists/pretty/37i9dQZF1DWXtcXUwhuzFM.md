@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Isac Elliot & Mikael Gabriel, Sonia & Sointu Borg, Diogi..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,113 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,121 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 37 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
 | 38 | [Pale and Brief](https://open.spotify.com/track/3Yn80jpGklseXdxuO34g7W) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Pale and Brief](https://open.spotify.com/album/60AsWfPkDbMGKbJ3WOr1HT) | 4:03 |
 | 39 | [Still a body](https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [What the Body Remembers](https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb) | 4:14 |
-| 40 | [Homesick \(feat\. Jussi Selo\)](https://open.spotify.com/track/2boz7WcYeYL24FmtxeQDx0) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Jussi Selo](https://open.spotify.com/artist/6CK6TETMHCfpLhQYHA6R1D) | [Homesick \(feat\. Jussi Selo\)](https://open.spotify.com/album/2EJCfkbImP7QtozeUCFEG6) | 3:56 |
+| 40 | [Homesick \(feat\. Jussi Selo\)](https://open.spotify.com/track/2boz7WcYeYL24FmtxeQDx0) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Jussi Selo](https://open.spotify.com/artist/2p6hbHsxPA6W8nQeKKprcL) | [Homesick \(feat\. Jussi Selo\)](https://open.spotify.com/album/2EJCfkbImP7QtozeUCFEG6) | 3:56 |
 | 41 | [Viiden tähden kusipää](https://open.spotify.com/track/73gshWMTBPP6HIBZFYTuAT) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog) | [Viiden tähden kusipää](https://open.spotify.com/album/3WGyGd5zcmxX52nOmia7Kx) | 2:43 |
 | 42 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
 | 43 | [Välil sataa](https://open.spotify.com/track/13Q8WZAv9ZmMpiCga8DfE3) | [jokeri](https://open.spotify.com/artist/3NawbtNZl7gINBx85aBJ9y) | [Välil sataa](https://open.spotify.com/album/0wgQqKkk6ayexHPuKoV8D0) | 2:47 |

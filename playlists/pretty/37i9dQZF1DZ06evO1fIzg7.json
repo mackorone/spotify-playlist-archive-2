@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAABlvUH5fAA4vsena8heW3QG",
+  "snapshot_id": "au0YgAAAAADg+kSGaeI4Mq/fApnNBepR",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay On Me",
+        "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Stay On Me",
+      "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoot From The Hip",
         "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay On Me",
-        "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Stay On Me",
-      "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip The Light Fantastic",
         "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 203826,
       "name": "If I Can't Dance",
       "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "I Won't Change You",
-      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 191118,
       "name": "Fuck With You",
       "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "I Won't Change You",
+      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -719,6 +735,22 @@
       "duration_ms": 261093,
       "name": "Wild Forever",
       "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Do You Remember the First Time? - Live",
+      "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
     },
     {
       "added_at": null,
@@ -743,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Do You Remember the First Time? - Live",
-      "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 253213,
       "name": "Love Is a Camera",
       "url": "https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Everything is Sweet",
-      "url": "https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Everything is Sweet",
+      "url": "https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV"
     },
     {
       "added_at": null,

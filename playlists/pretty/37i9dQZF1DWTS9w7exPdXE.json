@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 175415,
+  "num_followers": 175502,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Alles Kan Kapot",
-        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Alles Kan Kapot",
-      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
         "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 153527,
       "name": "Duurt Te Lang",
       "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Alles Kan Kapot",
+        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Alles Kan Kapot",
+      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -643,8 +643,8 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+        "name": "Jij Liet Me Vallen",
+        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 196484,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
+      "duration_ms": 218040,
+      "name": "Jij Liet Me Vallen",
+      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -727,8 +727,8 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Jij Liet Me Vallen",
-        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 218040,
-      "name": "Jij Liet Me Vallen",
-      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
+      "duration_ms": 196484,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1087,26 +1087,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
-        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
+        "name": "Wesly Bronkhorst",
+        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
       "artists": [
         {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
         }
       ],
-      "duration_ms": 171508,
-      "name": "Pa Olvidarte",
-      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+      "duration_ms": 201786,
+      "name": "Kom Allemaal Maar In Mijn Armen",
+      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1127,18 +1119,26 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Wesly Bronkhorst",
-        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
+        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
+        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
       "artists": [
         {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
         }
       ],
-      "duration_ms": 201786,
-      "name": "Kom Allemaal Maar In Mijn Armen",
-      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+      "duration_ms": 171508,
+      "name": "Pa Olvidarte",
+      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Pretty Belinda",
-        "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
       },
       "artists": [
         {
-          "name": "Lawineboys",
-          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
-        },
-        {
-          "name": "Rocky Vosse",
-          "url": "https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ"
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Pretty Belinda",
-      "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+      "duration_ms": 136133,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1307,38 +1303,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Want Jij",
-        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Want Jij",
-      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Maak Me Nou Niet Gek",
-        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 136133,
-      "name": "Maak Me Nou Niet Gek",
-      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Mijn Loterij",
         "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
       },
@@ -1351,6 +1315,42 @@
       "duration_ms": 189352,
       "name": "Mijn Loterij",
       "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Pretty Belinda",
+        "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
+      },
+      "artists": [
+        {
+          "name": "Lawineboys",
+          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
+        },
+        {
+          "name": "Rocky Vosse",
+          "url": "https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Pretty Belinda",
+      "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Want Jij",
+        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Want Jij",
+      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-09-24 22:08:52",

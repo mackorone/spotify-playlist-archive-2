@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,407 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,524 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 14 | [Ser de Ti](https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:27 |
 | 15 | [El Alma Mía](https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:29 |
 | 16 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 |
-| 17 | [Quisiera](https://open.spotify.com/track/7911y6Gdt4MwkJJj6lIU03) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/3AAHNwEiwCZTtgE6PfnLnS) | 4:53 |
-| 18 | [Pensarte](https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias \(y el tiempo prudente\)](https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi) | 1:33 |
+| 17 | [Pensarte](https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias \(y el tiempo prudente\)](https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi) | 1:33 |
+| 18 | [Quisiera](https://open.spotify.com/track/7911y6Gdt4MwkJJj6lIU03) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/3AAHNwEiwCZTtgE6PfnLnS) | 4:53 |
 | 19 | [Cada Día Te Extraño Menos](https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:34 |
 | 20 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 |
 | 21 | [Se Me Ocurre](https://open.spotify.com/track/7mMrfUbYLN06xqRbRDhx2E) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 4:02 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 47 | [Dios Nunca Muere](https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 2:50 |
 | 48 | [Lo Sagrado](https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:30 |
 
-Snapshot ID: `auvHAAAAAAC8+Zo6gzAGkmY9y1+meFQM`
+Snapshot ID: `au0YgAAAAACXWoR4rxi2G4oDYXT2bcfs`

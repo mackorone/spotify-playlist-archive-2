@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484802,
+  "num_followers": 484782,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Wreckage",
-        "url": "https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN"
+        "name": "All Out of Good Days",
+        "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
         }
       ],
-      "duration_ms": 300487,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+      "duration_ms": 179255,
+      "name": "Sick of Being Young",
+      "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "All Out of Good Days",
-        "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 179255,
-      "name": "Sick of Being Young",
-      "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 201808,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Never Had to Leave",
-        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Dead Boys",
         "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Never Had to Leave",
+        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Death of Me",
-        "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jenner",
-          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
-        }
-      ],
-      "duration_ms": 214230,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 230738,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jenner",
+          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
+        }
+      ],
+      "duration_ms": 214230,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "It's Depression (feat. Middle Part)",
-        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        },
-        {
-          "name": "Middle Part",
-          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It's Depression (feat. Middle Part)",
-      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -2387,18 +2367,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Minimum Wage",
-        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+        "name": "It's Depression (feat. Middle Part)",
+        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
       "artists": [
         {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        },
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
         }
       ],
-      "duration_ms": 196512,
-      "name": "Minimum Wage",
-      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
+      "duration_ms": 193000,
+      "name": "It's Depression (feat. Middle Part)",
+      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2415,6 +2399,22 @@
       "duration_ms": 226884,
       "name": "Trouble With This Bed",
       "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 196512,
+      "name": "Minimum Wage",
+      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
     },
     {
       "added_at": "2026-06-17 20:08:40",

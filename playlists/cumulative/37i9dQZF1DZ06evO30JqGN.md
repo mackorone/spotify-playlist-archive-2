@@ -4,13 +4,13 @@
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 8 min
+83 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+1 \(404\) 476\-6404](https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [+1 \(404\) 476\-6404](https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX) | 0:48 | 2024-10-15 | 2024-11-18 |
 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 | 2024-10-05 |  |
-| [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/5jN3vA2ChJqtaybZ1SfocT) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [KILL THE KING](https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd) | 3:14 | 2026-06-30 |  |
+| [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/5jN3vA2ChJqtaybZ1SfocT) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [KILL THE KING](https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd) | 3:14 | 2026-06-30 | 2026-11-08 |
 | [Anna Mae](https://open.spotify.com/track/09OeD94T28n7ku4RqPa6wZ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:17 | 2024-10-07 | 2024-12-07 |
 | [Baby](https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:28 | 2024-10-05 |  |
 | [Baby \(with Chris Brown\)](https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:28 | 2025-11-16 | 2026-05-21 |
@@ -45,6 +45,7 @@
 | [Just Saying \(feat\. Summer Walker\)](https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 2:27 | 2026-07-28 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2024-10-07 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2024-10-05 | 2024-10-07 |
+| [Last night in ATL \(feat\. Summer Walker\)](https://open.spotify.com/track/1lscceqRoR6gjsyxqQKykM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Against All Odds](https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9) | 4:15 | 2026-11-08 |  |
 | [Let It Go](https://open.spotify.com/track/6qwLieyhZ2vhn3xuIOrw32) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:11 | 2025-11-01 | 2025-11-05 |
 | [Love Cycle \(with Summer Walker\)](https://open.spotify.com/track/3JP7KdSVvcX3mTfitBp2Ec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Poetic Pain](https://open.spotify.com/album/353P9S1WpRssEgUvXW4kvo) | 3:35 | 2024-12-19 | 2025-03-18 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-10-05 |  |

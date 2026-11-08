@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,520 songs - 12 day 20 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,521 songs - 12 day 20 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5528,5 +5528,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5518 | [Martes, atardecer](https://open.spotify.com/track/7jXtZCBzdGY2wfHcgEDDXh) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Martes](https://open.spotify.com/album/6sjcbi4wqeFuvWQ4NnxZi9) | 3:03 |
 | 5519 | [Un Beso Y Una Flor \- Remastered 2016](https://open.spotify.com/track/09qvq80v8zA09IO6ZjlpT9) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Un Beso Y Una Flor \(Remastered 2016\)](https://open.spotify.com/album/6SYPs53xUd7uIZs348nOvc) | 4:30 |
 | 5520 | [Luz](https://open.spotify.com/track/7KLQ3aAuSsdImrjGI7yq4u) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Luz](https://open.spotify.com/album/7lF9TcZy5zAlcYTUbIqtl8) | 2:54 |
+| 5521 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
 
-Snapshot ID: `AAAK+Eq3Q/bnpmEDgHY3lFrryw1rs/iU`
+Snapshot ID: `AAAK+USuRNhEmTD7FES6OFztAsrdSODw`

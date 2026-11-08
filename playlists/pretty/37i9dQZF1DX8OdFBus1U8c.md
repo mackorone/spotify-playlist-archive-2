@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,111 likes - 89 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,122 likes - 89 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 18 | [Aksharamala](https://open.spotify.com/track/0JwfGeQo2GqoGK3BkbiurW) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Aksharamala](https://open.spotify.com/album/5DprK0wmcRft9s3PBOgFBx) | 2:04 |
 | 19 | [Magic](https://open.spotify.com/track/2KJeA0ITmK1p4xnA1myBWy) | [Fazil AS](https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6), [Abu X\-wrong](https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5) | [Magic](https://open.spotify.com/album/2nvgZ7SDH8ZbxNZQFgr4P6) | 2:54 |
 | 20 | [Mathi](https://open.spotify.com/track/0dzrKzh4jrnzsAgwam5XNB) | [Jewel Rose Villya](https://open.spotify.com/artist/5CGBuFfZ6awGdUURFCiuZS), [Paul Vimal](https://open.spotify.com/artist/1TXfHxvSNBkLpoI0I8UQQ0), [Geya George](https://open.spotify.com/artist/3YXhbYsob8pxkJStggcdHS) | [Mathi](https://open.spotify.com/album/0QHj5dcaPfOmbmyAOPN96i) | 1:33 |
-| 21 | [Pongumoodu](https://open.spotify.com/track/37PQRJ2usfQx4DjxIFuVgm) | [OMAR ZAKHARIAH](https://open.spotify.com/artist/0z5IYwTqBKEB95T83fXDBQ), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [Pongumoodu](https://open.spotify.com/album/3lB2Abwo0KVeETA5ZIVS5q) | 3:50 |
+| 21 | [PONGUMOODU](https://open.spotify.com/track/37PQRJ2usfQx4DjxIFuVgm) | [OMAR ZAKHARIAH](https://open.spotify.com/artist/0z5IYwTqBKEB95T83fXDBQ), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [PONGUMOODU](https://open.spotify.com/album/3lB2Abwo0KVeETA5ZIVS5q) | 3:50 |
 | 22 | [Marathaka Maala](https://open.spotify.com/track/3D8MqsEQ1ZQJMKtEOSxwFQ) | [Adhil Rasheed](https://open.spotify.com/artist/0hp2owGe2CjGSqXfUZkAIn), [ZBR](https://open.spotify.com/artist/21Abac8U0ky8PPdACWgl7z), [JOJO](https://open.spotify.com/artist/3RFxt1JnFjpFep8H9MQtd6) | [Marathaka Maala](https://open.spotify.com/album/7vUeOJcYc6qy4IN5rzTU39) | 3:24 |
 | 23 | [Naadan Vari \- From "Kerala Underground \- All In & The Last Dance"](https://open.spotify.com/track/6hSy6hRvl7ywUR9125KnKV) | [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7), [MOPA](https://open.spotify.com/artist/1lazNpojXVOQy0Xpwggans) | [Kerala Underground \- All In & The Last Dance](https://open.spotify.com/album/7EvuPTVaGumVmlIH5lTMnA) | 2:57 |
 | 24 | [AAKEPETT](https://open.spotify.com/track/6XXm01fROm90Bxi4BdNgSP) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [5YL](https://open.spotify.com/album/3bKbUO5c7svWsHqOOeS2TN) | 3:15 |

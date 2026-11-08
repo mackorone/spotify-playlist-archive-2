@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 124137,
       "name": "Activo",
       "url": "https://open.spotify.com/track/1MAFN2wqC2BrIC773d8IH9"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 173892,
       "name": "Alplax",
       "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
@@ -12096,7 +12096,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 172233,
       "name": "DIOS LO QUIZO AS\u00cd",
       "url": "https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG"
@@ -13068,7 +13068,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 186122,
       "name": "El Caribe",
       "url": "https://open.spotify.com/track/79ZzzqjxczfxAY0YeNKwb7"
@@ -20980,7 +20980,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 139949,
       "name": "La Chica Que Me Gusta",
       "url": "https://open.spotify.com/track/3iPj7xZE0Rq0WsiHILB6HX"
@@ -23248,6 +23248,32 @@
       "duration_ms": 95153,
       "name": "Lengueteo",
       "url": "https://open.spotify.com/track/1V90SGl7TILjTczVpI0sPp"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3XsikNMTSZMajYvNj8JS7U"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "1cewayz",
+          "url": "https://open.spotify.com/artist/074nZ9lE8oOR6Amfoyacyp"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7rg67FsjKopV6WXvJYF8uM"
     },
     {
       "album": {
@@ -29198,7 +29224,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 147135,
       "name": "NO BEBE",
       "url": "https://open.spotify.com/track/7vctoKQv1knT26MQotWd0W"
@@ -31582,7 +31608,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 279685,
       "name": "PANTI Y COLALE 2.0",
       "url": "https://open.spotify.com/track/2ZSBqVV3T89BohjsYHmWtJ"
@@ -31794,6 +31820,40 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1"
+    },
+    {
+      "album": {
+        "name": "PARADIXE (REMIX)",
+        "url": "https://open.spotify.com/album/7yhY69RjFONtW48pts3gjl"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260268,
+      "name": "PARADIXE - REMIX",
+      "url": "https://open.spotify.com/track/18YYddH2JVaiAGJ3y5BFh0"
     },
     {
       "album": {
@@ -32610,7 +32670,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 132371,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr"
@@ -33074,7 +33134,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 101344,
       "name": "PIERDE",
       "url": "https://open.spotify.com/track/6ins62mbmfjuyx3GrWgBik"
@@ -34120,7 +34180,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 112979,
       "name": "Por un Checo",
       "url": "https://open.spotify.com/track/3SOD9jaJo9ugLMcFCiEBQx"
@@ -42756,7 +42816,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"
@@ -44431,6 +44491,24 @@
     },
     {
       "album": {
+        "name": "Tu Mario",
+        "url": "https://open.spotify.com/album/5trpeu4s1JfvK9X8COjj9F"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127563,
+      "name": "Tu Mario",
+      "url": "https://open.spotify.com/track/69u7QR8jpszaAWCSJiQmtV"
+    },
+    {
+      "album": {
         "name": "Tu No Corre",
         "url": "https://open.spotify.com/album/3Aqrl5TnCxOgfDXyb0ELdE"
       },
@@ -44936,6 +45014,28 @@
       "duration_ms": 263346,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+    },
+    {
+      "album": {
+        "name": "Un Chamaquito Exclusivo",
+        "url": "https://open.spotify.com/album/64JeW2vbHMnlC0hQCmeA20"
+      },
+      "artists": [
+        {
+          "name": "Ysi p30",
+          "url": "https://open.spotify.com/artist/77UF56B2V17VIuVKrCSDe7"
+        },
+        {
+          "name": "Malcom Produce",
+          "url": "https://open.spotify.com/artist/0zLv6N4yO8Eqn3MZQFpqit"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105230,
+      "name": "Un Chamaquito Exclusivo",
+      "url": "https://open.spotify.com/track/1sP5YJJSY94M5qHdyUE9zG"
     },
     {
       "album": {
@@ -46098,7 +46198,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

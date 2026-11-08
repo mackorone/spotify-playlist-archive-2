@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 350511,
+  "num_followers": 350518,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAApBdD5BTxSSKbj0j2H0HTp",
+  "snapshot_id": "au0YgAAAAACGEtPJ/EW0dQudbLo65icS",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 117218,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
+      "duration_ms": 142154,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 142154,
-      "name": "At the Zoo",
-      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
+      "duration_ms": 117218,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
     },
     {
       "added_at": null,

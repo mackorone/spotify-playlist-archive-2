@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Beyonde the rain \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/6E9oCHD4CAXImad8kcQkT0) | [patirchev](https://open.spotify.com/artist/2PTdcLmUjIYOHNr8F3kkRL) | [METRO](https://open.spotify.com/album/7oH9EdcEhU5vi4AFZbyJWG) | 3:10 | 2023-06-02 |  |
+| [Beyonde the rain \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/6E9oCHD4CAXImad8kcQkT0) | [patirchev](https://open.spotify.com/artist/2PTdcLmUjIYOHNr8F3kkRL), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [METRO](https://open.spotify.com/album/7oH9EdcEhU5vi4AFZbyJWG) | 3:10 | 2023-06-02 |  |
 | [frog \(feat\. 雨歌エル\)](https://open.spotify.com/track/0j4xSjFlRaHJ5iiD8loziq) | [tekalu](https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN) | [Frosted](https://open.spotify.com/album/2K6vAjBj9EekC0Ask6iVz3) | 4:25 | 2023-06-02 |  |
 | [Rain](https://open.spotify.com/track/1wCID15KvP2UU7Fg34JcED) | [forute](https://open.spotify.com/artist/4aPeEvvMZUspd0xWVtUWRG) | [Stillness of Night](https://open.spotify.com/album/0cPO0J3lzKmP5UMu0MXLGi) | 1:15 | 2023-06-02 |  |
 | [ソノ雨ハ音モ無ク（album mix\)](https://open.spotify.com/track/7HdyfhGUjn3VABfESKETnL) | [Lunachu](https://open.spotify.com/artist/6tzq80B8l1ZWjI8mCzK9mo) | [Princess of Lollipop](https://open.spotify.com/album/4hvEkR0OVVFq2q6KkAQPze) | 4:36 | 2023-06-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 52104,
+  "num_followers": 52108,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
     },
     {
       "added_at": "2022-09-16 04:53:36",

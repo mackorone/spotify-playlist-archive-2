@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 37 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 38 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
 | 39 | [Like A Man](https://open.spotify.com/track/5rj3tqrFpkDyAUi7DhUBxR) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:22 |
-| 40 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 |
-| 41 | [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 |
+| 40 | [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 |
+| 41 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 |
 | 42 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
 | 43 | [Samir](https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:26 |
 | 44 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 61 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
 | 62 | [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 |
 
-Snapshot ID: `Acg+mAAAAAA7zvArZSF2yxqWEEB1Ydu7`
+Snapshot ID: `AchEGgAAAAB2xC8lJY8es5TNFb3v8lm5`

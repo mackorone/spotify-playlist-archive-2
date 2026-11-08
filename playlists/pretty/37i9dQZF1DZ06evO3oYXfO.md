@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,347 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,373 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,24 +14,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 4 | [Heaven and Hell](https://open.spotify.com/track/5qxN63QA4Hk1zgdLCsZFE2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 6:57 |
 | 5 | [Iron Man \- 2009 Remaster](https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 5:54 |
 | 6 | [Sabbath Bloody Sabbath \(2009 Remaster\)](https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:44 |
-| 7 | [The Wizard \- 2009 Remaster](https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 4:22 |
-| 8 | [Sweet Leaf \- 2009 Remaster](https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:02 |
+| 7 | [Sweet Leaf \- 2009 Remaster](https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:02 |
+| 8 | [The Wizard \- 2009 Remaster](https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 4:22 |
 | 9 | [War Pigs \- 2009 Remaster](https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 7:55 |
 | 10 | [Snowblind \- 2009 Remaster](https://open.spotify.com/track/0VfXQxbM0doaDw2fMI8Ima) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 5:28 |
-| 11 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 |
-| 12 | [Solitude \- 2009 Remaster](https://open.spotify.com/track/6VfoT86lDJ18YhLCDHKgEL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:01 |
+| 11 | [Solitude \- 2009 Remaster](https://open.spotify.com/track/6VfoT86lDJ18YhLCDHKgEL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:01 |
+| 12 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 |
 | 13 | [Planet Caravan \- 2009 Remaster](https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:29 |
 | 14 | [Children of the Sea](https://open.spotify.com/track/7MDBR4dEvtOGNyOBKNmP8n) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 5:35 |
-| 15 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 |
-| 16 | [Into the Void \- 2009 Remaster](https://open.spotify.com/track/09EQqFGUTJW6X4NksMPM0O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 6:11 |
+| 15 | [Into the Void \- 2009 Remaster](https://open.spotify.com/track/09EQqFGUTJW6X4NksMPM0O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 6:11 |
+| 16 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 |
 | 17 | [Fairies Wear Boots \- 2009 Remaster](https://open.spotify.com/track/0p9dEwFFw14hWTvS9v5NLU) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 6:13 |
 | 18 | [Sabbra Cadabra \(2009 Remaster\)](https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:55 |
-| 19 | [Die Young](https://open.spotify.com/track/5DcCUdxmc2qlTFglfxLStT) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:42 |
-| 20 | [Orchid \- 2009 Remaster](https://open.spotify.com/track/42HN6p1xRxAn439UH1MJ6G) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 1:31 |
+| 19 | [Orchid \- 2009 Remaster](https://open.spotify.com/track/42HN6p1xRxAn439UH1MJ6G) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 1:31 |
+| 20 | [Die Young](https://open.spotify.com/track/5DcCUdxmc2qlTFglfxLStT) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:42 |
 | 21 | [Electric Funeral \- 2009 Remaster](https://open.spotify.com/track/37gJgdjcyAIeeAeWzEIawU) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:49 |
 | 22 | [Evil Woman, Don't Play Your Games with Me \- 2009 Remaster](https://open.spotify.com/track/046x8yuXjJFPaaQI6Iyz9e) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:20 |
-| 23 | [Neon Knights](https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 3:51 |
-| 24 | [Lord of this World \- 2009 Remaster](https://open.spotify.com/track/4KuWbO1sfQeSiOd9wcZCbZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:24 |
+| 23 | [Lord of this World \- 2009 Remaster](https://open.spotify.com/track/4KuWbO1sfQeSiOd9wcZCbZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:24 |
+| 24 | [Neon Knights](https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 3:51 |
 | 25 | [A National Acrobat \(2009 Remaster\)](https://open.spotify.com/track/6iJuDBangLQkI7cc9MdjPw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 6:15 |
 | 26 | [Symptom of the Universe \- 2009 Remaster](https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 6:29 |
 | 27 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 |
 | 50 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B\. \- 2014 Remaster](https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 9:43 |
 
-Snapshot ID: `auvHAAAAAAA5DYYzYqE5RKe+AewRY7MX`
+Snapshot ID: `au0YgAAAAADXa7a3f/drwbvn4NKHCPH7`

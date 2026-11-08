@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 169095,
+  "num_followers": 169105,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
       },
@@ -783,50 +767,18 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
       },
       "artists": [
         {
-          "name": "Akoy",
-          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
-        },
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 194036,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+      "duration_ms": 157974,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -855,6 +807,54 @@
       "duration_ms": 163467,
       "name": "Un Tiempo - Remix",
       "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
+      },
+      "artists": [
+        {
+          "name": "Akoy",
+          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
+        },
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 194036,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
+        "name": "LA LA LA",
+        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
+      },
+      "artists": [
+        {
+          "name": "Anyelazo",
+          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
+        },
+        {
+          "name": "Gallery Music",
+          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "LA LA LA",
+      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
         "name": "MARIDON",
         "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 169611,
       "name": "MARIDON",
       "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "LA LA LA",
-        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
-      },
-      "artists": [
-        {
-          "name": "Anyelazo",
-          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
-        },
-        {
-          "name": "Gallery Music",
-          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "LA LA LA",
-      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
     },
     {
       "added_at": "2026-10-01 23:46:58",

@@ -1,13 +1,137 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14874,
+  "num_followers": 14875,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACtUXvi6Ash1hVJjRUTFMBIGvr1Vza",
+  "snapshot_id": "AAACtp/sfcUFIxoehpRBRnYEM4mJM23F",
   "tracks": [
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "perfume",
+        "url": "https://open.spotify.com/album/4tT0kAWiN91pgj0xg90dzE"
+      },
+      "artists": [
+        {
+          "name": "Houle",
+          "url": "https://open.spotify.com/artist/7kyEbclVUPx4zFdUdNbMUI"
+        },
+        {
+          "name": "ohhdeer",
+          "url": "https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x"
+        }
+      ],
+      "duration_ms": 99259,
+      "name": "perfume",
+      "url": "https://open.spotify.com/track/1dn66FHEfq2xScmTa8rPh4"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "find me when im lost",
+        "url": "https://open.spotify.com/album/2hxfqVUPkJ0ir77qdoUHh0"
+      },
+      "artists": [
+        {
+          "name": "am i enough?",
+          "url": "https://open.spotify.com/artist/3M0I86wB1L5uM8YW2T6gHz"
+        },
+        {
+          "name": "nohssiwi",
+          "url": "https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "find me when im lost",
+      "url": "https://open.spotify.com/track/5yuiHjVwS73hTg5hyPMTuG"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "my love",
+        "url": "https://open.spotify.com/album/3wfnewvBbvvnkijy5sPULs"
+      },
+      "artists": [
+        {
+          "name": "thell",
+          "url": "https://open.spotify.com/artist/18uDXgDVkVM8z9nHhRaeWQ"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "my love",
+      "url": "https://open.spotify.com/track/4HZeSq71pAZreI33JzfRz8"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "palliative memories",
+        "url": "https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv"
+      },
+      "artists": [
+        {
+          "name": "Willix",
+          "url": "https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj"
+        }
+      ],
+      "duration_ms": 285142,
+      "name": "palliative memories",
+      "url": "https://open.spotify.com/track/2dTvZwjMHbarF7Y1SYYG8W"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "wishing",
+        "url": "https://open.spotify.com/album/1mf51MYgRKUgIEGlNo831d"
+      },
+      "artists": [
+        {
+          "name": "nowt",
+          "url": "https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI"
+        }
+      ],
+      "duration_ms": 128254,
+      "name": "wishing",
+      "url": "https://open.spotify.com/track/5BKRqqN70HmSMbznzbAzyH"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "silent fear",
+        "url": "https://open.spotify.com/album/51LEXipLqo01bBhnpS5Sln"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 118205,
+      "name": "silent fear",
+      "url": "https://open.spotify.com/track/45ORbKguVTPCIThkRJkWJd"
+    },
+    {
+      "added_at": "2026-11-07 09:54:37",
+      "album": {
+        "name": "palliative memories",
+        "url": "https://open.spotify.com/album/4LYxZiwwkABXvWqaTuzORv"
+      },
+      "artists": [
+        {
+          "name": "Willix",
+          "url": "https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj"
+        }
+      ],
+      "duration_ms": 211302,
+      "name": "palliative memories (sped up)",
+      "url": "https://open.spotify.com/track/6QscIHHqSXzR8gfC7QlOxD"
+    },
     {
       "added_at": "2026-11-01 06:44:08",
       "album": {

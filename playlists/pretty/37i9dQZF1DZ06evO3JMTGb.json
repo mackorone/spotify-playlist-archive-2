@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABnfZjRDHZJRXX6nQed+ocv",
+  "snapshot_id": "au0YgAAAAAA3A2yR7BfXuQMZg9qE7xyG",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goddag",
         "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 160000,
       "name": "Jeg Kan S\u00e5 Godt Li Blomster",
       "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,057 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,047 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 33 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 34 | [Tierra Mojá \- Cerrero Dub Mix](https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Tierra Mojá \(Dub Mix\)](https://open.spotify.com/album/5nNgttpJa3yf9foArittyG) | 5:07 |
 | 35 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 |
-| 36 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
-| 37 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
+| 36 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
+| 37 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 38 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 |
 | 39 | [La Que Es](https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6), [Betsayda Machado](https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k), [Parranda el Clavo](https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:14 |
 | 40 | [Ofelia \- Cerrero Dub Mix](https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m) | [Sexteto Tabala](https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Ofelia \(Cerrero Dub Mix\)](https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K) | 4:01 |

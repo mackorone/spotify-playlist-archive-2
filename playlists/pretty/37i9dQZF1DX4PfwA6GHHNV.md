@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,572 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 6 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 |
 | 7 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 |
 | 8 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
-| 9 | [Outra Vida](https://open.spotify.com/track/0sjHWu6zXuG1cXwk1ktWyO) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Fazendo A Minha \(Deluxe\)](https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ) | 2:25 |
-| 10 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
+| 9 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
+| 10 | [Outra Vida](https://open.spotify.com/track/0sjHWu6zXuG1cXwk1ktWyO) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Fazendo A Minha \(Deluxe\)](https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ) | 2:25 |
 | 11 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 12 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
 | 13 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |

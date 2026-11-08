@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810946,
+  "num_followers": 810887,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Downtown (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
-      },
-      "artists": [
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
-        }
-      ],
-      "duration_ms": 204452,
-      "name": "Downtown - Acoustic Version",
-      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Downtown (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        }
+      ],
+      "duration_ms": 204452,
+      "name": "Downtown - Acoustic Version",
+      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 225674,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
-      },
-      "artists": [
-        {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Acoustic Visions",
         "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 228922,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+      },
+      "artists": [
+        {
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
       },
       "artists": [
         {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+      "duration_ms": 229560,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "x tu amor",
-        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Zavala",
-          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "x tu amor",
-      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 253872,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "x tu amor",
+        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zavala",
+          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "x tu amor",
+      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
-        }
-      ],
-      "duration_ms": 262760,
-      "name": "Bleachers",
-      "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Saturday Nights",
         "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 178852,
       "name": "Saturday Nights",
       "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "duration_ms": 262760,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 209070,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
-        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
-      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Don\u2019t You Look At Me That Way",
         "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 200686,
       "name": "Don\u2019t You Look At Me That Way",
       "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
+        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
+      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
     },
     {
       "added_at": "2025-06-20 16:07:31",

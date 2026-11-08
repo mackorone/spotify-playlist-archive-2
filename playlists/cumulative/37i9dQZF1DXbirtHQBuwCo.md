@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: HAAN, SHIRT\)
 
-947 songs - 2 day 1 hr 52 min
+948 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-03-27 | 2024-04-06 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2022-11-15 |
 | [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 | 2025-12-05 | 2026-02-11 |
-| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-30 |  |
+| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-30 | 2026-11-08 |
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-05 | 2023-10-23 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-17 | 2024-11-14 |
@@ -936,6 +936,7 @@
 | [You are special](https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You are special](https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV) | 3:24 | 2024-01-23 | 2024-02-07 |
 | [you got me!](https://open.spotify.com/track/4rBJvWScyzNrA7eFQVUDpU) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [you got me!](https://open.spotify.com/album/2TUXs8m5C46sv5HhvOxeOe) | 3:14 | 2022-04-19 | 2022-04-21 |
 | [You make me crzy](https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [DIMOLLY](https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV) | 3:06 | 2026-02-13 | 2026-03-14 |
+| [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 | 2026-11-05 |  |
 | [You Will Never Know](https://open.spotify.com/track/6N01HkXOMOvC9659WOQGAp) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [touch](https://open.spotify.com/artist/5Fe1k0wxpOtGuvgsENwYPa) | [You Will Never Know](https://open.spotify.com/album/465mgDfE3XX055v0hkzUpv) | 3:22 | 2023-06-13 | 2023-07-06 |
 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 | 2023-03-31 | 2024-04-19 |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-04-19 | 2023-03-18 |

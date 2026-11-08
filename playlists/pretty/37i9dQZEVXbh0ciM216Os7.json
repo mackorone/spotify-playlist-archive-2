@@ -24,21 +24,21 @@
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         },
         {
-          "name": "Hue Hef",
-          "url": "https://open.spotify.com/artist/0ZuNXdmcWi6x2zFH3pRLaE"
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
         },
         {
-          "name": "Jon Depp",
-          "url": "https://open.spotify.com/artist/4WzqTJAGuauEZp9GB2Ge3o"
+          "name": "Chedda Bang",
+          "url": "https://open.spotify.com/artist/0zEwjWbZ3Lo2t0Lk8kebQu"
         },
         {
-          "name": "Chalana Haney",
-          "url": "https://open.spotify.com/artist/3ahPc6WZJVlE3izEdnx5CV"
+          "name": "Nic-Waves",
+          "url": "https://open.spotify.com/artist/1x2ThMPCCaYYeZcaHaXlmD"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/4602ssIzMXFlYQCfqpoEAO"
+      "duration_ms": 156000,
+      "name": "Hennessy Pure",
+      "url": "https://open.spotify.com/track/2KfZ28aa0VLmakPqSxA4J3"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
+        "name": "Take Me Back (Leave Me There) [Special Edition]",
+        "url": "https://open.spotify.com/album/3fgMUdelypSkAQgBhk988F"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Take Me Back (Leave Me There) - Special Edition",
+      "url": "https://open.spotify.com/track/0aYAbSFPmLTyCwOk8dA5rv"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
         "name": "Next Time, Believe Me",
         "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
       },
@@ -95,18 +111,26 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "Take Me Back (Leave Me There) [Special Edition]",
-        "url": "https://open.spotify.com/album/3fgMUdelypSkAQgBhk988F"
+        "name": "CINTURA BRAZZILEAM (MIX)",
+        "url": "https://open.spotify.com/album/1qeXw8umuZ6tmPTZM8p0Nm"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 165200,
-      "name": "Take Me Back (Leave Me There) - Special Edition",
-      "url": "https://open.spotify.com/track/0aYAbSFPmLTyCwOk8dA5rv"
+      "duration_ms": 80000,
+      "name": "CINTURA BRAZZILEAM (MIX)",
+      "url": "https://open.spotify.com/track/2qQOYOzWcoXrybcicr3zFh"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -155,6 +179,22 @@
       "duration_ms": 308258,
       "name": "Ashes and Auras",
       "url": "https://open.spotify.com/track/2dKhgvzXrMbaG3wut3DJeT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
+        "name": "Weekend In Texas",
+        "url": "https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 173382,
+      "name": "Weekend In Texas",
+      "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -231,18 +271,22 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "Atlantic Jazz Legends",
-        "url": "https://open.spotify.com/album/0PeNWCIJ8l76tEuowSBk7F"
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
         }
       ],
-      "duration_ms": 387400,
-      "name": "Blues to You",
-      "url": "https://open.spotify.com/track/0p7oqSNpmZ9GSJGSJ9f4UY"
+      "duration_ms": 131920,
+      "name": "Vida (feat. Erick the Architect)",
+      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -283,42 +327,18 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+        "name": "Atlantic Jazz Legends",
+        "url": "https://open.spotify.com/album/0PeNWCIJ8l76tEuowSBk7F"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 131920,
-      "name": "Vida (feat. Erick the Architect)",
-      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Verve Remixed // Nina Simone",
-        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 242029,
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
+      "duration_ms": 387400,
+      "name": "Blues to You",
+      "url": "https://open.spotify.com/track/0p7oqSNpmZ9GSJGSJ9f4UY"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -343,42 +363,22 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "Matadores",
-        "url": "https://open.spotify.com/album/6s28g1IZ2HIz4AjaqA0APq"
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
       },
       "artists": [
         {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        },
-        {
-          "name": "The Palmer Squares",
-          "url": "https://open.spotify.com/artist/0W7bHqLjZ2UVlUSEWSMTXZ"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Matadores",
-      "url": "https://open.spotify.com/track/75AqAXvuv9F6TfWewUDFsD"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Palace for the People",
-        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 279576,
-      "name": "Heya",
-      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -399,6 +399,30 @@
       "duration_ms": 181515,
       "name": "TRIBE",
       "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
+        "name": "Matadores",
+        "url": "https://open.spotify.com/album/6s28g1IZ2HIz4AjaqA0APq"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "The Palmer Squares",
+          "url": "https://open.spotify.com/artist/0W7bHqLjZ2UVlUSEWSMTXZ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Matadores",
+      "url": "https://open.spotify.com/track/75AqAXvuv9F6TfWewUDFsD"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -435,6 +459,22 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
+        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 315824,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
         "name": "Who You Callin' Crazy",
         "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
       },
@@ -447,6 +487,22 @@
       "duration_ms": 249425,
       "name": "Who You Callin' Crazy",
       "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
+    },
+    {
+      "added_at": "2026-11-06 05:00:00",
+      "album": {
+        "name": "Saturday Night Special",
+        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 142481,
+      "name": "Saturday Night Special",
+      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -479,34 +535,26 @@
     {
       "added_at": "2026-11-06 05:00:00",
       "album": {
-        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+        "name": "T'som",
+        "url": "https://open.spotify.com/album/5nGUalpYEjpIgQbq2OcwnE"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 315824,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Saturday Night Special",
-        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
-      },
-      "artists": [
+          "name": "Dexter Story",
+          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+        },
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Robel",
+          "url": "https://open.spotify.com/artist/64aFEkzbOce8Z3RtUccntG"
         }
       ],
-      "duration_ms": 142481,
-      "name": "Saturday Night Special",
-      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
+      "duration_ms": 197873,
+      "name": "The Tigre Song",
+      "url": "https://open.spotify.com/track/5hPQ34UjaeBQXbuYcqhFL0"
     },
     {
       "added_at": "2026-11-06 05:00:00",
@@ -575,42 +623,6 @@
       "duration_ms": 158140,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1BwI5snBaiYwICFPRYz12V"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "Ambiguous Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 194473,
-      "name": "waiting for me",
-      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
-    },
-    {
-      "added_at": "2026-11-06 05:00:00",
-      "album": {
-        "name": "prayerhands and headnods",
-        "url": "https://open.spotify.com/album/3Qry3Wx5JoXYQDtrqBmvB5"
-      },
-      "artists": [
-        {
-          "name": "Otis Mensah",
-          "url": "https://open.spotify.com/artist/7k5Y1D2fR4hNGx2ZtVjpUw"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 193187,
-      "name": "prayerhands and headnods",
-      "url": "https://open.spotify.com/track/1o55fZYgAUpS8FTQvEaVU7"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

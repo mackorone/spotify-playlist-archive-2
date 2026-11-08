@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > DIM, A3 & Kingsize, GRGY, Rocher en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,237 likes - 77 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,229 likes - 77 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

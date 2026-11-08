@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "How Many Friends - 2026 Remaster",
+      "url": "https://open.spotify.com/track/0dw3E4XU4wu7EHCflODGAj"
+    },
+    {
+      "album": {
         "name": "The Who By Numbers (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
       },
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 206360,
       "name": "In A Hand Or A Face - 2026 Remaster",
       "url": "https://open.spotify.com/track/5beVLpFsMeM3Lc1zBGS3eb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,889 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,893 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 21 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
 | 22 | [Solo oud \(feat\. Amer Ammouri\)](https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1) | [Salatin Al Tarab Orchestra](https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l), [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Arabian Classics for Belly Dance](https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava) | 1:02 |
 | 23 | [Arayib \(Houzam\)](https://open.spotify.com/track/5q5Oz2kAYx76a23pc8Tk1q) | [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Takasim Oud](https://open.spotify.com/album/5VtmMnIVUz5jxBC9KxHUuZ) | 1:44 |
-| 24 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 |
-| 25 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
+| 24 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
+| 25 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 |
 | 26 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 |
 | 27 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
 | 28 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 40 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
 | 41 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
 | 42 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 |
-| 43 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
+| 43 | [The Second Baghdad](https://open.spotify.com/track/1tB5BADAeX0tHHs68FB3zB) | [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys) | [Journey](https://open.spotify.com/album/22gdJxzx5QY9hooxO9rWbC) | 4:42 |
 | 44 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
-| 45 | [The Second Baghdad](https://open.spotify.com/track/1tB5BADAeX0tHHs68FB3zB) | [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys) | [Journey](https://open.spotify.com/album/22gdJxzx5QY9hooxO9rWbC) | 4:42 |
+| 45 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 46 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |
 | 47 | [Hayati \- Ma vie / My Life](https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z) | [Kamilya Jubran](https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d), [Sarah Murcia](https://open.spotify.com/artist/1ExeCHfthEFbhdaZb401mF) | [Nhaoul'](https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2) | 9:35 |
 | 48 | [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 |

@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "talking to flowers",
-        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
-      },
-      "artists": [
-        {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
-        }
-      ],
-      "duration_ms": 123047,
-      "name": "talking to flowers",
-      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Things We Lost in the Fire",
         "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 279066,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "talking to flowers",
+        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 123047,
+      "name": "talking to flowers",
+      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 344160,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 269946,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 344160,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 274475,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 314560,
       "name": "Snowstorm",
       "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
     },
     {
       "added_at": "2025-08-07 23:00:59",

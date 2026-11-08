@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73912,
+  "num_followers": 73927,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Ensenada",
-        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 154484,
-      "name": "Ensenada",
-      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Ensenada",
+        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 154484,
+      "name": "Ensenada",
+      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "El Mosquito",
         "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188772,
       "name": "El Mosquito",
       "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Gr\u00fc\u00dfe ins Neandertal",
         "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 106724,
       "name": "Gr\u00fc\u00dfe ins Neandertal",
       "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 199565,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "BAALBEK",
         "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 167691,
       "name": "Worm in de Appel",
       "url": "https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 248370,
       "name": "Sleepin' on the Couch (with The Elovaters)",
       "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2026-08-21 06:00:30",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAB70lA7EAS430635ELDX9S5",
+  "snapshot_id": "au0YgAAAAACTxzg+XZq3VuaLYD93RQb+",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "O.C.",
+          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Marquee",
+      "url": "https://open.spotify.com/track/5Tmh2XPCW0auf6wjl01yrW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richmond Hill (Instrumentals)",
         "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 167321,
       "name": "Hero - Instrumental",
       "url": "https://open.spotify.com/track/4UAxfyZ9u0NIHLUqBvqqY0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "O.C.",
-          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Marquee",
-      "url": "https://open.spotify.com/track/5Tmh2XPCW0auf6wjl01yrW"
     },
     {
       "added_at": null,
@@ -307,30 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richmond Hill (Instrumentals)",
-        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 185249,
-      "name": "Life Music - Instrumental",
-      "url": "https://open.spotify.com/track/7l4jxQOFSW6q9dHtxgz5y7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -355,54 +331,6 @@
       "duration_ms": 209631,
       "name": "CRISTAL",
       "url": "https://open.spotify.com/track/5EDDZ2bQbclAnFbX8kB74j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Copywrite",
-          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 227498,
-      "name": "E.A.T.",
-      "url": "https://open.spotify.com/track/192y0RyLZC7BcFtgtUgKnJ"
     },
     {
       "added_at": null,
@@ -451,6 +379,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/192y0RyLZC7BcFtgtUgKnJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -460,13 +416,61 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Wordsworth",
-          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
+          "name": "Copywrite",
+          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
         }
       ],
-      "duration_ms": 221266,
-      "name": "Wrong One",
-      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
+      "duration_ms": 264960,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richmond Hill (Instrumentals)",
+        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 185249,
+      "name": "Life Music - Instrumental",
+      "url": "https://open.spotify.com/track/7l4jxQOFSW6q9dHtxgz5y7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G.U.R.U.",
+        "url": "https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 268164,
+      "name": "G.U.R.U.",
+      "url": "https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7"
     },
     {
       "added_at": null,
@@ -495,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Wordsworth",
+          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Wrong One",
+      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richmond Hill (Instrumentals)",
         "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 251688,
       "name": "Below the Clouds (Roselle Remix) - Instrumental",
       "url": "https://open.spotify.com/track/2g7aTWNPieRleZTmcid6We"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G.U.R.U.",
-        "url": "https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        }
-      ],
-      "duration_ms": 268164,
-      "name": "G.U.R.U.",
-      "url": "https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7"
     },
     {
       "added_at": null,
@@ -579,86 +579,6 @@
       "duration_ms": 237249,
       "name": "Look",
       "url": "https://open.spotify.com/track/51tpMwWrztt7pbftD94Eim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richmond Hill (Instrumentals)",
-        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 194579,
-      "name": "Money Problems - Instrumental",
-      "url": "https://open.spotify.com/track/0PktrDnxjrrtXH9RKUyqmK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Thine Own Self Be True",
-        "url": "https://open.spotify.com/album/5HR6kGEqbFoi0gyBK713Or"
-      },
-      "artists": [
-        {
-          "name": "La Coka Nostra",
-          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
-        },
-        {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Slaine",
-          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Sadie Vada",
-          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
-        },
-        {
-          "name": "Q-Unique",
-          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
-        }
-      ],
-      "duration_ms": 282509,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1V0Wc20gGTDvTcAbu2ab1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Masta Polo",
-      "url": "https://open.spotify.com/track/0hGDkhdSlOGXCOJgbfxUYV"
     },
     {
       "added_at": null,
@@ -731,6 +651,86 @@
       "duration_ms": 238252,
       "name": "Cur$ed (What's Wrong Remix)",
       "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Masta Polo",
+      "url": "https://open.spotify.com/track/0hGDkhdSlOGXCOJgbfxUYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Thine Own Self Be True",
+        "url": "https://open.spotify.com/album/5HR6kGEqbFoi0gyBK713Or"
+      },
+      "artists": [
+        {
+          "name": "La Coka Nostra",
+          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Slaine",
+          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Sadie Vada",
+          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
+        },
+        {
+          "name": "Q-Unique",
+          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
+        }
+      ],
+      "duration_ms": 282509,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1V0Wc20gGTDvTcAbu2ab1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richmond Hill (Instrumentals)",
+        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 194579,
+      "name": "Money Problems - Instrumental",
+      "url": "https://open.spotify.com/track/0PktrDnxjrrtXH9RKUyqmK"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 162951,
+      "name": "Makin' Up",
+      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richmond Hill (Deluxe)",
         "url": "https://open.spotify.com/album/7JtfLXwpLU5iJjUl9hnGih"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 34066,
       "name": "Cartunes (Skit)",
       "url": "https://open.spotify.com/track/50TSzIe1MYKhisQNWd2Kh1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
-      },
-      "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 162951,
-      "name": "Makin' Up",
-      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
     },
     {
       "added_at": null,

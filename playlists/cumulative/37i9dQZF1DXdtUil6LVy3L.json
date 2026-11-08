@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 200872,
       "name": "Busy Santa",
       "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 156511,
       "name": "Candlelit Within",
       "url": "https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 193500,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/4lQpDClGVN8GRg1T0XjjHt"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196063,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/3UWfENxJLZmqYwipTZrkdI"
+    },
+    {
+      "album": {
         "name": "Come Thou Fount of Every Blessing",
         "url": "https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 99179,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
@@ -506,6 +524,24 @@
       "duration_ms": 123786,
       "name": "Feliz navidad",
       "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "album": {
+        "name": "Frosty the Snowman",
+        "url": "https://open.spotify.com/album/7nTKwjqd5EcNgeeqeQmRrg"
+      },
+      "artists": [
+        {
+          "name": "Seiden Trio",
+          "url": "https://open.spotify.com/artist/5rCxWhctByK27tk9lc3wgA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135526,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/3ziEAitg0GZH56fX6CbrDo"
     },
     {
       "album": {
@@ -718,7 +754,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 162223,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 123000,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE"
@@ -851,6 +887,24 @@
     },
     {
       "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/4IpcuV2yZNt4kWiwgwAJ5A"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134555,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/2ioguoFCOE58pRKNGMefjP"
+    },
+    {
+      "album": {
         "name": "Christmas In New York",
         "url": "https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW"
       },
@@ -902,6 +956,24 @@
       "duration_ms": 170214,
       "name": "I Still Believe in Santa Clause",
       "url": "https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2xxJD8McJsnlQlkNj9NILv"
+      },
+      "artists": [
+        {
+          "name": "Corner Table Trio",
+          "url": "https://open.spotify.com/artist/0qpszOIZxPxJbvYHnpWtBs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154031,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/3F1Fpjt9EksbXyF88kwlvc"
     },
     {
       "album": {
@@ -1060,7 +1132,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 92299,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2BPnqOJk8oJ2oR4u364Qzt"
@@ -1082,6 +1154,24 @@
       "duration_ms": 88172,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
+    },
+    {
+      "album": {
+        "name": "This Time of Year",
+        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108959,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
     },
     {
       "album": {
@@ -1154,6 +1244,24 @@
       "duration_ms": 205276,
       "name": "Lost in the Stars",
       "url": "https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4"
+    },
+    {
+      "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2swCYtIv012xM6YSXBPA6r"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/6nmOU90Z6Palq65FEn2mog"
     },
     {
       "album": {
@@ -1330,7 +1438,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 121585,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
@@ -1438,7 +1546,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 212781,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S"
@@ -1546,7 +1654,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 195624,
       "name": "Season's Greetings",
       "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
@@ -1733,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "The Christmas I Fell For You",
+        "url": "https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184303,
+      "name": "The Christmas I Fell For You",
+      "url": "https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej"
+    },
+    {
+      "album": {
         "name": "It's Christmas Jazz Time",
         "url": "https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR"
       },
@@ -1787,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/2NUdN3lW2hk36jWM29TV3f"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153739,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/1q2XwPvKpt7ujJ9LoC1cbo"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
@@ -1802,6 +1946,24 @@
       "duration_ms": 150694,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
+      },
+      "artists": [
+        {
+          "name": "Plethora Trio",
+          "url": "https://open.spotify.com/artist/2H3fT1t2R1w5U2wjfUIFh2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117756,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
     },
     {
       "album": {
@@ -1942,7 +2104,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 206552,
       "name": "The Ultimate Gift",
       "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
@@ -1964,6 +2126,24 @@
       "duration_ms": 151345,
       "name": "The Winter Song",
       "url": "https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/0LZXy3bTmkeN0Y631Mk3oy"
+      },
+      "artists": [
+        {
+          "name": "Dean St. Trio",
+          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203008,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/2wECVlvwseHtgUOoTVROVm"
     },
     {
       "album": {
@@ -2068,7 +2248,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 186139,
       "name": "Under My Christmas Tree",
       "url": "https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf"
@@ -2126,6 +2306,42 @@
       "duration_ms": 188865,
       "name": "We Three Kings (Jazz Version)",
       "url": "https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc"
+    },
+    {
+      "album": {
+        "name": "We Wish You a Merry Christmas",
+        "url": "https://open.spotify.com/album/7q3eVyorarJ5tAyevuMesk"
+      },
+      "artists": [
+        {
+          "name": "The Corner Booth Trio",
+          "url": "https://open.spotify.com/artist/6ALUb9jkrDpLSnIeDLBSax"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166281,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/7B8SS0aj4uWcJwohbYVLyt"
+    },
+    {
+      "album": {
+        "name": "What Are You Doing New Years Eve",
+        "url": "https://open.spotify.com/album/4ZeUwxj3422C87PXMN8ajR"
+      },
+      "artists": [
+        {
+          "name": "Piccadilly Blue Trio",
+          "url": "https://open.spotify.com/artist/1UoHg0FjzkJ585vQq9NkT3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120427,
+      "name": "What Are You Doing New Years Eve",
+      "url": "https://open.spotify.com/track/5jRbKBFU3v3taMeS7UZ3h2"
     },
     {
       "album": {
@@ -2230,7 +2446,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 210682,
       "name": "Where Are You Christmas",
       "url": "https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F"
@@ -2342,6 +2558,24 @@
       "duration_ms": 139000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN"
+      },
+      "artists": [
+        {
+          "name": "Meadow Park",
+          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173934,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde"
     },
     {
       "album": {

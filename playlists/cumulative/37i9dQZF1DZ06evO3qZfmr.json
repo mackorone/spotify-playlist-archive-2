@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "You for Me (Smoky Mountain Demo)",
+        "url": "https://open.spotify.com/album/0ApKQYf6MjrLI4WN5Wf7iY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198675,
+      "name": "You for Me - Smoky Mountain Demo",
+      "url": "https://open.spotify.com/track/4dxPIzzrYDqrfAlaiCFaVI"
+    },
+    {
+      "album": {
         "name": "You Had To Be There (feat. Kenny Chesney)",
         "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
       },

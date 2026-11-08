@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 236971,
+  "num_followers": 236982,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAN6UrQlwIFTEmnDYhcxetL",
+  "snapshot_id": "au0YgAAAAACPwNoxljzrDkeW/AbXCh4G",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
@@ -459,34 +459,6 @@
       "duration_ms": 299066,
       "name": "Love Makin' Music",
       "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pavarotti - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
-      },
-      "artists": [
-        {
-          "name": "Peter Sterling Radcliffe",
-          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
-        },
-        {
-          "name": "Tony Sepe",
-          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
-      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {
       "added_at": null,
@@ -519,6 +491,34 @@
       "duration_ms": 344600,
       "name": "Anything You Want Me To",
       "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pavarotti - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
+      },
+      "artists": [
+        {
+          "name": "Peter Sterling Radcliffe",
+          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
+        },
+        {
+          "name": "Tony Sepe",
+          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
+      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {
       "added_at": null,

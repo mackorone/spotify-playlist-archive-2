@@ -1,6 +1,6 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1220528,
+  "num_followers": 1220671,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
         "name": "LA CITA FRESITA 2",
         "url": "https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 175023,
       "name": "LA CITA FRESITA 2",
       "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "La Pelea De Mi Vida",
-        "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "La Pelea De Mi Vida",
-      "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "La Pelea De Mi Vida",
+        "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "La Pelea De Mi Vida",
+      "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
         "name": "En Vivo Desde Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1931,6 +1931,22 @@
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170469,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1951,22 +1967,6 @@
       "duration_ms": 188586,
       "name": "Amor Secreto - En Vivo",
       "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170469,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "La Primera Piedra",
-        "url": "https://open.spotify.com/album/3fdzL4QQa5aHsFf3mnn5d6"
-      },
-      "artists": [
-        {
-          "name": "Don Zares",
-          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Como Conf\u00eda Un Ciego",
-      "url": "https://open.spotify.com/track/4sEqvZIBIqyHrtYAqOCj1y"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Voy Llegando A Tu Ciudad",
         "url": "https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 145813,
       "name": "Voy Llegando A Tu Ciudad",
       "url": "https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "La Primera Piedra",
+        "url": "https://open.spotify.com/album/3fdzL4QQa5aHsFf3mnn5d6"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Como Conf\u00eda Un Ciego",
+      "url": "https://open.spotify.com/track/4sEqvZIBIqyHrtYAqOCj1y"
     },
     {
       "added_at": "2026-10-16 06:35:29",

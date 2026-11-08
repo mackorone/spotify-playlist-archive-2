@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Tender Lie](https://open.spotify.com/track/2UsA7EMI1zxd7ABNEFzin0) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/4T3OCwCaD9eP2MlsI152kz) | 4:21 | 2026-04-22 |  |
+| [A Tender Lie](https://open.spotify.com/track/2UsA7EMI1zxd7ABNEFzin0) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/4T3OCwCaD9eP2MlsI152kz) | 4:21 | 2026-04-22 | 2026-11-08 |
 | [A Tender Lie](https://open.spotify.com/track/01jqak2GWNeXgYfqzibrvr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Train](https://open.spotify.com/album/1nzZhYtbe8GFuZewHrba0h) | 4:23 | 2022-11-22 | 2022-11-24 |
 | [A Woman Needs A Good Man](https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:19 | 2022-05-25 | 2026-08-27 |
 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 | 2022-05-25 | 2025-02-28 |
@@ -109,7 +109,7 @@
 | [Shades of Green](https://open.spotify.com/track/3otLXwCQzIHqLxxoHKTXiJ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:23 | 2026-10-06 | 2026-10-10 |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:46 | 2022-05-25 |  |
 | [Standing Up For Love](https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:39 | 2023-05-02 | 2026-11-01 |
-| [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 | 2026-10-05 |
+| [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 |  |
 | [Starlight](https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:43 | 2025-03-09 | 2026-10-11 |
 | [Strategy](https://open.spotify.com/track/7JxDelauco6wQBtPHh4nWM) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Strategy: Our Tribute to Philadelphia](https://open.spotify.com/album/6UGp2YJFRY7iqtzbkPKNGs) | 4:24 | 2023-12-31 | 2024-01-02 |
 | [Streets](https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Delta](https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL) | 3:23 | 2023-09-02 | 2024-12-23 |

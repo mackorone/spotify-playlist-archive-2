@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
-  "num_followers": 20168,
+  "num_followers": 20217,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "KYKY2BONDY",
+        "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "KYKY2BONDY",
+      "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 232986,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "KYKY2BONDY",
-        "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "KYKY2BONDY",
-      "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "Yaya (feat. Aya Nakamura)",
-      "url": "https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Pyramide",
         "url": "https://open.spotify.com/album/2vlx06Uuwpy5gOIkgcdu6Y"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/4PWc65kJf7tKzgINh7rQmK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "Yaya (feat. Aya Nakamura)",
+      "url": "https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Aucune attache",
-        "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "Aucune attache",
-      "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "IGBO",
         "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 133852,
       "name": "IGBO",
       "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Aucune attache",
+        "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "Aucune attache",
+      "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "DANS LE DOS",
         "url": "https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 190619,
       "name": "DANS LE DOS",
       "url": "https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Glish",
-        "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Yoyo / Petit coeur",
-      "url": "https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Fire in your Eyes",
         "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Glish",
+        "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Yoyo / Petit coeur",
+      "url": "https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 155973,
       "name": "Pression",
       "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "M\u00c9TAMORPHOSE",
-        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
-      },
-      "artists": [
-        {
-          "name": "SK 07",
-          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
-        },
-        {
-          "name": "d\u00f8pelym",
-          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "MINIMUM (feat. d\u00f8pelym)",
-      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "M\u00c9TAMORPHOSE",
+        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
+      },
+      "artists": [
+        {
+          "name": "SK 07",
+          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "MINIMUM (feat. d\u00f8pelym)",
+      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Lib\u00e9rer Pij",
         "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 134265,
       "name": "Lib\u00e9rer Pij",
       "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "Ololo",
+        "url": "https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR"
+      },
+      "artists": [
+        {
+          "name": "Heaven Sam",
+          "url": "https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Afro Live",
+          "url": "https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx"
+        }
+      ],
+      "duration_ms": 174297,
+      "name": "Ololo",
+      "url": "https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "Yebisa Bango / Bijou",
         "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "Ololo",
-        "url": "https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR"
-      },
-      "artists": [
-        {
-          "name": "Heaven Sam",
-          "url": "https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Afro Live",
-          "url": "https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx"
-        }
-      ],
-      "duration_ms": 174297,
-      "name": "Ololo",
-      "url": "https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Oulala",
         "url": "https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 145250,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
     },
     {
       "added_at": "2026-10-23 00:01:08",

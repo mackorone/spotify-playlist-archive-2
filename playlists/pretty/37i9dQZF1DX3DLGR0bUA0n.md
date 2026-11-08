@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,095 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,123 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 75 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
 | 76 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
 | 77 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
-| 78 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
-| 79 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
+| 78 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
+| 79 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
 | 80 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
 | 81 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 82 | [Mi Gusto Es \- En vivo](https://open.spotify.com/track/6DDRf6VXjE3u1vyAifmwTL) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Mi Gusto Es \(En vivo\)](https://open.spotify.com/album/2NLQqrzTiHA5B07CrOaNoM) | 3:11 |
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 118 | [Prueba De Fuego \(En Vivo\)](https://open.spotify.com/track/0iCEhc2I1mlVIbRSA1Cif8) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 3:21 |
 | 119 | [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 |
 | 120 | [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 |
-| 121 | [Recordando A Mi Pueblo](https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Recordando A Mi Pueblo](https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R) | 4:55 |
+| 121 | [El Oro Verde](https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Oro Verde](https://open.spotify.com/album/4WKy8eNXEaCNI6UCWaOtaa) | 5:02 |
 | 122 | [No Volvere](https://open.spotify.com/track/0D0ji05klGhTc63FeyXDsU) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [No Volvere](https://open.spotify.com/album/74ALNbkjAkpXDuuOERdVAV) | 2:56 |
 | 123 | [Yo Ya Sabía Pa'Dónde Iba \(En Vivo\)](https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:49 |
 | 124 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |

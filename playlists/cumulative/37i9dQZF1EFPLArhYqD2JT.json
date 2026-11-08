@@ -3040,10 +3040,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 157000,
       "name": "Happy Holiday / The Holiday Season",
       "url": "https://open.spotify.com/track/1Wf14bTyb6UeKojy8ykPYm"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161356,
+      "name": "Happy Holiday / The Holiday Season",
+      "url": "https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp"
     },
     {
       "album": {
@@ -5738,7 +5756,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -7522,7 +7540,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 149160,
       "name": "Out of Nowhere",
       "url": "https://open.spotify.com/track/6LHStXTTda3lmiUNGoTI4O"
@@ -8736,7 +8754,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 163066,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/4RMpSLXLvoi2RkcrHDkDpi"
@@ -11208,7 +11226,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 157546,
       "name": "When My Baby Smiles",
       "url": "https://open.spotify.com/track/4LssPLlvQzHWrfDysjl1XU"

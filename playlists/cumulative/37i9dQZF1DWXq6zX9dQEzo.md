@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,046 songs - 2 day 1 hr 16 min
+1,047 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [LOVE WONT FADE](https://open.spotify.com/track/1HJTUmCxZbn1AvfcdIafzA) | [Josh P](https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ) | [LOVE WONT FADE](https://open.spotify.com/album/3nYFuVyWSDtl4mZ4gcJ92T) | 2:10 | 2025-07-18 | 2026-11-07 |
 | [Loyal Til The End \(feat\. Jon Keith\)](https://open.spotify.com/track/0XDdbGVWoomccMBmkkkPs9) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:02 | 2022-02-04 | 2023-08-12 |
 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 | 2022-12-16 | 2023-08-12 |
+| [MAD HOUSE II](https://open.spotify.com/track/4dnHhGEfdmPDIrkImja3WG) | [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [MAD HOUSE II](https://open.spotify.com/album/0rjA4PvLIVR0sFW0cxnOmk) | 2:57 | 2026-11-06 |  |
 | [Main](https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Main](https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M) | 2:48 | 2024-06-07 | 2024-07-06 |
 | [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-04-30 | 2023-11-03 |
 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 | 2024-01-12 | 2024-01-29 |
@@ -739,7 +740,7 @@
 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 | 2022-02-04 | 2023-08-12 |
 | [Put In Work](https://open.spotify.com/track/3MH8gfffyoRSnfDgRWQp0B) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [Put In Work](https://open.spotify.com/album/14cR0VONpHLfohI4WJJC0l) | 2:08 | 2026-08-07 |  |
 | [Put The Work In \(feat\. Kyle Jefferson\)](https://open.spotify.com/track/7zgbIsgv1Lz0S08pmyzlAn) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Kyle Jefferson](https://open.spotify.com/artist/4ZLWNml6mmKxWI54PASG1s) | [Put The Work In \(feat\. Kyle Jefferson\)](https://open.spotify.com/album/2U88Q6ZrWHbzVzrJOpT33W) | 2:26 | 2022-04-30 | 2022-07-29 |
-| [R U READY?](https://open.spotify.com/track/2ZshKa5yKsFna7WsBqiGoD) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BURKS](https://open.spotify.com/artist/3xSb1IsvobiCiuhtKokzqr) | [TRILLMATIKK](https://open.spotify.com/album/1oy4EUcgstj42dmQI0mrEC) | 3:21 | 2025-07-18 |  |
+| [R U READY?](https://open.spotify.com/track/2ZshKa5yKsFna7WsBqiGoD) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BURKS](https://open.spotify.com/artist/3xSb1IsvobiCiuhtKokzqr) | [TRILLMATIKK](https://open.spotify.com/album/1oy4EUcgstj42dmQI0mrEC) | 3:21 | 2025-07-18 | 2026-11-08 |
 | [RAIN ON ME](https://open.spotify.com/track/2MYo9BI8aO2884Y0GrgLj3) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [RAIN ON ME](https://open.spotify.com/album/2Hi63v931OtIxnPAxXUXOJ) | 2:12 | 2025-05-09 | 2025-08-08 |
 | [Ram in the Bush](https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ram in the Bush](https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn) | 2:28 | 2022-05-28 | 2024-01-13 |
 | [Rap Like A Girl](https://open.spotify.com/track/2VYlRh24iPOF43M8iCq8of) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Rap Like A Girl](https://open.spotify.com/album/1IKErIZIef73ccqKw2Qi2p) | 3:28 | 2026-08-07 | 2026-11-07 |

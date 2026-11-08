@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-547 songs - 1 day 1 hr 49 min
+548 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 | 2026-01-29 |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 | 2026-04-04 |
 | [Lotus River Dawn](https://open.spotify.com/track/2V6Ld2fLYbY2MSk3fC1JjX) | [Jade Spirit](https://open.spotify.com/artist/3KNtyFOfcME4NLV6WoPDz6) | [Lotus River Dawn](https://open.spotify.com/album/7oI44hno2Aez1v7PUEGP7s) | 2:20 | 2026-07-03 | 2026-11-04 |
-| [Lugnmark](https://open.spotify.com/track/3D8eTXUenAC9V3vXT4N266) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Lugnmark](https://open.spotify.com/album/5qTfQkJlXVbS8JHVRTyYW1) | 2:58 | 2026-11-03 |  |
+| [Lugnmark](https://open.spotify.com/track/3D8eTXUenAC9V3vXT4N266) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Lugnmark](https://open.spotify.com/album/5qTfQkJlXVbS8JHVRTyYW1) | 2:58 | 2026-11-03 | 2026-11-08 |
 | [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-04-03 | 2026-09-22 |
 | [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2026-08-19 |  |
 | [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 | 2026-08-19 |  |
@@ -417,6 +417,7 @@
 | [Serenity River](https://open.spotify.com/track/02GCbTA03HQoXq38ZZPA5a) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Serenity River](https://open.spotify.com/album/5K83tHQlzJmdUKWzZfI5bd) | 3:09 | 2026-07-03 |  |
 | [serulian](https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [serulian](https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p) | 2:07 | 2024-07-19 | 2026-04-04 |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2023-04-28 | 2024-10-02 |
+| [Silent Arc](https://open.spotify.com/track/1dVLNeYYgJk8NFlT2vYWIT) | [Silent Glade](https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr) | [Silent Arc](https://open.spotify.com/album/58rz9nO3T4M8uGzV2CKPPJ) | 2:29 | 2026-11-03 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2023-04-28 | 2025-05-22 |
 | [Silverhollow](https://open.spotify.com/track/0mJzBt2BjTqbzTHqQhqyHf) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Silverhollow](https://open.spotify.com/album/1S69O9i42zGrY1orv8I8c9) | 3:02 | 2026-02-23 | 2026-08-30 |
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 | 2024-10-02 |

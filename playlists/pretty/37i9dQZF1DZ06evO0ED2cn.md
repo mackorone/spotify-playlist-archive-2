@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,811 likes - 28 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 28 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 | 19 | [Ohayou, Mata Ashita](https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 4:55 |
 | 20 | [Genius...!?](https://open.spotify.com/track/6kj8eDhov1Li8gCwIyHRG9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:29 |
 | 21 | [Fude Pen \- Ball Pen \- \- Ep\. 23 "Ho\-Kago!" Mix](https://open.spotify.com/track/7dvTrftVGUgKlQyhxgdtW9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:25 |
-| 22 | [Our Magic](https://open.spotify.com/track/0gu4p4NA29AzwbH1m23xsg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 4:11 |
+| 22 | [Our MAGIC](https://open.spotify.com/track/4DciuSUF1bihdDilux3vrl) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!!](https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8) | 4:11 |
 | 23 | [天使にふれたよ!\(映画「けいおん!」Mix\)](https://open.spotify.com/track/5CPv0D79Fp8xLQ4CVyU0mM) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 4:39 |
 | 24 | [Cagayake!GIRLS\(ライブイベント \~レッツゴー!\~Ver.\)](https://open.spotify.com/track/0Pgn8dkm4HdQz71MaklXW3) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [『けいおん! ライブイベント \~レッツゴー!\~』LIVE!\(通常盤\)](https://open.spotify.com/album/0bVKgzWqiDlGUAmFNpZMkH) | 4:12 |
 | 25 | [桜が丘女子高等学校校歌\[Rock Ver.\]](https://open.spotify.com/track/3AjvtfyeaRAsKGxi4fCSTj) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [ぴゅあぴゅあはーと](https://open.spotify.com/album/2LzFCGMIey8z63tAahxbhO) | 2:57 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 | 27 | [ごはんはおかず\(映画「けいおん!」Mix\)](https://open.spotify.com/track/7I09aPsWkBK4ncYG33iR4D) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 3:55 |
 | 28 | [五月雨20ラブ\(映画「けいおん!」Mix\)](https://open.spotify.com/track/1fXj8tNK06PRelTDhABigF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 4:04 |
 
-Snapshot ID: `auvHAAAAAACiakyEgqo5IhpT2G9yVztD`
+Snapshot ID: `au0YgAAAAABTWCP+zQPD6gIPEJk43TBo`

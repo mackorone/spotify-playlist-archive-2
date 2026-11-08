@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQRB27K/JDScfgkg3+tVGB7Sbv/Uhj",
+  "snapshot_id": "AAAQRqFb2ORR0auYuKdAl8FbuiRYQMgt",
   "tracks": [
     {
       "added_at": "2026-07-23 12:25:41",
@@ -1555,6 +1555,38 @@
       "duration_ms": 205440,
       "name": "Pathological",
       "url": "https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V"
+    },
+    {
+      "added_at": "2026-11-07 14:12:56",
+      "album": {
+        "name": "New Earth",
+        "url": "https://open.spotify.com/album/3k8N0sZrWStJ1wV0x0lwcQ"
+      },
+      "artists": [
+        {
+          "name": "Pacific Sunsets",
+          "url": "https://open.spotify.com/artist/7gm630ZR1NLY8fFD52XjIZ"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/1fZGj47vPETglpLgbdmOt9"
+    },
+    {
+      "added_at": "2026-11-07 14:13:04",
+      "album": {
+        "name": "Goodbye Nordhamn",
+        "url": "https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t"
+      },
+      "artists": [
+        {
+          "name": "NE\u00d8V",
+          "url": "https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h"
+        }
+      ],
+      "duration_ms": 274573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

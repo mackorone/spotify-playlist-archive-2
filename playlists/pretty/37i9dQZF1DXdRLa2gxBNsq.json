@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium con Soziedad Alkoholika.",
-  "num_followers": 117700,
+  "num_followers": 117715,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -683,18 +683,22 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Todos Amigos",
-        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
+        "name": "Guiri Style",
+        "url": "https://open.spotify.com/album/2w1urFWsbcPc7tFDGnJzTj"
       },
       "artists": [
         {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+          "name": "Punk Sailor",
+          "url": "https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B"
+        },
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
         }
       ],
-      "duration_ms": 207265,
-      "name": "Disp\u00e1rame",
-      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
+      "duration_ms": 174500,
+      "name": "Guiri Style",
+      "url": "https://open.spotify.com/track/2hGuIIsnQyAWc1GzEUVMmG"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -715,22 +719,18 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Guiri Style",
-        "url": "https://open.spotify.com/album/2w1urFWsbcPc7tFDGnJzTj"
+        "name": "Todos Amigos",
+        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
       },
       "artists": [
         {
-          "name": "Punk Sailor",
-          "url": "https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B"
-        },
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
         }
       ],
-      "duration_ms": 174500,
-      "name": "Guiri Style",
-      "url": "https://open.spotify.com/track/2hGuIIsnQyAWc1GzEUVMmG"
+      "duration_ms": 207265,
+      "name": "Disp\u00e1rame",
+      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "ANTIFASCISTA",
-        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 273052,
-      "name": "ANTIFASCISTA",
-      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
-    },
-    {
-      "added_at": "2026-10-29 23:01:13",
-      "album": {
         "name": "Molestar",
         "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
@@ -951,18 +935,34 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Tortilla Espanhola F\u00f3ra da Galiza",
-        "url": "https://open.spotify.com/album/201BDWhQhmH5F5CZhYSBFR"
+        "name": "ANTIFASCISTA",
+        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
       },
       "artists": [
         {
-          "name": "Plad\u00fcr",
-          "url": "https://open.spotify.com/artist/1iVenylfhTbxWr9Qj60RrD"
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
         }
       ],
-      "duration_ms": 178908,
-      "name": "Tortilla Espanhola Fora da Galiza",
-      "url": "https://open.spotify.com/track/62ktLHwa7prvmIormhUrTO"
+      "duration_ms": 273052,
+      "name": "ANTIFASCISTA",
+      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:13",
+      "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+        "name": "Tortilla Espanhola F\u00f3ra da Galiza",
+        "url": "https://open.spotify.com/album/201BDWhQhmH5F5CZhYSBFR"
       },
       "artists": [
         {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+          "name": "Plad\u00fcr",
+          "url": "https://open.spotify.com/artist/1iVenylfhTbxWr9Qj60RrD"
         }
       ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+      "duration_ms": 178908,
+      "name": "Tortilla Espanhola Fora da Galiza",
+      "url": "https://open.spotify.com/track/62ktLHwa7prvmIormhUrTO"
     },
     {
       "added_at": "2026-10-29 23:01:13",

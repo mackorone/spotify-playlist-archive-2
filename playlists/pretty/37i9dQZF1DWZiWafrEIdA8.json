@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15797,
+  "num_followers": 15805,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Martini Blue",
-      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "Like A Film : 4 Songs",
         "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 242999,
       "name": "Let's Not Love Each Other",
       "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Martini Blue",
+      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 177342,
-      "name": "Text Me",
-      "url": "https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 177342,
+      "name": "Text Me",
+      "url": "https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 195375,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Life is Wet",
-        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Life is Wet",
-      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 224526,
       "name": "GONE",
       "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Life is Wet",
+        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Life is Wet",
+      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
+        "name": "2 Little Bites From [Fatal Album \u2162]",
+        "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Eul (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 244584,
       "name": "Black Happiness",
       "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "2 Little Bites From [Fatal Album \u2162]",
-        "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Eul (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
     },
     {
       "added_at": "2026-10-08 07:16:06",

@@ -5984,10 +5984,32 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 139494,
       "name": "BALETY",
       "url": "https://open.spotify.com/track/3hXqPp1CMHwOTZyRWtfpjF"
+    },
+    {
+      "album": {
+        "name": "BALETY",
+        "url": "https://open.spotify.com/album/04V4qULYxIFa5iowfJzuD3"
+      },
+      "artists": [
+        {
+          "name": "Stynu",
+          "url": "https://open.spotify.com/artist/6KY73fFjopIHnVBJq8x6ug"
+        },
+        {
+          "name": "Sycha",
+          "url": "https://open.spotify.com/artist/17ZfvXqNZ4gW3DvPQPzvs8"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "BALETY",
+      "url": "https://open.spotify.com/track/0QbCtq2xX2nyz5PKC4SAP0"
     },
     {
       "album": {
@@ -6134,7 +6156,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/2eEhzRhKCXmqqsc405M2Oc"
@@ -8876,7 +8898,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 200444,
       "name": "bravo!",
       "url": "https://open.spotify.com/track/7DQQNQcoB91fAn1yKQaXsH"
@@ -11596,6 +11618,28 @@
       "duration_ms": 243057,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
+    },
+    {
+      "album": {
+        "name": "Chwila zapomnienia",
+        "url": "https://open.spotify.com/album/4RDSIFT3whDQjMvzOgbZBQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Chwila zapomnienia",
+      "url": "https://open.spotify.com/track/20CGzZk4p1bmcWF27GMa2A"
     },
     {
       "album": {
@@ -15624,7 +15668,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/6JK4DeLPHmdpwP8uuKeu4r"
@@ -30408,7 +30452,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 154285,
       "name": "Kto ile jest wart",
       "url": "https://open.spotify.com/track/3NKQYiu4UQpCd45N85B1ds"
@@ -31642,7 +31686,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 144899,
       "name": "LEC\u0104 WI\u00d3RY",
       "url": "https://open.spotify.com/track/6GkkHUGLIcOHlDZa7xLLgz"
@@ -32560,7 +32604,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -45071,6 +45115,32 @@
     },
     {
       "album": {
+        "name": "Narkopop Wave 3",
+        "url": "https://open.spotify.com/album/3fjX3HVRS3STYXyj7iJz6i"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "DR AP",
+          "url": "https://open.spotify.com/artist/56rV2ZDDY5WgfWom8lkIPu"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176828,
+      "name": "Paragony grozy",
+      "url": "https://open.spotify.com/track/5CcPa59snGH96ap1pAyfYr"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/1JMUTCafIMR1CBljcpwyte"
       },
@@ -48364,7 +48434,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 92273,
       "name": "Powiedz To",
       "url": "https://open.spotify.com/track/5yiFrvo6ivcgyVamCQ6nmy"
@@ -61192,7 +61262,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Ty masz",
       "url": "https://open.spotify.com/track/2eEI1sKFOiOez0cAp29PiE"

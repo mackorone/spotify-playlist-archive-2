@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: CC:DISCO!
 
-1,171 songs - 3 day 12 hr 33 min
+1,172 songs - 3 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1135,7 +1135,7 @@
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2023-06-02 |
 | [When I’m With U](https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [All Nyte](https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz) | 4:10 | 2023-01-12 | 2023-03-03 |
 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 | 2023-01-12 | 2023-05-12 |
-| [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 | 2025-05-22 |  |
+| [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 | 2025-05-22 | 2026-11-08 |
 | [Whispering](https://open.spotify.com/track/6HdgO8F81kPNjhk9O5ic1F) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [Whispering](https://open.spotify.com/album/5ImXv8MXMUQxjWZzVL4WIZ) | 4:40 | 2023-03-16 | 2023-05-12 |
 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 | 2025-10-16 | 2026-07-17 |
 | [Who I Am](https://open.spotify.com/track/5o0wpcuSRIkz43Hq6C10j1) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Bubbledance](https://open.spotify.com/album/29hl2y4GClVz3ROaGrOl2E) | 5:02 | 2025-06-26 | 2025-10-13 |
@@ -1171,6 +1171,7 @@
 | [Youngtimer](https://open.spotify.com/track/0UxbtBnGvWgfVZCviFwZoP) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [The Ride](https://open.spotify.com/album/0R0DXjlqw3lSu33q5KqnMe) | 3:25 | 2023-07-13 | 2023-08-18 |
 | [your love](https://open.spotify.com/track/7K0R5OMwc67eVaUaCQHgGc) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [your love](https://open.spotify.com/album/56qMYhgBqi8UH4fiMbLf68) | 5:18 | 2023-06-29 | 2023-07-28 |
 | [Your Love](https://open.spotify.com/track/3lBKeGFrV9zZRnGzNklsGF) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Nights With U](https://open.spotify.com/album/0ouJBSCfT1l3rQk1zzclHh) | 3:56 | 2023-09-07 | 2023-11-10 |
+| [Your Shadow at Morning \- Four Tet Rework](https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Your Shadow at Morning \(Four Tet Rework\)](https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS) | 9:37 | 2026-11-05 |  |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2025-10-13 | 2026-07-17 |
 | [ZiBe](https://open.spotify.com/track/301qhmwwY9iv2oqcnCdznn) | [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 3:15 | 2023-11-16 | 2024-04-17 |
 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 | 2023-09-21 | 2024-03-01 |

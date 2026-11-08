@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -6168,7 +6168,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 134769,
       "name": "CAPPUCCINO",
       "url": "https://open.spotify.com/track/6xEzlmoC3xDE3ZSpOxp7Sk"
@@ -17302,7 +17302,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 134885,
       "name": "J\u00d3ZANOK",
       "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
@@ -23406,6 +23406,28 @@
       "duration_ms": 153818,
       "name": "Need U - Puha",
       "url": "https://open.spotify.com/track/2jWn2D8Xs7gmmDU0valnfO"
+    },
+    {
+      "album": {
+        "name": "Nefelejcs",
+        "url": "https://open.spotify.com/album/6EwvNzE1N39yGFD0wSJBCE"
+      },
+      "artists": [
+        {
+          "name": "\u00c0b\u00e1se",
+          "url": "https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179232,
+      "name": "Nefelejcs / R\u00e1csok",
+      "url": "https://open.spotify.com/track/22wfOcveqE7rpUO7igPgql"
     },
     {
       "album": {
@@ -32201,6 +32223,24 @@
     },
     {
       "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
+    },
+    {
+      "album": {
         "name": "PP2",
         "url": "https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT"
       },
@@ -33168,7 +33208,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 141789,
       "name": "TAKE YOUR TIME",
       "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"

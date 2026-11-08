@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,786 songs - 6 day 18 hr 5 min
+2,788 songs - 6 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,6 +1057,7 @@
 | [I Am](https://open.spotify.com/track/5FRgx1KZYq5AUsebojppwz) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 3:47 | 2025-05-02 |  |
 | [I Am A Rootsman](https://open.spotify.com/track/0JVL82YBRO8I0qyUgLdKlN) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [I Am A Rootsman](https://open.spotify.com/album/07Qo8ZIa2tFvdjSkCF7kFk) | 3:49 | 2024-03-10 |  |
 | [I Am the Tempest](https://open.spotify.com/track/6PX60n5AwnmPQXyQUXV1jp) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [I Am the Tempest](https://open.spotify.com/album/6Ykcf3VcJGJCR8b8wdo5ra) | 3:07 | 2025-10-02 |  |
+| [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 | 2026-11-07 |  |
 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 | 2024-03-04 |  |
 | [I can't see you](https://open.spotify.com/track/7Ge9fUZ5A0gPqFuYsmzDl8) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [I can't see you](https://open.spotify.com/album/1wrCnbKhxtcRToXpKl4ynY) | 3:47 | 2025-08-12 |  |
 | [i can't sleep](https://open.spotify.com/track/3WzKqRIzaD7BK6EjfaGYwy) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [i can't sleep](https://open.spotify.com/album/6LEBp205JfQYMjf2q0pGKC) | 1:16 | 2026-10-02 |  |
@@ -1070,6 +1071,7 @@
 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 | 2026-02-25 |  |
 | [I Give Dub](https://open.spotify.com/track/5AJoJjZ68estf4SdiyZrbU) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:24 | 2024-05-04 |  |
 | [I Give Thanks](https://open.spotify.com/track/5LC2MZaTdya5mdosw6L8ID) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Aza Lineage](https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:23 | 2024-03-10 |  |
+| [I Hate That I Like The Chase](https://open.spotify.com/track/2k5KCAysWqUDzYXVHB4VXm) | [Arden Bird](https://open.spotify.com/artist/4l9k8pAHsXspm1CE2d30RT) | [I Hate That I Like The Chase](https://open.spotify.com/album/3YX8NVwvGn4wok9eZ5KG2q) | 3:40 | 2026-11-07 |  |
 | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/track/3Go5cJCWjciTk9LkkCnmcy) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/album/7tJiiukjKAdM1UXJC3OBdH) | 2:47 | 2026-06-25 |  |
 | [i like](https://open.spotify.com/track/792ZMfAwnQqs21At57bmNZ) | [Bilby](https://open.spotify.com/artist/5SfKV3PXtJU29wkLvQt8tN) | [Heavy Fines, Loss Of Licence](https://open.spotify.com/album/1HKkzVbN3N6ScKjmXkA8P2) | 1:37 | 2025-01-13 |  |
 | [I Looked Everywhere](https://open.spotify.com/track/22M0EXBxCgecKH6JYhIIUj) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I Looked Everywhere](https://open.spotify.com/album/7av5Ltu1K5UEHhHzDcBOqq) | 3:45 | 2026-06-26 |  |

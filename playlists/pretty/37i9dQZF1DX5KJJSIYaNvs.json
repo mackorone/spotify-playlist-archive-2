@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Nikhita Gandhi",
-  "num_followers": 110663,
+  "num_followers": 110685,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,30 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
+        "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/7fmBRUhfRUJAXWOiTCIXXf"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sonia Kapoor Reshammiya",
+          "url": "https://open.spotify.com/artist/5vvJy2gxIOIdbiMvM8lj7F"
+        }
+      ],
+      "duration_ms": 286582,
+      "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
         "name": "Omkara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CdkDorcfkSaGbnjUsz884"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 350160,
       "name": "Beedi",
       "url": "https://open.spotify.com/track/2YMM8URWpyGIrT0sKBLtD3"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
-        "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-        "url": "https://open.spotify.com/album/7fmBRUhfRUJAXWOiTCIXXf"
-      },
-      "artists": [
-        {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Sonia Kapoor Reshammiya",
-          "url": "https://open.spotify.com/artist/5vvJy2gxIOIdbiMvM8lj7F"
-        }
-      ],
-      "duration_ms": 286582,
-      "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
-      "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "LAAVAN",
-        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Mofusion",
-          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
-        }
-      ],
-      "duration_ms": 185046,
-      "name": "LAAVAN",
-      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 271586,
       "name": "Hungamaa Ho Gaya",
       "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -803,30 +803,6 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Musafir Cafe (Songs from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mishra",
-          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
-        },
-        {
-          "name": "Neel Adhikari",
-          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
-        },
-        {
-          "name": "Amrita Saluja",
-          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "Rozaana",
-      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
         "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
         "url": "https://open.spotify.com/album/0HPQ8RL4AJoN4Amh7qjYSm"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 266676,
       "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
       "url": "https://open.spotify.com/track/1DZUbTP8Y7eLtA470BTBht"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
+        "name": "Musafir Cafe (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Neel Adhikari",
+          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "Rozaana",
+      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -911,26 +911,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Jalwa E Jaanaan (Maati S2)",
-        "url": "https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd"
+        "name": "Raanjha Ve",
+        "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
       },
       "artists": [
         {
-          "name": "Anurag Saikia",
-          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
         },
         {
-          "name": "Jyoti Nooran",
-          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
         },
         {
-          "name": "Shakeel Azmi",
-          "url": "https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl"
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
         }
       ],
-      "duration_ms": 252587,
-      "name": "Jalwa E Jaanaan - Maati S2",
-      "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
+      "duration_ms": 173043,
+      "name": "Raanjha Ve",
+      "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -971,26 +971,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Raanjha Ve",
-        "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
+        "name": "Jalwa E Jaanaan (Maati S2)",
+        "url": "https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd"
       },
       "artists": [
         {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
         },
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
         },
         {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+          "name": "Shakeel Azmi",
+          "url": "https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl"
         }
       ],
-      "duration_ms": 173043,
-      "name": "Raanjha Ve",
-      "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
+      "duration_ms": 252587,
+      "name": "Jalwa E Jaanaan - Maati S2",
+      "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1039,26 +1039,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9"
+        "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
+        "url": "https://open.spotify.com/album/6cymyHiuW740FNY167iqBU"
       },
       "artists": [
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         },
         {
           "name": "Amit Trivedi",
           "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         },
         {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
-      "duration_ms": 313283,
-      "name": "Voh Tere Mere Ishq Ka",
-      "url": "https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs"
+      "duration_ms": 178954,
+      "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
+      "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1095,26 +1095,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
-        "url": "https://open.spotify.com/album/6cymyHiuW740FNY167iqBU"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9"
       },
       "artists": [
         {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
           "name": "Amit Trivedi",
           "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         },
         {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
         }
       ],
-      "duration_ms": 178954,
-      "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
-      "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
+      "duration_ms": 313283,
+      "name": "Voh Tere Mere Ishq Ka",
+      "url": "https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Phir Aur Kya Chahiye - Asees Version",
-        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Phir Aur Kya Chahiye - Asees Version",
-      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 165818,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
+        "name": "Phir Aur Kya Chahiye - Asees Version",
+        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Phir Aur Kya Chahiye - Asees Version",
+      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Toxic (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 171547,
-      "name": "Chingariyaan - From \"Toxic\"",
-      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 164571,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
+        "name": "Toxic (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 171547,
+      "name": "Chingariyaan - From \"Toxic\"",
+      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1495,26 +1495,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
+        "name": "Door Na Jaa",
+        "url": "https://open.spotify.com/album/4BiQNijobwbEsm3Etd8gLx"
       },
       "artists": [
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
         },
         {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
         },
         {
-          "name": "Aamil Keeyan Khan",
-          "url": "https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF"
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
         }
       ],
-      "duration_ms": 252621,
-      "name": "Daastaan - The Drishyam Recap",
-      "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
+      "duration_ms": 166200,
+      "name": "Door Na Jaa",
+      "url": "https://open.spotify.com/track/0p2No1Mu4v3YIlJo0oIuMF"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1535,6 +1535,30 @@
       "duration_ms": 174545,
       "name": "Jiya Mora",
       "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
+        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Aamil Keeyan Khan",
+          "url": "https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF"
+        }
+      ],
+      "duration_ms": 252621,
+      "name": "Daastaan - The Drishyam Recap",
+      "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
     },
     {
       "added_at": "2026-11-04 05:52:59",
@@ -1635,30 +1659,6 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Door Na Jaa",
-        "url": "https://open.spotify.com/album/4BiQNijobwbEsm3Etd8gLx"
-      },
-      "artists": [
-        {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
-        },
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Door Na Jaa",
-      "url": "https://open.spotify.com/track/0p2No1Mu4v3YIlJo0oIuMF"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
         "name": "Leta Jaijo Re | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
       },
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
+        "name": "Vaari Vaari - Acoustic",
+        "url": "https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        }
+      ],
+      "duration_ms": 202557,
+      "name": "Vaari Vaari - Acoustic",
+      "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
+    },
+    {
+      "added_at": "2026-11-04 05:52:59",
+      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -1719,50 +1739,18 @@
     {
       "added_at": "2026-11-04 05:52:59",
       "album": {
-        "name": "Vaari Vaari - Acoustic",
-        "url": "https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi"
+        "name": "O Re Sawariya (From \"Laagi Chhoote Na\")",
+        "url": "https://open.spotify.com/album/1JzvpWAB9CyyixNsgoAEvn"
       },
       "artists": [
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
         }
       ],
-      "duration_ms": 202557,
-      "name": "Vaari Vaari - Acoustic",
-      "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
-    },
-    {
-      "added_at": "2026-11-04 05:52:59",
-      "album": {
-        "name": "Call Me Bae (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        },
-        {
-          "name": "Mudit Chaturvedi",
-          "url": "https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9"
-        },
-        {
-          "name": "Suvarna Tiwari",
-          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Churaaiyaan - From \"Call Me Bae\"",
-      "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
+      "duration_ms": 194171,
+      "name": "O Re Sawariya (From \"Laagi Chhoote Na\")",
+      "url": "https://open.spotify.com/track/6PhXG9hkBKkZ1zQQFJkt5l"
     }
   ],
   "unique_name": "EQUAL India",

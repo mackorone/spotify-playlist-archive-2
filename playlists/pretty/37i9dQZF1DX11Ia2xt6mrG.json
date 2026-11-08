@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75185,
+  "num_followers": 75192,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "All I See",
         "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 276585,
       "name": "All I See",
       "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1671,30 +1671,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "TUCU",
         "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
       },
@@ -1731,6 +1707,30 @@
       "duration_ms": 142677,
       "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
       "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-10-23 06:00:41",

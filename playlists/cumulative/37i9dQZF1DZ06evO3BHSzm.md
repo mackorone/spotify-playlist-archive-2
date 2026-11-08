@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-148 songs - 9 hr 59 min
+149 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Helpless Dancer](https://open.spotify.com/track/6uIgXI1UPcHBmv377ZANgD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:33 | 2023-12-20 | 2024-11-03 |
 | [Helpless Dancer](https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:33 | 2022-11-22 | 2026-02-21 |
 | [Hero Ground Zero \- Live At Wembley, UK / 2019](https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:50 | 2023-04-05 | 2023-08-26 |
+| [How Many Friends \- 2026 Remaster](https://open.spotify.com/track/0dw3E4XU4wu7EHCflODGAj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 4:08 | 2026-11-08 |  |
 | [However Much I Booze](https://open.spotify.com/track/70DORJ8hj35Zy6yQPV76jo) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 5:03 | 2025-08-23 | 2025-10-12 |
 | [However Much I Booze \- Alternate Pete Vocal / Early Mix](https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 5:36 | 2026-11-02 |  |
 | [I Am The Sea](https://open.spotify.com/track/0f0DUjcrkg9Vi4Eg0abLPi) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:09 | 2025-11-17 | 2025-12-04 |
@@ -81,7 +82,7 @@
 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/03eY6eU7XvvZ61ahRoWeeU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:33 | 2023-06-22 | 2023-12-25 |
 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Imagine A Man \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq) | 4:33 | 2023-03-04 | 2023-06-17 |
 | [Imagine A Man \- Pete Vocal / Early Mix](https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Imagine A Man \(Pete Vocal / Early Mix\)](https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz) | 4:07 | 2026-09-04 |  |
-| [In A Hand Or A Face \- 2026 Remaster](https://open.spotify.com/track/5beVLpFsMeM3Lc1zBGS3eb) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 3:26 | 2026-11-07 |  |
+| [In A Hand Or A Face \- 2026 Remaster](https://open.spotify.com/track/5beVLpFsMeM3Lc1zBGS3eb) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 3:26 | 2026-11-07 | 2026-11-08 |
 | [Is It In My Head?](https://open.spotify.com/track/3y3phapKU02pwqoAhEUIzU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:43 | 2024-04-13 | 2024-04-19 |
 | [Is It In My Head?](https://open.spotify.com/track/5XSKoePK44z8EbM736fY57) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:43 | 2022-12-03 | 2026-03-14 |
 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 | 2022-09-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Didi B x Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,423 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,559 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 25 | [SENTIMENTS](https://open.spotify.com/track/69c047hFRsd6uFND548cfD) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [SENTIMENTS](https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1) | 2:19 |
 | 26 | [So Badd](https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [So Badd](https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6) | 2:29 |
 | 27 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
-| 28 | [AFFECTION](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
+| 28 | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
 | 29 | [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 |
 | 30 | [Coachella](https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Coachella](https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2) | 3:07 |
 | 31 | [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 |

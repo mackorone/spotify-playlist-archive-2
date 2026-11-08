@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Like Roses
 
-659 songs - 1 day 9 hr 16 min
+660 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-14 | 2024-11-19 |
 | [And Still the Mick Foley of Pop Punk](https://open.spotify.com/track/2CcYws7objfy7y0Q8zJyTY) | [Forever Came Calling](https://open.spotify.com/artist/3LqgxOMfONGBf034jekl9H) | [And Still the Mick Foley of Pop Punk](https://open.spotify.com/album/4YSmANLNasWsKY1S50fBfS) | 3:00 | 2026-10-23 |  |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-10 | 2024-02-06 |
-| [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2) | 3:42 | 2026-06-05 |  |
+| [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2) | 3:42 | 2026-06-05 | 2026-11-08 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-19 | 2026-07-18 |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-15 | 2026-02-21 |
 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 | 2023-10-19 | 2024-06-15 |
@@ -583,6 +583,7 @@
 | [The End](https://open.spotify.com/track/0ZesMib2ggF1jXaMM7SNlW) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [The End](https://open.spotify.com/album/7Il4x3D2vjVHtNaZKJKgbN) | 3:50 | 2022-08-18 | 2022-10-07 |
 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 | 2022-08-18 | 2023-02-10 |
 | [The Opposite of Luck](https://open.spotify.com/track/56fk5nFh3D3XPX9QzQaPHh) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [The Opposite of Luck](https://open.spotify.com/album/4G770FQ0qYG6aoBUcYF2dh) | 2:37 | 2026-10-23 |  |
+| [The Preacher](https://open.spotify.com/track/25Qkn1Kz6aEIdtSw09zVfp) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [The Preacher](https://open.spotify.com/album/2YyhwLGGvX6MS21ACX7jCL) | 2:55 | 2026-10-23 |  |
 | [The Rock Show](https://open.spotify.com/track/44ChFEM79BVYEXhDN2UQkH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Rock Show](https://open.spotify.com/album/5oej3v6X1KNDzd1b8P4zDZ) | 2:57 | 2025-02-21 | 2025-05-16 |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-15 | 2024-11-19 |
 | [The Weight](https://open.spotify.com/track/6CmXwYhKm1kO4W4yAbFlYm) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [The Weight](https://open.spotify.com/album/46E3II1W1u8hhSLqIthYpK) | 3:46 | 2025-05-15 | 2025-06-17 |

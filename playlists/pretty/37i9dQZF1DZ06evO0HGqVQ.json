@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32565,
+  "num_followers": 32567,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAAArbUB3hAFdC4znZc5C0Ls/",
+  "snapshot_id": "au0YgAAAAACYMawxWS3Rt1BMohG74BOG",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300982,
-      "name": "Me Matar\u00e1 El Sentimiento",
-      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+      "duration_ms": 205493,
+      "name": "Despues de Ti",
+      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Despues de Ti",
-      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
+      "duration_ms": 300982,
+      "name": "Me Matar\u00e1 El Sentimiento",
+      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
     },
     {
       "added_at": null,

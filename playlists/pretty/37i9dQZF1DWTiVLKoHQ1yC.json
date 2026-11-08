@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 264920,
+  "num_followers": 264960,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Spirit Bird",
-      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Spirit Bird",
+      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 276956,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
         "name": "set me free",
         "url": "https://open.spotify.com/album/2nuFBHPKFRwmVeegVGZKlH"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 202204,
       "name": "set me free - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/7DGDV7TCZyxnRQv1uxH4en"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 276956,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s"
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ"
       },
       "artists": [
         {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 234461,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1"
+      "duration_ms": 222857,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"
     }
   ],
   "unique_name": "Melodic & Euphoric",

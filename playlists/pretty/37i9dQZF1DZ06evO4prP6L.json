@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 18329,
+  "num_followers": 18330,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACd3loKRiuzHrPq/SnSxfUO",
+  "snapshot_id": "au0YgAAAAABCVdojzOyiDjYz+cKXvdIx",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Scrubbashin' - Remastered 2017",
-      "url": "https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 240834,
       "name": "Outback Club Reunion",
       "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Scrubbashin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 171523,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 171523,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Country",
         "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 178053,
       "name": "I Milk Cows - Remastered 2017",
       "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "Keep on Truckin'",
+      "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Keep on Truckin'",
-      "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Bush (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Mate - Remastered 2017",
-      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189093,
       "name": "Back in 92",
       "url": "https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Bush (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Mate - Remastered 2017",
+      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
     },
     {
       "added_at": null,

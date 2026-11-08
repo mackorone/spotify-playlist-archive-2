@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 408741,
+  "num_followers": 408766,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
+        "name": "Embrasse Moi Idiot",
+        "url": "https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z"
+      },
+      "artists": [
+        {
+          "name": "Bill Baxter",
+          "url": "https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Embrasse moi idiot - .",
+      "url": "https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
         "name": "Tropique",
         "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 327293,
       "name": "En l'an 2001",
       "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
-        "name": "Embrasse Moi Idiot",
-        "url": "https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z"
-      },
-      "artists": [
-        {
-          "name": "Bill Baxter",
-          "url": "https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Embrasse moi idiot - .",
-      "url": "https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ"
     },
     {
       "added_at": "2026-09-09 09:05:27",

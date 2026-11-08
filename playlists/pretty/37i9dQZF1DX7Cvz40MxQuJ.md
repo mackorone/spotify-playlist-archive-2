@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,436 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,514 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 3 | [Sinfonia \(3\-Part Invention\) No\. 11 in G Minor, BWV 797 \(Transcr\. for Harp\)](https://open.spotify.com/track/6NKrz1n8qHb2a2ZrKnzBCb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [J.S\. Bach: Sinfonia \(3\-Part Invention\) No\. 11 in G Minor, BWV 797 \(Transcr\. for Harp\)](https://open.spotify.com/album/08DQSCK8terstaXdLw9Z9y) | 2:14 |
 | 4 | [Dido and Aeneas, Z\. 626: Dido's Lament \(Arr\. Huws for Harp\)](https://open.spotify.com/track/1idIMWMeJfxvk0Awer2MMG) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [The Fate of the Broken Hearted](https://open.spotify.com/album/55xI9pc1fCKsols9VFW7re) | 2:51 |
 | 5 | [Emerald and Stone](https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Emerald and Stone](https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5) | 2:15 |
-| 6 | [Over the Stone: IV\. Crossing the Stone](https://open.spotify.com/track/5yC2sG5JzmslSvpba82ixJ) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Crossing the Stone](https://open.spotify.com/album/3BgV8IdbhEKFeitGfUcNVm) | 4:17 |
+| 6 | [Over the Stone: IV\. Crossing the Stone](https://open.spotify.com/track/5yC2sG5JzmslSvpba82ixJ) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Crossing the Stone](https://open.spotify.com/album/3BgV8IdbhEKFeitGfUcNVm) | 4:17 |
 | 7 | [Dawn \(Arr\. Webb for Harp\) \- From "Pride and Prejudice"](https://open.spotify.com/track/3ggawwYXbbJBfQwvf5NpDb) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Dawn \(Arr\. Webb for Harp\) \[From "Pride and Prejudice"\]](https://open.spotify.com/album/0EF7j3XXP8ZR6NMYQkdRW4) | 3:23 |
 | 8 | [Scarborough Fair \(Arr\. Parkin for Cello and Guitar\)](https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 3:14 |
 | 9 | [What If](https://open.spotify.com/track/7Fg3NUgJZSix6zoIBSczq8) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [What If](https://open.spotify.com/album/6GazCEgM8IKurGYNW3NqI4) | 2:45 |

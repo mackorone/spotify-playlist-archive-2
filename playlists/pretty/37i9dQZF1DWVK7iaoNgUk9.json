@@ -1,6 +1,6 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora",
-  "num_followers": 497997,
+  "num_followers": 497937,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 196938,
+      "name": "Love You Goodbye",
+      "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 196938,
-      "name": "Love You Goodbye",
-      "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2025-11-28 20:38:53",
@@ -615,22 +631,6 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2025-11-28 20:38:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
-        "name": "DEPOIS DO UNIVERSO",
-        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "DEPOIS DO UNIVERSO",
-      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
         "name": "Senhas",
         "url": "https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 190429,
       "name": "Don't Watch Me Cry",
       "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
+        "name": "DEPOIS DO UNIVERSO",
+        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "DEPOIS DO UNIVERSO",
+      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2025-11-28 20:38:53",

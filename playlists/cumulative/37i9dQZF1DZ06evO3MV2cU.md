@@ -4,7 +4,7 @@
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-102 songs - 7 hr 38 min
+103 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Help My Unbelief](https://open.spotify.com/track/79tB8hF1jpBOZUNwvryRJt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 3:29 | 2025-10-12 | 2025-11-20 |
 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 | 2026-02-11 |  |
 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 | 2024-05-24 | 2025-10-05 |
-| [Here I Am To Worship \- Live](https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:51 | 2026-11-06 |  |
+| [Here I Am To Worship \- Live](https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:51 | 2026-11-06 | 2026-11-08 |
 | [Holiness](https://open.spotify.com/track/1J6nIylU20VOwGpBsacTOU) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Dear Jesus](https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr) | 3:20 | 2026-02-14 | 2026-04-07 |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2024-05-24 |  |
 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 | 2024-06-23 | 2024-07-21 |
@@ -98,6 +98,7 @@
 | [The Answer](https://open.spotify.com/track/5WKEKguT5QbGZG7Klh1Ccd) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 3:35 | 2024-07-07 | 2024-07-08 |
 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 | 2024-05-24 |  |
 | [The First Hymn](https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [The First Hymn](https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq) | 4:11 | 2025-04-21 | 2025-06-21 |
+| [The Manger To The Cross](https://open.spotify.com/track/2DpJlLdB1erhcqBSePsNKh) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good News Of Great Joy \(Christmas Songs Of Worship\)](https://open.spotify.com/album/5K7Q4HBRv7qvhMSiskJ2B6) | 3:46 | 2026-11-08 |  |
 | [This Is Amazing Grace](https://open.spotify.com/track/0Kl1Ui8Jk8yOiS454rTCUG) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 6:39 | 2024-06-19 | 2024-07-11 |
 | [This Is Our God / Obsession \- Medley](https://open.spotify.com/track/21VV721AM5T1qoYbZyJf3i) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 7:30 | 2024-05-25 |  |
 | [Waiting Here For You / Holy Forever \- Live](https://open.spotify.com/track/3slxGS6r3Ou2ZAIF8kiiys) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Captivate Us \(Live From Keeper's Branch\)](https://open.spotify.com/album/0zxzPQFa4Fx4gd4AZJVYZ6) | 9:04 | 2024-06-25 | 2024-06-26 |

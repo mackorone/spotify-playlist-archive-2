@@ -4,7 +4,7 @@
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-10,829 songs - 23 day 2 hr 55 min
+10,830 songs - 23 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7709,6 +7709,7 @@
 | [Sana Sevgimi Sen De Dahil Tüm Sevgililerim Duydu](https://open.spotify.com/track/4IH5ZkSaE8qbHRwAt6XRgU) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Sana Sevgimi Sen De Dahil Tüm Sevgililerim Duydu](https://open.spotify.com/album/3pJ3iWnlE9XLrjqfJ6LmEG) | 3:48 | 2026-06-18 | 2026-06-26 |
 | [sana söyledim](https://open.spotify.com/track/62c1TUiUQSVrWR492nSvyh) | [aslı](https://open.spotify.com/artist/0c6PVCYwCrVOW87YxACtIX) | [sana söyledim](https://open.spotify.com/album/3gkvRAeH0YI1XqfDXulElb) | 2:52 | 2026-08-27 | 2026-09-04 |
 | [Sana Sığındım](https://open.spotify.com/track/1Nebdo2InYRGbVgFgEHHHi) | [Debatu](https://open.spotify.com/artist/6FtLbMGEvEukZ47cB6RdYo) | [Sana Sığındım](https://open.spotify.com/album/45fRmfn0rISQ3q498gdQTK) | 3:12 | 2025-08-14 | 2025-08-22 |
+| [Sana Sığındım Allah'ım](https://open.spotify.com/track/34jW07cW1VgVHlO8BVShU3) | [Savaş Talha](https://open.spotify.com/artist/7GlGKLQWQkybqFmqfYurtq) | [Sana Sığındım Allah'ım](https://open.spotify.com/album/2kvYxvTp7n4Mhq0otHmQws) | 3:29 | 2026-11-05 |  |
 | [Sana Varmalı](https://open.spotify.com/track/1gl7MgY6w2IQL8XhojAKqe) | [Mete Karagöz](https://open.spotify.com/artist/2bewE24uhqklM7V3opczzy) | [Sana Varmalı](https://open.spotify.com/album/3ikdKpcMlzi8KsqPyr1Bfu) | 3:34 | 2025-06-26 | 2025-07-04 |
 | [Sana Yanar İçim](https://open.spotify.com/track/6uHwq6MNg4IWSsufE3GAAy) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3) | [Sana Yanar İçim](https://open.spotify.com/album/2bHhCCkAbsGescNpIHO9hU) | 2:27 | 2026-10-29 | 2026-11-06 |
 | [Sana Yandım](https://open.spotify.com/track/0X0wwz50eVsOZaqbtoNRTE) | [Hayat](https://open.spotify.com/artist/6Snj1YTNoXMBkVNLCdXH3R) | [Sana Yandım](https://open.spotify.com/album/2hth5cxNF3y4kxEmxkNaQN) | 2:11 | 2026-07-30 | 2026-08-07 |

@@ -15786,7 +15786,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 185046,
       "name": "LAAVAN",
       "url": "https://open.spotify.com/track/5IMWu5fFXo35nJaB3VLG3E"
@@ -22088,7 +22088,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
@@ -29414,7 +29414,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-08",
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO"
@@ -29470,6 +29470,40 @@
       "duration_ms": 269166,
       "name": "Tu Mil Gaya (From \"Srikanth\")",
       "url": "https://open.spotify.com/track/7c3Y3gfuogFZpwj8ECBIAi"
+    },
+    {
+      "album": {
+        "name": "Tu Mil Jaaye (From \"KING\")",
+        "url": "https://open.spotify.com/album/2tZVL9wbyu3UXw9ctZ36X1"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2026-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Tu Mil Jaaye (From \"KING\")",
+      "url": "https://open.spotify.com/track/2g20aO38HBLIpg6NbCrjE3"
     },
     {
       "album": {

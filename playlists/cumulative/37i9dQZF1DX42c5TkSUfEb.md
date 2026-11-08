@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-553 songs - 1 day 9 hr 29 min
+554 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [safe & sound](https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [safe & sound](https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs) | 4:31 | 2026-04-02 | 2026-05-15 |
 | [Safe & Sound \- from The Hunger Games Soundtrack](https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:00 | 2022-11-25 | 2023-01-28 |
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-01-23 | 2025-03-15 |
+| [Sand Drawing / Shifting Places](https://open.spotify.com/track/1BxEN3X6zkhtxjn6lK2qrl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Judah Earl](https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj) | [Sand Drawing / Shifting Places](https://open.spotify.com/album/6pLHvVWpf4PZiPwbBuvOXn) | 3:43 | 2026-11-05 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-25 | 2023-09-29 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-20 | 2025-05-09 |
 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-03-27 | 2024-12-10 |
@@ -504,7 +505,7 @@
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-12 | 2023-07-05 |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-23 | 2025-02-28 |
 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 | 2025-08-14 | 2025-10-18 |
-| [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 | 2026-09-17 |  |
+| [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 | 2026-09-17 | 2026-11-08 |
 | [tired eyes](https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [tired eyes](https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW) | 3:41 | 2026-09-04 | 2026-11-06 |
 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 | 2022-11-25 | 2023-11-17 |
 | [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2022-11-25 | 2023-01-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 509661,
+  "num_followers": 509748,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACiJuDfTC4aZD4MpdQEAEjN",
+  "snapshot_id": "au0YgAAAAADb5N6gg0XtWNDHS5TK4r1t",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 194573,
-      "name": "Juicebox",
-      "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
+      "duration_ms": 208133,
+      "name": "Razorblade",
+      "url": "https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Razorblade",
-      "url": "https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI"
+      "duration_ms": 194573,
+      "name": "Juicebox",
+      "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Gratisfaction",
+      "url": "https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Singles - Volume 01",
         "url": "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 218417,
       "name": "Modern Girls & Old Fashion Men - Reptilia B-Side",
       "url": "https://open.spotify.com/track/5hNW46qZA7BcZ2qf6lbhNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Gratisfaction",
-      "url": "https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9"
     },
     {
       "added_at": null,

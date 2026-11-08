@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,149 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 31 | [Mother and Child Reunion](https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Best Of The Intruders: Cowboys To Girls](https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3) | 4:04 |
 | 32 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 |
 | 33 | [GoodNight](https://open.spotify.com/track/6TH07eiStWBXtn396kktlz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [GoodNight](https://open.spotify.com/album/0PNXBWW0CKIG9OjEzsAE83) | 2:25 |
-| 34 | [Traveling Home](https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 3:26 |
-| 35 | [I’ve Got Love For You](https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’ve Got Love For You](https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur) | 2:16 |
+| 34 | [I’ve Got Love For You](https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’ve Got Love For You](https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur) | 2:16 |
+| 35 | [Traveling Home](https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 3:26 |
 | 36 | [Rainy Days and Mondays](https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 6:35 |
 | 37 | [Gloria](https://open.spotify.com/track/6xEWhEh8eoVNo5JzdFMM9S) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Gloria](https://open.spotify.com/album/7IOlKDdCtch6JM95zTkacv) | 2:29 |
-| 38 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
-| 39 | [Give Her a Transplant](https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Gamble Records All\-Stars](https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl) | 2:49 |
-| 40 | [Just To Be](https://open.spotify.com/track/1W8GisAMHL4pGRtGfYZXgL) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Just To Be](https://open.spotify.com/album/0YAszlcLKCOWKIE2lee84V) | 2:19 |
+| 38 | [Just To Be](https://open.spotify.com/track/1W8GisAMHL4pGRtGfYZXgL) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Just To Be](https://open.spotify.com/album/0YAszlcLKCOWKIE2lee84V) | 2:19 |
+| 39 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
+| 40 | [Give Her a Transplant](https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Gamble Records All\-Stars](https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl) | 2:49 |
 | 41 | [This is my song](https://open.spotify.com/track/1wzgrrdlW28uQAr5s5rCtV) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [This is my song](https://open.spotify.com/album/1WAQLZA5LNz5nHfLEbUanT) | 3:00 |
-| 42 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 43 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
-| 44 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 45 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
-| 46 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
-| 47 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 |
+| 42 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
+| 43 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
+| 44 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
+| 45 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 |
+| 46 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
+| 47 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
 | 48 | [I’m Sold on You](https://open.spotify.com/track/7lGyHxdp14qdveB9CSuGUx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Sold on You](https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5) | 2:03 |
 | 49 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
 | 50 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 |
 
-Snapshot ID: `aup1gAAAAADGAzD0I7UKUlKyrohI96ED`
+Snapshot ID: `au0YgAAAAABbqZhuU4wpnjPVLm9MuJKe`

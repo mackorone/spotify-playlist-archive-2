@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 628673,
+  "num_followers": 628632,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 165946,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 165946,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2026-02-06 18:20:07",

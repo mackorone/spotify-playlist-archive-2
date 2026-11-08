@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 63 songs - 4 hr 41 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 63 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 54 | [Dreiton](https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:17 |
 | 55 | [The Hand](https://open.spotify.com/track/177hzTEEFC7GTHOrfoUuSj) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/43fX9uwaRmoPEKbMzMMuav) | 3:10 |
 | 56 | [The Curtain Falls](https://open.spotify.com/track/5ygEf1YXtiS2OzOdnOeNjR) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of Just In Time](https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG) | [The Curtain Falls](https://open.spotify.com/album/28vxoiUBRMBcybqeNgrFeb) | 3:11 |
-| 57 | [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 |
-| 58 | [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 |
-| 59 | [Taswell](https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:35 |
-| 60 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 |
-| 61 | [Will I](https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ) | [Aaron Lohr](https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR), [Wayne Wilcox](https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 2:46 |
-| 62 | [Distraction](https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:22 |
-| 63 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 |
+| 57 | [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 |
+| 58 | [Taswell](https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:35 |
+| 59 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 |
+| 60 | [Will I](https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ) | [Aaron Lohr](https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR), [Wayne Wilcox](https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 2:46 |
+| 61 | [Distraction](https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:22 |
+| 62 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 |
+| 63 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 
-Snapshot ID: `AAAHPtxTqIMhk5GpygB6VJL985Vzi+Nk`
+Snapshot ID: `AAAHQKMYa9FNmU4u9LDOW0z7q133RR9X`

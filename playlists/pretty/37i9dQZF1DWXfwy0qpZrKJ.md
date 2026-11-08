@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 
 > Yes, the Judas video is the most important music video of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,458 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,567 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 | 29 | [Crucified](https://open.spotify.com/track/6fXzdWgyZhDeLmlzC7Mvco) | [Army Of Lovers](https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt) | [Massive Luxury Overdose](https://open.spotify.com/album/5glF3lGmuuYIHVeEVNUyyq) | 3:34 |
 | 30 | [Sacrifice](https://open.spotify.com/track/4TkOmsqghDjxsHAJXQGfjG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/51Bncrm3j4u2FVPsGVvA30) | 2:47 |
 | 31 | [Don’t Call Me Angel \(Charlie’s Angels\)](https://open.spotify.com/track/5c7wN896xtmp7agPECraaI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Don’t Call Me Angel \(Charlie’s Angels\)](https://open.spotify.com/album/0MsEy5MHbacgpAr0MZdQHw) | 3:52 |
-| 32 | [Coconuts](https://open.spotify.com/track/6pdbWCyKYyiAnHuo8ZsYa9) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7AHXHQBTir9LM5BugG1ku5) | 2:47 |
+| 32 | [Coconuts \- Dance Performance Video](https://open.spotify.com/track/6pdbWCyKYyiAnHuo8ZsYa9) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts \(Dance Performance Video\)](https://open.spotify.com/album/7AHXHQBTir9LM5BugG1ku5) | 2:47 |
 | 33 | [Physical](https://open.spotify.com/track/4ieIpNdaMOkZ6nn5ZaVIo8) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical](https://open.spotify.com/album/43UN9nGA5Foe1EY4xYvrvl) | 3:41 |
 | 34 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 35 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36432,
+  "num_followers": 36434,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAASJ/llD/GCK+g2ZFEB3HZG",
+  "snapshot_id": "au0YgAAAAADmI9ml6ySnns762B7rJOwz",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 140538,
-      "name": "Went Legit (Bonus)",
-      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanna Be Free (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5IM3tOYcuK8pEiYpf2JuK7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 349936,
       "name": "Wanna Be Free (feat. G Herbo)",
       "url": "https://open.spotify.com/track/52blwVMCkXvyyNAEW0JGv9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 140538,
+      "name": "Went Legit (Bonus)",
+      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Storm: Sorry 4 The Rain",
-        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 156015,
-      "name": "Clippers (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 226463,
       "name": "CODE OF HONOR",
       "url": "https://open.spotify.com/track/63bPfrifq9QfGYoBhATx6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Storm: Sorry 4 The Rain",
+        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156015,
+      "name": "Clippers (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang",
-      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Drench Gang",
+      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
     },
     {
       "added_at": null,
@@ -691,38 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thug",
-        "url": "https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 145388,
-      "name": "Thug",
-      "url": "https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173405,
-      "name": "Win Again",
-      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Childhood Trauma",
         "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
       },
@@ -743,22 +711,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weight On Me: The Album",
-        "url": "https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb"
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
       "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 148440,
-      "name": "Ventilator (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3"
+      "duration_ms": 173405,
+      "name": "Win Again",
+      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thug",
+        "url": "https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 145388,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weight On Me: The Album",
+        "url": "https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Ventilator (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feet On Land",
         "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 219788,
       "name": "In The Air (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
