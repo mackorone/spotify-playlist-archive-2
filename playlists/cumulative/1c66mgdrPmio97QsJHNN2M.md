@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,201 songs - 7 day 0 hr 10 min
+3,203 songs - 7 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [FEAR](https://open.spotify.com/track/1gmOiCiceqxigZuTBszAtB) | [Asha real](https://open.spotify.com/artist/50oMaKHvatcBrQGzx6VYr9) | [FEAR](https://open.spotify.com/album/3BKOF59nSuwY4A5xoHFI1B) | 2:47 | 2026-06-11 | 2026-07-13 |
 | [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 | 2026-08-10 | 2026-09-11 |
 | [Feel](https://open.spotify.com/track/6o3QRx0QAHHHJjkR0iQKML) | [Cosmic Gateway](https://open.spotify.com/artist/2aHlUpGxgVuwGzls9HcAgk) | [Feel](https://open.spotify.com/album/358ZCNSdPDqxzBW3kK0zsk) | 3:22 | 2025-10-24 | 2025-11-26 |
+| [feel alive](https://open.spotify.com/track/6yW7SK5KQp0GpCpQ8fVqmZ) | [LM](https://open.spotify.com/artist/177oYrdsoCqvmDRtOpz9aR), [SABBA Φ](https://open.spotify.com/artist/1iVleUXGSerJFDN3LiM92k) | [feel alive](https://open.spotify.com/album/4xxMpFg98DmoyR9ghD6OZk) | 2:34 | 2026-11-08 |  |
 | [Feel Free](https://open.spotify.com/track/7m5LgNXFSbHxPFp3ziBzrh) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n) | [Feel Free](https://open.spotify.com/album/6uhjQgbvoWiZQI8U9sfHtx) | 3:41 | 2026-07-24 | 2026-08-25 |
 | [Feel it](https://open.spotify.com/track/403Hd34XjskxXYOMZD3GHo) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Feel it](https://open.spotify.com/album/6elXwkvgyvwIjnApsO4k8v) | 2:56 | 2026-08-25 | 2026-09-26 |
 | [FEEL IT.](https://open.spotify.com/track/5NInd08CyKOcwhu6OUg3TD) | [camo.](https://open.spotify.com/artist/4x1dQGuSlN5JHV07jGQiPS) | [FEEL IT.](https://open.spotify.com/album/4MOm7kP16MNYgIsybN9lk0) | 2:47 | 2026-02-10 | 2026-03-14 |
@@ -1256,6 +1257,7 @@
 | [I Decide](https://open.spotify.com/track/743dIJEYnaA7A4qLgdmdNt) | [Mila Rose](https://open.spotify.com/artist/3pMpKhDqqnNx6UCbAOwOhp) | [I Decide](https://open.spotify.com/album/1txIRDkTgVcxr1pSJFVQvu) | 3:10 | 2025-12-10 | 2026-01-15 |
 | [I Don't Care](https://open.spotify.com/track/0Z8QGT9qviYx2Q0AUqzkEL) | [Tifa BTK](https://open.spotify.com/artist/6ydx0uLrdd2cOpmUisre7j) | [I Don't Care](https://open.spotify.com/album/4JG1nUpg4RJ5eY3Gr854Gv) | 2:48 | 2026-04-10 | 2026-05-12 |
 | [I Don't Give a \*\*\*](https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj) | [MrRay](https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit) | [I Don't Give a \*\*\*](https://open.spotify.com/album/6IDixiFGLEOnWPUkrJZ2Sj) | 4:05 | 2026-05-21 | 2026-06-23 |
+| [I Don't Give It to Anyone](https://open.spotify.com/track/1E6fgzKi8kDYaopHM5xCuo) | [Belarussische Nemesis](https://open.spotify.com/artist/5nxRg1RR7NWteTLSIHzQQR) | [You Came for the Jam](https://open.spotify.com/album/4nw2ZRqxfoQKEgUOfBDipA) | 3:20 | 2026-11-08 |  |
 | [I Don't Know](https://open.spotify.com/track/6tP6OG9FDD9WgAfNLttPoA) | [ARIA](https://open.spotify.com/artist/6RB7SGb8IwhFmtyb7XTwmt) | [I Don't Know](https://open.spotify.com/album/1VFlfFdzrolaD5PamsgJWD) | 2:34 | 2026-08-16 | 2026-09-17 |
 | [I Don't Know](https://open.spotify.com/track/500vjL5dNJ0sd5aqoYp1X0) | [Brett Voss](https://open.spotify.com/artist/7uYDz1D3Lra99N6WMKesCg) | [I Don't Know](https://open.spotify.com/album/0jojpXIrMbUcUsYKgFvHnm) | 2:46 | 2026-10-27 |  |
 | [I Don't Know How To Rest](https://open.spotify.com/track/5pbwM03L3giFMzdIS4fYkW) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [I Don't Know How To Rest](https://open.spotify.com/album/7gGogvXhz8DqIfNfm23rnw) | 3:29 | 2026-07-11 | 2026-08-12 |

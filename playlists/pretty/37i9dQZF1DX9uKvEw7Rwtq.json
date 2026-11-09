@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 129105,
+  "num_followers": 129136,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "The Second Coming Was a Moonrise",
-        "url": "https://open.spotify.com/album/3zOh4n2WhCxwwDkuET0i4G"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 442386,
-      "name": "The Second Coming Was a Moonrise",
-      "url": "https://open.spotify.com/track/7IE5JeGJPetjc67VHnsWXz"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 160465,
       "name": "Goodbye Sierra",
       "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "The Second Coming Was a Moonrise",
+        "url": "https://open.spotify.com/album/3zOh4n2WhCxwwDkuET0i4G"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 442386,
+      "name": "The Second Coming Was a Moonrise",
+      "url": "https://open.spotify.com/track/7IE5JeGJPetjc67VHnsWXz"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 209115,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Drifting Ever Shifting",
         "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 308666,
       "name": "Stairwell",
       "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Dusk/Dawn",
-        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Tear Trails",
-      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Love is a Shelter",
         "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Dusk/Dawn",
+        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Tear Trails",
+      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
         }
       ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
-      },
-      "artists": [
-        {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "The Last Mile",
+        "url": "https://open.spotify.com/album/0GhDClgSYa2wGGhDb2bkSF"
+      },
+      "artists": [
+        {
+          "name": "Tommi Arimo Ahonen",
+          "url": "https://open.spotify.com/artist/17I17BG9BVVwPsDILH5rkL"
+        }
+      ],
+      "duration_ms": 150129,
+      "name": "The Last Mile",
+      "url": "https://open.spotify.com/track/2yelkinCXd64Uoy70jnwQT"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Blowback",
         "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "The Last Mile",
-        "url": "https://open.spotify.com/album/0GhDClgSYa2wGGhDb2bkSF"
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
       "artists": [
         {
-          "name": "Tommi Arimo Ahonen",
-          "url": "https://open.spotify.com/artist/17I17BG9BVVwPsDILH5rkL"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 150129,
-      "name": "The Last Mile",
-      "url": "https://open.spotify.com/track/2yelkinCXd64Uoy70jnwQT"
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1143,22 +1159,6 @@
       "duration_ms": 141428,
       "name": "Sakura In Blossom",
       "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
-      },
-      "artists": [
-        {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
+      },
+      "artists": [
+        {
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
       "artists": [
         {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
         }
       ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
       "artists": [
         {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "you are now listening to a tender spring",
         "url": "https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "asystole",
+          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 157755,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1399,38 +1415,6 @@
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "growing up",
-        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
-      },
-      "artists": [
-        {
-          "name": "asystole",
-          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
-        }
-      ],
-      "duration_ms": 157755,
-      "name": "growing up",
-      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1463,6 +1447,22 @@
       "duration_ms": 258510,
       "name": "Water Temple",
       "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",

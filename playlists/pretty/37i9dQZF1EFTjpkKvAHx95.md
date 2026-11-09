@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,140 likes - 182 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 182 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 90 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
 | 91 | [Irresponsible](https://open.spotify.com/track/3zJIvDeV6LBrlYYWFh8Amu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:11 |
 | 92 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/6wXDDAl8ZgZainRC5hH6O9) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:46 |
-| 93 | [tangerine](https://open.spotify.com/track/29UH4IWs5HAe8pqhdFj8H3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:59 |
-| 94 | [Back It Up](https://open.spotify.com/track/40UkLDbc5LAw5kmBZGXReV) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:15 |
-| 95 | [WATCH ME](https://open.spotify.com/track/77uAqjyh3R6haTQMvhT1o6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [FIRESTARTER](https://open.spotify.com/album/1trz2cTNpf94R6DdHciSbS) | 3:02 |
+| 93 | [WATCH ME](https://open.spotify.com/track/77uAqjyh3R6haTQMvhT1o6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [FIRESTARTER](https://open.spotify.com/album/1trz2cTNpf94R6DdHciSbS) | 3:02 |
+| 94 | [tangerine](https://open.spotify.com/track/29UH4IWs5HAe8pqhdFj8H3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:59 |
+| 95 | [Back It Up](https://open.spotify.com/track/40UkLDbc5LAw5kmBZGXReV) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:15 |
 | 96 | [How It Feels](https://open.spotify.com/track/74styyfb7QzIjIvxeyNylh) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [TrapStar Turnt PopStar](https://open.spotify.com/album/3TaYhEM7MtqukeISKBV2cx) | 3:16 |
 | 97 | [Finesse](https://open.spotify.com/track/7ifz6wYLdZ1ujxzXSnBTvd) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:53 |
 | 98 | [Lucked Up](https://open.spotify.com/track/3GyWtlwu7lVRR50staX9MZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 3:40 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 181 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 182 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AchEOAAAAABUS/q8J3cT+YDJaYtov7dB`
+Snapshot ID: `AchJ2AAAAAA6XYs+mDJRjGr7S0qBrDcc`

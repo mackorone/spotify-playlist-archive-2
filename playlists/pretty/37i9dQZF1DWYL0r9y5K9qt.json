@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: HANA",
-  "num_followers": 622856,
+  "num_followers": 622829,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-11-06 01:15:05",
       "album": {
+        "name": "Looks Can Kill (Alawn Remix Edition)",
+        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
+    },
+    {
+      "added_at": "2026-11-06 01:15:05",
+      "album": {
         "name": "FLAMES",
         "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 169546,
       "name": "BURNING UP",
       "url": "https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q"
-    },
-    {
-      "added_at": "2026-11-06 01:15:05",
-      "album": {
-        "name": "Looks Can Kill (Alawn Remix Edition)",
-        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195559,
-      "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
     }
   ],
   "unique_name": "poses",

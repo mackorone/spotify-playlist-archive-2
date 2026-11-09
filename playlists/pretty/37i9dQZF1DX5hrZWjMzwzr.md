@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,609 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,610 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 16 | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX) | [GOMBAO 33](https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wyguś](https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ), [Tadeo](https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb), [Szczepan](https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7) | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk) | 2:44 |
 | 17 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 |
 | 18 | [Hit 'Em Up](https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Hit 'Em Up](https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ) | 4:10 |
-| 19 | [Mini Man](https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [Zwolnij?](https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y) | 2:28 |
-| 20 | [Nie bój się bać](https://open.spotify.com/track/2ABVSOvhp1IgaWoCi26sD0) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [EX UMBRA AD LIBERTATEM](https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q) | 3:35 |
+| 19 | [Nie bój się bać](https://open.spotify.com/track/2ABVSOvhp1IgaWoCi26sD0) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [EX UMBRA AD LIBERTATEM](https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q) | 3:35 |
+| 20 | [Mini Man](https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [Zwolnij?](https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y) | 2:28 |
 | 21 | [BIERZ TO NA WOLNO](https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [BIERZ TO NA WOLNO](https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK) | 3:33 |
 | 22 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
 | 23 | [Różowe Diamenty](https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Różowe Diamenty](https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4) | 2:33 |

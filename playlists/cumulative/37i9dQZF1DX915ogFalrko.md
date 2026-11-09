@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-292 songs - 16 hr 55 min
+293 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 | 2025-09-29 |
 | [Nothing Could Tear Us Apart](https://open.spotify.com/track/3CUS5l2hGWvfEj1USkKgm0) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Nothing Could Tear Us Apart](https://open.spotify.com/album/7ItFzQNMfdkBh4dHKMU23T) | 3:09 | 2026-04-10 | 2026-05-08 |
 | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 | 2026-06-12 |  |
-| [On Reste Là](https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [On Reste Là](https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L) | 3:57 | 2026-07-31 |  |
+| [On Reste Là](https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [On Reste Là](https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L) | 3:57 | 2026-07-31 | 2026-11-09 |
 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 | 2026-07-31 |  |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 | 2026-01-17 |
 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 | 2026-01-16 | 2026-01-31 |
@@ -194,6 +194,7 @@
 | [Peur des filles](https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Peur des filles](https://open.spotify.com/album/1t76mptgTSXtLPWL3Zj4xv) | 3:28 | 2025-07-18 | 2025-08-29 |
 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 | 2026-06-26 |  |
 | [Please Don‘t Feed the Lions](https://open.spotify.com/track/0hUFW01KmgWe4IqYcNcga8) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Please Don‘t Feed the Lions](https://open.spotify.com/album/4u6vUXnCBWaETCfba4FZCX) | 3:55 | 2025-07-18 | 2025-09-13 |
+| [Plume](https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY) | [Simon Mény](https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ) | [Plume](https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7) | 3:17 | 2026-11-05 |  |
 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 | 2026-10-12 |  |
 | [pool party](https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SUBURBIA](https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE) | 2:53 | 2026-07-23 | 2026-09-11 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 | 2026-08-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,350 songs - 3 day 11 hr 20 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,351 songs - 3 day 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1358,5 +1358,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1348 | [traitoR](https://open.spotify.com/track/3EQ6LTNoHOGIWVJjAGkLyD) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 4:48 |
 | 1349 | [Penelope](https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:54 |
 | 1350 | [The Colosseum \(feat\. Mustafa\)](https://open.spotify.com/track/24FP7CozXv36q27fzHKTYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:58 |
+| 1351 | [Dream Fatigue](https://open.spotify.com/track/6NBiQUXz3IRwuNy9X61AuF) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:09 |
 
-Snapshot ID: `AAAKOl4hMjVNO6zQqqfUnSUATXBCB6ni`
+Snapshot ID: `AAAKO6DzgaSHXHH3+3OGicL+s+gPmd+5`

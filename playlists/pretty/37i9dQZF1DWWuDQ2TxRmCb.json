@@ -1,6 +1,6 @@
 {
   "description": "Best of the modern folk artists! Cover- Kabir Cafe",
-  "num_followers": 95951,
+  "num_followers": 95955,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Maari Maavadi",
-        "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Osman Mir",
-          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
-        },
-        {
-          "name": "Aamir Mir",
-          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
-        }
-      ],
-      "duration_ms": 291509,
-      "name": "Maari Maavadi",
-      "url": "https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU"
-    },
-    {
-      "added_at": "2026-08-25 06:40:04",
-      "album": {
         "name": "Sonchadi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 275266,
       "name": "Sonchadi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
+    },
+    {
+      "added_at": "2026-08-25 06:40:04",
+      "album": {
+        "name": "Maari Maavadi",
+        "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        },
+        {
+          "name": "Aamir Mir",
+          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
+        }
+      ],
+      "duration_ms": 291509,
+      "name": "Maari Maavadi",
+      "url": "https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -627,26 +627,18 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Holi Aayi Re | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M"
+        "name": "Matwari",
+        "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Malini Awasthi",
-          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
-        },
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+          "name": "Samahita Narang",
+          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
         }
       ],
-      "duration_ms": 328181,
-      "name": "Holi Aayi Re | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI"
+      "duration_ms": 200000,
+      "name": "Matwari",
+      "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -675,18 +667,26 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Matwari",
-        "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
+        "name": "Holi Aayi Re | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M"
       },
       "artists": [
         {
-          "name": "Samahita Narang",
-          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Malini Awasthi",
+          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Matwari",
-      "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
+      "duration_ms": 328181,
+      "name": "Holi Aayi Re | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
+        "name": "Kabir Cafe Live",
+        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        }
+      ],
+      "duration_ms": 260486,
+      "name": "Ghat Ghat",
+      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
+    },
+    {
+      "added_at": "2026-08-25 06:40:04",
+      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Kabir Cafe Live",
-        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        }
-      ],
-      "duration_ms": 260486,
-      "name": "Ghat Ghat",
-      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
-    },
-    {
-      "added_at": "2026-08-25 06:40:04",
-      "album": {
         "name": "Maniyara",
         "url": "https://open.spotify.com/album/2cXwQQsZFpgbNJQ90hv3VU"
       },
@@ -851,6 +851,26 @@
       "duration_ms": 426813,
       "name": "Moko Kahan",
       "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
+    },
+    {
+      "added_at": "2026-08-25 06:40:04",
+      "album": {
+        "name": "Aisi Mhari Preet (Eternal Love) [Sabr]",
+        "url": "https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        },
+        {
+          "name": "Parthiv Gohil",
+          "url": "https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7"
+        }
+      ],
+      "duration_ms": 332181,
+      "name": "Aisi Mhari Preet (Eternal Love) - Sabr",
+      "url": "https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -895,26 +915,6 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Aisi Mhari Preet (Eternal Love) [Sabr]",
-        "url": "https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        },
-        {
-          "name": "Parthiv Gohil",
-          "url": "https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7"
-        }
-      ],
-      "duration_ms": 332181,
-      "name": "Aisi Mhari Preet (Eternal Love) - Sabr",
-      "url": "https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp"
-    },
-    {
-      "added_at": "2026-08-25 06:40:04",
-      "album": {
         "name": "Mannde Ji Mala",
         "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Bhammariyo",
-        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
-      },
-      "artists": [
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
-        },
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        }
-      ],
-      "duration_ms": 233644,
-      "name": "Bhammariyo",
-      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
-    },
-    {
-      "added_at": "2026-08-25 06:40:04",
-      "album": {
         "name": "Jag Baurana",
         "url": "https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 352048,
       "name": "Jag Baurana",
       "url": "https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT"
+    },
+    {
+      "added_at": "2026-08-25 06:40:04",
+      "album": {
+        "name": "Peele Amiras (Sabr)",
+        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        }
+      ],
+      "duration_ms": 315869,
+      "name": "Peele Amiras - Sabr",
+      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Peele Amiras (Sabr)",
-        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
+        "name": "Bhammariyo",
+        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
       },
       "artists": [
         {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
         },
         {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
         }
       ],
-      "duration_ms": 315869,
-      "name": "Peele Amiras - Sabr",
-      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
+      "duration_ms": 233644,
+      "name": "Bhammariyo",
+      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
     }
   ],
   "unique_name": "Folk in India",

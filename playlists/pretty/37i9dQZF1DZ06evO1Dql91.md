@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,105 likes - 43 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,107 likes - 43 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 28 | [Far Away](https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 2:54 |
 | 29 | [I Don't Feel No Ways Tired](https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:15 |
 | 30 | [Promise Keeper](https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Feels Like Home, Vol\. 1](https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc) | 6:19 |
-| 31 | [Mr\. Pessimistic](https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:54 |
-| 32 | [More Beautiful](https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:20 |
+| 31 | [More Beautiful](https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:20 |
+| 32 | [Mr\. Pessimistic](https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:54 |
 | 33 | [Ride Or Die](https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:53 |
 | 34 | [Don’t You Ever](https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [The Broken Instrument](https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG) | 5:01 |
-| 35 | [Mad Love Remix ft\. Tobe Nwigwe, Rapsody \- Remix](https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:05 |
-| 36 | [His Eye Is On the Sparrow](https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
+| 35 | [Hater's Anthem \- Sped Up](https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem \(Sped Up\)](https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9) | 2:35 |
+| 36 | [Mad Love Remix ft\. Tobe Nwigwe, Rapsody \- Remix](https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:05 |
 | 37 | [When The Rain Starts](https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 5:30 |
-| 38 | [Hater's Anthem \- Sped Up](https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem \(Sped Up\)](https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9) | 2:35 |
-| 39 | [Outside Myself](https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:04 |
-| 40 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 38 | [His Eye Is On the Sparrow](https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
+| 39 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 40 | [Outside Myself](https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:04 |
 | 41 | [Just Loving Me](https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:48 |
 | 42 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 |
 | 43 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 
-Snapshot ID: `aup1gAAAAADCjX3QILlTeBCBoTR5gJ7c`
+Snapshot ID: `au5qAAAAAABD2S/51PZ0WAuS6f5sEnWl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 596 songs - 1 day 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,981 likes - 596 songs - 1 day 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 184 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
 | 185 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
 | 186 | [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4RJUT9qK5UGEIOXs5fe4OE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes, Thrashes & Hits](https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u) | 3:28 |
-| 187 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
-| 188 | [Miss A Thing](https://open.spotify.com/track/29DetDMNVbKCSOC3xy5RFx) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Miss A Thing](https://open.spotify.com/album/68PSnfez6PECnFMVQmjZzh) | 2:34 |
+| 187 | [Miss A Thing](https://open.spotify.com/track/29DetDMNVbKCSOC3xy5RFx) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Miss A Thing](https://open.spotify.com/album/68PSnfez6PECnFMVQmjZzh) | 2:34 |
+| 188 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
 | 189 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
 | 190 | [I Wanna Be The Rain](https://open.spotify.com/track/7wJ7sAORSN759zEj9WFRZf) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebels](https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA) | 4:09 |
 | 191 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
@@ -605,4 +605,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 595 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 596 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AchEOAAAAADYy7FOIz/QyTrFyYcJnwR+`
+Snapshot ID: `AchJ2AAAAAB1IZ7nbfuPQ8+yqOJ9/5op`

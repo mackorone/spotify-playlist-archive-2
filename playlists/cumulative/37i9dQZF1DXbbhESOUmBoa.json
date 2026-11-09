@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-09-09",
-  "description": "enjoy the TOMORROW X TOGETHER WORLD TOUR [ACT : TOMORROW] LIVE SET including the voices of them on stage! (\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [ACT : TOMORROW] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "name": "TOMORROW X TOGETHER WORLD TOUR [ACT : TOMORROW]",
+  "description": "Prepare for the upcoming world tour kickoff by listening to TXT\u2019s best songs! (TXT\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uc6d4\ub4dc \ud22c\uc5b4\uc758 \uc2dc\uc791\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
   "tracks": [
     {
       "album": {
@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "album": {
         "name": "The Star Chapter: TOGETHER",
         "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
       },
@@ -63,6 +85,24 @@
     },
     {
       "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Bed of Thorns",
+      "url": "https://open.spotify.com/track/2AofGuSfbbgjIvoSdUkfJd"
+    },
+    {
+      "album": {
         "name": "The Star Chapter: TOGETHER",
         "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
       },
@@ -74,7 +114,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 162199,
       "name": "Bird of Night",
       "url": "https://open.spotify.com/track/73TsDyUBDWG2KnCZuLM7KB"
@@ -110,10 +150,28 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 185520,
       "name": "Blue Orangeade",
       "url": "https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
     },
     {
       "album": {
@@ -146,7 +204,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 140822,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/7a9q19sVTEAq0SzgUZvbSy"
@@ -164,7 +222,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 135948,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0A5OpWc5yZ2aSe7Xbhqo3m"
@@ -182,7 +240,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 194912,
       "name": "Dear Sputnik",
       "url": "https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo"
@@ -198,9 +256,27 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "date_added": "2025-09-08",
+      "date_added": "2026-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171427,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-09",
       "duration_ms": 170953,
       "name": "Deja Vu (Anemoia Remix)",
       "url": "https://open.spotify.com/track/0m5FEDhEXHx1ZUNabbnX4l"
@@ -218,10 +294,32 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 186471,
       "name": "Devil by the Window",
       "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
     },
     {
       "album": {
@@ -236,7 +334,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 217374,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/0RRd7AcCl0HR5gzzRuCMXs"
@@ -254,7 +352,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 180676,
       "name": "Farewell, Neverland",
       "url": "https://open.spotify.com/track/43mnNatwMMydJ4CxMdQVnJ"
@@ -272,7 +370,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 194771,
       "name": "Frost",
       "url": "https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy"
@@ -326,7 +424,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 200543,
       "name": "Growing Pain",
       "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
@@ -344,7 +442,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 161734,
       "name": "Higher Than Heaven",
       "url": "https://open.spotify.com/track/2sl9KiihxhBtc4UKIjXChC"
@@ -416,7 +514,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 192920,
       "name": "Magic Island",
       "url": "https://open.spotify.com/track/5DcLYkS1rnSgRMfhXNvh0d"
@@ -434,7 +532,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 163886,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
@@ -452,7 +550,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 186076,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/1lb61ya67YS87CtjYN0bil"
@@ -488,10 +586,28 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 200847,
       "name": "Skipping Stones",
       "url": "https://open.spotify.com/track/0bPy1iMfSOO2pevpXLhnoG"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0pbq2kwWuZ7bxRxCS0eBEU"
     },
     {
       "album": {
@@ -506,7 +622,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 206185,
       "name": "Song of the Stars",
       "url": "https://open.spotify.com/track/1Kv0G4eKjJ4ysGRXlHvQCm"
@@ -524,7 +640,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 37860,
       "name": "Stage Comment from BEOMGYU",
       "url": "https://open.spotify.com/track/6SKC279VqT74BfYQGFQFRU"
@@ -542,7 +658,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 37296,
       "name": "Stage Comment from HUENINGKAI",
       "url": "https://open.spotify.com/track/0iN1frciGuTeVhCJPQwijP"
@@ -560,7 +676,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 46725,
       "name": "Stage Comment from SOOBIN",
       "url": "https://open.spotify.com/track/6ex3LarZbq4YzZTeRL0Ekg"
@@ -578,7 +694,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 54162,
       "name": "Stage Comment from SOOBIN & TAEHYUN",
       "url": "https://open.spotify.com/track/3BkUexOQdCW1XgrHHJcibU"
@@ -596,10 +712,46 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 27819,
       "name": "Stage Comment from YEONJUN",
       "url": "https://open.spotify.com/track/5Pg49sdMVNMNgiqLEqr6h1"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
       "album": {
@@ -614,10 +766,32 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 167235,
       "name": "Sunday Driver",
       "url": "https://open.spotify.com/track/4QfHWIOU5nh4yBdYSnt1AE"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Vinida Weng",
+          "url": "https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Take Me to Nirvana (feat. Vinida Weng)",
+      "url": "https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO"
     },
     {
       "album": {
@@ -636,6 +810,24 @@
       "duration_ms": 176076,
       "name": "Take My Half",
       "url": "https://open.spotify.com/track/13tz8REkfaAuQrmKQwbToR"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "Tinnitus (Wanna be a rock)",
+      "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
     },
     {
       "album": {
@@ -668,10 +860,28 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30c4\u30ca\u30cf\u30ca\u30d3 (Setsuna Hanabi)",
+        "url": "https://open.spotify.com/album/1qa6PpCZqOV4Fge1QL3OoY"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173874,
+      "name": "\u30bb\u30c4\u30ca\u30cf\u30ca\u30d3 (Setsuna Hanabi)",
+      "url": "https://open.spotify.com/track/2Hq8l2e9BkRVaQtJni4Ss9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbbhESOUmBoa"

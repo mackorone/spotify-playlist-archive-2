@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 308345,
+  "num_followers": 308498,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Hot Shot",
-        "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Rayvon",
-          "url": "https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Hot Shot",
+        "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 266840,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 235133,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Year Of The Gentleman (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 245000,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Haven't Met You Yet",
-      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Jason Derulo",
         "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 221253,
       "name": "Whatcha Say",
       "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Beautiful Soul",
-        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
-      },
-      "artists": [
-        {
-          "name": "Jesse McCartney",
-          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Beautiful Soul",
+        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
+      },
+      "artists": [
+        {
+          "name": "Jesse McCartney",
+          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Shontelligence",
-        "url": "https://open.spotify.com/album/0IkjwZghU8V40BBRtos0pn"
-      },
-      "artists": [
-        {
-          "name": "Shontelle",
-          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/0m0FYyIbSDiASOlQ64GDO5"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 262133,
       "name": "I'm Real (feat. Ja Rule) - Murder Remix",
       "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Shontelligence",
+        "url": "https://open.spotify.com/album/0IkjwZghU8V40BBRtos0pn"
+      },
+      "artists": [
+        {
+          "name": "Shontelle",
+          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/0m0FYyIbSDiASOlQ64GDO5"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
-      },
-      "artists": [
-        {
-          "name": "Hannah Montana",
-          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "The Best of Both Worlds",
-      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
       },
@@ -2523,18 +2507,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+      "duration_ms": 174120,
+      "name": "The Best of Both Worlds",
+      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2555,6 +2539,22 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     }
   ],
   "unique_name": "2000s Pop",

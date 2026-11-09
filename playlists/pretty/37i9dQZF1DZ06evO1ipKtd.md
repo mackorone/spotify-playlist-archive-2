@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 
 > This is Nala Sinephro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302 likes - 18 songs - 59 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,301 likes - 18 songs - 59 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 | 7 | [Space 4](https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 6:19 |
 | 8 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
 | 9 | [Dawn](https://open.spotify.com/track/3bnG8Tl63Fg1bZ7JochUDQ) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 2:14 |
-| 10 | [Space 7](https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 1:41 |
+| 10 | [Space 5](https://open.spotify.com/track/5qQiAyGH1zJtCwPDRvs1wa) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:00 |
 | 11 | [Continuum 4](https://open.spotify.com/track/5Hwpd7q92mmKg4ptyaFFpd) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 2:30 |
 | 12 | [Mark](https://open.spotify.com/track/5m436FJqMOFUn6u00CPcnM) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 1:43 |
-| 13 | [Space 5](https://open.spotify.com/track/5qQiAyGH1zJtCwPDRvs1wa) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:00 |
+| 13 | [Space 7](https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 1:41 |
 | 14 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 |
 | 15 | [Dawn II](https://open.spotify.com/track/2spRx4wRN2ZM3CZdbgGGw4) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 1:07 |
 | 16 | [Space 3](https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 1:15 |

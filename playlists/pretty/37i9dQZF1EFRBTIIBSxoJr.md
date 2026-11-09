@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935 likes - 146 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 937 likes - 146 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 37 | [Still In Love \- Acoustic](https://open.spotify.com/track/1dZOrtdSrudj4krblF2MEG) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:51 |
 | 38 | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/track/6bXi3POdPDmcJJ2A43pLIw) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/album/4fGbB2oX0mUJWRpYJpf1PU) | 3:20 |
 | 39 | [Never Did This Before](https://open.spotify.com/track/27skPro3ahG0esoPhkNEs4) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5) | [Never Did This Before](https://open.spotify.com/album/1UcbXv32GuCvEFo9A2t1Qr) | 3:25 |
-| 40 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
-| 41 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
+| 40 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
+| 41 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
 | 42 | [Remedy](https://open.spotify.com/track/5caMleOQ7qtqKZA34x9vSA) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [At Your Inconvenience](https://open.spotify.com/album/1DrD9yINGa4J2xb37dGZ8u) | 3:15 |
 | 43 | [Broken Arrow](https://open.spotify.com/track/4ETuk7bkreL9gkDOZQ4djV) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:39 |
 | 44 | [What You’re Made Of \(feat\. Kiesza\) \(From “Azur Lane” Original Video Game Soundtrack\)](https://open.spotify.com/track/7zCeOOhtMzxlBRdVJ4KwgG) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [What You’re Made Of \(feat\. Kiesza\) \[Azur Lane Soundtrack\]](https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI) | 3:26 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 145 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 146 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AchEGgAAAAA3uh4fMzbGrp3jbI11zeMj`
+Snapshot ID: `AchJ9gAAAAD9dI4boAcpapGNpMzSkEzN`

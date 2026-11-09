@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 7 | [Si por Mí Fuera](https://open.spotify.com/track/07MS3RfBJMZlEljzO492xD) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:13 |
 | 8 | [Placebo](https://open.spotify.com/track/6rsjtGqye3l0ItzLzooMlm) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:14 |
 | 9 | [Tú Me Delatas](https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Me Delatas](https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT) | 3:17 |
-| 10 | [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 |
+| 10 | [p0rn0grafía](https://open.spotify.com/track/0jpSR8X5SnHG1781UL8s3J) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Objetos Frágiles en Ambientes Hostiles](https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP) | 3:01 |
 | 11 | [Trepando Paredes](https://open.spotify.com/track/5fer2wUUzZnYtEuOzG7nCZ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mi Norte & Mi Sur](https://open.spotify.com/album/051zeHA45MBAZR0iqp1gyB) | 3:53 |
 | 12 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 |
 | 13 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 50 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 |
 | 51 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `AchEOAAAAACPgTz0J5dz3wJafARVKNaJ`
+Snapshot ID: `AchJ2AAAAAC6V86BH700hUITbBlIBhsS`

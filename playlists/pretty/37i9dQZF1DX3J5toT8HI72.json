@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 826250,
+  "num_followers": 826222,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "O Le\u00e3ozinho - Live",
-      "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 154826,
+      "name": "O Le\u00e3ozinho - Live",
+      "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
     },
     {
       "added_at": "2026-10-15 19:31:25",

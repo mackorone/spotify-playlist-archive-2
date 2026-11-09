@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,950 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,969 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 34 | [Toxico](https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Toxico](https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh) | 3:12 |
 | 35 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
 | 36 | [Derecha La Flecha](https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Derecha La Flecha](https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY) | 2:58 |
-| 37 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 |
-| 38 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 37 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 38 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 |
 | 39 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 |
 | 40 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
 | 41 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 42 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
-| 43 | [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 |
-| 44 | [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 |
-| 45 | [LENTES LV](https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [LENTES LV](https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh) | 2:35 |
-| 46 | [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 |
-| 47 | [Niñas De Revista](https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Niñas De Revista](https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak) | 2:27 |
-| 48 | [La Gwag](https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Gwag](https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z) | 2:26 |
-| 49 | [El Guero](https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Guero](https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq) | 2:04 |
-| 50 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
+| 43 | [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 |
+| 44 | [LENTES LV](https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [LENTES LV](https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh) | 2:35 |
+| 45 | [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 |
+| 46 | [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 |
+| 47 | [La Gwag](https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Gwag](https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z) | 2:26 |
+| 48 | [Niñas De Revista](https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Niñas De Revista](https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak) | 2:27 |
+| 49 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
+| 50 | [El Guero](https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Guero](https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq) | 2:04 |
 
-Snapshot ID: `auvHAAAAAACXrztvyD1N+ByKBgfjNywf`
+Snapshot ID: `au5qAAAAAABc7U2Qz5T2rPzHhpDaI+X5`

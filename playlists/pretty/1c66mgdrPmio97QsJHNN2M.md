@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,142 likes - 218 songs - 11 hr 24 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,149 likes - 220 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 216 | [Lucky in a Corrupt Place \- Remake](https://open.spotify.com/track/4JsXWMdvMCYaLWwNIHQ4rB) | [XAURAX](https://open.spotify.com/artist/5ABgbqKhlZ6OH5FLEKD8Nv) | [Lucky in a Corrupt Place \(Remake\)](https://open.spotify.com/album/2alcgKLPkV2cHd0JU29nTu) | 2:43 |
 | 217 | [Dance All Night](https://open.spotify.com/track/0ss5DfDRlERtwoBVotbkS1) | [Hussle Fettii](https://open.spotify.com/artist/72xaBU1Xzo1HUl1Gucemd3) | [Dance All Night](https://open.spotify.com/album/6DbfnEFTSGDzHSfzMIt3Ip) | 3:17 |
 | 218 | [Toxic](https://open.spotify.com/track/5OmqVSrkWlhzu3Jou30lBI) | [Macha Roy](https://open.spotify.com/artist/2q0nNDlU502q7bJC3yqvdz) | [Toxic](https://open.spotify.com/album/3WD9ZlvYRCib9YbCuhGzjl) | 2:55 |
+| 219 | [I Don't Give It to Anyone](https://open.spotify.com/track/1E6fgzKi8kDYaopHM5xCuo) | [Belarussische Nemesis](https://open.spotify.com/artist/5nxRg1RR7NWteTLSIHzQQR) | [You Came for the Jam](https://open.spotify.com/album/4nw2ZRqxfoQKEgUOfBDipA) | 3:20 |
+| 220 | [feel alive](https://open.spotify.com/track/6yW7SK5KQp0GpCpQ8fVqmZ) | [LM](https://open.spotify.com/artist/177oYrdsoCqvmDRtOpz9aR), [SABBA Φ](https://open.spotify.com/artist/1iVleUXGSerJFDN3LiM92k) | [feel alive](https://open.spotify.com/album/4xxMpFg98DmoyR9ghD6OZk) | 2:34 |
 
-Snapshot ID: `AAA9zRrkMRk/hXcj/cw7272eIdGf9RjE`
+Snapshot ID: `AAA9zwWhGOP/dVDT9MY2jblVFxtv7Dwm`

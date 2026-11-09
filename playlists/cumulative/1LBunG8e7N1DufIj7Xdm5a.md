@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,464 songs - 12 day 17 hr 9 min
+5,469 songs - 12 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Angel](https://open.spotify.com/track/3xArylDcACBtA8cgBZrijo) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Angel](https://open.spotify.com/album/2MOj4rJYRgcWbWS7yFShb6) | 3:12 | 2023-05-19 |  |
 | [Angel](https://open.spotify.com/track/6XXX3pXIVlG30I4QU17sDw) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 4:06 | 2025-07-02 |  |
 | [ANGEL & DEMON](https://open.spotify.com/track/3pIaj56RifnnWS14Lft6XV) | [IRONMICH](https://open.spotify.com/artist/3gKMnHwmuwaNLzmbAGvt7O) | [ANGEL & DEMON](https://open.spotify.com/album/0x6JTimZnPKRUjFL37PyCm) | 1:46 | 2025-06-20 |  |
+| [Angel o Demonio](https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy) | [El Bardo](https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO) | [Angel o Demonio](https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND) | 3:52 | 2026-11-08 |  |
 | [Angeles del Cielo](https://open.spotify.com/track/6bukfUZ6IJhL9xJh5kmUf7) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angeles del Cielo](https://open.spotify.com/album/6h7ix4uWHMWmacVIezPbzq) | 5:41 | 2026-11-03 |  |
 | [Angelita de mi Corazón](https://open.spotify.com/track/1B02C8zKZooIzlfCCBbADV) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angelita de mi Corazón](https://open.spotify.com/album/782FxWdu9P8cKHv8zgVfI3) | 4:24 | 2026-11-03 |  |
 | [Angelita mi Amor](https://open.spotify.com/track/3OzUMPvbR4UczDX1oo1h2s) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angelita mi Amor](https://open.spotify.com/album/4mDIw8WF8FC4wgyUf5BO9T) | 5:34 | 2026-11-03 |  |
@@ -502,6 +503,7 @@
 | [Blackout Trauma](https://open.spotify.com/track/0UNpnDhGLD7jOziJqRhiEs) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:04 | 2026-04-13 |  |
 | [Blackout Trauma \(fomo mode\)](https://open.spotify.com/track/1eyuBpGBSeM3dQpzzf87ux) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:56 | 2026-04-13 |  |
 | [Blank Space](https://open.spotify.com/track/2ZiJidFdQ30nVJEP4u44l3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 4:00 | 2025-04-09 |  |
+| [Bled Dry](https://open.spotify.com/track/10jiKOtqU3gxqrIQbRAshQ) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Bled Dry](https://open.spotify.com/album/6Y84jQZN2AfbGh01GJKI61) | 3:21 | 2026-11-08 |  |
 | [Bleed Electric \#Music \#NewMusic \#Viral](https://open.spotify.com/track/65SAHnmXzL7zwON3YqvTMQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:14 | 2025-09-15 |  |
 | [Blender for Dumplings](https://open.spotify.com/track/2bUCgeUlLA6txjXOmK60KJ) | [Dustlit Sinners](https://open.spotify.com/artist/74E8wtZ8H4Jv6xQ3eC60f4) | [Blender for Dumplings](https://open.spotify.com/album/2IabEORbcasMjJiwcD60eU) | 4:18 | 2026-09-25 |  |
 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 | 2026-04-22 |  |
@@ -3967,6 +3969,7 @@
 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 | 2026-11-03 |  |
 | [Save a Prayer \- Single Version](https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:45 | 2026-11-03 |  |
 | [Save Us](https://open.spotify.com/track/5CKVc9xlMamknLZwVDBBda) | [Sinsation](https://open.spotify.com/artist/7zkNESiCUt0wzQsSwKzTrS) | [Save Us](https://open.spotify.com/album/6rYTeQvcX9RF05gTGxy1uU) | 4:18 | 2026-06-18 |  |
+| [Saving Grace](https://open.spotify.com/track/0r26rnNo0SgUDxfOUQZjAQ) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Saving Grace](https://open.spotify.com/album/06HWWELSPtvnXUYEVTw5nV) | 4:47 | 2026-11-08 |  |
 | [SAY SOMETHIN'](https://open.spotify.com/track/04U6CZTpcrhIHxyrNIWmrZ) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [WISH U WERE HERE](https://open.spotify.com/album/5VykTQitQAIZg9gUFZPIRg) | 3:13 | 2025-06-23 |  |
 | [Say the name](https://open.spotify.com/track/4lBMjeFvuoTLDvYVu80nFg) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [Say the name](https://open.spotify.com/album/2kttrMPVtjqKZmTP2Z06Md) | 3:12 | 2026-02-13 |  |
 | [saysomething](https://open.spotify.com/track/1bO2dWPz4NQqf6ox21ZINr) | [ILYSANITA](https://open.spotify.com/artist/1JSXMl2sk9acCPV5USguCq) | [DROP DEAD](https://open.spotify.com/album/55fE6OxTKnd7vLMsJz40xZ) | 1:43 | 2025-06-23 |  |
@@ -4701,6 +4704,7 @@
 | [The Great Adventure](https://open.spotify.com/track/3q7ACDSatdbrftL5cq4eQD) | [Mark Millar](https://open.spotify.com/artist/1iibSB0v1MIXHVAnC4pgxC) | [The Great Adventure](https://open.spotify.com/album/5RQ8yLA8W23jwfo1CJS9Zq) | 2:54 | 2025-05-26 |  |
 | [The Great Catholic French Monarch](https://open.spotify.com/track/2DxxtoMVzjxwMfBiXiy5wX) | [LyGlynay](https://open.spotify.com/artist/6IQ5X616FWz9Q0bmHAz9Ei) | [LyGlynay](https://open.spotify.com/album/5ZyCkKp9ZwOOKllYFvRNGC) | 3:27 | 2025-09-18 |  |
 | [The Grey Pilgrim](https://open.spotify.com/track/133yo9s6fgsLImoIyzz0tF) | [TIMELESS INN](https://open.spotify.com/artist/4qAySBTVBn1rz6GTVlQSbR) | [The Grey Pilgrim](https://open.spotify.com/album/0L1bzVCYst1mygmd2h5Diy) | 2:47 | 2026-09-02 |  |
+| [The Habbit Of Heartbreak](https://open.spotify.com/track/5gjKINtN1ntm8GIvw3M8TB) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [The Habbit Of Heartbreak](https://open.spotify.com/album/1ti6cOmKrjXf8DAmGXfkvg) | 3:48 | 2026-11-08 |  |
 | [The Harvest & The Seed](https://open.spotify.com/track/7uSzVJhCcCB7VtvQ8l7ZjY) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:17 | 2026-08-20 |  |
 | [The Harvest & The Seed \(fomo mode\)](https://open.spotify.com/track/4VLmLmuNZW8LU1x5RhWdZf) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:29 | 2026-08-20 |  |
 | [The house of thousand pain](https://open.spotify.com/track/60i262BA6C4okHQg57m3QP) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [the sound of soul](https://open.spotify.com/album/2JNmt7ENmosgHWTgLNuSpn) | 3:48 | 2026-02-01 |  |
@@ -5438,6 +5442,7 @@
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |
 | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r) | [S T O L I C A](https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf) | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9) | 2:27 | 2026-04-08 |  |
+| [Поезд на Ленинград](https://open.spotify.com/track/4GYMpkBE59plKOjUOXruoR) | [ИМПЕРИЯ](https://open.spotify.com/artist/755CR1AniZjrrW62SCpCMD) | [Мой сон](https://open.spotify.com/album/4CTIz0BGv2OdOobHGSPUM8) | 4:47 | 2026-11-08 |  |
 | [Потанцуй со мной](https://open.spotify.com/track/16VPoNNjPfXhmH4J2M3MDA) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:36 | 2025-05-05 |  |
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2026-01-15 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-11-22 |  |

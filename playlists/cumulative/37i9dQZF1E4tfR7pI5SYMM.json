@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, The Inklings, M\u00e4rvel and more",
+  "description": "With The Inklings, The Dogs, Sanguine and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 164314,
       "name": "7-25",
       "url": "https://open.spotify.com/track/1x5utvS8m6nUbc5voXHoXK"
+    },
+    {
+      "album": {
+        "name": "ENTER THE HARDBOILED",
+        "url": "https://open.spotify.com/album/1yhq4L5Vy4UgMF1qtZO52Y"
+      },
+      "artists": [
+        {
+          "name": "marksman",
+          "url": "https://open.spotify.com/artist/4wQbGafJhgZ32MqUyTfRO9"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180929,
+      "name": "70's Challenger",
+      "url": "https://open.spotify.com/track/5Wleza88SDYKfLK9xnjD5z"
     },
     {
       "album": {
@@ -662,7 +680,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 185304,
       "name": "Alla Helgons Blodiga Natt",
       "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 207706,
       "name": "And Bring It Down Again",
       "url": "https://open.spotify.com/track/5OnuEoQFPNQoNV5teFaxyT"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 157866,
       "name": "Before the Cock Crows",
       "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3358,6 +3376,24 @@
       "duration_ms": 259479,
       "name": "Crimson Nights",
       "url": "https://open.spotify.com/track/3tbw2pSQrDoN176Ki0zkoD"
+    },
+    {
+      "album": {
+        "name": "Tales from Earth Incorporated",
+        "url": "https://open.spotify.com/album/2JZ1u15kDmcnsbfjJioXPF"
+      },
+      "artists": [
+        {
+          "name": "Dan Sheehan",
+          "url": "https://open.spotify.com/artist/5TlfZtt8NftHtdd8Wgdwv1"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328343,
+      "name": "Cross the Border",
+      "url": "https://open.spotify.com/track/0u4VIt55PYglX83ttRs8bR"
     },
     {
       "album": {
@@ -4274,7 +4310,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -8360,7 +8396,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 202500,
       "name": "I Gotta Stay",
       "url": "https://open.spotify.com/track/6r6gvGwfdWG8my9Z7XAou3"
@@ -8976,7 +9012,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -9662,7 +9698,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -11228,7 +11264,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 163846,
       "name": "Maybe Now",
       "url": "https://open.spotify.com/track/73s0QLKk5Ys610y8yho2TW"
@@ -11322,7 +11358,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 222624,
       "name": "Meet The Hoopla",
       "url": "https://open.spotify.com/track/3GmK5H8aPYlJ8QQ1XrGnAv"
@@ -11452,7 +11488,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -12498,7 +12534,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -12798,7 +12834,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 107000,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3X9JyeZzLbsTeLDzP1WcNL"
@@ -15197,6 +15233,24 @@
     },
     {
       "album": {
+        "name": "Jedeme d\u00e1l",
+        "url": "https://open.spotify.com/album/5YqVS0XRKOlrBaCczzPOtl"
+      },
+      "artists": [
+        {
+          "name": "HAMR",
+          "url": "https://open.spotify.com/artist/12n6RuTCOjb5ztS2M1d5Q5"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210286,
+      "name": "Sb\u011bratel",
+      "url": "https://open.spotify.com/track/4vAoHWoSHBaZmi6duTPijO"
+    },
+    {
+      "album": {
         "name": "Water Music",
         "url": "https://open.spotify.com/album/5bsbZ3uj9V9eZJtr1f0rHY"
       },
@@ -15752,7 +15806,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -15806,7 +15860,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 200086,
       "name": "Sinnsyke Sanger",
       "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
@@ -16238,7 +16292,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 219957,
       "name": "Some Good News",
       "url": "https://open.spotify.com/track/3FHFyL7tXNAmsyCJJ6eZUi"
@@ -16688,7 +16742,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 223190,
       "name": "Stirring The Well",
       "url": "https://open.spotify.com/track/0x19iWenVzDAvA7rRkWDq4"
@@ -16710,7 +16764,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -17236,7 +17290,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -18897,6 +18951,24 @@
     },
     {
       "album": {
+        "name": "Det Bedste Til Mig og Mine Venner",
+        "url": "https://open.spotify.com/album/2Is4WHro4lwaSFH94oaUxA"
+      },
+      "artists": [
+        {
+          "name": "Kosmik Boogie Tribe",
+          "url": "https://open.spotify.com/artist/2hFJ7ne9PYaGfnMAcDbHdX"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180565,
+      "name": "This Is Rock And Roll",
+      "url": "https://open.spotify.com/track/7AWqAt8XAbS6590g20B56J"
+    },
+    {
+      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/5MggaTiX0Le89gRoBV1fPA"
       },
@@ -19154,6 +19226,42 @@
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
+    },
+    {
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1BezqTo8IYwyvLd1fZ2p93"
+      },
+      "artists": [
+        {
+          "name": "Mother Mersy",
+          "url": "https://open.spotify.com/artist/0otA1pmf0tTBPX6X9F5L3a"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286131,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/4wRpdELR9n6HQLan6psgx0"
+    },
+    {
+      "album": {
+        "name": "FEELING THE HEAT",
+        "url": "https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW"
+      },
+      "artists": [
+        {
+          "name": "STONE FIRE",
+          "url": "https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186798,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/69EBf3iMvbL04Q0nyuhPuJ"
     },
     {
       "album": {
@@ -21784,7 +21892,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

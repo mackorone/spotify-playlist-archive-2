@@ -1,12 +1,12 @@
 {
   "description": "This is Ho - Kago Tea Time. The essential tracks, all in one playlist.",
-  "num_followers": 20812,
+  "num_followers": 20813,
   "original_name": "This Is Ho - Kago Tea Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABTWCP+zQPD6gIPEJk43TBo",
+  "snapshot_id": "au5qAAAAAAAsBVe8EBYY/vwwYYISrLVG",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No, Thank You! (From \"K-On!!\")",
-        "url": "https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab"
+        "name": "Singing! (Standard Edition)",
+        "url": "https://open.spotify.com/album/5bCinByDAyOCePVoccduYa"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
         }
       ],
-      "duration_ms": 214373,
-      "name": "Girls in Wonderland",
-      "url": "https://open.spotify.com/track/2V69C3QpJcYOjxG7s9NMGy"
+      "duration_ms": 295320,
+      "name": "Ohayou, Mata Ashita",
+      "url": "https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF"
     },
     {
       "added_at": null,
@@ -283,8 +283,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmei\u266awa\u266aEndless! (Standard Edition)",
-        "url": "https://open.spotify.com/album/4eBODZZwujpwz63E3L1D5W"
+        "name": "NO, Thank You!",
+        "url": "https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Girls in Wonderland",
+      "url": "https://open.spotify.com/track/7HUSmw2mmJO248tfV3kRgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmei\u266awa\u266aEndless!(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd"
       },
       "artists": [
         {
@@ -293,30 +309,14 @@
         }
       ],
       "duration_ms": 250280,
-      "name": "Ichiban Ippai",
-      "url": "https://open.spotify.com/track/2DaJnL4Ft02CKChufZ0Zlt"
+      "name": "\u3044\u3061\u3070\u3093\u3044\u3063\u3071\u3044",
+      "url": "https://open.spotify.com/track/6Ffx9tsy2pT4RsCmKhrKYN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Singing! (Standard Edition)",
-        "url": "https://open.spotify.com/album/5bCinByDAyOCePVoccduYa"
-      },
-      "artists": [
-        {
-          "name": "Ho - Kago Tea Time",
-          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Ohayou, Mata Ashita",
-      "url": "https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go! Go! Maniac (From \"K-ON!!)",
-        "url": "https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL"
+        "name": "GO! GO! MANIAC",
+        "url": "https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl"
       },
       "artists": [
         {
@@ -325,8 +325,8 @@
         }
       ],
       "duration_ms": 269106,
-      "name": "Genius...!?",
-      "url": "https://open.spotify.com/track/6kj8eDhov1Li8gCwIyHRG9"
+      "name": "Genius\u2026!?",
+      "url": "https://open.spotify.com/track/4y0nUHDbNeLFFlvOcNBLhV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-126 songs - 8 hr 48 min
+127 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [I Know Jack](https://open.spotify.com/track/0QmZdn4mS4Ev2mcH9xYZU4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 0:40 | 2024-05-08 | 2025-04-13 |
 | [I Know Jack](https://open.spotify.com/track/7iIfsmOF4L7GoCb9bYSoGt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/21JgJ2sQBLsGtthdGet15B) | 0:40 | 2023-03-27 | 2023-10-11 |
 | [I Know Jack \- 2019 \- Remaster](https://open.spotify.com/track/1DpPaJZ7ktsBcnFla7smIM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed \(2019 \- Remaster\)](https://open.spotify.com/album/2KcFVbu6rg8HdRfU97S5C5) | 0:40 | 2023-03-20 | 2023-03-22 |
-| [In My Darkest Hour \- Remastered 2004](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 | 2022-05-30 |  |
+| [In My Darkest Hour](https://open.spotify.com/track/423EZWcCxPBVuWgejCwUWF) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What!](https://open.spotify.com/album/4rW8n1hOkavPGIxPvEnT18) | 6:16 | 2026-11-09 |  |
+| [In My Darkest Hour \- Remastered 2004](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 | 2022-05-30 | 2026-11-09 |
 | [Into The Lungs Of Hell \- Remastered](https://open.spotify.com/track/7hriWWyB26C1mgdnn6pbgm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:22 | 2022-06-01 | 2022-09-05 |
 | [Junkie](https://open.spotify.com/track/6yLhhkZNfyG2xCBFXLoE2i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 3:39 | 2022-09-04 | 2022-09-29 |
 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 | 2026-03-07 |  |

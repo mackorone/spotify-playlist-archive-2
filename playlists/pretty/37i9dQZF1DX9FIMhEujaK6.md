@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,910 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,910 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 3 | [Sol Alma](https://open.spotify.com/track/6VFBgZdl3NIDdsYWCWjs35) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Sol Alma](https://open.spotify.com/album/5s8ZvTkwZGTcuKx05iIK4o) | 4:07 |
 | 4 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |
 | 5 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
-| 6 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 7 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 |
+| 6 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 |
+| 7 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 8 | [Epiphany](https://open.spotify.com/track/0PbjL16GqsdVfQzYbjodnW) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Epiphany](https://open.spotify.com/album/0edtlQTIC4ASTx7fUrXeqt) | 4:05 |
 | 9 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
 | 10 | [Move Mountains](https://open.spotify.com/track/0arFTg758cB6P6uQG5V4wo) | [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Move Mountains](https://open.spotify.com/album/3wOKhTwEU9CoDAx9N8PfdS) | 3:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 47 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
 | 48 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 49 | [Imvula](https://open.spotify.com/track/3ARs1fCLhABEhNUvfKtARl) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Imvula](https://open.spotify.com/album/6umAcziJrSVyBsr50QqUZ9) | 4:32 |
-| 50 | [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 |
+| 50 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 
 Snapshot ID: `AAAAAHFYCL8dnI9tU3MkasbgRgt8R1EK`

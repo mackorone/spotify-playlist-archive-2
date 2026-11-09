@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 2 | [Gente Aberta / Imensamente Visceral](https://open.spotify.com/track/125cqbgLq4WeIW65E33qNU) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Mano](https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7) | 3:37 |
 | 3 | [Diz Quanto Custa](https://open.spotify.com/track/38C9RxRdUtRrCegly81m1F) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Indigo Borboleta Anil](https://open.spotify.com/album/7hAUxVaqRDPMoLmsJpcBh4) | 3:22 |
 | 4 | [Abaixo do Radar](https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [As Incríveis Histórias De: Underground Superhero Vs o Terrível Ladrão de Loops \(Deluxe\)](https://open.spotify.com/album/3yZh6sqDa0RQzQgwciIhZa) | 3:01 |
-| 5 | [Asfalto Selvagem](https://open.spotify.com/track/3IdRb6OVNZT71mshYXmKZa) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 2:56 |
+| 5 | [Topo da Minha Cabeça](https://open.spotify.com/track/1DAS8arlHh6lcKRMehzOAy) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 4:12 |
 | 6 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
 | 7 | [Se Avexe Não](https://open.spotify.com/track/6a1cMOyZ499bdWLXFgHsBA) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 3:42 |
 | 8 | [Contramão](https://open.spotify.com/track/1V3FaAOYea3Hxw5SYvi8tl) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Emmily Barreto](https://open.spotify.com/artist/4682txRR20t1JBUHiHpMGz) | [Contramão](https://open.spotify.com/album/6CjxDtHwR2tTnYKw1x9xv1) | 4:54 |
-| 9 | [Topo da Minha Cabeça](https://open.spotify.com/track/1DAS8arlHh6lcKRMehzOAy) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 4:12 |
-| 10 | [Dollar Euro](https://open.spotify.com/track/0SOMOhKK0MWIudHgsUVkLO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Próspera](https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3) | 2:53 |
-| 11 | [SUBMERSA](https://open.spotify.com/track/0oevLkW1wWfUzHqPio7BdO) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 2:49 |
+| 9 | [Asfalto Selvagem](https://open.spotify.com/track/3IdRb6OVNZT71mshYXmKZa) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 2:56 |
+| 10 | [SUBMERSA](https://open.spotify.com/track/0oevLkW1wWfUzHqPio7BdO) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 2:49 |
+| 11 | [Dollar Euro](https://open.spotify.com/track/0SOMOhKK0MWIudHgsUVkLO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Próspera](https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3) | 2:53 |
 | 12 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 |
 | 13 | [Tão Crazy](https://open.spotify.com/track/4ESK6LYArhCpBczxcqqAsV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 4:09 |
 | 14 | [Bem Longe do Fim](https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h) | 3:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 48 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 49 | [Da Lama / Afrontamento](https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 6:24 |
 
-Snapshot ID: `au0YgAAAAADAxssIf2HkfGf+2wINIrwW`
+Snapshot ID: `au5qAAAAAABYZ1iKLHJ1Wr1WKnmVlihX`

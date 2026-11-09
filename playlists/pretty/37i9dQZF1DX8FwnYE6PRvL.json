@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2783468,
+  "num_followers": 2783461,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 210328,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Love For The Streets",
-        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
-      },
-      "artists": [
-        {
-          "name": "Caesars",
-          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Love For The Streets",
+        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "I Bet You Look Good On The Dancefloor",
-      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Skid Row",
         "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 229960,
       "name": "18 and Life",
       "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Just Like Heaven - Remastered 2006",
-      "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Just Like Heaven - Remastered 2006",
+      "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
     },
     {
       "added_at": "2026-09-25 04:03:21",

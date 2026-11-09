@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Good Vibes 2",
+        "url": "https://open.spotify.com/album/5KneJGqSxTHOM70hszmYH0"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5MEq6LNxiQdApTxGIbh94B"
+    },
+    {
+      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 198325,
       "name": "Parque De Diversiones",
       "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
@@ -1699,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125632,
+      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/1zhf80P3wAcWjiGfoYIsfg"
+    },
+    {
+      "album": {
         "name": "TODO PENDEJO",
         "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
       },
@@ -1914,7 +1958,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 160884,
       "name": "Yo Soy del Golfo",
       "url": "https://open.spotify.com/track/1HVE8VfDWqjQpcSxrDeJgE"

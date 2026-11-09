@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/48Uhx4uht0zbMzLAV4PYif"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+          "name": "Guy Garrett",
+          "url": "https://open.spotify.com/artist/0C9uLXnKf8cmfIl1shKYWK"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264426,
+      "name": "Spice Girls Megamix - Radio Edit",
+      "url": "https://open.spotify.com/track/5BAwualyg64Sq6tW8AF0JP"
+    },
+    {
+      "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
       },

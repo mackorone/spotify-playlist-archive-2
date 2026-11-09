@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 621360,
+  "num_followers": 621408,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Lisboa-Madrid",
-        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Lisboa-Madrid",
-      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 274000,
       "name": "Pra Voc\u00ea Guardei o Amor",
       "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "At\u00e9 Outro Dia Amor",
         "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208492,
       "name": "At\u00e9 Outro Dia Amor",
       "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
+        "name": "Ser\u00e1 Que \u00c9 Amor?",
+        "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 234734,
+      "name": "Ser\u00e1 Que \u00c9 Amor?",
+      "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
-        "name": "Ser\u00e1 Que \u00c9 Amor?",
-        "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 234734,
-      "name": "Ser\u00e1 Que \u00c9 Amor?",
-      "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
     },
     {
       "added_at": "2026-11-06 03:00:20",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-11-06 03:00:20",
       "album": {
-        "name": "Quem dir\u00e1?",
-        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 172580,
-      "name": "Quem dir\u00e1?",
-      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2026-11-06 03:00:20",
-      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+    },
+    {
+      "added_at": "2026-11-06 03:00:20",
+      "album": {
+        "name": "Quem dir\u00e1?",
+        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 172580,
+      "name": "Quem dir\u00e1?",
+      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
     },
     {
       "added_at": "2026-11-06 03:00:20",

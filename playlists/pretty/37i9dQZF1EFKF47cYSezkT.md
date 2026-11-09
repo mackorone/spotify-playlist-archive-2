@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 87 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 87 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 41 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 42 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
 | 43 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
-| 44 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
-| 45 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 44 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 45 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
 | 46 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
 | 47 | [Proof](https://open.spotify.com/track/1RpDQeE8kXFIrvoRzlWi5G) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:46 |
 | 48 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 86 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
 | 87 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AchEGgAAAABS4mrEQClV5yA9KNBEnpJR`
+Snapshot ID: `AchJ9gAAAABWsxVmwVemaawjhgxHqh0c`

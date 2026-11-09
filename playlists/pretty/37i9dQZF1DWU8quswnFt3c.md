@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Thoom from Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,919 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,789 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [Highest](https://open.spotify.com/track/10VuwBAxEi3goN8n3AvrGS) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:56 |
 | 26 | [MARRANA](https://open.spotify.com/track/4OYazVAyxXpVEKZcGOEg9c) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [elakkka](https://open.spotify.com/artist/2ovQecRjUZ8mmjcj9hHRLJ), [Grozero](https://open.spotify.com/artist/1FCT0FKl1NTrxZXA78LbNs) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:11 |
 | 27 | [You Said Something](https://open.spotify.com/track/4m5S4wvLY031rN6beIWoRe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:18 |
-| 28 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
-| 29 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 |
+| 28 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 |
+| 29 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
 | 30 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 31 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
 | 32 | [DUSTY](https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:00 |

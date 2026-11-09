@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 40 min 7 sec
+[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 35 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Town I Live In \- Original Version](https://open.spotify.com/track/79DQJbKVZty7GRnr9fMYzT) | [McKinley Mitchell](https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw) | [The One\-Derful! Collection: One\-Derful! Records](https://open.spotify.com/album/6Ew95Jq4RvmjBeFMG3ePDa) | 2:46 |
-| 2 | [Paid Time Off](https://open.spotify.com/track/3IBLeIzqewsCR4Pvp5jqD3) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 3:47 |
-| 3 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
-| 4 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
-| 5 | [All the Debts I Owe](https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/2vUB37lx6QDXvF7wPmPkFr) | 3:13 |
-| 6 | [Something About The Way You Look Tonight \- Edit Version](https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:00 |
-| 7 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
-| 8 | [I Saw My Twin](https://open.spotify.com/track/0QqIJ2o57gKmjUou1JOFF5) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/16fimHkQtXptYBytXfHfUs) | 3:23 |
-| 9 | [The Unguarded Moment \- 2002 Remastered](https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Of Skins And Heart](https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4) | 4:14 |
-| 10 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
-| 11 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
+| 1 | [Don't Talk \(Put Your Head On My Shoulder\)](https://open.spotify.com/track/4LHeNOCwHJvKxmH0AsQ1xt) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(40th Anniversary Edition\)](https://open.spotify.com/album/1yMPDqzYuQ4TI10ICKlbzW) | 2:58 |
+| 2 | [Sandstorm](https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm](https://open.spotify.com/album/5GnRROSFWQhuxfDkyBALGb) | 3:45 |
+| 3 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
+| 4 | [Too Dark](https://open.spotify.com/track/5bTKxJfWolOjvW7A1BethF) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:43 |
+| 5 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 |
+| 6 | [I Saw](https://open.spotify.com/track/5wDEOCfVVAqkdjkrSwDwGJ) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:27 |
+| 7 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
+| 8 | [A Place for My Head](https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
+| 9 | [Object Permanence](https://open.spotify.com/track/28BW0WwfqqNFOnBnt2aR0l) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Never Before Seen, Never Again Found](https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7) | 3:49 |
+| 10 | [Iris](https://open.spotify.com/track/4WkftVHUEzLVCQFn6tAxKt) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Pod](https://open.spotify.com/album/1KSkxHaYfTuyuUTtkpYHvQ) | 3:29 |
+| 11 | [CIA Man](https://open.spotify.com/track/2HthOIHQvqFuChdkVERIN2) | [The Fugs](https://open.spotify.com/artist/4tMcZ6q43cH5AbKk3mrdSi) | [Refuse To Be Burnt\-Out](https://open.spotify.com/album/5ZD9txZEH3UykpuPDlGGRl) | 3:28 |
 
-Snapshot ID: `AAAMzUBK3sF2cBGfQ5NPtNQYdL1/JTiB`
+Snapshot ID: `AAAM4+pFTz5KpvRoeJfNyYcgVBxLnZg3`

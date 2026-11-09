@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,195 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,225 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 39 | [Encontrar Meu Jesus \- Ao Vivo](https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH), [Talita Dias](https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee) | [Encontrar Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne) | 2:52 |
 | 40 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
 | 41 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
-| 42 | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ) | 3:59 |
+| 42 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
 | 43 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
-| 44 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
+| 44 | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ) | 3:59 |
 | 45 | [Vou Embora pro Céu](https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Vou Embora pro Céu](https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S) | 3:34 |
 | 46 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
 | 47 | [Você Vai Cantar](https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo) | [Samuel Vieira](https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Você Vai Cantar](https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua) | 5:10 |

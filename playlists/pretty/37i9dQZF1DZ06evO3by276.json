@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3247340,
+  "num_followers": 3247409,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAANNevaw1sRRxAgULXlz2j9",
+  "snapshot_id": "au5qAAAAAAB4Nks7cpcmwXjhSdDP6WZ/",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakira. (Expanded Edition) [Spanish Version]",
         "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 206866,
       "name": "Can't Remember to Forget You (feat. Rihanna)",
       "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 296226,
       "name": "Love The Way You Lie (Part II) - Pt. 2",
       "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
     },
     {
       "added_at": null,

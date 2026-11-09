@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163 likes - 192 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,164 likes - 192 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 140 | [Insecurities](https://open.spotify.com/track/2XJt04Myq7Q2sGHeieYhFX) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/46wJVfjbcZBGZ6Zabex3y9) | 4:26 |
 | 141 | [1000 Xans](https://open.spotify.com/track/2XkYcbrEv83s6wD0AkeCbz) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:15 |
 | 142 | [Thinkin Bout You \- KAYTRANADA Remix](https://open.spotify.com/track/6jqzT0sg5fHmaS1ft3gSRg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 4:24 |
-| 143 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
-| 144 | [Mustang Sally](https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:17 |
+| 143 | [Mustang Sally](https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:17 |
+| 144 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
 | 145 | [P.O](https://open.spotify.com/track/1QKfxpOED1lDW1Hrz4qWPb) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Likkle Jordee](https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB) | [e.t.d.s.](https://open.spotify.com/album/7j9Ytqep4WlXetjzzM3yPQ) | 2:58 |
 | 146 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
 | 147 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 191 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 192 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AchEOAAAAAAQgbXKhmUbJ5s4Ewnbfik5`
+Snapshot ID: `AchJ2AAAAADKjhtf9HkkBgvoD96DNwUs`

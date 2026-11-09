@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Sylvie
 
-909 songs - 2 day 7 hr 59 min
+910 songs - 2 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-18 | 2026-02-07 |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2023-11-17 | 2024-11-30 |
 | [Bones Shake](https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Bones Shake](https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk) | 3:46 | 2024-04-19 | 2024-08-31 |
+| [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 | 2026-11-08 |  |
 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 | 2025-11-21 |  |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-17 | 2025-09-13 |
 | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-08-08 | 2026-07-18 |

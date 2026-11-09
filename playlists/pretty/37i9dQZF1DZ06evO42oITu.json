@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 379470,
+  "num_followers": 379476,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADVZp1M32LCIIDFOUB/hZ6f",
+  "snapshot_id": "au5qAAAAAAB4KUJ5XxOjQPyu5JYErovm",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roll On (Bonus Track)",
         "url": "https://open.spotify.com/album/0tyqG6ramLxMTIs5oQkHjd"
       },
@@ -475,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live from Madison Square Garden",
-        "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 332813,
-      "name": "Can't Find My Way Home - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 249440,
       "name": "Heads in Georgia",
       "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live from Madison Square Garden",
+        "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 332813,
+      "name": "Can't Find My Way Home - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O"
     },
     {
       "added_at": null,

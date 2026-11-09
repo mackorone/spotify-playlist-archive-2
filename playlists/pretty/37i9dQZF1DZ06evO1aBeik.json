@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2804098,
+  "num_followers": 2804053,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAACWj/aUMWx1InNywQ/gcv1Q",
+  "snapshot_id": "au5qAAAAAACkPGpdAQ5aFLY+JIv/yKzQ",
   "tracks": [
     {
       "added_at": null,
@@ -266,19 +266,11 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
-      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": null,
@@ -346,11 +338,19 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 229573,
+      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1240878,
+  "num_followers": 1240949,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAD9z7tvwDK/eYZDfYEOdNvD",
+  "snapshot_id": "au5qAAAAAABi5AddMvkjfWUfdh0rBwm4",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Dramacydal",
-          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Me Against The World",
-      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resurrection (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 230786,
       "name": "Runnin' (Dying To Live)",
       "url": "https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gridlock'd (The Soundtrack)",
-        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Never Had A Friend Like Me",
-      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pac's Life",
         "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217440,
       "name": "Pac's Life",
       "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gridlock'd (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Never Had A Friend Like Me",
+      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
     },
     {
       "added_at": null,

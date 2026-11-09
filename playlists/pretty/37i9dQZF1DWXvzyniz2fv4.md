@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,884 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,880 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 48 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |
 | 49 | [OBRA PRIMA](https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [OBRA PRIMA](https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N) | 2:49 |
 | 50 | [Pra Você Ficar](https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Pra Você Ficar](https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl) | 2:40 |
-| 51 | [Tanta História](https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B) | [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Tanta História](https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR) | 3:15 |
-| 52 | [QUARTAS DE CINZA](https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP) | [OGermano](https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8), [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [VIRADA DE CHAVE](https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL) | 3:08 |
+| 51 | [QUARTAS DE CINZA](https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP) | [OGermano](https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8), [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [VIRADA DE CHAVE](https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL) | 3:08 |
+| 52 | [Tanta História](https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B) | [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Tanta História](https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR) | 3:15 |
 | 53 | [Ravi](https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ Gbeats](https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B), [Bollivia](https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z) | [Ravi](https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL) | 2:46 |
 | 54 | [Peito Aberto](https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Peito Aberto](https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl) | 3:13 |
 | 55 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |

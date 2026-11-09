@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 308258,
       "name": "Ashes and Auras",
       "url": "https://open.spotify.com/track/2dKhgvzXrMbaG3wut3DJeT"
@@ -11452,6 +11452,28 @@
       "duration_ms": 176309,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/5xzyCrwITp40jAf6FrHEbF"
+    },
+    {
+      "album": {
+        "name": "PERCEPTION OF LIFE",
+        "url": "https://open.spotify.com/album/05sCaefNfjpyYruhkg5PHF"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120424,
+      "name": "Caged Lion",
+      "url": "https://open.spotify.com/track/4mAoGlWIgUO1iNbGGhT4sC"
     },
     {
       "album": {

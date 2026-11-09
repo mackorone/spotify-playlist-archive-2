@@ -15743,6 +15743,24 @@
     },
     {
       "album": {
+        "name": "Hands Tied",
+        "url": "https://open.spotify.com/album/0SA7BPPq03hz256PIrkoai"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187624,
+      "name": "Hands Tied",
+      "url": "https://open.spotify.com/track/7a7hhyTY8lO92eW3M2GJPF"
+    },
+    {
+      "album": {
         "name": "Hanging",
         "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
       },

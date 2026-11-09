@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 254304,
       "name": "Bindaas",
       "url": "https://open.spotify.com/track/42XT1ZPONGnwbQsc4EPnoY"
@@ -11572,7 +11572,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -12408,7 +12408,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -16910,7 +16910,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -32452,7 +32452,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
@@ -33845,6 +33845,32 @@
     },
     {
       "album": {
+        "name": "Punchiri",
+        "url": "https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "Suhas",
+          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
+        },
+        {
+          "name": "Chris Wayne",
+          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Punchiri",
+      "url": "https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -34732,7 +34758,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -36830,7 +36856,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -38544,7 +38570,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"

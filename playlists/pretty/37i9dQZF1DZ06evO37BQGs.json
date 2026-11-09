@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABvO0ZFys1acyF6bUTfsYi8",
+  "snapshot_id": "au5qAAAAAAC2WDdORcwGEPQ+TpLusI6h",
   "tracks": [
     {
       "added_at": null,
@@ -220,7 +220,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
     },
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 167080,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
+      "duration_ms": 229266,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
+      "duration_ms": 202826,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
     },
     {
       "added_at": null,

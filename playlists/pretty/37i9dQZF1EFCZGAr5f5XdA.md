@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 218 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,122 likes - 218 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 114 | [Ungrateful Eyes](https://open.spotify.com/track/6p9vTtbwiVHMahR5UwNI7k) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:24 |
 | 115 | [Insanity](https://open.spotify.com/track/15KGYDSw1BJR9KMhp3UWpF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:03 |
 | 116 | [Guy I Used To Be](https://open.spotify.com/track/6xGD0QAg4XmMsZkynm1oSV) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:47 |
-| 117 | [LIFE](https://open.spotify.com/track/1a6LRSRHWS4zKvBjQNaF0S) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:23 |
-| 118 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 117 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 118 | [LIFE](https://open.spotify.com/track/1a6LRSRHWS4zKvBjQNaF0S) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:23 |
 | 119 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 |
 | 120 | [Walls \(with Jon Bellion\)](https://open.spotify.com/track/7fddOHNASW6ONwNVjSVJgo) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 4:26 |
 | 121 | [Thick Of It All](https://open.spotify.com/track/3xw5JF5bs2Tm7BvcC1QxuZ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R) | 3:19 |
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 176 | [Do](https://open.spotify.com/track/5bMAXFzjqnXjJoaobZFPpa) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:06 |
 | 177 | [WASH2](https://open.spotify.com/track/2FcPfHa1dngTMjhlHD9zg4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:41 |
 | 178 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
-| 179 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
-| 180 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 179 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 180 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
 | 181 | [A Dedicated Instrumental](https://open.spotify.com/track/7FuyL5VZ172qCdq6opFpq4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 1:32 |
 | 182 | [Hip Replacement](https://open.spotify.com/track/66raFn343Bxxfec5ByE5Yd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 4:13 |
 | 183 | [bottomline \(feat\. JoJo\)](https://open.spotify.com/track/1lKFDImYTHzIGPtiQQZSwu) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:22 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 217 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 | 218 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 
-Snapshot ID: `AchEOAAAAAD9rbzv1975MvD28OBbCVKy`
+Snapshot ID: `AchJ2AAAAADbkNF7Sf65GHNhOOBc5Q+x`

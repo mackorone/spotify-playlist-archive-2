@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: ちゃんみな
 
-3,935 songs - 10 day 10 hr 14 min
+3,936 songs - 10 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Choose for yourself](https://open.spotify.com/track/0gBL7umwsbrOXZPkbdQJeP) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [MY ARMS.](https://open.spotify.com/album/15kewSjPOqpMY3FUEYAQVq) | 4:07 | 2023-04-25 | 2023-05-03 |
 | [Chosen Path](https://open.spotify.com/track/52CqIJzhRI4EPJ1Dbh1tKb) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [Chosen Path](https://open.spotify.com/album/7iFy8xFSmPm4uJuH36tQSy) | 4:24 | 2025-09-30 | 2025-10-09 |
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2022-12-03 |
-| [Christmas Eve](https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Made of Glass](https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV) | 4:12 | 2026-08-18 |  |
+| [Christmas Eve](https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Made of Glass](https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV) | 4:12 | 2026-08-18 | 2026-11-09 |
 | [Christmas Mermaid \(feat\. Hikari\)](https://open.spotify.com/track/0BdTkVIFYJaZXSDvmT20EB) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Christmas Mermaid \(feat\. Hikari\)](https://open.spotify.com/album/2EdYmR3WoAsVsuPbV9KlKk) | 3:13 | 2024-11-05 | 2024-11-20 |
 | [CHRISTMAS SPIRIT](https://open.spotify.com/track/2JXTOSVdTmQYI3I3BaNAte) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [CHRISTMAS SPIRIT &SWEET HARMONY](https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn) | 5:07 | 2023-12-09 | 2023-12-13 |
 | [CHRONIC](https://open.spotify.com/track/4pi3XWPdc9T1NjiGcTaltO) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [CHRONIC](https://open.spotify.com/album/3su7kmZwN25Xh2q5JY7cQT) | 3:14 | 2023-02-02 | 2023-02-08 |
@@ -2561,6 +2561,7 @@
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-23 |
 | [もう一度](https://open.spotify.com/track/1J1RSRFArLdiNYNSUNAaOy) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [もう一度](https://open.spotify.com/album/2jghcEnh5H8ckScEtNR0gy) | 2:43 | 2024-06-04 | 2024-06-12 |
 | [もう別れたんだよキミとは](https://open.spotify.com/track/454pecSeENSWNscfybD7RW) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [もう別れたんだよキミとは](https://open.spotify.com/album/6p2mwvrojncucGPCb6osdW) | 3:54 | 2025-01-14 | 2025-01-22 |
+| [もし、](https://open.spotify.com/track/7fYV1z2NNeAr8SZ2wtvD3o) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [もし、](https://open.spotify.com/album/0L6Y3u34NWWSLt1fvs0xXw) | 5:17 | 2026-11-03 |  |
 | [もしもし](https://open.spotify.com/track/7fLLsqujHDTS8Y0jrCNVnM) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [もしもし](https://open.spotify.com/album/6wyEEflDZCzzm6vz4avzRO) | 4:00 | 2022-06-14 | 2022-06-22 |
 | [もしもし](https://open.spotify.com/track/3UTBFrrMvmI2pMFaw1fcEn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [こちらあみ子 オリジナル・サウンドトラック](https://open.spotify.com/album/2Uj2y3df4YqIh2XMXsOrzx) | 4:00 | 2022-07-07 | 2022-07-13 |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-05 | 2023-04-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 292254,
+  "num_followers": 292265,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 252480,
-      "name": "Long Hot Summer Day",
-      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
+      "duration_ms": 289653,
+      "name": "7 & 7",
+      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 289653,
-      "name": "7 & 7",
-      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
+      "duration_ms": 252480,
+      "name": "Long Hot Summer Day",
+      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-10-23 02:50:18",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
-    },
-    {
-      "added_at": "2026-10-23 02:50:18",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
+    },
+    {
+      "added_at": "2026-10-23 02:50:18",
+      "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-23 02:50:18",
       "album": {
-        "name": "No Vacancy",
-        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "No Vacancy",
-      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
-    },
-    {
-      "added_at": "2026-10-23 02:50:18",
-      "album": {
         "name": "Beer, Bait and Ammo",
         "url": "https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 315924,
       "name": "Beer, Bait and Ammo",
       "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
+    },
+    {
+      "added_at": "2026-10-23 02:50:18",
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 244429,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-10-23 02:50:18",
       "album": {
-        "name": "Brand New Me",
-        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
       },
       "artists": [
         {
-          "name": "Cory Morrow",
-          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 189413,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+      "duration_ms": 224840,
+      "name": "Three Days",
+      "url": "https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-10-23 02:50:18",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Cory Morrow",
+          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Three Days",
-      "url": "https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S"
+      "duration_ms": 189413,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
     },
     {
       "added_at": "2026-10-23 02:50:18",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-10-23 02:50:18",
       "album": {
+        "name": "Joshua Judges Ruth",
+        "url": "https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "duration_ms": 342573,
+      "name": "North Dakota",
+      "url": "https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E"
+    },
+    {
+      "added_at": "2026-10-23 02:50:18",
+      "album": {
         "name": "Undone: A Musicfest Tribute to Robert Earl Keen",
         "url": "https://open.spotify.com/album/5K3zDZeAo4tTGKqEmRyJN2"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 376146,
       "name": "Shades of Gray",
       "url": "https://open.spotify.com/track/33CVbDlfnTJa8Fb78HZMLe"
-    },
-    {
-      "added_at": "2026-10-23 02:50:18",
-      "album": {
-        "name": "Joshua Judges Ruth",
-        "url": "https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 342573,
-      "name": "North Dakota",
-      "url": "https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E"
     },
     {
       "added_at": "2026-10-23 02:50:18",

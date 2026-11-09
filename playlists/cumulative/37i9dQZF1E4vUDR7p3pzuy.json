@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, Evil Level Live and more",
+  "description": "With NUDNIK, JUST LIZZY, SCHANZ and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 152898,
       "name": "Afraid of the Dark?",
       "url": "https://open.spotify.com/track/6jM0rdze0UkIBcH46nXuoi"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 240040,
       "name": "Blanc Poney",
       "url": "https://open.spotify.com/track/0NaDCnQc8DRHqYmMcICgWX"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 265072,
       "name": "C.L.C",
       "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 257857,
       "name": "Curse of the Golden Touch",
       "url": "https://open.spotify.com/track/1ugw0BeiI2PhaXdWvZD7VE"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 239575,
       "name": "Death Dealers",
       "url": "https://open.spotify.com/track/5CYuSSFbVcEP4zXz54Ac0a"
@@ -6212,7 +6212,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 177740,
       "name": "DISGUISE MY HEART",
       "url": "https://open.spotify.com/track/1bdBMI9P0WyRCOh8QCExjW"
@@ -6381,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "Drink the Ocean",
+        "url": "https://open.spotify.com/album/7dQagTOxb78hNwbSWkAnpD"
+      },
+      "artists": [
+        {
+          "name": "Drag Talk",
+          "url": "https://open.spotify.com/artist/7EL4LNzJ1qxFdvlIUifuQ7"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282037,
+      "name": "Don\u2019t Be Long",
+      "url": "https://open.spotify.com/track/6XKQCBKr2lB6i6ujRUIEpE"
+    },
+    {
+      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
       },
@@ -6536,7 +6554,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 234881,
       "name": "Drive Me Far",
       "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
@@ -7174,7 +7192,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 236160,
       "name": "Energy Redirected",
       "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
@@ -8531,6 +8549,28 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1lXx3nvetOdQGHxtU78Luw"
+      },
+      "artists": [
+        {
+          "name": "Danny Crush",
+          "url": "https://open.spotify.com/artist/1XUkTGOEFUe6UOesoBbLPA"
+        },
+        {
+          "name": "Ultraviolet Eden",
+          "url": "https://open.spotify.com/artist/2UW8DF0rXqDuurL9GVdnC1"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322278,
+      "name": "Freak - Slowed",
+      "url": "https://open.spotify.com/track/08ccfMyg1V9UjuQNovmcrj"
+    },
+    {
+      "album": {
         "name": "Freaky Ho's",
         "url": "https://open.spotify.com/album/7t0zFeVpSXHaAe8ali6gSN"
       },
@@ -8782,7 +8822,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -8852,6 +8892,24 @@
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
+    },
+    {
+      "album": {
+        "name": "Ghost Me",
+        "url": "https://open.spotify.com/album/33wyGmLTE8NmAZmzZTDBW3"
+      },
+      "artists": [
+        {
+          "name": "Brian Teubl",
+          "url": "https://open.spotify.com/artist/6cn7gdTjj8SRJGg7Ai5vov"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253230,
+      "name": "Ghost Me",
+      "url": "https://open.spotify.com/track/15QXP5N5x9E07QfMaBDqjr"
     },
     {
       "album": {
@@ -11326,7 +11384,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -11766,7 +11824,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -12748,7 +12806,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -13098,7 +13156,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -13874,7 +13932,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
@@ -14932,7 +14990,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 277408,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/7M3sWPlXhf3w2hWtLeFSom"
@@ -15543,6 +15601,24 @@
     },
     {
       "album": {
+        "name": "No Tears / All Over",
+        "url": "https://open.spotify.com/album/097xDzTbIOj3vEY9EqSj95"
+      },
+      "artists": [
+        {
+          "name": "PINS",
+          "url": "https://open.spotify.com/artist/2kbO657SWC6kiO1Dni3ook"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "No Tears",
+      "url": "https://open.spotify.com/track/1pAH3KKVOUii4xsoTfZd1P"
+    },
+    {
+      "album": {
         "name": "no thank you",
         "url": "https://open.spotify.com/album/1XkzZSp2zEabycRxWRX6Rf"
       },
@@ -15800,6 +15876,24 @@
       "duration_ms": 173651,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0IZoDrAaRaBqZWu8f7MVbb"
+    },
+    {
+      "album": {
+        "name": "October 96",
+        "url": "https://open.spotify.com/album/7LpdDLLSEyqwM3EYKrHyH2"
+      },
+      "artists": [
+        {
+          "name": "One Second",
+          "url": "https://open.spotify.com/artist/4GfXEWqoWZtcW0mFQQxFPT"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "October 96",
+      "url": "https://open.spotify.com/track/3pD7SYgPTEm3gP4aabefh8"
     },
     {
       "album": {
@@ -16236,7 +16330,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 233125,
       "name": "Overtime - Devours Remix",
       "url": "https://open.spotify.com/track/4f2O4msjNNBweviK7U9vNZ"
@@ -17944,7 +18038,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 292800,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/0aYxlvUA9rMLe9SLc53wtE"
@@ -18474,7 +18568,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -18626,7 +18720,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -19084,7 +19178,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 324878,
       "name": "shrew",
       "url": "https://open.spotify.com/track/1cTr2KL6Jrr0LwxnSVkwXV"
@@ -19412,7 +19506,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 280142,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/4dfDCoMMgtBT7HnQvI8n7t"
@@ -20228,7 +20322,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 199906,
       "name": "St. Vitus' Dance",
       "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
@@ -20416,7 +20510,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -20730,7 +20824,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 188808,
       "name": "Suburban Princess - Not Suitable for Radio Edit",
       "url": "https://open.spotify.com/track/1HaOig40QKrMbx1d6XQklA"
@@ -23204,7 +23298,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -23330,7 +23424,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -23918,7 +24012,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -24264,7 +24358,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 354453,
       "name": "Utopian Daydreams",
       "url": "https://open.spotify.com/track/0CcNGKHh1jWQfY1iWCE3Jt"
@@ -25016,7 +25110,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 172597,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/7epTOf0CEuVtCmlLsnZOSa"
@@ -25356,7 +25450,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"
@@ -25830,7 +25924,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -25996,7 +26090,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 225250,
       "name": "Winter Winds",
       "url": "https://open.spotify.com/track/5FZ0LutacM98LqyELsMgRq"

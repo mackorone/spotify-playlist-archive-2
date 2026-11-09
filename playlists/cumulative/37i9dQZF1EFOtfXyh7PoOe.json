@@ -3099,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },

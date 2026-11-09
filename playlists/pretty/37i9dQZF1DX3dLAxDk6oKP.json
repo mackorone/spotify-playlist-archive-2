@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 526568,
+  "num_followers": 526648,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 195314,
       "name": "Asquerosamente Rico",
       "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "Arriba la Barbiza",
-        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Arriba la Barbiza",
-      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "LUZ VERDE",
+        "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "LUZ VERDE",
+      "url": "https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "El Chore",
         "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "LUZ VERDE",
-        "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "LUZ VERDE",
-      "url": "https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "COMO CAPO",
         "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "El Guty",
-        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 163582,
-      "name": "El Guty",
-      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
+        "name": "El Guty",
+        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 163582,
+      "name": "El Guty",
+      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
     },
     {
       "added_at": "2026-11-06 21:24:29",

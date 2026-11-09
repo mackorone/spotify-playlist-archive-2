@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
+    },
+    {
+      "album": {
         "name": "Both Sides of the Blade (EP)",
         "url": "https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw"
       },

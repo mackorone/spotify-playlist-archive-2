@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,645 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,640 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 2 | [Everything's Gonna be Alright](https://open.spotify.com/track/4DkcJCIaqHlPxro398HDEn) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Everything's Gonna be Alright](https://open.spotify.com/album/1MROQ3m8rDDcYiZDwfR13y) | 4:24 |
 | 3 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 4 | [小日記](https://open.spotify.com/track/7ayVmZVEzhdXHQiSXx7Qj1) | [盧可沛](https://open.spotify.com/artist/4mkIoKpfYgK6c0AJ1rRYwb) | [小日記](https://open.spotify.com/album/7eO0fzqhmkMPIEvMR8pvpp) | 3:53 |
-| 5 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
-| 6 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
+| 5 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
+| 6 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 7 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
 | 8 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:48 |
 | 9 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |

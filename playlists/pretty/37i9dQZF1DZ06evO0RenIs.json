@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97967,
+  "num_followers": 97969,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAACownW6jFSbzyuPDQe0zSXg",
+  "snapshot_id": "au0YgAAAAABL7qvKM/704b8bCAvlnUCw",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 176186,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 196813,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
+      "duration_ms": 176186,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
     },
     {
       "added_at": null,

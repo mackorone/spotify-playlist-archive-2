@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,560 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,581 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 49 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 |
 | 50 | [Naam](https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 5:34 |
 | 51 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 |
-| 52 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
+| 52 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
 | 53 | [Ranjish Hi Sahi](https://open.spotify.com/track/4n9A2E7RxxhRGq5GgHBSKy) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc), [Sanjeevani Bhelande](https://open.spotify.com/artist/58MHqzMYj4y4hs53HGz7zF) | [Ranjish Hi Sahi](https://open.spotify.com/album/7uwf4PieYvZPO7ng4KbPk1) | 6:36 |
-| 54 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
+| 54 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
 | 55 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 |
 | 56 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 |
 | 57 | [Rooh](https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Rooh](https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e) | 5:17 |

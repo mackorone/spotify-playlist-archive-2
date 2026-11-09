@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 37 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 38 | [The Legend of Ashitaka](https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 1:39 |
 | 39 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
-| 40 | [Yuri on ICE](https://open.spotify.com/track/6mhtjlYdbceFnMlRfkbsQu) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 3:42 |
+| 40 | [Blue Bird](https://open.spotify.com/track/0aeHNyiNeggD428PIcR4j0) | [Shinichi Osawa Works](https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb) | [BANANA FISH Original Soundtrack](https://open.spotify.com/album/27BMpZqsazAK3R0y1vZFLQ) | 2:24 |
 | 41 | [Main Theme ～The Fullmetal Alchemist～](https://open.spotify.com/track/7c9OHViTralZa26DFOSTs2) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:42 |
-| 42 | [Blue Bird](https://open.spotify.com/track/0aeHNyiNeggD428PIcR4j0) | [Shinichi Osawa Works](https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb) | [BANANA FISH Original Soundtrack](https://open.spotify.com/album/27BMpZqsazAK3R0y1vZFLQ) | 2:24 |
+| 42 | [Yuri on ICE](https://open.spotify.com/track/6mhtjlYdbceFnMlRfkbsQu) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 3:42 |
 | 43 | [アシタカせっ記](https://open.spotify.com/track/3QQcmb87X6e10gdEXDx1ep) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [もののけ姫 イメージアルバム](https://open.spotify.com/album/0RDqwG2WKEMrBFLGljbCcy) | 4:39 |
 | 44 | [livingroom](https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:42 |
 | 45 | [ルフィ復活](https://open.spotify.com/track/3pswsd1cgi2U5ninhgo31W) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 1:56 |
-| 46 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
-| 47 | [ルパン三世のテーマ \- 「ルパン三世のテーマ'78」シングル・ヴァージョン](https://open.spotify.com/track/5VZn5Gsn2ckFJ2bmRo9GPe) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 3:24 |
+| 46 | [ルパン三世のテーマ \- 「ルパン三世のテーマ'78」シングル・ヴァージョン](https://open.spotify.com/track/5VZn5Gsn2ckFJ2bmRo9GPe) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 3:24 |
+| 47 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
 | 48 | [BEASTARS](https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:18 |
 | 49 | [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 |
 | 50 | [ワノ国 幕開け、幕引きのテーマ](https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,691 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,713 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 19 | [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 2:59 |
 | 20 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 |
 | 21 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
-| 22 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
+| 22 | [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 |
 | 23 | [Rehbara](https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Rehbara](https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR) | 2:53 |
 | 24 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 |
 | 25 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
-| 26 | [Rang Lageya](https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya](https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr) | 3:47 |
-| 27 | [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 |
+| 26 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
+| 27 | [Rang Lageya](https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya](https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr) | 3:47 |
 | 28 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
 | 29 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 30 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 |

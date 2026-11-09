@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1671010,
+  "num_followers": 1670892,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 194051,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 194051,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 275693,
       "name": "Who Else Could I Be",
       "url": "https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
-        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 321140,
-      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
-      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Holocene [feat. Weyes Blood]",
         "url": "https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 266292,
       "name": "Holocene [feat. Weyes Blood]",
       "url": "https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Pretty Pictures",
-      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Bed Head (Acoustic)",
         "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 243456,
       "name": "Bed Head - Acoustic",
       "url": "https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Pretty Pictures",
+      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Excalibur / Toy",
-        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Sweet Lucy / Wild Mountain Thyme",
         "url": "https://open.spotify.com/album/57wSPDNu5pthfNZlrBIRjL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 250976,
       "name": "Sweet Lucy",
       "url": "https://open.spotify.com/track/567Df0jSPeshvSIpU5TEZ9"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Fanfare",
-      "url": "https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 220377,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI"
     },
     {
       "added_at": "2026-04-20 20:08:42",

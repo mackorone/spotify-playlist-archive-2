@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,098 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,084 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 77 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 78 | [Iko Kreyòl](https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Win Butler](https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN), [Regine Chassagne](https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [79rs Gang](https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX) | [HaitiaNola](https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z) | 3:02 |
 | 79 | [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 |
-| 80 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
-| 81 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 80 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 81 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 82 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
 | 83 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
 | 84 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
-| 85 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
-| 86 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
+| 85 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
+| 86 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
 | 87 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 88 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 89 | [PA KRIYE](https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [PA KRIYE](https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,257 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,235 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 22 | [A veces \- Remezclado 2025](https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [1988 \(Remezclado 2025\)](https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF) | 3:18 |
 | 23 | [De Volver a Comenzar](https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Respira: Vol 1](https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03) | 3:27 |
 | 24 | [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 |
-| 25 | [A las Nueve](https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [SE ARRIENDA](https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz) | 3:28 |
+| 25 | [Tú y yo](https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg) | 2:50 |
 | 26 | [He barrido el sol \(Revuelta en vivo\)](https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:36 |
-| 27 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
-| 28 | [Tú y yo](https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg) | 2:50 |
+| 27 | [A las Nueve](https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [SE ARRIENDA](https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz) | 3:28 |
+| 28 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
 | 29 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
 | 30 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedro Piedra](https://open.spotify.com/artist/18rP7uwYEhsn4DdRCxEVf3) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
 | 31 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,524 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,517 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Fous!](https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Fous!](https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck) | 2:06 |
 | 10 | [Enter Ecstasy](https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Enter Ecstasy](https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm) | 3:03 |
 | 11 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
-| 12 | [hot girl](https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [hot girl](https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe) | 1:28 |
-| 13 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
+| 12 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
+| 13 | [hot girl](https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [hot girl](https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe) | 1:28 |
 | 14 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/0InsWMLpmFodDsg4fPTn2e) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 1:40 |
 | 15 | [eigentlich](https://open.spotify.com/track/3yAHXk7dPNgbWEWiTLNQAz) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [eigentlich](https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai) | 2:24 |
 | 16 | [Fotzeigemutter](https://open.spotify.com/track/3EetiB98Gm5t8Lq6jlYtYU) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzeigemutter](https://open.spotify.com/album/4oYM3onjdy6TYnibQzdNNO) | 2:23 |
 | 17 | [In Da Zone](https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [In Da Zone](https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo) | 2:48 |
-| 18 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
-| 19 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
+| 18 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
+| 19 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
 | 20 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
 | 21 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
 | 22 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,255 likes - 286 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 286 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 196 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 |
 | 197 | [Lamborghini Boys](https://open.spotify.com/track/0sReaVlIrNWhhjcdw1YuhX) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:23 |
 | 198 | [Club Roc](https://open.spotify.com/track/2NogS7n5nLxYdJA3KV6Gy7) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Don't Think That](https://open.spotify.com/album/1Vn6MUy9s3dZfD43B3qEiO) | 2:12 |
-| 199 | [Addiction \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/69I7iAPk11AOvLI0t7Uo01) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:46 |
-| 200 | [Sexy Ladies \(feat\. UCB \(Uncalled 4 Band\)\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB \(Uncalled 4 Band\)](https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 |
+| 199 | [Sexy Ladies \(feat\. UCB \(Uncalled 4 Band\)\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB \(Uncalled 4 Band\)](https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 |
+| 200 | [Addiction \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/69I7iAPk11AOvLI0t7Uo01) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:46 |
 | 201 | [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/57fJVNmqX4u8xi3uWkd2gh) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:11 |
 | 202 | [FAIRYTALES IN MIDTOWN \(with TyFontaine\)](https://open.spotify.com/track/57h517zwkQm1dXmxEYQe3d) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 1:48 |
 | 203 | [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 285 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 286 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AchELgAAAACkyx9DUykeISNx80tzYZOQ`
+Snapshot ID: `AchKCgAAAABHHoDiyg3Z5s95+L2VTjvj`

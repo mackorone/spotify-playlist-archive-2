@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 91094,
+  "num_followers": 91114,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -175,38 +175,6 @@
       "duration_ms": 131733,
       "name": "Verdi: La forza del destino, Act 3: \"Morir! Tremenda cosa!\" (Don Carlo di Vargas)",
       "url": "https://open.spotify.com/track/0drQZ4GkWY45j0mUKpMOpm"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Opera Choruses",
-        "url": "https://open.spotify.com/album/6jJiLiRHsj1UkAGfR1ITKs"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Marian Vach",
-          "url": "https://open.spotify.com/artist/4MVTsqkpprVhkctKjcF7g2"
-        },
-        {
-          "name": "Slovak Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Oliver von Dohnanyi",
-          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "La traviata: Gypsy Chorus 'Noi siamo zingarelle'",
-      "url": "https://open.spotify.com/track/2lNiCqXiRThyQK4kGvPx5e"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -411,46 +379,6 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "Verdi: Rigoletto - Highlights",
-        "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Edita Gruberova",
-          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
-        },
-        {
-          "name": "Neil Shicoff",
-          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
-        },
-        {
-          "name": "Brigitte Fassbaender",
-          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Rigoletto / Act 3: \"Bella figlia dell'amore\"",
-      "url": "https://open.spotify.com/track/6E2M3tcn1YJiQHorpGnpxY"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -507,6 +435,46 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Verdi: Rigoletto - Highlights",
+        "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Edita Gruberova",
+          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
+        },
+        {
+          "name": "Neil Shicoff",
+          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
+        },
+        {
+          "name": "Brigitte Fassbaender",
+          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Rigoletto / Act 3: \"Bella figlia dell'amore\"",
+      "url": "https://open.spotify.com/track/6E2M3tcn1YJiQHorpGnpxY"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -595,30 +563,6 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
         "name": "Villaz\u00f3n - Verdi",
         "url": "https://open.spotify.com/album/1P18XYJ3aHkRgV5COTFF8I"
       },
@@ -643,6 +587,30 @@
       "duration_ms": 115920,
       "name": "La traviata / Act II: \"O mio rimorso!\"",
       "url": "https://open.spotify.com/track/25p6BUZVPaMmRxR2N5Knik"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -675,34 +643,6 @@
       "duration_ms": 277640,
       "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
       "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Neil Shicoff",
-          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Rigoletto / Act 1: \"Questa o quella\"",
-      "url": "https://open.spotify.com/track/2rHyEmuWvR2frVn1DyUxPp"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -747,6 +687,34 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Neil Shicoff",
+          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Rigoletto / Act 1: \"Questa o quella\"",
+      "url": "https://open.spotify.com/track/2rHyEmuWvR2frVn1DyUxPp"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -1535,6 +1503,38 @@
       "duration_ms": 178293,
       "name": "Messa da Requiem: Requiem aeternam",
       "url": "https://open.spotify.com/track/4SHHfglW2TkMy9mfILQ1EN"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Verdi: Opera Choruses",
+        "url": "https://open.spotify.com/album/6jJiLiRHsj1UkAGfR1ITKs"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Marian Vach",
+          "url": "https://open.spotify.com/artist/4MVTsqkpprVhkctKjcF7g2"
+        },
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "La traviata: Gypsy Chorus 'Noi siamo zingarelle'",
+      "url": "https://open.spotify.com/track/2lNiCqXiRThyQK4kGvPx5e"
     },
     {
       "added_at": "2025-12-22 11:16:50",

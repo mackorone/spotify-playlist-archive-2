@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 226345,
       "name": "Duele Tu Abandono - En Vivo",
       "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
@@ -3026,6 +3026,28 @@
       "duration_ms": 174848,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/2TKHT1XU7XZTi3BmU9WjSg"
+    },
+    {
+      "album": {
+        "name": "Wonka",
+        "url": "https://open.spotify.com/album/6P0DPtdLfLRQcb2Q6HGnDE"
+      },
+      "artists": [
+        {
+          "name": "EMIRR",
+          "url": "https://open.spotify.com/artist/2qsUySwh6jLSocEUAK5KNW"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Wonka",
+      "url": "https://open.spotify.com/track/0FmQBKd4WTCbUuiQjYhVhM"
     },
     {
       "album": {

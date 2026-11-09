@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 237056,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/2uY20FD6cAiH5vziccgjAJ"
@@ -314,6 +314,24 @@
       "duration_ms": 227093,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7wb8HaXttfcAYRYsdIyZEN"
+    },
+    {
+      "album": {
+        "name": "Amor Dos Outros (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vF88sCynxiLx2IK9TJAsy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193310,
+      "name": "Amor Dos Outros - Ao Vivo",
+      "url": "https://open.spotify.com/track/0bAjB3V4naPEYOmgDuXhBo"
     },
     {
       "album": {
@@ -506,7 +524,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 169333,
       "name": "Babyglock",
       "url": "https://open.spotify.com/track/2gRa4A0bPcpTPMTcLrxUcr"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "bloodstream (Official Music Video)",
       "url": "https://open.spotify.com/track/3bssyIRidCzKTV6yvZymSo"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 134708,
       "name": "Bloody Paradise - Live Performance Video",
       "url": "https://open.spotify.com/track/1Za75BFx09Q0eRStKhfuET"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 237504,
       "name": "Chulalai",
       "url": "https://open.spotify.com/track/0N66Xoa0j5xLNbUB8FWqIB"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 219200,
       "name": "Cuando El Agua Hirviendo - En Vivo desde Colombia",
       "url": "https://open.spotify.com/track/7vqgovQZfgD6po0vU2uwCv"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 252302,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 168618,
       "name": "Eu Me Rendo - Ao Vivo",
       "url": "https://open.spotify.com/track/0HkmCvXToLG4iztBmWs7DV"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 223341,
       "name": "expectations (feat. Chappell Roan) - wheel of misfortune",
       "url": "https://open.spotify.com/track/4JitNOIelgPCMf5aF3tZtL"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -3204,6 +3222,24 @@
       "duration_ms": 120320,
       "name": "Lali, Tini - 1Amor (EN VIVO) / @River - Buenos Aires 2026",
       "url": "https://open.spotify.com/track/6Eg7a09lTggpzzdOHs76WM"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6KwQ61tsNF4ru0Di47b5Df"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277781,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2sIvNRBvLNQX1rxVoPwJPE"
     },
     {
       "album": {
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 130602,
       "name": "Milko Freestyle",
       "url": "https://open.spotify.com/track/5Aup3xy56Pz7ybJpwWggv3"
@@ -3853,7 +3889,7 @@
     },
     {
       "album": {
-        "name": "My Body Isn't Ready (Orchestral Version Live From Sound City)",
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
         "url": "https://open.spotify.com/album/4rGc5TUUgDGNYHn3Wzxl6k"
       },
       "artists": [
@@ -3864,9 +3900,9 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 225557,
-      "name": "My Body Isn't Ready - Orchestral Version Live From Sound City",
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
       "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
     },
     {
@@ -4006,7 +4042,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 201310,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z"
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 201950,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ"
@@ -5422,7 +5458,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 186889,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/1MWM26yX1gcw4IRQbVL6aw"
@@ -5682,7 +5718,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 821888,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2PjOCtFhCh6rIotqFnuXWt"
@@ -5754,7 +5790,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -5870,7 +5906,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 217130,
       "name": "TUSSI",
       "url": "https://open.spotify.com/track/63C9AMVLyFjd8dHyPIvsy6"
@@ -5906,7 +5942,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 321579,
       "name": "Unloveu - Live From the WILDWORLD Tour",
       "url": "https://open.spotify.com/track/3jxFV2A3tEB5KMAYZQEpRX"

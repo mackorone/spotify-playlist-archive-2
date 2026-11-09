@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 12 | [So Long \(feat\. Cam\)](https://open.spotify.com/track/4nMyUJxp3SCA3gGyFhIfX9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:52 |
 | 13 | [Half Broke Heart](https://open.spotify.com/track/5mWupJUJRttb69wmOgVWVh) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:04 |
 | 14 | [My Mistake](https://open.spotify.com/track/5ICoYTFfmUKguBHpINKkGL) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:20 |
-| 15 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
-| 16 | [Village](https://open.spotify.com/track/7t48bfH8F6cYnt6A5d4zha) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:55 |
+| 15 | [Village](https://open.spotify.com/track/7t48bfH8F6cYnt6A5d4zha) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:55 |
+| 16 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
 | 17 | [Forgetting You](https://open.spotify.com/track/56DsYXpdqkl3t2G3xM8MtA) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:04 |
 | 18 | [Redwood Tree](https://open.spotify.com/track/0oUX526nJDq484nPdQG1vm) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:18 |
 | 19 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 40 | [Just For You](https://open.spotify.com/track/6ACOdnyDhj2k3VCSDsOEbs) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 1:48 |
 | 41 | [We Always Do](https://open.spotify.com/track/0DpqyzGCvc8GOGFs0ZO46l) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:45 |
 
-Snapshot ID: `AchEOAAAAAA+RMjTRpAxHR2RPqjyjTbl`
+Snapshot ID: `AchJ2AAAAADL3KxJo2nhGdCFLH/JjGpp`

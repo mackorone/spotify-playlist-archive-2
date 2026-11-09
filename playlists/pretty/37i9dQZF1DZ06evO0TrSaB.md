@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 
 > This is Jai'Len Josey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 15 | [Anniversary \- A Cappella](https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv) | [JABARI](https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Amanda Adams](https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7) | [Anniversary \(A Cappella\)](https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM) | 2:27 |
 | 16 | [Safe](https://open.spotify.com/track/2gYUxw19mLH5zcOV3TrsGl) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:21 |
 | 17 | [Housewife](https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 2:39 |
-| 18 | [Man In Your Bed](https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:03 |
+| 18 | [Pay For My Drink](https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:50 |
 | 19 | [All Mine](https://open.spotify.com/track/4zveG9JtaKJBrWWLWOKa40) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [All Mine](https://open.spotify.com/album/7m1EABoUFNU7A4w3R9JAEa) | 3:28 |
 | 20 | [You Ain't Gotta Worry](https://open.spotify.com/track/2FPutcjGpvreg2cAOw2X5f) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 4:09 |
 | 21 | [Freak](https://open.spotify.com/track/0NkgPNxtAU3aryEc57NnWr) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:25 |
-| 22 | [Pay For My Drink](https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:50 |
+| 22 | [Man In Your Bed](https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:03 |
 | 23 | [Death of a Black Girl](https://open.spotify.com/track/6SIYky2birhxaoD3EocVJK) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Death of a Black Girl](https://open.spotify.com/album/60xqp6M0V9taSTnnScMoDR) | 3:11 |
 | 24 | [A Few Things](https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN) | 3:21 |
 | 25 | [Fall](https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 6:40 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 27 | [Alright](https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [1 of 1](https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj) | 3:44 |
 | 28 | [Welcome Home](https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Remember Me: The Mahalia Jackson Story \(Original Soundtrack\)](https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN) | 2:06 |
 
-Snapshot ID: `auvHAAAAAADnuR8hdnKIunj3AkeYsd3m`
+Snapshot ID: `au5qAAAAAABCpa/Bv3t5TgWIPNI1/Q1N`

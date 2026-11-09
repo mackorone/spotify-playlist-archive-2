@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-154 songs - 8 hr 39 min
+156 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 | 2024-02-23 | 2024-07-29 |
 | [Everywhere I Go](https://open.spotify.com/track/1dxA5RleRQ8yu0VA1TXJLY) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 2:56 | 2024-07-28 |  |
 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-29 |  |
+| [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 | 2026-11-08 |  |
 | [Fear Of Missing Out](https://open.spotify.com/track/3SuYCsNMFa61CxlLU6ukNV) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:55 | 2024-06-02 |  |
 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 | 2022-01-07 |  |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-21 |  |
@@ -147,6 +148,7 @@
 | [TOO GOOD](https://open.spotify.com/track/7FDyoxixibPa7SJIjg7NIp) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:44 | 2021-12-27 | 2026-03-21 |
 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 | 2022-04-24 |  |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2022-02-04 | 2022-04-25 |
+| [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 | 2026-11-08 |  |
 | [WALK YOU HOME](https://open.spotify.com/track/0znJ7404OJT9KXP0ob7vdu) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [WALK YOU HOME](https://open.spotify.com/album/5t3GIPp5O4fuZmTqkbU9f5) | 2:51 | 2023-02-26 |  |
 | [WALK YOU HOME](https://open.spotify.com/track/470Vf9SalOKWfNddiqdEPY) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [WALK YOU HOME](https://open.spotify.com/album/1aN3aTc9eYkZ7GCchdsodb) | 2:51 | 2023-02-24 | 2023-02-27 |
 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 | 2021-12-27 |  |

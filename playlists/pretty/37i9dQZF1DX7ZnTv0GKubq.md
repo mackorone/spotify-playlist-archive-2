@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,314 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,293 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 26 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 27 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
 | 28 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
-| 29 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 |
-| 30 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
+| 29 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
+| 30 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 |
 | 31 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 |
 | 32 | [Back It Up](https://open.spotify.com/track/53YuOf7HDvRZvHEenrQR8V) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Back It Up](https://open.spotify.com/album/4SnDJQ9OFqI2L9cFkxqhL3) | 2:42 |
 | 33 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 40 | [Wanna Know](https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Wanna Know](https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn) | 4:26 |
 | 41 | [H2L](https://open.spotify.com/track/4JsBp3ThdeJQ6SNdtLO1yw) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [H2L](https://open.spotify.com/album/410DaQe7k4IzCAyOffL6eG) | 3:47 |
 | 42 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
-| 43 | [DIFFERENT KINDA LOVE](https://open.spotify.com/track/5LU9xYOFEw6bgvbYbm4beT) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DIFFERENT KINDA LOVE](https://open.spotify.com/album/2RVhyhMsl9cvXqegtfDaDI) | 3:00 |
-| 44 | [I AM ENOUGH](https://open.spotify.com/track/0EekRDc7QPWl1IPn9xjkBE) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [I AM ENOUGH](https://open.spotify.com/album/4xfVDahB9u8jGQdJeHY27g) | 5:52 |
+| 43 | [I AM ENOUGH](https://open.spotify.com/track/0EekRDc7QPWl1IPn9xjkBE) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [I AM ENOUGH](https://open.spotify.com/album/4xfVDahB9u8jGQdJeHY27g) | 5:52 |
+| 44 | [DIFFERENT KINDA LOVE](https://open.spotify.com/track/5LU9xYOFEw6bgvbYbm4beT) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DIFFERENT KINDA LOVE](https://open.spotify.com/album/2RVhyhMsl9cvXqegtfDaDI) | 3:00 |
 | 45 | [Shadows](https://open.spotify.com/track/6EyhlBUiRvHKIWHfmOleem) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [Shadows](https://open.spotify.com/album/6k8ddx9AAqUNRCAqndnzXo) | 4:51 |
 | 46 | [Exhale](https://open.spotify.com/track/7520LYdIecH0lgj628ELdU) | [Syf of Talking Knots](https://open.spotify.com/artist/1SfICWafk2B0pEobXALC00), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz), [Elly J Devon](https://open.spotify.com/artist/0zBoujkNOw13TkM4icGjps) | [Exhale](https://open.spotify.com/album/3tFDsAIoGcB0cVzTYjRp6I) | 2:26 |
 | 47 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |

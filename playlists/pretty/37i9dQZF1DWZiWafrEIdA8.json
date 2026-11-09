@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15805,
+  "num_followers": 15811,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
-        }
-      ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 249317,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+        }
+      ],
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "2 Little Bites From [Fatal Album \u2162]",
         "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 244584,
       "name": "Black Happiness",
       "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "The Movie Star",
-        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Transcend (Feat. C JAMM)",
-      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 269000,
       "name": "It's Gone",
       "url": "https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Transcend (Feat. C JAMM)",
+      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,820 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,827 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 41 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
 | 42 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
 | 43 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC), [Marco Antonio Fernández](https://open.spotify.com/artist/5u1fHe9hHyWlPW1opzsEaC), [Sebastián Prusak](https://open.spotify.com/artist/7e57Ep94Hv8hpZA6Ko54CH), [Daniel Falasca](https://open.spotify.com/artist/32OdpAWXjVkU1U8uTDhTha), [Octavio Brunetti](https://open.spotify.com/artist/3VbMJnIiSV32nwXOsd003P) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
-| 44 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
-| 45 | [Baldosa floja](https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl) | [Agustina Cirulnik](https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u) | [Portal](https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr) | 2:56 |
+| 44 | [Baldosa floja](https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl) | [Agustina Cirulnik](https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u) | [Portal](https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr) | 2:56 |
+| 45 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 | 46 | [La Morocha](https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP) | [Ada Falcón](https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3), [Francisco Canaro & His Orchestra](https://open.spotify.com/artist/118T4pkXEKg5wkWphove1a) | [The History Of Tango, Volume 1 / Recordings 1925 \- 1929](https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C) | 3:00 |
 | 47 | [Cafetín de Buenos Aires](https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Interpreta a Discépolo](https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF) | 3:30 |
 | 48 | [Malena](https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw) | [Liliana Dominguez](https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:13 |

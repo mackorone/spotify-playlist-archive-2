@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62911,
+  "num_followers": 62924,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
-      },
-      "artists": [
-        {
-          "name": "Bhavyalakshmi",
-          "url": "https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq"
-        }
-      ],
-      "duration_ms": 612000,
-      "name": "Kandhasashti Kavacham - Instrumental",
-      "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Mood Music - Devotional Instrumentals of South India",
         "url": "https://open.spotify.com/album/6rm85IBtVgSFqmW4tWBPkl"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 771773,
       "name": "Mahishasura Mardini Stotra - Revathi - Adi - Instrumental",
       "url": "https://open.spotify.com/track/3lo8sS09aevJ6cxugNd0mn"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Bhavyalakshmi",
+          "url": "https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq"
+        }
+      ],
+      "duration_ms": 612000,
+      "name": "Kandhasashti Kavacham - Instrumental",
+      "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
     },
     {
       "added_at": "2025-09-05 03:40:50",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
         }
       ],
-      "duration_ms": 527000,
-      "name": "Saadhinchane - Aarabhi",
-      "url": "https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq"
+      "duration_ms": 712750,
+      "name": "Endharo Mahanubhavulu - Sri - Adi",
+      "url": "https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Raghuvamsa Sudha Vol.1",
-        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
       "artists": [
         {
-          "name": "Chitti Babu",
-          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
+          "name": "Sheik Chinna Moulana",
+          "url": "https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ"
         }
       ],
-      "duration_ms": 551186,
-      "name": "Raghuvamsa Sudha (Raga: Kathanakuthuhalam; Tala: Adi)",
-      "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
+      "duration_ms": 817240,
+      "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
+      "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
     },
     {
       "added_at": "2025-09-05 03:40:50",
@@ -656,41 +656,9 @@
           "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
         }
       ],
-      "duration_ms": 712750,
-      "name": "Endharo Mahanubhavulu - Sri - Adi",
-      "url": "https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Blissful Veena",
-        "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 344581,
-      "name": "Maha Ganapathim - Nattai - Chatusra Ekam",
-      "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Sheik Chinna Moulana",
-          "url": "https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ"
-        }
-      ],
-      "duration_ms": 817240,
-      "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
-      "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
+      "duration_ms": 527000,
+      "name": "Saadhinchane - Aarabhi",
+      "url": "https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -711,6 +679,38 @@
       "duration_ms": 1609960,
       "name": "Srikanthimati - Raga Hemavati - Adi",
       "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Raghuvamsa Sudha Vol.1",
+        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
+      },
+      "artists": [
+        {
+          "name": "Chitti Babu",
+          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
+        }
+      ],
+      "duration_ms": 551186,
+      "name": "Raghuvamsa Sudha (Raga: Kathanakuthuhalam; Tala: Adi)",
+      "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Blissful Veena",
+        "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 344581,
+      "name": "Maha Ganapathim - Nattai - Chatusra Ekam",
+      "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -743,6 +743,22 @@
       "duration_ms": 579750,
       "name": "Jagadhanandha karaka - Nattai - Adi",
       "url": "https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Compositions Of Papanasam Sivam",
+        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "Thatwamaria - Reeti Gowla - Adi",
+      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
     },
     {
       "added_at": "2026-08-19 07:26:01",
@@ -783,22 +799,6 @@
       "duration_ms": 1169093,
       "name": "Raagam Keeravani - Aalapanai",
       "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Compositions Of Papanasam Sivam",
-        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "Thatwamaria - Reeti Gowla - Adi",
-      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
-        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
-      },
-      "artists": [
-        {
-          "name": "Sikkil Mala Chandrasekhar",
-          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
-        }
-      ],
-      "duration_ms": 341080,
-      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
-      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "South Indian Classical Music",
         "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 459173,
       "name": "Ramabhirama Darbar Misrachappu",
       "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
+        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
+      },
+      "artists": [
+        {
+          "name": "Sikkil Mala Chandrasekhar",
+          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
+        }
+      ],
+      "duration_ms": 341080,
+      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
+      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
     },
     {
       "added_at": "2025-07-09 11:29:57",

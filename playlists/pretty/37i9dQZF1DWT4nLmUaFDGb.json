@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 747539,
+  "num_followers": 747760,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 287613,
       "name": "Will you still love me tomorrow",
       "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 168755,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Songbird 20",
         "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 282640,
       "name": "Autumn Leaves (Songbird 20)",
       "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 250186,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -895,22 +911,6 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Always Seem to Get Things Wrong",
         "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 251413,
       "name": "I'll Tell You Something",
       "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Over the Rainbow",
-        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 251103,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1523,6 +1507,22 @@
       "duration_ms": 152360,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 251103,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "The Moon, the Stars and You",
+        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "The Moon's a Harsh Mistress",
+      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 345176,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "The Moon, the Stars and You",
-        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "The Moon's a Harsh Mistress",
-      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
     },
     {
       "added_at": "2026-11-06 10:21:02",

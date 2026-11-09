@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 28 min
+116 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 | 2024-01-21 |
 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 | 2024-01-20 |  |
 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 | 2026-05-06 |  |
+| [GO! GO! GO! \(feat\. KB & Lecrae\)](https://open.spotify.com/track/7plb5KLIukEWva4OGtYd8Z) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [GO! GO! GO! \(feat\. KB & Lecrae\)](https://open.spotify.com/album/2esYsGDC1pjESKiiAG2eHW) | 3:30 | 2026-11-09 |  |
 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 | 2024-07-29 | 2026-03-28 |
 | [GOD CAME THROUGH](https://open.spotify.com/track/0IDLHBwGainRrHANsI0Ba5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:35 | 2026-07-15 | 2026-07-22 |
 | [God Did II](https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Did II](https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE) | 2:39 | 2025-07-21 |  |
@@ -91,7 +92,7 @@
 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 | 2023-03-17 |  |
 | [On 10](https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On 10](https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1) | 3:07 | 2023-03-17 | 2023-07-09 |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-28 |  |
-| [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 | 2023-03-17 |  |
+| [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 | 2023-03-17 | 2026-11-09 |
 | [Paganini](https://open.spotify.com/track/66UXoQx5oMbil1UWDXDIW0) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Never Land](https://open.spotify.com/album/5HMbGgihB0YZlcLzqAKqa5) | 3:33 | 2023-03-17 | 2023-03-27 |
 | [Pieces](https://open.spotify.com/track/2S9t3jIPnEs7zlTzZHPbEQ) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 4:17 | 2023-03-17 | 2023-08-02 |
 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 | 2023-03-17 |  |

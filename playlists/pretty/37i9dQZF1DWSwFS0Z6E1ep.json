@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 313309,
+  "num_followers": 313336,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 152200,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Best Of Eddie Cochran",
-        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Love Potion No. 9",
         "url": "https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 112280,
       "name": "Love Potion No.9",
       "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Best Of Eddie Cochran",
+        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Memories Never Grow Old / Good Lovin'",
-        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
-      },
-      "artists": [
-        {
-          "name": "Dickey Lee",
-          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
-        },
-        {
-          "name": "The Collegiates",
-          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
-        }
-      ],
-      "duration_ms": 172568,
-      "name": "Good Lovin'",
-      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Frankie Lymon & The Teenagers Greatest Hits",
         "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
@@ -1723,6 +1703,22 @@
       "duration_ms": 140826,
       "name": "Why Do Fools Fall In Love",
       "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1759,18 +1755,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+        "name": "Memories Never Grow Old / Good Lovin'",
+        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
       "artists": [
         {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+          "name": "Dickey Lee",
+          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
+        },
+        {
+          "name": "The Collegiates",
+          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
         }
       ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+      "duration_ms": 172568,
+      "name": "Good Lovin'",
+      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1787,6 +1787,22 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' with My Baby / It's Me Baby",
+        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 140984,
+      "name": "Rockin' with My Baby",
+      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1835,22 +1851,6 @@
       "duration_ms": 141666,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockin' with My Baby / It's Me Baby",
-        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 140984,
-      "name": "Rockin' with My Baby",
-      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
     },
     {
       "added_at": "2022-06-07 05:25:13",

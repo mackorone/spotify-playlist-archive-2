@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219768,
+      "name": "Cook Up",
+      "url": "https://open.spotify.com/track/6eW26wwMEGFDomE7uMyLYf"
+    },
+    {
+      "album": {
         "name": "Trap God",
         "url": "https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY"
       },
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 149420,
       "name": "Outro",
       "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"

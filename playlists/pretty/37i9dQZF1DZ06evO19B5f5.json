@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAnf2M4PH1lMTlnp0F45ROD",
+  "snapshot_id": "au0YgAAAAADdt/QUvRaZfShiJhd4Fs/S",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World (Piano Versions)",
-        "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 171438,
-      "name": "Latest Ghost - Piano Version",
-      "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
+      "duration_ms": 192000,
+      "name": "Ugly Truth",
+      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
+        "name": "Ghost World (Piano Versions)",
+        "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ugly Truth",
-      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+      "duration_ms": 171438,
+      "name": "Latest Ghost - Piano Version",
+      "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 239468,
+      "name": "How Would You Like It?",
+      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 239468,
-      "name": "How Would You Like It?",
-      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
+      "duration_ms": 202848,
+      "name": "Suddenly Strangers",
+      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+      "duration_ms": 238446,
+      "name": "Out Of Our Depth",
+      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
     },
     {
       "added_at": null,
@@ -524,15 +524,15 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 246888,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 238446,
-      "name": "Out Of Our Depth",
-      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 174797,
+  "num_followers": 174847,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Don't Stop the Rock",
-        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
-        }
-      ],
-      "duration_ms": 328515,
-      "name": "Don't Stop the Rock",
-      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Rock the Box",
         "url": "https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 300773,
       "name": "Rock the Box",
       "url": "https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Don't Stop the Rock",
+        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+        }
+      ],
+      "duration_ms": 328515,
+      "name": "Don't Stop the Rock",
+      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
     }
   ],
   "unique_name": "808 Classics",

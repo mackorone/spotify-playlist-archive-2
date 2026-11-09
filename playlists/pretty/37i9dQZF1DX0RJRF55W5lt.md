@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,254 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,294 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 66 | [My Love \(So Good\)](https://open.spotify.com/track/4qIq2fAH1oVA7wGLicfYa6) | [10 Below](https://open.spotify.com/artist/5TkWBQTisFpyIDiLX6jzBr), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Rewind Old Skool Classics](https://open.spotify.com/album/3e7EA421LP0lpGFkcrOuYa) | 5:34 |
 | 67 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 68 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
-| 69 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
-| 70 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
+| 69 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
+| 70 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
 | 71 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 | 72 | [Sorry! \(Didn't Know\) \[Original Radio Edit\]](https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN) | 4:10 |
-| 73 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
-| 74 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
-| 75 | [Girls Like Us \- Radio Edit](https://open.spotify.com/track/2OiFLUUvtJg03Zh2xr7HOU) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ) | [Girls Like Us](https://open.spotify.com/album/2hmf2BtDupXSYz3TbXq2be) | 5:56 |
+| 73 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 74 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 75 | [Little Man \- Exemen Rework](https://open.spotify.com/track/5NBEj4QYJMFUS4KvQHHiQX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Pure Garage Reload \- The Very Best Of Old Skool Garage](https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa) | 5:00 |
 
 Snapshot ID: `AAAAAJafrjh/bfjqe6OH3HPT1Xz2TdM1`

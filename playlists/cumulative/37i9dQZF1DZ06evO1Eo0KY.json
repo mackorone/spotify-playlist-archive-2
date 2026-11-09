@@ -2397,6 +2397,36 @@
     },
     {
       "album": {
+        "name": "Mandatory Minimum",
+        "url": "https://open.spotify.com/album/2WuNYhkL2WF5j24Ke1O5Em"
+      },
+      "artists": [
+        {
+          "name": "Sha Hef",
+          "url": "https://open.spotify.com/artist/3XipPEWLHzVV2ayiUkXELp"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Dark Lo",
+          "url": "https://open.spotify.com/artist/6Afg12eQ1Xu2O4ugWDhDcU"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180392,
+      "name": "Mandatory Minimum",
+      "url": "https://open.spotify.com/track/5bFgKcZkdg781OhET4WTe2"
+    },
+    {
+      "album": {
         "name": "Late to My Own Funeral",
         "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
       },
@@ -2482,7 +2512,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 193136,
       "name": "Mr. Quaker Oats",
       "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
@@ -2820,7 +2850,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 160000,
       "name": "Otha World",
       "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
@@ -3314,7 +3344,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 204497,
       "name": "Scrabble",
       "url": "https://open.spotify.com/track/63oUxKSMNovNJiLxgrSmWU"
@@ -4130,7 +4160,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 184370,
       "name": "Thumb of Craven",
       "url": "https://open.spotify.com/track/0b4QMytM23x5RIqNoZR3pv"
@@ -4152,7 +4182,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 254345,
       "name": "Town & Country",
       "url": "https://open.spotify.com/track/3BKRY8JerLCMr3Ral9JjGP"

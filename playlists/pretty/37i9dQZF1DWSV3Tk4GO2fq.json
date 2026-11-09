@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1886446,
+  "num_followers": 1886481,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 141133,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Donna - Single Version",
-      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 127426,
       "name": "Long Tall Sally (The Thing)",
       "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 158306,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "Monotones",
-          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 109960,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "Monotones",
+          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Exciting Lloyd Price",
         "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 144626,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 126680,
+      "name": "Ready Teddy",
+      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "I Love You 1000 Times",
         "url": "https://open.spotify.com/album/6hHrhFkL6GwZd11CHALzOR"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 166466,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/3NhqNUMkRhHxEHbQ3bUaCc"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Rock 'N' Roll Legends",
-        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Rock 'N' Roll Legends",
+        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 128639,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Rama Lama Ding Dong EP",
         "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 147720,
       "name": "Rama Lama Ding Dong (Original version 1958)",
       "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 126680,
-      "name": "Ready Teddy",
-      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "See You Later, Alligator",
+      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Get a Job",
         "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 173733,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "See You Later, Alligator",
-      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Your Cheatin' Heart",
-      "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Mr Sandman - All the Hits",
         "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 144039,
       "name": "Mister Sandman",
       "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Definitive Soul: The Drifters",
-        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "There Goes My Baby - Single Version; 2019 Remaster",
-      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 157206,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Definitive Soul: The Drifters",
+        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "There Goes My Baby - Single Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Eddie Cochran",
-        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Love Potion No. 9",
         "url": "https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 112280,
       "name": "Love Potion No.9",
       "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Eddie Cochran",
+        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
     },
     {
       "added_at": "2024-09-06 14:23:51",

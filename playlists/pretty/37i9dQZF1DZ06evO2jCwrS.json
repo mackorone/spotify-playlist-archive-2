@@ -1,12 +1,12 @@
 {
   "description": "This is H.E.R.. The essential tracks, all in one playlist.",
-  "num_followers": 263780,
+  "num_followers": 263809,
   "original_name": "This Is H.E.R.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAC8u7z5kxy6jdCZjC5uWm4e",
+  "snapshot_id": "au5qAAAAAACGBheCD9gxH3TRiZw/AXWO",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Way (From SUPERFLY - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "This Way - From SUPERFLY - Original Soundtrack",
-      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Way (From SUPERFLY - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "This Way - From SUPERFLY - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spell My Name",
-        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 258125,
-      "name": "Gotta Move On (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 204506,
       "name": "I Don't Want Your Money (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spell My Name",
+        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 258125,
+      "name": "Gotta Move On (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
     },
     {
       "added_at": null,

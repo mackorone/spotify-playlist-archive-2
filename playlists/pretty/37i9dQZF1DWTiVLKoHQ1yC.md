@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,960 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,996 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 30 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 |
 | 31 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
 | 32 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
-| 33 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
-| 34 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |
+| 33 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |
+| 34 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
 | 35 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 36 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 37 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 53 | [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 |
 | 54 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
 | 55 | [Forgive Them](https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [City Reverie](https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4) | 3:32 |
-| 56 | [Man On Fire](https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Man On Fire](https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj) | 3:06 |
-| 57 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
+| 56 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
+| 57 | [Man On Fire](https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Man On Fire](https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj) | 3:06 |
 | 58 | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 |
 | 59 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 

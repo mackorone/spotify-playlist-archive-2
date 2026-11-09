@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/6VdRmjzeaXitNgNozFXks1"
+      },
+      "artists": [
+        {
+          "name": "Ray Zakai",
+          "url": "https://open.spotify.com/artist/10cx72FvQ8yb3BdplEVaW4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144302,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/68r8TtCRuJXgH7QNTBHip9"
+    },
+    {
+      "album": {
         "name": "Christmas Serenade",
         "url": "https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b"
       },
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Happy Holidays",
+        "url": "https://open.spotify.com/album/5TmzO6sqC7TgII0LkIHyDQ"
+      },
+      "artists": [
+        {
+          "name": "Trilune",
+          "url": "https://open.spotify.com/artist/4JOH4Mu3hWTstqu7ESRJm4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154459,
+      "name": "Happy Holidays",
+      "url": "https://open.spotify.com/track/4MbiA7FcHLv7Ag65FD1S0K"
+    },
+    {
+      "album": {
         "name": "Happy Xmas",
         "url": "https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y"
       },
@@ -808,7 +844,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 143808,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
@@ -862,7 +898,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 149940,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 88172,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
@@ -1172,6 +1208,24 @@
       "duration_ms": 108959,
       "name": "Let it Snow",
       "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
+    },
+    {
+      "album": {
+        "name": "Listen To A Chant",
+        "url": "https://open.spotify.com/album/2GKjk69ZnMOCoB3cEM0Ic6"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168388,
+      "name": "Listen To A Chant",
+      "url": "https://open.spotify.com/track/2GOtcz0zPACJyNs6xT12op"
     },
     {
       "album": {
@@ -1420,7 +1474,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 238862,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
@@ -2093,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "The Silver Tree",
+        "url": "https://open.spotify.com/album/6ZEaoUeVsi6e6PReL0eJPj"
+      },
+      "artists": [
+        {
+          "name": "The Central Park North",
+          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189854,
+      "name": "The Silver Tree",
+      "url": "https://open.spotify.com/track/0CH7ItwdMMDrRZChF1iGFB"
+    },
+    {
+      "album": {
         "name": "Christmas Mood",
         "url": "https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm"
       },
@@ -2158,10 +2230,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 179813,
       "name": "This Night",
       "url": "https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g"
+    },
+    {
+      "album": {
+        "name": "This year christmas is mine",
+        "url": "https://open.spotify.com/album/3Nj82ORNyD2N4JTFUXl0vU"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Static",
+          "url": "https://open.spotify.com/artist/1tlwlaELqls4v44QERlHXk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202194,
+      "name": "This year christmas is mine",
+      "url": "https://open.spotify.com/track/6UGBPtTXl6CjCOAw8a3ZBZ"
     },
     {
       "album": {

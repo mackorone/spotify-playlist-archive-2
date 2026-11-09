@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 92966,
+  "num_followers": 93139,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADuhcl62b1Syo12hP1oxZ2g",
+  "snapshot_id": "au0YgAAAAAAH9tjElrGywfxR+xiGE0mP",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Alaye",
+      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -415,22 +435,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
       "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 155773,
-      "name": "Alaye",
-      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174743,
+      "name": "Happiness \u200b(f\u200beat\u200b. Asake, Gunna\u200b)",
+      "url": "https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
     },
     {
       "added_at": null,
@@ -463,30 +519,6 @@
       "duration_ms": 145263,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174743,
-      "name": "Happiness \u200b(f\u200beat\u200b. Asake, Gunna\u200b)",
-      "url": "https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN"
     },
     {
       "added_at": null,
@@ -539,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omo Ope",
         "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
       },
@@ -571,6 +587,22 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs"
     },
     {
       "added_at": null,
@@ -603,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Joha",
-      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "2:30",
-      "url": "https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 226283,
       "name": "2Factor",
       "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 171385,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 171385,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost In Melody (Deluxe)",
         "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 185083,
       "name": "Blessings (with Asake) - Remix",
       "url": "https://open.spotify.com/track/2FX0YSnyAJ8jxvysMiSp9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 199452,
       "name": "Get it Right (feat. Asake)",
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 197035,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/4Mq3cWI9k0DO9sMe6Ylqr2"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 176333,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 197035,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/4Mq3cWI9k0DO9sMe6Ylqr2"
     },
     {
       "added_at": null,

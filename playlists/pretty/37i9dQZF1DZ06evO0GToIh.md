@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,222 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,483 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 4:05 |
 | 2 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 |
 | 3 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 |
-| 4 | [Mi Yo de Antes](https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Yo de Antes](https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN) | 3:02 |
-| 5 | [La Magia de Conectar](https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Magia de Conectar](https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl) | 2:40 |
+| 4 | [La Magia de Conectar](https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Magia de Conectar](https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl) | 2:40 |
+| 5 | [Mi Yo de Antes](https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Yo de Antes](https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN) | 3:02 |
 | 6 | [Lejos Estamos Mejor](https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:58 |
 | 7 | [Yo Era Poesía](https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Yo Era Poesía](https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5) | 3:14 |
 | 8 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
 | 50 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
 
-Snapshot ID: `au0YgAAAAAAOzazMfyCt+ihC4HoNHOm8`
+Snapshot ID: `au5qAAAAAAA5QUBLOhATdrKZct0f3YdM`

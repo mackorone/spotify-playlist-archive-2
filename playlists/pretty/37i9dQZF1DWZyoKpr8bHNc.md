@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,014 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,112 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 16 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayeb](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 17 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
 | 18 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
-| 19 | [Alf Leila We Leila](https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 1](https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn) | 41:37 |
-| 20 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
+| 19 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
+| 20 | [Alf Leila We Leila](https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 1](https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn) | 41:37 |
 | 21 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 |
 | 22 | [Ya Habaiby Ya Ghaiben](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 |
 | 23 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |

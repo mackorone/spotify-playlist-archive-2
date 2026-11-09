@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 76527,
+  "num_followers": 76528,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADgrugUhSGFAdvJl2ACm8XV",
+  "snapshot_id": "au5qAAAAAABuML0+aVVTul5JQBcBEhHW",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Ense\u00f1ame",
-      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "abu$adora",
         "url": "https://open.spotify.com/album/7uzyUfGXOjehThVwU91LTF"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Ense\u00f1ame",
+      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YA NO EST\u00c1S",
         "url": "https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6"
       },
@@ -375,6 +375,26 @@
       "duration_ms": 262310,
       "name": "YA NO EST\u00c1S",
       "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A\u00daN NO HE TERMINADO",
+        "url": "https://open.spotify.com/album/68x1LN4VTHbNYAh9OQKjGq"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/6txlN7B1f6DCwDxmSKYAHZ"
     },
     {
       "added_at": null,
@@ -415,26 +435,6 @@
       "duration_ms": 199148,
       "name": "SiNKRONiZAMOS",
       "url": "https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A\u00daN NO HE TERMINADO",
-        "url": "https://open.spotify.com/album/68x1LN4VTHbNYAh9OQKjGq"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/6txlN7B1f6DCwDxmSKYAHZ"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 279920,
       "name": "Decir Adios (with DannyLux)",
       "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
+        "name": "24:7",
+        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 185290,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
+      "duration_ms": 181511,
+      "name": "24:7",
+      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24:7",
-        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 181511,
-      "name": "24:7",
-      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
+      "duration_ms": 185290,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
     },
     {
       "added_at": null,

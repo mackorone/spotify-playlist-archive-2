@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-553 songs - 1 day 11 hr 33 min
+554 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [It's Time](https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [It's Time](https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg) | 4:07 | 2026-10-01 | 2026-11-07 |
 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-10-15 |  |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-12 | 2026-04-28 |
-| [Jubilee Feeling](https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Jubilee Feeling](https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx) | 4:15 | 2026-08-28 |  |
+| [Jubilee Feeling](https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Jubilee Feeling](https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx) | 4:15 | 2026-08-28 | 2026-11-09 |
 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 | 2024-06-14 | 2025-01-31 |
 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2024-11-15 | 2025-02-04 |
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-20 | 2026-10-02 |
@@ -378,6 +378,7 @@
 | [pick me up](https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [pick me up](https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS) | 2:40 | 2026-07-23 | 2026-09-25 |
 | [Picking Dragons' Pockets](https://open.spotify.com/track/1j5eedtT8HcViWk0f702gT) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Third Side of the Moon](https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB) | 4:36 | 2026-06-12 | 2026-07-16 |
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 | 2026-06-19 |
+| [Pilots Licence](https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [Pilots Licence / Cliffs Of Dooneen](https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu) | 3:39 | 2026-11-06 |  |
 | [Pined For You My Whole Life](https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Pined For You My Whole Life](https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey) | 3:18 | 2025-03-21 | 2026-06-19 |
 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 | 2025-05-08 | 2025-06-07 |
 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 | 2025-07-18 |  |

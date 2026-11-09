@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Valdo Rodr\u00edguez y Wuicho Kun en portada.",
-  "num_followers": 534407,
+  "num_followers": 534344,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Oda",
         "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224798,
       "name": "oda",
       "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 136667,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Aquellos Ojos Verdes",
         "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 190985,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "A escondidas",
-        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "A escondidas",
-      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-10-02 06:00:21",

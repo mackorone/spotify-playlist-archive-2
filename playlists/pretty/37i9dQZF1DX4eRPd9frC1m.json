@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2564367,
+  "num_followers": 2564229,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgtn8pQHi+T7yCHsGN9IyIH1rDh",
+  "snapshot_id": "AAAAAEYnZVvJlngBXnoFGfSlOqseTHm1",
   "tracks": [
     {
       "added_at": "2026-10-30 04:01:27",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
+    },
+    {
+      "added_at": "2026-10-30 04:01:27",
+      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2026-10-30 04:01:27",
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
+        "name": "FIRE DANCE",
+        "url": "https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "FIRE DANCE",
+      "url": "https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36"
+    },
+    {
+      "added_at": "2026-10-30 04:01:27",
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 164139,
       "name": "select@",
       "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
-    },
-    {
-      "added_at": "2026-10-30 04:01:27",
-      "album": {
-        "name": "FIRE DANCE",
-        "url": "https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 167172,
-      "name": "FIRE DANCE",
-      "url": "https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36"
     },
     {
       "added_at": "2026-10-30 04:01:27",

@@ -8052,7 +8052,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 261626,
       "name": "Bl\u00e1gr\u00e6n",
       "url": "https://open.spotify.com/track/36iyDbsjcidH1AnpFaXOHV"
@@ -12112,7 +12112,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -12580,7 +12580,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -19050,7 +19050,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -31848,7 +31848,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -34064,7 +34064,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 156250,
       "name": "K\u00f3k\u00f3mj\u00f3lk",
       "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
@@ -38968,6 +38968,24 @@
       "duration_ms": 228437,
       "name": "Meira en mig",
       "url": "https://open.spotify.com/track/7kjODx9vY0aDqTGUYtOQcq"
+    },
+    {
+      "album": {
+        "name": "ICEGUYS: The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7t3ZCKwtxCEbAxHPaCWX1F"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228507,
+      "name": "Meira En N\u00f3g",
+      "url": "https://open.spotify.com/track/4tOJQU3ojv7TX8WAOQ8O2W"
     },
     {
       "album": {
@@ -46747,6 +46765,28 @@
     },
     {
       "album": {
+        "name": "ICEGUYS: The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7t3ZCKwtxCEbAxHPaCWX1F"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        },
+        {
+          "name": "TEAM 5\u00dcNF",
+          "url": "https://open.spotify.com/artist/1KrFD8M1dOfOZLz8qrQQiW"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Play Dirty",
+      "url": "https://open.spotify.com/track/2XD38TyKgo5RQgDyY8nlji"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -49318,7 +49358,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -49996,7 +50036,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -53784,7 +53824,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 201688,
       "name": "Snj\u00f3korn falla",
       "url": "https://open.spotify.com/track/0YNjSwEcA9mZjyVqHppnMX"
@@ -53896,7 +53936,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -64292,7 +64332,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 218499,
       "name": "Vegb\u00fai",
       "url": "https://open.spotify.com/track/5Zq551a3kaOWGBrvWEAMPz"
@@ -69568,7 +69608,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"
@@ -70416,7 +70456,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 180000,
       "name": "\u00d3a\u00f0finnanleg",
       "url": "https://open.spotify.com/track/72zL6MXhKsH2KBL1E6aoyU"
@@ -70504,7 +70544,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 279171,
       "name": "\u00d3sagt \u00f3satt",
       "url": "https://open.spotify.com/track/43m2BKHbKCSoxReVdlbGrG"

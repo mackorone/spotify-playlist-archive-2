@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, Learke, STYXVII and more",
+  "description": "With SPARKLEWOLF RADIO, UrvTek, Learke and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 160959,
       "name": "BREAK YOUR BRAIN",
       "url": "https://open.spotify.com/track/3AKnWc4TGOYrYyu2slnMCT"
@@ -2143,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "DO THIS 2 ME",
+        "url": "https://open.spotify.com/album/4JMouEkjX3M3R7PVMgMmX7"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        },
+        {
+          "name": "D3XT3R D88",
+          "url": "https://open.spotify.com/artist/3Bj4naWx7qgDYmf27gGTYx"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133357,
+      "name": "DO THIS 2 ME",
+      "url": "https://open.spotify.com/track/5Y8WbdD0Ws2unOdJeGXZ7J"
+    },
+    {
+      "album": {
         "name": "DOKTORSPIELE 4 SPARKLEFURS!!!",
         "url": "https://open.spotify.com/album/0AmOsrGZSE8hi3RPKxZnPD"
       },
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 225069,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/1uXd50WJFeS1zg3GlQTXsv"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 176795,
       "name": "FIXER UPPER",
       "url": "https://open.spotify.com/track/4ejToesWQ8eD5XYvDQ4F77"
@@ -2690,7 +2712,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 117408,
       "name": "freeze up",
       "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -4216,7 +4238,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -5892,7 +5914,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"

@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125149,
+  "num_followers": 125169,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
+        "name": "Ho\u00e0ng",
+        "url": "https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 231504,
+      "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
+      "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
         "name": "Ch\u1ea5m H\u1ebft",
         "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 186823,
       "name": "Ch\u1ea5m H\u1ebft",
       "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
-        "name": "Ho\u00e0ng",
-        "url": "https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u"
-      },
-      "artists": [
-        {
-          "name": "Ho\u00e0ng Th\u00f9y Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        },
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 231504,
-      "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
-      "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        }
-      ],
-      "duration_ms": 255256,
-      "name": "N\u1ebfu (feat. Obito)",
-      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 210491,
       "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 255256,
+      "name": "N\u1ebfu (feat. Obito)",
+      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
       },
       "artists": [
         {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -911,38 +911,18 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
       },
       "artists": [
         {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
         }
       ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
-        "name": "Em B\u00e9",
-        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Em B\u00e9",
-      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -967,6 +947,26 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2026-10-23 00:44:29",

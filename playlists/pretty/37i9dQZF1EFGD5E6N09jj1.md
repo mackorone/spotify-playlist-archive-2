@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,019 likes - 229 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,021 likes - 229 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 82 | [Drum](https://open.spotify.com/track/2Kp3IIDOY0LgATlHaXoO4O) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Drum](https://open.spotify.com/album/2FQhwAld8f5MrURfhBeGiC) | 3:04 |
 | 83 | [Someone New](https://open.spotify.com/track/0G7Ik0gmxJBFJKAmK2p1k9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Someone New](https://open.spotify.com/album/573h5BYa3AwWA0p0AFu1Ak) | 2:56 |
 | 84 | [Be Right Here](https://open.spotify.com/track/6Yk4HTvs1Ww41l4c7iyBlH) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Be Right Here](https://open.spotify.com/album/2b9FyXvupIJe3lFCc8TGOv) | 3:11 |
-| 85 | [ringtone \(Remix\) \[feat\. Charli XCX, Rico Nasty, Kero Kero Bonito\]](https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 3:34 |
-| 86 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
-| 87 | [Bel Air](https://open.spotify.com/track/0GehlZoWX89L1NeynJ0lg4) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/0IrlcFg11YDDvyCWU43tsw) | 3:30 |
+| 85 | [Bel Air](https://open.spotify.com/track/0GehlZoWX89L1NeynJ0lg4) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/0IrlcFg11YDDvyCWU43tsw) | 3:30 |
+| 86 | [ringtone \(Remix\) \[feat\. Charli XCX, Rico Nasty, Kero Kero Bonito\]](https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 3:34 |
+| 87 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 88 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
 | 89 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
 | 90 | [detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:39 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 228 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 | 229 | [playboy bunny](https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT) | [xcx99](https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK) | [playboy bunny](https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB) | 1:55 |
 
-Snapshot ID: `AchEGgAAAAAts0TahOiZ+IWZ3otI6kQT`
+Snapshot ID: `AchJ9gAAAABdz6d1H3JCRd9oDMMJOAwv`

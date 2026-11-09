@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 210000,
       "name": "A Farewell to the Grand Palace",
       "url": "https://open.spotify.com/track/5sFQigfiwPthFIN7CDLIuG"
@@ -10538,7 +10538,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 219866,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3lzkDW1KjEbDIEalZTkMl3"
@@ -23130,7 +23130,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 342600,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/2EJa8t1E8fx0p1vrDLJDDA"
@@ -43138,7 +43138,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 212302,
       "name": "Los dinosaurios",
       "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
@@ -50036,7 +50036,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 169559,
       "name": "NO TE ABURRAS DE M\u00cd - En Vivo",
       "url": "https://open.spotify.com/track/3Opu8BL6v4zkGBsQsfyMgJ"
@@ -50126,6 +50126,24 @@
       "duration_ms": 280251,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
+    },
+    {
+      "album": {
+        "name": "La vanguardia es as\u00ed",
+        "url": "https://open.spotify.com/album/5muUpZkDLQTu5dWdOGFsyK"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "No toquen",
+      "url": "https://open.spotify.com/track/1L0LOZJ43yIP0obCT5stwj"
     },
     {
       "album": {
@@ -58680,7 +58698,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 302293,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0Qh4PraEit9OIQunsKU6Rh"
@@ -72450,7 +72468,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 210000,
       "name": "The Imperial Garden Nocturne",
       "url": "https://open.spotify.com/track/0HWXSNpF9gsZSyF40ws5O5"

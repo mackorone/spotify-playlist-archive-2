@@ -1525,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "CLARITY OF MIND (EXTENDED)",
+        "url": "https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125367,
+      "name": "BACK TO LAGOS (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -7648,6 +7670,28 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
     },
     {
       "album": {

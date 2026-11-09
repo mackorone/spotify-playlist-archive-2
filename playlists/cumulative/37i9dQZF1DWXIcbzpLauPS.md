@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Northlane
 
-1,750 songs - 4 day 10 hr 17 min
+1,751 songs - 4 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 | 2024-03-01 | 2024-04-01 |
 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/0NuzLCfyqRnN8hAgw7rAPJ) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 3:23 | 2024-03-08 | 2024-04-13 |
 | [A Part Of Me](https://open.spotify.com/track/4Uul6CB7BDnCbXgyLsInm9) | [Her Last Sight](https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p) | [A Part Of Me](https://open.spotify.com/album/4zzuzJHE0l6jEPO2pNq501) | 3:58 | 2025-06-30 | 2025-08-24 |
-| [A Pure Expression](https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [A Pure Expression](https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs) | 4:03 | 2025-12-12 |  |
+| [A Pure Expression](https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [A Pure Expression](https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs) | 4:03 | 2025-12-12 | 2026-11-09 |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-21 |
 | [A Spotless Mind](https://open.spotify.com/track/2xEzVbtItTckqkzAhIFj93) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [A Spotless Mind](https://open.spotify.com/album/0IbQI49rwFe2lpD9wLI396) | 3:29 | 2026-03-02 | 2026-04-04 |
 | [A Stranger I Remain](https://open.spotify.com/track/0YOGApjOdX5BrFKxmccUyT) | [GO!! Light Up!](https://open.spotify.com/artist/1hIAVfmKI8rbfgdO1EQG1c) | [A Stranger I Remain](https://open.spotify.com/album/3apA50v3LWM6VILq8yl1Zj) | 3:33 | 2022-04-01 | 2022-06-11 |
@@ -338,6 +338,7 @@
 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \(Feat\. Niklas Karlsson\)](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 | 2024-10-18 | 2025-09-19 |
 | [Control](https://open.spotify.com/track/454588Y9FY0pCMIg8rXVvE) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Control](https://open.spotify.com/album/5Qw83IHn2c9UbIsSKuPGGN) | 2:41 | 2026-06-16 | 2026-09-05 |
 | [Convince Me](https://open.spotify.com/track/0fXTBdpVhp43hVbvB7goGW) | [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX) | [Convince Me](https://open.spotify.com/album/7pwdCq6KXYE3rf9L4N6YGr) | 4:00 | 2026-10-09 |  |
+| [coup de grǎce](https://open.spotify.com/track/3h3tBvNojGZ9dIE9ssATe3) | [Sherane](https://open.spotify.com/artist/69ctHvaLA49rTg5Udcy4cW) | [this time tomorrow](https://open.spotify.com/album/596v1VtyRN3qjhzyEgYXFv) | 3:56 | 2026-11-06 |  |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-06-02 | 2023-09-23 |
 | [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 | 2024-03-27 | 2024-08-13 |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-22 | 2024-12-19 |

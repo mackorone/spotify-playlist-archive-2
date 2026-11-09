@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Lakamura
 
-551 songs - 1 day 5 hr 14 min
+552 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 | 2024-06-04 |
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-01 | 2024-11-03 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
+| [FIN KANOU](https://open.spotify.com/track/1YsgIvcAD491KMZWgLgUJp) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [FIN KANOU](https://open.spotify.com/album/2R2vUrdpBPwMRLxPJJlsFz) | 4:21 | 2026-11-08 |  |
 | [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 | 2024-12-21 | 2025-01-04 |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-05 | 2024-05-23 |
 | [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 | 2026-09-23 |  |
@@ -426,7 +427,7 @@
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2024-08-28 | 2024-10-02 |
 | [Reg Deg](https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 3:01 | 2023-06-08 | 2023-07-10 |
 | [RIRI&ROCKY](https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [RIRI&ROCKY](https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh) | 2:43 | 2025-08-01 | 2026-04-16 |
-| [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 | 2026-10-29 |  |
+| [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 | 2026-10-29 | 2026-11-09 |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-09 | 2025-02-13 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2023-02-22 |
 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-02-03 | 2025-01-16 |

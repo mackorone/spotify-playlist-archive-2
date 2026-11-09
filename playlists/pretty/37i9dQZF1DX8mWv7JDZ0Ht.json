@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
-  "num_followers": 432889,
+  "num_followers": 432875,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "Acontece - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Z4tS64NHxdbhnxY6nN26Q"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 244877,
+      "name": "Acontece - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V8ZAy7X8N09WHXFQYAwcl"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "Sozinho e Bem Acompanhado",
         "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
       },
@@ -323,26 +339,6 @@
       "duration_ms": 206445,
       "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
       "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "ContraTempo",
-        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 192519,
-      "name": "Sinto",
-      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -363,18 +359,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Acontece - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Z4tS64NHxdbhnxY6nN26Q"
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 244877,
-      "name": "Acontece - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V8ZAy7X8N09WHXFQYAwcl"
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -451,22 +451,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Fa\u00e7o Parar de Chover",
-        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
       },
       "artists": [
         {
           "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 199711,
-      "name": "Fa\u00e7o Parar de Chover",
-      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -547,18 +543,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+        "name": "Fa\u00e7o Parar de Chover",
+        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
       },
       "artists": [
         {
           "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
+      "duration_ms": 199711,
+      "name": "Fa\u00e7o Parar de Chover",
+      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -575,22 +575,6 @@
       "duration_ms": 227737,
       "name": "Ser Feliz de Novo",
       "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -615,18 +599,38 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Setembro",
-        "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 181690,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/5R7UoAtZIQACKBWe4nY7Mi"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -687,22 +691,18 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
         }
       ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+      "duration_ms": 181690,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/5R7UoAtZIQACKBWe4nY7Mi"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -867,8 +867,8 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
       "artists": [
         {
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         }
       ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -963,8 +963,8 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-11-06 03:00:13",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-11-06 03:00:13",
       "album": {
+        "name": "s\u00f3 n\u00f3s dois",
+        "url": "https://open.spotify.com/album/2kuhmuTN0leFEBwPDJbKzs"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        }
+      ],
+      "duration_ms": 180526,
+      "name": "s\u00f3 n\u00f3s dois",
+      "url": "https://open.spotify.com/track/5UabYY9L9GDv2ua4NGY9MV"
+    },
+    {
+      "added_at": "2026-11-06 03:00:13",
+      "album": {
         "name": "te quero sem final",
         "url": "https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI"
       },
@@ -1243,26 +1259,6 @@
       "duration_ms": 221099,
       "name": "Cen\u00e1rio a Dois",
       "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-11-06 03:00:13",
-      "album": {
-        "name": "Daqui pra sempre",
-        "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
-      },
-      "artists": [
-        {
-          "name": "Deco Martins",
-          "url": "https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 160230,
-      "name": "Daqui pra sempre",
-      "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
     }
   ],
   "unique_name": "Pop Leve",

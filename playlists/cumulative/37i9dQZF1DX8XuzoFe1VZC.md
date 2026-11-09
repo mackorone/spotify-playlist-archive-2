@@ -4,7 +4,7 @@
 
 > Alegría para tus mañanas.
 
-538 songs - 1 day 3 hr 29 min
+539 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2026-02-06 |  |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-11-05 | 2025-01-21 |
 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 | 2023-05-15 | 2023-06-10 |
-| [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 | 2024-04-17 |  |
+| [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 | 2024-04-17 | 2026-11-09 |
 | [El Bolero](https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:26 | 2023-03-31 |  |
 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 | 2024-12-05 | 2025-07-18 |
 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 | 2025-08-01 | 2025-12-05 |
@@ -164,6 +164,7 @@
 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 | 2023-11-10 | 2023-12-07 |
 | [Ella o Yo](https://open.spotify.com/track/2MtiFgU6hWIMaPS52h2CCu) | [Mila Manes](https://open.spotify.com/artist/3c9nHevouWAl747FO94CIp) | [Ella o Yo](https://open.spotify.com/album/2rcKlVFiLogpk3l24mYR8A) | 2:53 | 2025-07-25 | 2025-08-01 |
 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 | 2023-09-27 | 2024-01-12 |
+| [EN ITALIA](https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP) | 2:25 | 2026-11-05 |  |
 | [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 | 2024-08-23 | 2024-10-18 |
 | [en una](https://open.spotify.com/track/0uyNidfw8146ufKeBOSiHu) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [RV](https://open.spotify.com/album/2xV4WY7ILWk3PFghGLFQkz) | 3:29 | 2025-12-04 | 2026-02-07 |
 | [Enamorado de ti](https://open.spotify.com/track/3kP3mDGylkffquaVJqSZwZ) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [LA INOCENTE](https://open.spotify.com/album/7szbg3ku8OWLEvqT22UrGL) | 2:46 | 2024-07-19 | 2024-08-17 |

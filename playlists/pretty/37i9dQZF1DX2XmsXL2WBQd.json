@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 458872,
+  "num_followers": 458899,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Jam On Revenge",
         "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 383600,
       "name": "Jam On It",
       "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Message (Expanded Edition)",
         "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

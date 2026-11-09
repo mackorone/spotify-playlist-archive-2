@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,090 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,123 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 84 | [La Soñé](https://open.spotify.com/track/5lChWpKVL0eYsxP8An5qSt) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2793DUGV2AqWDV7cB5Vdbk) | 3:15 |
 | 85 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
 | 86 | [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 |
-| 87 | [Fabula De Amor](https://open.spotify.com/track/0lww1e8bH0k8JUXB2rPvIp) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Los Amigos](https://open.spotify.com/artist/5oK1kIQa7yl8gYDIJhhAFt) | [Grito Chayero](https://open.spotify.com/album/23mFODVimmTGsrOTzBBp3z) | 4:02 |
-| 88 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 |
+| 87 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 |
+| 88 | [Fabula De Amor](https://open.spotify.com/track/0lww1e8bH0k8JUXB2rPvIp) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Los Amigos](https://open.spotify.com/artist/5oK1kIQa7yl8gYDIJhhAFt) | [Grito Chayero](https://open.spotify.com/album/23mFODVimmTGsrOTzBBp3z) | 4:02 |
 | 89 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 |
 | 90 | [No Me Quiero Olvidar](https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [La Última Estrella](https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc) | 3:48 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,232 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,220 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [1TRAGO](https://open.spotify.com/track/0S7A2bKpipgJ7uVrIjOYBy) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HOLA 2024](https://open.spotify.com/album/3D8npaARfn8ymXZMXTBFuy) | 3:21 |
 | 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/4FRPlHTb9rhzMBlBgr25hg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Posesión Vol\. 3](https://open.spotify.com/album/7pnbazVEcFl7y2tRKrLmFc) | 3:54 |
 
-Snapshot ID: `au0YgAAAAAAEv+PzoxRn60MuVX5+rdNT`
+Snapshot ID: `au5qAAAAAAAugNhF4mSqw//aXew9vh5Q`

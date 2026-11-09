@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3705,
+  "num_followers": 3706,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADomwfSEvKES4lgxJ+oLjBP",
+  "snapshot_id": "au5qAAAAAADu276Jur5B6OSN7RA2ib6g",
   "tracks": [
     {
       "added_at": null,
@@ -247,30 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O pequeno GRANDE HOMEM",
-        "url": "https://open.spotify.com/album/6tbW0K3euMUPWkCA25LA1n"
-      },
-      "artists": [
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Clyde e Bonnie",
-      "url": "https://open.spotify.com/track/3gxU7BXF5N3we0uzFx3PRN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O pequeno GRANDE HOMEM",
+        "url": "https://open.spotify.com/album/6tbW0K3euMUPWkCA25LA1n"
+      },
+      "artists": [
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Clyde e Bonnie",
+      "url": "https://open.spotify.com/track/3gxU7BXF5N3we0uzFx3PRN"
     },
     {
       "added_at": null,
@@ -371,22 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 178542,
-      "name": "Efeito Mandela",
-      "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
       "artists": [
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
+      "duration_ms": 178542,
+      "name": "Efeito Mandela",
+      "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
     },
     {
       "added_at": null,
@@ -748,6 +748,26 @@
       "added_at": null,
       "album": {
         "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Jogo Virou",
         "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
       "artists": [
@@ -767,26 +787,6 @@
       "duration_ms": 127443,
       "name": "Levantando a Ta\u00e7a",
       "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -1095,6 +1071,30 @@
       "duration_ms": 159455,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,

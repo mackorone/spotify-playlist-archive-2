@@ -1,6 +1,6 @@
 {
   "description": "It's Shah Rukh Khan world, and we're just falling in love in it.",
-  "num_followers": 343305,
+  "num_followers": 343377,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -719,34 +719,6 @@
     {
       "added_at": "2026-11-04 05:03:08",
       "album": {
-        "name": "Dil To Pagal Hai",
-        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
-      },
-      "artists": [
-        {
-          "name": "Uttam Singh",
-          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Anand Bakshi",
-          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
-        }
-      ],
-      "duration_ms": 335386,
-      "name": "Are Re Are",
-      "url": "https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl"
-    },
-    {
-      "added_at": "2026-11-04 05:03:08",
-      "album": {
         "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 366853,
       "name": "Maahi Ve",
       "url": "https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e"
+    },
+    {
+      "added_at": "2026-11-04 05:03:08",
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "duration_ms": 335386,
+      "name": "Are Re Are",
+      "url": "https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl"
     },
     {
       "added_at": "2026-11-04 05:03:08",
@@ -1207,30 +1207,38 @@
     {
       "added_at": "2026-11-04 05:03:08",
       "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
       "artists": [
         {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+          "name": "Aadesh Shrivastava",
+          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
         },
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+          "name": "Sudesh Bhosle",
+          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
         },
         {
           "name": "Udit Narayan",
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
         }
       ],
-      "duration_ms": 343066,
-      "name": "Yeh Hum Aa Gaye Hain Kahaan",
-      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
+      "duration_ms": 408920,
+      "name": "Say \"Shava Shava\"",
+      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
     }
   ],
   "unique_name": "Shah Rukh Khan Hits",

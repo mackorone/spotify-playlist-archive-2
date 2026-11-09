@@ -1,6 +1,6 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 51005,
+  "num_followers": 51007,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 206905,
+      "name": "Te Romper\u00e9 El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 193150,
+      "name": "D\u00e9jame Decirle",
+      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -575,22 +607,6 @@
       "duration_ms": 234160,
       "name": "A Toda Prueba",
       "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 206905,
-      "name": "Te Romper\u00e9 El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 193150,
-      "name": "D\u00e9jame Decirle",
-      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Por Vivir",
-        "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 168394,
-      "name": "Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exotic Corridos",
         "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo Por Vivir",
+        "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 168394,
+      "name": "Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
     },
     {
       "added_at": null,

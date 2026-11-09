@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287514,
+  "num_followers": 287525,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "duration_ms": 219007,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
-      },
-      "artists": [
-        {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
-        }
-      ],
-      "duration_ms": 219007,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "No Rain",
-        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 203810,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "No Rain",
+        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 203810,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -795,50 +795,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        }
-      ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
-      },
-      "artists": [
-        {
-          "name": "Julia DiGrazia",
-          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
-        },
-        {
-          "name": "Sierra Carson",
-          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
-        },
-        {
-          "name": "Kylie Spence",
-          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -875,34 +831,46 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },
       "artists": [
         {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
         }
       ],
-      "duration_ms": 295528,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Possum",
-        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
         }
       ],
-      "duration_ms": 333013,
-      "name": "Possum",
-      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -927,18 +895,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
       },
       "artists": [
         {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -955,6 +923,38 @@
       "duration_ms": 190733,
       "name": "Little Piece of My Heart",
       "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 184773,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 208026,
       "name": "In Tall Buildings",
       "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "If I Needed You",
         "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 203416,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1799,22 +1799,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+        "name": "Songs From Neverland",
+        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
       },
       "artists": [
         {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Honeywagon",
+          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
         }
       ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+      "duration_ms": 222213,
+      "name": "P.Y.T.",
+      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
     }
   ],
   "unique_name": "Bluegrass Covers",

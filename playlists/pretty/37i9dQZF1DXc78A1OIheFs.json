@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19477,
+  "num_followers": 19475,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
       "artists": [
         {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
         }
       ],
-      "duration_ms": 254015,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
       },
       "artists": [
         {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+      "duration_ms": 254015,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Mighty Tree",
         "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 311082,
       "name": "Mighty Tree",
       "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
         "name": "CURSE",
         "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 164070,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 186747,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "pick me up",
-        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
       "artists": [
         {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         }
       ],
-      "duration_ms": 160000,
-      "name": "pick me up",
-      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
+      "duration_ms": 186747,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1131,6 +1115,22 @@
       "duration_ms": 186666,
       "name": "Tip Of My Tongue",
       "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Floodlights",
-        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
-      },
-      "artists": [
-        {
-          "name": "PARK RD",
-          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Floodlights",
-      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Floodlights",
+        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Floodlights",
+      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
     },
     {
       "added_at": "2026-10-22 13:00:16",

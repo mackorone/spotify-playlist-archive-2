@@ -1,6 +1,6 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158123,
+  "num_followers": 158118,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Collectors & Mens",
-      "url": "https://open.spotify.com/track/2OkX2rHcBZ0H3gsmz1wH6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 175826,
       "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Collectors & Mens",
+      "url": "https://open.spotify.com/track/2OkX2rHcBZ0H3gsmz1wH6c"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disc-Overy",
+        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Frisky (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc-Overy",
-        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Frisky (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHUT YOUR DAMN 95.7892",
         "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 184034,
       "name": "SHUT YOUR DAMN 95.7892",
       "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Sleek Noir",
-      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Sleek Noir",
+      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 332520,
-      "name": "Historic Romance",
-      "url": "https://open.spotify.com/track/28OT95Zt1M52ZYtHsSqW6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BRIDGE",
         "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 199516,
       "name": "ALL OR NOTHING",
       "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 332520,
+      "name": "Historic Romance",
+      "url": "https://open.spotify.com/track/28OT95Zt1M52ZYtHsSqW6l"
     },
     {
       "added_at": null,

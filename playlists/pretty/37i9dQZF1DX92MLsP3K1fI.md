@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Alleh en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,729 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,735 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 42 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 43 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
 | 44 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
-| 45 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
+| 45 | [Mismo Equipo](https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Mismo Equipo](https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O) | 4:40 |
 | 46 | [MISIÓN IMPOSIBLE](https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MISIÓN IMPOSIBLE](https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO) | 2:46 |
-| 47 | [Mismo Equipo](https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Mismo Equipo](https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O) | 4:40 |
+| 47 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
 | 48 | [Intensamente](https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Angel](https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR), [Armando Gomez](https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy) | [Intensamente](https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt) | 3:29 |
 | 49 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
 | 50 | [Aplauso](https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Aplauso](https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb) | 3:52 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 55 | [Mil Años Luz](https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Mil Años Luz](https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo) | 4:12 |
 | 56 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 57 | [Juntos](https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:11 |
-| 58 | [HAGAMOS QUE PASE](https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw) | [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [HAGAMOS QUE PASE](https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB) | 2:53 |
-| 59 | [Desenamorando](https://open.spotify.com/track/2UDwm7qs2Ud17BtNJezOb6) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Son’s of Cumbia](https://open.spotify.com/artist/1OY008az2EhTrKKL0eqZNw) | [Desenamorando](https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4) | 2:34 |
+| 58 | [Desenamorando](https://open.spotify.com/track/2UDwm7qs2Ud17BtNJezOb6) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Son’s of Cumbia](https://open.spotify.com/artist/1OY008az2EhTrKKL0eqZNw) | [Desenamorando](https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4) | 2:34 |
+| 59 | [HAGAMOS QUE PASE](https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw) | [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [HAGAMOS QUE PASE](https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB) | 2:53 |
 | 60 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 61 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |
 | 62 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |

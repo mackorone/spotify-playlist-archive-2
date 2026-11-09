@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,521 songs - 12 day 20 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,526 songs - 12 day 20 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5529,5 +5529,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5519 | [Un Beso Y Una Flor \- Remastered 2016](https://open.spotify.com/track/09qvq80v8zA09IO6ZjlpT9) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Un Beso Y Una Flor \(Remastered 2016\)](https://open.spotify.com/album/6SYPs53xUd7uIZs348nOvc) | 4:30 |
 | 5520 | [Luz](https://open.spotify.com/track/7KLQ3aAuSsdImrjGI7yq4u) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Luz](https://open.spotify.com/album/7lF9TcZy5zAlcYTUbIqtl8) | 2:54 |
 | 5521 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
+| 5522 | [Bled Dry](https://open.spotify.com/track/10jiKOtqU3gxqrIQbRAshQ) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Bled Dry](https://open.spotify.com/album/6Y84jQZN2AfbGh01GJKI61) | 3:21 |
+| 5523 | [Поезд на Ленинград](https://open.spotify.com/track/4GYMpkBE59plKOjUOXruoR) | [ИМПЕРИЯ](https://open.spotify.com/artist/755CR1AniZjrrW62SCpCMD) | [Мой сон](https://open.spotify.com/album/4CTIz0BGv2OdOobHGSPUM8) | 4:47 |
+| 5524 | [Saving Grace](https://open.spotify.com/track/0r26rnNo0SgUDxfOUQZjAQ) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Saving Grace](https://open.spotify.com/album/06HWWELSPtvnXUYEVTw5nV) | 4:47 |
+| 5525 | [Angel o Demonio](https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy) | [El Bardo](https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO) | [Angel o Demonio](https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND) | 3:52 |
+| 5526 | [The Habbit Of Heartbreak](https://open.spotify.com/track/5gjKINtN1ntm8GIvw3M8TB) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [The Habbit Of Heartbreak](https://open.spotify.com/album/1ti6cOmKrjXf8DAmGXfkvg) | 3:48 |
 
-Snapshot ID: `AAAK+USuRNhEmTD7FES6OFztAsrdSODw`
+Snapshot ID: `AAAK/pMfjDFCKDq+Igf5cTRvF255JKTk`

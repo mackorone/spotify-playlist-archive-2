@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 37140,
+  "num_followers": 37145,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABE2xcOTgUj6WQSRcuGNXjR",
+  "snapshot_id": "au5qAAAAAABsA44MNIo4iRVOYC6HP5CM",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ZJ0YC0bTd04N03gVsPDUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol7 / 1937 - 1938",
         "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 194400,
       "name": "Farewell Blues",
       "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ZJ0YC0bTd04N03gVsPDUb"
     },
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Clouds 1940",
-        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
+        "name": "l'inoubliable",
+        "url": "https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 163226,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
+      "duration_ms": 194640,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "l'inoubliable",
-        "url": "https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc"
+        "name": "War Clouds 1940",
+        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 194640,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm"
+      "duration_ms": 163226,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
     },
     {
       "added_at": null,
@@ -531,42 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol.12 / 1940 - 1941",
-        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Swing 42",
-      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -587,6 +551,42 @@
       "duration_ms": 176052,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol.12 / 1940 - 1941",
+        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Swing 42",
+      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Les chansons d'or",
+        "url": "https://open.spotify.com/album/3iBvktnN7MxDUUl4wYbVIU"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/1j4Rgo2BjoCEXdlLj3Y1Gb"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/1P08botqMPXCz5isAtNKAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol7 / 1937 - 1938",
         "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 166000,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Les chansons d'or",
-        "url": "https://open.spotify.com/album/3iBvktnN7MxDUUl4wYbVIU"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/1j4Rgo2BjoCEXdlLj3Y1Gb"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/1P08botqMPXCz5isAtNKAc"
     },
     {
       "added_at": null,
@@ -791,6 +791,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol11 / 1940",
+        "url": "https://open.spotify.com/album/6CZYXazfqSfTJHeZs6lZhH"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "Les Yeux noirs",
+      "url": "https://open.spotify.com/track/7yWaaLOaZBATcGKNvBxvkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "My Serenade",
+      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -815,42 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "My Serenade",
-      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol11 / 1940",
-        "url": "https://open.spotify.com/album/6CZYXazfqSfTJHeZs6lZhH"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 134906,
-      "name": "Les Yeux noirs",
-      "url": "https://open.spotify.com/track/7yWaaLOaZBATcGKNvBxvkV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol9 / 1939 - 1940",
         "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
@@ -863,30 +863,6 @@
       "duration_ms": 159253,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6HOD79or2cqZXXDcJjHv2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
-      },
-      "artists": [
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 184197,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
     },
     {
       "added_at": null,
@@ -935,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Indispensible Django Reinhardt (1949-1950)",
-        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -968,9 +928,25 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 173161,
-      "name": "It Was So Beautiful",
-      "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
+      "duration_ms": 184197,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Indispensible Django Reinhardt (1949-1950)",
+        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
     },
     {
       "added_at": null,
@@ -1007,6 +983,30 @@
       "duration_ms": 211266,
       "name": "Anniversary Song",
       "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+      },
+      "artists": [
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "It Was So Beautiful",
+      "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
     },
     {
       "added_at": null,

@@ -11534,7 +11534,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 185850,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1A4VLW48hd3N4leX2bkLs6"
@@ -28418,7 +28418,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
       "url": "https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd"
@@ -28810,7 +28810,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/5cuSyLoYilFJQsI1Yta8GT"
@@ -35088,7 +35088,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 171488,
       "name": "\u041d\u0430 \u043d\u0430\u0448\u0456\u0439 \u0432\u0443\u043b\u0438\u0446\u0456",
       "url": "https://open.spotify.com/track/2p24QXCT3LdHAmHYWI09p2"
@@ -35660,7 +35660,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 182750,
       "name": "\u041d\u0435 \u0441\u0430\u043c",
       "url": "https://open.spotify.com/track/2mXA07JWWCbq4pJwlCM5j7"
@@ -39312,7 +39312,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 179307,
       "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv"
@@ -42136,6 +42136,24 @@
     {
       "album": {
         "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
+        "url": "https://open.spotify.com/album/2gJd1unSqeqTVV6njc7wr5"
+      },
+      "artists": [
+        {
+          "name": "\u0443\u0440\u0430\u043b \u0433\u0430\u0439\u0441\u0438\u043d",
+          "url": "https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117712,
+      "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
+      "url": "https://open.spotify.com/track/2U8v7jVPLiA3SgBdZ60wsH"
+    },
+    {
+      "album": {
+        "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
         "url": "https://open.spotify.com/album/2SoeUHKa7AJYohBOyjkDha"
       },
       "artists": [
@@ -42150,7 +42168,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 117708,
       "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
       "url": "https://open.spotify.com/track/3wOM6MY3KmA5470mfYbH6K"

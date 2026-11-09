@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 546869,
+  "num_followers": 547037,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Three Little Words",
-        "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "You Go to My Head",
         "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+        "name": "Three Little Words",
+        "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
+      "duration_ms": 290666,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -659,6 +643,22 @@
       "duration_ms": 250280,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "The Duke: The Columbia Years (1927-1962)",
         "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 183693,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Dinah! (Expanded Edition)",
         "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 225840,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Dimples",
         "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 211692,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0WvEPAbHsfTa3SSUXiRu3D"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2026-11-06 09:56:37",

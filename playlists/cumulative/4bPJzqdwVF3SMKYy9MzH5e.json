@@ -6791,6 +6791,28 @@
     },
     {
       "album": {
+        "name": "Big Baby DRAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "Broccoli (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/3dXZLrgeGmDpFXkdotBXMf"
       },
@@ -40978,6 +41000,24 @@
       "duration_ms": 176844,
       "name": "The Principal",
       "url": "https://open.spotify.com/track/7fYNunIzTO7yAHBQtvq8Fc"
+    },
+    {
+      "album": {
+        "name": "#SantanaWorld (+)",
+        "url": "https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv"
+      },
+      "artists": [
+        {
+          "name": "Tay-K",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/3wGXyJGsCf1myH5MooQIqE"
     },
     {
       "album": {

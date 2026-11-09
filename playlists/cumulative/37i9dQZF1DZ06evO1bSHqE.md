@@ -4,15 +4,16 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 16 min
+88 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Drop Dead\) Beautiful \(feat\. Sabi\)](https://open.spotify.com/track/5Zvzva2gweeEU46XEeeFSa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:36 | 2025-07-12 | 2025-10-13 |
-| [\(I Got That\) Boom Boom \(feat\. Ying Yang Twins\)](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 4:49 | 2023-07-28 |  |
+| [\(I Got That\) Boom Boom \(feat\. Ying Yang Twins\)](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 4:49 | 2023-07-28 | 2026-11-09 |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2023-07-28 |  |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2023-07-28 |  |
 | [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 | 2023-07-28 |  |
+| [Am I A Sinner](https://open.spotify.com/track/5LWQD5WaIV5E6ahBHSl7qz) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 3:48 | 2026-11-09 |  |
 | [Anticipating](https://open.spotify.com/track/6dKYAtGciLRm8uOD1LiSVf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:16 | 2023-12-13 | 2024-07-06 |
 | [Born to Make You Happy](https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:03 | 2023-07-28 |  |
 | [Boys](https://open.spotify.com/track/4rIz1mOBHqIo6Mk7DzuoPs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:26 | 2023-07-28 |  |

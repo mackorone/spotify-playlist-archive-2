@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233985,
+  "num_followers": 233983,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Everything Is About You",
@@ -635,6 +619,22 @@
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
-        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
-      },
-      "artists": [
-        {
-          "name": "Dermot Henry",
-          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
-        }
-      ],
-      "duration_ms": 214549,
-      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
-      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
+        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 214549,
+      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Bloom",
@@ -947,6 +931,22 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Singing",
         "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 185955,
       "name": "Everyone Around Me Dancing",
       "url": "https://open.spotify.com/track/6iAoohJqkZCOo6SdzkXyZI"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Citadel Band",
-        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
-      },
-      "artists": [
-        {
-          "name": "Loney dear",
-          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
-      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+      },
+      "artists": [
+        {
+          "name": "Loney dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
+      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "energizer",
-        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "energizer",
-      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "energizer",
+        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "energizer",
+      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Mac's Omelette",
+        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 238845,
+      "name": "Mac\u2019s Omelette",
+      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

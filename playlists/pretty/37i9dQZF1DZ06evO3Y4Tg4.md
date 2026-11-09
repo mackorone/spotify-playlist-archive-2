@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,306 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,337 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 19 | [Professor X](https://open.spotify.com/track/3xMEFtDh2TNm949OgKMXPb) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4xofmxMaxKG01FRQABxP6y) | 3:37 |
 | 20 | [Special](https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:07 |
 | 21 | [No Weapons \(feat\. Jim Legxacy\)](https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:18 |
-| 22 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
-| 23 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
+| 22 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
+| 23 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
 | 24 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
 | 25 | [Marvellous](https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:01 |
 | 26 | [Streatham](https://open.spotify.com/track/02E0dT8YgueiXzJBpOijOs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 44 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
 | 45 | [Venting](https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Crop Circle](https://open.spotify.com/album/4375umzAIqqlWI49eue7Na) | 2:21 |
 | 46 | [Tequila](https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Tequila](https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0) | 3:16 |
-| 47 | [Same Emotions \(feat\. Dave\)](https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Ends, Never Ends](https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay) | 3:58 |
-| 48 | [Peligro](https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Wamp 2 Dem](https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o) | 4:20 |
+| 47 | [Peligro](https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Wamp 2 Dem](https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o) | 4:20 |
+| 48 | [Same Emotions \(feat\. Dave\)](https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Ends, Never Ends](https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay) | 3:58 |
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/12UgxYOGvFcuFlIf95vEGr) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 4:02 |
 
-Snapshot ID: `au0YgAAAAABiUXaQipr4HuY4YzXvZoqV`
+Snapshot ID: `au5qAAAAAAB7FOOj20AgnNhH+oZGnlYc`

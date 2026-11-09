@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,564,367 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,564,229 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 60 | [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 |
 | 61 | [Bodybag](https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Bodybag](https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T) | 2:50 |
 | 62 | [A MILLI \- Zoey's Version](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 |
-| 63 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 |
-| 64 | [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 |
+| 63 | [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 |
+| 64 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 |
 | 65 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
 | 66 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 |
 | 67 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
 | 68 | [Snakepit Anthem](https://open.spotify.com/track/25ZeuwUZtEkpKiWyn3ythT) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakepit](https://open.spotify.com/album/6PNhLb06FOlSkRtApeADEu) | 2:17 |
 | 69 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 |
 | 70 | [CRUSH ON U](https://open.spotify.com/track/5NjS8UegnF9wCyEHhy1U0s) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [UNMASKED!](https://open.spotify.com/album/0gAinmiR8iNRC7yFmVHxtM) | 2:19 |
-| 71 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 |
-| 72 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 |
-| 73 | [FIRE DANCE](https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FIRE DANCE](https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz) | 2:47 |
+| 71 | [FIRE DANCE](https://open.spotify.com/track/7E23GtxFZSufnrkcPoiK36) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FIRE DANCE](https://open.spotify.com/album/0V8JF319xzCxG7FtlsvpHz) | 2:47 |
+| 72 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 |
+| 73 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 |
 | 74 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |
 | 75 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 |
 
-Snapshot ID: `AAAAAFgtn8pQHi+T7yCHsGN9IyIH1rDh`
+Snapshot ID: `AAAAAEYnZVvJlngBXnoFGfSlOqseTHm1`

@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 56 min
+110 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Esta Llorando Mi Corazón](https://open.spotify.com/track/0g6SWqcXWn4jytXqPd4VIu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:27 | 2025-05-27 | 2025-06-03 |
 | [Gato Del Infierno](https://open.spotify.com/track/1u5qaB4m4tA5iN6qPFKpGt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [Gato Del Infierno](https://open.spotify.com/album/32lMPL2qsmUvNMZA0rYFdl) | 2:49 | 2026-05-10 |  |
 | [Gente De Accionar \(feat\. La Edicion De Culiacan\)](https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Mexican Mafia Corridos](https://open.spotify.com/album/792fLNAl0z9jvw9q8OZljr) | 2:52 | 2024-10-28 | 2025-10-30 |
-| [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 |  |
+| [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 | 2026-11-09 |
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 | 2024-08-22 |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 | 2025-01-05 |
@@ -116,6 +116,7 @@
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 | 2026-03-23 |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |
 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 | 2024-01-29 | 2024-07-27 |
+| [Y Se Logro](https://open.spotify.com/track/2c6kUOPQfCjVWcC9FctYNF) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Y Se Logro](https://open.spotify.com/album/3SFVEshPdEFhSQOb1Wd84t) | 2:27 | 2026-11-09 |  |
 | [Z.B.Z.A](https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Z.B.Z.A](https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN) | 2:54 | 2024-07-27 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

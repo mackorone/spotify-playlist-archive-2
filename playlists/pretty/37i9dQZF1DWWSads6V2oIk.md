@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,423 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,499 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 47 | [Distant Gentle Stream](https://open.spotify.com/track/3VtBYUFa9A3oqOrale3kO2) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 48 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
 | 49 | [Catskill Forest Preserve](https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Catskill Forest Preserve](https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8) | 4:07 |
-| 50 | [Sleepy Stream XII](https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XII](https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh) | 1:52 |
-| 51 | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 |
+| 50 | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 |
+| 51 | [Sleepy Stream XII](https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XII](https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh) | 1:52 |
 | 52 | [Jungle Night Sounds](https://open.spotify.com/track/2WPt88T68DH3UFhIveodsx) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Rural Nature Sounds](https://open.spotify.com/album/2BaceU3ldmiPRUjPHb4imI) | 3:52 |
 | 53 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 |
 | 54 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 71 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
 | 72 | [Manglares](https://open.spotify.com/track/0t4tA8xueOdJWOaHCyHVgK) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 |
 | 73 | [Humid Trail](https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:30 |
-| 74 | [Wind and the Crickets](https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Wind and the Crickets](https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9) | 6:00 |
-| 75 | [Thunder, Rain, and the Crickets](https://open.spotify.com/track/3lbTY5yyOsPf7396n3D0Um) | [Sun Songs](https://open.spotify.com/artist/4LTukblVBGn2Yf2SLv3bVq) | [Thunder, Rain, and the Crickets](https://open.spotify.com/album/4U6Gvm5e7VJBFblCfd3GNS) | 2:55 |
-| 76 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
+| 74 | [Thunder, Rain, and the Crickets](https://open.spotify.com/track/3lbTY5yyOsPf7396n3D0Um) | [Sun Songs](https://open.spotify.com/artist/4LTukblVBGn2Yf2SLv3bVq) | [Thunder, Rain, and the Crickets](https://open.spotify.com/album/4U6Gvm5e7VJBFblCfd3GNS) | 2:55 |
+| 75 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
+| 76 | [Wind and the Crickets](https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Wind and the Crickets](https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9) | 6:00 |
 | 77 | [Sleepy Stream XIV](https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIV](https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc) | 1:58 |
 | 78 | [Tranquility of the Forest](https://open.spotify.com/track/0vW1cA9wBvOfTtSx9L6IAw) | [FX Makers](https://open.spotify.com/artist/5fWAylv9KVBScCAscV4Ibb) | [Peaceful Forest Sounds](https://open.spotify.com/album/4w8JQeeZH7J4ZJucQ5auM2) | 3:17 |
 | 79 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 84 | [Nocturnal Nature's Lullaby](https://open.spotify.com/track/1FUFAGT1hNaXeRyNnPwaKu) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:52 |
 | 85 | [Crickets and Birds in the Rain](https://open.spotify.com/track/43xs3xCdJFZX1EcmtSD9JK) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:08 |
 | 86 | [Chirping Melodies](https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Wonders of Tranquility](https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A) | 15:00 |
-| 87 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 |
-| 88 | [Calm Night Jungle](https://open.spotify.com/track/4B7V783QPTkmXegMMFzJEE) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Calm Night Jungle](https://open.spotify.com/album/06mgWn0cxtum3yNeSCekF0) | 2:31 |
+| 87 | [Calm Night Jungle](https://open.spotify.com/track/4B7V783QPTkmXegMMFzJEE) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Calm Night Jungle](https://open.spotify.com/album/06mgWn0cxtum3yNeSCekF0) | 2:31 |
+| 88 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 |
 | 89 | [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 |
 | 90 | [Crickets Singing in the Rain](https://open.spotify.com/track/3vZDRvQcdxROqj6E5WxK63) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:21 |
 

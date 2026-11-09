@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hey, Molly Santana<br/>that's DOPE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,406 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,312 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 1 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 2 | [pop it](https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv) | 2:18 |
 | 3 | [Grain of Salt](https://open.spotify.com/track/2vPqCuX4GFFAJiGj9JQMG0) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Grain of Salt](https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv) | 2:42 |
 | 4 | [Tulsa, OK](https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Tulsa, OK](https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC) | 3:01 |

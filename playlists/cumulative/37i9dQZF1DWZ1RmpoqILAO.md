@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> pinegrove autumn 🍂 sadurn on the cover
+> Star Moles this song absolutely rips!
 
-397 songs - 1 day 1 hr 23 min
+402 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bobby](https://open.spotify.com/track/41AzwDX7tWHHKI0zvK4YpW) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:15 | 2024-08-26 |  |
 | [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 | 2026-10-23 |  |
 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-22 | 2024-03-09 |
+| [Breathing Again](https://open.spotify.com/track/1Je1M5WVTr60FPxXZzWadl) | [Brody Price](https://open.spotify.com/artist/5VtdIF85A9tmnL6JqTR5Kq) | [Leaf Miner's Daughter](https://open.spotify.com/album/2AcFPlhlj6TFGCwu85gLev) | 3:18 | 2026-11-08 |  |
 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2023-09-22 | 2024-04-19 |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 |  |
 | [Bullets & Boomerangs](https://open.spotify.com/track/73fWCODlIoVPG3BpHgsgx7) | [King Lazy Eye](https://open.spotify.com/artist/3C6QTDIEnCAQmoHqsgzvJe) | [All Cops Are Boyfriends](https://open.spotify.com/album/7B9csO1JDwS6hwqNI6vqWJ) | 3:03 | 2023-09-08 | 2023-12-02 |
@@ -79,6 +80,7 @@
 | [Collision](https://open.spotify.com/track/66GaPdtF6oT4JLXinFRJQV) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Collision](https://open.spotify.com/album/21BwFu8Q9dW2fBCrb8GVYe) | 3:40 | 2026-02-17 |  |
 | [COME COME COME VAR\. XIV](https://open.spotify.com/track/5C6GbWeiB4UolxeXPXG4Bl) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 3:10 | 2025-09-19 |  |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2026-04-11 |
+| [Concrete Cowboy](https://open.spotify.com/track/2cubmkSK7KZDiJ063MzViO) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [Concrete Cowboy](https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s) | 3:22 | 2026-11-08 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-28 | 2026-03-28 |
 | [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 | 2023-02-23 | 2025-05-24 |
 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 | 2023-06-30 | 2025-09-20 |
@@ -226,6 +228,7 @@
 | [Lamplight](https://open.spotify.com/track/473SizAMoQBwQXdnF3dhnu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Lamplight](https://open.spotify.com/album/1vqxyUR8okdL1W0KIPvE4d) | 4:23 | 2023-06-30 | 2024-06-08 |
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 | 2023-12-02 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-03-02 |
+| [Let It Win](https://open.spotify.com/track/5burUQK18tTGsspPlDTEcn) | [Neu Blume](https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z) | [Let It Win](https://open.spotify.com/album/7uaakRhjASqnMK5TmWe15E) | 4:41 | 2026-11-08 |  |
 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 | 2023-07-05 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-06-30 | 2024-05-04 |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-08-04 | 2024-03-23 |
@@ -233,6 +236,7 @@
 | [Long Distance Driver \- Acoustic](https://open.spotify.com/track/6FJTSRJjsxQ2b9j0IBjXEg) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ), [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [I Looked Out](https://open.spotify.com/album/2rreQuHDdWoYubYIL27yiK) | 3:54 | 2025-02-28 |  |
 | [Long Pond Lily](https://open.spotify.com/track/47yRyhwrCVXkrjmTXye7Ot) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 4:26 | 2026-04-10 |  |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2023-05-10 | 2026-01-31 |
+| [Lord, Let That Tesla Crash](https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 5:06 | 2026-11-08 |  |
 | [Lose Sight of You](https://open.spotify.com/track/0MRl699sc4XD47N8voalTg) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Something Wild](https://open.spotify.com/album/3Wc0YFoix2vAhwc8UmRkFJ) | 1:58 | 2023-06-12 | 2024-03-09 |
 | [Loser's Prize](https://open.spotify.com/track/5iYmQDWyJ5KSla6vkzifzF) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [All Set The Bone](https://open.spotify.com/album/2uTMERh6Ta40fBW2aKTjtQ) | 4:42 | 2026-10-02 |  |
 | [Losing Tennessee](https://open.spotify.com/track/0cgrMmkoFQCJXnosXSqHWd) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:38 | 2024-06-07 | 2026-04-11 |
@@ -297,6 +301,7 @@
 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 | 2023-06-23 | 2024-06-22 |
 | [Running](https://open.spotify.com/track/3NT7P2K38WWGRLyVrAxTqh) | [Fat, Evil Children](https://open.spotify.com/artist/6m207mDPCrde3IiOjJpuJg) | [Fat Evil Dogs, Fat Evil Cats, Fat Evil Bears, Fat Evil Rats](https://open.spotify.com/album/7l1Yfd8HlUZPJrRMpq8weU) | 3:54 | 2026-10-16 |  |
 | [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 | 2023-07-28 | 2024-03-09 |
+| [Salami](https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo) | [Maya Donovan](https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX) | [Ceremony](https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ) | 3:37 | 2026-11-08 |  |
 | [Salt n' Lime](https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Cuntry](https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB) | 8:16 | 2025-07-18 |  |
 | [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 | 2026-03-28 |
 | [Sandy](https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Country River](https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss) | 3:55 | 2023-12-08 | 2024-04-19 |

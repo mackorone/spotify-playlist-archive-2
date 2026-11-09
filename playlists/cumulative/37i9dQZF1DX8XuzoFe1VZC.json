@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 184586,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
@@ -3186,6 +3186,32 @@
       "duration_ms": 196800,
       "name": "ELLA TIENE",
       "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
+    },
+    {
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "EN ITALIA",
+      "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
     },
     {
       "album": {

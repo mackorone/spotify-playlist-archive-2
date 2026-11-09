@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,046 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,043 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 23 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
 | 24 | [Music Sounds](https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Music Sounds](https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc) | 2:39 |
 | 25 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
-| 26 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
-| 27 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
-| 28 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
-| 29 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
+| 26 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
+| 27 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
+| 28 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
+| 29 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 30 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 31 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
 | 32 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 40 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
 | 41 | [Mogłeś tu być](https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [VOICE](https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo) | 2:28 |
 | 42 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
-| 43 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
-| 44 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
+| 43 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
+| 44 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
 | 45 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
 | 46 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 47 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |

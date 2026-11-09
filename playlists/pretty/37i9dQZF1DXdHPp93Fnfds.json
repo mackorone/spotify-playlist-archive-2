@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135405,
+  "num_followers": 135402,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Entremundos",
         "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 205911,
       "name": "Entremundos",
       "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 243951,
       "name": "El Im\u00e1n",
       "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "El Gris Tambi\u00e9n Es un Color (En Vivo)",
-        "url": "https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR"
-      },
-      "artists": [
-        {
-          "name": "Linda Habitante",
-          "url": "https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE"
-        }
-      ],
-      "duration_ms": 185123,
-      "name": "Gris - En Vivo",
-      "url": "https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "El Gris Tambi\u00e9n Es un Color (En Vivo)",
+        "url": "https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR"
+      },
+      "artists": [
+        {
+          "name": "Linda Habitante",
+          "url": "https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE"
+        }
+      ],
+      "duration_ms": 185123,
+      "name": "Gris - En Vivo",
+      "url": "https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 250127,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",

@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 329779,
+  "num_followers": 329786,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABVpY/d6y+ZbHP5UfIOlAH0",
+  "snapshot_id": "au5qAAAAAABfadsmkXgt43TuOBgAjyB/",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Boat 3.5",
-        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
       "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 170858,
-      "name": "Flex Up (feat. Future & Playboi Carti)",
-      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
+      "duration_ms": 124093,
+      "name": "Vamp Anthem",
+      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
     },
     {
       "added_at": null,
@@ -483,18 +475,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+        "name": "Lil Boat 3.5",
+        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
       },
       "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+      "duration_ms": 170858,
+      "name": "Flex Up (feat. Future & Playboi Carti)",
+      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
     },
     {
       "added_at": null,

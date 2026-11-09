@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 182342,
+  "num_followers": 182370,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAC+G48mE/XSd5R3VtHkT0Te",
+  "snapshot_id": "au5qAAAAAADt8XZFIiy3VzGaq+ZWsK9D",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOMEBODY LOVES ME PT. 2",
         "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 181276,
       "name": "SOMEBODY LOVES ME PT. 2",
       "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 172337,
-      "name": "DEEPER",
-      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 295977,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 295977,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/6wTOQUNs8XNeTsVAPYubFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 228602,
+      "name": "fue mejor",
+      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
     },
     {
       "added_at": null,

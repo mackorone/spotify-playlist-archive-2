@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
+    },
+    {
+      "album": {
         "name": "AWKWARD FREESTYLE",
         "url": "https://open.spotify.com/album/0VqxvtvAycKlOonkkUx1uN"
       },
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 252226,
       "name": "Koszulka",
       "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"

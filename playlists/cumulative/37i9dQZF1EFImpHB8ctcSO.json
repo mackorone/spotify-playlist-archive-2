@@ -2270,6 +2270,24 @@
     {
       "album": {
         "name": "Charmer",
+        "url": "https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Living a Lie",
+      "url": "https://open.spotify.com/track/0wCqVHZB0O3IMcd76xXdo5"
+    },
+    {
+      "album": {
+        "name": "Charmer",
         "url": "https://open.spotify.com/album/2gZkvOWF9m4GVgMxEX3AlT"
       },
       "artists": [
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 206253,
       "name": "Living a Lie",
       "url": "https://open.spotify.com/track/3LkBwsdSEo89OIiOTW2Lpd"

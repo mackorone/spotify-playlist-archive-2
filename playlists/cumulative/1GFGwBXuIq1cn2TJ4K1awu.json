@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "A Place for My Head",
+      "url": "https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"
+    },
+    {
+      "album": {
         "name": "Chocolate and Cheese",
         "url": "https://open.spotify.com/album/5Ci3qdm3m5wnkK9ORy2hU5"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 193048,
       "name": "All the Debts I Owe",
       "url": "https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 255845,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
@@ -3090,6 +3108,24 @@
       "duration_ms": 168938,
       "name": "Chef Dreds",
       "url": "https://open.spotify.com/track/4jtkMB1q0M4icd8Xnwpiwx"
+    },
+    {
+      "album": {
+        "name": "Refuse To Be Burnt-Out",
+        "url": "https://open.spotify.com/album/5ZD9txZEH3UykpuPDlGGRl"
+      },
+      "artists": [
+        {
+          "name": "The Fugs",
+          "url": "https://open.spotify.com/artist/4tMcZ6q43cH5AbKk3mrdSi"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "CIA Man",
+      "url": "https://open.spotify.com/track/2HthOIHQvqFuChdkVERIN2"
     },
     {
       "album": {
@@ -4339,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Pet Sounds (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1yMPDqzYuQ4TI10ICKlbzW"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178422,
+      "name": "Don't Talk (Put Your Head On My Shoulder)",
+      "url": "https://open.spotify.com/track/4LHeNOCwHJvKxmH0AsQ1xt"
+    },
+    {
+      "album": {
         "name": "doomsday",
         "url": "https://open.spotify.com/album/0ASVZyGAaOb9LNO0zMMQLL"
       },
@@ -5164,6 +5218,24 @@
       "duration_ms": 176346,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
+    },
+    {
+      "album": {
+        "name": "Sometimes, Forever",
+        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Feel It All The Time",
+      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
     },
     {
       "album": {
@@ -6184,7 +6256,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 169186,
       "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
       "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
@@ -6776,7 +6848,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
@@ -7331,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207340,
+      "name": "I Saw",
+      "url": "https://open.spotify.com/track/5wDEOCfVVAqkdjkrSwDwGJ"
+    },
+    {
+      "album": {
         "name": "Painted Shut",
         "url": "https://open.spotify.com/album/16fimHkQtXptYBytXfHfUs"
       },
@@ -7342,7 +7432,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 203123,
       "name": "I Saw My Twin",
       "url": "https://open.spotify.com/track/0QqIJ2o57gKmjUou1JOFF5"
@@ -8182,6 +8272,24 @@
       "duration_ms": 196522,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv"
+    },
+    {
+      "album": {
+        "name": "Pod",
+        "url": "https://open.spotify.com/album/1KSkxHaYfTuyuUTtkpYHvQ"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4WkftVHUEzLVCQFn6tAxKt"
     },
     {
       "album": {
@@ -11429,6 +11537,24 @@
     },
     {
       "album": {
+        "name": "Never Before Seen, Never Again Found",
+        "url": "https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229844,
+      "name": "Object Permanence",
+      "url": "https://open.spotify.com/track/28BW0WwfqqNFOnBnt2aR0l"
+    },
+    {
+      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/2OkdkfVKqje8mj7g1iLroV"
       },
@@ -11768,7 +11894,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 227159,
       "name": "Paid Time Off",
       "url": "https://open.spotify.com/track/3IBLeIzqewsCR4Pvp5jqD3"
@@ -13337,6 +13463,24 @@
     },
     {
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/5GnRROSFWQhuxfDkyBALGb"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG"
+    },
+    {
+      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
@@ -14186,7 +14330,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 240546,
       "name": "Something About The Way You Look Tonight - Edit Version",
       "url": "https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da"
@@ -14432,7 +14576,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 334802,
       "name": "Spud Infinity",
       "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
@@ -15920,7 +16064,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 166357,
       "name": "The Town I Live In - Original Version",
       "url": "https://open.spotify.com/track/79DQJbKVZty7GRnr9fMYzT"
@@ -15938,7 +16082,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 254400,
       "name": "The Unguarded Moment - 2002 Remastered",
       "url": "https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw"
@@ -16284,6 +16428,24 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Too Dark",
+      "url": "https://open.spotify.com/track/5bTKxJfWolOjvW7A1BethF"
     },
     {
       "album": {
@@ -17791,6 +17953,24 @@
     },
     {
       "album": {
+        "name": "Penny & the Quarters EP",
+        "url": "https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V"
+      },
+      "artists": [
+        {
+          "name": "Penny & The Quarters",
+          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
+    },
+    {
+      "album": {
         "name": "All of This Will End",
         "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
       },
@@ -17990,6 +18170,24 @@
       "duration_ms": 207293,
       "name": "\u30de\u30b9\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3 \u30d6\u30ec\u30a4\u30af\u30c0\u30a6\u30f3",
       "url": "https://open.spotify.com/track/3ZORZ2Vk7MIZGZN4B5AZWp"
+    },
+    {
+      "album": {
+        "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+        "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180233,
+      "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+      "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
     }
   ],
   "url": "https://open.spotify.com/playlist/1GFGwBXuIq1cn2TJ4K1awu"

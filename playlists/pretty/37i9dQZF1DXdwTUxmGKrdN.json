@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 463415,
+  "num_followers": 463423,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 239949,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Soulful",
         "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 247133,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 239949,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
       },
@@ -291,38 +275,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        },
-        {
-          "name": "Chris Geith",
-          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
         }
       ],
-      "duration_ms": 238213,
-      "name": "Echoes of the Heart",
-      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 302814,
-      "name": "10. Soul Dream",
-      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -343,6 +307,42 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 302814,
+      "name": "10. Soul Dream",
+      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Chris Geith",
+          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Echoes of the Heart",
+      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 347013,
       "name": "Revolving Door",
       "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -559,38 +559,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Still on The Road",
-        "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
-      },
-      "artists": [
-        {
-          "name": "Alfonso Gugliucci",
-          "url": "https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ"
-        },
-        {
-          "name": "Enrico Solazzo",
-          "url": "https://open.spotify.com/artist/0SmNV0HwVvIH5dphXZ7C2E"
-        },
-        {
-          "name": "Max Filosi",
-          "url": "https://open.spotify.com/artist/2iUyBuHomRb9OqoGi2TjA8"
-        },
-        {
-          "name": "Pekka Martikainen",
-          "url": "https://open.spotify.com/artist/5QEWcEVz4RVmpEJE9XKHKF"
-        },
-        {
-          "name": "Jazzology",
-          "url": "https://open.spotify.com/artist/3SgqwfG98fVw6pcNE8DX9m"
-        }
-      ],
-      "duration_ms": 170684,
-      "name": "Still on The Road",
-      "url": "https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Still on The Road",
+        "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
+      },
+      "artists": [
+        {
+          "name": "Alfonso Gugliucci",
+          "url": "https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ"
+        },
+        {
+          "name": "Enrico Solazzo",
+          "url": "https://open.spotify.com/artist/0SmNV0HwVvIH5dphXZ7C2E"
+        },
+        {
+          "name": "Max Filosi",
+          "url": "https://open.spotify.com/artist/2iUyBuHomRb9OqoGi2TjA8"
+        },
+        {
+          "name": "Pekka Martikainen",
+          "url": "https://open.spotify.com/artist/5QEWcEVz4RVmpEJE9XKHKF"
+        },
+        {
+          "name": "Jazzology",
+          "url": "https://open.spotify.com/artist/3SgqwfG98fVw6pcNE8DX9m"
+        }
+      ],
+      "duration_ms": 170684,
+      "name": "Still on The Road",
+      "url": "https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "The Story of Jaz",
         "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+        "name": "The Limit's the Sky",
+        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
       },
       "artists": [
         {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
         }
       ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+      "duration_ms": 223669,
+      "name": "Chill or Be Chilled",
+      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -743,22 +759,6 @@
       "duration_ms": 222747,
       "name": "Gypsy Soul",
       "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "The Limit's the Sky",
-        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223669,
-      "name": "Chill or Be Chilled",
-      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        }
-      ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 295156,
       "name": "Stockholm Summer",
       "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
+        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
+      },
+      "artists": [
+        {
+          "name": "Bob Baldwin",
+          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+        },
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309981,
+      "name": "Imagine (Living as One)",
+      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 269981,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
-        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
-      },
-      "artists": [
-        {
-          "name": "Bob Baldwin",
-          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
-        },
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309981,
-      "name": "Imagine (Living as One)",
-      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+        "name": "Velvet Groove",
+        "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "Eric Valentine",
+          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
+        },
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU"
         }
       ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
+      "duration_ms": 237029,
+      "name": "Velvet Groove",
+      "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Velvet Groove",
-        "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
       "artists": [
         {
-          "name": "Eric Valentine",
-          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
-        },
-        {
-          "name": "Velvet Groove",
-          "url": "https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Velvet Groove",
-      "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "duration_ms": 293595,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Mr. Kool",
         "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
       },
       "artists": [
         {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
         }
       ],
-      "duration_ms": 293595,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
+      "duration_ms": 215200,
+      "name": "Round And Round",
+      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1459,22 +1475,6 @@
       "duration_ms": 281706,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Round And Round",
-      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
     },
     {
       "added_at": "2026-10-02 07:49:51",

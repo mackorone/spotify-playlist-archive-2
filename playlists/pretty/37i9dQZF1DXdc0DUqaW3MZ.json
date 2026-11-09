@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 378207,
+  "num_followers": 378208,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-11-03 19:43:35",
       "album": {
+        "name": "Memory on the Run",
+        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Memory on the Run",
+      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
+    },
+    {
+      "added_at": "2026-11-03 19:43:35",
+      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2026-11-03 19:43:35",
-      "album": {
-        "name": "Memory on the Run",
-        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Memory on the Run",
-      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
     },
     {
       "added_at": "2026-11-03 19:43:35",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-11-03 19:43:35",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-11-03 19:43:35",
+      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/1yXoCYl6ztNwguaidTQy2Y"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 180834,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/7wmgtLsS8IpBCPHjFiVrd3"
-    },
-    {
-      "added_at": "2026-11-03 19:43:35",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     }
   ],
   "unique_name": "Soultronic",

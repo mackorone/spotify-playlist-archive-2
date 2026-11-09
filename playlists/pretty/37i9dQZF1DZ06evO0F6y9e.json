@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1158094,
+  "num_followers": 1158256,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAACwUs64pN2cJQvVH4Gl87pt",
+  "snapshot_id": "au5qAAAAAAC7d0qx51FVA9GXjzli/7Pa",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yakifest Vol. 4 (En Vivo)",
         "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+        "name": "Mis 30 Aniversario (Vol. 2)",
+        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
       "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Segundas Partes",
-      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 30 Aniversario (Vol. 2)",
-        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
         "url": "https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 167433,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 192550,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
+      "duration_ms": 192550,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 185642,
       "name": "Suspiros - En Vivo",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
     },
     {
       "added_at": null,

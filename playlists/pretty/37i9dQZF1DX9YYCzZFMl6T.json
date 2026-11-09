@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 9026,
+  "num_followers": 9070,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Pretty Paper",
+        "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Pretty Paper",
+      "url": "https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5lP3w4pppBEKlKhTKbahvz"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 166500,
       "name": "When It Snows In Texas",
       "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Pretty Paper",
-        "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "Pretty Paper",
-      "url": "https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 179653,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "A Clay Street Country Christmas",
+        "url": "https://open.spotify.com/album/6pejhIzadTgu2BFkF7ncza"
+      },
+      "artists": [
+        {
+          "name": "Clay Street Unit",
+          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/0YbfOogem8kINOj0z0S3pW"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "Every Day Will Be Like A Holiday",
         "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 200266,
       "name": "Every Day Will Be Like A Holiday",
       "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Sings Simple Gifts",
-        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Simple Gifts",
-      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Sings Simple Gifts",
+        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "Simple Gifts",
+      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "A Clay Street Country Christmas",
-        "url": "https://open.spotify.com/album/6pejhIzadTgu2BFkF7ncza"
-      },
-      "artists": [
-        {
-          "name": "Clay Street Unit",
-          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/0YbfOogem8kINOj0z0S3pW"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 150563,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 137853,
-      "name": "Oh Holy Night",
-      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -483,6 +467,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 137853,
+      "name": "Oh Holy Night",
+      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "Light of the Stable (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 161266,
       "name": "The First Noel - 2004 Remaster",
       "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -523,18 +539,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
+        "name": "Merry Christmas Y'all",
+        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
         }
       ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
+      "duration_ms": 191784,
+      "name": "Corpus Christi Christmas",
+      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -567,22 +583,6 @@
       "duration_ms": 245922,
       "name": "River",
       "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "Merry Christmas Y'all",
-        "url": "https://open.spotify.com/album/2ytD9ryKkaaoV1QpEinoyh"
-      },
-      "artists": [
-        {
-          "name": "Presley Haile",
-          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
-        }
-      ],
-      "duration_ms": 191784,
-      "name": "Corpus Christi Christmas",
-      "url": "https://open.spotify.com/track/1eRecE0pftdJtIoBpcK3gD"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 207735,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
-        "name": "OCMS XMAS",
-        "url": "https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -719,18 +719,34 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+        "name": "OCMS XMAS",
+        "url": "https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+      "duration_ms": 237480,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO"
+    },
+    {
+      "added_at": "2026-11-06 05:01:25",
+      "album": {
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -751,18 +767,18 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
       },
       "artists": [
         {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
         }
       ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
     },
     {
       "added_at": "2026-11-06 05:01:25",
@@ -787,22 +803,6 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Merry Christmas Asshole",
-        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 185056,
-      "name": "Merry Christmas Asshole",
-      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
-    },
-    {
-      "added_at": "2026-11-06 05:01:25",
-      "album": {
         "name": "I Heard The Bells on Christmas Day",
         "url": "https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe"
       },
@@ -823,26 +823,22 @@
     {
       "added_at": "2026-11-06 05:01:25",
       "album": {
-        "name": "Run Run Rudolph",
-        "url": "https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU"
+        "name": "The Sweetest Season",
+        "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
       },
       "artists": [
         {
-          "name": "Gabe Lee",
-          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         },
         {
-          "name": "King Margo",
-          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
-        },
-        {
-          "name": "Zoe Cummins",
-          "url": "https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh"
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
         }
       ],
-      "duration_ms": 174841,
-      "name": "Run Run Rudolph",
-      "url": "https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU"
+      "duration_ms": 168565,
+      "name": "The Sweetest Season",
+      "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
     },
     {
       "added_at": "2026-11-06 05:01:25",

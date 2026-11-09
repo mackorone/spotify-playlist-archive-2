@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 584437,
+  "num_followers": 584490,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 456320,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 456320,
-      "name": "Locust",
-      "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 241453,
       "name": "Dead Inside Of Me",
       "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -859,22 +875,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Disarm the Descent (Special Edition)",
         "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "The Death We Seek",
-        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
       "artists": [
         {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
+      "duration_ms": 197413,
+      "name": "Fields of Verdun",
+      "url": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+        "name": "The Death We Seek",
+        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
         }
       ],
-      "duration_ms": 197413,
-      "name": "Fields of Verdun",
-      "url": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T"
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "SEASONS // SPRING",
         "url": "https://open.spotify.com/album/6QubHleIMHGWgb1JNjU8E2"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 341000,
       "name": "Iron",
       "url": "https://open.spotify.com/track/3iSgRJUrMKHLglnrQrQ6kO"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Prophecy of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Prophecy of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Prophecy of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Metal",
-          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Prophecy of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Incarnate",
         "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 226786,
       "name": "Hate by Design",
       "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Tales from the Kingdom of Fife",
+        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Angus Mcfife",
+      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1495,22 +1511,6 @@
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
-        "name": "Tales from the Kingdom of Fife",
-        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Angus Mcfife",
-      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "Season of Surrender",
         "url": "https://open.spotify.com/album/0mVE3llKm6n3I41bbwjIus"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 253673,
       "name": "Sonic Salvation (feat. Jamie Hails)",
       "url": "https://open.spotify.com/track/2r6aSb1laKFyjGeiJEulqQ"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 232258,
       "name": "Dark Void",
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
     },
     {
       "added_at": "2026-09-25 04:03:13",

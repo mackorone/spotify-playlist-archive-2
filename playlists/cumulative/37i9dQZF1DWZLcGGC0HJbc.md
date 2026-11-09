@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-340 songs - 20 hr 19 min
+341 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Perfect Dark \- Live at RAK](https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Perfect Dark \(Live at RAK\)](https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc) | 3:34 | 2025-07-03 | 2025-09-20 |
 | [Photograph of a Cyclone](https://open.spotify.com/track/3Xa6wbikubNAiKSIWKprId) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:28 | 2026-07-07 |  |
 | [Picture](https://open.spotify.com/track/3je6Qe27q1ygRvYZ408wHM) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Picture](https://open.spotify.com/album/6rwvim3fD0WIOrbro1d0me) | 6:59 | 2024-12-18 | 2025-01-27 |
+| [Pittsburgh In The Rain](https://open.spotify.com/track/3rjbO9E7Fb8UMzgCkGlp0k) | [Nadie Reyhani](https://open.spotify.com/artist/1zlxpftP7EKWTDOdP56xbj) | [Pittsburgh In The Rain](https://open.spotify.com/album/5JHW5vMc6vNIJwmrql3yDT) | 2:57 | 2026-10-15 |  |
 | [Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:40 | 2026-07-07 | 2026-10-16 |
 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 | 2026-01-22 |  |
 | [Questions](https://open.spotify.com/track/3YdAWLU8Vty02nMjo0QIHU) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 1:27 | 2024-06-27 | 2024-07-19 |
@@ -254,7 +255,7 @@
 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 | 2025-01-27 |  |
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 | 2025-03-16 |
 | [See You Later, I'm Gone](https://open.spotify.com/track/5XGzLK66FsXQo8udTbsEYE) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/0zL7odrtCctkeMf5OmLHZP) | 4:33 | 2026-07-07 |  |
-| [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 |  |
+| [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 | 2026-11-09 |
 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-10-23 | 2026-09-08 |
 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 | 2025-03-13 |  |
 | [She Says](https://open.spotify.com/track/5EJYO3Oa6qFUVcOOKB15w3) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k) | 4:10 | 2025-07-03 | 2025-09-20 |

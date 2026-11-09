@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rodgers",
+          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Father's Daughter",
+      "url": "https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60"
+    },
+    {
+      "album": {
         "name": "Honeymind",
         "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
       },
@@ -2580,6 +2598,24 @@
       "duration_ms": 217155,
       "name": "Villain in Me",
       "url": "https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat"
+    },
+    {
+      "album": {
+        "name": "Late But Blooming",
+        "url": "https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215738,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP"
     },
     {
       "album": {

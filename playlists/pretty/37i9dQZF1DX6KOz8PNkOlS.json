@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595309,
+  "num_followers": 595338,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -331,6 +335,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Ridin' (Deluxe)",
         "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 233051,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Hallucinating Love",
-        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 210994,
-      "name": "Peace Talk",
-      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "After Hours (Yu Su Remix)",
         "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 348094,
       "name": "After Hours - Yu Su Remix",
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 135900,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Terra",
         "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
         }
       ],
-      "duration_ms": 135900,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1147,22 +1163,6 @@
       "duration_ms": 218024,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+        "name": "Songs For Sinners",
+        "url": "https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
         }
       ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+      "duration_ms": 252396,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/7yoM45spE6zM95aLx5TOVe"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1411,6 +1411,22 @@
       "duration_ms": 219312,
       "name": "Drifting Out",
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1435,22 +1451,6 @@
       "duration_ms": 180388,
       "name": "Porvenir",
       "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Songs For Sinners",
-        "url": "https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem"
-      },
-      "artists": [
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        }
-      ],
-      "duration_ms": 252396,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/7yoM45spE6zM95aLx5TOVe"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2026-11-06 06:00:07",

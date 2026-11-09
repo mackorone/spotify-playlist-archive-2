@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |
 | 50 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
 
-Snapshot ID: `au0YgAAAAAADMjaiRFJdjuXjVKXk7VBb`
+Snapshot ID: `au5qAAAAAAAvjYhikvzkTIAknt8bnQDV`

@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2633433,
+  "num_followers": 2633374,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Dublin Blues",
-        "url": "https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Dublin Blues",
-      "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
         "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 254000,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Dublin Blues",
+        "url": "https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Dublin Blues",
+      "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "I Came to Sing the Song",
-        "url": "https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 334786,
-      "name": "Green Mountain Road",
-      "url": "https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 177760,
       "name": "Oh Dear, What Can The Matter Be",
       "url": "https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "I Came to Sing the Song",
+        "url": "https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 334786,
+      "name": "Green Mountain Road",
+      "url": "https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Wish You Were Here [2011 - Remaster] (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/1x0uzT3ETlIYjPueTyNfnQ"
+        "name": "Music For The Motion Picture Into The Wild",
+        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         }
       ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/1wHSxWBfPr3GO31y8KGrWe"
+      "duration_ms": 321760,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Wish You Were Here [2011 - Remaster] (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/1x0uzT3ETlIYjPueTyNfnQ"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/1wHSxWBfPr3GO31y8KGrWe"
     }
   ],
   "unique_name": "Classic Acoustic",

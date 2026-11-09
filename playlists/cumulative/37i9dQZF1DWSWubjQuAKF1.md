@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: ALICJA
 
-1,036 songs - 2 day 2 hr 34 min
+1,037 songs - 2 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [bez ciebie](https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [bez ciebie](https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7) | 3:36 | 2026-08-06 | 2026-09-30 |
 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 | 2026-02-02 |
+| [Bez dwóch zdań](https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4) | [Filip Mettler](https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r), [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Bez dwóch zdań](https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS) | 2:59 | 2026-11-05 |  |
 | [Bez porównań](https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Bez porównań](https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p) | 2:51 | 2026-06-11 | 2026-09-04 |
 | [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 | 2025-12-14 |
 | [BEZ STRESU](https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:16 | 2025-12-18 | 2026-04-03 |
@@ -421,7 +422,7 @@
 | [kto poda?](https://open.spotify.com/track/2LBUBOvOf1RjiPhvFpg76J) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [papablessbeatz](https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY) | [kto poda?](https://open.spotify.com/album/09GIXfaNkq1C8osMq0JYFD) | 3:25 | 2026-01-08 | 2026-01-28 |
 | [Kto to?](https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kto to?](https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF) | 2:17 | 2026-02-12 | 2026-05-08 |
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
-| [Ktoś mnie popsuł](https://open.spotify.com/track/4k7xNz1S72KDxRR2tyi9pc) | [Kacper Gołda](https://open.spotify.com/artist/7q3cKMxcO26KSgAhxZGZbK), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [Ktoś mnie popsuł](https://open.spotify.com/album/5WTGgxefUhIaCx16k5q9Ww) | 2:48 | 2026-10-15 |  |
+| [Ktoś mnie popsuł](https://open.spotify.com/track/4k7xNz1S72KDxRR2tyi9pc) | [Kacper Gołda](https://open.spotify.com/artist/7q3cKMxcO26KSgAhxZGZbK), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [Ktoś mnie popsuł](https://open.spotify.com/album/5WTGgxefUhIaCx16k5q9Ww) | 2:48 | 2026-10-15 | 2026-11-09 |
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kumple <3 \- MAVOOI Remix](https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [MAVOOI](https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS) | [Kumple <3 \(MAVOOI Remix\)](https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU) | 2:11 | 2026-03-26 | 2026-04-13 |
 | [Kupiłam bilet](https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kupiłam bilet](https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh) | 3:12 | 2026-04-30 | 2026-07-10 |

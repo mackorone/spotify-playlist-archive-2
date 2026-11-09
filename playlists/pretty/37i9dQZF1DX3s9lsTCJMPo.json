@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Kes",
-  "num_followers": 138559,
+  "num_followers": 138572,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -296,13 +296,13 @@
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
         }
       ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2026-08-20 14:00:40",
@@ -312,13 +312,13 @@
       },
       "artists": [
         {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2026-08-20 14:00:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-20 14:00:40",
       "album": {
-        "name": "Man Ah Bad Man",
-        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
-      },
-      "artists": [
-        {
-          "name": "Devon George",
-          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "If Ah Rude Ah Rude",
-      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 221560,
       "name": "Gyal Farm",
       "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Man Ah Bad Man",
+        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
+      },
+      "artists": [
+        {
+          "name": "Devon George",
+          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "If Ah Rude Ah Rude",
+      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
     },
     {
       "added_at": "2026-08-20 14:00:40",

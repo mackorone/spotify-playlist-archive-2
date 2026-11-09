@@ -1,77 +1,13 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1261,
+  "num_followers": 1264,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAF9Q3yNL9sS6zLclh4f7DYz1xF5QdS",
+  "snapshot_id": "AAAGEok1JkSni4o+bag8KhsYVDjqmVNV",
   "tracks": [
-    {
-      "added_at": "2026-10-30 05:39:18",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 114571,
-      "name": "Nobodies",
-      "url": "https://open.spotify.com/track/6ywYvN0HJR4SOBgbp9Qt48"
-    },
-    {
-      "added_at": "2026-10-30 05:39:18",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "digital zombie",
-      "url": "https://open.spotify.com/track/72PgRYL5D0MmsZkRixHTXd"
-    },
-    {
-      "added_at": "2026-10-30 05:39:18",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 106611,
-      "name": "My friend, the skeleton",
-      "url": "https://open.spotify.com/track/0y234nT5Nmrm5AW3lUqANQ"
-    },
-    {
-      "added_at": "2026-10-30 05:39:18",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "I cant stop making mistakes",
-      "url": "https://open.spotify.com/track/4znkWzyfxBJEftqO0lmMne"
-    },
     {
       "added_at": "2026-10-30 05:39:18",
       "album": {
@@ -87,6 +23,174 @@
       "duration_ms": 154679,
       "name": "Haunt me (2023)",
       "url": "https://open.spotify.com/track/5VizgkIlNyf7In5R3sbMRm"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB"
+      },
+      "artists": [
+        {
+          "name": "Betu",
+          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "need",
+        "url": "https://open.spotify.com/album/0IUKLtbSMWBTIKRa5aXah1"
+      },
+      "artists": [
+        {
+          "name": "Ivory Rasmus",
+          "url": "https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo"
+        }
+      ],
+      "duration_ms": 230872,
+      "name": "need",
+      "url": "https://open.spotify.com/track/36AchlZMZsT0Sm64iQEvWh"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "Brumal",
+        "url": "https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8"
+      },
+      "artists": [
+        {
+          "name": "wisp",
+          "url": "https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "BIG2K",
+        "url": "https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6"
+      },
+      "artists": [
+        {
+          "name": "OkayKirk",
+          "url": "https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx"
+        }
+      ],
+      "duration_ms": 126614,
+      "name": "IDONTKNOW",
+      "url": "https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5M0sT2VvXSZ3PdDDPHfrV0"
+      },
+      "artists": [
+        {
+          "name": "alottadogs",
+          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
+        }
+      ],
+      "duration_ms": 181888,
+      "name": "OFF",
+      "url": "https://open.spotify.com/track/29NH9mu53OawWsVxFNbPKP"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "Crazy For U",
+        "url": "https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M"
+      },
+      "artists": [
+        {
+          "name": "Sylvver",
+          "url": "https://open.spotify.com/artist/6benA6onjBBMuXMxzP8HCB"
+        },
+        {
+          "name": "Trey Husk",
+          "url": "https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Crazy For U",
+      "url": "https://open.spotify.com/track/4R6Ha3buGUWh55Gc6jswsD"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "PUNCTURE WOUND",
+      "url": "https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "anxiety",
+        "url": "https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "duration_ms": 111629,
+      "name": "anxiety",
+      "url": "https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "I WANNA BE ALIVE",
+        "url": "https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "I WANNA BE ALIVE",
+      "url": "https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "herdbound",
+        "url": "https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        }
+      ],
+      "duration_ms": 283276,
+      "name": "antler crimes",
+      "url": "https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF"
     },
     {
       "added_at": "2026-10-30 08:56:27",
@@ -127,22 +231,6 @@
       "duration_ms": 177221,
       "name": "Lying From You",
       "url": "https://open.spotify.com/track/2xBAV94AcnYO4Q4RFwQti8"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB"
-      },
-      "artists": [
-        {
-          "name": "Betu",
-          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ"
     },
     {
       "added_at": "2026-10-28 04:05:11",
@@ -265,6 +353,22 @@
       "url": "https://open.spotify.com/track/1UXoz4ZN0RxWmsNnh3Wd46"
     },
     {
+      "added_at": "2026-10-30 05:39:18",
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "I cant stop making mistakes",
+      "url": "https://open.spotify.com/track/4znkWzyfxBJEftqO0lmMne"
+    },
+    {
       "added_at": "2026-10-26 17:08:20",
       "album": {
         "name": "ITS CALLED HAVING FUN AND PLAYING",
@@ -367,6 +471,22 @@
       "duration_ms": 310375,
       "name": "excalibur",
       "url": "https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD"
+    },
+    {
+      "added_at": "2026-10-30 05:39:18",
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "digital zombie",
+      "url": "https://open.spotify.com/track/72PgRYL5D0MmsZkRixHTXd"
     },
     {
       "added_at": "2026-10-15 17:20:37",
@@ -583,6 +703,22 @@
       "duration_ms": 124496,
       "name": "forget about it!",
       "url": "https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0"
+    },
+    {
+      "added_at": "2026-10-30 05:39:18",
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/2n8YbQ3JgQ5HIuB5uTFgpO"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 106611,
+      "name": "My friend, the skeleton",
+      "url": "https://open.spotify.com/track/0y234nT5Nmrm5AW3lUqANQ"
     },
     {
       "added_at": "2026-08-29 03:33:12",
@@ -2155,22 +2291,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5M0sT2VvXSZ3PdDDPHfrV0"
-      },
-      "artists": [
-        {
-          "name": "alottadogs",
-          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
-        }
-      ],
-      "duration_ms": 181888,
-      "name": "OFF",
-      "url": "https://open.spotify.com/track/29NH9mu53OawWsVxFNbPKP"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "$USPICIOUSLY WEALTHY FURRIE$",
         "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
       },
@@ -2363,22 +2483,6 @@
       "duration_ms": 185110,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/3luIPCWax6JFzBN0BIGRHH"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "herdbound",
-        "url": "https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy"
-      },
-      "artists": [
-        {
-          "name": "bit depth",
-          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
-        }
-      ],
-      "duration_ms": 283276,
-      "name": "antler crimes",
-      "url": "https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -3679,22 +3783,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "all these faces",
-        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
-      },
-      "artists": [
-        {
-          "name": "GABUISLOST",
-          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "PUNCTURE WOUND",
-      "url": "https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "FAIRY",
         "url": "https://open.spotify.com/album/3el8ORbUoeVju2nQVCpnv4"
       },
@@ -3839,22 +3927,6 @@
       "duration_ms": 125868,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "PUNCTURE WOUND",
-        "url": "https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j"
-      },
-      "artists": [
-        {
-          "name": "GABUISLOST",
-          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "PUNCTURE WOUND",
-      "url": "https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -4987,22 +5059,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "need",
-        "url": "https://open.spotify.com/album/0IUKLtbSMWBTIKRa5aXah1"
-      },
-      "artists": [
-        {
-          "name": "Ivory Rasmus",
-          "url": "https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo"
-        }
-      ],
-      "duration_ms": 230872,
-      "name": "need",
-      "url": "https://open.spotify.com/track/36AchlZMZsT0Sm64iQEvWh"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Bun Bakery Jams",
         "url": "https://open.spotify.com/album/0jqawai6WtvvNr5KopOWgA"
       },
@@ -5831,26 +5887,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "anxiety",
-        "url": "https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        },
-        {
-          "name": "chattybaxi",
-          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
-        }
-      ],
-      "duration_ms": 111629,
-      "name": "anxiety",
-      "url": "https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v"
       },
@@ -6287,22 +6323,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "I WANNA BE ALIVE",
-        "url": "https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ"
-      },
-      "artists": [
-        {
-          "name": "$leazy EZ",
-          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "I WANNA BE ALIVE",
-      "url": "https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "set fire to the world",
         "url": "https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK"
       },
@@ -6399,22 +6419,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "Post Con Depression",
-        "url": "https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW"
-      },
-      "artists": [
-        {
-          "name": "Reivan",
-          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Post Con Depression",
-      "url": "https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "TRANQUIL",
         "url": "https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC"
       },
@@ -6427,26 +6431,6 @@
       "duration_ms": 175098,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "The Flower",
-        "url": "https://open.spotify.com/album/5xkLgn7UBRDbmGsxoU77hj"
-      },
-      "artists": [
-        {
-          "name": "Siv Kyne",
-          "url": "https://open.spotify.com/artist/4VFrZg2IkVBK66DEnA8CK4"
-        },
-        {
-          "name": "Melodinumbra",
-          "url": "https://open.spotify.com/artist/2o5GlEfiErzi5R8dzihueQ"
-        }
-      ],
-      "duration_ms": 86117,
-      "name": "The Flower",
-      "url": "https://open.spotify.com/track/2gRC0oHnH8t5l6qlgmpttT"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -6863,42 +6847,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "EAT YOU UP + RUSSY'S BIG OL' BUTT",
-        "url": "https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC"
-      },
-      "artists": [
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "EAT YOU UP - Single Version",
-      "url": "https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "Holoplankton",
-        "url": "https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp"
-      },
-      "artists": [
-        {
-          "name": "Whsprs",
-          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
-        },
-        {
-          "name": "Daxbak",
-          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "Dr1p",
-      "url": "https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/1bAZ4KCxSVc65jK4mebnCa"
       },
@@ -7035,26 +6983,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "Crazy For U",
-        "url": "https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M"
-      },
-      "artists": [
-        {
-          "name": "Sylvver",
-          "url": "https://open.spotify.com/artist/6benA6onjBBMuXMxzP8HCB"
-        },
-        {
-          "name": "Trey Husk",
-          "url": "https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Crazy For U",
-      "url": "https://open.spotify.com/track/4R6Ha3buGUWh55Gc6jswsD"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "hypocritical",
         "url": "https://open.spotify.com/album/7DzdKS6XsTLYcmnrmzVdLs"
       },
@@ -7087,22 +7015,6 @@
       "duration_ms": 254347,
       "name": "Remnants of Maldek",
       "url": "https://open.spotify.com/track/59GV68so4oZucwFF5iS2MB"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "Brumal",
-        "url": "https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8"
-      },
-      "artists": [
-        {
-          "name": "wisp",
-          "url": "https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv"
-        }
-      ],
-      "duration_ms": 159795,
-      "name": "with you",
-      "url": "https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -7143,26 +7055,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "deadWorld(s)",
-        "url": "https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV"
-      },
-      "artists": [
-        {
-          "name": "bea4real",
-          "url": "https://open.spotify.com/artist/2TLhLQc2Y4cIGC5gg65zSH"
-        },
-        {
-          "name": "dis",
-          "url": "https://open.spotify.com/artist/5q0eSYbfVtgJ5V8YqOHPrD"
-        }
-      ],
-      "duration_ms": 118538,
-      "name": "nap by the summit",
-      "url": "https://open.spotify.com/track/3PsJTcsUEw1Vi5mVgIKoOw"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Seven Run",
         "url": "https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c"
       },
@@ -7175,22 +7067,6 @@
       "duration_ms": 97371,
       "name": "Seven Run",
       "url": "https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF"
-      },
-      "artists": [
-        {
-          "name": "Multi Fox",
-          "url": "https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -7327,22 +7203,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "I Don't Need Love",
-        "url": "https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF"
-      },
-      "artists": [
-        {
-          "name": "Niic",
-          "url": "https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM"
-        }
-      ],
-      "duration_ms": 296074,
-      "name": "I Don't Need Love",
-      "url": "https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Indigo Park, Chapter 1 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu"
       },
@@ -7379,22 +7239,6 @@
       "duration_ms": 186191,
       "name": "Road Kill",
       "url": "https://open.spotify.com/track/7gOG5mzKRrjTAQgyU1KAFP"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "deniAl",
-        "url": "https://open.spotify.com/album/2PKiLqZN2UEXrCxsY3IoX3"
-      },
-      "artists": [
-        {
-          "name": "zombAe",
-          "url": "https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D"
-        }
-      ],
-      "duration_ms": 120432,
-      "name": "how to die",
-      "url": "https://open.spotify.com/track/1vAHkkj7P1sILUREnwditT"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -7447,22 +7291,6 @@
       "duration_ms": 168476,
       "name": "EM\u24eaCEANS",
       "url": "https://open.spotify.com/track/6yHqbAh2nYOTJFsS5cgEKE"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "BIG2K",
-        "url": "https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6"
-      },
-      "artists": [
-        {
-          "name": "OkayKirk",
-          "url": "https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx"
-        }
-      ],
-      "duration_ms": 126614,
-      "name": "IDONTKNOW",
-      "url": "https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI"
     },
     {
       "added_at": "2026-03-05 04:42:47",

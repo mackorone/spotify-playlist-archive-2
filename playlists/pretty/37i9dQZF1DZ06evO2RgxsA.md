@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,116 likes - 49 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,119 likes - 49 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 48 | [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 |
 | 49 | [We Did It Our Way \(live 10/6/24\)](https://open.spotify.com/track/1hSbFDblQ8H7fYrDtMhYaQ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [40 Years Of Fuckin' Up: Soundtrack + Score](https://open.spotify.com/album/5hM0luqn90CkruMS90At60) | 3:37 |
 
-Snapshot ID: `au0YgAAAAABXPBc5E5/OHNT7+VTWusqi`
+Snapshot ID: `au5qAAAAAACjmo7zQzZxhNIL30tzW5x5`

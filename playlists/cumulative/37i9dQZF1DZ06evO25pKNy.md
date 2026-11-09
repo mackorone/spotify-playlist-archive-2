@@ -4,7 +4,7 @@
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 52 min
+80 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Gorra De Tijuana](https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:15 | 2024-02-24 | 2025-09-10 |
 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 | 2024-01-29 | 2026-05-13 |
 | [Jardin Verde](https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:29 | 2024-01-29 |  |
+| [L.H.G](https://open.spotify.com/track/19FPkXtSBlQ5WvhsMRgP95) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [L.H.G](https://open.spotify.com/album/4X8VwQp7fdyY4VZMZSGqlg) | 2:25 | 2026-11-09 |  |
 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 | 2024-01-29 |  |
 | [La Gente Del Chapo](https://open.spotify.com/track/4LvDq1k3v2sZc8LrZIet0Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:02 | 2025-03-03 |  |
 | [La Greñita](https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm) | [La Nueva C](https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Greñita](https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz) | 2:37 | 2024-01-29 | 2024-09-04 |
@@ -71,7 +72,7 @@
 | [PHX](https://open.spotify.com/track/2jQci8Dr902XIFaeG1WBk0) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [PHX](https://open.spotify.com/album/1IOv8ht4ixe1npaJe3lp6z) | 3:05 | 2024-08-21 | 2025-01-25 |
 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 | 2024-01-29 | 2026-06-28 |
 | [Power](https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Power](https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG) | 3:09 | 2024-01-29 | 2025-03-03 |
-| [Power](https://open.spotify.com/track/6JMhI5fci25xMZU0QuqNfU) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 3:09 | 2026-05-10 |  |
+| [Power](https://open.spotify.com/track/6JMhI5fci25xMZU0QuqNfU) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 3:09 | 2026-05-10 | 2026-11-09 |
 | [Que Soy Un Malandro](https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:16 | 2025-03-02 |  |
 | [Quintana Roo](https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:10 | 2025-03-05 |  |
 | [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 | 2024-01-29 | 2024-11-03 |

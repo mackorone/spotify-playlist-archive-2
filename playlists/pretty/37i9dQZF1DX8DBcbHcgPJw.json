@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1083546,
+  "num_followers": 1083436,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "QUE ES ESO?",
-        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
-      },
-      "artists": [
-        {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
-        }
-      ],
-      "duration_ms": 145847,
-      "name": "QUE ES ESO?",
-      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
         "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 356261,
       "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
       "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "QUE ES ESO?",
+        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "duration_ms": 145847,
+      "name": "QUE ES ESO?",
+      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Una Condena",
         "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 157131,
       "name": "Una Condena",
       "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -855,46 +855,18 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "FINGI DEMENCIA",
-        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
       "artists": [
         {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 126705,
-      "name": "FINGI DEMENCIA",
-      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Quiero Creer",
-        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 145054,
-      "name": "Quiero Creer",
-      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -923,42 +895,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "Quiero Creer",
+        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "La Quiero a Ella Vol.2",
-        "url": "https://open.spotify.com/album/7GCWeywKYnY0A2QW4GBAY4"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 192083,
-      "name": "La Quiero a Ella Vol.2",
-      "url": "https://open.spotify.com/track/3yMmAeP2i8OxD1IzJE3uAU"
+      "duration_ms": 145054,
+      "name": "Quiero Creer",
+      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -999,22 +955,46 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Sin Querer",
-        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+        "name": "La Quiero a Ella Vol.2",
+        "url": "https://open.spotify.com/album/7GCWeywKYnY0A2QW4GBAY4"
       },
       "artists": [
         {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         },
         {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 141071,
-      "name": "Sin Querer",
-      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
+      "duration_ms": 192083,
+      "name": "La Quiero a Ella Vol.2",
+      "url": "https://open.spotify.com/track/3yMmAeP2i8OxD1IzJE3uAU"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "FINGI DEMENCIA",
+        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 126705,
+      "name": "FINGI DEMENCIA",
+      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1039,6 +1019,26 @@
       "duration_ms": 126847,
       "name": "Me Cont\u00f3 Un Pajarito",
       "url": "https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Chica Brasile\u00f1a Remix",
-        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
-      },
-      "artists": [
-        {
-          "name": "El Turko",
-          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
-        },
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        },
-        {
-          "name": "Mandale Flow",
-          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Chica Brasile\u00f1a Remix",
-      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Dame Un Beso",
         "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 133483,
       "name": "Dame Un Beso",
       "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Chica Brasile\u00f1a Remix",
+        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Chica Brasile\u00f1a Remix",
+      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "risko",
+          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
+        }
+      ],
+      "duration_ms": 170759,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1311,30 +1335,6 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "risko",
-          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
-        }
-      ],
-      "duration_ms": 170759,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Sin Cadenas",
+        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 211238,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Sin Cadenas",
-        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 211238,
-      "name": "Sin Cadenas",
-      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "No Voy a Llorar Por Ti (Remix)",
         "url": "https://open.spotify.com/album/6pWXJRKJFbxcq4aZsMEBYM"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 199389,
       "name": "No Voy a Llorar Por Ti - Remix",
       "url": "https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "FINGIA",
-        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 140000,
-      "name": "FINGIA",
-      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1743,38 +1739,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+        "name": "FINGIA",
+        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "SALE SOLA",
-        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         },
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 125969,
-      "name": "SALE SOLA",
-      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
+      "duration_ms": 140000,
+      "name": "FINGIA",
+      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1851,6 +1831,26 @@
       "duration_ms": 134916,
       "name": "Esperando por Ti",
       "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "SALE SOLA",
+        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 125969,
+      "name": "SALE SOLA",
+      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
     },
     {
       "added_at": "2026-10-23 13:41:51",

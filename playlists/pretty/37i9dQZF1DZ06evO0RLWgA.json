@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52921,
+  "num_followers": 52931,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADoDOO0T+v5ssg2LgqIHW4Z",
+  "snapshot_id": "au5qAAAAAAAIDLe2v+/+JwYqoIIUU4Rm",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Miss 'Im . . . I Got 'Im",
-        "url": "https://open.spotify.com/album/1yrXO83AmT3Q4O5Y7ZhqrW"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 287493,
-      "name": "Bang Bang Bang Bang",
-      "url": "https://open.spotify.com/track/5UnmgwcLKjJI4HXt2loSNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 211533,
       "name": "Doin' The Shout",
       "url": "https://open.spotify.com/track/2Rmw5jvEl6kiHVUFQJanZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Miss 'Im . . . I Got 'Im",
+        "url": "https://open.spotify.com/album/1yrXO83AmT3Q4O5Y7ZhqrW"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 287493,
+      "name": "Bang Bang Bang Bang",
+      "url": "https://open.spotify.com/track/5UnmgwcLKjJI4HXt2loSNv"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Peace Lovin' Man",
-      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
+      "duration_ms": 233360,
+      "name": "Peace Lovin' Man",
+      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 331493,
+      "name": "I'm Bad Like Jesse James - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 175026,
       "name": "Ground Hog Blues - Single Version",
       "url": "https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 331493,
-      "name": "I'm Bad Like Jesse James - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

@@ -4,7 +4,7 @@
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 39 min
+100 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Estar Así Siempre](https://open.spotify.com/track/6wpWmv0tcaNwmOXbpPNz43) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 4:08 | 2026-10-19 |  |
 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 | 2023-12-18 |  |
 | [Ilusão \- Ao Vivo](https://open.spotify.com/track/4zVlZoP2PTXu9LddkZR3Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Coleção](https://open.spotify.com/album/45km4FUN3OHr7bqR5Evpyh) | 4:04 | 2023-12-18 |  |
+| [La Garra Del Corazón](https://open.spotify.com/track/1PAH7tTbcQCu7NhKfkWsmX) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Garra Del Corazón](https://open.spotify.com/album/0Xs0XhzqhBNuTbwsrD69FR) | 3:11 | 2026-11-09 |  |
 | [La Línea](https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [La Línea](https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V) | 3:11 | 2026-04-12 | 2026-09-16 |
 | [La Mirada](https://open.spotify.com/track/10eEsR3v9cX7KiuANy6qjd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Cuentito](https://open.spotify.com/album/0LMRYcufclIaZm3fHaqup1) | 3:14 | 2024-05-18 | 2025-11-28 |
 | [La Mirada](https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Cuentito](https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ) | 3:14 | 2025-11-28 |  |
@@ -94,7 +95,7 @@
 | [Te Voy a Mostrar](https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:18 | 2023-12-18 | 2025-10-26 |
 | [Tengo Que Contarte](https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tengo Que Contarte](https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd) | 3:50 | 2026-02-15 | 2026-08-27 |
 | [Terca](https://open.spotify.com/track/7a6fcpRLINBjQMQOKIZxNI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Norteña](https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ) | 3:26 | 2026-05-20 | 2026-08-27 |
-| [Tiempos Dorados](https://open.spotify.com/track/1edLQcE6ygKFJLZR3N8a68) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Norteña](https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ) | 3:13 | 2026-05-25 |  |
+| [Tiempos Dorados](https://open.spotify.com/track/1edLQcE6ygKFJLZR3N8a68) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Norteña](https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ) | 3:13 | 2026-05-25 | 2026-11-09 |
 | [Tiempos Dorados](https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tiempos Dorados](https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA) | 3:13 | 2025-11-30 | 2026-05-25 |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-12-18 | 2024-02-25 |
 | [Todo Está Aquí](https://open.spotify.com/track/1ZWMncfqWIcfizYg1uTnix) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:51 | 2025-05-10 | 2025-08-14 |

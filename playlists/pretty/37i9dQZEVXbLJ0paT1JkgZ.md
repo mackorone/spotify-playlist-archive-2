@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,270 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,269 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 46 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
 | 47 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 48 | [RENCOR](https://open.spotify.com/track/4rBAud3Fks5i6H1F2mBNbY) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [RENCOR](https://open.spotify.com/album/0nMverfTbWzvWCCsh6t1PF) | 2:40 |
-| 49 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 49 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 50 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 
-Snapshot ID: `MoKrkAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoQBwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,857 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,864 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 26 | [Country Boy](https://open.spotify.com/track/68kORVY2G5fgyvrHftcbDq) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:29 |
 | 27 | [Still A Fool](https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:19 |
 | 28 | [What Is That She Got \- Live At Mr\. Kelly's/1971](https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters: Live \(At Mr\. Kelly's\) \[Reissue\]](https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk) | 4:40 |
-| 29 | [Sad Sad Day](https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:23 |
-| 30 | [She's Nineteen Years Old](https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:18 |
+| 29 | [She's Nineteen Years Old](https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:18 |
+| 30 | [Sad Sad Day](https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:23 |
 | 31 | [Ring Up \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:19 |
 | 32 | [Screamin' and Cryin'](https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [I'm Ready](https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP) | 5:04 |
 | 33 | [Long Distance Call](https://open.spotify.com/track/6D9G3KT1ehlmSER3pauuIf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 45 | [Mannish Boy \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:40 |
 | 46 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 |
 | 47 | [Back to the Chicken Shack \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 6:28 |
-| 48 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
-| 49 | [Walkin' Thru The Park](https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:44 |
+| 48 | [Walkin' Thru The Park](https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:44 |
+| 49 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
 | 50 | [Black Cat Bone / Dust My Broom \- Live](https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 |
 
 Snapshot ID: `au0YgAAAAADgMlePYbIJVJgSLjVu0kXW`

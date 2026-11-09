@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-06-30",
-  "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
+  "description": "Le plus chauds d'Afrique Francophone. Cover: Didi B",
   "name": "Francophone.wav",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 186206,
       "name": "BOUCHEKARAILLE",
       "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
@@ -272,6 +272,28 @@
       "duration_ms": 157000,
       "name": "Bouw\u00e9y",
       "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+    },
+    {
+      "album": {
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/1tmap2Rtc9TQmtLjX8hPoe"
+      },
+      "artists": [
+        {
+          "name": "Wantch\u00e9",
+          "url": "https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ"
+        },
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131495,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/5qYAdm0GCganxCPKlbMlgS"
     },
     {
       "album": {
@@ -517,6 +539,28 @@
     },
     {
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4"
+      },
+      "artists": [
+        {
+          "name": "PSON",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Dady",
+      "url": "https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh"
+    },
+    {
+      "album": {
         "name": "DANS LE DOS",
         "url": "https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d"
       },
@@ -678,7 +722,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 133584,
       "name": "Garde Ta Position",
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
@@ -936,7 +980,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 208484,
       "name": "Le succ\u00e8s",
       "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
@@ -1422,6 +1466,28 @@
       "duration_ms": 145250,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG"
+    },
+    {
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/2H5Lo5fKfJgenaMW2YVj6J"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/7CpyeFIWBB4ym9A8jhsD5b"
     },
     {
       "album": {

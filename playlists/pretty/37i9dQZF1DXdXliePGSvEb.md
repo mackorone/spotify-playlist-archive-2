@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,711 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,715 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 12 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 13 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 |
 | 14 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
-| 15 | [Şașkın](https://open.spotify.com/track/19ueEPBwOhHPqX6VPnn9g8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Şașkın](https://open.spotify.com/album/5Dw4RpIKnML93JmfRNE0il) | 2:27 |
-| 16 | [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 |
+| 15 | [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 |
+| 16 | [Şașkın](https://open.spotify.com/track/19ueEPBwOhHPqX6VPnn9g8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Şașkın](https://open.spotify.com/album/5Dw4RpIKnML93JmfRNE0il) | 2:27 |
 | 17 | [Monsters](https://open.spotify.com/track/09YIQFg8QleQknfduk71HE) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [Monsters](https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7) | 2:52 |
 | 18 | [Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Call Me Babe](https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM) | 2:44 |
 | 19 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 67 | [Que Isso](https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Que Isso](https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK) | 3:18 |
 | 68 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
 | 69 | [Are We There](https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Aeoui](https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv) | 4:45 |
-| 70 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
-| 71 | [More of You](https://open.spotify.com/track/0chp8IMadByVPHjKbK2Kou) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 4:13 |
+| 70 | [More of You](https://open.spotify.com/track/0chp8IMadByVPHjKbK2Kou) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 4:13 |
+| 71 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
 | 72 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 73 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 74 | [L F G](https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Didi B",
-  "num_followers": 103561,
+  "num_followers": 103643,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "SWAGUU",
-        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 152347,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/4nTBa40V8ccRMzUHPyOAxk"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 187500,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 152347,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/4nTBa40V8ccRMzUHPyOAxk"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -1167,18 +1183,30 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        },
+        {
+          "name": "A$TRA",
+          "url": "https://open.spotify.com/artist/76Lm1HmUL1LDTRoP0za2qi"
+        },
+        {
+          "name": "Prohibeats",
+          "url": "https://open.spotify.com/artist/6heZ8Pfr4lqfDADLtrBqkn"
         }
       ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+      "duration_ms": 180528,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1231,34 +1259,6 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y"
-      },
-      "artists": [
-        {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        },
-        {
-          "name": "A$TRA",
-          "url": "https://open.spotify.com/artist/76Lm1HmUL1LDTRoP0za2qi"
-        },
-        {
-          "name": "Prohibeats",
-          "url": "https://open.spotify.com/artist/6heZ8Pfr4lqfDADLtrBqkn"
-        }
-      ],
-      "duration_ms": 180528,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-11-06 02:59:03",
+      "album": {
         "name": "SWAGGA",
         "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
       },
@@ -1463,26 +1487,18 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "1 WORK (Remix)",
-        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+        "name": "Laye Mi",
+        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 136693,
-      "name": "1 WORK - Remix",
-      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1503,22 +1519,6 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-11-06 02:59:03",
-      "album": {
-        "name": "Laye Mi",
-        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-11-06 02:59:03",
@@ -1555,22 +1555,26 @@
     {
       "added_at": "2026-11-06 02:59:03",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
         {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
+      "duration_ms": 227950,
+      "name": "Holy Water (feat. Victony & Musa Keys)",
+      "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
     }
   ],
   "unique_name": "afro-piano",

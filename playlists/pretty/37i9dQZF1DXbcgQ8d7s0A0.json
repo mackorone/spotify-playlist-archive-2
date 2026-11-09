@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1422177,
+  "num_followers": 1422255,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Soul Folk In Action",
         "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2024-06-24 11:23:29",

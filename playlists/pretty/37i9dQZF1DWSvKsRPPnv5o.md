@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Anderson .Paak and Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,478 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,403 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 4 | [GTA](https://open.spotify.com/track/2hKgDLF3MSsZQ081R0NObj) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Can Y'all Hear Me Now?](https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP) | 3:10 |
 | 5 | [MISS MY DAWG \(feat\. Drake\)](https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 3:08 |
 | 6 | [Lil Krazy](https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lyfestyle Corporation](https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S) | [Luh Leakyz Vol\. 1](https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN) | 2:45 |
-| 7 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 7 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 8 | [ON THE LOW feat tyler, the creator](https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 3:03 |
 | 9 | [Clutch Grip](https://open.spotify.com/track/5WHlxnDPvq5Q7azOflcDJU) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Clutch Grip](https://open.spotify.com/album/6o9rYFGDnDFx4gV35rK9T6) | 1:36 |
 | 10 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,638 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,640 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 11 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
 | 12 | [Sjakie van de Hoek](https://open.spotify.com/track/1d451ROhYPaoWhVaudhHAM) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Van Dichtbij](https://open.spotify.com/album/6VZaCO9diVK5EVMJ1hTwwy) | 2:49 |
 | 13 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
-| 14 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
-| 15 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
+| 14 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
+| 15 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
 | 16 | [Wij Zullen Doorgaan \- 1975 Single Version](https://open.spotify.com/track/19MAlVmXa2jrccQiFVi5UE) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [We Leven Nog](https://open.spotify.com/album/5Tc0w1i6odQgSFSPN29yAR) | 4:24 |
 | 17 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
 | 18 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |

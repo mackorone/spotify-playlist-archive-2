@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,984 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,002 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
-| 2 | [Come Down](https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Come Down](https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq) | 3:31 |
+| 1 | [Come Down](https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Come Down](https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq) | 3:31 |
+| 2 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 3 | [One Love](https://open.spotify.com/track/6YIEMuhUumzkipjCtUdRjN) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Lyves](https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t) | [One Love](https://open.spotify.com/album/1Bgz0B8mKklpAzGS0zHXJj) | 4:56 |
 | 4 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
 | 5 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 45 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
 | 46 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
 | 47 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
-| 48 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
-| 49 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
+| 48 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
+| 49 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
 | 50 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
 
 Snapshot ID: `AAAAAF9J7m8C5yx66cJWl8ECnj/OEfdp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! KURT en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,221 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,231 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 61 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 62 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
 | 63 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
-| 64 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
-| 65 | [Sabor a Chocolate](https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Sabor a Chocolate](https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq) | 3:51 |
+| 64 | [Sabor a Chocolate](https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Sabor a Chocolate](https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq) | 3:51 |
+| 65 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
 | 66 | [Haré lo que me pidas](https://open.spotify.com/track/5XyfjGMnDT3qVrecOG0A1X) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Haré lo que me pidas](https://open.spotify.com/album/024FLAMfTOoPYGweO8Cjmt) | 3:50 |
-| 67 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
-| 68 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
+| 67 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
+| 68 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
 | 69 | [Sombra](https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [MAPAS II](https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0) | 3:43 |
 | 70 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
 | 71 | [Todo está pasando ahora](https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo está pasando ahora](https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2) | 3:48 |
 | 72 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 |
-| 73 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
+| 73 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 74 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
-| 75 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 75 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 
 Snapshot ID: `AAAAAHI6G6Oh2lVjVhlKNxhcf6bMcYUC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,405 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,409 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 18 | [Kelly Price \(feat\. Travis Scott\)](https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 6:03 |
 | 19 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
 | 20 | [Notice Me](https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:53 |
-| 21 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Racks 2 Skinny](https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK) | 2:58 |
+| 21 | [Cocoon](https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Cocoon](https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X) | 4:57 |
 | 22 | [Get Right Witcha](https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:17 |
 | 23 | [Straightenin](https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:15 |
-| 24 | [Cocoon](https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Cocoon](https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X) | 4:57 |
+| 24 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Racks 2 Skinny](https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK) | 2:58 |
 | 25 | [Too Hotty](https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Eurielle](https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:55 |
 | 26 | [Gang Gang](https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:01 |
 | 27 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Wishy Washy](https://open.spotify.com/track/0tHd0b58buhoCxvyILbiUY) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 5:00 |
 | 50 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 |
 
-Snapshot ID: `au0YgAAAAAAl4geZGX56cko9moM1co/n`
+Snapshot ID: `au5qAAAAAAB0ItKo2vD0AUMGHRF6bPOC`

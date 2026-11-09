@@ -892,7 +892,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 189900,
       "name": "Actions Speak Louder",
       "url": "https://open.spotify.com/track/1077gJlaIebDKuvcZEuKRa"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 203750,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 206005,
       "name": "Apology",
       "url": "https://open.spotify.com/track/0uPJABpAC3r8jDssd7qyLG"
@@ -7230,7 +7230,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 227184,
       "name": "Catch 22 (Feat. 360)",
       "url": "https://open.spotify.com/track/6Bsd2ROfygi028hnl8QXqJ"
@@ -11460,7 +11460,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 214019,
       "name": "DIVERGE",
       "url": "https://open.spotify.com/track/3mjGALx5hQ7nLEr60ObWHz"
@@ -11824,7 +11824,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 127850,
       "name": "Don't Get Stepped On",
       "url": "https://open.spotify.com/track/7unqm21Mmk6ZJnqypAZTGh"
@@ -13144,7 +13144,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 235333,
       "name": "Emergency Feeler",
       "url": "https://open.spotify.com/track/1BLDoUldMKyumDsKTFfqvH"
@@ -19152,7 +19152,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 195300,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4KJxZD1y33d84JsaMaccNd"
@@ -30009,6 +30009,24 @@
     },
     {
       "album": {
+        "name": "Tiramisu After Midnight / Off Licence",
+        "url": "https://open.spotify.com/album/6qu5XcGw7d5yNMeHWl6b5L"
+      },
+      "artists": [
+        {
+          "name": "Handsome Waitress",
+          "url": "https://open.spotify.com/artist/7x4fNJvEqWJk5sv6Xl4dVK"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198965,
+      "name": "Off Licence",
+      "url": "https://open.spotify.com/track/3BhTVc8lvfwP7TcBztBIFE"
+    },
+    {
+      "album": {
         "name": "Off-Balance",
         "url": "https://open.spotify.com/album/0lw6nc5UyTRXBk32Ypb2Rg"
       },
@@ -30752,7 +30770,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 212986,
       "name": "Out of Deep Waters",
       "url": "https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq"
@@ -39016,7 +39034,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 218500,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/408XVjIZEtribPnO8aHiyq"
@@ -40798,7 +40816,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 173582,
       "name": "Tanto resti qui",
       "url": "https://open.spotify.com/track/3xtZGj4NBVB6CYLPXjXr4a"
@@ -44868,7 +44886,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 219741,
       "name": "Tutto Fumo",
       "url": "https://open.spotify.com/track/0KczMmE3l4JLCJ5eEafgk1"

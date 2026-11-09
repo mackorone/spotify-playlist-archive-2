@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4852,
+  "num_followers": 4857,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAAC12kxHH+/ZK0V6AVpOloet",
+  "snapshot_id": "au0YgAAAAAAX5BmmR2wPKzWRrUbrPPBI",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 174586,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": null,
@@ -163,6 +163,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 139346,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 291200,
       "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
       "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 139346,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY"
     },
     {
       "added_at": null,
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
       "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 226626,
+      "name": "Impressions (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
     },
     {
       "added_at": null,
@@ -527,42 +531,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
       "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Impressions (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Billboard Heart",
-        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
       },
       "artists": [
         {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Let Me Go (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,
@@ -603,42 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Songs: The Porter's Gate Worship Project, Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/4lUuF5rgZJJRIM9k9vDKOp"
+        "name": "Billboard Heart",
+        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 307157,
-      "name": "Little Things With Great Love - Live",
-      "url": "https://open.spotify.com/track/5vW1xKUoIh1jOqfHlZnMk2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Work Songs: The Porter's Gate Worship Project, Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/4lUuF5rgZJJRIM9k9vDKOp"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love - Live",
+      "url": "https://open.spotify.com/track/5vW1xKUoIh1jOqfHlZnMk2"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send My Regards",
-        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
-      },
-      "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Send My Regards",
-      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 151213,
       "name": "Lola (My Love)",
       "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+      },
+      "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
     },
     {
       "added_at": null,

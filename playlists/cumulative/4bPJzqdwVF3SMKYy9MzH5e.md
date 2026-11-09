@@ -4,7 +4,7 @@
 
 > 
 
-2,464 songs - 5 day 12 hr 25 min
+2,466 songs - 5 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-09-15 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-02-04 |  |
 | [BRN](https://open.spotify.com/track/2wacARzd32BJTMdltdUSKc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BRN](https://open.spotify.com/album/7wYMUqrEATzhOUV3EewLDb) | 3:36 | 2021-08-05 |  |
+| [Broccoli \(feat\. Lil Yachty\)](https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 3:45 | 2026-11-08 |  |
 | [Broken](https://open.spotify.com/track/2CLhsS4k0wzi36eTbivkbd) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Broken](https://open.spotify.com/album/3dXZLrgeGmDpFXkdotBXMf) | 2:54 | 2021-08-05 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2021-12-30 |  |
 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 | 2026-02-13 |  |
@@ -2162,6 +2163,7 @@
 | [The Perfect Girl](https://open.spotify.com/track/7kOc8ZyNRLJcwzFlv7szaT) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:35 | 2021-12-30 |  |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2021-08-05 |  |
 | [The Principal](https://open.spotify.com/track/7fYNunIzTO7yAHBQtvq8Fc) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:56 | 2021-08-05 |  |
+| [The Race](https://open.spotify.com/track/3wGXyJGsCf1myH5MooQIqE) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:20 | 2026-11-08 |  |
 | [The Razor's Apple](https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:11 | 2023-06-07 |  |
 | [The Realness \(feat\. Eric Kupper\)](https://open.spotify.com/track/1oSUTFfnEwftOTRxpLKWOY) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Realness](https://open.spotify.com/album/0K3AROBOn8bwPWw08R5EL1) | 3:25 | 2021-08-05 |  |
 | [The Rhythm Of The Night](https://open.spotify.com/track/3oJal8I3Hm2Vn8G6fQp6aD) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [One Day OST](https://open.spotify.com/album/4I14rBJcenKWxc5S6TFL59) | 3:24 | 2021-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 32128,
+  "num_followers": 32162,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aup1gAAAAAAtosCZy1uL4sESo7aLoln2",
+  "snapshot_id": "au0YgAAAAAACDKYvZ8sY9y9EMmjxGe92",
   "tracks": [
     {
       "added_at": null,
@@ -731,30 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butter (with Baby Tate)",
-        "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Butter (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Time Boy (with Zombie Juice & Meechy Darko of Flatbush Zombies)",
         "url": "https://open.spotify.com/album/0uundV8YMao02nkQffZWWq"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 170360,
       "name": "Bad Time Boy (with Zombie Juice & Meechy Darko of Flatbush Zombies)",
       "url": "https://open.spotify.com/track/2evcoCb5jQhY3IKYE4IXMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butter (with Baby Tate)",
+        "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Butter (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-193 songs - 11 hr 12 min
+194 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Love Me Again \- Live From Spotify London](https://open.spotify.com/track/54gQG5PXFOL5WuerMxaPx3) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Live From Spotify London](https://open.spotify.com/album/7d3u0RBK4WXysIWqOLezzE) | 3:28 | 2021-11-05 | 2022-11-13 |
 | [Love Me Now \(feat\. FAST BOY\) \- Acoustic](https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\) \[Acoustic\]](https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f) | 2:18 | 2022-12-09 | 2024-09-13 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-11-05 |  |
+| [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 | 2026-09-04 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-11-05 |  |
 | [Made You Look \(feat\. Sri, Scott Hoying, Elyse Myers & Chris Olsen\) \- A Cappella](https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG), [Elyse Myers](https://open.spotify.com/artist/19we83RL2vr4HF6zU6KBAT), [Sri](https://open.spotify.com/artist/04mSgmkYxSJMrZeqBoGOvc), [Chris Olsen](https://open.spotify.com/artist/1BS8EXDNdqtlSaW3ZBsNT7) | [Made You Look \(feat\. Sri, Scott Hoying, Elyse Myers & Chris Olsen\) \[A Cappella\]](https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye) | 2:12 | 2022-12-09 |  |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2021-11-05 |  |
@@ -185,7 +186,7 @@
 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 | 2021-11-05 | 2022-12-13 |
 | [Um Milhão \(Ao Vivo\)](https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Com Calor, Lary \(Ao Vivo\)](https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv) | 2:31 | 2025-03-28 | 2026-07-11 |
 | [Unfinished \- Acoustic](https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Unfinished \(Acoustic\)](https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq) | 4:07 | 2022-10-14 | 2023-02-12 |
-| [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 |  |
+| [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 | 2026-11-09 |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-11-05 |  |
 | [Varandas](https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Varandas](https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB) | 3:43 | 2026-08-21 |  |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-11-05 | 2026-09-28 |

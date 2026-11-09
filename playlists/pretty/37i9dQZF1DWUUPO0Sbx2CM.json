@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241574,
+  "num_followers": 241616,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
+      },
+      "artists": [
+        {
+          "name": "Nofsky",
+          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "God Is Love",
         "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 222721,
       "name": "God Is Love",
       "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
-      },
-      "artists": [
-        {
-          "name": "Nofsky",
-          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -963,18 +963,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Better Than My Life (Son Remix)",
-        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
+        "name": "Jumping Fences (GREGATRON Remix)",
+        "url": "https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC"
       },
       "artists": [
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Kim Viera",
+          "url": "https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
         }
       ],
-      "duration_ms": 194388,
-      "name": "Better Than My Life - Son Remix",
-      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
+      "duration_ms": 161360,
+      "name": "Jumping Fences - GREGATRON Remix",
+      "url": "https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -995,22 +999,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Jumping Fences (GREGATRON Remix)",
-        "url": "https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC"
+        "name": "Better Than My Life (Son Remix)",
+        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
       },
       "artists": [
         {
-          "name": "Kim Viera",
-          "url": "https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 161360,
-      "name": "Jumping Fences - GREGATRON Remix",
-      "url": "https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol"
+      "duration_ms": 194388,
+      "name": "Better Than My Life - Son Remix",
+      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Angels - Original Vocal Mix",
+      "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "\u00bfQuien Podr\u00e1?",
         "url": "https://open.spotify.com/album/5YSXjhH591I5WmZn9UdZmn"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 175238,
       "name": "Elijah Level EDM",
       "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
-      },
-      "artists": [
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Angels - Original Vocal Mix",
-      "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Save Me (Illingworth Remix)",
         "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Looking For Happiness",
         "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
@@ -1483,6 +1483,30 @@
       "duration_ms": 143997,
       "name": "Looking For Happiness",
       "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Freddy Fercho",
+          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
+        },
+        {
+          "name": "Juan Carlos Ochoa",
+          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
+        }
+      ],
+      "duration_ms": 193208,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1511,30 +1535,6 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "You Love Me",
-        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Freddy Fercho",
-          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
-        },
-        {
-          "name": "Juan Carlos Ochoa",
-          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
-        }
-      ],
-      "duration_ms": 193208,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Manna (Vitor Maia Remix)",
+        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+      },
+      "artists": [
+        {
+          "name": "URBAN YOUTH WORSHIP",
+          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Manna - Vitor Maia Remix",
+      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "GRACE OF GOD",
         "url": "https://open.spotify.com/album/49ckozfEQnoxWzqcYvZMKc"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 120700,
       "name": "SO GOOD !!!",
       "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Manna (Vitor Maia Remix)",
-        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
-      },
-      "artists": [
-        {
-          "name": "URBAN YOUTH WORSHIP",
-          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Manna - Vitor Maia Remix",
-      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
-      },
-      "artists": [
-        {
-          "name": "Grace George",
-          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Seen",
         "url": "https://open.spotify.com/album/10wcPx1WEMKA7ch9MY1cxn"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 216513,
       "name": "Seen",
       "url": "https://open.spotify.com/track/389KvTzmyE1B7lSQfzva9n"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1863,22 +1847,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Floating (okay.benny Remix)",
-        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
       },
       "artists": [
         {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "okay.benny",
-          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Floating - okay.benny Remix",
-      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1903,18 +1883,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+        "name": "Floating (okay.benny Remix)",
+        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
       "artists": [
         {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "okay.benny",
+          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
         }
       ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
+      "duration_ms": 155520,
+      "name": "Floating - okay.benny Remix",
+      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1931,6 +1915,22 @@
       "duration_ms": 334439,
       "name": "Miracles - Church Mix",
       "url": "https://open.spotify.com/track/5XROQQHpGmUBhTlvBxoWdE"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+      },
+      "artists": [
+        {
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-10-30 04:00:37",

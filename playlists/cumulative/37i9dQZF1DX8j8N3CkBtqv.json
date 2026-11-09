@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 190866,
       "name": "Ab Toh Tu",
       "url": "https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf"
@@ -5258,7 +5258,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 385846,
       "name": "Bol Ari",
       "url": "https://open.spotify.com/track/3ZHVmmcmGdsreproQsqEKp"
@@ -10606,6 +10606,28 @@
       "duration_ms": 115862,
       "name": "Gunaah",
       "url": "https://open.spotify.com/track/0PubHA6MT8JwEXWT73ABiu"
+    },
+    {
+      "album": {
+        "name": "gunaah",
+        "url": "https://open.spotify.com/album/1zwp5SAVhtuJS1OGNSqd0a"
+      },
+      "artists": [
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        },
+        {
+          "name": "Dwai",
+          "url": "https://open.spotify.com/artist/6dWYZ1RLHdVgLjvcKOG9aK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190298,
+      "name": "gunaah",
+      "url": "https://open.spotify.com/track/1zHmIcC6PtvZaHiCVcdSa1"
     },
     {
       "album": {
@@ -25896,7 +25918,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 269013,
       "name": "Rihaa",
       "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"

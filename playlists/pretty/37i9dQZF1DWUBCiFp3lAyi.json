@@ -1,6 +1,6 @@
 {
   "description": "Your personalized GTA radio station",
-  "num_followers": 752940,
+  "num_followers": 753075,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 235552,
-      "name": "Hold the Line",
-      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 235552,
+      "name": "Hold the Line",
+      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Se Me Nota (Agarrame)",
         "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 175999,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1011,6 +995,22 @@
       "duration_ms": 247600,
       "name": "Love Is A Long Road",
       "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
+        "name": "Gold - The Best of Spandau Ballet",
+        "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
-        "name": "Gold - The Best of Spandau Ballet",
-        "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 303586,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk"
+      "duration_ms": 295466,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
+      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 295466,
-      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
-      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+      "duration_ms": 303586,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
-      },
-      "artists": [
-        {
-          "name": "Real Life",
-          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
-        }
-      ],
-      "duration_ms": 232631,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
+      },
+      "artists": [
+        {
+          "name": "Real Life",
+          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
+        }
+      ],
+      "duration_ms": 232631,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
+        "name": "Hot Together (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Hot Together",
+      "url": "https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
         "name": "Jesus Piece (Deluxe)",
         "url": "https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 372706,
       "name": "Ali Bomaye",
       "url": "https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
-        "name": "Hot Together (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Hot Together",
-      "url": "https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 192539,
-      "name": "Cash Shit (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
+      "duration_ms": 346960,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
     }
   ],
   "unique_name": "Grand Theft Auto Radio",

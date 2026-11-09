@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,997 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,029 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 34 | [Mas Alto Que El Everest](https://open.spotify.com/track/6qq8x1UZ1xz5BKzzxwHllU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/2ouqn69x2uZbiqqSyLVMFN) | 3:01 |
 | 35 | [Jalados](https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:21 |
 
-Snapshot ID: `auvHAAAAAACXj9GvZAZ8dm8xeQwpEHcy`
+Snapshot ID: `au5qAAAAAACLzcgzTGvosL4+20wRbjJd`

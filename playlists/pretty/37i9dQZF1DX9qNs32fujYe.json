@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Machine Head",
-  "num_followers": 1420169,
+  "num_followers": 1420246,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 191543,
-      "name": "La Promesa",
-      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 265750,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 191543,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "CURSED",
-        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "Hatred",
-      "url": "https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Finanzamt",
         "url": "https://open.spotify.com/album/2JCAiSFchVolHslxLa7OOt"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "At Work In The Fields Of The Bomb",
-        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
+        "name": "CURSED",
+        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
       },
       "artists": [
         {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 436850,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+        "name": "At Work In The Fields Of The Bomb",
+        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
+      "duration_ms": 436850,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1171,6 +1155,22 @@
       "duration_ms": 268213,
       "name": "echo sonata",
       "url": "https://open.spotify.com/track/1QcUGVrFdJW7zaAlUdTRnE"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1515,42 +1515,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Stormwatcher",
-        "url": "https://open.spotify.com/album/4JfhIFE8ZSEKO1x7MLUWwT"
-      },
-      "artists": [
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        },
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "Stormwatcher",
-      "url": "https://open.spotify.com/track/13TZd9nP6xdNmouCzvtekC"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
-        "name": "Russian Grizzly In America",
-        "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Russian Grizzly In America",
-      "url": "https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "We Are Fire",
         "url": "https://open.spotify.com/album/1WopsDzbQXBoY2UVJhJJ2h"
       },
@@ -1575,6 +1539,42 @@
       "duration_ms": 217910,
       "name": "We Are Fire",
       "url": "https://open.spotify.com/track/11y9R2GLfiSUKobTAIRm7t"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Russian Grizzly In America",
+        "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Russian Grizzly In America",
+      "url": "https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Stormwatcher",
+        "url": "https://open.spotify.com/album/4JfhIFE8ZSEKO1x7MLUWwT"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "Stormwatcher",
+      "url": "https://open.spotify.com/track/13TZd9nP6xdNmouCzvtekC"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Behelit",
-        "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Behelit",
-      "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Fragile XX / I Wish You Were Dead (SWARM Remix)",
         "url": "https://open.spotify.com/album/5DIXUsYSr3WKgIrPmX3Cv6"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 277013,
       "name": "Fragile XX",
       "url": "https://open.spotify.com/track/3ry8F32cBNQteCHblQPe6V"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Behelit",
+        "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Behelit",
+      "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "On a Quest for Aberdeen",
-        "url": "https://open.spotify.com/album/2NRdEeTAqfiFWX49WM1VgA"
+        "name": "The Grinding Wheel",
+        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
       },
       "artists": [
         {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
         }
       ],
-      "duration_ms": 233906,
-      "name": "On a Quest for Aberdeen",
-      "url": "https://open.spotify.com/track/6spmQ1gUjeu10pUUxnLyZW"
+      "duration_ms": 449786,
+      "name": "Mean, Green, Killing Machine",
+      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1923,34 +1923,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "The Grinding Wheel",
-        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
+        "name": "On a Quest for Aberdeen",
+        "url": "https://open.spotify.com/album/2NRdEeTAqfiFWX49WM1VgA"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
         }
       ],
-      "duration_ms": 449786,
-      "name": "Mean, Green, Killing Machine",
-      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 233906,
+      "name": "On a Quest for Aberdeen",
+      "url": "https://open.spotify.com/track/6spmQ1gUjeu10pUUxnLyZW"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -1967,6 +1951,22 @@
       "duration_ms": 173372,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "The Place",
-        "url": "https://open.spotify.com/album/27INX6qCrmLUqI7QFQW8SH"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 358837,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/35wWE0VppYs6vsMh6Yn1iN"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Lost in the Dark",
         "url": "https://open.spotify.com/album/40jVhBsza03byS968oOfi3"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 198298,
       "name": "Lost in the Dark",
       "url": "https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "The Place",
+        "url": "https://open.spotify.com/album/27INX6qCrmLUqI7QFQW8SH"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 358837,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/35wWE0VppYs6vsMh6Yn1iN"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Neo-Promethean",
-        "url": "https://open.spotify.com/album/6s0GQfQvStQO7fzjzBY6FA"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 332418,
-      "name": "Neo-Promethean",
-      "url": "https://open.spotify.com/track/2FM0q5D7tuszfQUciWz27g"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Operation: Mindcrime (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/16VzTNaeadMjxI03Xi9s6n"
       },
@@ -2379,6 +2363,22 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
+        "name": "Neo-Promethean",
+        "url": "https://open.spotify.com/album/6s0GQfQvStQO7fzjzBY6FA"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "duration_ms": 332418,
+      "name": "Neo-Promethean",
+      "url": "https://open.spotify.com/track/2FM0q5D7tuszfQUciWz27g"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
         "name": "Death Above Life",
         "url": "https://open.spotify.com/album/4wstmx3brleWK61hfO5y8P"
       },
@@ -2391,6 +2391,26 @@
       "duration_ms": 329375,
       "name": "Death Above Life",
       "url": "https://open.spotify.com/track/4UAEU0YaHW4o6Dh5irv9Dv"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Sadness Will Reign",
+        "url": "https://open.spotify.com/album/1SKwChtsQdSNkv88AW6F8c"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "duration_ms": 287268,
+      "name": "Sadness Will Reign",
+      "url": "https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2443,26 +2463,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Sadness Will Reign",
-        "url": "https://open.spotify.com/album/1SKwChtsQdSNkv88AW6F8c"
-      },
-      "artists": [
-        {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        },
-        {
-          "name": "Joe Duplantier",
-          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
-        }
-      ],
-      "duration_ms": 287268,
-      "name": "Sadness Will Reign",
-      "url": "https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Crown of Horns",
         "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
       },
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Suffer Divine",
-        "url": "https://open.spotify.com/album/4wnJ7Y8AR6DEqnBJiDaaxz"
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
       },
       "artists": [
         {
-          "name": "Darkest Hour",
-          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 153233,
-      "name": "Suffer Divine",
-      "url": "https://open.spotify.com/track/0IiYcf8o84PBk0jHr2hyfp"
+      "duration_ms": 269318,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2547,18 +2547,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
+        "name": "Suffer Divine",
+        "url": "https://open.spotify.com/album/4wnJ7Y8AR6DEqnBJiDaaxz"
       },
       "artists": [
         {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Darkest Hour",
+          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
         }
       ],
-      "duration_ms": 269318,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
+      "duration_ms": 153233,
+      "name": "Suffer Divine",
+      "url": "https://open.spotify.com/track/0IiYcf8o84PBk0jHr2hyfp"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
       },
@@ -2663,18 +2647,38 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Time II",
-        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
       },
       "artists": [
         {
-          "name": "Wintersun",
-          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 608013,
-      "name": "The Way of The Fire",
-      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Broken Fist",
+        "url": "https://open.spotify.com/album/0O0bNrjeMZamZ6lY36vRwh"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ther Realm",
+          "url": "https://open.spotify.com/artist/0zDqgJmDuaocA7TMvJX1d1"
+        },
+        {
+          "name": "Taj Jewett",
+          "url": "https://open.spotify.com/artist/3wIDHNh99zyjiE1TgO8uOy"
+        }
+      ],
+      "duration_ms": 331626,
+      "name": "Broken Fist (feat. Taj Jewett)",
+      "url": "https://open.spotify.com/track/3nyNn5R1PcXWB125adhXSa"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2703,22 +2707,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Broken Fist",
-        "url": "https://open.spotify.com/album/0O0bNrjeMZamZ6lY36vRwh"
+        "name": "Time II",
+        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
       },
       "artists": [
         {
-          "name": "\u00c6ther Realm",
-          "url": "https://open.spotify.com/artist/0zDqgJmDuaocA7TMvJX1d1"
-        },
-        {
-          "name": "Taj Jewett",
-          "url": "https://open.spotify.com/artist/3wIDHNh99zyjiE1TgO8uOy"
+          "name": "Wintersun",
+          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
         }
       ],
-      "duration_ms": 331626,
-      "name": "Broken Fist (feat. Taj Jewett)",
-      "url": "https://open.spotify.com/track/3nyNn5R1PcXWB125adhXSa"
+      "duration_ms": 608013,
+      "name": "The Way of The Fire",
+      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "The Cleansing",
         "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2919,18 +2919,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "The Ghost of a Future Dead",
-        "url": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C"
+        "name": "Meat Hook",
+        "url": "https://open.spotify.com/album/1h35I0M3rObLvXLlIn1JDV"
       },
       "artists": [
         {
-          "name": "At The Gates",
-          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+          "name": "A Killer's Confession",
+          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
         }
       ],
-      "duration_ms": 167640,
-      "name": "The Dissonant Void",
-      "url": "https://open.spotify.com/track/2rhloYbkmhjrsoNAuRSzZK"
+      "duration_ms": 176209,
+      "name": "Meat Hook",
+      "url": "https://open.spotify.com/track/2uRloKCvNz0iimo8wOvzQG"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -2951,50 +2951,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Fear The Sun",
-        "url": "https://open.spotify.com/album/56ziBMav2xOSQYHAeO1tPW"
+        "name": "The Ghost of a Future Dead",
+        "url": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C"
       },
       "artists": [
         {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Fear The Sun",
-      "url": "https://open.spotify.com/track/0EfSkqGNVClu56d61MBUx0"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
-        "name": "Meat Hook",
-        "url": "https://open.spotify.com/album/1h35I0M3rObLvXLlIn1JDV"
-      },
-      "artists": [
-        {
-          "name": "A Killer's Confession",
-          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
-        }
-      ],
-      "duration_ms": 176209,
-      "name": "Meat Hook",
-      "url": "https://open.spotify.com/track/2uRloKCvNz0iimo8wOvzQG"
+      "duration_ms": 167640,
+      "name": "The Dissonant Void",
+      "url": "https://open.spotify.com/track/2rhloYbkmhjrsoNAuRSzZK"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -3015,6 +2983,22 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
         "name": "Green Serpent",
         "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
       },
@@ -3031,18 +3015,18 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Para Bellum",
-        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
+        "name": "Fear The Sun",
+        "url": "https://open.spotify.com/album/56ziBMav2xOSQYHAeO1tPW"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
         }
       ],
-      "duration_ms": 232693,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
+      "duration_ms": 202133,
+      "name": "Fear The Sun",
+      "url": "https://open.spotify.com/track/0EfSkqGNVClu56d61MBUx0"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -3059,6 +3043,22 @@
       "duration_ms": 341061,
       "name": "D.S.S. (Death Strikes Suddenly)",
       "url": "https://open.spotify.com/track/3huJHJI860uTxM6p256dg5"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Para Bellum",
+        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
     },
     {
       "added_at": "2026-11-07 02:36:04",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2026-11-07 02:36:04",
       "album": {
-        "name": "Rituals of Shame",
-        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
-      },
-      "artists": [
-        {
-          "name": "Warning",
-          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
-        }
-      ],
-      "duration_ms": 567405,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
-    },
-    {
-      "added_at": "2026-11-07 02:36:04",
-      "album": {
         "name": "Teardrinker",
         "url": "https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 320507,
       "name": "Teardrinker",
       "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
+    },
+    {
+      "added_at": "2026-11-07 02:36:04",
+      "album": {
+        "name": "Rituals of Shame",
+        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
+      },
+      "artists": [
+        {
+          "name": "Warning",
+          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
+        }
+      ],
+      "duration_ms": 567405,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
     },
     {
       "added_at": "2026-11-07 02:36:04",

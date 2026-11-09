@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 99587,
+  "num_followers": 99595,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAB7mpibccVAZmQw8IC2/DrW",
+  "snapshot_id": "au5qAAAAAAAnavHSf6kPtZmGTyJn8k8/",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 131005,
+      "name": "Wat Be Wrong??",
+      "url": "https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Of A Hotboii",
         "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 191926,
       "name": "I Really (feat. 42 Dugg & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 131005,
-      "name": "Wat Be Wrong??",
-      "url": "https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 133136,
+      "name": "OUTTA TOWN (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm The One",
         "url": "https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25"
       },
@@ -927,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "Time Served (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
       },
       "artists": [
         {
@@ -936,37 +956,17 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 133136,
-      "name": "OUTTA TOWN (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
-      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+      "duration_ms": 199495,
+      "name": "No Chill (feat. Lil Baby & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

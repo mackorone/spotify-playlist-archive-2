@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Yaeji)",
-  "num_followers": 38263,
+  "num_followers": 38266,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 185142,
       "name": "MONA LISA - Afro House Remix",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
-        "name": "CHU\u2661",
-        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 99324,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "MOVEURBODY",
-        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 136817,
-      "name": "MOVEURBODY",
-      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
         "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 195177,
       "name": "Billyeoon Goyangi (Do the Dance) - Snail's House Remix",
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "MOVEURBODY",
+        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 136817,
+      "name": "MOVEURBODY",
+      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "d\u2606ct (soccer banger)",
-        "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "d\u2606ct (soccer banger)",
-      "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 208780,
       "name": "SCIENTIST (R3HAB Remix)",
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "d\u2606ct (soccer banger)",
+        "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "d\u2606ct (soccer banger)",
+      "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "Re: searchlight",
+        "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "yanaginagi",
+          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
+        }
+      ],
+      "duration_ms": 310952,
+      "name": "Re: searchlight",
+      "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
         "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 152079,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
-        "name": "Re: searchlight",
-        "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
-      },
-      "artists": [
-        {
-          "name": "Aiobahn",
-          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
-        },
-        {
-          "name": "yanaginagi",
-          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
-        }
-      ],
-      "duration_ms": 310952,
-      "name": "Re: searchlight",
-      "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
-      },
-      "artists": [
-        {
-          "name": "Itzel",
-          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Unstable",
-      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Lucky Star",
         "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 162681,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Motorskills",
-        "url": "https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY"
-      },
-      "artists": [
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 267324,
-      "name": "Motorskills",
-      "url": "https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "iScreaM Vol.32 : Impossible Remix",
         "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
@@ -1831,6 +1811,26 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "Motorskills",
+        "url": "https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY"
+      },
+      "artists": [
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 267324,
+      "name": "Motorskills",
+      "url": "https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "KPOP B!TCH",
         "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
       },
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Kind of Love (feat. Ina Bravo)",
-        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
+        "name": "Heart Of Steel",
+        "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
       },
       "artists": [
         {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
         },
         {
-          "name": "Ina Bravo",
-          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Kind of Love (feat. Ina Bravo)",
-      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
+      "duration_ms": 207089,
+      "name": "Heart Of Steel",
+      "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1883,18 +1883,22 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Murda Dancing",
-        "url": "https://open.spotify.com/album/1tYtUUAkv1e4PCpMSsVRUl"
+        "name": "Kind of Love (feat. Ina Bravo)",
+        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
       "artists": [
         {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Ina Bravo",
+          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
         }
       ],
-      "duration_ms": 286532,
-      "name": "Murda Dancing",
-      "url": "https://open.spotify.com/track/38Zm37YpCdZyZ9D3qBrQYl"
+      "duration_ms": 200826,
+      "name": "Kind of Love (feat. Ina Bravo)",
+      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
     }
   ],
   "unique_name": "Electronii[K]",

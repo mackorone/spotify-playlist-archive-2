@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 628632,
+  "num_followers": 628582,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 165946,
       "name": "Je l'aime \u00e0 mourir - Remastered",
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
-        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 229939,
-      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 162066,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
+        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 229939,
+      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
     },
     {
       "added_at": "2026-02-06 18:20:07",

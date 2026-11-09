@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-704 songs - 1 day 23 hr 41 min
+705 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [FRIEND INDEED](https://open.spotify.com/track/37Z396VXnlD0ZaAukhljSl) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [FRIEND INDEED](https://open.spotify.com/album/3ZtXTQaPwtw9s7TENPCH2u) | 2:19 | 2025-04-18 | 2025-06-06 |
 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 | 2024-09-27 | 2025-02-07 |
 | [Gathering \- Special Version](https://open.spotify.com/track/0YKi0GV9YJ5ufYvX5aOYeK) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Gathering \(Special Version\)](https://open.spotify.com/album/16aGD6JpxEnq8WIknNoo2T) | 2:25 | 2024-10-18 | 2025-02-28 |
+| [GAZE](https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace), [Lois Onyamedea](https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY) | [GAZE](https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf) | 2:53 | 2026-10-23 |  |
 | [Give Am Praise](https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Give Am Praise](https://open.spotify.com/album/01r98bMngk1MOMjY50Kvhm) | 7:01 | 2026-07-17 | 2026-08-13 |
 | [Giver of Good Things](https://open.spotify.com/track/4aDY4firFK9JKg6AgpPHwP) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Giver of Good Things](https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E) | 2:28 | 2025-12-12 | 2026-02-06 |
 | [Glorify the Lord](https://open.spotify.com/track/1WdnWUQaH6GUi2PABm1fry) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Glorify the Lord](https://open.spotify.com/album/2fgmnE9IqqX1cq0XT220cs) | 2:43 | 2026-01-02 | 2026-04-03 |
@@ -622,7 +623,7 @@
 | [This is the day](https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [This is the day](https://open.spotify.com/album/292v6JlFtWgntRY87Ojj5M) | 2:44 | 2025-11-21 | 2026-01-15 |
 | [This Joy](https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Seun Makay](https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY) | [This Joy](https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij) | 4:03 | 2026-07-31 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
-| [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW) | 17:03 | 2026-10-30 |  |
+| [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW) | 17:03 | 2026-10-30 | 2026-11-09 |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
 | [Tinotenda](https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Tinotenda](https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P) | 3:10 | 2026-10-09 |  |
 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 | 2026-05-30 |

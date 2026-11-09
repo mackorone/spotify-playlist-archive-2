@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,728 likes - 91 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,738 likes - 91 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 44 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
 | 45 | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh) | 2:17 |
 | 46 | [Pedacito de Playa \- Remix](https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Pedacito de Playa \(Remix\)](https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61) | 3:17 |
-| 47 | [Namorar \- Remix](https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Pumba Dos Santos](https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Namorar \(Remix\)](https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO) | 3:46 |
-| 48 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 |
+| 47 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 |
+| 48 | [Namorar \- Remix](https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Pumba Dos Santos](https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Namorar \(Remix\)](https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO) | 3:46 |
 | 49 | [Belleza](https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Belleza](https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF) | 4:00 |
 | 50 | [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 |
 | 51 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |

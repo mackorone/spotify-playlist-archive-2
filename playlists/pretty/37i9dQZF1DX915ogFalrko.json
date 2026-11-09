@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188704,
+  "num_followers": 188709,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 345186,
-      "name": "Veridis Quo",
-      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 345186,
+      "name": "Veridis Quo",
+      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Something About Us",
-      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Untitled (Black Is)",
         "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Innerquake",
         "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 212813,
       "name": "The Fade Out Line",
       "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -703,18 +703,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
       "artists": [
         {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+          "name": "Club des Belugas",
+          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
+        },
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
         }
       ],
-      "duration_ms": 166080,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
+      "duration_ms": 212532,
+      "name": "Save a Little Love for Me",
+      "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -735,22 +739,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
       },
       "artists": [
         {
-          "name": "Club des Belugas",
-          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
-        },
-        {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
         }
       ],
-      "duration_ms": 212532,
-      "name": "Save a Little Love for Me",
-      "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
+      "duration_ms": 166080,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Young And Dumb",
         "url": "https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 157173,
       "name": "Young And Dumb",
       "url": "https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "jamais danser!",
+        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "jamais danser!",
+      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/5UuqNdJMfNFULySh1MsgLd"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 201521,
       "name": "100S",
       "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "jamais danser!",
-        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
-      },
-      "artists": [
-        {
-          "name": "Nikola",
-          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "jamais danser!",
-      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
         "name": "Latino Triste",
         "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+        "name": "Flamingo Serenades / Flamingo Favorites",
+        "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
       },
       "artists": [
         {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
         }
       ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+      "duration_ms": 198971,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1467,22 +1483,6 @@
       "duration_ms": 220906,
       "name": "Beast of the Night",
       "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
-        "name": "Flamingo Serenades / Flamingo Favorites",
-        "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "idole",
         "url": "https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 138915,
       "name": "idole",
       "url": "https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "On Reste L\u00e0",
-        "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
+        "name": "Plume",
+        "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
       },
       "artists": [
         {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Amou\u00eb",
-          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+          "name": "Simon M\u00e9ny",
+          "url": "https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ"
         }
       ],
-      "duration_ms": 237430,
-      "name": "On Reste L\u00e0",
-      "url": "https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r"
+      "duration_ms": 197020,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
     }
   ],
   "unique_name": "D\u00eener entre amis",

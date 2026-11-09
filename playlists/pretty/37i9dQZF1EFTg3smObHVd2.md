@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 22 | [WE ARE](https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [St\. Augustine High School Marching 100](https://open.spotify.com/artist/18SOXuqLqS1SPBOZ2t5ZJB), [David Gauthier](https://open.spotify.com/artist/7ml0WXnfI7YHjgCec3GTgw), [Gospel Soul Children Choir](https://open.spotify.com/artist/1gZIyZkzPR9wQ3AaBJTTNr), [Craig Adams](https://open.spotify.com/artist/0DSPskXnLTDYCgSgPM63be), [Braedon Gautier](https://open.spotify.com/artist/6k36C6obWyCGfI3r7sMojy), [Brennan Gautier](https://open.spotify.com/artist/6cQDoD7Xsh6VW8j8GyfEGw), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 4:24 |
 | 23 | [Red Planet \(feat\. T\-Boz\)](https://open.spotify.com/track/4HvzvX45XPWlMJ5k7c2oOh) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [T\-Boz](https://open.spotify.com/artist/5z67HRLMUYoZhaZPWUoV94) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:53 |
 | 24 | [Rather Be](https://open.spotify.com/track/1EWFaToJdvgN8IWQryocpN) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Rather Be](https://open.spotify.com/album/1RVYoS6T7NbIBXPRkJEIdJ) | 3:17 |
-| 25 | [Boy, You Can Keep It](https://open.spotify.com/track/1yMvxlVkxC2KFjstP9Au9V) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Boy, You Can Keep It](https://open.spotify.com/album/5N73cTIVwwDhN2TsC6Umr3) | 2:27 |
-| 26 | [Magic](https://open.spotify.com/track/6Bhb59RtPbvA8z6tMiZX5q) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster](https://open.spotify.com/album/2XnbqGw1OR5dls6UovbKTx) | 3:10 |
+| 25 | [Magic](https://open.spotify.com/track/6Bhb59RtPbvA8z6tMiZX5q) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster](https://open.spotify.com/album/2XnbqGw1OR5dls6UovbKTx) | 3:10 |
+| 26 | [Boy, You Can Keep It](https://open.spotify.com/track/1yMvxlVkxC2KFjstP9Au9V) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Boy, You Can Keep It](https://open.spotify.com/album/5N73cTIVwwDhN2TsC6Umr3) | 2:27 |
 | 27 | [Hush Hush](https://open.spotify.com/track/5B0vy1PSzov33OmFAQb1hZ) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:42 |
 | 28 | [Heart Miles](https://open.spotify.com/track/7IKzUEyAypH22vz6yu0TMN) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Heart Miles](https://open.spotify.com/album/1cAUTH46IrJSTrdu0s7fI8) | 3:31 |
 | 29 | [30 Days](https://open.spotify.com/track/49QuascxmAg436Kx2GNyr4) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:04 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 104 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 105 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AchEOAAAAAAVsxTdYzwkTURlTBJu+y7s`
+Snapshot ID: `AchJ2AAAAABhmZjyCaZRVlx4t8sTu9h/`

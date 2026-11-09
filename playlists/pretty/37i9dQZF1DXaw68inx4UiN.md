@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,952 likes - 95 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,996 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 8 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
 | 9 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 |
 | 10 | [Restful Rainshower in Amazônia](https://open.spotify.com/track/0DNvQmdiaYPYYeNVKictvj) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Labverde](https://open.spotify.com/artist/1tPwW4wIggY3FhR7ZP0gA1) | [Flying Rivers: Rains in Amazônia](https://open.spotify.com/album/6V6p2pW8YfORdEYucfQOJc) | 2:27 |
-| 11 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 |
-| 12 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 |
+| 11 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 |
+| 12 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 |
 | 13 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
 | 14 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 |
 | 15 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 32 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
 | 33 | [Catskill Forest Preserve](https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Catskill Forest Preserve](https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8) | 4:07 |
 | 34 | [Deep in the Rainforest](https://open.spotify.com/track/4bNwBIT6kPgxnhw16XF5mb) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
-| 35 | [Sleepy Stream XII](https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XII](https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh) | 1:52 |
-| 36 | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 |
+| 35 | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 |
+| 36 | [Sleepy Stream XII](https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XII](https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh) | 1:52 |
 | 37 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 |
 | 38 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
 | 39 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 53 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
 | 54 | [Distant ocean, birds and insects in the forest](https://open.spotify.com/track/6VtOLJbtuy3bBULJvnd8pQ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Distant ocean, birds and insects in the forest](https://open.spotify.com/album/2x2JL6cGSi0wtg9y6bmav1) | 4:34 |
 | 55 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
-| 56 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
-| 57 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
+| 56 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
+| 57 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 58 | [Sleepy Stream XIV](https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIV](https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc) | 1:58 |
 | 59 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 |
 | 60 | [Canto](https://open.spotify.com/track/13xuyCrZJoVhdWLbSMePxY) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:35 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 7 hr 27 min
+147 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Daisy](https://open.spotify.com/track/1SKh8LCYEY8ndzDvFToIhu) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 2:58 | 2024-05-01 |  |
 | [Dancing with You](https://open.spotify.com/track/0p8Hgkkya6bsENOHhmOO1G) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:18 | 2024-05-01 |  |
 | [Designer](https://open.spotify.com/track/2cdIoTQN2tiFoKPh1b8bH7) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Designer](https://open.spotify.com/album/2iy0EWYF5LfydMsc6E3Hrr) | 2:01 | 2024-05-01 |  |
-| [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 | 2025-10-12 | 2026-11-08 |
+| [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 | 2025-10-12 |  |
 | [Die For You](https://open.spotify.com/track/2SUUnItpyZN8ZQRXyHdRiV) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/76CqLU04318qHpjS8bCsxy) | 3:06 | 2025-08-09 | 2025-10-13 |
 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 | 2025-09-10 |  |
 | [Don't Even Know Your Name](https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE) | 2:21 | 2024-05-01 | 2026-05-17 |
@@ -62,6 +62,7 @@
 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 | 2024-05-01 | 2026-10-19 |
 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 | 2024-05-01 |  |
 | [Flaws](https://open.spotify.com/track/5Ohsg2xaxenqn0OfIIWeiS) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:28 | 2024-05-01 |  |
+| [Forever 23](https://open.spotify.com/track/6IJUjUK08w7wTeKEqzoVAd) | [Jordan O'Keefe](https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x) | [Forever 23 / Good God](https://open.spotify.com/album/6J6j6NZc7UuphaX5Lvu1eN) | 3:19 | 2026-11-08 |  |
 | [Freaks](https://open.spotify.com/track/06moNojepTMSDnlzyD2k52) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/1hrDsoJsqfvx2pYjL9CYpy) | 2:54 | 2024-05-01 | 2024-11-27 |
 | [Freaks](https://open.spotify.com/track/0GVA7K6nGHPQWVJZTkh1ux) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/2SoARMxMmtscj9sfpCIGKF) | 2:54 | 2024-11-26 | 2026-05-24 |
 | [Freaks](https://open.spotify.com/track/71Y5lhHC9VQgz1odPuFjur) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/25FrEbBv3NYGyCv46kt0LU) | 2:54 | 2026-05-23 |  |

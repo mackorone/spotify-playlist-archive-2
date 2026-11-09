@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1067961,
+  "num_followers": 1067930,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Don't Leave Me",
         "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 210428,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Silver Wave",
-      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
-      },
-      "artists": [
-        {
-          "name": "Shinyribs",
-          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
-        }
-      ],
-      "duration_ms": 265376,
-      "name": "What Happens Next",
-      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "In The Pines",
         "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
       },
       "artists": [
         {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+          "name": "Shinyribs",
+          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
         }
       ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+      "duration_ms": 265376,
+      "name": "What Happens Next",
+      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -711,6 +695,22 @@
       "duration_ms": 153730,
       "name": "LONG WAY FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Ain't Half Bad",
         "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 135000,
       "name": "Ain't Half Bad",
       "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Sweet Southern Sounds",
+        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 301430,
+      "name": "Sweet Southern Sounds",
+      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
         "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Sweet Southern Sounds",
-        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 301430,
-      "name": "Sweet Southern Sounds",
-      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Love in the Lead",
+        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Hartle",
+          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+        }
+      ],
+      "duration_ms": 195885,
+      "name": "Love in the Lead",
+      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Million Voices Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
       },
@@ -1283,26 +1299,6 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
-      },
-      "artists": [
-        {
-          "name": "Alain Apaloo",
-          "url": "https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 255218,
-      "name": "Drifting (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Love in the Lead",
-        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
       "artists": [
         {
-          "name": "Ivan Hartle",
-          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+          "name": "Alain Apaloo",
+          "url": "https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 195885,
-      "name": "Love in the Lead",
-      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+      "duration_ms": 255218,
+      "name": "Drifting (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 243219,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "pretty baby",
         "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 243219,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
-      },
-      "artists": [
-        {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
-        }
-      ],
-      "duration_ms": 335658,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Bring Me Back Home Again",
         "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 223173,
       "name": "Bring Me Back Home Again",
       "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
     }
   ],
   "unique_name": "Blues Roots",

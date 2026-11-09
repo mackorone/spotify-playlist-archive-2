@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pLfLmbGM3d.md) - [plain]
 
 > Let's DIVE into IVE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,168 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,188 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2tnWViGQOt0ihV62kdNaDx) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/34g0AEXpzDZATP3vPXuKK2) | 2:56 |
-| 2 | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/1LNVt5WZB1NptvoYtEuVdP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/1bRRWo28YjVC8g0DB7o3Wa) | 2:53 |
-| 3 | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2TU3bAfxfJvOUQbpoYNzch) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/0oexICyu99OSoyH9W7vEJC) | 3:47 |
-| 4 | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/5aQzVYFjWBEEyvjgpMelKe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/5YkXc7OMSimiCVBTOgq9nK) | 3:45 |
+| 1 | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2TU3bAfxfJvOUQbpoYNzch) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/0oexICyu99OSoyH9W7vEJC) | 3:47 |
+| 2 | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/5aQzVYFjWBEEyvjgpMelKe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/5YkXc7OMSimiCVBTOgq9nK) | 3:45 |
+| 3 | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/2tnWViGQOt0ihV62kdNaDx) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/34g0AEXpzDZATP3vPXuKK2) | 2:56 |
+| 4 | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/track/1LNVt5WZB1NptvoYtEuVdP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Girls Girls Girls \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/album/1bRRWo28YjVC8g0DB7o3Wa) | 2:53 |
 | 5 | [Talk with IVE \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/episode/4ncuKCpCvQKRUc6XC1qz9H) | [K\-Pop ON! Video Podcast](https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt) | [K\-Pop ON! Video Podcast](https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt) | 32:37 |
 | 6 | [IVE](https://open.spotify.com/track/1V2PXz88kzzbspnPSWU3lH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:06 |
 | 7 | [ANYUJIN](https://open.spotify.com/track/5DrFGUNMlqkT8EsILEbecV) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:06 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pLfLmbGM3d.md) - [plain]
 | 93 | [Off The Record \-Japanese version\-](https://open.spotify.com/track/4xx82LI2Z2wzAofp5b6q29) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 3:08 |
 | 94 | [Baddie \-Japanese version\-](https://open.spotify.com/track/2IVXlEsWeTYyK3s46GVRL2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 2:34 |
 
-Snapshot ID: `AAAAAKwOq/O0uVMyFP6lyL4kxvRZtEro`
+Snapshot ID: `AAAAAKzjDzUaXQ1sxtnM5PoKWss4TrC1`

@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 90469,
+  "num_followers": 90530,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 397333,
       "name": "Chalaba",
       "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
     },
     {
       "added_at": "2026-05-08 00:01:18",

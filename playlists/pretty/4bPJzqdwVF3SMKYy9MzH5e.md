@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,437 songs - 5 day 10 hr 43 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,439 songs - 5 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2445,5 +2445,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2435 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 |
 | 2436 | [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 |
 | 2437 | [White Flag](https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [White Flag](https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm) | 3:05 |
+| 2438 | [Broccoli \(feat\. Lil Yachty\)](https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 3:45 |
+| 2439 | [The Race](https://open.spotify.com/track/3wGXyJGsCf1myH5MooQIqE) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:20 |
 
-Snapshot ID: `AAAFjh7B8o2fsaE/BFRVO4qtwXCYSK1V`
+Snapshot ID: `AAAFkGei38w7h0YqKE+NIo+8HtUpQOrr`

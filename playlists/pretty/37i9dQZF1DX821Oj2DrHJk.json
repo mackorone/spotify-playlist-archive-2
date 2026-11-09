@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32644,
+  "num_followers": 32641,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Made In The Shade",
-        "url": "https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Angie - Remastered 2005",
-      "url": "https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Dandy In The Underworld",
         "url": "https://open.spotify.com/album/0yKKzDz0Uod7oCHb10pBwt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 135666,
       "name": "I Love To Boogie (From \"Billy Elliot\")",
       "url": "https://open.spotify.com/track/2yCXjCr32mfkJ4JPxQ35dz"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Made In The Shade",
+        "url": "https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Angie - Remastered 2005",
+      "url": "https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Thick as a Brick",
         "url": "https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Wizzard Brew",
-        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
       "artists": [
         {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 302333,
-      "name": "See My Baby Jive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1131,6 +1115,22 @@
       "duration_ms": 149786,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/0HoMdjB1XwwMlyPfTV7DEj"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Wizzard Brew",
+        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
+      },
+      "artists": [
+        {
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+        }
+      ],
+      "duration_ms": 302333,
+      "name": "See My Baby Jive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 261773,
-      "name": "D'yer Mak'er - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
+      "duration_ms": 289360,
+      "name": "Over the Hills and Far Away - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Over the Hills and Far Away - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+      "duration_ms": 261773,
+      "name": "D'yer Mak'er - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "10cc",
         "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 318853,
       "name": "Rubber Bullets",
       "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
     },
     {
       "added_at": "2024-07-12 14:53:15",

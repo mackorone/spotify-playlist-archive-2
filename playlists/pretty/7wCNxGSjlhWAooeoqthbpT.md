@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,776 likes - 39 songs - 1 hr 56 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,772 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
 | 2 | [Konnichiwa](https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:33 |
-| 3 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 3 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 4 | [Outside](https://open.spotify.com/track/66akDgOGJi139ys0umhBns) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside](https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT) | 3:04 |
 | 5 | [GEORGIA WATA](https://open.spotify.com/track/6lpXBc13bZcZChzJ7F8Hcu) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [BenDaDonnn](https://open.spotify.com/artist/5UCr8R5dQeKQg6EcAYeC4T) | [HIT\-A\-THON](https://open.spotify.com/album/6Ow5nHWrqJUxnrECV4HN5y) | 2:52 |
 | 6 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 60007,
+  "num_followers": 60025,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAB+WmRGcE/vkT9ZGkYwcXvI",
+  "snapshot_id": "au5qAAAAAAAAAU1PYvfev3khWNAmS9Py",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jesus Ojeda",
-          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
-        }
-      ],
-      "duration_ms": 152340,
-      "name": "Sin Parar",
-      "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fulano",
         "url": "https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 142438,
       "name": "El Fulano",
       "url": "https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jesus Ojeda",
+          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
+        }
+      ],
+      "duration_ms": 152340,
+      "name": "Sin Parar",
+      "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolex En Mano",
         "url": "https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 200250,
       "name": "Rolex En Mano",
       "url": "https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 232254,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Mayo",
-        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 191202,
-      "name": "Don Mayo",
-      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slapperz",
         "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Mayo",
+        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 191202,
+      "name": "Don Mayo",
+      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Caguamillo",
         "url": "https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em"
       },
@@ -759,6 +759,38 @@
       "duration_ms": 191085,
       "name": "El Caguamillo",
       "url": "https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6H27ljIKzhhRGon9WbPf0w"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/7ojxKoDddEnm7dOuQrCi0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slapperz",
+        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 201375,
+      "name": "Su Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/53jt5RP5QcJVd1ZantUyr6"
     },
     {
       "added_at": null,
@@ -795,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slapperz",
-        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 201375,
-      "name": "Su Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/53jt5RP5QcJVd1ZantUyr6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Modo Que Sea Mentira",
         "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
@@ -827,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6H27ljIKzhhRGon9WbPf0w"
+        "name": "Slapperz",
+        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
       },
       "artists": [
         {
@@ -836,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 199000,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/7ojxKoDddEnm7dOuQrCi0Z"
+      "duration_ms": 149125,
+      "name": "Si No Es Contigo",
+      "url": "https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
       "duration_ms": 166000,
       "name": "Los Espino",
       "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slapperz",
-        "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 149125,
-      "name": "Si No Es Contigo",
-      "url": "https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo a Lo Nuevo",
-        "url": "https://open.spotify.com/album/1uf2UUnk1JURqncmsHvey3"
+        "name": "El De Las Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k"
       },
       "artists": [
-        {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
-        },
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 139090,
-      "name": "El Soltero",
-      "url": "https://open.spotify.com/track/5Sw1yWgCX5pNmubcZgIUwt"
+      "duration_ms": 179500,
+      "name": "El De Las Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
     }
   ],
   "unique_name": "This Is Los Farmerz",

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 441405,
+  "num_followers": 441409,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAl4geZGX56cko9moM1co/n",
+  "snapshot_id": "au5qAAAAAAB0ItKo2vD0AUMGHRF6bPOC",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Racks 2 Skinny",
-        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 178024,
-      "name": "Racks 2 Skinny",
-      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
+      "duration_ms": 297800,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
+        "name": "Racks 2 Skinny",
+        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 297800,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
+      "duration_ms": 178024,
+      "name": "Racks 2 Skinny",
+      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
     },
     {
       "added_at": null,

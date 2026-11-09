@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 7 hr 0 min
+139 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-07-09 |  |
 | [Dirty Work \- Instrumental](https://open.spotify.com/track/1KgS5Jp4C22gNUhZTiNaDN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-08-06 |  |
 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 | 2024-09-17 |  |
-| [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 | 2026-10-25 |  |
+| [do the math](https://open.spotify.com/track/3as1sArL4Uwtf6JxaEm3Kx) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:06 | 2026-11-08 |  |
+| [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 | 2026-10-25 | 2026-11-09 |
 | [do you really want to hurt me?](https://open.spotify.com/track/2xMY0vcPCP5GHHqom5i6Gl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:09 | 2024-09-17 |  |
 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 | 2024-09-17 |  |
 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 | 2024-09-17 |  |
@@ -132,8 +133,9 @@
 | [talk to myself](https://open.spotify.com/track/2LvvFxwAqjp75Lp4XDetug) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:45 | 2024-09-17 |  |
 | [Teddy Bear](https://open.spotify.com/track/3iV7EY5EfDEtueI3sUGjon) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Teddy Bear](https://open.spotify.com/album/2tMxvr0VuZGMwCXqn4n8K6) | 2:59 | 2024-09-17 |  |
 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 | 2024-09-17 |  |
-| [The Ride](https://open.spotify.com/track/46oYNSOKeoaQ5arxVaYAjt) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/2MrP7x7PfhUqqvf6WYrHO4) | 2:42 | 2026-07-03 |  |
+| [The Ride](https://open.spotify.com/track/46oYNSOKeoaQ5arxVaYAjt) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/2MrP7x7PfhUqqvf6WYrHO4) | 2:42 | 2026-07-03 | 2026-11-09 |
 | [The Ride](https://open.spotify.com/track/5c8PhRr7kcacpLJTfH5bZ5) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 2:42 | 2024-09-17 | 2026-07-04 |
+| [The Ride](https://open.spotify.com/track/64IXOB2K7L9zgsnLgCvBJb) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/74luwDXlGZxoWauo9xccVn) | 2:42 | 2026-11-08 |  |
 | [tired of california](https://open.spotify.com/track/2SOhUiyKpnlshR3SFh733w) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:10 | 2024-09-17 |  |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2024-09-17 |  |
 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 | 2024-09-17 |  |

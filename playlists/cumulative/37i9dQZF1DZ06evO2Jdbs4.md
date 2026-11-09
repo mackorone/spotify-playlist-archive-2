@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-143 songs - 8 hr 27 min
+144 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 | 2022-06-01 |  |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7) | 3:09 | 2025-09-18 |  |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 | 2022-06-01 | 2025-08-10 |
-| [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 | 2022-06-01 |  |
+| [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 | 2022-06-01 | 2026-11-09 |
+| [Se Murió De Amor](https://open.spotify.com/track/4XrUyjtE3FV7b33iw8Xhx7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/61FdszsvhMuHPpzz6T3v58) | 3:07 | 2026-11-09 |  |
 | [Se Murió de Amor](https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD) | [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Se Murió de Amor](https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd) | 3:38 | 2024-07-08 | 2024-12-25 |
 | [Se Ve Linda](https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Se Ve Linda](https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ) | 2:53 | 2024-12-15 | 2025-05-14 |
 | [Separarnos](https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 2:58 | 2022-06-02 |  |

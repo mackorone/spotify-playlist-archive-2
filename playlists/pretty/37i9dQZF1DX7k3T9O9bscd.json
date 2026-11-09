@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Tame Impala on cover.",
-  "num_followers": 583218,
+  "num_followers": 583237,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "A Dream of Lasting Peace",
-        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 159078,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "A Dream of Lasting Peace",
+        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Weird World Awoke",
-        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+        "name": "Cinnamon Temple",
+        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 200935,
-      "name": "Weird World Awoke",
-      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Cinnamon Temple",
-        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
         }
       ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1015,6 +1015,22 @@
       "duration_ms": 144780,
       "name": "Solar (Alchemized)",
       "url": "https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Another Quiet Sunday",
+        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Another Quiet Sunday (Keep Moving On)",
+      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1047,22 +1063,6 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
-        "name": "Another Quiet Sunday",
-        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Another Quiet Sunday (Keep Moving On)",
-      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "The Moon Is In The Wrong Place",
-        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+        "name": "Music For Film: Tramps!",
+        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
       },
       "artists": [
         {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
         }
       ],
-      "duration_ms": 179543,
-      "name": "The Moon Is In The Wrong Place",
-      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
+      "duration_ms": 125973,
+      "name": "Boudicaaa",
+      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Music For Film: Tramps!",
-        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
       },
       "artists": [
         {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
         }
       ],
-      "duration_ms": 125973,
-      "name": "Boudicaaa",
-      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
-      },
-      "artists": [
-        {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Shimmer and Disappear",
-      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
       "artists": [
         {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
         }
       ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+      "duration_ms": 195346,
+      "name": "Shimmer and Disappear",
+      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1479,6 +1463,22 @@
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
     },
     {
       "added_at": "2026-08-21 04:10:49",

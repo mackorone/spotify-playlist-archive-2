@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skepta, Lil Baby, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,133 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,199 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 8 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
 | 9 | [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 |
 | 10 | [Nigel Sylvester](https://open.spotify.com/track/09a3A3v2dGT0WNR1amQJXT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Nigel Sylvester](https://open.spotify.com/album/45tqmH1f9uElOO0pcJYCu7) | 2:59 |
-| 11 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 11 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 12 | [Can't Trust](https://open.spotify.com/track/2Vel50PdtBOMB6BbDyMBlj) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Can't Trust](https://open.spotify.com/album/5ovRIijO2Xo5UkhO0Z1yrN) | 2:10 |
 | 13 | [EXPOSED\. ft Quavo.](https://open.spotify.com/track/58Q3J5Pq4u2rsa9MP9wrCo) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [EXPOSED\. ft Quavo.](https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1) | 3:15 |
 | 14 | [Night Vision \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/43jJnAZdZjJo82uyPgUV7w) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Off To The Races](https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt) | 2:42 |

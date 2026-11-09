@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK+USuRNhEmTD7FES6OFztAsrdSODw",
+  "snapshot_id": "AAAK/pMfjDFCKDq+Igf5cTRvF255JKTk",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -90087,6 +90087,86 @@
       "duration_ms": 241120,
       "name": "I Can See You In The Stars",
       "url": "https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w"
+    },
+    {
+      "added_at": "2026-11-08 09:27:13",
+      "album": {
+        "name": "Bled Dry",
+        "url": "https://open.spotify.com/album/6Y84jQZN2AfbGh01GJKI61"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Bled Dry",
+      "url": "https://open.spotify.com/track/10jiKOtqU3gxqrIQbRAshQ"
+    },
+    {
+      "added_at": "2026-11-08 16:25:12",
+      "album": {
+        "name": "\u041c\u043e\u0439 \u0441\u043e\u043d",
+        "url": "https://open.spotify.com/album/4CTIz0BGv2OdOobHGSPUM8"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u041c\u041f\u0415\u0420\u0418\u042f",
+          "url": "https://open.spotify.com/artist/755CR1AniZjrrW62SCpCMD"
+        }
+      ],
+      "duration_ms": 287800,
+      "name": "\u041f\u043e\u0435\u0437\u0434 \u043d\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+      "url": "https://open.spotify.com/track/4GYMpkBE59plKOjUOXruoR"
+    },
+    {
+      "added_at": "2026-11-08 20:17:34",
+      "album": {
+        "name": "Saving Grace",
+        "url": "https://open.spotify.com/album/06HWWELSPtvnXUYEVTw5nV"
+      },
+      "artists": [
+        {
+          "name": "The Rift",
+          "url": "https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP"
+        }
+      ],
+      "duration_ms": 287873,
+      "name": "Saving Grace",
+      "url": "https://open.spotify.com/track/0r26rnNo0SgUDxfOUQZjAQ"
+    },
+    {
+      "added_at": "2026-11-08 22:31:45",
+      "album": {
+        "name": "Angel o Demonio",
+        "url": "https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND"
+      },
+      "artists": [
+        {
+          "name": "El Bardo",
+          "url": "https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO"
+        }
+      ],
+      "duration_ms": 232518,
+      "name": "Angel o Demonio",
+      "url": "https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy"
+    },
+    {
+      "added_at": "2026-11-08 23:05:42",
+      "album": {
+        "name": "The Habbit Of Heartbreak",
+        "url": "https://open.spotify.com/album/1ti6cOmKrjXf8DAmGXfkvg"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "duration_ms": 228745,
+      "name": "The Habbit Of Heartbreak",
+      "url": "https://open.spotify.com/track/5gjKINtN1ntm8GIvw3M8TB"
     }
   ],
   "unique_name": "playlist spotify free",

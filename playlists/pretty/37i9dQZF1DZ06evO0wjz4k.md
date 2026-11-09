@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,820 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,833 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 30 | [Love You Like That](https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:25 |
 | 31 | [Sounds Like Something I'd Say](https://open.spotify.com/track/6LgITNy6uzycSiJ5DqIDYg) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Made From The Dirt: The Blooms](https://open.spotify.com/album/7Mui85kJDWahH18S8i5WlA) | 3:20 |
 | 32 | [Silhouette](https://open.spotify.com/track/30qsfPMvKe7oMgrqHb5OXN) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:25 |
-| 33 | [I Ain't Going Nowhere](https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:24 |
-| 34 | [Diamonds And Gasoline \- Acoustic](https://open.spotify.com/track/0pvXRqOKIyOl7GgKKz62Cp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 3:32 |
+| 33 | ['Til the End \- Acoustic](https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 4:29 |
+| 34 | [I Ain't Going Nowhere](https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:24 |
 | 35 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
 | 36 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 |
-| 37 | [Blanco County Rain \- Special Edition Track](https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy \(Special Edition\)](https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0) | 3:38 |
-| 38 | ['Til the End \- Acoustic](https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 4:29 |
-| 39 | [Beer Garden Baby](https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Defense of Drinking](https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx) | 3:41 |
-| 40 | [Happy New Year](https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:59 |
+| 37 | [Diamonds And Gasoline \- Acoustic](https://open.spotify.com/track/0pvXRqOKIyOl7GgKKz62Cp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 3:32 |
+| 38 | [Beer Garden Baby](https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Defense of Drinking](https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx) | 3:41 |
+| 39 | [Happy New Year](https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:59 |
+| 40 | [Blanco County Rain \- Special Edition Track](https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy \(Special Edition\)](https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0) | 3:38 |
 | 41 | [Memphis Rain](https://open.spotify.com/track/5Z1JPGFIbXejEyXG76jnJV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:12 |
 | 42 | [One Less Mouth \- Acoustic](https://open.spotify.com/track/40ZITrxVJNQASpJBh62j7Y) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 3:03 |
-| 43 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
-| 44 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
+| 43 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
+| 44 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
 | 45 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
 | 46 | [Far, Far Away \- Acoustic](https://open.spotify.com/track/3DXy5O4NkXIteVV0JURPpI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 3:33 |
-| 47 | [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 |
-| 48 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 |
+| 47 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 |
+| 48 | [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 |
 | 49 | [South of the City Lights](https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:13 |
 | 50 | [Things Are Looking Up \- Acoustic](https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 2:43 |
 
-Snapshot ID: `auvHAAAAAAB3t9s2KeEsO+HfKoR0TkRf`
+Snapshot ID: `au0YgAAAAAAxVrHMkagR2YJ/fJwFtWpY`

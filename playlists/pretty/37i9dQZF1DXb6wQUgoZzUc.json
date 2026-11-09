@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1483232,
+  "num_followers": 1483451,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -399,30 +399,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "Canasteo",
-        "url": "https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "Canasteo",
-      "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "Canasteo",
+        "url": "https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "Canasteo",
+      "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
         "name": "Macacoa 2000 (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 173881,
       "name": "Macacoa 2000 (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "Mami T\u00fa",
         "url": "https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 163750,
       "name": "Mami T\u00fa",
       "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1151,6 +1151,34 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+      },
+      "artists": [
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
         "name": "Secunena",
         "url": "https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa"
       },
@@ -1191,34 +1219,6 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
-      },
-      "artists": [
-        {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Baja Pa' Ac\u00e1",
-      "url": "https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Baja Pa' Ac\u00e1",
+      "url": "https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi"
     },
     {
       "added_at": "2026-11-06 06:00:20",

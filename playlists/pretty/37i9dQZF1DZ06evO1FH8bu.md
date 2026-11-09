@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,480 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,485 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 26 | [Worth It](https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The B Sides](https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br) | 3:23 |
 | 27 | [Empty House](https://open.spotify.com/track/79XPSIrAIDsneJNGLxIm8Y) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:34 |
 | 28 | [We Need More Bricks](https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:48 |
-| 29 | [Growing Pains](https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 2:56 |
+| 29 | [Candour](https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:17 |
 | 30 | [Meet You There 2.0](https://open.spotify.com/track/3bMxIt4sqN31VRxnuueWZ1) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 3:22 |
 | 31 | [Sonderland](https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:39 |
 | 32 | [Head To The Ground](https://open.spotify.com/track/6tbMy64dgE8zz6SAdXqhS6) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 2:40 |
-| 33 | [Candour](https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:17 |
+| 33 | [Growing Pains](https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 2:56 |
 | 34 | [Beautiful Madness](https://open.spotify.com/track/2lMAqXqsAgOp3oT47lnW2y) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The B Sides](https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br) | 3:09 |
 | 35 | [Sick Joke](https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:47 |
 | 36 | [Tables Turned](https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 3:23 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 46 | [All Hype, No Heart](https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 0:42 |
 | 47 | [Damsel In Distress](https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:22 |
 
-Snapshot ID: `auvHAAAAAAB2llzIRq5FUypM7JV8eS7k`
+Snapshot ID: `au5qAAAAAADyMrCOioXLoif6ka625+DM`

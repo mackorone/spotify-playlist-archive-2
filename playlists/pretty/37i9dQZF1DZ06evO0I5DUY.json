@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 245873,
+  "num_followers": 245897,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADnSq1l7Vop2pgyvwumpjZq",
+  "snapshot_id": "au5qAAAAAAAYAyz6mgQD1t87FHfSgUTt",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspiraci\u00f3n Norte\u00f1a",
-        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Donde Estar\u00e1 Mi Caballo",
-      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos de Arranque",
         "url": "https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 167906,
       "name": "La Discusion Fue Una Yegua",
       "url": "https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspiraci\u00f3n Norte\u00f1a",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Donde Estar\u00e1 Mi Caballo",
+      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
     },
     {
       "added_at": null,

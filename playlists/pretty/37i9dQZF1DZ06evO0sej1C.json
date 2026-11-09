@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46302,
+  "num_followers": 46309,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAACdA6QeXmIzRj+u4UVhMLh",
+  "snapshot_id": "au5qAAAAAADGJHYWGZoSfkm/qPMy8Bn5",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Soy Criminal",
+        "url": "https://open.spotify.com/album/5nE243Nz85r4rkOorklyLG"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "No Soy Criminal",
+      "url": "https://open.spotify.com/track/2l4jKCwRh2so8aKPckRUPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Soy Criminal",
-        "url": "https://open.spotify.com/album/5nE243Nz85r4rkOorklyLG"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "No Soy Criminal",
-      "url": "https://open.spotify.com/track/2l4jKCwRh2so8aKPckRUPz"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Es Arriba, Es Abajo",
         "url": "https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 243461,
       "name": "No Vuelvas Mas A Mi",
       "url": "https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
     },
     {
       "added_at": null,
@@ -1159,6 +1159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faruz Fit, Vol. 2",
+        "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 283668,
+      "name": "Susurros",
+      "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loudness Master 8",
         "url": "https://open.spotify.com/album/4GeANE9yjLb92A4jd1oaXx"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 262055,
       "name": "Loudness Master 8",
       "url": "https://open.spotify.com/track/3Rlip4RDb7EJVqKanPOgLG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faruz Fit, Vol. 2",
-        "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 283668,
-      "name": "Susurros",
-      "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
     },
     {
       "added_at": null,

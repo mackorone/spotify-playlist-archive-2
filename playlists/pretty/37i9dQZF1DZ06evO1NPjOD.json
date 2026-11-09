@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40148,
+  "num_followers": 40152,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAvtmQLxaTlDljnBel3gZ4U",
+  "snapshot_id": "au5qAAAAAACG5KRXMiLi90emV/0zTFzm",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/0XCKnQhtw0K3JUKMNPqlIV"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/6dPei3RtBHQxYXflFtWB5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throw Fits (feat. City Girls & Juvenile)",
         "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Notch (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 169737,
       "name": "Top Notch (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Period (We Live)",
-      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 126672,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/10gO1lQggmecSUP1925juj"
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 126672,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/10gO1lQggmecSUP1925juj"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
       "duration_ms": 205296,
       "name": "4 1 Nite",
       "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 114766,
-      "name": "Panties An Bra",
-      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -1003,6 +987,26 @@
       "duration_ms": 167441,
       "name": "Static (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 142395,
+      "name": "4 Da Moment (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
     }
   ],
   "unique_name": "This Is City Girls",

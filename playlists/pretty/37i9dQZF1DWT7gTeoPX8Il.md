@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,137 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,192 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 18 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 19 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 20 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |
-| 21 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 |
-| 22 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
+| 21 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
+| 22 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 |
 | 23 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
 | 24 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 25 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 45 | [Cuba Jadi Aku](https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cuba Jadi Aku](https://open.spotify.com/album/1qgC2Fz9a4OArCfO8iuFzf) | 4:13 |
 | 46 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 47 | [masih ada waktunya](https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [masih ada waktunya](https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4) | 4:07 |
-| 48 | [Tak Ada Restu](https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Tak Ada Restu](https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h) | 3:44 |
-| 49 | [Salahkah Aku?](https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Salahkah Aku?](https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ) | 4:04 |
+| 48 | [Salahkah Aku?](https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Salahkah Aku?](https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ) | 4:04 |
+| 49 | [Tak Ada Restu](https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Tak Ada Restu](https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h) | 3:44 |
 | 50 | [Cinta Mati](https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy) | [Apau Qhaliff](https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk) | [Cinta Mati](https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M) | 4:10 |
 
 Snapshot ID: `AAAAAOb7t6oeLuhcf9iwDZcYvIRp/o+y`

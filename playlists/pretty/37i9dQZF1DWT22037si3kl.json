@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Klisman",
-  "num_followers": 151470,
+  "num_followers": 151480,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-05 23:33:38",
       "album": {
+        "name": "NUNK MAIS QUEBRADO",
+        "url": "https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "duration_ms": 110344,
+      "name": "OURO ROSE",
+      "url": "https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc"
+    },
+    {
+      "added_at": "2026-11-05 23:33:38",
+      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 140338,
       "name": "Pr\u00f3ximo Passo",
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
-    },
-    {
-      "added_at": "2026-11-05 23:33:38",
-      "album": {
-        "name": "NUNK MAIS QUEBRADO",
-        "url": "https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        }
-      ],
-      "duration_ms": 110344,
-      "name": "OURO ROSE",
-      "url": "https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc"
     },
     {
       "added_at": "2026-11-05 23:33:38",

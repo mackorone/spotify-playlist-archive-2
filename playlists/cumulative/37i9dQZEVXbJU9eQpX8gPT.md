@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,194 songs - 4 day 22 hr 40 min
+2,195 songs - 4 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-05-09 | 2024-03-05 |
 | [Abala Ya Bali \- Remix](https://open.spotify.com/track/0YQn9vYwK184bhCyEAtbyu) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Abala Ya Bali \(Remix\)](https://open.spotify.com/album/504SHDQ5T3JW9eJTfXREK2) | 3:32 | 2024-05-05 | 2024-06-23 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-10 | 2022-01-29 |
+| [ABERDI](https://open.spotify.com/track/5VPfBBt3YgeOyZHcY9kCDv) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [ABERDI](https://open.spotify.com/album/0gtXA6YpdiX9OAAXQzF2YR) | 2:27 | 2026-11-08 |  |
 | [ACDC](https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [ACDC](https://open.spotify.com/album/3hLs2CpWBgcjnK8r2JJKHS) | 4:00 | 2022-03-18 | 2022-05-08 |
 | [ACH DANI](https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 2:57 | 2026-04-11 | 2026-04-30 |
 | [Ach Khbarek](https://open.spotify.com/track/6ggJpewsdCo3CaL3Nr85l7) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ach Khbarek](https://open.spotify.com/album/098t9Kq3ur8aLYeOB9776Z) | 3:48 | 2023-05-06 | 2023-05-28 |
@@ -226,7 +227,7 @@
 | [Babour](https://open.spotify.com/track/3NnehgHJ53JjEkDmy4DC65) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Al Najma](https://open.spotify.com/album/5D58RnSd0RaL896uknqjDd) | 2:41 | 2021-05-13 | 2021-09-22 |
 | [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-09 |  |
 | [Baby girl](https://open.spotify.com/track/5P0I7M4h0yzMaEfvrNz5Gy) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [WAKE UP, VALERIE](https://open.spotify.com/album/1FDf2AelZwZtuTq3QaLA8i) | 3:01 | 2025-12-16 | 2025-12-18 |
-| [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 |  |
+| [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 | 2026-11-09 |
 | [Baby You \- Outro](https://open.spotify.com/track/1QlFkFlQTEbFhRZfdphFgl) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:44 | 2022-01-29 | 2022-01-31 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-08 | 2026-05-06 |
 | [Babylone](https://open.spotify.com/track/4G0nwnhNay1k7zJJZ0bHSs) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:34 | 2021-05-08 | 2021-06-13 |

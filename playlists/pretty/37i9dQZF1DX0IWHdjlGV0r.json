@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130664,
+  "num_followers": 130682,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,26 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "\u00c8 FINITA LA PACE",
-        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
+        "name": "M' Manc (con Geolier & Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 223009,
-      "name": "LEI",
-      "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
+      "duration_ms": 180000,
+      "name": "M' Manc (con Geolier & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -319,26 +327,18 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "M' Manc (con Geolier & Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
+        "name": "\u00c8 FINITA LA PACE",
+        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
       "artists": [
         {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 180000,
-      "name": "M' Manc (con Geolier & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+      "duration_ms": 223009,
+      "name": "LEI",
+      "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
     },
     {
       "added_at": "2026-08-26 22:01:25",

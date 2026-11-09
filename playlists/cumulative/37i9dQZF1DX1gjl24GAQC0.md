@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: P1Harmony\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-894 songs - 2 day 0 hr 9 min
+895 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2022-01-17 | 2022-07-12 |
 | [Bye My Monster](https://open.spotify.com/track/7MV68p0TgX9YAo1y3SyjU8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Beautiful Shadow](https://open.spotify.com/album/5nXv3AmmxYJit6u1OPkmMI) | 3:26 | 2024-04-09 | 2024-04-19 |
 | [Call My Name](https://open.spotify.com/track/4oiItSewsjWXE8uDFYMAua) | [BLACK6IX](https://open.spotify.com/artist/5W5dowztOO3kw9A5zpyjOO) | [Nice To Meet You](https://open.spotify.com/album/2CISWZe4O7VeAyGCIbyh12) | 3:16 | 2022-03-22 | 2022-04-17 |
+| [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 | 2026-11-06 |  |
 | [CALLING](https://open.spotify.com/track/5NibycDD14103N4SpuTSe6) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [CALLING](https://open.spotify.com/album/5iDRA7S5w068WynMraKeL5) | 3:17 | 2023-03-15 | 2023-03-25 |
 | [Can't You See Me?](https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:21 | 2021-12-08 | 2022-07-15 |
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-21 | 2025-04-25 |
@@ -335,7 +336,7 @@
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
 | [growing pains](https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [growing pains](https://open.spotify.com/album/6eH7d6D70X0IbAGHBFP9yj) | 3:06 | 2026-02-09 | 2026-02-24 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2025-06-10 |
-| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 |  |
+| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 | 2026-11-09 |
 | [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 | 2024-02-27 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2024-04-19 |
 | [Happy &](https://open.spotify.com/track/4BSI3iOdmxln8gOjatYJhD) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM 'Happy &'](https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4) | 3:09 | 2024-02-26 | 2024-03-06 |

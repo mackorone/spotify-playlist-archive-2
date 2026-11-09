@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 18150,
+  "num_followers": 18155,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAo3WaLS324ZW5ArPN650nj",
+  "snapshot_id": "au5qAAAAAADHB//HsrzXhFWIrfvQuSVi",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Ball And Chain",
-      "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama",
         "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 251426,
       "name": "Hound Dog / Walkin' the Dog",
       "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+      "duration_ms": 282000,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 105400,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Tell Me Baby - Live",
+      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 217000,
       "name": "That Lucky Old Sun",
       "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Tell Me Baby - Live",
-      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 152393,
-      "name": "Rock-A-Bye Baby",
-      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
+      "duration_ms": 160543,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Laugh, Laugh, Laugh",
-      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+      "duration_ms": 152393,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

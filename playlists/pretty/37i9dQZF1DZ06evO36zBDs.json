@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAwJ7OYN7s9qgwBtpEF2KWh",
+  "snapshot_id": "au5qAAAAAACZXQgMIoWd9pZgftezJOhX",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
-        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 254716,
-      "name": "\u30b1\u30a2\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
         "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 216413,
       "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
       "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
+        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 254716,
+      "name": "\u30b1\u30a2\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u6728\u67af\u3057\u306b\u62b1\u304b\u308c\u3066",
+        "url": "https://open.spotify.com/album/3rF3uWuFZyiwUMhMpQKYDZ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "\u6728\u67af\u3057\u306b\u62b1\u304b\u308c\u3066",
+      "url": "https://open.spotify.com/track/3z9LoNHZWQXNFeTrIRCkaq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b3\u30cd\u30af\u30c8 -season 03-",
         "url": "https://open.spotify.com/album/1vhAjY5a8RKFlSoaxXRiGg"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6728\u67af\u3057\u306b\u62b1\u304b\u308c\u3066",
-        "url": "https://open.spotify.com/album/3rF3uWuFZyiwUMhMpQKYDZ"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "\u6728\u67af\u3057\u306b\u62b1\u304b\u308c\u3066",
-      "url": "https://open.spotify.com/track/3z9LoNHZWQXNFeTrIRCkaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fairy Castle(Deluxe Edition\uff09",
         "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
       },
@@ -482,15 +482,11 @@
         {
           "name": "ClariS",
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        },
-        {
-          "name": "GARNiDELiA",
-          "url": "https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6"
         }
       ],
-      "duration_ms": 259906,
-      "name": "clever",
-      "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
+      "duration_ms": 270440,
+      "name": "\u30b3\u30cd\u30af\u30c8 -2017-",
+      "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
     },
     {
       "added_at": null,
@@ -550,11 +546,15 @@
         {
           "name": "ClariS",
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "GARNiDELiA",
+          "url": "https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6"
         }
       ],
-      "duration_ms": 270440,
-      "name": "\u30b3\u30cd\u30af\u30c8 -2017-",
-      "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
+      "duration_ms": 259906,
+      "name": "clever",
+      "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
-        "url": "https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu"
+        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
+        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 273428,
-      "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
-      "url": "https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh"
+      "duration_ms": 267866,
+      "name": "border",
+      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+        "url": "https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 273428,
+      "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+      "url": "https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Canvas",
         "url": "https://open.spotify.com/album/7GS0RipKu1bMAMMul4Q9mY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 227025,
       "name": "Blue Canvas",
       "url": "https://open.spotify.com/track/1tFRgAu3lDcldqS6Xx5WQj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
-        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "border",
-      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
     },
     {
       "added_at": null,

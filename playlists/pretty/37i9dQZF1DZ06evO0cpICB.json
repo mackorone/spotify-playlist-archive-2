@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 18551,
+  "num_followers": 18582,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAADVYOgUmwmHdsUxARQytSLU",
+  "snapshot_id": "au5qAAAAAABe6klE4cgCpqxHKL3Qh4hi",
   "tracks": [
     {
       "added_at": null,
@@ -210,15 +210,11 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 188348,
-      "name": "In My Bag (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ"
     },
     {
       "added_at": null,
@@ -278,11 +274,15 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 165106,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ"
+      "duration_ms": 188348,
+      "name": "In My Bag (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 447974,
+  "num_followers": 448020,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 358625,
-      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Islands in the Fog (with Gizmo Varillas)",
         "url": "https://open.spotify.com/album/1LOI0LDHrsOZ5daYAETPZl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 255722,
       "name": "Islands in the Fog (with Gizmo Varillas)",
       "url": "https://open.spotify.com/track/0Pat9Ok4QEf36WJGAAf3Ga"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 123375,
-      "name": "Camila",
-      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1703,8 +1703,8 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Chica del Norte",
-        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
       "artists": [
         {
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 221600,
-      "name": "La Chica del Norte",
-      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
-      },
-      "artists": [
-        {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 249861,
       "name": "Albino Rhino",
       "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
-      },
-      "artists": [
-        {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
-        }
-      ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
       },
       "artists": [
         {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
         }
       ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1903,6 +1887,22 @@
       "duration_ms": 198920,
       "name": "Voy a pensar en ti",
       "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-10-15 22:01:52",

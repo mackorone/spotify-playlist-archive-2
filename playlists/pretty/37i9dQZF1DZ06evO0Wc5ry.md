@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,052 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,076 likes - 49 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 15 | [The Whole World \(feat\. Killer Mike\)](https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:55 |
 | 16 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
 | 17 | [Aquemini](https://open.spotify.com/track/4V3N5LvUOh3yDPP16cwAhE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:19 |
-| 18 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
+| 18 | [GhettoMusick](https://open.spotify.com/track/1zb9cdsTMrEEL2Ut8rmTb6) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:56 |
 | 19 | [Southernplayalisticadillacmuzik](https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:17 |
 | 20 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 |
 | 21 | [Gasoline Dreams \(with Khujo Goodie\)](https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Khujo Goodie](https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:34 |
-| 22 | [GhettoMusick](https://open.spotify.com/track/1zb9cdsTMrEEL2Ut8rmTb6) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:56 |
+| 22 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
 | 23 | [Skew It on the Bar\-B \(feat\. Raekwon\)](https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:15 |
 | 24 | [Two Dope Boyz \(In a Cadillac\)](https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 2:42 |
 | 25 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 48 | [Speedballin'](https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 5:04 |
 | 49 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `auvHAAAAAACsvF28dHjMFau7lJOIQHaI`
+Snapshot ID: `au5qAAAAAACCzMPkN71OBYXsjNQzn/Xp`

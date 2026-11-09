@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,788 songs - 6 day 18 hr 12 min
+2,790 songs - 6 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Almonds](https://open.spotify.com/track/2D7JDaHR4Puir8CIyV5hN8) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Almonds](https://open.spotify.com/album/6sRNguxPEZaJ2QxP3BN8GY) | 2:43 | 2025-10-15 |  |
 | [Almost 30](https://open.spotify.com/track/6mzyL7GpeG2kl6kvW7uYh4) | [Dina D](https://open.spotify.com/artist/1zTLkYtuX94wYdAVbDhQIE) | [Almost 30](https://open.spotify.com/album/0AzRiZVD2H5jmQNawa46lT) | 3:33 | 2026-04-13 |  |
 | [Almost Gone From My Mind](https://open.spotify.com/track/3ogbucnw9JjZdSTwyoBcnl) | [Bortitz](https://open.spotify.com/artist/0Ypm8wsqi6TW6beD1lO0rC) | [Karma](https://open.spotify.com/album/10JyibAycZJEvMjMdHOpvE) | 2:18 | 2025-05-10 |  |
+| [Almost Said No](https://open.spotify.com/track/464P9E0WxWe6faecttigpl) | [Estellia](https://open.spotify.com/artist/2zOmHPJ2Z05NEEM6J9H0b8) | [Almost Said No](https://open.spotify.com/album/2JPMv8cvyfslAdoLSlpGSu) | 2:59 | 2026-11-08 |  |
 | [ALOHA](https://open.spotify.com/track/7qImrsugYnOBTRf22LbQHP) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [ALOHA](https://open.spotify.com/album/4hqqpZw3l01zh8jwdf34Qw) | 2:02 | 2025-09-19 |  |
 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 | 2026-06-26 |  |
 | [Alone](https://open.spotify.com/track/53t7HgLImRHYhmhnei7g1c) | [Rheghen Bell](https://open.spotify.com/artist/1PsTuifMhhQ4qqVJQkFdOB) | [we can't be friends](https://open.spotify.com/album/1Gt06y6LtRAzg9qAqO2Ghh) | 2:43 | 2025-05-19 |  |
@@ -2261,6 +2262,7 @@
 | [Sun Halo](https://open.spotify.com/track/5CorUGns21UoE4FgC8WoGg) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Look Up II](https://open.spotify.com/album/2FwRGEgXRI02BA1DcSJTkI) | 2:18 | 2026-07-17 |  |
 | [Sun On My Brain](https://open.spotify.com/track/29e37aHLtIb6LJBx1doeWC) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:30 | 2025-07-02 |  |
 | [Sun Shines on You](https://open.spotify.com/track/0iADGid50eV9CWd44Ez8xb) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S) | [Walkin' Target](https://open.spotify.com/album/3P1Vu9Dl3jXRXYjvPVBesp) | 6:06 | 2025-06-22 |  |
+| [Sun\-Kissed Horizon](https://open.spotify.com/track/3SDWVE9w2GS52Z2tfEh4Yt) | [Ekcelia](https://open.spotify.com/artist/21kJygI8CT4dcrMZNypWqx) | [Endless Paradise](https://open.spotify.com/album/3w1JI8FhJ3ba3fsY2LSyZl) | 3:01 | 2026-11-08 |  |
 | [Sunday Riddim](https://open.spotify.com/track/3yvvSei94ywKLdTn3HI63j) | [E.R.S.](https://open.spotify.com/artist/78q8u6KVkHcu9jK1RYWG82) | [Dubconscious](https://open.spotify.com/album/6KWDSRmHzwkQfCBAVZiR0b) | 7:34 | 2025-10-04 |  |
 | [SUNDOWN](https://open.spotify.com/track/558Ra4x9DfeHOfOHB0o8Us) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [SUNDOWN](https://open.spotify.com/album/7yM9iCyTgGdZFnYax4XvIh) | 2:03 | 2025-11-15 |  |
 | [Sunny Days](https://open.spotify.com/track/2y5n6haO7Kod9xcFHGFnSc) | [Slow North](https://open.spotify.com/artist/2vgmHaMLBOYXBeh54s5tBh) | [Sunny Days](https://open.spotify.com/album/3KDsNh02bPTkK4c9PuxJ2S) | 1:29 | 2026-10-02 |  |

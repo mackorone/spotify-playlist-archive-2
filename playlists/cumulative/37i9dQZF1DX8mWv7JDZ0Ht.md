@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
 
-1,011 songs - 2 day 2 hr 48 min
+1,012 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Dança](https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi) | 2:32 | 2022-05-13 | 2022-07-29 |
 | [Dança Comigo](https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Nanda](https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL) | [Dança Comigo](https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc) | 1:22 | 2024-05-31 | 2025-04-25 |
 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 | 2023-12-15 | 2024-12-13 |
-| [Daqui pra sempre](https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q) | [Deco Martins](https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Daqui pra sempre](https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N) | 2:40 | 2025-12-05 |  |
+| [Daqui pra sempre](https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q) | [Deco Martins](https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Daqui pra sempre](https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N) | 2:40 | 2025-12-05 | 2026-11-09 |
 | [De Mansinho](https://open.spotify.com/track/0pNZN7o0JWq9EXoPCutAHn) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [De Mansinho](https://open.spotify.com/album/1yHV7x9atniGlkPzf6ttOJ) | 3:10 | 2022-05-13 | 2022-06-15 |
 | [De Novo](https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [De Novo](https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY) | 2:41 | 2024-07-05 | 2025-01-18 |
 | [De Novo](https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [De Novo](https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj) | 2:45 | 2024-12-06 | 2025-02-08 |
@@ -857,6 +857,7 @@
 | [São Paulo É uma Mãe](https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [São Paulo É uma Mãe](https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB) | 2:11 | 2026-05-22 | 2026-06-07 |
 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 | 2025-02-14 | 2026-01-31 |
 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2025-09-02 |
+| [só nós dois](https://open.spotify.com/track/5UabYY9L9GDv2ua4NGY9MV) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [só nós dois](https://open.spotify.com/album/2kuhmuTN0leFEBwPDJbKzs) | 3:00 | 2026-11-06 |  |
 | [Só Pra Te Falar](https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Só Pra Te Falar](https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK) | 2:41 | 2022-11-18 | 2023-01-28 |
 | [Só Quero Te Agradecer](https://open.spotify.com/track/4zEt63lCEJlB3co0rfbtzz) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Só Quero Te Agradecer](https://open.spotify.com/album/2kHLOvnLAY80tY4FVNfBWO) | 3:07 | 2024-05-06 | 2024-06-14 |
 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 | 2023-12-22 | 2024-03-23 |

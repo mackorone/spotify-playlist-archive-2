@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Idaly, Ronnie Flex & Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,989 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,983 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 64 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 |
 | 65 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 |
 | 66 | [hit me up](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [hit me up](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 |
-| 67 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 |
+| 67 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 |
 | 68 | [Afterparty](https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Afterparty](https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU) | 2:35 |
 | 69 | [Stunten](https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:26 |
-| 70 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 |
+| 70 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 |
 | 71 | [February Stories](https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [February Stories](https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3) | 2:23 |
 | 72 | [Je Bent Leuk](https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Je Bent Leuk](https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt) | 2:02 |
 | 73 | [Herinnering](https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Herinnering](https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV) | 2:34 |

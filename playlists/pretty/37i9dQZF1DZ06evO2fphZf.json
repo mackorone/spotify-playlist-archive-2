@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12599,
+  "num_followers": 12597,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAHsPvS6ryqI9OrdmDNuAsJ",
+  "snapshot_id": "au5qAAAAAAAL2E+7lnTSLJdiPfC33Uie",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Newly",
         "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 177828,
       "name": "Newly",
       "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "fresh white tee",
+      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+        "name": "snowing in LA",
+        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167589,
-      "name": "fresh white tee",
-      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
+      "duration_ms": 205400,
+      "name": "snowing in LA",
+      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
     },
     {
       "added_at": null,
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "snowing in LA",
-        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
+        "name": "Tied Down",
+        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 205400,
-      "name": "snowing in LA",
-      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+      "duration_ms": 163846,
+      "name": "Tied Down",
+      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 169143,
       "name": "butterflies (feat. Rexx Life Raj)",
       "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tied Down",
-        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Tied Down",
-      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,

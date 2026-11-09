@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,611 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,616 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 31 | [ลอง \(Try\)](https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 3:50 |
 | 32 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 |
 | 33 | [เผด็จเกิร์ล](https://open.spotify.com/track/6dnXdI7OhOJYvVjlT6pR03) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:07 |
-| 34 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
-| 35 | [คำสุดท้าย](https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:12 |
+| 34 | [คำสุดท้าย](https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:12 |
+| 35 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
 | 36 | [รักของเธอมีจริงหรือเปล่า \(Real Love?\)](https://open.spotify.com/track/0HRPNiA04po4Ckw4dmP89g) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 5:05 |
 | 37 | [รักเธอทั้งหมดของหัวใจ \(For My Brother\)](https://open.spotify.com/track/7sZxRSdexu3IYDcUW7jXMQ) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Evo\. & Nova](https://open.spotify.com/album/3S274uqfTRsJXEUpFYouVl) | 6:02 |
 | 38 | [ยังไม่รู้ \(I Don't Know\)](https://open.spotify.com/track/2OQQPlUlrSKu2nOPMwTS2c) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:46 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 41 | [กันและกัน \(Us\)](https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 4:42 |
 | 42 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
 | 43 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 |
-| 44 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
-| 45 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |
+| 44 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |
+| 45 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
 | 46 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
 | 47 | [จักรวาล \- Radio Edit](https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr) | [60Miles](https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO) | [The First Mile](https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ) | 5:07 |
 | 48 | [How To Love \(feat\. GRAY\)](https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [How To Love \(feat\. GRAY\)](https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn) | 3:21 |
-| 49 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
-| 50 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
+| 49 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
+| 50 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
 
 Snapshot ID: `AAAAAI9WXR/Sxu7dNt5CqBSSlxzLnuL3`

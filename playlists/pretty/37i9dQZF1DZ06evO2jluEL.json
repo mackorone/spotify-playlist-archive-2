@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 25233,
+  "num_followers": 25234,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADOGBs1NbOBzeWsv4MoIqCK",
+  "snapshot_id": "au5qAAAAAAC7U31ygd5FyvN/m2sjLA0W",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
-      "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o 11 - O Ano da Gra\u00e7a",
         "url": "https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 220186,
       "name": "Maior \u00e9 Jesus",
       "url": "https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 283980,
+      "name": "O Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 283980,
-      "name": "O Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantarei para Sempre",
-        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 315279,
-      "name": "Teu Trabalho \u00e9 Descansar em Mim",
-      "url": "https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
         "url": "https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 391760,
       "name": "A Decis\u00e3o",
       "url": "https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 315279,
+      "name": "Teu Trabalho \u00e9 Descansar em Mim",
+      "url": "https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5"
       },
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Eu Dependo de Deus",
-      "url": "https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF"
+      "duration_ms": 306466,
+      "name": "Senhor que Cura",
+      "url": "https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 306466,
-      "name": "Senhor que Cura",
-      "url": "https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7"
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP"
     },
     {
       "added_at": null,
@@ -719,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
       "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 296613,
-      "name": "Deus Conhece",
-      "url": "https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP"
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v"
     },
     {
       "added_at": null,
@@ -767,30 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Jesus, A Rocha Eterna - Ao Vivo",
-      "url": "https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Eternidade",
-      "url": "https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 163893,
       "name": "O Perd\u00e3o",
       "url": "https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Eternidade",
+      "url": "https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 496186,
-      "name": "Eu Te Escolhi",
-      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200176,
       "name": "Maior Amor",
       "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 496186,
+      "name": "Eu Te Escolhi",
+      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
     },
     {
       "added_at": null,

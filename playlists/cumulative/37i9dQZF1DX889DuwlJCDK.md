@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: アンと私
 
-2,039 songs - 5 day 3 hr 17 min
+2,040 songs - 5 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,7 +946,7 @@
 | [ありがとう、ロックンロール](https://open.spotify.com/track/5IXlFGg8M1JD1j0l4DP7wo) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [ありがとう、ロックンロール](https://open.spotify.com/album/0NDKp63QJVSLEoNpbMyVMP) | 5:18 | 2026-03-03 | 2026-05-15 |
 | [ありふれた日常](https://open.spotify.com/track/24b1Aq38e9rGAqxDHrScLB) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [ありふれた日常](https://open.spotify.com/album/0OoHqZ68DAwpnVsQhypGjk) | 4:07 | 2026-02-11 | 2026-03-11 |
 | [あんなつぁ](https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ROMANTIC LOVE](https://open.spotify.com/album/7E0ksEexysVceoijCZfooz) | 5:15 | 2023-07-27 | 2023-08-17 |
-| [いきぬく](https://open.spotify.com/track/0mVhLC0682C7wNVSYlqLIg) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [いきぬく](https://open.spotify.com/album/4bSIbCHmWH2WMPFquDI9Ov) | 3:53 | 2026-07-16 |  |
+| [いきぬく](https://open.spotify.com/track/0mVhLC0682C7wNVSYlqLIg) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [いきぬく](https://open.spotify.com/album/4bSIbCHmWH2WMPFquDI9Ov) | 3:53 | 2026-07-16 | 2026-11-09 |
 | [いけないサンタ](https://open.spotify.com/track/0BpocnVyMNs8DWgnGQGcjs) | [Adult family](https://open.spotify.com/artist/7o35FqTWnBakLsDuwp3poA) | [いけないサンタ](https://open.spotify.com/album/2uFRmKBA9gh0d0yVxtsqxj) | 3:17 | 2024-12-17 | 2025-03-08 |
 | [いたい](https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [いたい](https://open.spotify.com/album/2DtTw78HZaP7aGhYsaJzhG) | 3:16 | 2025-06-17 | 2025-07-23 |
 | [いたいよ](https://open.spotify.com/track/5dUYOfnhH5cDfN5iNZ0UtQ) | [シベリアンハスキー](https://open.spotify.com/artist/1zzceGP0R3NcBlRqtXRr7M) | [いたいよ](https://open.spotify.com/album/7avaHR6oW99eWN9QHPBPJn) | 3:08 | 2024-03-12 | 2024-03-14 |
@@ -1723,6 +1723,7 @@
 | [捧ぐ](https://open.spotify.com/track/1vwXTZ1jnawZO5ggYetHB6) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [捧ぐ](https://open.spotify.com/album/2ULzhfCIdRfEHThS9hZ0xB) | 4:07 | 2026-03-24 | 2026-07-01 |
 | [接吻の手引き](https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [接吻の手引き](https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep) | 4:09 | 2024-04-16 | 2024-12-18 |
 | [揺らめく山際](https://open.spotify.com/track/3EwiLyP5zHCyDfBa1uFrTV) | [ANTENA](https://open.spotify.com/artist/2Yf8EH0OUVIp3ry5v9nZ6r) | [揺らめく山際](https://open.spotify.com/album/62k5DO0vYUtYSESn5lwHq1) | 3:49 | 2026-09-01 | 2026-09-09 |
+| [揺れてスカート](https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [揺れてスカート](https://open.spotify.com/album/6qlQUirtdVzFuMyoTLBPJW) | 3:08 | 2026-11-03 |  |
 | [揺れるピアス](https://open.spotify.com/track/5nGPee3PEkZUiSrViCm5Je) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [揺れるピアス](https://open.spotify.com/album/6sNb4Es48e6uuQ4lohhcAD) | 4:14 | 2024-12-17 | 2025-01-22 |
 | [携帯電話](https://open.spotify.com/track/5ktv7hUwijL8vobQxaV804) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [携帯電話](https://open.spotify.com/album/64rwQzT6BIf1Sg8etc8Vfx) | 4:35 | 2025-11-18 | 2026-02-12 |
 | [摩天楼](https://open.spotify.com/track/7keuLfXauxA2ewnXh1kaO7) | [夕方と猫](https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu) | [有頂天ダイブ](https://open.spotify.com/album/5m3rcIOjyU3Rompln9NvZX) | 4:16 | 2026-10-06 | 2026-10-14 |

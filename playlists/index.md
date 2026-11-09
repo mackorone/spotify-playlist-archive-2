@@ -6114,7 +6114,7 @@
 - [TIGER & BUNNY \-タイガー&バニー\-](/playlists/pretty/37i9dQZF1DX2vXDFFlGYX5.md)
 - [TIRADE](/playlists/pretty/37i9dQZF1DWWXzA48d9shL.md)
 - [TOMORROW X TOGETHER WORLD TOUR <ACT : SWEET MIRAGE> FINALE](/playlists/pretty/37i9dQZF1DWWKJzTTeHfTN.md)
-- [TOMORROW X TOGETHER WORLD TOUR \[ACT : TOMORROW\]](/playlists/pretty/37i9dQZF1DXbbhESOUmBoa.md)
+- [TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL](/playlists/pretty/37i9dQZF1DXbbhESOUmBoa.md)
 - [TOP POP 2026](/playlists/pretty/37i9dQZF1DX2vTOtsQ5Isl.md)
 - [TOP TIER TUNES 🏞](/playlists/pretty/1LNNpulzu7DjZ48doSKfmT.md)
 - [TOUKEN RANBU\-ONLINE\-](/playlists/pretty/37i9dQZF1DX3FlJOXGyE6c.md)

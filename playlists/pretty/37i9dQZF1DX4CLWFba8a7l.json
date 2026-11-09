@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Miss Kaninna, Genesis Owusu, daine, BOY SODA, Tame Impala",
-  "num_followers": 139076,
+  "num_followers": 139069,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Actin' Tough",
         "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 187285,
       "name": "Actin' Tough",
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/21ejtIpAF27jhRps6Doi6g"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 221429,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
         "name": "Hello (triple j Like A Version)",
         "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 205212,
       "name": "Hello - triple j Like A Version",
       "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/21ejtIpAF27jhRps6Doi6g"
-      },
-      "artists": [
-        {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
-        }
-      ],
-      "duration_ms": 221429,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -543,30 +543,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "DANGER DANGER (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 180150,
-      "name": "DANGER DANGER (feat. Skepta)",
-      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU"
       },
@@ -591,6 +567,30 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
         "name": "PQC",
         "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Everything On Fire",
         "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228240,
       "name": "Everything On Fire",
       "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
+        "name": "GODBREATH",
+        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 142187,
+      "name": "SO COOL",
+      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
         "name": "HUMAN AGAIN",
         "url": "https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 196972,
       "name": "HUMAN AGAIN",
       "url": "https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
-        "name": "GODBREATH",
-        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 142187,
-      "name": "SO COOL",
-      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Love Love (Love Love)",
-        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Love Love (Love Love)",
-      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/44lhdSDMItGwW0nsmXbioN"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
         "name": "Things Take Time",
         "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 194000,
       "name": "Things Take Time",
       "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "FACEDOWN",
         "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1195,22 +1211,6 @@
       "duration_ms": 182769,
       "name": "Super High",
       "url": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Swimming In Jeans",
-        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
       "artists": [
         {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 177201,
-      "name": "Blind Lovin'",
-      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/3IItemvs6diBqETll5pINP"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 180002,
+      "name": "Tell Me When You're Home",
+      "url": "https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/3IItemvs6diBqETll5pINP"
+        "name": "Swimming In Jeans",
+        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
       },
       "artists": [
         {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 180002,
-      "name": "Tell Me When You're Home",
-      "url": "https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q"
+      "duration_ms": 177201,
+      "name": "Blind Lovin'",
+      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
-    },
-    {
-      "added_at": "2026-11-05 13:01:33",
-      "album": {
         "name": "Get Away From Me (I Think I'll Love You Soon)",
         "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 192480,
       "name": "Just One",
       "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
+    },
+    {
+      "added_at": "2026-11-05 13:01:33",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
       },
       "artists": [
         {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-11-05 13:01:33",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-11-05 13:01:33",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
         }
       ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
     },
     {
       "added_at": "2026-11-05 13:01:33",

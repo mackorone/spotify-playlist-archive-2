@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 241247,
+  "num_followers": 241262,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 263706,
       "name": "Moonshiner",
       "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Sound Signal Serenades",
-        "url": "https://open.spotify.com/album/0W7O5J3TceInPS5FGDjLbo"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Kaleidosphere (Devil His Due)",
-      "url": "https://open.spotify.com/track/01bgR1vuRQbYXWj35UyC5k"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Sound Signal Serenades",
+        "url": "https://open.spotify.com/album/0W7O5J3TceInPS5FGDjLbo"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Kaleidosphere (Devil His Due)",
+      "url": "https://open.spotify.com/track/01bgR1vuRQbYXWj35UyC5k"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Paint This Town",
+      "url": "https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Paint This Town",
-      "url": "https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1191,22 +1191,6 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "I Contain Multitudes",
         "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 176232,
       "name": "Letting People Down",
       "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1367,22 +1383,6 @@
       "duration_ms": 284030,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -1499,6 +1483,38 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1523,22 +1539,6 @@
       "duration_ms": 243106,
       "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
       "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Strangers Here",
-        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 267648,
-      "name": "Strangers Here",
-      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Strangers Here",
+        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "duration_ms": 267648,
+      "name": "Strangers Here",
+      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 284710,
-      "name": "American Midnight",
-      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Great American Cities",
         "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 278720,
       "name": "Great American Cities",
       "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 284710,
+      "name": "American Midnight",
+      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2187,8 +2187,8 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
       },
       "artists": [
         {
@@ -2196,9 +2196,9 @@
           "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2267,8 +2267,8 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
       },
       "artists": [
         {
@@ -2276,9 +2276,9 @@
           "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2667,18 +2667,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "First Agnostic Church of Hope and Wonder",
-        "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
+        "name": "Terms Of My Surrender",
+        "url": "https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu"
       },
       "artists": [
         {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Never Let a Day Go By",
-      "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
+      "duration_ms": 209666,
+      "name": "Terms Of My Surrender",
+      "url": "https://open.spotify.com/track/4OWKZfpJQDRNJdfeZf5Svf"
     }
   ],
   "unique_name": "Americana Icons",

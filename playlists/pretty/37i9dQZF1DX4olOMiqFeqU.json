@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2406310,
+  "num_followers": 2405965,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
@@ -251,6 +235,42 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Senaryo",
+        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -263,6 +283,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -287,42 +323,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Senaryo",
-        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Leonora",
+        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "duration_ms": 234052,
+      "name": "Leonora",
+      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Middle-Aged Juvenile Novelty Pop Rockers",
         "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 194946,
       "name": "Pangarap Lang Kita",
       "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Leonora",
-        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
-      },
-      "artists": [
-        {
-          "name": "Sugarcane",
-          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
-        }
-      ],
-      "duration_ms": 234052,
-      "name": "Leonora",
-      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
-      },
-      "artists": [
-        {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
-        }
-      ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Hirap Kalimutan",
         "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 173500,
       "name": "Hirap Kalimutan",
       "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Patlang",
         "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 230300,
       "name": "Patlang",
       "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-10-02 03:23:34",

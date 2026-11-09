@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אביתר בנאי
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,671 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,674 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
 | 44 | [מחברת כאב](https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:14 |
 | 45 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
-| 46 | [אלוהיי, תשמור עליה](https://open.spotify.com/track/1EhbFzRdQzxJSWNPCI5t1I) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi), [OREL](https://open.spotify.com/artist/3BpWr9OLjfkuFIDWM4U0hh) | [אלוהיי, תשמור עליה](https://open.spotify.com/album/6tCrcnOWt2ypaDzA73HUWL) | 3:12 |
-| 47 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
+| 46 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
+| 47 | [אלוהיי, תשמור עליה](https://open.spotify.com/track/1EhbFzRdQzxJSWNPCI5t1I) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi), [OREL](https://open.spotify.com/artist/3BpWr9OLjfkuFIDWM4U0hh) | [אלוהיי, תשמור עליה](https://open.spotify.com/album/6tCrcnOWt2ypaDzA73HUWL) | 3:12 |
 | 48 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 49 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 | 50 | [In Spring](https://open.spotify.com/track/5lMgYrdMFn9yvseb8xI3lp) | [Rasco](https://open.spotify.com/artist/0wEDHyJEC4MRFEDd1TAmw0) | [In Spring](https://open.spotify.com/album/1yD4MRnUKZHnvMY009QhZM) | 3:11 |

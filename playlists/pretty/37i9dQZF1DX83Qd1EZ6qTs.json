@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Zakir Hussain",
-  "num_followers": 9805,
+  "num_followers": 9806,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
+        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
+        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
+      },
+      "artists": [
+        {
+          "name": "Tabla Pakuri",
+          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
+        }
+      ],
+      "duration_ms": 306995,
+      "name": "Tablas for Positive Vibes",
+      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 299120,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
-        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
-        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
-      },
-      "artists": [
-        {
-          "name": "Tabla Pakuri",
-          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
-        }
-      ],
-      "duration_ms": 306995,
-      "name": "Tablas for Positive Vibes",
-      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
+        "name": "Ustad Alla Rakha - The Multifaceted Genius",
+        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
       },
       "artists": [
         {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
+      "duration_ms": 640906,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -655,50 +655,18 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "Ustad Alla Rakha - The Multifaceted Genius",
-        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
       },
       "artists": [
         {
-          "name": "Alla Rakha",
-          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 640906,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
-        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
-        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
-      },
-      "artists": [
-        {
-          "name": "Jnan Prakash Ghosh",
-          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
-        }
-      ],
-      "duration_ms": 771373,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
-        "name": "Get Recharged!!!",
-        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
-        }
-      ],
-      "duration_ms": 408888,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+      "duration_ms": 180000,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -723,6 +691,22 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 408888,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
         "name": "Blue Curry",
         "url": "https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 152470,
       "name": "Blue Curry",
       "url": "https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
+        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
+        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
+      },
+      "artists": [
+        {
+          "name": "Jnan Prakash Ghosh",
+          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
+        }
+      ],
+      "duration_ms": 771373,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
     },
     {
       "added_at": "2025-07-09 11:42:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover:  Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,664 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,682 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 13 | [Amelie](https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:04 |
 | 14 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 |
 | 15 | [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 |
-| 16 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
+| 16 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
 | 17 | [OLTRE ALLA COLLINA \(feat\. Tedua, Quest\)](https://open.spotify.com/track/1MwLLJdkaI4hmB0jbPOvK0) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 3:07 |
 | 18 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
-| 19 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
+| 19 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
 | 20 | [CUORE IN OFF](https://open.spotify.com/track/6mwHTWc7bdlBsiR6s6QFGl) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 1:48 |
 | 21 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
 | 22 | [Non mi basta mai \(feat\. Frah Quintale, Capo Plaza\)](https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:34 |

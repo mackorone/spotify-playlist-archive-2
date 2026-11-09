@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 13 min
+92 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Goin' Where the Wind Blows](https://open.spotify.com/track/7MvH3ZyA1l72z3XiTFUIEH) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:19 | 2023-12-13 |  |
 | [Good Luck Trying](https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Good Luck Trying](https://open.spotify.com/album/0pYvl3Eo9TEa4dO8nxjD3H) | 4:05 | 2024-05-24 | 2024-07-18 |
 | [Good Luck Trying](https://open.spotify.com/track/7tB9vlz01OoHthwGM4e3Eq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:05 | 2024-08-15 | 2024-09-30 |
-| [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 | 2023-12-13 |  |
+| [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 | 2023-12-13 | 2026-11-09 |
+| [Green\-Tinted Sixties Mind \- Live at Irvine Meadows Amphitheatre, Irvine, USA, June 18, 1991](https://open.spotify.com/track/7jtKwLxh22AbzHTEeImfCi) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Green\-Tinted Sixties Mind \(Live at Irvine Meadows Amphitheatre, Irvine, USA, June 18, 1991\)](https://open.spotify.com/album/0zmGiXcCstosO2xScvH8w6) | 3:24 | 2026-11-09 |  |
 | [Had Enough](https://open.spotify.com/track/52izQkzBnqAIL0TnJ4ygEh) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 5:18 | 2024-10-01 | 2025-04-21 |
 | [Had Enough \- 2023 Remastered](https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:55 | 2025-04-21 |  |
 | [How Can You Do What You Do \- 2023 Remastered](https://open.spotify.com/track/2Miw5vdPTOgIVrcHaUqmfL) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 3:55 | 2023-12-13 | 2024-07-15 |

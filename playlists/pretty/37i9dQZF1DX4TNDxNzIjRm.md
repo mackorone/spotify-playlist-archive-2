@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,552 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,409 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 35 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 36 | [Ojos Brujos](https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ojos Brujos](https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH) | 4:10 |
 | 37 | [NO ME GUILLO v2](https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1) | [ANMI](https://open.spotify.com/artist/0V6FSnhjLqpJpS6srrNiRg), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [NO ME GUILLO v2](https://open.spotify.com/album/0cYF1DJpl1oizxiRmBYuZJ) | 3:15 |
-| 38 | [AIRE](https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [AIRE](https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx) | 2:21 |
-| 39 | [MUCHACHA](https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [MUCHACHA](https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O) | 3:12 |
+| 38 | [MUCHACHA](https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [MUCHACHA](https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O) | 3:12 |
+| 39 | [AIRE](https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [AIRE](https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx) | 2:21 |
 | 40 | [PLAYA FRÍA](https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [PLAYA FRÍA](https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2) | 2:08 |
 | 41 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
 | 42 | [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 |

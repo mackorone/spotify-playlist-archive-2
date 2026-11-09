@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Almost Said No",
+        "url": "https://open.spotify.com/album/2JPMv8cvyfslAdoLSlpGSu"
+      },
+      "artists": [
+        {
+          "name": "Estellia",
+          "url": "https://open.spotify.com/artist/2zOmHPJ2Z05NEEM6J9H0b8"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Almost Said No",
+      "url": "https://open.spotify.com/track/464P9E0WxWe6faecttigpl"
+    },
+    {
+      "album": {
         "name": "ALOHA",
         "url": "https://open.spotify.com/album/4hqqpZw3l01zh8jwdf34Qw"
       },
@@ -42876,6 +42894,24 @@
       "duration_ms": 366788,
       "name": "Sun Shines on You",
       "url": "https://open.spotify.com/track/0iADGid50eV9CWd44Ez8xb"
+    },
+    {
+      "album": {
+        "name": "Endless Paradise",
+        "url": "https://open.spotify.com/album/3w1JI8FhJ3ba3fsY2LSyZl"
+      },
+      "artists": [
+        {
+          "name": "Ekcelia",
+          "url": "https://open.spotify.com/artist/21kJygI8CT4dcrMZNypWqx"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181778,
+      "name": "Sun-Kissed Horizon",
+      "url": "https://open.spotify.com/track/3SDWVE9w2GS52Z2tfEh4Yt"
     },
     {
       "album": {

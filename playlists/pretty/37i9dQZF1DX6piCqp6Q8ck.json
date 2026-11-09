@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 200728,
+  "num_followers": 200735,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -35,22 +35,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 161356,
       "name": "Happy Holiday / The Holiday Season",
       "url": "https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "It Snowed",
+        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 163724,
+      "name": "It Snowed",
+      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "The Song Society Playlist",
         "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "It Snowed",
-        "url": "https://open.spotify.com/album/179zhdPfY0gAl9tOCQlKCp"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 163724,
-      "name": "It Snowed",
-      "url": "https://open.spotify.com/track/3BCDVCQIOwcKuIeGh7G9Ep"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "The Man With The Bag",
         "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
       },
@@ -547,38 +547,6 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
-        "name": "Ella & Louis Christmas",
-        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 208026,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Ella & Louis Christmas",
+        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-11-06 15:11:17",
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
         "name": "Sleigh Ride",
         "url": "https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u"
       },
@@ -627,6 +627,38 @@
       "duration_ms": 198002,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "Christmas Wish (Deluxe)",
+        "url": "https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 236751,
+      "name": "Christmas Will Really Be Christmas",
+      "url": "https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -667,38 +699,6 @@
       "duration_ms": 199006,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "Christmas Wish (Deluxe)",
-        "url": "https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 236751,
-      "name": "Christmas Will Really Be Christmas",
-      "url": "https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -751,6 +751,22 @@
       "duration_ms": 215276,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+    },
+    {
+      "added_at": "2026-11-06 15:11:17",
+      "album": {
+        "name": "My Christmas EP",
+        "url": "https://open.spotify.com/album/5oSA0yugGBamU1qrOlcjcZ"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 184958,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4gXIYwCSmUK6xN1vxlLCR2"
     },
     {
       "added_at": "2026-11-06 15:11:17",
@@ -835,22 +851,6 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2026-11-06 15:11:17",
-      "album": {
-        "name": "My Christmas EP",
-        "url": "https://open.spotify.com/album/5oSA0yugGBamU1qrOlcjcZ"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 184958,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4gXIYwCSmUK6xN1vxlLCR2"
     },
     {
       "added_at": "2026-11-06 15:11:17",

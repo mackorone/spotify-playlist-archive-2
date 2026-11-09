@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 22 | [Donde Tú Estás](https://open.spotify.com/track/3x69452Md6kHcm3UugC1xO) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5) | 3:38 |
 | 23 | [Dosis](https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 3:35 |
 | 24 | [El Tunel del Amor](https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 2:10 |
-| 25 | [El Día](https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 2:40 |
+| 25 | [Blues Ciego](https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 3:39 |
 | 26 | [Un Mensaje para Ti \(Ángel\)](https://open.spotify.com/track/1vqSdNfpJWxCP0lIYNtNNC) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5) | 1:52 |
-| 27 | [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 |
+| 27 | [Ahora Volaré](https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:59 |
 | 28 | [Love N' Shit](https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 3:36 |
-| 29 | [Blues Ciego](https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 3:39 |
-| 30 | [Ahora Volaré](https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:59 |
+| 29 | [El Día](https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 2:40 |
+| 30 | [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 |
 | 31 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
 | 32 | [Vibraciones Positivas](https://open.spotify.com/track/1yPdstPBlfsmVewyVb65hZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 2:35 |
 | 33 | [No Sé por Qué](https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 2:16 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 45 | [María](https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:04 |
 | 46 | [Despierten](https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 6:14 |
 
-Snapshot ID: `au0YgAAAAACqjEZQ88f3DeJZY25LKj64`
+Snapshot ID: `au5qAAAAAACjiILS1/Hl9RmMViMARh/l`

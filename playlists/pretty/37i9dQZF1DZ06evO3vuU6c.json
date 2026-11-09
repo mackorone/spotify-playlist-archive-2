@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435637,
+  "num_followers": 1435644,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADSLLh/U1rYD9hCJTjH0xXC",
+  "snapshot_id": "au5qAAAAAAAWuNNS0ovwSv/vnCxJMU6P",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colour The Small One",
-        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hass Hass",
         "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colour The Small One",
+        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Cool You Down - feat. Sia",
-      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nu Zamrock",
         "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 241493,
       "name": "Fire Meet Gasoline",
       "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
     },
     {
       "added_at": null,

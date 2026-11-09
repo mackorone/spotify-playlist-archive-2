@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71844,
+  "num_followers": 71848,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAA20DirGMwHfy8rOlykR731",
+  "snapshot_id": "au5qAAAAAAAoGK1pXw4wPp6Tghqx/jxF",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/2yT98IQ6Rl1oTn0wXGseU8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/4Q5ApVT7NHMx5AiZXP56Bc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/2yT98IQ6Rl1oTn0wXGseU8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/4Q5ApVT7NHMx5AiZXP56Bc"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 219653,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
       "added_at": null,
@@ -935,34 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/30pFiLiQ7DRzSOWAR1QDUv"
-      },
-      "artists": [
-        {
-          "name": "Magnificence",
-          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
-        },
-        {
-          "name": "Alec Maire",
-          "url": "https://open.spotify.com/artist/5m0rLjqjyAcgK5ebdKpM4u"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Brooke Forman",
-          "url": "https://open.spotify.com/artist/0aNGHh77hSJEY13rbKo8ue"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Heartbeat - Nicky Romero Edit",
-      "url": "https://open.spotify.com/track/0GXKy2HpHfI1HSozcUhMXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria (with Alok) [Remixes]",
         "url": "https://open.spotify.com/album/6GtBFfPxRTQSOWUz6Pta2O"
       },
@@ -995,6 +967,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/30pFiLiQ7DRzSOWAR1QDUv"
+      },
+      "artists": [
+        {
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
+        },
+        {
+          "name": "Alec Maire",
+          "url": "https://open.spotify.com/artist/5m0rLjqjyAcgK5ebdKpM4u"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Brooke Forman",
+          "url": "https://open.spotify.com/artist/0aNGHh77hSJEY13rbKo8ue"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Heartbeat - Nicky Romero Edit",
+      "url": "https://open.spotify.com/track/0GXKy2HpHfI1HSozcUhMXn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0NspntfDBwf6LLgeCTXX6J"
       },
@@ -1007,50 +1007,6 @@
       "duration_ms": 186562,
       "name": "Lighthouse - Radio Edit",
       "url": "https://open.spotify.com/track/0GYvUa9kz7wNTs3qqfK3Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free (with Ellie Goulding) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/2MObLeDrhGjJMULsc9kAzp"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
       "added_at": null,
@@ -1075,6 +1031,30 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free (with Ellie Goulding) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/2MObLeDrhGjJMULsc9kAzp"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
     },
     {
       "added_at": null,
@@ -1127,22 +1107,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         }
       ],
-      "duration_ms": 330013,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/2x6hopxvQkOzZTBdEMyUO2"
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     }
   ],
   "unique_name": "This Is Nicky Romero",

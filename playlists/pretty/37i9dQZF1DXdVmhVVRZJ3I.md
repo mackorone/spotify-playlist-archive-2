@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,653 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,680 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 34 | [It's My Life](https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [It's My Life](https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn) | 3:05 |
 | 35 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |
 | 36 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 |
-| 37 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
-| 38 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
+| 37 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
+| 38 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
 | 39 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
 | 40 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 41 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 |

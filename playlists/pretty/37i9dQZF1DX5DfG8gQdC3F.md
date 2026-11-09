@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Jessie Reyez, Lil Baby, Rex Orange County, Slayyyter, Jack Harlow, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,729 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,667 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 17 | [Big Shot](https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 2:49 |
 | 18 | [Drop](https://open.spotify.com/track/39PO3g3EGCMfMroUXSK8gD) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Drop](https://open.spotify.com/album/6fGNKbBeR1kAm4M3GcJ2Ag) | 2:24 |
 | 19 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
-| 20 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 20 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 21 | [COMO FUERA](https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COMO FUERA](https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b) | 2:48 |
 | 22 | [Grain of Salt](https://open.spotify.com/track/2vPqCuX4GFFAJiGj9JQMG0) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Grain of Salt](https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv) | 2:42 |
 | 23 | [When I Get To You](https://open.spotify.com/track/1c8GCfu9GbCHoax0Vfsbmu) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Sure](https://open.spotify.com/album/0SU94xgKeZccltp7hn3yWi) | 4:14 |

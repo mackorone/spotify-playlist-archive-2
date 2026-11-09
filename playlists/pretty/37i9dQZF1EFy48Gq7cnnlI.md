@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 122 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 124 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 120 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 121 | [Safe](https://open.spotify.com/track/6ccK3PiZhFrhwGMlZn5jjR) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker](https://open.spotify.com/album/4qen7S5V6CK9YQcKqAgT38) | 3:13 |
 | 122 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
+| 123 | [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 |
+| 124 | [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 |
 
-Snapshot ID: `AchEOAAAAABMGx4l5iGVTzoTuE+XoKg1`
+Snapshot ID: `AchJ2AAAAACogqOyFSamfAjpGywVZrTd`

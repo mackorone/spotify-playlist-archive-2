@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6637,
+  "num_followers": 6636,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAfdGs5OCcdDPlHzu8X5eJZ",
+  "snapshot_id": "au5qAAAAAADjC3eTVmLVEFJ1Is75dzUH",
   "tracks": [
     {
       "added_at": null,
@@ -223,38 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak Express",
-        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Do I Ever Cross Your Mind?",
-      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
@@ -295,6 +263,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreak Express",
+        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Do I Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In the Good Old Days (When Times Were Bad)",
         "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 227013,
       "name": "To Know Him Is to Love Him - 2015 Remaster",
       "url": "https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
       "duration_ms": 183933,
       "name": "Just Because I'm a Woman",
       "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -471,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dolly Dolly Dolly",
         "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 203026,
       "name": "Old Flames Can't Hold a Candle to You",
       "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Atkins - The Master And His Music",
+        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Atkins - The Master And His Music",
-        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Do I Ever Cross Your Mind",
-      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
     },
     {
       "added_at": null,
@@ -603,18 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, I'm Dolly",
-        "url": "https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO"
+        "name": "Trio II (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 150447,
-      "name": "Dumb Blonde",
-      "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
+      "duration_ms": 211586,
+      "name": "After the Gold Rush - 2015 Remaster",
+      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
     },
     {
       "added_at": null,
@@ -643,26 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio II (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
+        "name": "Hello, I'm Dolly",
+        "url": "https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 211586,
-      "name": "After the Gold Rush - 2015 Remaster",
-      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
+      "duration_ms": 150447,
+      "name": "Dumb Blonde",
+      "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bargain Store",
-        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "The Bargain Store",
-      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Sparrow",
         "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 197826,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
       "added_at": null,
@@ -847,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "The House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Little Sparrow",
-      "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love & Fear",
         "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
       },
@@ -919,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "The House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porter 'N' Dolly",
         "url": "https://open.spotify.com/album/2kKDvQ24tqs9M932L3FjiN"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 167253,
       "name": "Please Don't Stop Loving Me",
       "url": "https://open.spotify.com/track/5pfw6zehxjTpLNQoHFXIwR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Little Sparrow",
+      "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
     },
     {
       "added_at": null,

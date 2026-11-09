@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,778 likes - 75 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,799 likes - 75 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 16 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 |
 | 17 | [Twin Fish Walter \- From "Benz"](https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Twin Fish Walter \(From "Benz"\)](https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp) | 2:47 |
 | 18 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |
-| 19 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 |
+| 19 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
 | 20 | [Sambavam](https://open.spotify.com/track/3ZOOxCQmbNHsE2j2e8jMQO) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 4:28 |
-| 21 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
+| 21 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 |
 | 22 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |
 | 23 | [Veeram](https://open.spotify.com/track/6s1O69LT5MswXY65KtzVva) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/3NTVBHDjIBs2QmRxt9ao5V), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [Veeram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1f24GWAfUL1kuFf1ciaRHd) | 2:48 |
 | 24 | [Billa 2 Theme](https://open.spotify.com/track/2DsuS52SpgSbTwncBFwbr8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 1:55 |

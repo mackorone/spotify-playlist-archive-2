@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 252828,
+  "num_followers": 252880,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "REI DO KUYUYU",
+        "url": "https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 203411,
+      "name": "BABETE",
+      "url": "https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 199396,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "REI DO KUYUYU",
-        "url": "https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 203411,
-      "name": "BABETE",
-      "url": "https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Vem Ser Feliz",
-        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
-      },
-      "artists": [
-        {
-          "name": "Lurhany",
-          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Vem Ser Feliz",
-      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "\u00daltima L\u00e1grima",
         "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 242608,
       "name": "\u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Vem Ser Feliz",
+        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
+      },
+      "artists": [
+        {
+          "name": "Lurhany",
+          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Vem Ser Feliz",
+      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "Voc\u00ea Prometeu",
+        "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Voc\u00ea Prometeu",
+      "url": "https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Cicatrizes em Beijos",
         "url": "https://open.spotify.com/album/3mKObiTQTsUd3qEP5XRKlu"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 195436,
       "name": "Mais um Caso",
       "url": "https://open.spotify.com/track/74vJ2796jQqnf0tiopPnde"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Voc\u00ea Prometeu",
-        "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Voc\u00ea Prometeu",
-      "url": "https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Totoloto",
-        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Totoloto",
-      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Magui",
         "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 217853,
       "name": "Magui",
       "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Totoloto",
+        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Totoloto",
+      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "OQA?",
         "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 195714,
       "name": "OQA?",
       "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Aurea",
         "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 171828,
       "name": "Tropa",
       "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Lei 14",
-        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Lei 14",
-      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1219,6 +1199,26 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "Lei 14",
+        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Lei 14",
+      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "O Plano Dela",
         "url": "https://open.spotify.com/album/66PW2HQtsJ4z3Q5NeZcD7m"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Eu Aceito",
-        "url": "https://open.spotify.com/album/0ikkXnUTYB4sazp41V2RQe"
-      },
-      "artists": [
-        {
-          "name": "Jey V",
-          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
-        }
-      ],
-      "duration_ms": 173051,
-      "name": "Eu Aceito",
-      "url": "https://open.spotify.com/track/5r6LFt6e22ozJx4dmmkV0B"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186727,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Eu Aceito",
+        "url": "https://open.spotify.com/album/0ikkXnUTYB4sazp41V2RQe"
+      },
+      "artists": [
+        {
+          "name": "Jey V",
+          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+        }
+      ],
+      "duration_ms": 173051,
+      "name": "Eu Aceito",
+      "url": "https://open.spotify.com/track/5r6LFt6e22ozJx4dmmkV0B"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Si N\u2019tinha Puder",
         "url": "https://open.spotify.com/album/2ABVFafCnvtnaK0tiOK3Yj"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Onde Est\u00e1 Meu Amor?",
-        "url": "https://open.spotify.com/album/6uLQTjv1VqZZEknzLf1Krp"
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Mariana Moreira",
-          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/2uPQRgyUinD2Db4BJnbg42"
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "Onde Est\u00e1 Meu Amor?",
+        "url": "https://open.spotify.com/album/6uLQTjv1VqZZEknzLf1Krp"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Mariana Moreira",
+          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/2uPQRgyUinD2Db4BJnbg42"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Pilon Di Pikena",
         "url": "https://open.spotify.com/album/31w9tQ4Q0sDJRpIL9QaE4Z"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 219712,
       "name": "365",
       "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "CICLOS",
-        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1511,6 +1495,22 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "CICLOS",
+        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "BONITO (feat. Nelson Freitas)",
-        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "BONITO (feat. Nelson Freitas)",
-      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1639,22 +1619,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+        "name": "BONITO (feat. Nelson Freitas)",
+        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
       },
       "artists": [
         {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         },
         {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         }
       ],
-      "duration_ms": 234666,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
+      "duration_ms": 166588,
+      "name": "BONITO (feat. Nelson Freitas)",
+      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1703,6 +1683,26 @@
       "duration_ms": 429473,
       "name": "Versos & Poesias #8: Tarde Demais",
       "url": "https://open.spotify.com/track/2Gx1UvaKuM5KOXIKQV1tDv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2026-11-06 00:00:56",

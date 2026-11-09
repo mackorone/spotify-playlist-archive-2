@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,680 likes - 45 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,705 likes - 45 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 44 | [Lullaby Of The Leaves](https://open.spotify.com/track/2ynGfwePiLptW599QebWbr) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:16 |
 | 45 | [I waited for you](https://open.spotify.com/track/7EF6ls57hx7h2fThxjkXB5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:08 |
 
-Snapshot ID: `au0YgAAAAAAAoODqMRW13QMlObgePtUM`
+Snapshot ID: `au5qAAAAAABQNTwcMw1sgOw1gLshXmQg`

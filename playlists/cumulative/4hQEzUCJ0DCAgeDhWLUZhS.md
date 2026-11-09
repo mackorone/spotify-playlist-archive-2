@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-569 songs - 1 day 9 hr 12 min
+570 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [I'm a Boxer](https://open.spotify.com/track/1BVSGSHw04IybM1HSxWl2M) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [I'm a Boxer](https://open.spotify.com/album/5m0YEB6EkscH9qd55yissc) | 3:02 | 2025-03-14 |  |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 | 2025-06-04 |
 | [Ice Cold](https://open.spotify.com/track/3obP0RKuV7NgLjpsHh7icx) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Ice Cold / New California](https://open.spotify.com/album/0khqKuc8ozdalZU75PJS4Q) | 3:27 | 2022-08-05 | 2025-06-04 |
+| [Ice Cream Truck](https://open.spotify.com/track/5IcGmgurJYzTIXiXIUBCuj) | [Maple's Pet Dinosaur](https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je) | [Child's Play](https://open.spotify.com/album/0o1AsjmpN0ljvmOQqvbnhD) | 3:39 | 2026-11-09 |  |
 | [Identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Identity](https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL) | 3:36 | 2020-10-10\* | 2021-05-13 |
 | [Idiot](https://open.spotify.com/track/51Xr9Jt4ohvCxm5G9BJGfQ) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Idiot](https://open.spotify.com/album/0NmyFWum8tIYpvebBNd2JS) | 2:22 | 2021-08-14 | 2025-05-28 |
 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 | 2022-03-25 | 2025-06-04 |

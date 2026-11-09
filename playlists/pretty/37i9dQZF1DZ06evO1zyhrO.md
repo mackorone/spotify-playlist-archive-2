@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,641 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,648 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 28 | [Rain](https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:34 |
 | 29 | [What's Changed](https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:40 |
 | 30 | [Heartline](https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:12 |
-| 31 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
-| 32 | [Woman Trouble \(Radio Edit\)](https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA) | 4:01 |
+| 31 | [Woman Trouble \(Radio Edit\)](https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA) | 4:01 |
+| 32 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
 | 33 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
 | 34 | [For Once In My Life](https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:34 |
 | 35 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 |
 | 50 | [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 |
 
-Snapshot ID: `au0YgAAAAABao/6JgE4AoHSCdJbu9xgY`
+Snapshot ID: `au5qAAAAAABMr7xETsIz4KUp8E2bZnfL`

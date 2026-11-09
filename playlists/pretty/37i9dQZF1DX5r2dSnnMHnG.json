@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 15852,
+  "num_followers": 15850,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Paint on Spring",
         "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 232653,
       "name": "Paint on Spring",
       "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Things We Dream: Vol.1",
         "url": "https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196800,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        },
-        {
-          "name": "HAEUN",
-          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "because I'm stupid? (feat. KIXO)",
         "url": "https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 124080,
       "name": "because I'm stupid? (feat. KIXO)",
       "url": "https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "The Crush Of Spring OST Special Track",
-        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
-      },
-      "artists": [
-        {
-          "name": "MJ (ASTRO)",
-          "url": "https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y"
-        }
-      ],
-      "duration_ms": 190522,
-      "name": "Walking In The Memory",
-      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "\uc720\uc2e4\ubb3c \ubcf4\uad00\uc18c",
         "url": "https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 198573,
       "name": "\uc720\ucc44\uaf43",
       "url": "https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "The Crush Of Spring OST Special Track",
+        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
+      },
+      "artists": [
+        {
+          "name": "MJ (ASTRO)",
+          "url": "https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y"
+        }
+      ],
+      "duration_ms": 190522,
+      "name": "Walking In The Memory",
+      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
     },
     {
       "added_at": "2026-04-25 04:24:32",

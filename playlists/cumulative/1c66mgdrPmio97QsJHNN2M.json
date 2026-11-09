@@ -16405,6 +16405,28 @@
     },
     {
       "album": {
+        "name": "feel alive",
+        "url": "https://open.spotify.com/album/4xxMpFg98DmoyR9ghD6OZk"
+      },
+      "artists": [
+        {
+          "name": "LM",
+          "url": "https://open.spotify.com/artist/177oYrdsoCqvmDRtOpz9aR"
+        },
+        {
+          "name": "SABBA \u03a6",
+          "url": "https://open.spotify.com/artist/1iVleUXGSerJFDN3LiM92k"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "feel alive",
+      "url": "https://open.spotify.com/track/6yW7SK5KQp0GpCpQ8fVqmZ"
+    },
+    {
+      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6uhjQgbvoWiZQI8U9sfHtx"
       },
@@ -23218,6 +23240,24 @@
       "duration_ms": 245400,
       "name": "I Don't Give a ***",
       "url": "https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj"
+    },
+    {
+      "album": {
+        "name": "You Came for the Jam",
+        "url": "https://open.spotify.com/album/4nw2ZRqxfoQKEgUOfBDipA"
+      },
+      "artists": [
+        {
+          "name": "Belarussische Nemesis",
+          "url": "https://open.spotify.com/artist/5nxRg1RR7NWteTLSIHzQQR"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200460,
+      "name": "I Don't Give It to Anyone",
+      "url": "https://open.spotify.com/track/1E6fgzKi8kDYaopHM5xCuo"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1247552,
+  "num_followers": 1247409,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-11-06 15:07:44",
       "album": {
-        "name": "AIRE",
-        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 141180,
-      "name": "AIRE",
-      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
-    },
-    {
-      "added_at": "2026-11-06 15:07:44",
-      "album": {
         "name": "MUCHACHA",
         "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 192750,
       "name": "MUCHACHA",
       "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
+    },
+    {
+      "added_at": "2026-11-06 15:07:44",
+      "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 141180,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
     },
     {
       "added_at": "2026-11-06 15:07:44",

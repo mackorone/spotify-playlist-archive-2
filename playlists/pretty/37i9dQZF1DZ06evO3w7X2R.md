@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w7X2R.md) - [plain]
 
 > This is rjtheweirdo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 14 songs - 37 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 14 songs - 37 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

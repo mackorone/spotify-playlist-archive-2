@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,701 songs - 15 day 15 hr 8 min
+6,702 songs - 15 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Act Like](https://open.spotify.com/track/01vPw1LCucZoo21GX2uHqZ) | [Davion](https://open.spotify.com/artist/50k274l0FANtaQFzkWzh2a) | [HYPERSEXUAL](https://open.spotify.com/album/2pUOkgYuYPb9dBnQBNeR1N) | 2:11 | 2024-11-23 | 2024-12-05 |
 | [Activated](https://open.spotify.com/track/4daLAQUhApqyeDekfAzdGN) | [G.O.A.T Wavy](https://open.spotify.com/artist/0J1OC5bKdlfzXDD4KdzrNf) | [Activated](https://open.spotify.com/album/2eLFMt1FohHbCNMUN7jBRl) | 1:32 | 2024-01-29 | 2024-02-10 |
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-12-21 | 2025-02-09 |
-| [acupuncture](https://open.spotify.com/track/2tCwibSN66Ja9VI2DCLEbG) | [Ava Valianti](https://open.spotify.com/artist/3JhUfOmvrN5q0tDArJbQyT) | [acupuncture](https://open.spotify.com/album/0oeolveQCq6RWhFHbODN5H) | 2:48 | 2026-10-09 |  |
+| [acupuncture](https://open.spotify.com/track/2tCwibSN66Ja9VI2DCLEbG) | [Ava Valianti](https://open.spotify.com/artist/3JhUfOmvrN5q0tDArJbQyT) | [acupuncture](https://open.spotify.com/album/0oeolveQCq6RWhFHbODN5H) | 2:48 | 2026-10-09 | 2026-11-09 |
 | [Addicted](https://open.spotify.com/track/002za8woBKJsCCbj30TlPS) | [KelKeyz](https://open.spotify.com/artist/6lKXtmwJnGCpPoPIOit5Oy) | [Addicted](https://open.spotify.com/album/7JijvRD9EIvdwRxGb7GhKo) | 2:44 | 2022-04-08 | 2022-04-24 |
 | [ADDICTED](https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [ADDICTED](https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt) | 3:18 | 2023-03-07 | 2023-04-01 |
 | [Addicted to You](https://open.spotify.com/track/6KOSNvI2HpDyd79qhhUcM6) | [Julia Byers](https://open.spotify.com/artist/0FEeqEUVkJ0QwnAOYKYOWg) | [Addicted to You](https://open.spotify.com/album/1Kzu9HlqAOUwJYN09hmCZf) | 3:41 | 2026-10-01 | 2026-10-13 |
@@ -3080,6 +3080,7 @@
 | [Just Stay](https://open.spotify.com/track/7Hf5a11cpMXcKGvuyYAPLp) | [Sire James](https://open.spotify.com/artist/4wQ37GLIJ34UaykrFuZojX) | [Just Stay](https://open.spotify.com/album/2YbU6Dq8zlL5xP2k6WKoel) | 3:08 | 2024-08-07 | 2024-08-19 |
 | [Just You and I](https://open.spotify.com/track/3OusHps31Mbv69fUclwQHY) | [Tashkii](https://open.spotify.com/artist/5Lgft6L2V5wOy3wATAz7U9) | [Just You and I](https://open.spotify.com/album/5U53SiUvwUrYwJByCmsrM9) | 2:59 | 2022-12-16 | 2023-01-07 |
 | [Just Your Fool](https://open.spotify.com/track/0oP2eKke7mmNpCiUwj1l77) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Just Your Fool](https://open.spotify.com/album/78v5ts8LIQ6vU5rPed3aPR) | 3:30 | 2026-06-26 | 2026-07-30 |
+| [K](https://open.spotify.com/track/1kNh0fdbJLF0VMLDFzrmCD) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [K](https://open.spotify.com/album/40ehMISSA0uM10QQEZoOcp) | 4:27 | 2026-11-09 |  |
 | [Kafka](https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Kafka](https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7) | 2:33 | 2024-05-03 | 2024-05-25 |
 | [Kaleidoscope](https://open.spotify.com/track/39sR7JrYqrJwrlzXQWlDYN) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Kaleidoscope](https://open.spotify.com/album/3EQEzX8FHQuZ7TTKSJr2jQ) | 3:17 | 2024-05-31 | 2024-06-13 |
 | [Kaleidoscope Daydreaming](https://open.spotify.com/track/3BB2gPH00aLM3ozeJsAtv0) | [Yasmine Ross](https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ) | [Kaleidoscope Daydreaming](https://open.spotify.com/album/1aFn6yg47NDu9QbXTv7Hq0) | 3:26 | 2024-04-10 | 2024-04-22 |
@@ -3551,7 +3552,7 @@
 | [Loving You Is Wild](https://open.spotify.com/track/712OyohxFMjVF2BAa48rLh) | [Sharlette](https://open.spotify.com/artist/5KHPJepzNZtQCNXnansIVZ) | [Loving You Is Wild](https://open.spotify.com/album/25f3ytaOei1xNZuWVjygLn) | 3:26 | 2025-08-26 | 2025-09-27 |
 | [Lovu \- Whim Therapy Remix](https://open.spotify.com/track/2MUYD8IWgXd1I1CDpY8zGk) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN), [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h) | [Lovu \(Whim Therapy Remix\)](https://open.spotify.com/album/4m290meGLCj5e0WErWGK68) | 3:51 | 2020-12-18 | 2021-01-03 |
 | [Low Battery Life](https://open.spotify.com/track/3t8cVfVHxFutlSJcCkEk6W) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [Scared Of Growing Old Alone](https://open.spotify.com/album/7JVfxJqbr3nhVTN3LoIoQP) | 3:07 | 2026-02-20 | 2026-03-23 |
-| [Low Light Lover](https://open.spotify.com/track/1HQ15mwTpfoT2k8O1LSQEn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Low Light Lover](https://open.spotify.com/album/2V7AJiIiZLmgd3kvyly3mx) | 2:59 | 2026-10-09 |  |
+| [Low Light Lover](https://open.spotify.com/track/1HQ15mwTpfoT2k8O1LSQEn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Low Light Lover](https://open.spotify.com/album/2V7AJiIiZLmgd3kvyly3mx) | 2:59 | 2026-10-09 | 2026-11-09 |
 | [LTWYLM](https://open.spotify.com/track/4TWJvu5iSNYhUgVBnqWvBY) | [Abi Ocia](https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb) | [LTWYLM](https://open.spotify.com/album/1FyweOrZCXoEc8xQMHjW1h) | 4:30 | 2021-11-13 | 2021-11-28 |
 | [Lucid](https://open.spotify.com/track/5X9MCQkOzaDtvL5coFMdLs) | [McKenna Mix](https://open.spotify.com/artist/6mPTxtgVTryDZe5QF2y53G) | [Lucid](https://open.spotify.com/album/37809nVEgEhjfONXyfYc6l) | 3:11 | 2023-07-04 | 2023-07-18 |
 | [Lucifer](https://open.spotify.com/track/5LrrFh7zmV4cEqavmdqReZ) | [Kintsugi](https://open.spotify.com/artist/6Vqa74iOflfEDp9SkEaVn3) | [Lucifer](https://open.spotify.com/album/6HqOcoBNNtttI1Pj0r6p3d) | 3:02 | 2025-03-28 | 2025-04-21 |

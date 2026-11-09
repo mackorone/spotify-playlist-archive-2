@@ -1,6 +1,6 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 361665,
+  "num_followers": 361691,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
+        "name": "When It Was Now",
+        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Trojans",
+      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
         "name": "The Belt",
         "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
-      },
-      "artists": [
-        {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Trojans",
-      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
-      },
-      "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 188336,
-      "name": "Friends (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 248506,
       "name": "Classic (feat. POWERS)",
       "url": "https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 188336,
+      "name": "Friends (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
     },
     {
       "added_at": "2025-01-28 19:15:57",

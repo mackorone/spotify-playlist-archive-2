@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205445,
+  "num_followers": 205474,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAAGjx6s0MKj9u30adIumymu",
+  "snapshot_id": "au5qAAAAAADRPQd1NLhDDooyMKKEa3wS",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -935,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phases And Stages",
-        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
@@ -944,9 +960,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Bloody Mary Morning",
-      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -979,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
-      },
-      "artists": [
-        {
-          "name": "Mishka",
-          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
     },
     {
       "added_at": null,
@@ -1051,34 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Horse Called Music",
-        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
       },
       "artists": [
+        {
+          "name": "Mishka",
+          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Nothing I Can Do About It Now",
-      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+      "duration_ms": 211666,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
     },
     {
       "added_at": null,
@@ -1099,6 +1067,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -1115,22 +1099,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Rock",
-        "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
+        "name": "A Horse Called Music",
+        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
       },
       "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 204929,
-      "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
+      "duration_ms": 199160,
+      "name": "Nothing I Can Do About It Now",
+      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019ll Fly Away (Radio Edit)",
+        "url": "https://open.spotify.com/album/6vv93qUT1oAPb8YdqVQC00"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 253027,
+      "name": "I\u2019ll Fly Away - Radio Edit",
+      "url": "https://open.spotify.com/track/1s8xn13MpAlKM0LpMPw1YV"
     }
   ],
   "unique_name": "This Is Willie Nelson",

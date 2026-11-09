@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 264960,
+  "num_followers": 264996,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "Down For You (feat. Jyll)",
         "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 202500,
       "name": "Down For You (feat. Jyll)",
       "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Man On Fire",
-        "url": "https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj"
-      },
-      "artists": [
-        {
-          "name": "J Ribbon",
-          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
-        }
-      ],
-      "duration_ms": 186785,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "I Never Want This To End EP",
         "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 178793,
       "name": "I Never Want This To End",
       "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Man On Fire",
+        "url": "https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj"
+      },
+      "artists": [
+        {
+          "name": "J Ribbon",
+          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
+        }
+      ],
+      "duration_ms": 186785,
+      "name": "Man On Fire",
+      "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
     },
     {
       "added_at": "2026-11-06 00:00:40",

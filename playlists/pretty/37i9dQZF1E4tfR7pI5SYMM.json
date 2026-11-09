@@ -1,5 +1,5 @@
 {
-  "description": "With Sanguine, The Inklings, M\u00e4rvel and more",
+  "description": "With The Inklings, The Dogs, Sanguine and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kick the Shit",
-        "url": "https://open.spotify.com/album/3I40ugyrMAwqnNyODowg46"
-      },
-      "artists": [
-        {
-          "name": "Rats Arse",
-          "url": "https://open.spotify.com/artist/6jETvX4H1BGANHljYXTyRY"
-        }
-      ],
-      "duration_ms": 155846,
-      "name": "Kick the Shit",
-      "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's go to Porsgrunn",
         "url": "https://open.spotify.com/album/4HUVM0wIn1HB5AMIqVtDxs"
       },
@@ -99,34 +83,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manneklem",
-        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
+        "name": "Kick the Shit",
+        "url": "https://open.spotify.com/album/3I40ugyrMAwqnNyODowg46"
+      },
+      "artists": [
+        {
+          "name": "Rats Arse",
+          "url": "https://open.spotify.com/artist/6jETvX4H1BGANHljYXTyRY"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Kick the Shit",
+      "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kom Og Klikk (Harvey North Remix)",
+        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
       },
       "artists": [
         {
           "name": "Bipolar Superstar",
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Harvey North",
+          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
         }
       ],
-      "duration_ms": 190438,
-      "name": "Manneklem",
-      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
+      "duration_ms": 243902,
+      "name": "Kom Og Klikk - Harvey North Remix",
+      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Last Chance To Refill (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
+        "name": "III",
+        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
       },
       "artists": [
         {
-          "name": "Sanguine",
-          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+          "name": "Statsmenn",
+          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
         }
       ],
-      "duration_ms": 161036,
-      "name": "Song For The Hanged Man - 2023 Remaster",
-      "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
+      "duration_ms": 252133,
+      "name": "Ikkje Som De Andre",
+      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
     },
     {
       "added_at": null,
@@ -147,18 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Shadow of the Mountain",
-        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
       },
       "artists": [
         {
-          "name": "Huston Sonhouse",
-          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 220056,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
+      "duration_ms": 161036,
+      "name": "Song For The Hanged Man - 2023 Remaster",
+      "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
     },
     {
       "added_at": null,
@@ -195,86 +199,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
+        "name": "That Kind of Love",
+        "url": "https://open.spotify.com/album/01JdmV3Tj4Xm90IMxICnTV"
       },
       "artists": [
         {
-          "name": "Statsmenn",
-          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
+          "name": "The Jix",
+          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Ikkje Som De Andre",
-      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
+      "duration_ms": 269466,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hadal Zone Express",
-        "url": "https://open.spotify.com/album/0by4G2hWsVkcBEAI0uc3jz"
+        "name": "In the Shadow of the Mountain",
+        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
       },
       "artists": [
         {
-          "name": "M\u00e4rvel",
-          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+          "name": "Huston Sonhouse",
+          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
         }
       ],
-      "duration_ms": 175169,
-      "name": "Danish Rush",
-      "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
-        "url": "https://open.spotify.com/album/1A35bFBzpTOA3rbKZh6WR5"
-      },
-      "artists": [
-        {
-          "name": "Mareritt Larsen",
-          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
-        }
-      ],
-      "duration_ms": 142321,
-      "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
-      "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinnsyke Sanger",
-        "url": "https://open.spotify.com/album/1ciYPGKf7tAwn9JToXMLyB"
-      },
-      "artists": [
-        {
-          "name": "Svigermors Dr\u00f8m",
-          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Sinnsyke Sanger",
-      "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kom Og Klikk (Harvey North Remix)",
-        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Harvey North",
-          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
-        }
-      ],
-      "duration_ms": 243902,
-      "name": "Kom Og Klikk - Harvey North Remix",
-      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
+      "duration_ms": 220056,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
     },
     {
       "added_at": null,
@@ -295,56 +247,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Kind of Love",
-        "url": "https://open.spotify.com/album/01JdmV3Tj4Xm90IMxICnTV"
+        "name": "One",
+        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
       },
       "artists": [
         {
-          "name": "The Jix",
-          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
+          "name": "The Bets",
+          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
         }
       ],
-      "duration_ms": 269466,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
+      "duration_ms": 231808,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Last Chance To Refill (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
-      },
-      "artists": [
-        {
-          "name": "Sanguine",
-          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Hey Now Honey - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grave of God",
-        "url": "https://open.spotify.com/album/2mHxwDXe3Xq7jnAScRxg86"
-      },
-      "artists": [
-        {
-          "name": "Grave of God",
-          "url": "https://open.spotify.com/artist/0vjvu0IhcALM0gQxFhhQ8m"
-        }
-      ],
-      "duration_ms": 120463,
-      "name": "Fade and Burn",
-      "url": "https://open.spotify.com/track/4rcBlkiUrkEcmtqerD3D6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "Manneklem",
+        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
       },
       "artists": [
         {
@@ -352,25 +272,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Briste Eller B\u00e6re",
-      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mitt hjerte er r\u00e5tt",
-        "url": "https://open.spotify.com/album/6klv0qOectWJn52yYbGRX9"
-      },
-      "artists": [
-        {
-          "name": "Hage$lange",
-          "url": "https://open.spotify.com/artist/0hvofX5QejmcZ83HrWtt0V"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Mitt hjerte er r\u00e5tt",
-      "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
+      "duration_ms": 190438,
+      "name": "Manneklem",
+      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
     },
     {
       "added_at": null,
@@ -391,18 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Heroin",
-        "url": "https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5"
+        "name": "Mitt hjerte er r\u00e5tt",
+        "url": "https://open.spotify.com/album/6klv0qOectWJn52yYbGRX9"
       },
       "artists": [
         {
-          "name": "Greg Llatse",
-          "url": "https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3"
+          "name": "Hage$lange",
+          "url": "https://open.spotify.com/artist/0hvofX5QejmcZ83HrWtt0V"
         }
       ],
-      "duration_ms": 232000,
-      "name": "My Heroin",
-      "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
+      "duration_ms": 273000,
+      "name": "Mitt hjerte er r\u00e5tt",
+      "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
     },
     {
       "added_at": null,
@@ -423,6 +327,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
+      },
+      "artists": [
+        {
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Hey Now Honey - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Briste Eller B\u00e6re",
+      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight To The Head",
+        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+      },
+      "artists": [
+        {
+          "name": "Pistonhead",
+          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+        }
+      ],
+      "duration_ms": 299413,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grave of God",
+        "url": "https://open.spotify.com/album/2mHxwDXe3Xq7jnAScRxg86"
+      },
+      "artists": [
+        {
+          "name": "Grave of God",
+          "url": "https://open.spotify.com/artist/0vjvu0IhcALM0gQxFhhQ8m"
+        }
+      ],
+      "duration_ms": 120463,
+      "name": "Fade and Burn",
+      "url": "https://open.spotify.com/track/4rcBlkiUrkEcmtqerD3D6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I see you",
+        "url": "https://open.spotify.com/album/2tDNOlbqdITvft1fVuyFnK"
+      },
+      "artists": [
+        {
+          "name": "Spend Money On Circus",
+          "url": "https://open.spotify.com/artist/5etdHclL5zA3nPytbHXknB"
+        }
+      ],
+      "duration_ms": 274924,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got No Time",
+        "url": "https://open.spotify.com/album/0NNM0yk5jW68fcvIWCC7zk"
+      },
+      "artists": [
+        {
+          "name": "Plaid On Flannel",
+          "url": "https://open.spotify.com/artist/79N8caExYHxWGt5VDxzAA7"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "Got No Time",
+      "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En liten dose deg",
         "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
       },
@@ -439,66 +439,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanctemonium",
-        "url": "https://open.spotify.com/album/0CO9XJK1qzgZB3sfCnkCr8"
+        "name": "FEELING THE HEAT",
+        "url": "https://open.spotify.com/album/10s5qfjDIh5fzX4figypiW"
       },
       "artists": [
         {
-          "name": "M\u00e4rvel",
-          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+          "name": "STONE FIRE",
+          "url": "https://open.spotify.com/artist/7FRYaiZbZAYFB7Ean4iCMr"
         }
       ],
-      "duration_ms": 185304,
-      "name": "Alla Helgons Blodiga Natt",
-      "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
+      "duration_ms": 186798,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/69EBf3iMvbL04Q0nyuhPuJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "#StopPayola",
-        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
+        "name": "Tales from Earth Incorporated",
+        "url": "https://open.spotify.com/album/2JZ1u15kDmcnsbfjJioXPF"
       },
       "artists": [
         {
-          "name": "Ed Eagle",
-          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
+          "name": "Dan Sheehan",
+          "url": "https://open.spotify.com/artist/5TlfZtt8NftHtdd8Wgdwv1"
         }
       ],
-      "duration_ms": 158311,
-      "name": "#StopPayola",
-      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
+      "duration_ms": 328343,
+      "name": "Cross the Border",
+      "url": "https://open.spotify.com/track/0u4VIt55PYglX83ttRs8bR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pale Ontology",
-        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1BezqTo8IYwyvLd1fZ2p93"
       },
       "artists": [
         {
-          "name": "Tom Markey",
-          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
+          "name": "Mother Mersy",
+          "url": "https://open.spotify.com/artist/0otA1pmf0tTBPX6X9F5L3a"
         }
       ],
-      "duration_ms": 201996,
-      "name": "Complaining",
-      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
+      "duration_ms": 286131,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/4wRpdELR9n6HQLan6psgx0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
+        "name": "RAILWORLD",
+        "url": "https://open.spotify.com/album/14SA6Ih2aRdf0XpYozcZvC"
       },
       "artists": [
         {
-          "name": "The Bets",
-          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
+          "name": "2 MUCH PRESSURE",
+          "url": "https://open.spotify.com/artist/0nkxXTv7KX6NPNsFcZRT28"
         }
       ],
-      "duration_ms": 231808,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
+      "duration_ms": 171000,
+      "name": "Next Call - Remaster",
+      "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
     },
     {
       "added_at": null,
@@ -544,41 +544,41 @@
           "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
         }
       ],
-      "duration_ms": 299413,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
+      "duration_ms": 242853,
+      "name": "Bitch Slap Rapper",
+      "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mercury (In Retrograde)",
-        "url": "https://open.spotify.com/album/3GpzNNG8OP1sByLaeouBos"
+        "name": "Whiskey N' Rye",
+        "url": "https://open.spotify.com/album/6MmbclmS10u3GVE8rtyE8b"
       },
       "artists": [
         {
-          "name": "Greg Maclennan",
-          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
+          "name": "Whiskey N' Rye",
+          "url": "https://open.spotify.com/artist/7LerS7F5PdnD2ytugx80Ih"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Mercury (In Retrograde)",
-      "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
+      "duration_ms": 157866,
+      "name": "Before the Cock Crows",
+      "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Silence please",
-        "url": "https://open.spotify.com/album/0VA3VFKOkpD5v4rSwhAFjD"
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/283RJx5I0CAexOnrNvPAlK"
       },
       "artists": [
         {
-          "name": "Air Vibration",
-          "url": "https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu"
+          "name": "Uppercut",
+          "url": "https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA"
         }
       ],
-      "duration_ms": 148166,
-      "name": "Silence please",
-      "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
+      "duration_ms": 211598,
+      "name": "I Own Ya",
+      "url": "https://open.spotify.com/track/57vCsCkZQpbAp2Mp73wgam"
     },
     {
       "added_at": null,
@@ -599,66 +599,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring Me Trouble",
-        "url": "https://open.spotify.com/album/3rBLLwm4lwLvy1gUpXLtHE"
+        "name": "And Bring It Down Again",
+        "url": "https://open.spotify.com/album/28xUIHml0qXP8tki2PwkJT"
       },
       "artists": [
         {
-          "name": "Marc Blackwell",
-          "url": "https://open.spotify.com/artist/1vpTFq78b5v0ZEvzfQzZ9p"
+          "name": "The Jix",
+          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
         }
       ],
-      "duration_ms": 202500,
-      "name": "I Gotta Stay",
-      "url": "https://open.spotify.com/track/6r6gvGwfdWG8my9Z7XAou3"
+      "duration_ms": 207706,
+      "name": "And Bring It Down Again",
+      "url": "https://open.spotify.com/track/5OnuEoQFPNQoNV5teFaxyT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Move 37",
-        "url": "https://open.spotify.com/album/7yODbiINdSz2H5ICkTHSsH"
+        "name": "No Credits Left (Edition 2022)",
+        "url": "https://open.spotify.com/album/03dtYf0mILcfUsLAxLVjTO"
       },
       "artists": [
         {
-          "name": "The Inklings",
-          "url": "https://open.spotify.com/artist/7acymkigVyBGh1cWbcBGu2"
+          "name": "Next Generation Voodoo",
+          "url": "https://open.spotify.com/artist/1xdqXYwdBoKV0WauNX125U"
         }
       ],
-      "duration_ms": 255833,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
+      "duration_ms": 287413,
+      "name": "Take Me for a While - Edition 2022",
+      "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "When I see you",
-        "url": "https://open.spotify.com/album/2tDNOlbqdITvft1fVuyFnK"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/4j0Va9SAW9be75dXX3GgHG"
       },
       "artists": [
         {
-          "name": "Spend Money On Circus",
-          "url": "https://open.spotify.com/artist/5etdHclL5zA3nPytbHXknB"
+          "name": "Denver Meatpacking Company",
+          "url": "https://open.spotify.com/artist/404tp3wj9OWyVevGQYg5HO"
         }
       ],
-      "duration_ms": 274924,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
+      "duration_ms": 198765,
+      "name": "Do As I Do",
+      "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
+        "name": "Maybe Now",
+        "url": "https://open.spotify.com/album/15nIi8OwddTfDWiU5LIBRv"
       },
       "artists": [
         {
-          "name": "OlD NATIVE OMEN",
-          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+          "name": "Whalapoppers",
+          "url": "https://open.spotify.com/artist/4iulaWvL2ILdn9P8YMbvDk"
         }
       ],
-      "duration_ms": 299655,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
+      "duration_ms": 163846,
+      "name": "Maybe Now",
+      "url": "https://open.spotify.com/track/73s0QLKk5Ys610y8yho2TW"
     },
     {
       "added_at": null,
@@ -679,18 +679,102 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jirm / L\u00e5ngfinger",
-        "url": "https://open.spotify.com/album/6Qyr0bOptdlocLvNuEMh9c"
+        "name": "My Heroin",
+        "url": "https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5"
       },
       "artists": [
         {
-          "name": "L\u00c5NGFINGER",
-          "url": "https://open.spotify.com/artist/2QTIqO2L5Jnv9rNRFwUNbv"
+          "name": "Greg Llatse",
+          "url": "https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Meet The Hoopla",
-      "url": "https://open.spotify.com/track/3GmK5H8aPYlJ8QQ1XrGnAv"
+      "duration_ms": 232000,
+      "name": "My Heroin",
+      "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
+      },
+      "artists": [
+        {
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+        }
+      ],
+      "duration_ms": 299655,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Det Bedste Til Mig og Mine Venner",
+        "url": "https://open.spotify.com/album/2Is4WHro4lwaSFH94oaUxA"
+      },
+      "artists": [
+        {
+          "name": "Kosmik Boogie Tribe",
+          "url": "https://open.spotify.com/artist/2hFJ7ne9PYaGfnMAcDbHdX"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "This Is Rock And Roll",
+      "url": "https://open.spotify.com/track/7AWqAt8XAbS6590g20B56J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#StopPayola",
+        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
+      },
+      "artists": [
+        {
+          "name": "Ed Eagle",
+          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
+        }
+      ],
+      "duration_ms": 158311,
+      "name": "#StopPayola",
+      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hadal Zone Express",
+        "url": "https://open.spotify.com/album/0by4G2hWsVkcBEAI0uc3jz"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4rvel",
+          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Danish Rush",
+      "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Mestringskoret",
+          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Stjernene Lyser",
+      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
     },
     {
       "added_at": null,
@@ -711,114 +795,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight To The Head",
-        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+        "name": "Jedeme d\u00e1l",
+        "url": "https://open.spotify.com/album/5YqVS0XRKOlrBaCczzPOtl"
       },
       "artists": [
         {
-          "name": "Pistonhead",
-          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+          "name": "HAMR",
+          "url": "https://open.spotify.com/artist/12n6RuTCOjb5ztS2M1d5Q5"
         }
       ],
-      "duration_ms": 242853,
-      "name": "Bitch Slap Rapper",
-      "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
+      "duration_ms": 210286,
+      "name": "Sb\u011bratel",
+      "url": "https://open.spotify.com/track/4vAoHWoSHBaZmi6duTPijO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Some Good News",
-        "url": "https://open.spotify.com/album/2fCxUNX84KIu4qmEnPoQdn"
+        "name": "ENTER THE HARDBOILED",
+        "url": "https://open.spotify.com/album/1yhq4L5Vy4UgMF1qtZO52Y"
       },
       "artists": [
         {
-          "name": "Dan Eckberg",
-          "url": "https://open.spotify.com/artist/0mnCZhzxUnX5GYMksbVi95"
+          "name": "marksman",
+          "url": "https://open.spotify.com/artist/4wQbGafJhgZ32MqUyTfRO9"
         }
       ],
-      "duration_ms": 219957,
-      "name": "Some Good News",
-      "url": "https://open.spotify.com/track/3FHFyL7tXNAmsyCJJ6eZUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got No Time",
-        "url": "https://open.spotify.com/album/0NNM0yk5jW68fcvIWCC7zk"
-      },
-      "artists": [
-        {
-          "name": "Plaid On Flannel",
-          "url": "https://open.spotify.com/artist/79N8caExYHxWGt5VDxzAA7"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "Got No Time",
-      "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/3X9JyeZzLbsTeLDzP1WcNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kings of the City",
-        "url": "https://open.spotify.com/album/2iQdvMCA2sTWXaClWRzHLO"
-      },
-      "artists": [
-        {
-          "name": "Acorde 7 Blues Band",
-          "url": "https://open.spotify.com/artist/00c2f50dznBh2WDotCtWb2"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Kings of the City",
-      "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Move 37",
-        "url": "https://open.spotify.com/album/7yODbiINdSz2H5ICkTHSsH"
-      },
-      "artists": [
-        {
-          "name": "The Inklings",
-          "url": "https://open.spotify.com/artist/7acymkigVyBGh1cWbcBGu2"
-        }
-      ],
-      "duration_ms": 223190,
-      "name": "Stirring The Well",
-      "url": "https://open.spotify.com/track/0x19iWenVzDAvA7rRkWDq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/283RJx5I0CAexOnrNvPAlK"
-      },
-      "artists": [
-        {
-          "name": "Uppercut",
-          "url": "https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA"
-        }
-      ],
-      "duration_ms": 211598,
-      "name": "I Own Ya",
-      "url": "https://open.spotify.com/track/57vCsCkZQpbAp2Mp73wgam"
+      "duration_ms": 180929,
+      "name": "70's Challenger",
+      "url": "https://open.spotify.com/track/5Wleza88SDYKfLK9xnjD5z"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264507,
+  "num_followers": 264500,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADyGYBPwg7cBKkzXNrQQQAS",
+  "snapshot_id": "au5qAAAAAAD61hre/rRn7CK3zsh54Ndy",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virado No Pagode (Ao Vivo)",
         "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 180755,
       "name": "Mem\u00f3rias - Ao Vivo",
       "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,
@@ -842,11 +842,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 130446,
-      "name": "INTERE$$EIRA",
-      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -918,15 +922,11 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
+      "duration_ms": 130446,
+      "name": "INTERE$$EIRA",
+      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
     },
     {
       "added_at": null,

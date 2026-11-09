@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Belle Frantz
 
-1,692 songs - 4 day 9 hr 36 min
+1,693 songs - 4 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Good Plans](https://open.spotify.com/track/7kuOL4VysvTXtoPnq6FASL) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Almighty](https://open.spotify.com/album/7ifK9JuKd1DOepCcPW7MVy) | 2:55 | 2025-11-15 | 2026-02-21 |
 | [Good Woman](https://open.spotify.com/track/0HygZvNlBcHgLfqQxlwdcN) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Good Woman](https://open.spotify.com/album/4RLMo2rEWRHFyTYsDmMDjB) | 4:02 | 2025-12-06 | 2026-02-21 |
 | [GOODBYE 2 OLD ME](https://open.spotify.com/track/4bqSz8o52LIAEO4l5FDshO) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [GOODBYE 2 OLD ME](https://open.spotify.com/album/5wKs7EtlFsXVuptRgqpQ86) | 2:44 | 2026-08-21 | 2026-08-28 |
+| [Goodness and Mercy](https://open.spotify.com/track/31DUyfD9qtoppFn5ZGi9u7) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Goodness and Mercy](https://open.spotify.com/album/1xIDWiC33BKaZbMkGghKky) | 2:13 | 2026-11-06 |  |
 | [Goodness Of God](https://open.spotify.com/track/1fULkl8RUcX9DIKZB9SXgP) | [Alexis Arai](https://open.spotify.com/artist/1R4eSpkZ0vh2zRI3I4E6Fw) | [Mariachi Revival](https://open.spotify.com/album/6zJnNPPt2xIHjdjaQiZPSg) | 3:33 | 2026-02-20 | 2026-04-05 |
 | [Goodness of God](https://open.spotify.com/track/4PG3s4ZlAlyuVtEgchiULw) | [Travis Clark](https://open.spotify.com/artist/4GdxPCUc1CXEoynATy6qe5) | [Goodness of God](https://open.spotify.com/album/7yMhzt8bzZZnPNEvxyHYls) | 3:27 | 2025-09-14 | 2025-11-16 |
 | [Goodness of God \- Acoustic](https://open.spotify.com/track/5OgRwCiLOZpiCAfvR8Ai3t) | [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/7q0W2Fse5Qoxki1X7uauhv) | 4:25 | 2026-04-17 | 2026-05-20 |
@@ -1244,7 +1245,7 @@
 | [Seasons](https://open.spotify.com/track/2MYKXvRqa18XmywqUYk2AK) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Seasons](https://open.spotify.com/album/5gWXHbZV4b5w2Oij4k7YMl) | 2:20 | 2026-02-20 | 2026-04-05 |
 | [Seasons](https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Seasons](https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN) | 3:01 | 2026-04-17 | 2026-05-20 |
 | [Second Choice](https://open.spotify.com/track/0DGE97K3VL2EBbPoM7n2yk) | [Abigail Hope](https://open.spotify.com/artist/4By8kZOqd9ZIv1IpJNt36g) | [Second Choice](https://open.spotify.com/album/76I1449onuQZeu9TVftDbV) | 2:40 | 2026-06-19 | 2026-07-18 |
-| [Second to None \- Live](https://open.spotify.com/track/6m5Zvd5HznelUUzLiZ0UQx) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI) | [Second to None \(Live\)](https://open.spotify.com/album/5T1cjdP76TyCZiFm4QOxnE) | 6:27 | 2026-11-06 |  |
+| [Second to None \- Live](https://open.spotify.com/track/6m5Zvd5HznelUUzLiZ0UQx) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI) | [Second to None \(Live\)](https://open.spotify.com/album/5T1cjdP76TyCZiFm4QOxnE) | 6:27 | 2026-11-06 | 2026-11-09 |
 | [Secret Place](https://open.spotify.com/track/5JQ1uGXqZSbEnabW64psrB) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Secret Place](https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4) | 5:07 | 2022-05-27 | 2024-06-08 |
 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 | 2022-05-27 | 2022-10-30 |
 | [Seek Your Face](https://open.spotify.com/track/7zklUez8gfOdWtlro9qMHC) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [Seek Your Face](https://open.spotify.com/album/0mZPFuyDAocJTj3pADq8O5) | 3:42 | 2025-10-06 | 2025-11-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204502,
+  "num_followers": 204531,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAABA7ho4cmER21oojBJCEfFI",
+  "snapshot_id": "au5qAAAAAABdPQY/82o8ZXSNhvxeBXMZ",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not a Regular Person",
+        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Not a Regular Person",
+      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 296011,
       "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not a Regular Person",
-        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Not a Regular Person",
-      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
     },
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOWN FOR REAL",
-        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
       "artists": [
         {
-          "name": "Victor Victor Presents",
-          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 182084,
-      "name": "DOWN FOR REAL",
-      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
+      "duration_ms": 128769,
+      "name": "WAKA (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
     },
     {
       "added_at": null,
@@ -543,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMMY BOY (Revised)",
-        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+        "name": "DOWN FOR REAL",
+        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
       },
       "artists": [
         {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 128769,
-      "name": "WAKA (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
+      "duration_ms": 182084,
+      "name": "DOWN FOR REAL",
+      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 163655,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/14RRHdmfjGPhuWBhkl4Ne4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scriptures",
         "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 163655,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/14RRHdmfjGPhuWBhkl4Ne4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205702,
-      "name": "24 Hours (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TBA",
         "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 184000,
       "name": "Timeless (feat. DJ SPINKING)",
       "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Hours (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205702,
+      "name": "24 Hours (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK"
     },
     {
       "added_at": null,
@@ -931,30 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
+        "name": "Catch These Vibes",
+        "url": "https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 158994,
-      "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+      "duration_ms": 210652,
+      "name": "Lovin' (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
     },
     {
       "added_at": null,
@@ -975,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch These Vibes",
-        "url": "https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD"
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
       },
       "artists": [
         {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 210652,
-      "name": "Lovin' (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
+      "duration_ms": 161120,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1xBOg9FFena72UENSE8SDK"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

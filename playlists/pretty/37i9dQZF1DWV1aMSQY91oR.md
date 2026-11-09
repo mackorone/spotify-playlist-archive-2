@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,079 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,094 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 11 | [The Calm](https://open.spotify.com/track/2rlSN15GgsHZ1oT5EdQSfk) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [The Calm](https://open.spotify.com/album/0hIUOteR2XPKT11weRpjh3) | 2:35 |
 | 12 | [City](https://open.spotify.com/track/5qhskGL06gUWmpvvoggkkj) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [City](https://open.spotify.com/album/0Kuun2ZAkgyHmb8sjrwxiK) | 3:14 |
 | 13 | [LOCKED IN \(feat\. Nono La Grinta\)](https://open.spotify.com/track/2zEijNLi5hVvLXiHCgbsqu) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2AaIiX1EeyiFR8ayOtVOfZ) | 2:19 |
-| 14 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 14 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 15 | [Useless](https://open.spotify.com/track/3jjZPJF0yWPqtA4H7xUn3L) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [Useless](https://open.spotify.com/album/7d3jar5PO8Gom2OcHQddBI) | 2:25 |
 | 16 | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Just Doin Me](https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf) | 3:44 |
 | 17 | [Searching for the Truth](https://open.spotify.com/track/3ih8FWHpuCve7aIzWOx8hK) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Rolling Stone P](https://open.spotify.com/artist/47Y9hBWUVAsgTELeIv5ROJ) | [\#ZEDDY](https://open.spotify.com/album/45iPFntKinxMxZIJmcsEc0) | 3:06 |

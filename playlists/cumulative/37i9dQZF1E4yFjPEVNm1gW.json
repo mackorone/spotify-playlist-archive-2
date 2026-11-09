@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Internet Reaper",
+        "url": "https://open.spotify.com/album/51sSRdJKryAZpx52RqiiB7"
+      },
+      "artists": [
+        {
+          "name": "Punchmade Dev",
+          "url": "https://open.spotify.com/artist/4YIj5zh0m0Qp2zIC01bfny"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94691,
+      "name": "Any Scam",
+      "url": "https://open.spotify.com/track/1QcbMivjWkIVOx1PRT5JQt"
+    },
+    {
+      "album": {
         "name": "Bloody Bruddas",
         "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 141176,
       "name": "Baked Up (Ur Mom)",
       "url": "https://open.spotify.com/track/6QBdg2rafLrbHLPPAabKDn"
@@ -1159,6 +1177,50 @@
     },
     {
       "album": {
+        "name": "Combat Evolved",
+        "url": "https://open.spotify.com/album/3gM69FUKdtNxYXGu1Ma0GO"
+      },
+      "artists": [
+        {
+          "name": "Kuh-Leeb",
+          "url": "https://open.spotify.com/artist/2p6JP9zrUn6PoaAjQJUFVx"
+        },
+        {
+          "name": "coldpizza",
+          "url": "https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj"
+        },
+        {
+          "name": "Isaac Thursday",
+          "url": "https://open.spotify.com/artist/3hFbkmmvCDSLXssPFQxE6R"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Combat Evolved",
+      "url": "https://open.spotify.com/track/0XoNUGweUqznILmpnQSPFo"
+    },
+    {
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3U2pn1m7sYr18GaMAYfhAx"
+      },
+      "artists": [
+        {
+          "name": "Blockwork",
+          "url": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155061,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/3WChX0Pyw22WpklNRvlIhq"
+    },
+    {
+      "album": {
         "name": "Sanity Evaded",
         "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
       },
@@ -1648,7 +1710,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -6062,7 +6124,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"

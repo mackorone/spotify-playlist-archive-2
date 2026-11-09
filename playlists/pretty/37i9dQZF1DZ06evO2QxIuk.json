@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376723,
+  "num_followers": 376725,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAC+vCf4F8+DT7wNOmh8xs0z",
+  "snapshot_id": "au5qAAAAAAD3aH2d8pyWxuj3L724PIzM",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head To The Sky",
         "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 356373,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way (feat. Raphael Saadiq)",
-      "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel - Music From And Inspired By The Motion Picture",
         "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 389973,
       "name": "September/The Joker",
       "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 467733,
+      "name": "Show Me the Way (feat. Raphael Saadiq)",
+      "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
     },
     {
       "added_at": null,

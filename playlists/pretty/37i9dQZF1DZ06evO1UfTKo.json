@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 776301,
+  "num_followers": 776353,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABgzh74dyBcDYq5BUWaQHcg",
+  "snapshot_id": "au5qAAAAAAAfH+jgU6ep11YGlLiW3a0j",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Como Aceite Y Como El Agua",
-      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jefe De Jefes",
-        "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
       },
       "artists": [
         {
@@ -548,9 +532,25 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 186986,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/1OyprjzxOmzRQ7YbsCOgPJ"
+      "duration_ms": 207866,
+      "name": "Como Aceite Y Como El Agua",
+      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
+      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia De Familia",
-        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+        "name": "Jefe De Jefes",
+        "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 240226,
-      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
-      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
+      "duration_ms": 186986,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/1OyprjzxOmzRQ7YbsCOgPJ"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 155920,
+      "name": "Infiel Por Amor",
+      "url": "https://open.spotify.com/track/5X4TbZ0Gs0AAX042xAkejg"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 155920,
-      "name": "Infiel Por Amor",
-      "url": "https://open.spotify.com/track/5X4TbZ0Gs0AAX042xAkejg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Del Sur",
-        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "La Reina Del Sur",
-      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216080,
       "name": "La Sorpresa",
       "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reina Del Sur",
+        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "La Reina Del Sur",
+      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incansables",
-        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Cuando Se Llega A Viejo",
-      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias Que Contar",
         "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 205506,
       "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
       "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incansables",
+        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Cuando Se Llega A Viejo",
+      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
     },
     {
       "added_at": null,

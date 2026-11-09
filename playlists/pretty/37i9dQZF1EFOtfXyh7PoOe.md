@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892 likes - 137 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 892 likes - 138 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 19 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 |
 | 20 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:26 |
 | 21 | [Magic](https://open.spotify.com/track/6KFhu3gk0whUnGCeOjkL8A) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:39 |
-| 22 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
-| 23 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 |
+| 22 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 |
+| 23 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
 | 24 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 |
 | 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
 | 26 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
@@ -126,24 +126,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 116 | [Bloom](https://open.spotify.com/track/4o2l1LkywlBL1mnhT8aAhV) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/4QyS5vbTlQXnVJQlAfbdfS) | 2:49 |
 | 117 | [18](https://open.spotify.com/track/4QZeKxBpLwZjqS0CYSShc6) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:20 |
 | 118 | [alone at the party](https://open.spotify.com/track/0YO7moiEboCUBDFf0hefSk) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:08 |
-| 119 | [Tiny Voice](https://open.spotify.com/track/3nvzJUiZ0uQvZx8Y9tcVmR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Tiny Voice](https://open.spotify.com/album/2nZojnkjAvIcAuzJXS9uPu) | 2:20 |
-| 120 | [Abis](https://open.spotify.com/track/1e5mY88sxeyor4BlNAmHaF) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [MAZZA MEZE](https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul) | 3:13 |
-| 121 | [Sorry Daniel](https://open.spotify.com/track/7kluw2d1pXKY8qXrLDhBPz) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:14 |
-| 122 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 |
-| 123 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
-| 124 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
-| 125 | [Boring!](https://open.spotify.com/track/4gNq9nu09xtyJ0wzlBbbTN) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Boring!](https://open.spotify.com/album/3l08XOvlLr4osGTSXX8xeQ) | 2:38 |
-| 126 | [B Side](https://open.spotify.com/track/2XvH31W7YcpuucT8Whpysk) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [B Side](https://open.spotify.com/album/3CzHO9MqBDnDPBBBtUfdYE) | 3:06 |
-| 127 | [Dear Future Lover](https://open.spotify.com/track/4jxRhpP155IQej01WSLBfa) | [William Chan](https://open.spotify.com/artist/0lTHF5hgNUeMetVJEBWwvx) | [Dear Future Lover](https://open.spotify.com/album/6OGO9961SlvI3k0uVdwEL2) | 2:46 |
-| 128 | [Alright For Now](https://open.spotify.com/track/1mtP0j7jW7ItT0ZgJz1313) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:49 |
-| 129 | [Flame Princess](https://open.spotify.com/track/4hMh7NnIllO5HxkTJtbIjG) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Flame Princess](https://open.spotify.com/album/6VqvodNkoL0C6DNu0wENXh) | 2:33 |
-| 130 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 |
-| 131 | [Good Luck](https://open.spotify.com/track/3zkCJ7q1xabET6Q2GMi3ND) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Good Luck](https://open.spotify.com/album/1bzhRkHXfFic3ZXK2W7h7n) | 2:45 |
-| 132 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 |
-| 133 | [Happy](https://open.spotify.com/track/4o0gKIu444E0FvzORvAyDL) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Happy](https://open.spotify.com/album/6h1ja8BFO1R6qn6Sn8JE6B) | 2:11 |
-| 134 | [Beachgrass](https://open.spotify.com/track/2ynphd4vC8CuUnjXFS3TUv) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1asocHI7DZqv6yvGnFCRz1) | 2:39 |
-| 135 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
-| 136 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
-| 137 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
+| 119 | [Water](https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Water](https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu) | 3:04 |
+| 120 | [Tiny Voice](https://open.spotify.com/track/3nvzJUiZ0uQvZx8Y9tcVmR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Tiny Voice](https://open.spotify.com/album/2nZojnkjAvIcAuzJXS9uPu) | 2:20 |
+| 121 | [Abis](https://open.spotify.com/track/1e5mY88sxeyor4BlNAmHaF) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [MAZZA MEZE](https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul) | 3:13 |
+| 122 | [Sorry Daniel](https://open.spotify.com/track/7kluw2d1pXKY8qXrLDhBPz) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:14 |
+| 123 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 |
+| 124 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
+| 125 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 |
+| 126 | [Boring!](https://open.spotify.com/track/4gNq9nu09xtyJ0wzlBbbTN) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Boring!](https://open.spotify.com/album/3l08XOvlLr4osGTSXX8xeQ) | 2:38 |
+| 127 | [B Side](https://open.spotify.com/track/2XvH31W7YcpuucT8Whpysk) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [B Side](https://open.spotify.com/album/3CzHO9MqBDnDPBBBtUfdYE) | 3:06 |
+| 128 | [Dear Future Lover](https://open.spotify.com/track/4jxRhpP155IQej01WSLBfa) | [William Chan](https://open.spotify.com/artist/0lTHF5hgNUeMetVJEBWwvx) | [Dear Future Lover](https://open.spotify.com/album/6OGO9961SlvI3k0uVdwEL2) | 2:46 |
+| 129 | [Alright For Now](https://open.spotify.com/track/1mtP0j7jW7ItT0ZgJz1313) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:49 |
+| 130 | [Flame Princess](https://open.spotify.com/track/4hMh7NnIllO5HxkTJtbIjG) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Flame Princess](https://open.spotify.com/album/6VqvodNkoL0C6DNu0wENXh) | 2:33 |
+| 131 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 |
+| 132 | [Good Luck](https://open.spotify.com/track/3zkCJ7q1xabET6Q2GMi3ND) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Good Luck](https://open.spotify.com/album/1bzhRkHXfFic3ZXK2W7h7n) | 2:45 |
+| 133 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 |
+| 134 | [Happy](https://open.spotify.com/track/4o0gKIu444E0FvzORvAyDL) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Happy](https://open.spotify.com/album/6h1ja8BFO1R6qn6Sn8JE6B) | 2:11 |
+| 135 | [Beachgrass](https://open.spotify.com/track/2ynphd4vC8CuUnjXFS3TUv) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1asocHI7DZqv6yvGnFCRz1) | 2:39 |
+| 136 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
+| 137 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
+| 138 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AchEGgAAAAA8qBHzKnI+ZZn5j4/aQ5yJ`
+Snapshot ID: `AchJ9gAAAADG9Zw+bUjFL1miJf2+FUSq`

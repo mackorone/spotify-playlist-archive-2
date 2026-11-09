@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-491 songs - 22 hr 42 min
+492 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bakis](https://open.spotify.com/track/62RJOw42SeLh4wdPyIJQPw) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Bakis](https://open.spotify.com/album/3gH0m1q8ULRoBMNU8DS45H) | 3:25 | 2022-03-10 | 2022-05-30 |
 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 | 2026-03-15 |
 | [Balladen om Morgan Kane](https://open.spotify.com/track/6mdY8t48E0adwWPOEt1tSS) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Fri som fuglen](https://open.spotify.com/album/2tC4KKNpTxONyjF3LYJ6F5) | 3:51 | 2022-03-31 | 2022-04-20 |
+| [Banens beste på bar \(Fast inventar\)](https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW) | [Sebb Ottesen](https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ) | [Banens beste på bar](https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM) | 3:23 | 2026-11-05 |  |
 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 |  |
 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 | 2026-04-09 |
 | [Bare så du vett det](https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Stavangerkameratene](https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk) | 3:30 | 2022-07-28 | 2024-02-09 |
@@ -479,7 +480,7 @@
 | [Vi tar det igjen neste år](https://open.spotify.com/track/0xwR5vB4PYsfBgWhTSXpXV) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Vi tar det igjen neste år](https://open.spotify.com/album/5TdfrM5ed5gG9sX4k06PoZ) | 3:00 | 2021-12-16 | 2022-10-16 |
 | [Vi trenger ikke preke om det](https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi trenger ikke preke om det](https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u) | 2:20 | 2026-01-08 |  |
 | [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 | 2026-10-01 |  |
-| [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 |  |
+| [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 | 2026-11-09 |
 | [Vill ha dig](https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t) | [Vill ha dig](https://open.spotify.com/album/5xYfkDkUxtuCL6jhUPpnZ7) | 3:13 | 2022-01-06 | 2022-07-25 |
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |
 | [VÄRDELÖS](https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [VÄRDELÖS](https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB) | 2:05 | 2023-08-03 | 2023-08-11 |

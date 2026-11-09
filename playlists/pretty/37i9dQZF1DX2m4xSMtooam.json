@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 406842,
+  "num_followers": 406982,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -407,38 +407,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Sobre o oceano",
-        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 170259,
-      "name": "Sobre o oceano",
-      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Sombra La Lua",
-        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
-      },
-      "artists": [
-        {
-          "name": "Billie Shaw",
-          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
-        }
-      ],
-      "duration_ms": 226468,
-      "name": "Sombra La Lua",
-      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -459,6 +427,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Sobre o oceano",
+        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Sobre o oceano",
+      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 324520,
       "name": "O Que Sera?",
       "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Sombra La Lua",
+        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "duration_ms": 226468,
+      "name": "Sombra La Lua",
+      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Liljeholmsviken",
-        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 262408,
-      "name": "Liljeholmsviken",
-      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Jazz + Bossa",
         "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 187613,
       "name": "In a mellow tone",
       "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Way Down Low",
         "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Fim do ver\u00e3o",
         "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 232866,
       "name": "Bossy Nova",
       "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Florian\u00f3polis",
-        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+        "name": "Florian\u00f3polis",
+        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
       },
       "artists": [
         {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
         }
       ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+      "duration_ms": 190500,
+      "name": "Florian\u00f3polis",
+      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -935,6 +919,22 @@
       "duration_ms": 293280,
       "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Lullaby for Dreaming",
-        "url": "https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge"
-      },
-      "artists": [
-        {
-          "name": "Alex Bird",
-          "url": "https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB"
-        },
-        {
-          "name": "Ewen Farncombe",
-          "url": "https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 174561,
-      "name": "Lullaby for Dreaming",
-      "url": "https://open.spotify.com/track/2jh30POVfh10M3JAgNXOBL"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1311,6 +1287,30 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Lullaby for Dreaming",
+        "url": "https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge"
+      },
+      "artists": [
+        {
+          "name": "Alex Bird",
+          "url": "https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB"
+        },
+        {
+          "name": "Ewen Farncombe",
+          "url": "https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 174561,
+      "name": "Lullaby for Dreaming",
+      "url": "https://open.spotify.com/track/2jh30POVfh10M3JAgNXOBL"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "That\u2019s your heart",
         "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Lonely Desires",
         "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 161860,
       "name": "Lonely Desires",
       "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Anita's Dream",
-        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
-      },
-      "artists": [
-        {
-          "name": "Joe Wilson Trio",
-          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
-        }
-      ],
-      "duration_ms": 187993,
-      "name": "Anita's Dream",
-      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Santa Tereza",
         "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 226924,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Anita's Dream",
+        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "duration_ms": 187993,
+      "name": "Anita's Dream",
+      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Milky Way",
-        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 211037,
-      "name": "The Milky Way",
-      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Effortlessly",
         "url": "https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 297653,
       "name": "Effortlessly",
       "url": "https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "The Milky Way",
+        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 211037,
+      "name": "The Milky Way",
+      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
-      },
-      "artists": [
-        {
-          "name": "Hiro Suzuki",
-          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
-        }
-      ],
-      "duration_ms": 420811,
-      "name": "Vespertine",
-      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Floripa",
         "url": "https://open.spotify.com/album/3Z7vrabrKS7jf4arzq0m3t"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 238163,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/3rIYiMtqjyHj8P12mPi4pI"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+      },
+      "artists": [
+        {
+          "name": "Hiro Suzuki",
+          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+        }
+      ],
+      "duration_ms": 420811,
+      "name": "Vespertine",
+      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Valentine Sessions",
-        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
+        "name": "Neve e Saudade",
+        "url": "https://open.spotify.com/album/6JwRvxDtgkw2TRoaysaAhQ"
       },
       "artists": [
         {
-          "name": "Matt Rollings",
-          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
+          "name": "Caf\u00e9 Estocolmo",
+          "url": "https://open.spotify.com/artist/2N7hxUQfGg3pdToFhkqddd"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Small Bossa",
-      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
+      "duration_ms": 158794,
+      "name": "Neve e Saudade",
+      "url": "https://open.spotify.com/track/6YMwBMaBfrTK2WUVn8VayJ"
     }
   ],
   "unique_name": "Bossa Chill",

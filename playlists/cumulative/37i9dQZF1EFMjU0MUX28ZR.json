@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "FINAL GIRL",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186553,
+      "name": "do the math",
+      "url": "https://open.spotify.com/track/3as1sArL4Uwtf6JxaEm3Kx"
+    },
+    {
+      "album": {
         "name": "do the math",
         "url": "https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR"
       },
@@ -652,7 +670,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 186553,
       "name": "do the math",
       "url": "https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8"
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 162973,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/46oYNSOKeoaQ5arxVaYAjt"
@@ -2338,6 +2356,24 @@
       "duration_ms": 162973,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/5c8PhRr7kcacpLJTfH5bZ5"
+    },
+    {
+      "album": {
+        "name": "Butterflies In My Head",
+        "url": "https://open.spotify.com/album/74luwDXlGZxoWauo9xccVn"
+      },
+      "artists": [
+        {
+          "name": "Mark Diamond",
+          "url": "https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/64IXOB2K7L9zgsnLgCvBJb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Lil Baby on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,976 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,003 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 45 | [Perfect](https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Perfect](https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs) | 3:49 |
 | 46 | [Texas in Flaming Tongues](https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 4:03 |
 | 47 | [DISTANCE](https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [DISTANCE](https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK) | 2:12 |
-| 48 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 48 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 49 | [Mother Never Told You](https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh) | 2:59 |
 | 50 | [Heat](https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [N.Y\. Baby](https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc) | 3:28 |
 | 51 | [Water](https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Water](https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu) | 3:04 |

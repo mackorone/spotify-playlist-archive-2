@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazón Serrano, Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,470 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,513 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 34 | [Luna Bonita](https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Solo Hay Una...!](https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW) | 3:33 |
 | 35 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 |
 | 36 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
-| 37 | [Loco Corazón](https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:16 |
-| 38 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 |
+| 37 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 |
+| 38 | [Loco Corazón](https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:16 |
 | 39 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 40 | [Propiedad Privada](https://open.spotify.com/track/4ryB3aHkRLR6Dao9xf7bCh) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Viva el Amor](https://open.spotify.com/album/6eXODfz6udhAGxmRNieHBn) | 3:33 |
 | 41 | [Pidiendo perdón](https://open.spotify.com/track/5ANrUD8Sl6rwq11zBygjZ6) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Pidiendo perdón](https://open.spotify.com/album/1z3p0PQHLiiRo1gP9yrdtS) | 3:17 |

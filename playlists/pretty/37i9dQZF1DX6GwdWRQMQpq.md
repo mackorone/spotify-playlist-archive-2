@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla & Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267,884 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,922 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 9 | [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 |
 | 10 | [Tina Tuesday](https://open.spotify.com/track/6cfxALbtuiIRdrfWCEDGvK) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Tuesday Freestyles](https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop) | 1:50 |
 | 11 | [Nobody \(feat\. Monaleo\) \- Remix](https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Nobody \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9) | 2:29 |
-| 12 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 12 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 13 | [POP DAT THANG \(feat\. GloRilla, Yung Miami & YKNIECE\) \- Official Remix](https://open.spotify.com/track/5tfpyQ5BVk6NoVxPoeZ7Eq) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [POP DAT THANG \(feat\. GloRilla, Yung Miami & YKNIECE\) \[Official Remix\]](https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1) | 3:55 |
 | 14 | [Spoil Myself](https://open.spotify.com/track/1Xrt390iOwVF78hcAKo8ix) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love 304s](https://open.spotify.com/album/17525Qh1kJxVYWVSBYJB1h) | 2:32 |
 | 15 | [Just Might Go \(feat\. Travis Scott\)](https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Watch Dis!](https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j) | 3:32 |

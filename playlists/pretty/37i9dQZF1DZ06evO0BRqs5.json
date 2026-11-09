@@ -1,12 +1,12 @@
 {
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21872,
+  "num_followers": 21873,
   "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADrEOeNjfYXT0bQ3TeWWPzk",
+  "snapshot_id": "au5qAAAAAAAk3bAJwyWzOkIdORIOK3dE",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 291746,
-      "name": "\u30a2\u30ab\u30c4\u30ad",
-      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
+      "duration_ms": 269253,
+      "name": "Close Friend",
+      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 269253,
-      "name": "Close Friend",
-      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
+      "duration_ms": 291746,
+      "name": "\u30a2\u30ab\u30c4\u30ad",
+      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,716 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,726 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [The Body of an American](https://open.spotify.com/track/0ssRHJddqgoCbkzUIp7wUx) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [The Body of an American](https://open.spotify.com/album/0iaPQBQimR1fOSV9RajVnK) | 4:18 |
 | 50 | [Famous For Nothing](https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 2:46 |
 
-Snapshot ID: `au0YgAAAAADxt8NQf0Zyo2x95IkB14KR`
+Snapshot ID: `au5qAAAAAAAhfQHBgB5R8kJQiP1PhoXd`

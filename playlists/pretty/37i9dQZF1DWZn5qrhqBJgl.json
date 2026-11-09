@@ -1,6 +1,6 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 137771,
+  "num_followers": 137780,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Glazed",
-        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 195353,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Glazed",
+        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Draai Je Om",
+        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "duration_ms": 194984,
+      "name": "Draai Je Om - Instrumental",
+      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 152213,
       "name": "Palms",
       "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Draai Je Om",
-        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 194984,
-      "name": "Draai Je Om - Instrumental",
-      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
     },
     {
       "added_at": "2022-03-22 11:23:16",

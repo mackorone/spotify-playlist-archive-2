@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420909,
+  "num_followers": 420928,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "MAIS FORTE QUE A D\u00daVIDA",
-        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "ANA",
-      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
         "name": "Oh! Chuva (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 194771,
       "name": "Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
+        "name": "MAIS FORTE QUE A D\u00daVIDA",
+        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 206171,
+      "name": "ANA",
+      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
         "name": "Meu Jeito de Ser",
         "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 176470,
       "name": "Meu Jeito de Ser",
       "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
         "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
         "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 249864,
       "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
       "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2026-10-19 15:46:22",

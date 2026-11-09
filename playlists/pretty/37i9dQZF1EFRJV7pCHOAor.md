@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819 likes - 226 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 820 likes - 226 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 137 | [Still In Love](https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [CTV3: Day Tripper's Edition](https://open.spotify.com/album/0sTsD2n8TsSpIGZhFsCXeS) | 3:25 |
 | 138 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
 | 139 | [She Think](https://open.spotify.com/track/5yzTMBpElOOx4lOsxtObLw) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Janktape Vol\. 1](https://open.spotify.com/album/2PsuKIMWPQemQhz503zvop) | 2:43 |
-| 140 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
-| 141 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 140 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 141 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 142 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
 | 143 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
 | 144 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 196 | [Shirtless](https://open.spotify.com/track/0tc4nG3aXZCMMx99utMBjK) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:21 |
 | 197 | [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 |
 | 198 | [All I've Seen](https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c) | [Evanora Unlimited](https://open.spotify.com/artist/71SAxqRLYirlXRiHsIAuJT) | [All I've Seen](https://open.spotify.com/album/1VNxFcmWwIugXgHTb2UiRx) | 3:19 |
-| 199 | [Hate To Love](https://open.spotify.com/track/6AKfXzefuSM5wuInFiFL4p) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:13 |
-| 200 | [Crypto](https://open.spotify.com/track/3lrg0lt2WUlRZEENVWIVxc) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:40 |
+| 199 | [Crypto](https://open.spotify.com/track/3lrg0lt2WUlRZEENVWIVxc) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:40 |
+| 200 | [Hate To Love](https://open.spotify.com/track/6AKfXzefuSM5wuInFiFL4p) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:13 |
 | 201 | [I Don't Wanna Talk About it](https://open.spotify.com/track/7DA4T3YygOgn4jjMEwXy82) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 2:14 |
 | 202 | [Static](https://open.spotify.com/track/4aiSHckhEYhGLmcevQqBex) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 4:04 |
 | 203 | [天上人間](https://open.spotify.com/track/3ktXXlX4PVuTPHSGVJ8BRu) | [Fei Yu\-ching](https://open.spotify.com/artist/6aSJ9LaNaHOKiPchLDYGYl) | [風華再現](https://open.spotify.com/album/0wFQ93eu4mayfjw9CKw9OV) | 3:43 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 225 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 226 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AchEGgAAAACVtqbFpj4WJqB5nfXgdKDX`
+Snapshot ID: `AchJ9gAAAAAxCuMkx20j9zb8e0wDvLpA`

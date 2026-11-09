@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298093,
+  "num_followers": 298075,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2026-11-05 23:00:19",
       "album": {
-        "name": "I Love Life (feat. RANI)",
-        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "I Love Life (feat. RANI)",
-      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:19",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 216000,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+    },
+    {
+      "added_at": "2026-11-05 23:00:19",
+      "album": {
+        "name": "I Love Life (feat. RANI)",
+        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "I Love Life (feat. RANI)",
+      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
     },
     {
       "added_at": "2026-11-05 23:00:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-11-05 23:00:19",
       "album": {
+        "name": "Departures & Arrivals: Adventures of Captain Curt",
+        "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "added_at": "2026-11-05 23:00:19",
+      "album": {
         "name": "All the Space Between",
         "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-11-05 23:00:19",
       "album": {
-        "name": "Departures & Arrivals: Adventures of Captain Curt",
-        "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
+        "name": "Rendez-vous avec toi / Rendez-vous in your arms",
+        "url": "https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 221333,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+      "duration_ms": 252146,
+      "name": "Rendez-vous avec toi",
+      "url": "https://open.spotify.com/track/7hRlKQepxO18TKr5DreeET"
     },
     {
       "added_at": "2026-11-05 23:00:19",
@@ -763,22 +779,6 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-11-05 23:00:19",
-      "album": {
-        "name": "Rendez-vous avec toi / Rendez-vous in your arms",
-        "url": "https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Rendez-vous avec toi",
-      "url": "https://open.spotify.com/track/7hRlKQepxO18TKr5DreeET"
     },
     {
       "added_at": "2026-11-05 23:00:19",

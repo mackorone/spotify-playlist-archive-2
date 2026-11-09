@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,306 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,307 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 49 | [Remember](https://open.spotify.com/track/29NKnVIVnrlzhTeZ2A9DVf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 3:41 |
 | 50 | [dot](https://open.spotify.com/track/4NUxm2fWxBe7bbgmhWJftm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [dot](https://open.spotify.com/album/3cGWSm2yxbSMnrtkuO9CXq) | 4:38 |
 
-Snapshot ID: `au0YgAAAAADNhVgopNSQnGxFhSGN9A/d`
+Snapshot ID: `au5qAAAAAADil80PniSa0oACD32+NCXS`

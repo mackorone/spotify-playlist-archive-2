@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1241,
+  "num_followers": 1242,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADJCROwrJts49erqGiwmZce",
+  "snapshot_id": "au5qAAAAAABbxO0So7D8NXmUYZuCMxOu",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
+      "duration_ms": 224306,
+      "name": "Your Heavy Heart",
+      "url": "https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 224306,
-      "name": "Your Heavy Heart",
-      "url": "https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F"
+      "duration_ms": 252733,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/60oyH3TQwzSRCJ8kgFqwPp"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/60oyH3TQwzSRCJ8kgFqwPp"
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
       "added_at": null,

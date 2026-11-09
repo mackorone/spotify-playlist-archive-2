@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2181055,
+  "num_followers": 2181070,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Frozen Flashes",
-        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 246957,
-      "name": "Place of Two",
-      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "I'm Just a Lucky So and So",
         "url": "https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 488693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 246957,
+      "name": "Place of Two",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Where moments wait",
-        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 204198,
-      "name": "Where moments wait",
-      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Woodwind",
         "url": "https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 320240,
       "name": "Woodwind",
       "url": "https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Standard time volume 3: The revolution of romance",
-        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Tango for One",
         "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 264248,
       "name": "Tango for One",
       "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Standard time volume 3: The revolution of romance",
+        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "The Peacocks",
+        "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
+      },
+      "artists": [
+        {
+          "name": "John Engels",
+          "url": "https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce"
+        },
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Joris Teepe",
+          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
+        }
+      ],
+      "duration_ms": 189673,
+      "name": "The Peacocks - Single Edit",
+      "url": "https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
       },
@@ -1059,30 +1083,6 @@
       "duration_ms": 329600,
       "name": "Ballad Of The Sad Young Men",
       "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "The Peacocks",
-        "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
-      },
-      "artists": [
-        {
-          "name": "John Engels",
-          "url": "https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce"
-        },
-        {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Joris Teepe",
-          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "The Peacocks - Single Edit",
-      "url": "https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "Collblanc",
+        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
+      },
+      "artists": [
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        }
+      ],
+      "duration_ms": 363818,
+      "name": "Collblanc",
+      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/7bhEtYBjzcFqV1OBLHxuVB"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 286080,
       "name": "Lullaby in Green",
       "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "Collblanc",
-        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
-      },
-      "artists": [
-        {
-          "name": "Joe Webb",
-          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
-        }
-      ],
-      "duration_ms": 363818,
-      "name": "Collblanc",
-      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1519,6 +1519,34 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "Comme un \u00e9cho lointain",
+        "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Comme un \u00e9cho lointain",
+      "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "When Sunny Smiles",
         "url": "https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl"
       },
@@ -1555,34 +1583,6 @@
       "duration_ms": 357734,
       "name": "Ballad For Bernt",
       "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "Comme un \u00e9cho lointain",
-        "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Comme un \u00e9cho lointain",
-      "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "Round Midnight",
         "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
       },
@@ -1735,38 +1751,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Trust and Honesty",
-        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 278182,
-      "name": "Designs",
-      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
-      },
-      "artists": [
-        {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 427213,
       "name": "Out of Sight, Out of Mind",
       "url": "https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Trust and Honesty",
+        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 278182,
+      "name": "Designs",
+      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
     },
     {
       "added_at": "2026-11-06 09:59:04",

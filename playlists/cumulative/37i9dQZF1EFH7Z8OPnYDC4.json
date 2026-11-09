@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -10382,10 +10382,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 126360,
       "name": "Wait 'Till You See Him",
       "url": "https://open.spotify.com/track/3UiVOSQ8iFw8xIdaogXsSe"
+    },
+    {
+      "album": {
+        "name": "Movin' With Nancy (2026 Remastered Audio)",
+        "url": "https://open.spotify.com/album/5HA9l5LL6yGfwv4L3D1IMf"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128373,
+      "name": "Wait Till You See Him - 2026 Remastered Edition",
+      "url": "https://open.spotify.com/track/0jHxjYJGxjkuAwZY0DVixn"
     },
     {
       "album": {

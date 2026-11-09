@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,139 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,143 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 27 | [Rocket](https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D) | 3:44 |
 | 28 | [1990](https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:09 |
 | 29 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
-| 30 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
-| 31 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
+| 30 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
+| 31 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
 | 32 | [Oxyballad](https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Oxyballad](https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI) | 2:58 |
 | 33 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
 | 34 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |

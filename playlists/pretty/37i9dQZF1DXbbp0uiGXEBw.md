@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Hoàng Thùy Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,156 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,159 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 37 | [Cảm Nắng \(feat\. Rtee\)](https://open.spotify.com/track/3G5iLqNB7j5MnyzaEXVK3b) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7) | [Cảm Nắng](https://open.spotify.com/album/7hQOfh29P6FdTeSS5N17bG) | 3:48 |
 | 38 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 |
 | 39 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
-| 40 | [Vẫn Tin Vào Ngọt Ngào](https://open.spotify.com/track/7CWhPNVslfMmoobu9RUrke) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Vẫn Tin Vào Ngọt Ngào](https://open.spotify.com/album/0P03XHLAiirJJE9ZYf6n7S) | 3:54 |
+| 40 | [Vẫn Tin Vào Ngọt Ngào](https://open.spotify.com/track/7CWhPNVslfMmoobu9RUrke) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Vẫn Tin Vào Ngọt Ngào](https://open.spotify.com/album/0P03XHLAiirJJE9ZYf6n7S) | 3:49 |
 | 41 | [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Hương Tràm](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 |
 | 42 | [gentle, baby](https://open.spotify.com/track/6PW5zvbS8vBsEmDVqYyIfW) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [gentle, baby](https://open.spotify.com/album/3gRIUPt8tKYf3i64N8Ku73) | 3:31 |
 | 43 | [không lời](https://open.spotify.com/track/4sUO0zmF9LZL1XNe1LjHvV) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [không lời](https://open.spotify.com/album/2PjaqoehMZIbSElnjllie2) | 3:42 |

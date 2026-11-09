@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 188614,
+  "num_followers": 188630,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAACGJrBadxXfYLUtIUMMDJLc",
+  "snapshot_id": "au5qAAAAAAAEURtMbv8ep5tQi0ENztw3",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
       },
       "artists": [
         {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+          "name": "Kanito Escalante",
+          "url": "https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+      "duration_ms": 195164,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
     },
     {
       "added_at": null,
@@ -583,30 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cali",
-        "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
       },
       "artists": [
         {
-          "name": "Kanito Escalante",
-          "url": "https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6"
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 195164,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": null,
@@ -955,30 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 41 min
+44 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,14 @@
 | [Don't say “lazy”\(ライブイベント \~Come with Me!!\~Ver.\)](https://open.spotify.com/track/0hhYHcUykRa24dcn9CAEKI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [『けいおん!! ライブイベント \~Come with Me!!\~』LIVE!\(通常盤\)](https://open.spotify.com/album/2CqVt9ORWGhzmC8YMna8h9) | 4:49 | 2025-05-30 |  |
 | [Fude Pen \- Ball Pen \- \- Ep\. 23 "Ho\-Kago!" Mix](https://open.spotify.com/track/7dvTrftVGUgKlQyhxgdtW9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:25 | 2025-05-30 |  |
 | [Fuwa Fuwa Time \- Ep\. 23 "Ho\-Kago!" Mix](https://open.spotify.com/track/4ODRsGI16zffK1S5xn0Iqb) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:30 | 2025-05-31 |  |
-| [Genius...!?](https://open.spotify.com/track/6kj8eDhov1Li8gCwIyHRG9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:29 | 2025-05-30 |  |
-| [Girls in Wonderland](https://open.spotify.com/track/2V69C3QpJcYOjxG7s9NMGy) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 3:34 | 2025-05-30 |  |
+| [Genius...!?](https://open.spotify.com/track/6kj8eDhov1Li8gCwIyHRG9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:29 | 2025-05-30 | 2026-11-09 |
+| [Genius…!?](https://open.spotify.com/track/4y0nUHDbNeLFFlvOcNBLhV) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:29 | 2026-11-09 |  |
+| [Girls in Wonderland](https://open.spotify.com/track/2V69C3QpJcYOjxG7s9NMGy) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 3:34 | 2025-05-30 | 2026-11-09 |
+| [Girls in Wonderland](https://open.spotify.com/track/7HUSmw2mmJO248tfV3kRgC) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 3:34 | 2026-11-09 |  |
 | [GO! GO! MANIAC](https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:11 | 2025-05-30 |  |
 | [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 | 2025-05-30 |  |
 | [Honey Sweet Tea Time](https://open.spotify.com/track/3QorgDH1Ki58nQi2Y5trem) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:12 | 2026-01-24 | 2026-02-03 |
-| [Ichiban Ippai](https://open.spotify.com/track/2DaJnL4Ft02CKChufZ0Zlt) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless! \(Standard Edition\)](https://open.spotify.com/album/4eBODZZwujpwz63E3L1D5W) | 4:10 | 2025-05-30 |  |
+| [Ichiban Ippai](https://open.spotify.com/track/2DaJnL4Ft02CKChufZ0Zlt) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless! \(Standard Edition\)](https://open.spotify.com/album/4eBODZZwujpwz63E3L1D5W) | 4:10 | 2025-05-30 | 2026-11-09 |
 | [Kirakira Days](https://open.spotify.com/track/3FbAbMs3dRcRnNuu73jqhN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!! Miracle \(From "K\-On!!\)](https://open.spotify.com/album/40G9iBvRwyHRUQUBdLpjoA) | 3:40 | 2025-05-30 |  |
 | [Listen!!](https://open.spotify.com/track/4qwo5Am3GVR17Dx1lq9R8Z) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!!](https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8) | 3:47 | 2026-11-05 |  |
 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 | 2025-05-30 | 2026-11-05 |
@@ -40,6 +42,7 @@
 | [U&I](https://open.spotify.com/track/5A0d3GnBCF8x4WJgvJhhgO) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:35 | 2025-05-30 |  |
 | [Unmei♪wa♪Endless!](https://open.spotify.com/track/0LoGJrS5kTRw9w1lQUiVPz) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 3:52 | 2025-05-30 |  |
 | [Utauyo!!MIRACLE](https://open.spotify.com/track/2JmZ0T4edkqdthYVlDuGxg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!!MIRACLE](https://open.spotify.com/album/67IFBceF1jRdBYhNLPhUng) | 4:02 | 2025-05-30 |  |
+| [いちばんいっぱい](https://open.spotify.com/track/6Ffx9tsy2pT4RsCmKhrKYN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 4:10 | 2026-11-09 |  |
 | [ごはんはおかず\(映画「けいおん!」Mix\)](https://open.spotify.com/track/7I09aPsWkBK4ncYG33iR4D) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 3:55 | 2025-05-30 |  |
 | [ぴゅあぴゅあはーと \(Instrumental\)](https://open.spotify.com/track/6zrbFzkDaOecue1ESzFm9R) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [ぴゅあぴゅあはーと](https://open.spotify.com/album/2LzFCGMIey8z63tAahxbhO) | 4:34 | 2025-05-30 | 2025-10-16 |
 | [ふでペン ～ボールペン～](https://open.spotify.com/track/1oFpFvv8VOWAItOOj88yLu) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:57 | 2026-10-27 |  |

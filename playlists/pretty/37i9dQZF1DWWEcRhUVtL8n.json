@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Sydney Ross Mitchell",
-  "num_followers": 1658807,
+  "num_followers": 1658760,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 240100,
-      "name": "maggots for brains",
-      "url": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Who's the Clown?",
         "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 170320,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "maggots for brains",
+      "url": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
         }
       ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
       },
       "artists": [
         {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Broken chair",
-        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 220677,
-      "name": "Broken chair",
-      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "hunting what we already killed",
         "url": "https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 226726,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -771,6 +771,38 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Pool Water Confessions",
+        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 206158,
+      "name": "Pool Water Confessions",
+      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
+        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "In Every Lifetime",
+      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
       },
@@ -807,34 +839,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
-        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
         }
       ],
-      "duration_ms": 203572,
-      "name": "In Every Lifetime",
-      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -851,22 +867,6 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Take It Off For You",
-        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
       },
       "artists": [
         {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 156540,
-      "name": "Take It Off For You",
-      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+      "duration_ms": 220608,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -967,34 +967,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
         }
       ],
-      "duration_ms": 220608,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1023,22 +1007,34 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "MINI SKIRT WARRIOR",
-        "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 202651,
-      "name": "girls will be girls (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+        "name": "MINI SKIRT WARRIOR",
+        "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 200874,
-      "name": "Blue Dream",
-      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
+      "duration_ms": 202651,
+      "name": "girls will be girls (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
       "added_at": "2026-10-17 20:26:26",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
       "added_at": "2026-10-23 04:40:19",
       "album": {
         "name": "Leave Me There",
@@ -1199,6 +1183,22 @@
       "duration_ms": 256538,
       "name": "Leave Me There",
       "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Shuteye",
-        "url": "https://open.spotify.com/album/6eNzaqs01BxZq3EAQR9b2B"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 206627,
-      "name": "Shuteye",
-      "url": "https://open.spotify.com/track/5HucDMZoey3DlT4jvofjuf"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Back in Love",
         "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Shuteye",
+        "url": "https://open.spotify.com/album/6eNzaqs01BxZq3EAQR9b2B"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "Shuteye",
+      "url": "https://open.spotify.com/track/5HucDMZoey3DlT4jvofjuf"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
     },
     {
-      "added_at": "2026-10-09 05:26:14",
-      "album": {
-        "name": "After the Fact (Deluxe)",
-        "url": "https://open.spotify.com/album/07jLvT3K1q3uUTy2OzU7uC"
-      },
-      "artists": [
-        {
-          "name": "Syd Taylor",
-          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
-        }
-      ],
-      "duration_ms": 177567,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Keep It To Yourself",
@@ -1347,6 +1331,22 @@
       "duration_ms": 257644,
       "name": "Keep It To Yourself",
       "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
+    },
+    {
+      "added_at": "2026-10-09 05:26:14",
+      "album": {
+        "name": "After the Fact (Deluxe)",
+        "url": "https://open.spotify.com/album/07jLvT3K1q3uUTy2OzU7uC"
+      },
+      "artists": [
+        {
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+        }
+      ],
+      "duration_ms": 177567,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
       "added_at": "2026-10-16 04:01:49",
       "album": {
         "name": "Pull Me Under",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "Fuck Without Feelings",
         "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 208555,
       "name": "Fuck Without Feelings",
       "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-10-23 04:02:09",
@@ -1459,6 +1443,22 @@
       "duration_ms": 161529,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-10-16 04:01:49",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "skin&skin",
-        "url": "https://open.spotify.com/album/4bVJDY7C2qddGv5STUxGw0"
-      },
-      "artists": [
-        {
-          "name": "Orca",
-          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
-        }
-      ],
-      "duration_ms": 217861,
-      "name": "skin&skin",
-      "url": "https://open.spotify.com/track/2bciYPaUeA8MhwRUjbad6L"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Nothing's Accidental",
         "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 199333,
       "name": "Nothing's Accidental",
       "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "skin&skin",
+        "url": "https://open.spotify.com/album/4bVJDY7C2qddGv5STUxGw0"
+      },
+      "artists": [
+        {
+          "name": "Orca",
+          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
+        }
+      ],
+      "duration_ms": 217861,
+      "name": "skin&skin",
+      "url": "https://open.spotify.com/track/2bciYPaUeA8MhwRUjbad6L"
     },
     {
       "added_at": "2026-10-09 04:02:47",

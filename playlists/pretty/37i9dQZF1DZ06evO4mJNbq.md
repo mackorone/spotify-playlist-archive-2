@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 13 | [All Girls Go to Heaven](https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:44 |
 | 14 | [Holy](https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:02 |
 | 15 | [Shut Up and Cry](https://open.spotify.com/track/0wtRqA9GmvxSpB7qSzPZYR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:15 |
-| 16 | [FINAL FANTASY](https://open.spotify.com/track/4GSjyUoFFasuGzk9t7yDid) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:45 |
+| 16 | [HARDCORE](https://open.spotify.com/track/2zGrEfUCdWwSD6eiVuecs5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:49 |
 | 17 | [Fight Like A Girl](https://open.spotify.com/track/5t1LF6dD7ZbdOaN6Tw1soD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:40 |
 | 18 | [Bloodstream](https://open.spotify.com/track/0oPCvCDccyPM8kXHR2Wnn8) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:31 |
-| 19 | [Hurt Me Harder](https://open.spotify.com/track/0e5ujfASLWVriqsZUGSD3i) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:00 |
-| 20 | [HARDCORE](https://open.spotify.com/track/2zGrEfUCdWwSD6eiVuecs5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:49 |
-| 21 | [U Remind Me](https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [U Remind Me](https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI) | 2:57 |
-| 22 | [Come Home With Me](https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:36 |
-| 23 | [Bedspell](https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:49 |
+| 19 | [U Remind Me](https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [U Remind Me](https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI) | 2:57 |
+| 20 | [FINAL FANTASY](https://open.spotify.com/track/4GSjyUoFFasuGzk9t7yDid) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:45 |
+| 21 | [Hurt Me Harder](https://open.spotify.com/track/0e5ujfASLWVriqsZUGSD3i) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:00 |
+| 22 | [Bedspell](https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:49 |
+| 23 | [Come Home With Me](https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:36 |
 | 24 | [VOODOO DOLL](https://open.spotify.com/track/5HtmXaNOjiMfHgagVVRsTZ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:26 |
 | 25 | [Queen of Hearts](https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 |
 | 26 | [Explosion](https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:30 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 45 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
 | 46 | [Remind Me](https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 4:04 |
 
-Snapshot ID: `au0YgAAAAAC2+p96aOtV+nnPG9M5QDyH`
+Snapshot ID: `au5qAAAAAAAg71aF9hOUoehM//Oxhzqu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 88398,
+  "num_followers": 88543,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAAnP/dcSfz/2qdlOHMaD5Ih",
+  "snapshot_id": "au0YgAAAAADPEmyHe61sGW5uYPXV0ZcZ",
   "tracks": [
     {
       "added_at": null,
@@ -206,27 +206,15 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Don't Come Any Closer",
-      "url": "https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
+        },
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 250413,
-      "name": "I Wish Grandpas Never Died",
-      "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
+      "duration_ms": 240166,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/2rQhRrfyLthEbpXtTACdvL"
     },
     {
       "added_at": null,
@@ -243,6 +231,22 @@
       "duration_ms": 166133,
       "name": "Hell Of A Way To Go",
       "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "I Wish Grandpas Never Died",
+      "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
     },
     {
       "added_at": null,
@@ -270,15 +274,11 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 240166,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/2rQhRrfyLthEbpXtTACdvL"
+      "duration_ms": 208400,
+      "name": "Don't Come Any Closer",
+      "url": "https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ"
     },
     {
       "added_at": null,
@@ -348,70 +348,6 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Ten Pairs Of Boots",
-      "url": "https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Georgia Time",
-        "url": "https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Georgia Time",
-      "url": "https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Hard To Leave",
-      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
       "duration_ms": 219673,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/7hHMy5mq9FwiEl4ka590KW"
@@ -435,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
         {
@@ -444,9 +380,57 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Damn Good Day To Leave",
-      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
+      "duration_ms": 215373,
+      "name": "Hard To Leave",
+      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Georgia Time",
+        "url": "https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Georgia Time",
+      "url": "https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Ten Pairs Of Boots",
+      "url": "https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Damn Good Day To Leave",
+      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "She Used to Be Mine (with Riley Green)",
-      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabama Vs. Tennessee",
         "url": "https://open.spotify.com/album/38tW98gcq2744sq33ksNYN"
       },
@@ -543,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 197333,
-      "name": "If It Wasn\u2019t For Trucks",
-      "url": "https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz"
+      "duration_ms": 221946,
+      "name": "She Used to Be Mine (with Riley Green)",
+      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "If It Wasn\u2019t For Trucks",
+      "url": "https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195228,
       "name": "They Don\u2019t Make 'Em Like That No More",
       "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2941,
+  "num_followers": 2943,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/403gawZsw405TxgN5LIuDp"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
         "url": "https://open.spotify.com/album/2RG13AEWo5I4OQaHuvtJ5N"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q"
+        "name": "oh well!",
+        "url": "https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
         }
       ],
-      "duration_ms": 184689,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/403gawZsw405TxgN5LIuDp"
+      "duration_ms": 189088,
+      "name": "oh well!",
+      "url": "https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -211,22 +227,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "oh well!",
-        "url": "https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "oh well!",
-      "url": "https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "THE ALLIGATOR",
         "url": "https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "MADE 4 THIS",
-        "url": "https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 165495,
-      "name": "MADE 4 THIS",
-      "url": "https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "no self respect!",
         "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 181828,
       "name": "no self respect!",
       "url": "https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "MADE 4 THIS",
+        "url": "https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 165495,
+      "name": "MADE 4 THIS",
+      "url": "https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Saisons",
-        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "Saisons",
-      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "hold me, don't hold back!",
         "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 142068,
       "name": "hold me!",
       "url": "https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Saisons",
+        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Saisons",
+      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "SOFTER",
-        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Black Cloud",
         "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "For Seasons: Love in a Time of War",
-        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
       },
       "artists": [
         {
-          "name": "Merna",
-          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 267250,
-      "name": "Four Seasons",
-      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -471,18 +455,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Le mauvais temps",
-        "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
+        "name": "For Seasons: Love in a Time of War",
+        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
       },
       "artists": [
         {
-          "name": "Marianne Beaulieu",
-          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+          "name": "Merna",
+          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Le mauvais temps",
-      "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
+      "duration_ms": 267250,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -499,6 +483,22 @@
       "duration_ms": 236624,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Le mauvais temps",
+        "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Le mauvais temps",
+      "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Light and Matter",
+        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "Make it Happen",
+      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Ladylike",
         "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 178374,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Southern Ontario Gothic",
+        "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "White Claw Addict",
+      "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -655,38 +687,6 @@
       "duration_ms": 152166,
       "name": "Atypical",
       "url": "https://open.spotify.com/track/3xFP682GYjttVzx4gL79T5"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Light and Matter",
-        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
-      },
-      "artists": [
-        {
-          "name": "Caroline Marie Brooks",
-          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "Make it Happen",
-      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Southern Ontario Gothic",
-        "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
-      },
-      "artists": [
-        {
-          "name": "Brat Star",
-          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "White Claw Addict",
-      "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
     },
     {
       "added_at": "2026-11-01 04:01:35",

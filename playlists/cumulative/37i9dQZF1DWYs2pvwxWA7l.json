@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Chella",
+  "description": "The hottest Afropop records on the planet.  Cover: Joeboy",
   "name": "Afropop",
   "tracks": [
     {
@@ -2386,6 +2386,24 @@
       "duration_ms": 210364,
       "name": "Body on Me",
       "url": "https://open.spotify.com/track/2QY6QCg5eIvolpRyxB9Idc"
+    },
+    {
+      "album": {
+        "name": "The Only Lover Boy Left (TOLBL)",
+        "url": "https://open.spotify.com/album/7fVMBx3ZTAZViAFSInMGJ0"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164971,
+      "name": "Bolonese",
+      "url": "https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD"
     },
     {
       "album": {
@@ -5459,6 +5477,28 @@
     },
     {
       "album": {
+        "name": "Ferawa",
+        "url": "https://open.spotify.com/album/1a53BwC3qZc8pVO2eb67tr"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149245,
+      "name": "Ferawa",
+      "url": "https://open.spotify.com/track/0N1DsTvTxWE6fjN1kjIOgh"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/70gNO57xq8Anipepibg32m"
       },
@@ -7944,7 +7984,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 149786,
       "name": "Intentions (feat. Urban Chords)",
       "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
@@ -13510,7 +13550,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 171428,
       "name": "POSITION",
       "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"

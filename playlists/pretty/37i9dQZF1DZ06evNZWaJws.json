@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 361394,
+  "num_followers": 361434,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABp4df17Bmfgfk/MxymWON6",
+  "snapshot_id": "au5qAAAAAAA0ZK8vAEM/gF+8/IMiwXZH",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Vivir De Noche",
         "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 215680,
       "name": "Me Gusta Vivir De Noche",
       "url": "https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164426,
-      "name": "Las Heladas",
-      "url": "https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Primera Plana",
         "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 225133,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/64VeKDD6z3P2UnDl8nphc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164426,
+      "name": "Las Heladas",
+      "url": "https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Mundo de Amor",
-      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Primera Plana",
         "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 185186,
       "name": "Gripa Colombiana",
       "url": "https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Mundo de Amor",
+      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "6 Pies Boca Abajo",
-      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Time Season Two \"Los Implacables\"",
         "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196226,
       "name": "Panchito El F1",
       "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "6 Pies Boca Abajo",
+      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
     },
     {
       "added_at": null,

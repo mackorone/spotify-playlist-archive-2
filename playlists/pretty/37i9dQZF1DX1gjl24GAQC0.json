@@ -1,6 +1,6 @@
 {
   "description": "Is it your bias K-Pop boy group? (Cover: P1Harmony) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 844918,
+  "num_followers": 844922,
   "original_name": "BIASBOYS",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Star Trace",
-      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
-    },
-    {
-      "added_at": "2026-11-06 08:06:38",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 194533,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE"
+    },
+    {
+      "added_at": "2026-11-06 08:06:38",
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
     },
     {
       "added_at": "2026-11-06 08:06:38",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-11-06 08:06:38",
-      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 221341,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-11-06 08:06:38",
@@ -599,6 +583,22 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
+    },
+    {
+      "added_at": "2026-11-06 08:06:38",
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "Sparkling Blue",
-        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "plot twist",
-      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
-    },
-    {
-      "added_at": "2026-11-06 08:06:38",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
+    },
+    {
+      "added_at": "2026-11-06 08:06:38",
+      "album": {
+        "name": "Sparkling Blue",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
       "added_at": "2026-11-06 08:06:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "4th MINI ALBUM [NEW WAV]",
-        "url": "https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP"
-    },
-    {
-      "added_at": "2026-11-06 08:06:38",
-      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "added_at": "2026-11-06 08:06:38",
+      "album": {
+        "name": "4th MINI ALBUM [NEW WAV]",
+        "url": "https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP"
     },
     {
       "added_at": "2026-11-06 08:06:38",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-11-06 08:06:38",
       "album": {
-        "name": "DOPAMINE - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA"
+        "name": "TO US",
+        "url": "https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Guitarist",
-      "url": "https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa"
+      "duration_ms": 158000,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z"
     },
     {
       "added_at": "2026-11-06 08:06:38",

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,420 songs - 3 day 15 hr 32 min
+1,421 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Drake](https://open.spotify.com/track/5tThXZ3ujCRFkTVo7AueDG) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:47 | 2021-08-16 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-13 |  |
 | [Drawn Away](https://open.spotify.com/track/3NipzSKSELraJND5tcVlGV) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:32 | 2025-04-22 |  |
+| [Dream Fatigue](https://open.spotify.com/track/6NBiQUXz3IRwuNy9X61AuF) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:09 | 2026-11-09 |  |
 | [Dreamin Of The Past \(feat\. Kanye West\)](https://open.spotify.com/track/3Wx98ijEDnsxyMYePCuFNI) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:53 | 2022-07-22 |  |
 | [DREAMS I SEE](https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [DREAMS I SEE](https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as) | 2:19 | 2024-07-11 |  |
 | [Drips on a Wire](https://open.spotify.com/track/2yqfvgPuKuPbCm2y1rJr0X) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:09 | 2022-03-04 |  |

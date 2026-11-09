@@ -1,6 +1,6 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1426597,
+  "num_followers": 1426488,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "Matchola - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 172779,
-      "name": "BARRIL DOBRADO - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
         "name": "Cartas Sobre a Mesa",
         "url": "https://open.spotify.com/album/4zhkOGD25y5jkRcZG3kLD7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 314146,
       "name": "Cartas Sobre a Mesa",
       "url": "https://open.spotify.com/track/7IF3waZCSl2q2ao7Jyu1Ze"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -315,6 +315,30 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 210000,
       "name": "Particular",
       "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -447,6 +447,30 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "MLK DOIDO",
+        "url": "https://open.spotify.com/album/562oXxAsAVd6hSKeLTPUXP"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "MLK DOIDO",
+      "url": "https://open.spotify.com/track/6zrNb0YZ22L83CL5kpUIKn"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "MLK DOIDO",
-        "url": "https://open.spotify.com/album/562oXxAsAVd6hSKeLTPUXP"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "MLK DOIDO",
-      "url": "https://open.spotify.com/track/6zrNb0YZ22L83CL5kpUIKn"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
         "name": "Depois Desse Show",
         "url": "https://open.spotify.com/album/0TUgdpPbD2eWUpzM5MHUQ5"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 133000,
       "name": "Depois Desse Show",
       "url": "https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -895,34 +895,6 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "GLA",
-        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "DJ Menor PR",
-          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -951,26 +923,30 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+        "name": "GLA",
+        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
       },
       "artists": [
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
         },
         {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "DJ Menor PR",
+          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
         }
       ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+      "duration_ms": 201904,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -995,6 +971,30 @@
       "duration_ms": 142677,
       "name": "VAI TOMANDO",
       "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -1063,6 +1063,34 @@
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
+        "name": "ALIBABA",
+        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "ALIBABA",
+      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -1199,38 +1227,6 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Trick",
-          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 181079,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
         "name": "BASE: Baile do Crocodilo",
         "url": "https://open.spotify.com/album/2ltEMEULKtwcnSjgMo2UZZ"
       },
@@ -1263,30 +1259,34 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
-        "name": "ALIBABA",
-        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
       },
       "artists": [
         {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         },
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+          "name": "Trick",
+          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
         },
         {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 160203,
-      "name": "ALIBABA",
-      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
+      "duration_ms": 181079,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
     },
     {
       "added_at": "2026-11-06 03:01:13",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-11-06 03:01:13",
       "album": {
+        "name": "Amor \u00c9 F*Da",
+        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Amor \u00c9 F*Da",
+      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
+    },
+    {
+      "added_at": "2026-11-06 03:01:13",
+      "album": {
         "name": "Deixa Isso pra L\u00e1",
         "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 240000,
       "name": "Deixa Isso pra L\u00e1",
       "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
-    },
-    {
-      "added_at": "2026-11-06 03:01:13",
-      "album": {
-        "name": "Amor \u00c9 F*Da",
-        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Amor \u00c9 F*Da",
-      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "added_at": "2026-11-06 03:01:13",

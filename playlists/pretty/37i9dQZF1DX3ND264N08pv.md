@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,542 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,558 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 16 | [The Last Spartan \- Dimitri K Remix](https://open.spotify.com/track/1uBNCbJKYpnQ9goNFtEV4s) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The Last Spartan \(Dimitri K Remix\)](https://open.spotify.com/album/6Yf7Qnv7gUjUePCpQrUJbL) | 3:23 |
 | 17 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
 | 18 | [Gathering Of Gods](https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Gathering Of Gods](https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4) | 2:08 |
-| 19 | [L.P.A.](https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [L.P.A.](https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq) | 2:31 |
+| 19 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
 | 20 | [FA TI CO](https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [FA TI CO](https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9) | 1:49 |
-| 21 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
+| 21 | [L.P.A.](https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [L.P.A.](https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq) | 2:31 |
 | 22 | [Our Rebirth](https://open.spotify.com/track/7sQac0UpatNuJCPo15GnBm) | [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV) | [Our Rebirth](https://open.spotify.com/album/5Q74UPvG65cYivPmCHHu3y) | 2:22 |
 | 23 | [Get Wrecked 2024 Tool \- Dimitri K Remix](https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Get Wrecked 2024 Tool \(Dimitri K Remix\)](https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo) | 1:29 |
 | 24 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |

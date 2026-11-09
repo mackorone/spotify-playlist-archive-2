@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19740,
+  "num_followers": 19743,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAADbOYpPGmQeH8e5OZLFe+JQ",
+  "snapshot_id": "au5qAAAAAACso0vJ1V6CJnBb+QwZdjg8",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128586,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Sh!t",
         "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 135133,
       "name": "Fly Sh!t",
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Land Of Nothing Real 2",
-        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
-      },
-      "artists": [
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 198670,
-      "name": "CUFFIN (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
     },
     {
       "added_at": null,
@@ -856,9 +836,45 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 128586,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of Nothing Real 2",
+        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 198670,
+      "name": "CUFFIN (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The One (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "The One (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,
@@ -879,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The One (Sprite Limelight)",
-        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
       "artists": [
         {
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 135733,
-      "name": "The One (Sprite Limelight)",
-      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
+      "duration_ms": 118280,
+      "name": "Phuck It",
+      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
     },
     {
       "added_at": null,
@@ -915,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 118280,
-      "name": "Phuck It",
-      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
       "duration_ms": 221016,
       "name": "Coke Bottle Body",
       "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,

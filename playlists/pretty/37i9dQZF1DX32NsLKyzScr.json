@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2583223,
+  "num_followers": 2583098,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 286406,
-      "name": "This Dream Of You",
-      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
         "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 194645,
       "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
       "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 286406,
+      "name": "This Dream Of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Caught Up",
-        "url": "https://open.spotify.com/album/4h8MJzl1FvwqLizmx8OuCA"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Caught Up",
-      "url": "https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4h8MJzl1FvwqLizmx8OuCA"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "World Away",
         "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Fight For Love",
-        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Kaitlin Aragon",
-          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Fight For Love",
-      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Beautiful Places",
         "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 179076,
       "name": "Beautiful Places",
       "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 184419,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
+      "duration_ms": 184419,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "No Way I'm Giving Up",
+        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 145964,
+      "name": "No Way I'm Giving Up",
+      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "Beauty In Us",
         "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
       },
@@ -1443,18 +1459,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "No Way I'm Giving Up",
-        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
       },
       "artists": [
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         }
       ],
-      "duration_ms": 145964,
-      "name": "No Way I'm Giving Up",
-      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
+      "duration_ms": 187384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1475,26 +1495,6 @@
       "duration_ms": 262297,
       "name": "run",
       "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "Roses (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "All My Life (feat. John Martin)",
         "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 172941,
       "name": "All My Life (feat. John Martin)",
       "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-10-23 04:00:50",

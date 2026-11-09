@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,262 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,267 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 18 | [A Beautiful Friendship](https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK) | [Alexis Cole](https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE), [Bucky Pizzarelli](https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq) | [A Beautiful Friendship](https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ) | 4:18 |
 | 19 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:16 |
 | 20 | [Blueberry Hill](https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Jay Bellerose](https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf), [David Piltch](https://open.spotify.com/artist/1TQUDJlw1hdjqsbDx2ROVS) | [Music from the Front Room](https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO) | 3:51 |
-| 21 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
-| 22 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
+| 21 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
+| 22 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
 | 23 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
 | 24 | [Japanese Folk Song](https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Straight, No Chaser](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) | 16:42 |
 | 25 | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 38 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
 | 39 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 40 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
-| 41 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
-| 42 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
+| 41 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
+| 42 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
 | 43 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
 | 44 | [Pennies from Heaven](https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I) | [Jeff Rupert](https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh), [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Let's Sail Away](https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD) | 4:43 |
 | 45 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:48 |

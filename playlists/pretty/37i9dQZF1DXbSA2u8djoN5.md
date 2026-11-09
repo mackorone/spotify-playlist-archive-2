@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Serotone, IRAIDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,744 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,759 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 40 | [TÂRZIU](https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [TÂRZIU](https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A) | 4:18 |
 | 41 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 42 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
-| 43 | [Auzeam, Gheorghe](https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql) | [Auzeam, Gheorghe](https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx) | 3:06 |
-| 44 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 43 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 44 | [Auzeam, Gheorghe](https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql) | [Auzeam, Gheorghe](https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx) | 3:06 |
 | 45 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 46 | [Kilian](https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Kilian](https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3) | 2:05 |
-| 47 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
-| 48 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
-| 49 | [Asta\-i Țara Mea](https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Vasile Advahov](https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn) | [Asta\-i Țara Mea](https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO) | 2:49 |
-| 50 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 |
+| 47 | [Îmi pasă până nu\-mi mai pasă](https://open.spotify.com/track/7G8lU0MR2PW7co59XRC5VB) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Olga Verbitchi](https://open.spotify.com/artist/6ix59NE6NtKnRyZ45N5RV4) | [Îmi pasă până nu\-mi mai pasă](https://open.spotify.com/album/5UR6KeCOEX1cZBegHCdw2Y) | 2:12 |
+| 48 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
+| 49 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
+| 50 | [Asta\-i Țara Mea](https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Vasile Advahov](https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn) | [Asta\-i Țara Mea](https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO) | 2:49 |
 
 Snapshot ID: `AAAAABdVs8R3/1N5mJDHUnsx3qOZqgO0`

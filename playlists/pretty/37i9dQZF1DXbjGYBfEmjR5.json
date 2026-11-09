@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 368281,
+  "num_followers": 368309,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DaFuture Is Now",
-        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
-      },
-      "artists": [
-        {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sunset On The Shore",
-      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "DaFuture Is Now",
+        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
+      },
+      "artists": [
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sunset On The Shore",
+      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Your Secrets",
-        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 240526,
-      "name": "Your Secrets",
-      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 173374,
       "name": "Why Future Funk ROCKED in '17",
       "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Your Secrets",
+        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 240526,
+      "name": "Your Secrets",
+      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Electroptysis",
-      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Untold",
-        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "\u4e2d\u5c71\u7f8e\u7a42 - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
         "url": "https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk"
       },
@@ -1351,18 +1319,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 221687,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Electroptysis",
+      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1379,6 +1363,22 @@
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
-      },
-      "artists": [
-        {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 202577,
       "name": "Get Up, Get Out",
       "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+      },
+      "artists": [
+        {
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
     },
     {
       "added_at": "2023-07-18 02:21:29",

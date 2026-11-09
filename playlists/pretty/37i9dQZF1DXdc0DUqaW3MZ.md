@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,207 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,208 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 26 | [Come Back Tomorrow](https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Come Back Tomorrow](https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO) | 3:22 |
 | 27 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:05 |
 | 28 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
-| 29 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
-| 30 | [Memory on the Run](https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Memory on the Run](https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS) | 3:42 |
+| 29 | [Memory on the Run](https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Memory on the Run](https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS) | 3:42 |
+| 30 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
 | 31 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 32 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 |
 | 33 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 66 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 67 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 68 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
-| 69 | [Good Day](https://open.spotify.com/track/7wmgtLsS8IpBCPHjFiVrd3) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Good Day](https://open.spotify.com/album/1yXoCYl6ztNwguaidTQy2Y) | 3:00 |
-| 70 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 69 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 70 | [Good Day](https://open.spotify.com/track/7wmgtLsS8IpBCPHjFiVrd3) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Good Day](https://open.spotify.com/album/1yXoCYl6ztNwguaidTQy2Y) | 3:00 |
 
 Snapshot ID: `AAAAAPBDPj4MQ5BU1mUFn3eWzFDVthHg`

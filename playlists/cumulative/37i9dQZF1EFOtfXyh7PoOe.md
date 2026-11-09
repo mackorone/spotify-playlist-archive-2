@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 11 min
+167 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Unconditional](https://open.spotify.com/track/2eern5ZoL2uaNrSY2M5htq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:32 | 2025-10-15 |  |
 | [Underwater](https://open.spotify.com/track/2Z67nk5utFiET8P1eDmS32) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 3:34 | 2025-11-13 |  |
 | [Ur so Cute](https://open.spotify.com/track/1Ek0cobqdxtZeFyszepTly) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Ur so Cute](https://open.spotify.com/album/34YQYSGf7GOqUi5ROHSQa8) | 2:10 | 2024-06-13 |  |
+| [Water](https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Water](https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu) | 3:04 | 2026-11-08 |  |
 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:26 | 2024-06-13 |  |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2025-01-07 |  |
 | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/track/0SDeRncYFKK7Q0taUn6KNk) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [The Blackout Crew](https://open.spotify.com/artist/2wM4w5wKzgAOBd0cDyBbsi) | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/album/4L55NyxwQbWNzerZaxhaZt) | 2:36 | 2025-01-09 | 2025-04-12 |

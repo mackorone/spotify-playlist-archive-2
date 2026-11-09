@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Olamide",
-  "num_followers": 240987,
+  "num_followers": 241066,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
         "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "MOTION SICKNESS",
-        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "MOTION SICKNESS (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 146054,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "MOTION SICKNESS",
+        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "BB Lifestyle",
-        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "BB Lifestyle",
-      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "BB Lifestyle",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "BB Lifestyle",
+      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "Agaba Romantic",
-        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 128316,
-      "name": "100 Meters",
-      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 144065,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 128316,
+      "name": "100 Meters",
+      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
     },
     {
       "added_at": "2026-10-23 00:01:30",

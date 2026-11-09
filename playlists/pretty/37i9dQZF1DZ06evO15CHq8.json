@@ -1,29 +1,13 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 683767,
+  "num_followers": 683786,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auvHAAAAAAA5UKmVB8rOiQtrHNXy4S8U",
+  "snapshot_id": "au5qAAAAAABRok9BW/FXX0Q10Rgq322y",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 126850,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 126850,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 144242,
-      "name": "Drugs/Hoes/Money/Etc.",
-      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill Yourself (Part IV)",
         "url": "https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 113972,
       "name": "Kill Yourself (Part IV)",
       "url": "https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7th or St. Tammany",
+        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 144242,
+      "name": "Drugs/Hoes/Money/Etc.",
+      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106971,
-      "name": "Putrid Pride",
-      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 133920,
       "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
       "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106971,
+      "name": "Putrid Pride",
+      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
     },
     {
       "added_at": null,

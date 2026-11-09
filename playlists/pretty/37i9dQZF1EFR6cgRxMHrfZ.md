@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 185 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 185 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,10 +188,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 178 | [Cut Me Off](https://open.spotify.com/track/4jlnuvbxYBgVu1wcpCcmQn) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Cut Me Off](https://open.spotify.com/album/7he8cULs30zZDGhfa8UaFn) | 2:57 |
 | 179 | [Friend](https://open.spotify.com/track/1LUh2ygumtrQm99JFySOce) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 2:53 |
 | 180 | [Glen](https://open.spotify.com/track/3bt4HoK3l5gEgQblfBGG4K) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:45 |
-| 181 | [How Did We Get Here? \(Intro\)](https://open.spotify.com/track/4v1V2pDnybZbxoyOkyciVc) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 0:37 |
-| 182 | [Baby](https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:36 |
+| 181 | [Baby](https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:36 |
+| 182 | [How Did We Get Here? \(Intro\)](https://open.spotify.com/track/4v1V2pDnybZbxoyOkyciVc) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 0:37 |
 | 183 | [How Did We Get Here? \(Outro\)](https://open.spotify.com/track/2SJMie4TdJoF9M1C6hl3LX) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 0:47 |
 | 184 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 185 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AchEGgAAAACsc3XkV0SK342NTpUfph6T`
+Snapshot ID: `AchJ9gAAAABT1xU9Tl5HMzuulw4TBnQr`

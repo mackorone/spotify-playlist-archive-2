@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-131 songs - 21 hr 21 min
+132 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,9 +120,10 @@
 | [Oro Seniwo](https://open.spotify.com/track/7qIMwsKySjDeuvBFeqPcbp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 2](https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95) | 3:08 | 2024-04-29 | 2025-09-20 |
 | [Oro Seniwo](https://open.spotify.com/track/3vUemmuJ93s1OpLTIJjyck) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [London La Wa Yi](https://open.spotify.com/album/7JHPgPkoFMQ59TzbZ9zX17) | 3:15 | 2026-10-02 |  |
 | [Osika Gbagbe Ola](https://open.spotify.com/track/7bAf39vK8TEzPk8h0MTaAA) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Osika Gbagbe Ola](https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3) | 20:42 | 2021-12-28 | 2023-05-03 |
-| [Ota Mi Dehin](https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:06 | 2021-12-28 |  |
+| [Ota Mi Dehin](https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:06 | 2021-12-28 | 2026-11-09 |
 | [Ota Mi Dehin](https://open.spotify.com/track/3sZwEtW7tzXNCmiEhq0keP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 19:06 | 2024-07-03 | 2026-09-19 |
 | [Ota Mi Dehin Lehin Mi Medley \(Part 1\)](https://open.spotify.com/track/2I10fPjb0qae4IMDVBs7gk) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ota Mi Dehin Lehin Mi](https://open.spotify.com/album/67vvBba9qbOa5L7pXttWy5) | 19:02 | 2021-12-28 | 2024-03-10 |
+| [Ota Mi Dehin Lehin Mi Medley \(Pt 1\)](https://open.spotify.com/track/1Ghrd3m2DnmjgaOjPlRaKt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Enia Lasan](https://open.spotify.com/album/0QskBrTVPqu1E5fC7CwIr1) | 19:02 | 2026-11-09 |  |
 | [Ota Mi Dehin Lehin Mi Medley, Pt\. 1](https://open.spotify.com/track/0Z3ZCyJjrswJejyDoMDKv8) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ota Mi Dehin Lehin Mi](https://open.spotify.com/album/56webEm3FC1etL0D7xwNN7) | 19:02 | 2024-03-09 | 2026-08-07 |
 | [Owolo Laiye Mo](https://open.spotify.com/track/3ZK6KFVAPvpgpYAR4YAkRy) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 3:03 | 2021-12-28 | 2026-09-02 |
 | [Palongo](https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 2:51 | 2021-12-28 | 2024-03-28 |

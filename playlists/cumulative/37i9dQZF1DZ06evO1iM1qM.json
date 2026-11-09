@@ -740,10 +740,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
+    },
+    {
+      "album": {
+        "name": "The Tiberi Tapes (Live)",
+        "url": "https://open.spotify.com/album/7MRyYR1eJoCftw6inMlFGz"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 822752,
+      "name": "Giant Steps - 226 bpm \u2013 Live from The Tiberi Tapes",
+      "url": "https://open.spotify.com/track/0oTTt5IwQVChM6X0Es2nV6"
     },
     {
       "album": {

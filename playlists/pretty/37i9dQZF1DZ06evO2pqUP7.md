@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,349 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,351 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [Costear \- Equipo Negro Remix](https://open.spotify.com/track/71mReylcyG7MfF1dqpVQEe) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [AMMUNATION](https://open.spotify.com/artist/1UrscYQay7QLyK3HTws7xS) | [Costear \(Equipo Negro Remix\)](https://open.spotify.com/album/58GTCQ17sVh9kAB6PgAIFl) | 8:56 |
 | 50 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
 
-Snapshot ID: `au0YgAAAAACshzRkSKsjZ2eQ8s4wF9Hk`
+Snapshot ID: `au5qAAAAAABDuiKHRnqYs6teIqXoZUlE`

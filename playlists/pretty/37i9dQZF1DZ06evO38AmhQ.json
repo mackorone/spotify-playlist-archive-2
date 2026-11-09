@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22693,
+  "num_followers": 22697,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAAD78IKY/bObIkIcR6J13bYz",
+  "snapshot_id": "au5qAAAAAACPDmkomKDmS3WuIK4s/DAR",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang Caf\u00e9",
-        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "The Truckies Wife",
-      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210253,
       "name": "Goodbye Blinky Bill",
       "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "The Truckies Wife",
+      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Hawkesbury River Lovin'",
-      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+      "duration_ms": 208560,
+      "name": "Hawkesbury River Lovin'",
+      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
     },
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Farts in Caravan Parks",
-        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
       "artists": [
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Old Farts in Caravan Parks",
-      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
+      "duration_ms": 126586,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
       },
       "artists": [
-        {
-          "name": "Adam Harvey",
-          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
-        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 126586,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+      "duration_ms": 234440,
+      "name": "Old Farts in Caravan Parks",
+      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Farts in Caravan Parks",
-        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "The Vasectomy Song",
-      "url": "https://open.spotify.com/track/1BELARDQLHoVfA0GuedJZn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Many Songs",
         "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165013,
       "name": "Beautiful Words (Come From You)",
       "url": "https://open.spotify.com/track/1JfTPxJEv6mF8t8e3qmRm9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "The Vasectomy Song",
+      "url": "https://open.spotify.com/track/1BELARDQLHoVfA0GuedJZn"
     }
   ],
   "unique_name": "This Is John Williamson",

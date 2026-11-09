@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-2,275 songs - 5 day 9 hr 0 min
+2,276 songs - 5 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [half alive](https://open.spotify.com/track/4impZnrNgbel1s7u5eV4lE) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [half alive](https://open.spotify.com/album/5mbI4LGBukyNORhfu4nrMC) | 3:13 | 2021-10-22 | 2022-06-09 |
 | [Halfway](https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Halfway](https://open.spotify.com/album/7dRTgpXhKLpFfL3suMrwep) | 3:33 | 2026-06-26 | 2026-07-18 |
 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-03-15 | 2024-05-03 |
+| [Hands Tied](https://open.spotify.com/track/7a7hhyTY8lO92eW3M2GJPF) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Hands Tied](https://open.spotify.com/album/0SA7BPPq03hz256PIrkoai) | 3:07 | 2026-11-08 |  |
 | [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 | 2023-10-13 | 2023-11-11 |
 | [Happy Anniversary \(To Being Lonely\)](https://open.spotify.com/track/1tWtxE1UiQRkX1yVVZ7KeL) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Happy Anniversary \(To Being Lonely\)](https://open.spotify.com/album/0yykwlrNLn2yAYfFHsbyCG) | 3:25 | 2023-05-05 | 2023-06-03 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-07 | 2025-05-24 |

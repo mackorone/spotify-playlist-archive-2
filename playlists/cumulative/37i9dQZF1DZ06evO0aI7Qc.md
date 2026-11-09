@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-242 songs - 12 hr 2 min
+243 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Mexicano Soy](https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mexicano Soy](https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY) | 2:32 | 2025-05-10 | 2025-11-16 |
 | [Mi Apá Es El De La M](https://open.spotify.com/track/7hzdMGOFclxcwewHmykdTm) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Apá Es El De La M](https://open.spotify.com/album/30dvj5FWvcvoieIdMvafc1) | 3:22 | 2024-06-02 | 2024-08-03 |
 | [Mi Momento](https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:42 | 2022-11-12 | 2025-06-01 |
-| [MI PROPIO JEFE](https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MI PROPIO JEFE](https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh) | 3:30 | 2025-09-28 |  |
+| [MI PROPIO JEFE](https://open.spotify.com/track/1mMMqwAlOZlADLdeool2zb) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MI PROPIO JEFE](https://open.spotify.com/album/2ATngdZDgJfsCcGZcN92Fe) | 3:30 | 2026-11-09 |  |
+| [MI PROPIO JEFE](https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MI PROPIO JEFE](https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh) | 3:30 | 2025-09-28 | 2026-11-09 |
 | [Mirada Perdida](https://open.spotify.com/track/3txrX72zGVKlqHG2uN5sb1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Adal](https://open.spotify.com/artist/035LjRuKfMDQ2Xtlb4gqB6) | [Mirada Perdida](https://open.spotify.com/album/36n71nRd3k3UyUsvzmt5qh) | 2:59 | 2025-01-29 | 2025-02-08 |
 | [Muchacha Guapa \(En Vivo\)](https://open.spotify.com/track/7gFeiAqPfuDTbJAxFKhWGR) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacha Guapa \(En Vivo\)](https://open.spotify.com/album/2DUzNKffl9x9jgogqjT9Q9) | 2:31 | 2023-10-01 | 2023-11-11 |
 | [Muchacho Alegre](https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G) | 3:08 | 2026-04-12 | 2026-04-24 |

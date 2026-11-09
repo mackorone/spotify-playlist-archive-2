@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,880 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,879 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 10 | [Vol avontuur](https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vol avontuur](https://open.spotify.com/album/1txxR6AhJym8skXydiLFci) | 2:30 |
 | 11 | [5 dagen weekend](https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:28 |
 | 12 | [Jodeladihee](https://open.spotify.com/track/0iptFvC3oCIivRvKpGe6bq) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:32 |
-| 13 | [Als een vis in het water](https://open.spotify.com/track/1HhtfeduR8K8QymbPVgSkt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Als een vis in het water](https://open.spotify.com/album/7GL6nTbVkC8jajJYPaxzKW) | 2:34 |
-| 14 | [Dansen in de regen](https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:50 |
+| 13 | [Dansen in de regen](https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:50 |
+| 14 | [Als een vis in het water](https://open.spotify.com/track/1HhtfeduR8K8QymbPVgSkt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Als een vis in het water](https://open.spotify.com/album/7GL6nTbVkC8jajJYPaxzKW) | 2:34 |
 | 15 | [Hupsakee!](https://open.spotify.com/track/7pXiqvF1YAmAGohFzpqXbM) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:55 |
 | 16 | [Groep 8](https://open.spotify.com/track/7N1VdrXDdc15XKzSkOd98v) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 3:08 |
 | 17 | [Wat is er met me aan de hand](https://open.spotify.com/track/7Fnt6DZNnB5LNzTg04g4H1) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:53 |
-| 18 | [Haai Alarm!](https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:03 |
-| 19 | [Op een eiland](https://open.spotify.com/track/0AZKztHONbLWNx94BRgOrK) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:12 |
+| 18 | [Op een eiland](https://open.spotify.com/track/0AZKztHONbLWNx94BRgOrK) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:12 |
+| 19 | [Haai Alarm!](https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:03 |
 | 20 | [Feestje](https://open.spotify.com/track/6vrF8kV5GU3X6Rr5Y4HoTb) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:49 |
 | 21 | [Giechel](https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:51 |
 | 22 | [ZiggZagg](https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [ZiggZagg](https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG) | 3:04 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 26 | [Geen kind alleen](https://open.spotify.com/track/0KCvN5nu4t5DrlDLIux2x0) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen kind alleen](https://open.spotify.com/album/1jAswSNcQDmlSf0kCHIjHK) | 3:00 |
 | 27 | [We are NXT](https://open.spotify.com/track/3zTm7TxioU0xLEahUA0eCQ) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [We are NXT](https://open.spotify.com/album/2StHqXOrd1WjZlKf69I9PD) | 2:26 |
 | 28 | [P.H.O.N.E\. \- NXT](https://open.spotify.com/track/4gLGJYN0XtBl2Bu7t58MoO) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [P.H.O.N.E\. \(NXT\)](https://open.spotify.com/album/547QuBDvUvzz1DCUW6MXHJ) | 2:20 |
-| 29 | [Geen cadeau](https://open.spotify.com/track/6DRniD5AnMwyKNBdjckOEc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen cadeau](https://open.spotify.com/album/1dQW4R7Kar3rP1Am6n5ZzW) | 2:41 |
-| 30 | [Ik voel het](https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:26 |
+| 29 | [Ik voel het](https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:26 |
+| 30 | [Geen cadeau](https://open.spotify.com/track/6DRniD5AnMwyKNBdjckOEc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen cadeau](https://open.spotify.com/album/1dQW4R7Kar3rP1Am6n5ZzW) | 2:41 |
 | 31 | [Samen alleen \- NXT](https://open.spotify.com/track/3hW3iRrYjo63Tj2faTc4rY) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Samen Alleen \(NXT\)](https://open.spotify.com/album/2iKOMx5q7TDQluXyceh3bF) | 2:50 |
 | 32 | [Gruwelijk Eng](https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:00 |
 | 33 | [Hardop dromen](https://open.spotify.com/track/2iBGVympAN7k2eOfX5yXQd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 49 | [Energie!](https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [36 \- Raar maar waar](https://open.spotify.com/album/1Fp3h5LG2zXGRb7UP9Xi6S) | 2:54 |
 | 50 | [Wakker Met Een Wijsje](https://open.spotify.com/track/5hxHyGZETHRbqwEvoR7YJc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [12 \- Kinderen voor Kinderen](https://open.spotify.com/album/7MnvsU1FVKBuPUqUDrjQg7) | 3:40 |
 
-Snapshot ID: `au0YgAAAAAC3AGxPvr7vLNQfLqnRSOJ4`
+Snapshot ID: `au5qAAAAAADvjyE6FaSI2T3DRnPsP9tp`

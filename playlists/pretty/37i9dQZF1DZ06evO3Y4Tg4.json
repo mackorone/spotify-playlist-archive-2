@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 278306,
+  "num_followers": 278337,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "au0YgAAAAABiUXaQipr4HuY4YzXvZoqV",
+  "snapshot_id": "au5qAAAAAAB7FOOj20AgnNhH+oZGnlYc",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 243883,
       "name": "Incredible Sauce (feat. Dave)",
       "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ends, Never Ends",
-        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Same Emotions (feat. Dave)",
-      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wamp 2 Dem",
         "url": "https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 260083,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ends, Never Ends",
+        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Same Emotions (feat. Dave)",
+      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
     },
     {
       "added_at": null,

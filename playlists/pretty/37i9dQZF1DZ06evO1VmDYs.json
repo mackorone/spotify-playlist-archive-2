@@ -1,6 +1,6 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 207222,
+  "num_followers": 207227,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "Raditude (Deluxe)",
+        "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 169293,
-      "name": "I've Had It Up To Here",
-      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
+      "duration_ms": 208773,
+      "name": "(If You're Wondering If I Want You To) I Want You To",
+      "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raditude (Deluxe)",
-        "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 208773,
-      "name": "(If You're Wondering If I Want You To) I Want You To",
-      "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
+      "duration_ms": 169293,
+      "name": "I've Had It Up To Here",
+      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
     },
     {
       "added_at": null,

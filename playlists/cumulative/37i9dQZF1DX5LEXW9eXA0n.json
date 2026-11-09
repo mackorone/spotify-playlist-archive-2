@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 246268,
       "name": "All You Left Me Was Your Scent",
       "url": "https://open.spotify.com/track/4bL1DnWYR2oSewP5ML4HHV"
@@ -19280,7 +19280,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 236000,
       "name": "No Words Can Say",
       "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
@@ -20106,7 +20106,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 220838,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/2z2lzx9VaFePE319fcwSAj"
@@ -20586,7 +20586,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 283839,
       "name": "Our Endgame",
       "url": "https://open.spotify.com/track/6gSx6Kx5jhsc1LBnwUFxxw"
@@ -24736,7 +24736,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 213000,
       "name": "Still Here, Still Us",
       "url": "https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot"
@@ -26354,7 +26354,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 280000,
       "name": "The Late Regret",
       "url": "https://open.spotify.com/track/7012G3S3ScPXTsVPpEcEFj"
@@ -27814,6 +27814,24 @@
       "duration_ms": 258920,
       "name": "To You My Light (2022)",
       "url": "https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs"
+    },
+    {
+      "album": {
+        "name": "To You, To Me, To N",
+        "url": "https://open.spotify.com/album/212xHLbAwCT1LgaqsrGybp"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "To You, To Me, To N",
+      "url": "https://open.spotify.com/track/5p8bAWozpUv1Q30UCEvTlU"
     },
     {
       "album": {

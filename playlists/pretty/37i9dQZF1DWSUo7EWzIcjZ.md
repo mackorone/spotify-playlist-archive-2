@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,776 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,769 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 52 | [Ya Te Olvide](https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Manuel, Solo Y Con Los Sabrosos Del Merengue](https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH) | 4:46 |
 | 53 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 54 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
-| 55 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
+| 55 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
 | 56 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |
 | 57 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
-| 58 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
+| 58 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
 | 59 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
 | 60 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
 | 61 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 79 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 80 | [Soy Dominicano](https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [La Cartita](https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD) | 4:51 |
 | 81 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
-| 82 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
-| 83 | [Ay Doctor](https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:02 |
+| 82 | [Ay Doctor](https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:02 |
+| 83 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 84 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 |
 | 85 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
 | 86 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |

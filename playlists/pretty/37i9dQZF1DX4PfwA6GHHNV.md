@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,573 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 18 | [OBSESIÓN](https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD) | [OBSESIÓN](https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr) | 3:49 |
 | 19 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
 | 20 | [Baile Em Chamas](https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [DJ 2L da Rocinha](https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP) | [Baile Em Chamas](https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV) | 2:53 |
-| 21 | [Mel na Sua Cara](https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |
-| 22 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
-| 23 | [PERSONAGEM](https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [BIA1B99](https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB) | 2:37 |
-| 24 | [Insana](https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [Insana](https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd) | 3:26 |
+| 21 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
+| 22 | [Mel na Sua Cara](https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |
+| 23 | [Insana](https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [Insana](https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd) | 3:26 |
+| 24 | [PERSONAGEM](https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [BIA1B99](https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB) | 2:37 |
 | 25 | [Meu Jeito De Amar](https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:49 |
 | 26 | [Só](https://open.spotify.com/track/46czY9226dZK0vH56kvJN3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:46 |
 | 27 | [Faz a Vibe](https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BREN9VE](https://open.spotify.com/artist/4IvMXMjqjqNk9z4I9WJKcy) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |

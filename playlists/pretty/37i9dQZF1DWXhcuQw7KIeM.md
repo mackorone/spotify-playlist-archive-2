@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,161 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,234 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,19 +20,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 10 | [Floki Appears to Kill Athelstan](https://open.spotify.com/track/5Z0GKdBhTmCsrIkM41DtRW) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE) | [The Vikings III \(Music from the TV Series\)](https://open.spotify.com/album/75Xg8NYCUQd131qcp1Q8Cd) | 3:11 |
 | 11 | [The Empire of Winds](https://open.spotify.com/track/2mg3b0qMy3z8aFZ08kT3U2) | [Alpine Universe](https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C) | [The Empire of Winds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yfCaNi6PU9euTYdQFAnjk) | 3:04 |
 | 12 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 |
-| 13 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
+| 13 | [Himinndotter](https://open.spotify.com/track/47PpNpNiLEOeSwkNFgTPxC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 5:37 |
 | 14 | [Himinbjǫrg](https://open.spotify.com/track/4o5NyYj7axrQGhDavfZ7Es) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Ørlǫg](https://open.spotify.com/album/7khrM45GDRvobbSNRQfRaA) | 4:22 |
 | 15 | [In Maidjan](https://open.spotify.com/track/4vy2YnIiU37OB7BonhYWgZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Lifa](https://open.spotify.com/album/5gUvVQFa8seLyMSuvOGC93) | 12:38 |
 | 16 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 |
-| 17 | [Himinndotter](https://open.spotify.com/track/47PpNpNiLEOeSwkNFgTPxC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 5:37 |
+| 17 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 18 | [Reida](https://open.spotify.com/track/72pSSwFywzACLPqVfycny6) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Reida](https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1) | 4:30 |
 | 19 | [Cycle of Misery](https://open.spotify.com/track/32CrKIZUgSy99h0VyPvZgl) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [Cycle of Misery](https://open.spotify.com/album/65lPiyRLLY1yl47lD8vdln) | 5:07 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
 | 22 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 |
 | 23 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
-| 24 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 |
-| 25 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
+| 24 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
+| 25 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 |
 | 26 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 27 | [Járnblóm](https://open.spotify.com/track/3YlCbbGrgghUeYeHH46K8M) | [Bjorth](https://open.spotify.com/artist/1KveHTXgPjylfrK3742EZu), [Munknörr](https://open.spotify.com/artist/1ggcmI8L0SRFmTvoAtrGcl) | [Járnblóm](https://open.spotify.com/album/6Sl0KFXURcIc7SBdaGjvVY) | 3:46 |
 | 28 | [Seolfren Sicol](https://open.spotify.com/track/5UCxeHvxT1ozBs9q7xzKwy) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Seolfren Sicol](https://open.spotify.com/album/4zrcdFU9pFSN6Pg9hy825H) | 3:42 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 36 | [Avalon](https://open.spotify.com/track/3tjdZcAXVu6tqmKBtshy4G) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 2:01 |
 | 37 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
 | 38 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
-| 39 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
-| 40 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
+| 39 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
+| 40 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
 | 41 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 |
 | 42 | [Hibjørnen](https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 3:02 |
 | 43 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 |
 | 44 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
-| 45 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
-| 46 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
+| 45 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
+| 46 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
 | 47 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
 | 48 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 49 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |

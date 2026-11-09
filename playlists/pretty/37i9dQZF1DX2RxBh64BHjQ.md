@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">PayGotti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,694,904 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,694,579 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 22 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |
 | 23 | [Play Games](https://open.spotify.com/track/2z7kKAuSvHX4I0bbNbnau2) | [Johnny Slime](https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu) | [Play Games](https://open.spotify.com/album/7vF7OqrSE1EIQsatveEBBF) | 2:15 |
 | 24 | [Geeked Shit \- remix](https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH) | [Luh Nae](https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Geeked Shit \(remix\)](https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y) | 2:45 |
-| 25 | [A Girl Is a Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is a Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 25 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 26 | [Which One](https://open.spotify.com/track/5Arf8kzR32ps4iebRsgVMr) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Which One](https://open.spotify.com/album/1cVYSRkTd7ftd81JjMFVxy) | 2:20 |
 | 27 | [Acting Like You Kanye](https://open.spotify.com/track/0a1SVxFIghCTo0TynJn2rG) | [Raud](https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7) | [Acting Like You Kanye](https://open.spotify.com/album/4feZSrwcYQmTxHcQWvEeYf) | 1:35 |
 | 28 | [gravity](https://open.spotify.com/track/1efVxjfWOprbyM9jpzRQK8) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [gravity](https://open.spotify.com/album/7qfJDBH0WTUEG8axt9jibZ) | 1:51 |

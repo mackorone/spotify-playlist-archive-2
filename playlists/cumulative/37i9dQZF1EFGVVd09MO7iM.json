@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -2384,10 +2384,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 224653,
       "name": "Boys (feat. Pharrell Williams) - Co-Ed Remix",
       "url": "https://open.spotify.com/track/2xkVbGwniUGIptJl7EhE0h"
+    },
+    {
+      "album": {
+        "name": "Britney (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Boys (The Co-Ed Remix)",
+      "url": "https://open.spotify.com/track/6UwuS0W3Cj2cGvvqN6c8fq"
     },
     {
       "album": {
@@ -5642,7 +5664,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
@@ -9100,7 +9122,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 182760,
       "name": "I Feel Everything - From \"Valerian and the City of a Thousand Planets\"",
       "url": "https://open.spotify.com/track/6lYoCY5aQoOzjYxqOJmNCX"
@@ -13404,6 +13426,24 @@
       "duration_ms": 205933,
       "name": "Murder Of A Teenage Life",
       "url": "https://open.spotify.com/track/2W4h3ojT69sSDRKuaLvaVo"
+    },
+    {
+      "album": {
+        "name": "Britney (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271253,
+      "name": "My Big Secret",
+      "url": "https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle"
     },
     {
       "album": {

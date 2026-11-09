@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -4414,6 +4414,24 @@
     {
       "album": {
         "name": "DESERVE",
+        "url": "https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
+    },
+    {
+      "album": {
+        "name": "DESERVE",
         "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
       },
       "artists": [
@@ -4424,7 +4442,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
@@ -7070,7 +7088,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 231535,
       "name": "Gimme Gimme",
       "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
@@ -10416,7 +10434,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 244018,
       "name": "Kong",
       "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
@@ -11345,6 +11363,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill (Alawn Remix Edition)",
+        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/2iuhTbBB9ITEko3xeW7Jcz"
+    },
+    {
+      "album": {
         "name": "Looks Can Kill",
         "url": "https://open.spotify.com/album/1yTYJgDctUC6GsbGQXYgV1"
       },
@@ -11374,7 +11410,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
@@ -15680,7 +15716,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -18618,7 +18654,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21136,7 +21172,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 191000,
       "name": "With",
       "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
@@ -21810,7 +21846,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 236574,
       "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
       "url": "https://open.spotify.com/track/13tIxAkljab9gj8spOmz9P"
@@ -24274,7 +24310,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 240000,
       "name": "\u56db",
       "url": "https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4"
@@ -25904,7 +25940,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 269118,
       "name": "\u61f7\u7591\u4eba\u751f",
       "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
@@ -27416,7 +27452,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 181619,
       "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
       "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
@@ -28076,7 +28112,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-09",
       "duration_ms": 227542,
       "name": "\u6d41\u6d6a\u661f\u7403",
       "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
@@ -28794,7 +28830,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 185040,
       "name": "\u73bb\u7483",
       "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
@@ -28986,7 +29022,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 256014,
       "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
       "url": "https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF"
@@ -30588,6 +30624,24 @@
       "duration_ms": 257320,
       "name": "\u8778\u725b",
       "url": "https://open.spotify.com/track/4zYVhAyiJySa41foU2F645"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/2xyPGbBIwwkGXNiWuHhs2m"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312906,
+      "name": "\u8857\u71c8\u665a\u9910",
+      "url": "https://open.spotify.com/track/7Fs5kXKd3zK1gbfjqk5Z4E"
     },
     {
       "album": {

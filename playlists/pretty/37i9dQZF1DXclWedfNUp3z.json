@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 283362,
+  "num_followers": 283394,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "RITUAL (nothing is lost)",
-        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "IFEELU",
+          "url": "https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s"
         }
       ],
-      "duration_ms": 195044,
-      "name": "RITUAL (nothing is lost)",
-      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
+      "duration_ms": 204705,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs"
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
       },
       "artists": [
         {
-          "name": "IFEELU",
-          "url": "https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx"
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "Changes in Air",
         "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 268051,
       "name": "Dissolving Clouds",
       "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Los Secretos De La Luz",
-        "url": "https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq"
-      },
-      "artists": [
-        {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
-        }
-      ],
-      "duration_ms": 648893,
-      "name": "El Viento Que No Sopla",
-      "url": "https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Eating 1+2",
         "url": "https://open.spotify.com/album/3ilPF0O3UM5BqZjc02cXVd"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "Los Secretos De La Luz",
+        "url": "https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 648893,
+      "name": "El Viento Que No Sopla",
+      "url": "https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "Greenhouse",
         "url": "https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Golden Pear",
         "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 199384,
       "name": "Wild Marionberries",
       "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Wake Me Softly",
         "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 270870,
       "name": "Wake Me Softly",
       "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "I Miss The Way You Swim",
+        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 584013,
+      "name": "I Miss The Way You Swim",
+      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "Pantano Lontano",
         "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 66061,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "I Miss The Way You Swim",
-        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 584013,
-      "name": "I Miss The Way You Swim",
-      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1483,18 +1463,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
       "artists": [
         {
-          "name": "Fredrik Jonasson",
-          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 260250,
-      "name": "Time Dilation",
-      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1515,6 +1499,22 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Jonasson",
+          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Time Dilation",
+      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
     },
     {
       "added_at": "2026-08-28 18:52:17",

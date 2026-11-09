@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 
 > This is Itzhak Perlman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,426 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,432 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 | 49 | [What'll I Do](https://open.spotify.com/track/0xrGgiMqZOOzsJVnsVjDT8) | [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [The Way We Were: My American Songbook](https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb) | 3:14 |
 | 50 | [Violin Sonata in F Major, K\. 547 "Für Anfänger": I\. Andantino cantabile](https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Mozart: The Violin Sonatas](https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu) | 5:56 |
 
-Snapshot ID: `au0YgAAAAAD795QgWmzBI24NnqODiiaM`
+Snapshot ID: `au5qAAAAAAB74tYHZVNZaWqZnjMPbAcz`

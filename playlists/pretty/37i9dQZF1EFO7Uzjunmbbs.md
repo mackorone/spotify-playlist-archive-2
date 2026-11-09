@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 112 | [In This Moment](https://open.spotify.com/track/7iPSolwRNIDbQXB5trVePD) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:50 |
 | 113 | [Better Because Of It](https://open.spotify.com/track/4zcYX4ZJfmyrL9ySSoNykW) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:00 |
 | 114 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
-| 115 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
-| 116 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 115 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 116 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
 | 117 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
 | 118 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
 | 119 | [New Salt](https://open.spotify.com/track/0G5f1pg9GN5FloOuiKx50b) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [New Salt](https://open.spotify.com/album/0vbqMLbvqvuBg3LfHltak2) | 3:30 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AchEGgAAAABRpO1mbFzRNrRYDW70G0lc`
+Snapshot ID: `AchJ9gAAAADjh6Mtx11ckekajn/vIBfA`

@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 224333,
+  "num_followers": 224343,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
         "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 120493,
       "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
       "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+        }
+      ],
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -987,30 +987,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
-        "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Metamorphose String Orchestra",
-          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
-        },
-        {
-          "name": "Pavel Lyubomudrov",
-          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
-      "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
+        "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
+      "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Gounod: Impromptu",
         "url": "https://open.spotify.com/album/2ZpYMxheUrlhxyzQT75AOg"
       },
@@ -1155,26 +1155,6 @@
       "duration_ms": 137440,
       "name": "Gounod: Impromptu",
       "url": "https://open.spotify.com/track/7EBnS9yjKaR9lPqYhjPRQi"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "See Siang Wong",
-          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1199,6 +1179,26 @@
       "duration_ms": 147120,
       "name": "Lo frate 'nnamorato: II. Andante",
       "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janine Jansen",
-          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
-        },
-        {
-          "name": "Klaus M\u00e4kel\u00e4",
-          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
-        }
-      ],
-      "duration_ms": 47760,
-      "name": "Water Drops, JS 216",
-      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 138040,
       "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
+        }
+      ],
+      "duration_ms": 47760,
+      "name": "Water Drops, JS 216",
+      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2091,6 +2091,30 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
+        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+        }
+      ],
+      "duration_ms": 455266,
+      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
+      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7cYqY5zDumcsuvv16XamHe"
       },
@@ -2151,30 +2175,6 @@
       "duration_ms": 358640,
       "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto (Arr. Barrios Mangor\u00e9 for Guitar)",
       "url": "https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
-        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Jan Mr\u00e1\u010dek",
-          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
-        }
-      ],
-      "duration_ms": 455266,
-      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
-      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
     },
     {
       "added_at": "2026-09-25 04:01:33",

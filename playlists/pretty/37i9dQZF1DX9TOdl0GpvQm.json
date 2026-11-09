@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 203894,
+  "num_followers": 203928,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Priests Of Hiroshima",
-        "url": "https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 161607,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 150299,
       "name": "(Something)",
       "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Priests Of Hiroshima",
+        "url": "https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 161607,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Wlfgrl",
-        "url": "https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3"
-      },
-      "artists": [
-        {
-          "name": "Machine Girl",
-          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "espial",
         "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 369765,
       "name": "Nexus On The Beach",
       "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Wlfgrl",
+        "url": "https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Hexerei im Zwielicht der Finsternis",
-        "url": "https://open.spotify.com/album/5AM3FhWnJTScyFpQnaSrdF"
+        "name": "Lutym",
+        "url": "https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E"
       },
       "artists": [
         {
-          "name": "Aghast",
-          "url": "https://open.spotify.com/artist/4QxZ1HbafIeGJ5vP3Z7mK1"
+          "name": "Wiktor Stribog",
+          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
         }
       ],
-      "duration_ms": 339760,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4QGTd1VAsRVOAZKqQViC7i"
+      "duration_ms": 64848,
+      "name": "Wichura",
+      "url": "https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Lutym",
-        "url": "https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E"
+        "name": "Hexerei im Zwielicht der Finsternis",
+        "url": "https://open.spotify.com/album/5AM3FhWnJTScyFpQnaSrdF"
       },
       "artists": [
         {
-          "name": "Wiktor Stribog",
-          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
+          "name": "Aghast",
+          "url": "https://open.spotify.com/artist/4QxZ1HbafIeGJ5vP3Z7mK1"
         }
       ],
-      "duration_ms": 64848,
-      "name": "Wichura",
-      "url": "https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS"
+      "duration_ms": 339760,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4QGTd1VAsRVOAZKqQViC7i"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Geleit ins Totenreich",
-        "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
-      },
-      "artists": [
-        {
-          "name": "Blod Besvimelse",
-          "url": "https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Ivory Tower II",
-      "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Philosopher of the Needle",
-        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
+        "name": "Geleit ins Totenreich",
+        "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
       },
       "artists": [
         {
-          "name": "Fester Witch",
-          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
+          "name": "Blod Besvimelse",
+          "url": "https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk"
         }
       ],
-      "duration_ms": 207445,
-      "name": "Intro Into Madness",
-      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
+      "duration_ms": 200493,
+      "name": "Ivory Tower II",
+      "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1015,6 +999,22 @@
       "duration_ms": 56666,
       "name": "Touched",
       "url": "https://open.spotify.com/track/1I63q5aYjoyai9CI8QXDrn"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Philosopher of the Needle",
+        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
+      },
+      "artists": [
+        {
+          "name": "Fester Witch",
+          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "Intro Into Madness",
+      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Poradnik U\u015bmiechu (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Stribog",
+          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
+        }
+      ],
+      "duration_ms": 429250,
+      "name": "Nowe Przebudzenie",
+      "url": "https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Halloween III: Complete Original Motion Picture Score",
         "url": "https://open.spotify.com/album/10nXp7CzkrCbAtuCO8aWtm"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Poradnik U\u015bmiechu (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Stribog",
-          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
-        }
-      ],
-      "duration_ms": 429250,
-      "name": "Nowe Przebudzenie",
-      "url": "https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Across The Meridian",
         "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Flight of the Raven",
-      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1235,6 +1219,22 @@
       "duration_ms": 168126,
       "name": "November Sequence",
       "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Flight of the Raven",
+      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "S\u00e9ance at Hobs Lane",
-        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
-      },
-      "artists": [
-        {
-          "name": "Mount Vernon Arts Lab",
-          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "The Black Drop",
-      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Endless Echo",
         "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 272173,
       "name": "Decision Point",
       "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "S\u00e9ance at Hobs Lane",
+        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
+      },
+      "artists": [
+        {
+          "name": "Mount Vernon Arts Lab",
+          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "The Black Drop",
+      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
-      },
-      "artists": [
-        {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Film",
         "url": "https://open.spotify.com/album/3bisZXEstO6o68aMTsCVUS"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 211299,
       "name": "Ozone Scraper",
       "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "The Silver Threshold",
+        "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
+      },
+      "artists": [
+        {
+          "name": "hackedepicciotto",
+          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "The Silver Threshold",
+      "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "The Gone Away",
         "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
@@ -1591,42 +1607,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Silver Threshold",
-        "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
-      },
-      "artists": [
-        {
-          "name": "hackedepicciotto",
-          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "The Silver Threshold",
-      "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mitch",
-          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
-        },
-        {
-          "name": "Social State",
-          "url": "https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3"
-        }
-      ],
-      "duration_ms": 296479,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 281414,
       "name": "Cloud Control",
       "url": "https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mitch",
+          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
+        },
+        {
+          "name": "Social State",
+          "url": "https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3"
+        }
+      ],
+      "duration_ms": 296479,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
     },
     {
       "added_at": "2025-11-14 17:00:34",
